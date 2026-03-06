@@ -1018,12 +1018,4 @@ tr:hover td{background:var(--surface2)}
   font-size: 13px;
 }
 
-/* ===== NAV SEARCH BTN with text ===== */
-.nav-search-btn{
-  padding:0 16px;height:100%;min-width:80px;
-  background:var(--blue);color:white;
-  font-size:13px;font-weight:700;
-  display:flex;align-items:center;gap:6px;
-  transition:background 150ms;flex-shrink:0;
-}
-.nav-search-btn:hover{background:#1d4ed8}
+/* nav-search-btn styles defined above */

@@ -510,29 +510,82 @@ function updateStats() {
 
 /* ── Coupon Popup ── */
 function initCoupon() {
+  const modal = $('#couponModal');
+  if (!modal) return;
   if (!SITE.coupon.enabled) return;
-  const shown = sessionStorage.getItem('rt_coupon_shown');
-  if (shown) return;
-  
-  setTimeout(() => {
-    const popup = document.createElement('div');
-    popup.className = 'coupon-popup';
-    popup.innerHTML = `
-      <div class="coupon-box">
-        <button class="coupon-close" onclick="this.parentElement.parentElement.remove()">✕</button>
-        <div class="coupon-icon">🎉</div>
-        <h3>${esc(SITE.coupon.title)}</h3>
-        <p>${esc(SITE.coupon.message)}</p>
-        <div class="coupon-code">
-          <span id="couponCode">${esc(SITE.inviteCode)}</span>
-          <button onclick="navigator.clipboard.writeText('${esc(SITE.inviteCode)}').then(()=>toast('Code copied!'))">Copy</button>
-        </div>
-        <a href="${esc(SITE.coupon.url)}" target="_blank" class="coupon-btn">${esc(SITE.coupon.button)}</a>
-      </div>
-    `;
-    document.body.appendChild(popup);
-    sessionStorage.setItem('rt_coupon_shown', '1');
-  }, 2000);
+  const dismissed = localStorage.getItem('rt_coupon_dismissed');
+  if (dismissed) return;
+
+  const titleEl = $('#couponTitle');
+  const msgEl = $('#couponMessage');
+  const codeEl = $('#couponCode');
+  if (titleEl) titleEl.textContent = SITE.coupon.title;
+  if (msgEl) msgEl.textContent = SITE.coupon.message;
+  if (codeEl) codeEl.textContent = SITE.inviteCode;
+
+  const closeModal = () => { modal.classList.remove('active'); };
+
+  const closeBtn = $('#couponClose');
+  if (closeBtn) closeBtn.addEventListener('click', closeModal);
+
+  const copyBtn = $('#copyCodeBtn');
+  if (copyBtn) copyBtn.addEventListener('click', () => {
+    navigator.clipboard?.writeText(SITE.inviteCode).then(() => toast('Code copied!')).catch(() => {});
+  });
+
+  const goBtn = $('#couponGo');
+  if (goBtn) goBtn.addEventListener('click', () => { window.open(SITE.coupon.url, '_blank'); closeModal(); });
+
+  const dismissBtn = $('#couponDismiss');
+  if (dismissBtn) dismissBtn.addEventListener('click', () => { localStorage.setItem('rt_coupon_dismissed', '1'); closeModal(); });
+
+  modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
+
+  setTimeout(() => { modal.classList.add('active'); }, 1500);
+}
+
+/* ── Currency Selector ── */
+function initCurrency() {
+  const btn = $('#currencyBtn');
+  const modal = $('#currencyModal');
+  if (!btn || !modal) return;
+
+  btn.addEventListener('click', () => modal.classList.add('active'));
+
+  const closeBtn = $('#currencyClose');
+  if (closeBtn) closeBtn.addEventListener('click', () => modal.classList.remove('active'));
+
+  modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.remove('active'); });
+
+  document.querySelectorAll('.curr-opt').forEach(opt => {
+    opt.classList.toggle('active', opt.dataset.code === activeCurrency);
+    opt.addEventListener('click', () => {
+      setActiveCurrency(opt.dataset.code);
+      modal.classList.remove('active');
+    });
+  });
+}
+
+/* ── Profile Button ── */
+function initProfile() {
+  const btn = $('#profileBtn');
+  if (!btn) return;
+  btn.addEventListener('click', () => { window.location.href = 'profile.html'; });
+}
+
+/* ── Search ── */
+function initSearch() {
+  const input = $('#searchInput');
+  const btn = document.querySelector('.nav-search-btn');
+  if (!input) return;
+
+  const doSearch = () => {
+    const q = input.value.trim();
+    if (q) window.location.href = 'catalogue.html?q=' + encodeURIComponent(q);
+  };
+
+  input.addEventListener('keydown', (e) => { if (e.key === 'Enter') doSearch(); });
+  if (btn) btn.addEventListener('click', doSearch);
 }
 
 /* ── BOOT ── */
