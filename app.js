@@ -513,6 +513,41 @@ function initNav() {
   document.querySelectorAll('#currencyLabel').forEach(el=>el.textContent=activeCurrency);
 }
 
+/* ── Update Stats ── */
+function updateStats() {
+  const statProducts = document.getElementById('statProducts');
+  const statSellers = document.getElementById('statSellers');
+  if (statProducts) statProducts.textContent = PRODUCTS.length;
+  if (statSellers) statSellers.textContent = SELLERS.length;
+}
+
+/* ── Coupon Popup ── */
+function initCoupon() {
+  if (!SITE.coupon.enabled) return;
+  const shown = sessionStorage.getItem('rt_coupon_shown');
+  if (shown) return;
+  
+  setTimeout(() => {
+    const popup = document.createElement('div');
+    popup.className = 'coupon-popup';
+    popup.innerHTML = `
+      <div class="coupon-box">
+        <button class="coupon-close" onclick="this.parentElement.parentElement.remove()">✕</button>
+        <div class="coupon-icon">🎉</div>
+        <h3>${esc(SITE.coupon.title)}</h3>
+        <p>${esc(SITE.coupon.message)}</p>
+        <div class="coupon-code">
+          <span id="couponCode">${esc(SITE.inviteCode)}</span>
+          <button onclick="navigator.clipboard.writeText('${esc(SITE.inviteCode)}').then(()=>toast('Code copied!'))">Copy</button>
+        </div>
+        <a href="${esc(SITE.coupon.url)}" target="_blank" class="coupon-btn">${esc(SITE.coupon.button)}</a>
+      </div>
+    `;
+    document.body.appendChild(popup);
+    sessionStorage.setItem('rt_coupon_shown', '1');
+  }, 2000);
+}
+
 /* ── BOOT ── */
 document.addEventListener('DOMContentLoaded', async ()=>{
   await loadData();
