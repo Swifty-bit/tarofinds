@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Profile</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="profile">
+
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input type="search" placeholder="Search…" autocomplete="off" />
+      <button class="nav-search-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      </button>
+    </div>
+    <div class="nav-right">
+      <button class="profile-btn" id="profileBtn"><div class="p-avatar">👤</div><span>Profile</span></button>
+    </div>
+  </nav>
+
+  <div class="page">
+
+    <div class="profile-hero">
+      <div class="pa-lg">👤</div>
+      <div class="profile-info">
+        <h2>Guest User</h2>
+        <p>Sign in to sync saved sellers, favourites, and order history.</p>
+      </div>
+      <div style="margin-left:auto;display:flex;gap:8px">
+        <button class="btn" style="background:white;color:var(--blue);font-weight:700" onclick="toast('Login coming soon!')">Login</button>
+        <button class="btn" style="background:rgba(255,255,255,0.15);color:white;border:1px solid rgba(255,255,255,0.3);font-weight:700" onclick="window.open('https://m.litbuy.com/pages/register/index?inviteCode=REPTARO','_blank')">Register</button>
+      </div>
+    </div>
+
+    <div class="admin-grid">
+
+      <div class="card">
+        <div class="card-header"><h2>Preferences</h2><span class="badge">Local</span></div>
+        <div class="card-body">
+          <div style="display:flex;flex-direction:column;gap:0">
+            <div class="toggle-row">
+              <div><div class="toggle-label">Show Featured First</div><div class="toggle-sub">Pin featured products to top of catalogue</div></div>
+              <div class="s-toggle on" onclick="this.classList.toggle('on');toast('Preference saved')"></div>
+            </div>
+            <div class="toggle-row">
+              <div><div class="toggle-label">Compact View</div><div class="toggle-sub">Smaller product cards in catalogue</div></div>
+              <div class="s-toggle" onclick="this.classList.toggle('on');toast('Preference saved')"></div>
+            </div>
+            <div class="toggle-row">
+              <div><div class="toggle-label">Show Coupon on Load</div><div class="toggle-sub">Display the welcome coupon on visit</div></div>
+              <div class="s-toggle on" id="couponPref" onclick="this.classList.toggle('on');localStorage.removeItem('rt_hide_coupon_v2');toast('Coupon preference saved')"></div>
+            </div>
+            <div class="toggle-row">
+              <div><div class="toggle-label">Email Updates</div><div class="toggle-sub">Notify me of new products and deals</div></div>
+              <div class="s-toggle" onclick="this.classList.toggle('on');toast('Email preference saved')"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header"><h2>Saved Items</h2><span class="badge">0 saved</span></div>
+        <div class="card-body">
+          <div style="text-align:center;padding:30px 0;color:var(--muted)">
+            <div style="font-size:36px;margin-bottom:12px">💾</div>
+            <div style="font-size:14px;font-weight:600">No saved items yet</div>
+            <div style="font-size:12px;margin-top:4px">Browse the catalogue and save items you like.</div>
+            <a href="catalogue.html" class="btn btn-primary btn-sm" style="display:inline-flex;margin-top:14px">Browse Catalogue</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header"><h2>Order History</h2></div>
+        <div class="card-body">
+          <div style="text-align:center;padding:30px 0;color:var(--muted)">
+            <div style="font-size:36px;margin-bottom:12px">📦</div>
+            <div style="font-size:14px;font-weight:600">No orders yet</div>
+            <div style="font-size:12px;margin-top:4px">Sign in and place your first order to see history here.</div>
+            <button class="btn btn-primary btn-sm" style="margin-top:14px" onclick="window.open('https://m.litbuy.com/pages/register/index?inviteCode=REPTARO','_blank')">Register on LitBuy</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header"><h2>Invite Friends</h2></div>
+        <div class="card-body">
+          <p style="font-size:13px;color:var(--muted);margin-bottom:14px">Share your invite code and earn rewards for every person who joins.</p>
+          <div style="display:flex;gap:8px;align-items:center">
+            <div style="flex:1;padding:10px 14px;background:var(--blue-light);border:1px dashed var(--blue-mid);border-radius:10px;font-family:monospace;font-size:15px;font-weight:700;letter-spacing:0.08em;color:var(--blue)">REPTARO</div>
+            <button class="btn btn-primary" onclick="navigator.clipboard?.writeText('REPTARO');toast('Invite code copied! 🎉')">Copy</button>
+          </div>
+          <div style="margin-top:10px;display:flex;gap:8px">
+            <button class="btn btn-ghost btn-sm" onclick="toast('Share link copied!')">Copy Link</button>
+            <button class="btn btn-ghost btn-sm" onclick="toast('Opening LitBuy…');window.open('https://m.litbuy.com/pages/register/index?inviteCode=REPTARO','_blank')">Open Registration</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <nav class="bottom-nav">
+    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Best Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
+    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+  </nav>
+
+  <div id="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>

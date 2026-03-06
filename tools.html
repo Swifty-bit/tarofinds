@@ -1,0 +1,471 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Tools</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="tools">
+
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input type="search" placeholder="Search tools…" autocomplete="off" />
+      <button class="nav-search-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        Search
+      </button>
+    </div>
+    <div class="nav-right">
+      <button class="currency-btn" id="currencyBtn">
+        <span id="currencyLabel">CNY</span>
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+      <button class="profile-btn" id="profileBtn"><div class="p-avatar">👤</div><span>Profile</span></button>
+    </div>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <div><h1>Tools</h1><div class="sub">Calculators, converters, and rep buyer utilities</div></div>
+    </div>
+
+    <div class="tools-grid">
+
+      <!-- LINK CONVERTER -->
+      <div class="tool-card">
+        <h3><span class="t-icon">🔗</span>Link Converter</h3>
+        <p>Convert Weidian or Taobao links to LitBuy agent format instantly.</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <input class="input-field" id="linkInput" placeholder="Paste Weidian / Taobao / 1688 link…" />
+          <div style="display:flex;gap:8px">
+            <button class="btn btn-primary" onclick="convertLink()">Convert</button>
+            <select class="input-field" id="linkAgent" style="flex:none;width:auto;padding:0 10px;height:38px">
+              <option value="litbuy">LitBuy</option>
+              <option value="pandabuy">Pandabuy</option>
+              <option value="sugargoo">Sugargoo</option>
+            </select>
+            <button class="btn btn-ghost" onclick="document.getElementById('linkInput').value='';document.getElementById('linkOutput').value=''">Clear</button>
+          </div>
+          <div style="position:relative">
+            <input class="input-field" id="linkOutput" placeholder="Converted link appears here…" readonly onclick="this.select()" style="padding-right:80px" />
+            <button class="btn btn-primary" onclick="copyLink()" style="position:absolute;right:4px;top:50%;transform:translateY(-50%);padding:4px 10px;font-size:11px">Copy</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- CURRENCY CONVERTER -->
+      <div class="tool-card">
+        <h3><span class="t-icon">💱</span>Currency Converter</h3>
+        <p>Convert between currencies. Rates are approximate — check live rates for accuracy.</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <div style="display:flex;gap:8px;align-items:center">
+            <input class="input-field" id="convAmount" style="flex:1" placeholder="Amount" type="number" min="0" step="0.01" value="100" />
+            <select class="input-field" id="convFrom" style="flex:none;width:90px;padding:0 8px">
+              <option value="CNY">CNY ¥</option>
+              <option value="USD">USD $</option>
+              <option value="GBP">GBP £</option>
+              <option value="EUR">EUR €</option>
+              <option value="AUD">AUD A$</option>
+              <option value="CAD">CAD C$</option>
+              <option value="JPY">JPY ¥</option>
+            </select>
+            <span style="color:var(--muted);font-weight:700;font-size:18px">→</span>
+            <select class="input-field" id="convTo" style="flex:none;width:90px;padding:0 8px">
+              <option value="GBP">GBP £</option>
+              <option value="USD">USD $</option>
+              <option value="CNY">CNY ¥</option>
+              <option value="EUR">EUR €</option>
+              <option value="AUD">AUD A$</option>
+              <option value="CAD">CAD C$</option>
+            </select>
+          </div>
+          <button class="btn btn-primary" onclick="convertCurrency()" style="align-self:flex-start">Convert</button>
+          <div id="convResult" style="padding:10px;background:var(--blue-light);border-radius:var(--r);font-weight:700;color:var(--blue);display:none"></div>
+        </div>
+      </div>
+
+      <!-- TOTAL COST CALCULATOR -->
+      <div class="tool-card">
+        <h3><span class="t-icon">🧮</span>Total Cost Calculator</h3>
+        <p>Work out your true total cost including agent fees, shipping, and customs.</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+            <div>
+              <label style="font-size:11px;color:var(--muted);font-weight:600;display:block;margin-bottom:4px">Item price (CNY ¥)</label>
+              <input class="input-field" id="calcItem" type="number" placeholder="e.g. 280" value="280" />
+            </div>
+            <div>
+              <label style="font-size:11px;color:var(--muted);font-weight:600;display:block;margin-bottom:4px">Agent fee %</label>
+              <input class="input-field" id="calcAgentFee" type="number" placeholder="0–5" value="0" min="0" max="20" />
+            </div>
+            <div>
+              <label style="font-size:11px;color:var(--muted);font-weight:600;display:block;margin-bottom:4px">Dom. shipping (CNY ¥)</label>
+              <input class="input-field" id="calcDomShip" type="number" placeholder="e.g. 15" value="0" />
+            </div>
+            <div>
+              <label style="font-size:11px;color:var(--muted);font-weight:600;display:block;margin-bottom:4px">Intl. shipping (CNY ¥)</label>
+              <input class="input-field" id="calcIntlShip" type="number" placeholder="e.g. 150" value="150" />
+            </div>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center">
+            <select class="input-field" id="calcDisplayCurr" style="flex:none;width:auto;padding:0 10px">
+              <option value="CNY">Show in CNY ¥</option>
+              <option value="GBP" selected>Show in GBP £</option>
+              <option value="USD">Show in USD $</option>
+              <option value="EUR">Show in EUR €</option>
+            </select>
+            <button class="btn btn-primary" onclick="calcTotal()">Calculate</button>
+          </div>
+          <div id="calcResult" style="display:none;padding:12px;background:var(--surface2);border-radius:var(--r);font-size:13px;display:none"></div>
+        </div>
+      </div>
+
+      <!-- SHIPPING ESTIMATE -->
+      <div class="tool-card">
+        <h3><span class="t-icon">✈️</span>Shipping Estimator</h3>
+        <p>Estimate shipping cost by destination and package weight.</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <select class="input-field" id="shipRegion">
+            <option>United Kingdom</option>
+            <option>United States</option>
+            <option>Canada</option>
+            <option>Australia</option>
+            <option>Germany</option>
+            <option>France</option>
+            <option>Netherlands</option>
+            <option>Spain</option>
+            <option>Italy</option>
+            <option>Singapore</option>
+            <option>Japan</option>
+          </select>
+          <div style="display:flex;gap:8px">
+            <input class="input-field" id="shipWeight" placeholder="Weight (kg)" type="number" min="0" step="0.1" value="0.5" />
+            <select class="input-field" id="shipMethod">
+              <option value="standard">Standard Line</option>
+              <option value="ems">EMS</option>
+              <option value="dhl">DHL/FedEx Express</option>
+            </select>
+          </div>
+          <button class="btn btn-primary" onclick="estimateShipping()" style="align-self:flex-start">Estimate</button>
+          <div id="shipResult" style="display:none;padding:12px;background:var(--blue-light);border-radius:var(--r);font-size:13px"></div>
+        </div>
+      </div>
+
+      <!-- QC CHECKLIST -->
+      <div class="tool-card" style="grid-column:1/-1">
+        <h3><span class="t-icon">✅</span>QC Checklist</h3>
+        <p>Use this checklist when reviewing QC photos from your agent. Tick each item before approving.</p>
+        <div id="qcChecklist" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;margin-top:8px"></div>
+        <div style="display:flex;gap:8px;margin-top:12px;align-items:center">
+          <button class="btn btn-ghost btn-sm" onclick="resetChecklist()">Reset</button>
+          <span id="qcScore" style="font-size:13px;font-weight:700;color:var(--muted)"></span>
+          <div id="qcVerdict" style="font-size:13px;font-weight:700;display:none"></div>
+        </div>
+      </div>
+
+      <!-- SIZE CONVERTER -->
+      <div class="tool-card">
+        <h3><span class="t-icon">📏</span>Shoe Size Converter</h3>
+        <p>Convert between US, UK, EU, and Chinese shoe sizes.</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <div style="display:flex;gap:8px">
+            <input class="input-field" id="sizeInput" type="number" placeholder="Your size" step="0.5" min="3" max="15" value="9" style="flex:1" />
+            <select class="input-field" id="sizeFrom" style="flex:none;width:80px;padding:0 8px">
+              <option value="us">US</option>
+              <option value="uk">UK</option>
+              <option value="eu">EU</option>
+            </select>
+          </div>
+          <button class="btn btn-primary" onclick="convertSize()" style="align-self:flex-start">Convert</button>
+          <div id="sizeResult" style="display:none;padding:12px;background:var(--surface2);border-radius:var(--r)"></div>
+        </div>
+      </div>
+
+      <!-- WEIGHT CALCULATOR -->
+      <div class="tool-card">
+        <h3><span class="t-icon">⚖️</span>Package Weight Guide</h3>
+        <p>Estimate the weight of your order for shipping calculation.</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <div id="weightItems" style="display:flex;flex-direction:column;gap:6px">
+            <div class="weight-row" style="display:flex;gap:6px;align-items:center">
+              <select class="input-field" style="flex:1;font-size:12px">
+                <option value="0.35">T-Shirt (~350g)</option>
+                <option value="0.6">Hoodie (~600g)</option>
+                <option value="1.2">Jacket (~1.2kg)</option>
+                <option value="0.9">Shoes pair (~900g)</option>
+                <option value="0.2">Accessories (~200g)</option>
+                <option value="0.3">Electronics (~300g)</option>
+              </select>
+              <input class="input-field" type="number" min="1" value="1" style="width:60px;flex:none" placeholder="Qty" />
+              <button class="btn btn-ghost" onclick="this.closest('.weight-row').remove();calcWeight()" style="padding:0 8px;font-size:16px;height:38px">×</button>
+            </div>
+          </div>
+          <div style="display:flex;gap:8px">
+            <button class="btn btn-ghost btn-sm" onclick="addWeightRow()">+ Add item</button>
+            <button class="btn btn-primary btn-sm" onclick="calcWeight()">Calculate</button>
+          </div>
+          <div id="weightResult" style="font-size:13px;font-weight:700;color:var(--blue)"></div>
+        </div>
+      </div>
+
+      <!-- QUICK LINKS -->
+      <div class="tool-card">
+        <h3><span class="t-icon">⚡</span>Quick Links</h3>
+        <p>Frequently used external resources for rep buyers.</p>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+          <a href="https://m.litbuy.com/pages/register/index?inviteCode=REPTARO" target="_blank" class="btn btn-primary btn-sm" style="text-align:center">LitBuy Register</a>
+          <a href="https://www.pandabuy.com" target="_blank" class="btn btn-ghost btn-sm" style="text-align:center">Pandabuy</a>
+          <a href="https://www.sugargoo.com" target="_blank" class="btn btn-ghost btn-sm" style="text-align:center">Sugargoo</a>
+          <a href="https://www.17track.net" target="_blank" class="btn btn-ghost btn-sm" style="text-align:center">17track</a>
+          <a href="https://www.reddit.com/r/DesignerReps" target="_blank" class="btn btn-ghost btn-sm" style="text-align:center">r/DesignerReps</a>
+          <a href="https://reparchive.com" target="_blank" class="btn btn-ghost btn-sm" style="text-align:center">RepArchive</a>
+          <a href="catalogue.html" class="btn btn-ghost btn-sm" style="text-align:center">Catalogue</a>
+          <a href="sellers.html" class="btn btn-ghost btn-sm" style="text-align:center">Sellers</a>
+        </div>
+      </div>
+
+      <!-- INVITE CODE -->
+      <div class="tool-card">
+        <h3><span class="t-icon">🎁</span>Invite Code</h3>
+        <p>Use this code when registering on LitBuy to unlock discounts.</p>
+        <div style="display:flex;gap:8px;align-items:center">
+          <div style="flex:1;padding:12px 16px;background:var(--blue-light);border:1px dashed var(--blue-mid);border-radius:10px;font-family:monospace;font-size:18px;font-weight:700;letter-spacing:0.08em;color:var(--blue)">REPTARO</div>
+          <button class="btn btn-primary" onclick="navigator.clipboard?.writeText('REPTARO');toast('Invite code copied! 🎉')">Copy</button>
+        </div>
+        <div style="margin-top:8px;font-size:12px;color:var(--muted)">Enter this code at registration for bonus account credit.</div>
+      </div>
+
+    </div>
+  </div>
+
+  <nav class="bottom-nav">
+    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
+    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item active" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+  </nav>
+
+  <div class="modal-backdrop" id="currencyModal">
+    <div class="modal-box">
+      <div class="modal-head"><h3>Select Currency</h3><button class="modal-x" id="currencyClose">✕</button></div>
+      <div class="modal-body">
+        <div class="currency-grid">
+          <div class="curr-opt" data-code="CNY"><div class="curr-code">CNY</div><div class="curr-name">Chinese Yuan ¥</div></div>
+          <div class="curr-opt" data-code="USD"><div class="curr-code">USD</div><div class="curr-name">US Dollar $</div></div>
+          <div class="curr-opt" data-code="GBP"><div class="curr-code">GBP</div><div class="curr-name">British Pound £</div></div>
+          <div class="curr-opt" data-code="EUR"><div class="curr-code">EUR</div><div class="curr-name">Euro €</div></div>
+          <div class="curr-opt" data-code="AUD"><div class="curr-code">AUD</div><div class="curr-name">Australian Dollar</div></div>
+          <div class="curr-opt" data-code="CAD"><div class="curr-code">CAD</div><div class="curr-name">Canadian Dollar</div></div>
+          <div class="curr-opt" data-code="JPY"><div class="curr-code">JPY</div><div class="curr-name">Japanese Yen</div></div>
+          <div class="curr-opt" data-code="SGD"><div class="curr-code">SGD</div><div class="curr-name">Singapore Dollar</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast"></div>
+  <script src="app.js"></script>
+  <script>
+    /* ── Currency rates (must match app.js) ── */
+    const TR = { CNY:1, USD:0.138, GBP:0.109, EUR:0.127, AUD:0.214, CAD:0.188, JPY:20.9, SGD:0.185 };
+    const TS = { CNY:'¥', USD:'$', GBP:'£', EUR:'€', AUD:'A$', CAD:'C$', JPY:'¥', SGD:'S$' };
+    function fmtC(cny, code){ return `${TS[code]||'¥'}${(cny*(TR[code]||1)).toFixed(2)}`; }
+
+    /* ── Link Converter ── */
+    const AGENT_BASES = {
+      litbuy: { weidian:'https://m.litbuy.com/product/weidian/', taobao:'https://m.litbuy.com/product/taobao/', suffix:'?inviteCode=REPTARO' },
+      pandabuy: { weidian:'https://www.pandabuy.com/product?url=https://weidian.com/item.html%3FitemID=', taobao:'https://www.pandabuy.com/product?url=https://item.taobao.com/item.htm%3Fid=', suffix:'' },
+      sugargoo: { weidian:'https://www.sugargoo.com/#/home/productDetail?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D', taobao:'', suffix:'' },
+    };
+    function convertLink() {
+      const raw = document.getElementById('linkInput').value.trim();
+      const agent = document.getElementById('linkAgent').value;
+      const base = AGENT_BASES[agent];
+      if (!raw) { toast('Paste a link first'); return; }
+      let out = raw;
+      if (raw.includes('weidian.com')) {
+        const id = raw.match(/itemID=(\d+)/)?.[1];
+        if (id) out = base.weidian + id + base.suffix;
+      } else if (raw.includes('taobao.com')) {
+        const id = raw.match(/[?&]id=(\d+)/)?.[1];
+        if (id) out = base.taobao + id + base.suffix;
+      } else if (raw.includes('1688.com')) {
+        const id = raw.match(/offer\/(\d+)/)?.[1];
+        if (id) out = `https://m.litbuy.com/product/1688/${id}?inviteCode=REPTARO`;
+      } else if (/^\d{8,}$/.test(raw)) {
+        out = `${base.weidian}${raw}${base.suffix}`;
+      }
+      document.getElementById('linkOutput').value = out;
+      toast('Link converted!');
+    }
+    function copyLink() {
+      const val = document.getElementById('linkOutput').value;
+      if (!val) { toast('Convert a link first'); return; }
+      navigator.clipboard?.writeText(val).catch(()=>{});
+      toast('Link copied to clipboard! 📋');
+    }
+
+    /* ── Currency Converter ── */
+    function convertCurrency() {
+      const amount = parseFloat(document.getElementById('convAmount').value);
+      if (isNaN(amount) || amount <= 0) { toast('Enter a valid amount'); return; }
+      const fromCode = document.getElementById('convFrom').value;
+      const toCode = document.getElementById('convTo').value;
+      const inCNY = amount / TR[fromCode];
+      const result = inCNY * TR[toCode];
+      const el = document.getElementById('convResult');
+      el.textContent = `${TS[fromCode]}${amount.toFixed(2)} ${fromCode} = ${TS[toCode]}${result.toFixed(2)} ${toCode}`;
+      el.style.display = 'block';
+    }
+
+    /* ── Total Cost Calculator ── */
+    function calcTotal() {
+      const item = parseFloat(document.getElementById('calcItem').value) || 0;
+      const agentFee = parseFloat(document.getElementById('calcAgentFee').value) || 0;
+      const domShip = parseFloat(document.getElementById('calcDomShip').value) || 0;
+      const intlShip = parseFloat(document.getElementById('calcIntlShip').value) || 0;
+      const dispCurr = document.getElementById('calcDisplayCurr').value;
+      const agentFeeAmt = item * (agentFee / 100);
+      const totalCNY = item + agentFeeAmt + domShip + intlShip;
+      const el = document.getElementById('calcResult');
+      el.style.display = 'block';
+      el.innerHTML = `
+        <table style="width:100%;border-collapse:collapse;font-size:12px">
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:4px 0;color:var(--muted)">Item price</td><td style="text-align:right;font-weight:700">${fmtC(item,dispCurr)}</td></tr>
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:4px 0;color:var(--muted)">Agent fee (${agentFee}%)</td><td style="text-align:right;font-weight:700">${fmtC(agentFeeAmt,dispCurr)}</td></tr>
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:4px 0;color:var(--muted)">Domestic shipping</td><td style="text-align:right;font-weight:700">${fmtC(domShip,dispCurr)}</td></tr>
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:4px 0;color:var(--muted)">International shipping</td><td style="text-align:right;font-weight:700">${fmtC(intlShip,dispCurr)}</td></tr>
+          <tr><td style="padding:6px 0;font-weight:800;font-size:14px">Total</td><td style="text-align:right;font-weight:800;font-size:14px;color:var(--blue)">${fmtC(totalCNY,dispCurr)}</td></tr>
+        </table>`;
+    }
+
+    /* ── Shipping Estimator ── */
+    function estimateShipping() {
+      const region = document.getElementById('shipRegion').value;
+      const kg = parseFloat(document.getElementById('shipWeight').value) || 0;
+      const method = document.getElementById('shipMethod').value;
+      const baseCNY = { 'United Kingdom':65,'United States':85,'Canada':95,'Australia':100,'Germany':70,'France':70,'Netherlands':70,'Spain':70,'Italy':70,'Singapore':55,'Japan':55 };
+      const methodMult = { standard:1, ems:1.4, dhl:2.2 };
+      const methodTime = { standard:'3–5 weeks', ems:'2–3 weeks', dhl:'7–14 days' };
+      const baseCost = (baseCNY[region] || 80) * (methodMult[method] || 1);
+      const totalCNY = baseCost + kg * 25;
+      const el = document.getElementById('shipResult');
+      el.style.display = 'block';
+      el.innerHTML = `
+        <div style="font-weight:700;font-size:14px;color:var(--blue);margin-bottom:4px">~¥${totalCNY.toFixed(0)} CNY (~${fmtC(totalCNY,'GBP')} GBP / ${fmtC(totalCNY,'USD')} USD)</div>
+        <div style="color:var(--muted)">Method: ${document.getElementById('shipMethod').options[document.getElementById('shipMethod').selectedIndex].text} · Est. ${methodTime[method]} · ${kg}kg</div>
+        <div style="color:var(--muted);font-size:11px;margin-top:4px">⚠️ Estimates only — actual rates vary by agent and package dimensions.</div>`;
+    }
+
+    /* ── QC Checklist ── */
+    const QC_ITEMS = [
+      'Overall shape & proportions correct',
+      'Logo placement & size accurate',
+      'Logo font & text quality',
+      'Stitching quality — no loose threads',
+      'Stitching pattern — matches reference',
+      'Colour matches product photos',
+      'No visible stains or marks',
+      'Tag placement & text correct',
+      'Sole shape (for shoes)',
+      'Lace holes alignment (for shoes)',
+      'Box and packaging present',
+      'Box label details correct',
+      'Size label matches ordered size',
+    ];
+    function buildChecklist() {
+      document.getElementById('qcChecklist').innerHTML = QC_ITEMS.map((item, i) => `
+        <label class="qc-item" onclick="updateScore()">
+          <input type="checkbox" id="qc-${i}" />
+          <span class="qc-check">✓</span>
+          <span style="font-size:12px">${item}</span>
+        </label>`).join('');
+      updateScore();
+    }
+    function updateScore() {
+      const total = QC_ITEMS.length;
+      const checked = document.querySelectorAll('#qcChecklist input:checked').length;
+      const pct = Math.round((checked / total) * 100);
+      document.getElementById('qcScore').textContent = `${checked}/${total} checked (${pct}%)`;
+      const verdict = document.getElementById('qcVerdict');
+      if (checked < 3) { verdict.style.display='none'; return; }
+      verdict.style.display = 'block';
+      if (pct >= 90) verdict.innerHTML = '<span style="color:var(--green)">✅ Looking good — safe to approve</span>';
+      else if (pct >= 70) verdict.innerHTML = '<span style="color:var(--yellow)">⚠️ Review carefully before approving</span>';
+      else verdict.innerHTML = '<span style="color:var(--red)">🚨 Multiple issues — consider raising a dispute</span>';
+    }
+    function resetChecklist() {
+      document.querySelectorAll('#qcChecklist input').forEach(cb => cb.checked = false);
+      updateScore();
+    }
+    buildChecklist();
+
+    /* ── Shoe Size Converter ── */
+    const SIZE_TABLE = [
+      { us:6,  uk:5.5, eu:39 }, { us:6.5, uk:6,   eu:39.5 }, { us:7,   uk:6,   eu:40 },
+      { us:7.5, uk:6.5, eu:40.5 }, { us:8,   uk:7,   eu:41 }, { us:8.5, uk:7.5, eu:41.5 },
+      { us:9,   uk:8,   eu:42 }, { us:9.5, uk:8.5, eu:42.5 }, { us:10,  uk:9,   eu:43 },
+      { us:10.5, uk:9.5, eu:43.5 }, { us:11, uk:10,  eu:44 }, { us:11.5, uk:10.5, eu:44.5 },
+      { us:12,  uk:11,  eu:45 }, { us:13,  uk:12,  eu:46 }, { us:14,  uk:13,  eu:47 },
+    ];
+    function convertSize() {
+      const val = parseFloat(document.getElementById('sizeInput').value);
+      const from = document.getElementById('sizeFrom').value;
+      const match = SIZE_TABLE.find(r => r[from] === val) || SIZE_TABLE.reduce((best, r) => Math.abs(r[from]-val) < Math.abs(best[from]-val) ? r : best, SIZE_TABLE[0]);
+      const el = document.getElementById('sizeResult');
+      el.style.display = 'block';
+      el.innerHTML = `
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;text-align:center">
+          <div style="padding:8px;background:${from==='us'?'var(--blue-light)':'var(--surface)' };border-radius:8px;border:1px solid ${from==='us'?'var(--blue-mid)':'var(--line)'}"><div style="font-size:18px;font-weight:800">${match.us}</div><div style="font-size:11px;color:var(--muted)">US</div></div>
+          <div style="padding:8px;background:${from==='uk'?'var(--blue-light)':'var(--surface)'};border-radius:8px;border:1px solid ${from==='uk'?'var(--blue-mid)':'var(--line)'}"><div style="font-size:18px;font-weight:800">${match.uk}</div><div style="font-size:11px;color:var(--muted)">UK</div></div>
+          <div style="padding:8px;background:${from==='eu'?'var(--blue-light)':'var(--surface)'};border-radius:8px;border:1px solid ${from==='eu'?'var(--blue-mid)':'var(--line)'}"><div style="font-size:18px;font-weight:800">${match.eu}</div><div style="font-size:11px;color:var(--muted)">EU</div></div>
+        </div>`;
+    }
+
+    /* ── Weight Calculator ── */
+    function addWeightRow() {
+      const row = document.createElement('div');
+      row.className = 'weight-row';
+      row.style.cssText = 'display:flex;gap:6px;align-items:center';
+      row.innerHTML = `
+        <select class="input-field" style="flex:1;font-size:12px">
+          <option value="0.35">T-Shirt (~350g)</option>
+          <option value="0.6">Hoodie (~600g)</option>
+          <option value="1.2">Jacket (~1.2kg)</option>
+          <option value="0.9">Shoes pair (~900g)</option>
+          <option value="0.2">Accessories (~200g)</option>
+          <option value="0.3">Electronics (~300g)</option>
+        </select>
+        <input class="input-field" type="number" min="1" value="1" style="width:60px;flex:none" placeholder="Qty" />
+        <button class="btn btn-ghost" onclick="this.closest('.weight-row').remove();calcWeight()" style="padding:0 8px;font-size:16px;height:38px">×</button>`;
+      document.getElementById('weightItems').appendChild(row);
+    }
+    function calcWeight() {
+      let total = 0;
+      document.querySelectorAll('.weight-row').forEach(row => {
+        const sel = row.querySelector('select');
+        const qty = parseInt(row.querySelector('input')?.value) || 1;
+        total += parseFloat(sel?.value || 0) * qty;
+      });
+      document.getElementById('weightResult').textContent = `Total: ~${total.toFixed(2)}kg — approx. shipping ${fmtC(total*25 + 65, 'GBP')} GBP (standard, UK)`;
+    }
+  </script>
+  <style>
+    .qc-item{display:flex;align-items:center;gap:8px;padding:8px 10px;border:1px solid var(--line);border-radius:var(--r);cursor:pointer;background:var(--surface2);transition:all 150ms;user-select:none}
+    .qc-item:has(input:checked){background:var(--green-light);border-color:rgba(16,185,129,0.25)}
+    .qc-item input{display:none}
+    .qc-check{width:18px;height:18px;border-radius:4px;border:2px solid var(--muted);display:flex;align-items:center;justify-content:center;font-size:10px;color:transparent;flex-shrink:0;transition:all 150ms}
+    .qc-item:has(input:checked) .qc-check{background:var(--green);border-color:var(--green);color:white}
+  </style>
+</body>
+</html>

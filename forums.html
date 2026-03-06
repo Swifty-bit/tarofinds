@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Forums</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="forums">
+
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input id="forumSearchInput" type="search" placeholder="Search forum posts…" autocomplete="off" />
+      <button class="nav-search-btn" onclick="filterPosts()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        Search
+      </button>
+    </div>
+    <div class="nav-right">
+      <button class="profile-btn" id="profileBtn"><div class="p-avatar">👤</div><span>Profile</span></button>
+    </div>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <div><h1>Forums</h1><div class="sub">Community discussion — share hauls, ask questions, help others</div></div>
+      <button class="btn btn-primary" onclick="document.getElementById('newPostModal').classList.add('active')">+ New Post</button>
+    </div>
+
+    <!-- Category tabs -->
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <button class="filter-chip active" data-fcat="all" onclick="setForumCat('all',this)">All Posts</button>
+      <button class="filter-chip" data-fcat="Hauls" onclick="setForumCat('Hauls',this)">🛍 Hauls</button>
+      <button class="filter-chip" data-fcat="Reviews" onclick="setForumCat('Reviews',this)">⭐ Reviews</button>
+      <button class="filter-chip" data-fcat="Guides" onclick="setForumCat('Guides',this)">📖 Guides</button>
+      <button class="filter-chip" data-fcat="Payments" onclick="setForumCat('Payments',this)">💳 Payments</button>
+      <button class="filter-chip" data-fcat="Shipping" onclick="setForumCat('Shipping',this)">📦 Shipping</button>
+      <button class="filter-chip" data-fcat="Agents" onclick="setForumCat('Agents',this)">🤝 Agents</button>
+      <button class="filter-chip" data-fcat="General" onclick="setForumCat('General',this)">💬 General</button>
+    </div>
+
+    <div class="main-grid">
+      <!-- Posts list -->
+      <div>
+        <div class="card">
+          <div class="card-header"><h2>Recent Posts</h2><span class="badge" id="postCount">0 posts</span></div>
+          <div id="forumPostsList" style="display:flex;flex-direction:column"></div>
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div style="display:flex;flex-direction:column;gap:16px">
+        <!-- Community stats -->
+        <div class="card">
+          <div class="card-header"><h2>Community</h2></div>
+          <div class="card-body" style="display:flex;flex-direction:column;gap:10px">
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+              <div style="padding:10px;background:var(--surface2);border-radius:var(--r);text-align:center">
+                <div style="font-size:18px;font-weight:800;color:var(--blue)" id="totalPostCount">—</div>
+                <div style="font-size:11px;color:var(--muted);font-weight:600">Total Posts</div>
+              </div>
+              <div style="padding:10px;background:var(--surface2);border-radius:var(--r);text-align:center">
+                <div style="font-size:18px;font-weight:800;color:var(--green)">247</div>
+                <div style="font-size:11px;color:var(--muted);font-weight:600">Members</div>
+              </div>
+            </div>
+            <div style="padding:10px;background:var(--green-light);border-radius:var(--r);border:1px solid rgba(16,185,129,0.2);font-size:12px;font-weight:600;color:var(--green)">
+              🟢 Community is active
+            </div>
+          </div>
+        </div>
+
+        <!-- Rules -->
+        <div class="card">
+          <div class="card-header"><h2>Rules</h2></div>
+          <div class="card-body" style="display:flex;flex-direction:column;gap:8px;font-size:12px">
+            <div style="display:flex;gap:8px"><span>1️⃣</span><span>Be respectful to all members</span></div>
+            <div style="display:flex;gap:8px"><span>2️⃣</span><span>No scamming or price gouging</span></div>
+            <div style="display:flex;gap:8px"><span>3️⃣</span><span>Use the correct category for posts</span></div>
+            <div style="display:flex;gap:8px"><span>4️⃣</span><span>No sharing of personal seller info</span></div>
+            <div style="display:flex;gap:8px"><span>5️⃣</span><span>Keep discussions relevant to reps</span></div>
+          </div>
+        </div>
+
+        <!-- Hot topics -->
+        <div class="card">
+          <div class="card-header"><h2>🔥 Hot Topics</h2></div>
+          <div class="card-body" style="display:flex;flex-direction:column;gap:8px">
+            <a href="#" onclick="event.preventDefault()" style="font-size:12px;font-weight:600;color:var(--blue);display:block;padding:6px 0;border-bottom:1px solid var(--line)">LitBuy vs Pandabuy 2026 comparison</a>
+            <a href="#" onclick="event.preventDefault()" style="font-size:12px;font-weight:600;color:var(--blue);display:block;padding:6px 0;border-bottom:1px solid var(--line)">Best Nike shoe sellers right now?</a>
+            <a href="#" onclick="event.preventDefault()" style="font-size:12px;font-weight:600;color:var(--blue);display:block;padding:6px 0;border-bottom:1px solid var(--line)">Customs guide for UK buyers</a>
+            <a href="#" onclick="event.preventDefault()" style="font-size:12px;font-weight:600;color:var(--blue);display:block;padding:6px 0">New Moncler batch spotted at Koala</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- New Post Modal -->
+  <div class="modal-backdrop" id="newPostModal">
+    <div class="modal-box" style="max-width:520px">
+      <div class="modal-head"><h3>New Post</h3><button class="modal-x" onclick="document.getElementById('newPostModal').classList.remove('active')">✕</button></div>
+      <div class="modal-body" style="display:flex;flex-direction:column;gap:12px">
+        <div>
+          <label style="font-size:12px;font-weight:700;color:var(--muted);display:block;margin-bottom:5px">Category</label>
+          <select class="input-field" id="newPostCat">
+            <option>Hauls</option>
+            <option>Reviews</option>
+            <option>Guides</option>
+            <option>Payments</option>
+            <option>Shipping</option>
+            <option>Agents</option>
+            <option>General</option>
+          </select>
+        </div>
+        <div>
+          <label style="font-size:12px;font-weight:700;color:var(--muted);display:block;margin-bottom:5px">Title</label>
+          <input class="input-field" id="newPostTitle" placeholder="Post title…" />
+        </div>
+        <div>
+          <label style="font-size:12px;font-weight:700;color:var(--muted);display:block;margin-bottom:5px">Your post</label>
+          <textarea class="input-field" id="newPostBody" placeholder="Share your experience, question, or haul…" style="height:100px;resize:vertical"></textarea>
+        </div>
+        <div>
+          <label style="font-size:12px;font-weight:700;color:var(--muted);display:block;margin-bottom:5px">Your name</label>
+          <input class="input-field" id="newPostUser" placeholder="Your username…" />
+        </div>
+      </div>
+      <div class="modal-foot">
+        <button class="btn btn-primary" onclick="submitPost()">Post</button>
+        <button class="btn btn-ghost" onclick="document.getElementById('newPostModal').classList.remove('active')">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <nav class="bottom-nav">
+    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item active" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
+    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+  </nav>
+
+  <div id="toast"></div>
+  <script src="app.js"></script>
+  <script>
+    const CAT_ICONS = { Hauls:'🛍', Reviews:'⭐', Guides:'📖', Payments:'💳', Shipping:'📦', Agents:'🤝', General:'💬' };
+    let allPosts = [
+      { user:'Alex', title:'Staying safe with payment methods', body:'Always use trusted agents like LitBuy for payments. Never pay directly. Use crypto only if you understand the risks.', time:'23 minutes ago', replies:14, cat:'Payments', likes:8 },
+      { user:'Sam', title:'Community haul — March 2026!', body:'Just received a huge haul from Yishan and MOMOKICK. ArcTeryx jacket, 3 pairs of Dunks, and some Chrome Hearts jewellery. All W\'s!', time:'5 minutes ago', replies:31, cat:'Hauls', likes:27 },
+      { user:'Mike', title:'Best shipping agent right now?', body:'Been using Pandabuy for a year but considering switching. Heard LitBuy has better rates and faster processing. Anyone compared?', time:'1 hour ago', replies:8, cat:'Agents', likes:5 },
+      { user:'Kim', title:'QC tips for first-time buyers', body:'When you get QC photos: check stitching, logos, insoles, and the box. Compare with real reference photos from r/DesignerReps.', time:'2 hours ago', replies:22, cat:'Guides', likes:18 },
+      { user:'Jordan', title:'MOMOKICK Nike Dunk Low review', body:'Ordered the Panda Dunk. Arrived in 3 weeks via DHL. Quality is 9/10. Stitching is clean, shape is good. Worth every yuan.', time:'4 hours ago', replies:17, cat:'Reviews', likes:13 },
+      { user:'Taylor', title:'LitBuy vs Pandabuy — detailed comparison 2026', body:'After using both for 6 months, LitBuy has better customer service and slightly lower fees. Pandabuy has more storage capacity. Depends on your order size.', time:'6 hours ago', replies:45, cat:'Agents', likes:39 },
+      { user:'Riley', title:'Customs clearance tips for UK', body:'Had 3 packages seized in the past year. Key tips: keep declared value under £135, use "gift" marking, spread orders across weeks.', time:'8 hours ago', replies:12, cat:'Shipping', likes:22 },
+      { user:'Casey', title:'March haul from EVGA — Balenciaga Triple S', body:'Finally got the Triple S from EVGA. Took 4 weeks. QC looked amazing. Real vs rep comparison was very hard to spot the difference. 10/10 seller.', time:'Yesterday', replies:9, cat:'Hauls', likes:15 },
+    ];
+    let activeFCat = 'all';
+
+    function setForumCat(cat, btn) {
+      activeFCat = cat;
+      document.querySelectorAll('.filter-chip[data-fcat]').forEach(c => c.classList.toggle('active', c.dataset.fcat === cat));
+      renderPosts();
+    }
+
+    function filterPosts() {
+      const q = document.getElementById('forumSearchInput').value.toLowerCase();
+      renderPosts(q);
+    }
+    document.getElementById('forumSearchInput').addEventListener('input', () => filterPosts());
+
+    function renderPosts(q = '') {
+      const list = allPosts.filter(p => {
+        const catMatch = activeFCat === 'all' || p.cat === activeFCat;
+        const qMatch = !q || (p.title + p.body + p.user).toLowerCase().includes(q);
+        return catMatch && qMatch;
+      });
+      document.getElementById('postCount').textContent = `${list.length} post${list.length !== 1 ? 's' : ''}`;
+      document.getElementById('totalPostCount').textContent = allPosts.length;
+      const el = document.getElementById('forumPostsList');
+      el.innerHTML = list.map((p, i) => `
+        <div class="forum-full-post" onclick="togglePost(${i})">
+          <div class="forum-post-top">
+            <div class="fp-avatar" style="flex-shrink:0">${p.user.substring(0,2).toUpperCase()}</div>
+            <div style="flex:1;min-width:0">
+              <div style="font-size:13px;font-weight:700;color:var(--ink)">${p.title}</div>
+              <div style="font-size:11px;color:var(--muted);font-weight:500;margin-top:2px">${p.user} · ${p.time}</div>
+            </div>
+            <div style="display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0">
+              <span class="badge" style="background:var(--blue-light);color:var(--blue);border:1px solid var(--blue-mid)">${CAT_ICONS[p.cat]||'💬'} ${p.cat}</span>
+              <span style="font-size:11px;color:var(--muted)">💬 ${p.replies} · ❤️ ${p.likes}</span>
+            </div>
+          </div>
+          <div class="forum-post-body" id="post-body-${i}" style="display:none">
+            <p style="font-size:13px;color:var(--ink2);line-height:1.6;margin:10px 0">${p.body}</p>
+            <div style="display:flex;gap:8px;margin-top:8px">
+              <button class="btn btn-ghost" style="font-size:11px;padding:4px 10px" onclick="event.stopPropagation();likePost(${i})">❤️ Like (${p.likes})</button>
+              <button class="btn btn-primary" style="font-size:11px;padding:4px 10px" onclick="event.stopPropagation()">💬 Reply</button>
+            </div>
+          </div>
+        </div>`).join('') || `<div style="padding:40px;text-align:center;color:var(--muted)">No posts in this category yet</div>`;
+    }
+
+    function togglePost(i) {
+      const body = document.getElementById(`post-body-${i}`);
+      if (body) body.style.display = body.style.display === 'none' ? 'block' : 'none';
+    }
+
+    function likePost(i) {
+      allPosts[i].likes++;
+      renderPosts(document.getElementById('forumSearchInput').value.toLowerCase());
+    }
+
+    function submitPost() {
+      const title = document.getElementById('newPostTitle').value.trim();
+      const body = document.getElementById('newPostBody').value.trim();
+      const user = document.getElementById('newPostUser').value.trim() || 'Anonymous';
+      const cat = document.getElementById('newPostCat').value;
+      if (!title || !body) { toast('Please fill in title and post content'); return; }
+      allPosts.unshift({ user, title, body, time:'Just now', replies:0, cat, likes:0 });
+      document.getElementById('newPostModal').classList.remove('active');
+      document.getElementById('newPostTitle').value = '';
+      document.getElementById('newPostBody').value = '';
+      renderPosts();
+      toast('Post published! ✓');
+    }
+
+    document.getElementById('newPostModal').addEventListener('click', e => {
+      if (e.target === document.getElementById('newPostModal')) document.getElementById('newPostModal').classList.remove('active');
+    });
+
+    renderPosts();
+  </script>
+  <style>
+    .forum-full-post{padding:14px 18px;border-bottom:1px solid var(--line);cursor:pointer;transition:background 150ms}
+    .forum-full-post:hover{background:var(--surface2)}
+    .forum-post-top{display:flex;align-items:flex-start;gap:10px}
+    .fp-avatar{width:34px;height:34px;border-radius:50%;background:linear-gradient(135deg,var(--blue),#7c3aed);color:white;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;flex-shrink:0}
+  </style>
+</body>
+</html>

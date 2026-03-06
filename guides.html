@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Guides</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="guides">
+
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input id="guideSearch" type="search" placeholder="Search guides…" autocomplete="off" oninput="filterGuides(this.value)" />
+      <button class="nav-search-btn" onclick="filterGuides(document.getElementById('guideSearch').value)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        Search
+      </button>
+    </div>
+    <div class="nav-right">
+      <button class="profile-btn" id="profileBtn"><div class="p-avatar">👤</div><span>Profile</span></button>
+    </div>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <div><h1>Guides</h1><div class="sub">Everything you need to know to buy smart</div></div>
+    </div>
+
+    <!-- Category tabs -->
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <button class="filter-chip active" onclick="filterByTag('all',this)">All Guides</button>
+      <button class="filter-chip" onclick="filterByTag('beginner',this)">🟢 Beginner</button>
+      <button class="filter-chip" onclick="filterByTag('payments',this)">💳 Payments</button>
+      <button class="filter-chip" onclick="filterByTag('shipping',this)">📦 Shipping</button>
+      <button class="filter-chip" onclick="filterByTag('qc',this)">🔍 QC</button>
+      <button class="filter-chip" onclick="filterByTag('sizing',this)">📏 Sizing</button>
+      <button class="filter-chip" onclick="filterByTag('advanced',this)">🔴 Advanced</button>
+    </div>
+
+    <div id="guidesContainer" style="display:flex;flex-direction:column;gap:12px"></div>
+  </div>
+
+  <nav class="bottom-nav">
+    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
+    <a class="bnav-item active" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
+    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+  </nav>
+
+  <div id="toast"></div>
+  <script src="app.js"></script>
+  <script>
+const GUIDES = [
+  {
+    id:1, tag:'beginner', icon:'🚀', title:'Complete Beginner Guide — Start Here',
+    summary:'New to rep buying? Start here. This guide covers everything from finding sellers to receiving your package.',
+    steps:[
+      { title:'What is a rep marketplace?', body:'A rep marketplace helps buyers find and compare replica products from Chinese sellers on platforms like Weidian, Yupoo, and Taobao. Items are sold at a fraction of retail prices. Quality varies hugely depending on the seller and batch.' },
+      { title:'Step 1 — Register on a buying agent', body:'You cannot pay Chinese sellers directly with most western payment methods. You need a buying agent. We recommend LitBuy (use invite code REPTARO for bonus). Register at litbuy.com. Other options: Pandabuy, Sugargoo, CSSBuy.' },
+      { title:'Step 2 — Find a product', body:'Browse the REP•TARO catalogue or go directly to a seller\'s Yupoo/Weidian. Find the item you want and copy the link. Paste it into your agent\'s search or product submission box.' },
+      { title:'Step 3 — Place the order', body:'On LitBuy, paste the item link, select size/colour, and submit. The agent buys it from the seller and sends it to their warehouse. This usually takes 3–10 days.' },
+      { title:'Step 4 — Request QC photos', body:'Once the item arrives at the warehouse, request Quality Control (QC) photos. These show the actual item you received. Compare with real reference photos before approving.' },
+      { title:'Step 5 — Choose shipping method', body:'Select your shipping method. Standard line: ~2–4 weeks, cheapest. Express (DHL/UPS): ~1–2 weeks, more expensive. For beginners: use standard first to test customs.' },
+      { title:'Step 6 — Wait and track', body:'Use the agent\'s tracking page or 17track.net to monitor your package. UK deliveries sometimes get stuck in customs for 1–2 weeks. This is normal.' },
+    ]
+  },
+  {
+    id:2, tag:'payments', icon:'💳', title:'How to Pay Safely — Agent Guide',
+    summary:'Never pay sellers directly. Use a trusted agent. This guide explains all safe payment methods.',
+    steps:[
+      { title:'Why you need an agent', body:'Chinese sellers on Weidian and Yupoo don\'t accept western bank cards or PayPal. Even if they offer PayPal, using PayPal Friends & Family removes all buyer protection. An agent acts as a middleman and provides dispute resolution.' },
+      { title:'Recommended agents', body:'LitBuy (use REPTARO code) — best for beginners, English support, competitive rates. Pandabuy — popular, feature-rich, slightly higher fees. Sugargoo — no membership fee. CSSBuy — budget option. Each has pros and cons. Try LitBuy first.' },
+      { title:'Agent fees explained', body:'Agents typically charge: 0–5% service fee on item price + shipping from seller to warehouse (usually free) + international shipping (you choose method). Budget roughly 10–20% on top of the item price for fees and shipping.' },
+      { title:'Safe payment methods', body:'Credit/debit card on agent (best protection), PayPal Business (not F&F), Bank transfer to agent (not seller). NEVER use: PayPal F&F, Wise directly to seller, cash app, crypto to strangers.' },
+      { title:'What to do if something goes wrong', body:'Contact your agent\'s customer service first. Provide order number, photos, and description. Most agents have a dispute window of 7–30 days after delivery. Keep all QC photos as evidence.' },
+    ]
+  },
+  {
+    id:3, tag:'qc', icon:'🔍', title:'How to Read QC Photos Like a Pro',
+    summary:'QC photos can save you from approving a bad item. Learn what to look for.',
+    steps:[
+      { title:'What are QC photos?', body:'When your item arrives at the warehouse, you can request QC (Quality Control) photos. The warehouse staff photograph your item from multiple angles. You review them and either approve or raise an issue.' },
+      { title:'What to check — general', body:'Overall shape and proportions (compare to legit reference photos), stitching quality and consistency, logo placement and font, any visible defects or stains, packaging and tags.' },
+      { title:'Shoes — specific checks', body:'Sole shape and curvature, toe box height, heel counter firmness, lace holes alignment, insole print quality, box label font and barcode, overall sole stitching.' },
+      { title:'Clothes — specific checks', body:'Embroidery thread count and accuracy, collar shape and symmetry, buttonhole alignment, graphic print sharpness, fabric weight and texture (hard to judge from photos — ask seller for fabric details), tag placement.' },
+      { title:'Where to find real reference photos', body:'r/DesignerReps on Reddit has legit tags and comparison photos. Legit check sites like CheckCheck (paid). Stockx product photos. Official brand websites. YouTube legit check videos.' },
+      { title:'Raising a QC dispute', body:'If you find a flaw, contact your agent before approving. Provide photos and a clear description. Agents can: request a replacement from the seller, issue partial refund, or let you refuse the item. Always document issues thoroughly.' },
+    ]
+  },
+  {
+    id:4, tag:'beginner', icon:'🔎', title:'Finding the Best Batches',
+    summary:'Not all reps are equal. A "batch" refers to a production run. Some are much better than others.',
+    steps:[
+      { title:'What is a batch?', body:'Sellers make items in "batches" — production runs that may vary in quality. The most sought-after batch for any item is usually referred to as the "best batch" or "OG batch". Quality can vary significantly between batches of the same item.' },
+      { title:'How to find best batch information', body:'r/DesignerReps weekly threads have batch recommendations. Reparchive.com lists items and seller recommendations. Ask in REP•TARO forums. Search YouTube for "[item name] rep review". The rep community is generally very helpful.' },
+      { title:'Popular batch terminology', body:'OG batch — the original, usually highest quality. PK batch — "Perfect Kicks", common for Nike/Adidas. LJR batch — high quality trainer reps. H12/UA batch — Ultra-accurate replicas. For clothes, look for "EM" or "1:1" quality tags.' },
+      { title:'How to evaluate a batch recommendation', body:'Look for reviews with comparison photos. Check how recent the review is (batches change). Multiple people confirming the same batch is more reliable. When in doubt, ask in the forums.' },
+    ]
+  },
+  {
+    id:5, tag:'shipping', icon:'✈️', title:'Shipping Guide — Methods, Costs & Customs',
+    summary:'Understand shipping lines, customs risks, and how to get your package safely.',
+    steps:[
+      { title:'Shipping methods overview', body:'Line types: 1) Economy (cheapest, slowest, 3–6 weeks) — good for cheap items. 2) Standard (2–4 weeks) — best balance. 3) Express DHL/UPS/FedEx (1–2 weeks, expensive) — for high-value items. 4) EMS (2–3 weeks, moderate) — good customs clearance rate.' },
+      { title:'UK specific advice', body:'UK has relatively strict customs checks. For packages over ~£135 declared value, HMRC may charge VAT + handling fees. Tips: keep declared value conservative, spread across multiple packages, mark as "gift" if possible.' },
+      { title:'Customs risk by item type', body:'High risk: Electronics (checked for safety compliance), Branded items with obvious logos, Large packages. Lower risk: Clothing without obvious branding, Accessories, Small packages. Customs is somewhat random — even low-risk items can be seized.' },
+      { title:'Tracking your package', body:'Use your agent\'s tracking page first. For detailed tracking, use 17track.net or Cainiao. Packages often go silent for 1–2 weeks while at sea or in transit hub. This is normal. Only raise a concern after 6 weeks with no update.' },
+      { title:'If your package is seized', body:'HMRC will send a letter. You can abandon the package (lose it), or pay the fees + VAT to release it. If marked as counterfeit, it will be destroyed with no option to pay for release. Keep this in mind when ordering obvious designer reps.' },
+    ]
+  },
+  {
+    id:6, tag:'sizing', icon:'📏', title:'Sizing Guide — Shoes & Clothes',
+    summary:'Chinese sizing often runs small. Use this guide to order the right size.',
+    steps:[
+      { title:'Shoe sizing — general rule', body:'Most Chinese rep sellers use standard EU sizing, which usually aligns with US sizing. However, some sellers run 0.5 size small. If you are between sizes, always go up. For Nike/Jordan: order true to size. For Balenciaga/designer: order 1 size up due to exaggerated shapes.' },
+      { title:'Shoe size conversion chart', body:'US M 6 = EU 39 = UK 5.5. US M 7 = EU 40 = UK 6. US M 8 = EU 41 = UK 7. US M 9 = EU 42 = UK 8. US M 10 = EU 43 = UK 9. US M 11 = EU 44 = UK 10. US M 12 = EU 46 = UK 11.' },
+      { title:'Clothes sizing — key differences', body:'Chinese sizes typically run 1–2 sizes smaller than European/US sizes. A Chinese "XL" is often equivalent to a European "M". Always ask the seller for measurements in CM (chest, length, shoulder width) and compare to a garment you own.' },
+      { title:'How to measure yourself', body:'Chest: measure around the fullest part of your chest, keeping the tape horizontal. Length: from highest point of shoulder to hem. Shoulders: from edge of left shoulder to edge of right shoulder, measured across the back. Always add 1–2cm ease.' },
+      { title:'Common brand sizing notes', body:'Supreme: runs true to US size, order your normal size. Stone Island: runs 1 size small, order up. Moncler: runs small, order 1–2 sizes up. Chrome Hearts: varies heavily by item. Arc\'teryx: order your normal size. Off-White: check specific item.' },
+    ]
+  },
+  {
+    id:7, tag:'advanced', icon:'⚡', title:'Link Converter & Agent Hacks',
+    summary:'Save money and time with these advanced buying tricks and link conversion tips.',
+    steps:[
+      { title:'Converting Weidian links to LitBuy', body:'Weidian links look like: weidian.com/item.html?itemID=1234567. LitBuy format: litbuy.com/product/weidian/1234567?inviteCode=REPTARO. Just extract the itemID number. Use our Tools page for automatic conversion.' },
+      { title:'Converting Taobao links', body:'Taobao links contain an ID parameter like: taobao.com/item.htm?id=1234567. LitBuy format: litbuy.com/product/taobao/1234567. Alternatively paste any link directly into LitBuy\'s search and it auto-detects the platform.' },
+      { title:'1688 (manufacturer direct)', body:'1688.com is Alibaba\'s domestic B2B platform. Prices are lowest here but minimum orders apply. Some agents support 1688 links. Quality is often better as you get factory-direct stock.' },
+      { title:'Yupoo browsing tips', body:'Yupoo is a photo-sharing site used by sellers as a catalogue. To find items: use the search at the top of a seller\'s Yupoo page, or browse by category. To order from Yupoo: screenshot the item and send to your agent, or find the seller\'s Weidian store.' },
+      { title:'Getting discounts', body:'First-time buyer discounts: most agents offer welcome discounts. Refer a friend codes: earn credit. Bulk orders: agents often reduce fees for large orders. Seasonal sales: agents run promotions around Chinese holidays (CNY, 11.11, etc.).' },
+    ]
+  },
+  {
+    id:8, tag:'advanced', icon:'📦', title:'Warehouse & Consolidation Guide',
+    summary:'How to save money on shipping by consolidating multiple orders into one package.',
+    steps:[
+      { title:'What is consolidation?', body:'If you order from multiple sellers, the items arrive at your agent\'s warehouse separately. Consolidation means combining them into one package for a single international shipment, saving on shipping costs.' },
+      { title:'When to consolidate', body:'Consolidation makes sense when you have 3+ orders. It saves on per-package international shipping. Each extra item adds marginal weight cost, but less than shipping separately. Most agents consolidate for free or a small fee.' },
+      { title:'Repackaging', body:'Ask your agent to repackage items: remove original seller boxes/bags, use bubble wrap, put into a neutral shipping box. This reduces weight and package size, saving on shipping. It also reduces customs scrutiny as packages look like personal goods.' },
+      { title:'Storage limits', body:'Agents offer free storage for a limited time (usually 60–90 days). After that, storage fees apply. Plan your consolidation and ship within the free period. Useful if you\'re waiting for multiple orders to arrive.' },
+    ]
+  },
+  {
+    id:9, tag:'beginner', icon:'📖', title:'Glossary — Rep Marketplace Terms',
+    summary:'New to the community? Here\'s every term you\'ll encounter.',
+    steps:[
+      { title:'Essential terms A–M', body:'Agent — middleman who buys from Chinese sellers on your behalf. Batch — a specific production run of a rep item. CNY — Chinese Yuan, the currency used on Weidian/Yupoo. Customs — import inspection process. DHL/EMS — shipping courier services. GL — "God Like", very high quality rep. Haul — a collection of rep purchases. LJR — a high-quality rep factory, popular for trainer reps. LMAO — poor quality rep. ML — "Mid-Level" quality.' },
+      { title:'Essential terms N–Z', body:'OG — Original (highest quality rep). Pandabuy/LitBuy — popular buying agents. QC — Quality Control photos. Rep — replica/replicated item. Seized — package confiscated by customs. TB — Taobao (Chinese marketplace). UA — "Unauthorized Authentic", made in same factory as real item. W2C — "Where to Cop?", asking where to buy. WD — Weidian (Chinese marketplace). Yupoo — photo platform used by Chinese sellers.' },
+      { title:'Quality tiers explained', body:'From best to worst: UA (Unauthorized Authentic) → best quality, made in same factory. Tier 1 / "1:1" → near-perfect copy. GL (God-like) → very high quality. PK/LJR (specific factories) → known high quality. Standard → average quality, most affordable. IOFFER/DHgate → lowest quality, avoid.' },
+    ]
+  },
+  {
+    id:10, tag:'payments', icon:'🛡️', title:'Staying Safe — Scam Prevention',
+    summary:'Scammers exist in this community. Learn how to spot and avoid them.',
+    steps:[
+      { title:'Common scam types', body:'Fake agents: fake websites mimicking legitimate agents, steal payment details. Direct seller scams: seller on Telegram/Discord claiming to be cheaper than agents — takes money and disappears. "Middleman" scams: someone offers to buy for you and keeps the money.' },
+      { title:'Red flags to watch for', body:'Anyone approaching you on social media to sell directly. Sites with no HTTPS or poor design. Requests for payment via crypto directly to a person. "Too good to be true" deals. Anyone claiming to be from REP•TARO staff asking for money.' },
+      { title:'Verifying a legitimate agent', body:'Check r/repbuying for verified agent lists. Look for established social media presence (years old). Read reviews on trustpilot and reddit. Only use agents from our verified list in the Tools page. Never use an agent someone random recommends to you.' },
+      { title:'Safe buying habits', body:'Always pay through the agent\'s official website. Never pay anyone directly. Keep all order confirmation emails. Take screenshots of all QC photos before approving. Use a credit card when possible for extra chargeback protection.' },
+    ]
+  },
+];
+
+    let activeTag = 'all', activeSearch = '';
+
+    function filterByTag(tag, btn) {
+      activeTag = tag;
+      document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+      btn.classList.add('active');
+      render();
+    }
+    function filterGuides(q) {
+      activeSearch = q.toLowerCase();
+      render();
+    }
+
+    function render() {
+      const list = GUIDES.filter(g => {
+        const tagMatch = activeTag === 'all' || g.tag === activeTag;
+        const qMatch = !activeSearch || (g.title + g.summary + g.steps.map(s=>s.title+s.body).join('')).toLowerCase().includes(activeSearch);
+        return tagMatch && qMatch;
+      });
+      const tagColors = { beginner:'var(--green)', payments:'var(--blue)', shipping:'#7c3aed', qc:'var(--yellow)', sizing:'#db2777', advanced:'var(--red)' };
+      const tagLabels = { beginner:'🟢 Beginner', payments:'💳 Payments', shipping:'📦 Shipping', qc:'🔍 QC', sizing:'📏 Sizing', advanced:'🔴 Advanced' };
+      document.getElementById('guidesContainer').innerHTML = list.map((g, gi) => `
+        <div class="guide-card" id="guide-${g.id}">
+          <div class="guide-card-header" onclick="toggleGuide(${g.id})">
+            <div style="display:flex;align-items:center;gap:12px;flex:1;min-width:0">
+              <div class="guide-icon">${g.icon}</div>
+              <div style="flex:1;min-width:0">
+                <div style="font-size:15px;font-weight:700;color:var(--ink)">${g.title}</div>
+                <div style="font-size:12px;color:var(--muted);margin-top:2px">${g.summary}</div>
+              </div>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;flex-shrink:0">
+              <span style="font-size:11px;font-weight:700;padding:3px 8px;border-radius:999px;background:${tagColors[g.tag]||'var(--blue)'}20;color:${tagColors[g.tag]||'var(--blue)'}">${tagLabels[g.tag]||g.tag}</span>
+              <span class="guide-arrow" id="arrow-${g.id}">›</span>
+            </div>
+          </div>
+          <div class="guide-body" id="body-${g.id}" style="display:none">
+            ${g.steps.map((step, si) => `
+              <div class="guide-step">
+                <div class="guide-step-num">${si+1}</div>
+                <div class="guide-step-content">
+                  <div class="guide-step-title">${step.title}</div>
+                  <div class="guide-step-body">${step.body}</div>
+                </div>
+              </div>`).join('')}
+          </div>
+        </div>`).join('') || '<div style="padding:40px;text-align:center;color:var(--muted)">No guides found</div>';
+    }
+
+    function toggleGuide(id) {
+      const body = document.getElementById(`body-${id}`);
+      const arrow = document.getElementById(`arrow-${id}`);
+      const open = body.style.display !== 'none';
+      body.style.display = open ? 'none' : 'block';
+      arrow.style.transform = open ? '' : 'rotate(90deg)';
+    }
+
+    render();
+  </script>
+  <style>
+    .guide-card{background:var(--surface);border-radius:var(--r2);box-shadow:var(--shadow);overflow:hidden}
+    .guide-card-header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:16px 20px;cursor:pointer;transition:background 150ms}
+    .guide-card-header:hover{background:var(--surface2)}
+    .guide-icon{width:40px;height:40px;border-radius:12px;background:var(--blue-light);border:1px solid var(--blue-mid);display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0}
+    .guide-arrow{font-size:20px;color:var(--muted);transition:transform 200ms;font-weight:300}
+    .guide-body{padding:0 20px 20px;display:flex;flex-direction:column;gap:0}
+    .guide-step{display:flex;gap:14px;padding:14px 0;border-top:1px solid var(--line)}
+    .guide-step-num{width:26px;height:26px;border-radius:50%;background:var(--blue);color:white;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px}
+    .guide-step-content{flex:1}
+    .guide-step-title{font-size:13px;font-weight:700;color:var(--ink);margin-bottom:4px}
+    .guide-step-body{font-size:12px;color:var(--ink2);line-height:1.7}
+  </style>
+</body>
+</html>

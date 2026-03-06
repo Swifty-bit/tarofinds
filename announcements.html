@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Announcements</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="announcements">
+
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input type="search" placeholder="Search announcements…" autocomplete="off" />
+      <button class="nav-search-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        Search
+      </button>
+    </div>
+    <div class="nav-right">
+      <button class="profile-btn" id="profileBtn"><div class="p-avatar">👤</div><span>Profile</span></button>
+    </div>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <div><h1>📣 Announcements</h1><div class="sub">Official updates from the REP•TARO team</div></div>
+    </div>
+    <div id="announcementsList" style="display:flex;flex-direction:column;gap:14px"></div>
+  </div>
+
+  <nav class="bottom-nav">
+    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
+    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
+    <a class="bnav-item active" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+  </nav>
+
+  <div id="toast"></div>
+  <script src="app.js"></script>
+  <style>
+    .ann-card{background:var(--surface);border-radius:var(--r2);box-shadow:var(--shadow);padding:20px;display:flex;gap:14px;align-items:flex-start}
+    .ann-icon{font-size:28px;flex-shrink:0;margin-top:2px}
+    .ann-body{flex:1}
+    .ann-head{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:6px}
+    .ann-title{font-size:15px;font-weight:700;color:var(--ink)}
+    .ann-text{font-size:13px;color:var(--ink2);line-height:1.6;margin-bottom:8px}
+    .ann-time{font-size:11px;color:var(--muted);font-weight:500}
+    .ann-badge{font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+    .ann-badge-new{background:var(--blue-light);color:var(--blue);border:1px solid var(--blue-mid)}
+    .ann-badge-feature{background:var(--green-light);color:var(--green);border:1px solid rgba(16,185,129,0.2)}
+    .ann-badge-maintenance{background:rgba(245,158,11,0.12);color:var(--yellow);border:1px solid rgba(245,158,11,0.25)}
+    .ann-badge-community{background:#ede9fe;color:#7c3aed;border:1px solid rgba(124,58,237,0.2)}
+    .ann-badge-security{background:rgba(239,68,68,0.08);color:var(--red);border:1px solid rgba(239,68,68,0.2)}
+  </style>
+</body>
+</html>

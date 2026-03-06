@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Home</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="home">
+
+  <!-- TOP NAVBAR -->
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input id="searchInput" type="search" placeholder="Search products, sellers, categories…" autocomplete="off" />
+      <button class="nav-search-btn" aria-label="Search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      </button>
+    </div>
+    <div class="nav-right">
+      <button class="currency-btn" id="currencyBtn">
+        <span id="currencyLabel">USD</span>
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+      <button class="profile-btn" id="profileBtn">
+        <div class="p-avatar">👤</div>
+        <span>Profile</span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- PAGE CONTENT -->
+  <div class="page">
+
+    <!-- HERO BANNER -->
+    <section class="hero">
+      <div class="hero-content">
+        <h1>Find products fast.<br>Track sellers. Keep it simple.</h1>
+        <p>Your central hub for the best reps — products, sellers, guides, and community.</p>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="val" id="statProducts">—</div>
+          <div class="lbl">Products</div>
+        </div>
+        <div class="hero-stat">
+          <div class="val" id="statSellers">—</div>
+          <div class="lbl">Sellers</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FEATURED CATALOG + BEST SELLERS -->
+    <div class="main-grid">
+
+      <!-- FEATURED CATALOG -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Featured Catalog</h2>
+          <a class="view-all" href="catalogue.html">View all</a>
+        </div>
+        <div class="card-body">
+          <div class="product-grid" id="featuredGrid"></div>
+        </div>
+      </div>
+
+      <!-- BEST SELLERS -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Best Sellers</h2>
+        </div>
+        <div id="bsTopSlot"></div>
+        <div class="bs-label">Best Sellers</div>
+        <div id="sellerList"></div>
+      </div>
+
+    </div>
+
+    <!-- COMMUNITY + ANNOUNCEMENTS -->
+    <div class="bottom-grid">
+
+      <!-- COMMUNITY & GUIDES -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Community &amp; Guides</h2>
+          <a class="view-all" href="guides.html">View all</a>
+        </div>
+        <div class="card-body">
+          <div class="community-grid">
+            <div>
+              <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px;">Recent forum posts</div>
+              <div id="forumPosts"></div>
+            </div>
+            <div>
+              <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px;">Guides</div>
+              <div id="guidesList"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ANNOUNCEMENTS -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Announcements</h2>
+        </div>
+        <div class="card-body" id="announcements"></div>
+      </div>
+
+    </div>
+
+  </div><!-- /page -->
+
+  <!-- BOTTOM NAV -->
+  <nav class="bottom-nav">
+    <a class="bnav-item active" href="index.html">
+      <span class="bnav-icon">🏠</span><span>Home</span>
+    </a>
+    <a class="bnav-item" href="catalogue.html">
+      <span class="bnav-icon">📋</span><span>Catalog</span>
+    </a>
+    <a class="bnav-item" href="sellers.html">
+      <span class="bnav-icon">🏆</span><span>Best Sellers</span>
+    </a>
+    <a class="bnav-item" href="guides.html">
+      <span class="bnav-icon">📖</span><span>Guides</span>
+    </a>
+    <a class="bnav-item" href="forums.html">
+      <span class="bnav-icon">💬</span><span>Forums</span>
+    </a>
+    <a class="bnav-item" href="#">
+      <span class="bnav-icon">🔔</span><span>Alerts</span>
+    </a>
+    <a class="bnav-item" href="#">
+      <span class="bnav-icon">📣</span><span>News</span>
+    </a>
+    <a class="bnav-item" href="tools.html">
+      <span class="bnav-icon">🔧</span><span>Tools</span>
+    </a>
+  </nav>
+
+  <!-- COUPON MODAL -->
+  <div class="modal-backdrop" id="couponModal">
+    <div class="coupon-box">
+      <div class="coupon-bg"></div>
+      <button class="coupon-x" id="couponClose">✕</button>
+      <div class="coupon-inner">
+        <div class="coupon-tag">🎁 Special Offer</div>
+        <h3 id="couponTitle">Welcome to REP•TARO!</h3>
+        <p id="couponMessage">Use the invite code below to register and start ordering with our trusted sellers.</p>
+        <div class="coupon-code-box">
+          <span id="couponCode">REPTARO</span>
+          <button class="copy-btn" id="copyCodeBtn">Copy</button>
+        </div>
+        <div class="coupon-actions">
+          <button class="c-btn-white" id="couponGo">Register Now</button>
+          <button class="c-btn-outline" id="couponDismiss">Don't show again</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CURRENCY MODAL -->
+  <div class="modal-backdrop" id="currencyModal">
+    <div class="modal-box">
+      <div class="modal-head">
+        <h3>Select Currency</h3>
+        <button class="modal-x" id="currencyClose">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="currency-grid">
+          <div class="curr-opt" data-code="CNY"><div class="curr-code">CNY</div><div class="curr-name">Chinese Yuan ¥</div></div>
+          <div class="curr-opt" data-code="USD"><div class="curr-code">USD</div><div class="curr-name">US Dollar $</div></div>
+          <div class="curr-opt" data-code="GBP"><div class="curr-code">GBP</div><div class="curr-name">British Pound £</div></div>
+          <div class="curr-opt" data-code="EUR"><div class="curr-code">EUR</div><div class="curr-name">Euro €</div></div>
+          <div class="curr-opt" data-code="AUD"><div class="curr-code">AUD</div><div class="curr-name">Australian Dollar</div></div>
+          <div class="curr-opt" data-code="CAD"><div class="curr-code">CAD</div><div class="curr-name">Canadian Dollar</div></div>
+          <div class="curr-opt" data-code="JPY"><div class="curr-code">JPY</div><div class="curr-name">Japanese Yen</div></div>
+          <div class="curr-opt" data-code="SGD"><div class="curr-code">SGD</div><div class="curr-name">Singapore Dollar</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

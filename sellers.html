@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Sellers</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="sellers">
+
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input id="sellerSearch" type="search" placeholder="Search sellers…" autocomplete="off" />
+      <button class="nav-search-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      </button>
+    </div>
+    <div class="nav-right">
+      <button class="currency-btn" id="currencyBtn">
+        <span id="currencyLabel">USD</span>
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+      <button class="profile-btn" id="profileBtn">
+        <div class="p-avatar">👤</div><span>Profile</span>
+      </button>
+    </div>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <div>
+        <h1>Sellers</h1>
+        <div class="sub">Browse our trusted seller directory — <span id="badgeSellers">—</span> sellers listed</div>
+      </div>
+      <span class="badge" id="badgeSellers2">—</span>
+    </div>
+
+    <div class="sellers-grid" id="sellersGrid"></div>
+  </div>
+
+  <nav class="bottom-nav">
+    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item active" href="sellers.html"><span class="bnav-icon">🏆</span><span>Best Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
+    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+  </nav>
+
+  <div class="modal-backdrop" id="currencyModal">
+    <div class="modal-box">
+      <div class="modal-head"><h3>Select Currency</h3><button class="modal-x" id="currencyClose">✕</button></div>
+      <div class="modal-body">
+        <div class="currency-grid">
+          <div class="curr-opt active" data-code="USD" data-sym="$"><div class="curr-code">USD</div><div class="curr-name">US Dollar</div></div>
+          <div class="curr-opt" data-code="GBP" data-sym="£"><div class="curr-code">GBP</div><div class="curr-name">British Pound</div></div>
+          <div class="curr-opt" data-code="EUR" data-sym="€"><div class="curr-code">EUR</div><div class="curr-name">Euro</div></div>
+          <div class="curr-opt" data-code="CNY" data-sym="¥"><div class="curr-code">CNY</div><div class="curr-name">Chinese Yuan</div></div>
+          <div class="curr-opt" data-code="AUD" data-sym="A$"><div class="curr-code">AUD</div><div class="curr-name">Australian Dollar</div></div>
+          <div class="curr-opt" data-code="CAD" data-sym="C$"><div class="curr-code">CAD</div><div class="curr-name">Canadian Dollar</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>

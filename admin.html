@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REP•TARO — Admin Panel</title>
+  <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="admin">
+
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html">
+      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
+      REP<span class="bdot">•</span>TARO
+    </a>
+    <div class="nav-search">
+      <input type="search" placeholder="Search admin…" autocomplete="off" />
+      <button class="nav-search-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      </button>
+    </div>
+    <div class="nav-right">
+      <span class="badge badge-red" style="font-size:12px;padding:5px 12px">🛡️ Staff</span>
+      <button class="profile-btn" onclick="adminLogout()"><div class="p-avatar">👤</div><span>Logout</span></button>
+    </div>
+  </nav>
+
+  <div class="page" id="adminPage">
+    <!-- Login Screen -->
+    <div id="adminLogin" class="admin-login-box">
+      <h2>🔐 Staff Login</h2>
+      <div class="form-group">
+        <label>Username</label>
+        <input type="text" id="loginUsername" placeholder="Enter username" />
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="loginPassword" placeholder="Enter password" />
+      </div>
+      <button class="btn btn-primary" onclick="adminLogin()">Login</button>
+      <div id="loginError" style="color:var(--red);font-size:13px;margin-top:12px;text-align:center;display:none;"></div>
+    </div>
+
+    <!-- Admin Dashboard (hidden until login) -->
+    <div id="adminDashboard" style="display:none;">
+      <div class="page-header">
+        <div>
+          <h1>Admin Panel</h1>
+          <div class="sub">Staff-only dashboard — <span id="adminRoleBadge" class="role-badge role-owner">Owner</span></div>
+        </div>
+        <div style="display:flex;gap:10px;align-items:center;">
+          <span class="api-status online" id="apiStatus">API Online</span>
+        </div>
+      </div>
+
+      <!-- Discord Bot Info -->
+      <div class="bot-info-card">
+        <h3>🤖 Discord Bot</h3>
+        <p>Manage your site through Discord. The bot provides commands for adding products, sellers, and managing staff.</p>
+        <div class="bot-commands">
+          <div class="bot-command"><code>/addproduct</code> — Add new product</div>
+          <div class="bot-command"><code>/addseller</code> — Add new seller</div>
+          <div class="bot-command"><code>/addstaff</code> — Add staff member</div>
+          <div class="bot-command"><code>/removestaff</code> — Remove staff</div>
+          <div class="bot-command"><code>/listproducts</code> — List products</div>
+          <div class="bot-command"><code>/announce</code> — Post announcement</div>
+        </div>
+      </div>
+
+      <!-- KPI CARDS -->
+      <div class="kpi-row">
+        <div class="kpi-card">
+          <div class="kpi-val" id="adminProducts">—</div>
+          <div class="kpi-lbl">Total Products</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-val" id="adminSellers">—</div>
+          <div class="kpi-lbl">Total Sellers</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-val" id="adminStaff">—</div>
+          <div class="kpi-lbl">Staff Members</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-val" style="color:var(--green)" id="adminUsers">—</div>
+          <div class="kpi-lbl">Total Users</div>
+        </div>
+      </div>
+
+      <div class="admin-grid-2">
+        <!-- ADD PRODUCT -->
+        <div class="admin-section">
+          <div class="admin-section-header">
+            <h3>📦 Add Product</h3>
+            <span class="badge badge-green">+ New</span>
+          </div>
+          <div class="admin-section-body">
+            <div class="form-group">
+              <label>Product Name *</label>
+              <input type="text" id="addProdName" placeholder="e.g. Nike Dunks SB" />
+            </div>
+            <div class="admin-grid-2">
+              <div class="form-group">
+                <label>Category *</label>
+                <select id="addProdCategory">
+                  <option value="shoes">Shoes</option>
+                  <option value="clothes">Clothes</option>
+                  <option value="accessories">Accessories</option>
+                  <option value="electronics">Electronics</option>
+                  <option value="hoodies">Hoodies</option>
+                  <option value="puffer jackets">Puffer Jackets</option>
+                  <option value="t-shirts">T-Shirts</option>
+                  <option value="shorts">Shorts</option>
+                  <option value="bags">Bags</option>
+                  <option value="watches">Watches</option>
+                  <option value="jewelry">Jewelry</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Price (CNY) *</label>
+                <input type="number" id="addProdPrice" placeholder="0.00" step="0.01" />
+              </div>
+            </div>
+            <div class="admin-grid-2">
+              <div class="form-group">
+                <label>Seller Name</label>
+                <input type="text" id="addProdSeller" placeholder="e.g. WWTop" />
+              </div>
+              <div class="form-group">
+                <label>Product Link</label>
+                <input type="url" id="addProdLink" placeholder="https://weidian.com/..." />
+              </div>
+            </div>
+            <div class="form-group">
+              <label>Image URL</label>
+              <input type="url" id="addProdImage" placeholder="https://..." />
+            </div>
+            <div class="form-group">
+              <label>QC Image URLs (comma-separated)</label>
+              <input type="text" id="addProdQC" placeholder="https://..., https://..." />
+            </div>
+            <div style="display:flex;gap:8px;">
+              <button class="btn btn-primary" onclick="addProduct()">Add Product</button>
+              <button class="btn btn-ghost" onclick="clearProductForm()">Clear</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- ADD SELLER -->
+        <div class="admin-section">
+          <div class="admin-section-header">
+            <h3>🏪 Add Seller</h3>
+            <span class="badge badge-green">+ New</span>
+          </div>
+          <div class="admin-section-body">
+            <div class="form-group">
+              <label>Seller Name *</label>
+              <input type="text" id="addSellerName" placeholder="e.g. Taro" />
+            </div>
+            <div class="form-group">
+              <label>Store Link *</label>
+              <input type="url" id="addSellerLink" placeholder="https://yupoo.com/..." />
+            </div>
+            <div class="form-group">
+              <label>Logo URL</label>
+              <input type="url" id="addSellerLogo" placeholder="https://..." />
+            </div>
+            <div class="form-group">
+              <label>Description</label>
+              <input type="text" id="addSellerDesc" placeholder="Short description..." />
+            </div>
+            <div class="form-group">
+              <label>
+                <input type="checkbox" id="addSellerVerified" checked /> Verified Seller
+              </label>
+            </div>
+            <div style="display:flex;gap:8px;">
+              <button class="btn btn-primary" onclick="addSeller()">Add Seller</button>
+              <button class="btn btn-ghost" onclick="clearSellerForm()">Clear</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- PRODUCT LIST -->
+      <div class="admin-section">
+        <div class="admin-section-header">
+          <h3>📋 Products</h3>
+          <div style="display:flex;gap:8px;">
+            <input type="text" id="prodSearch" placeholder="Search products..." style="width:200px;padding:6px 12px;border:1px solid var(--line);border-radius:8px;" />
+            <button class="btn btn-sm btn-ghost" onclick="exportProducts()">Export JSON</button>
+          </div>
+        </div>
+        <div class="admin-section-body" style="padding:0;">
+          <div class="admin-product-list" id="adminProductList"></div>
+        </div>
+      </div>
+
+      <!-- SELLER LIST -->
+      <div class="admin-section">
+        <div class="admin-section-header">
+          <h3>🏆 Sellers</h3>
+          <button class="btn btn-sm btn-ghost" onclick="exportSellers()">Export JSON</button>
+        </div>
+        <div class="admin-section-body">
+          <div id="adminSellerList" style="display:flex;flex-direction:column;gap:8px;"></div>
+        </div>
+      </div>
+
+      <!-- STAFF MANAGEMENT -->
+      <div class="admin-section" id="staffSection">
+        <div class="admin-section-header">
+          <h3>👥 Staff Management</h3>
+          <span class="badge badge-blue">Owner Only</span>
+        </div>
+        <div class="admin-section-body">
+          <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px;">
+            <div class="form-group" style="flex:1;min-width:150px;margin-bottom:0;">
+              <input type="text" id="newStaffUser" placeholder="Username" />
+            </div>
+            <div class="form-group" style="flex:1;min-width:150px;margin-bottom:0;">
+              <input type="password" id="newStaffPass" placeholder="Password" />
+            </div>
+            <div class="form-group" style="width:140px;margin-bottom:0;">
+              <select id="newStaffRole">
+                <option value="staff">Staff</option>
+                <option value="moderator">Moderator</option>
+                <option value="admin">Admin</option>
+              </select>
+            </div>
+            <button class="btn btn-primary" onclick="addStaff()">Add Staff</button>
+          </div>
+          <div class="staff-list" id="staffList"></div>
+        </div>
+      </div>
+
+      <!-- SITE CONTROLS -->
+      <div class="admin-section">
+        <div class="admin-section-header">
+          <h3>⚙️ Site Controls</h3>
+        </div>
+        <div class="admin-section-body">
+          <div class="toggle-row">
+            <div>
+              <div class="toggle-label">Coupon Popup</div>
+              <div class="toggle-sub">Show the welcome coupon to new visitors</div>
+            </div>
+            <div class="s-toggle on" id="couponToggle" onclick="toggleSetting('coupon')"></div>
+          </div>
+          <div class="toggle-row">
+            <div>
+              <div class="toggle-label">Maintenance Mode</div>
+              <div class="toggle-sub">Show maintenance banner sitewide</div>
+            </div>
+            <div class="s-toggle" id="maintenanceToggle" onclick="toggleSetting('maintenance')"></div>
+          </div>
+          <div class="toggle-row">
+            <div>
+              <div class="toggle-label">New Registrations</div>
+              <div class="toggle-sub">Allow new users to register</div>
+            </div>
+            <div class="s-toggle on" id="registrationToggle" onclick="toggleSetting('registration')"></div>
+          </div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:14px">
+            <button class="btn btn-ghost btn-sm" onclick="clearCache()">Clear Cache</button>
+            <button class="btn btn-danger btn-sm" onclick="resetData()">Reset All Data</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- DATA MANAGER -->
+      <div class="admin-section">
+        <div class="admin-section-header">
+          <h3>💾 Data Manager</h3>
+        </div>
+        <div class="admin-section-body">
+          <div class="admin-grid-2">
+            <div>
+              <div style="font-weight:700;margin-bottom:10px;">Upload Products JSON</div>
+              <input type="file" id="uploadProducts" accept=".json" onchange="uploadJSON('products', this)" />
+              <div style="margin-top:10px;font-size:12px;color:var(--muted);">Upload a products.json file to replace all products</div>
+            </div>
+            <div>
+              <div style="font-weight:700;margin-bottom:10px;">Upload Sellers JSON</div>
+              <input type="file" id="uploadSellers" accept=".json" onchange="uploadJSON('sellers', this)" />
+              <div style="margin-top:10px;font-size:12px;color:var(--muted);">Upload a sellers.json file to replace all sellers</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <nav class="bottom-nav">
+    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Best Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
+    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+  </nav>
+
+  <div id="toast"></div>
+
+  <script src="app.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>
