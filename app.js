@@ -157,23 +157,13 @@ function buildFeaturedGrid() {
   if (!grid) return;
   const featured = PRODUCTS.filter(p => p.featured).slice(0, 8);
   grid.innerHTML = featured.map(p => {
-    const cat = (p.category || '').toLowerCase();
-    const bg = CAT_BG[cat] || 'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
-    const emoji = CAT_EMOJI[cat] || '📦';
     const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
-    
-    let imgHtml;
-    if (p.image) {
-      imgHtml = `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" onerror="this.style.display='none';this.parentElement.querySelector('.img-fallback').style.display='flex'">`;
-    } else {
-      imgHtml = '';
-    }
+    const imgSrc = p.image || 'https://via.placeholder.com/400x400/2563eb/ffffff?text=' + encodeURIComponent(p.name.substring(0, 20));
     
     return `
       <div class="product-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
-        <div class="product-thumb" style="background:${bg};position:relative;overflow:hidden;">
-          ${imgHtml}
-          <div class="img-fallback" style="display:${p.image ? 'none' : 'flex'};position:absolute;inset:0;align-items:center;justify-content:center;font-size:48px;">${emoji}</div>
+        <div class="product-thumb" style="position:relative;overflow:hidden;background:linear-gradient(135deg,#dbeafe,#bfdbfe);">
+          <img src="${esc(imgSrc)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
           ${hasQC ? '<div class="qc-badge" style="position:absolute;top:8px;right:8px;background:var(--green);color:white;font-size:10px;font-weight:700;padding:3px 8px;border-radius:12px;">QC ✓</div>' : ''}
         </div>
         <div class="product-info">
@@ -256,7 +246,7 @@ function openProductModal(product) {
   modal.className = 'modal-backdrop active';
   
   const hasQC = product.qc && product.qcImages && product.qcImages.length > 0;
-  const mainImage = product.image || '';
+  const mainImage = product.image || 'https://via.placeholder.com/600x400/2563eb/ffffff?text=' + encodeURIComponent(product.name.substring(0, 30));
   
   let qcGalleryHtml = '';
   if (hasQC) {
@@ -268,7 +258,7 @@ function openProductModal(product) {
         <div class="qc-gallery">
           ${product.qcImages.map((img, i) => `
             <div class="qc-thumb" onclick="showQCImage('${esc(img)}', ${i})">
-              <img src="${esc(img)}" alt="QC ${i+1}" loading="lazy" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2240%22 height=%2240%22><rect fill=%22%23e2e8f0%22 width=%2240%22 height=%2240%22/><text x=%2250%%22 y=%2250%%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 fill=%2294a3b8%22 font-size=%2210%22>QC</text></svg>'">
+              <img src="${esc(img)}" alt="QC ${i+1}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
             </div>
           `).join('')}
         </div>
@@ -284,10 +274,7 @@ function openProductModal(product) {
       </div>
       <div class="modal-body">
         <div class="product-detail-image">
-          <img src="${esc(mainImage)}" alt="${esc(product.name)}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" style="width:100%;max-height:400px;object-fit:contain;border-radius:12px;background:var(--surface2);">
-          <div class="product-image-placeholder" style="display:none;width:100%;height:300px;background:${CAT_BG[product.category] || 'linear-gradient(135deg,#e2e8f0,#cbd5e1)'};border-radius:12px;align-items:center;justify-content:center;font-size:48px;">
-            ${CAT_EMOJI[product.category] || '📦'}
-          </div>
+          <img src="${esc(mainImage)}" alt="${esc(product.name)}" style="width:100%;max-height:400px;object-fit:contain;border-radius:12px;background:var(--surface2);">
         </div>
         <div style="margin-top:16px;">
           <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:12px;">
