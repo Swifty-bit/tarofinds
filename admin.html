@@ -91,22 +91,12 @@
       <form id="loginForm">
         <div class="form-group">
           <label for="loginUsername">Username</label>
-          <input
-            type="text"
-            id="loginUsername"
-            placeholder="Enter username"
-            autocomplete="username"
-          />
+          <input type="text" id="loginUsername" placeholder="Enter username" autocomplete="username" />
         </div>
 
         <div class="form-group">
           <label for="loginPassword">Password</label>
-          <input
-            type="password"
-            id="loginPassword"
-            placeholder="Enter password"
-            autocomplete="current-password"
-          />
+          <input type="password" id="loginPassword" placeholder="Enter password" autocomplete="current-password" />
         </div>
 
         <button class="btn btn-primary" id="loginBtn" type="submit">Login</button>
@@ -410,37 +400,5 @@
 
   <script src="app.js"></script>
   <script src="admin.js"></script>
-  <script>
-    const _origShowDashboard = showDashboard;
-    showDashboard = function () {
-      _origShowDashboard();
-      const navActions = document.getElementById('adminNavActions');
-      const navLogin = document.getElementById('adminNavLogin');
-      const navUserName = document.getElementById('navUserName');
-      const navUserRole = document.getElementById('navUserRole');
-
-      if (navActions) navActions.style.display = 'flex';
-      if (navLogin) navLogin.style.display = 'none';
-
-      if (window.adminState && window.adminState.user) {
-        if (navUserName) navUserName.textContent = window.adminState.user.username || '—';
-        if (navUserRole) navUserRole.textContent = window.adminState.user.role || '—';
-      }
-
-      if (typeof loadSettingToggles === 'function') {
-        loadSettingToggles();
-      }
-    };
-
-    const _origAdminLogout = adminLogout;
-    adminLogout = function () {
-      _origAdminLogout();
-      const navActions = document.getElementById('adminNavActions');
-      const navLogin = document.getElementById('adminNavLogin');
-
-      if (navActions) navActions.style.display = 'none';
-      if (navLogin) navLogin.style.display = 'flex';
-    };
-  </script>
 </body>
 </html>
