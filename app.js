@@ -143,7 +143,6 @@ async function loadData() {
   window.PRODUCTS = PRODUCTS;
   window.SELLERS = SELLERS;
 }
-}
 
 /* ── Best Sellers Panel ── */
 function buildSellerPanel() {
