@@ -15,11 +15,8 @@
       <img src="assets/reptaro-logo.png" alt="REP•TARO" />
       REP<span class="bdot">•</span>TARO
     </a>
-    <div class="nav-search">
-      <input id="searchInput" type="search" placeholder="Search products, sellers, categories…" autocomplete="off" />
-      <button class="nav-search-btn" aria-label="Search">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-      </button>
+    <div class="nav-search" style="visibility:hidden;flex:1">
+      <input type="search" disabled />
     </div>
     <div class="nav-right">
       <button class="currency-btn" id="currencyBtn">
@@ -53,6 +50,19 @@
         </div>
       </div>
     </section>
+
+    <!-- SEARCH BAR -->
+    <div class="home-search-wrap" style="display:flex;justify-content:center;margin:-8px 0 -4px">
+      <div class="nav-search" style="max-width:600px;flex:1;background:rgba(255,255,255,0.12);border:1px solid rgba(255,255,255,0.25);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px)">
+        <input id="searchInput" type="search" placeholder="Search products, sellers, categories…" autocomplete="off" style="color:white" />
+        <button class="nav-search-btn" aria-label="Search">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- SCROLLING CATEGORIES -->
+    <div class="category-marquee" id="categoryMarquee"></div>
 
     <!-- FEATURED CATALOG + BEST SELLERS -->
     <div class="main-grid">
@@ -132,10 +142,10 @@
     <a class="bnav-item" href="forums.html">
       <span class="bnav-icon">💬</span><span>Forums</span>
     </a>
-    <a class="bnav-item" href="#">
+    <a class="bnav-item" href="alerts.html">
       <span class="bnav-icon">🔔</span><span>Alerts</span>
     </a>
-    <a class="bnav-item" href="#">
+    <a class="bnav-item" href="announcements.html">
       <span class="bnav-icon">📣</span><span>News</span>
     </a>
     <a class="bnav-item" href="tools.html">
@@ -145,23 +155,7 @@
 
   <!-- COUPON MODAL -->
   <div class="modal-backdrop" id="couponModal">
-    <div class="coupon-box">
-      <div class="coupon-bg"></div>
-      <button class="coupon-x" id="couponClose">✕</button>
-      <div class="coupon-inner">
-        <div class="coupon-tag">🎁 Special Offer</div>
-        <h3 id="couponTitle">Welcome to REP•TARO!</h3>
-        <p id="couponMessage">Use the invite code below to register and start ordering with our trusted sellers.</p>
-        <div class="coupon-code-box">
-          <span id="couponCode">REPTARO</span>
-          <button class="copy-btn" id="copyCodeBtn">Copy</button>
-        </div>
-        <div class="coupon-actions">
-          <button class="c-btn-white" id="couponGo">Register Now</button>
-          <button class="c-btn-outline" id="couponDismiss">Don't show again</button>
-        </div>
-      </div>
-    </div>
+    <div class="coupon-box"></div>
   </div>
 
   <!-- CURRENCY MODAL -->

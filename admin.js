@@ -367,6 +367,44 @@ function updateStaffList() {
   `).join('');
 }
 
+// Edit product (populate form with existing data)
+function editProduct(productId) {
+  const p = adminState.products.find(x => x.id === productId);
+  if (!p) return;
+  document.getElementById('addProdName').value = p.name || '';
+  document.getElementById('addProdCategory').value = p.category || 'shoes';
+  document.getElementById('addProdPrice').value = p.price || '';
+  document.getElementById('addProdSeller').value = p.seller || '';
+  document.getElementById('addProdLink').value = p.link || '';
+  document.getElementById('addProdImage').value = p.image || '';
+  document.getElementById('addProdQC').value = (p.qcImages || []).join(', ');
+  // Remove old entry so re-adding replaces it
+  adminState.products = adminState.products.filter(x => x.id !== productId);
+  saveProducts();
+  updateProductList();
+  updateKPIs();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  toast('Editing product — update fields and click Add Product');
+}
+
+// Change password
+function changePassword() {
+  const current = prompt('Enter your current password:');
+  if (!current) return;
+  if (current !== adminState.user.password) { toast('Wrong current password'); return; }
+  const newPass = prompt('Enter new password (min 6 chars):');
+  if (!newPass || newPass.length < 6) { toast('Password must be at least 6 characters'); return; }
+  const confirm2 = prompt('Confirm new password:');
+  if (newPass !== confirm2) { toast('Passwords do not match'); return; }
+  const staff = adminState.staff.find(s => s.username === adminState.user.username);
+  if (staff) {
+    staff.password = newPass;
+    adminState.user.password = newPass;
+    saveStaff();
+    toast('Password changed successfully!');
+  }
+}
+
 // Delete functions
 function deleteProduct(productId) {
   if (!confirm('Are you sure you want to delete this product?')) return;

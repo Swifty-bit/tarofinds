@@ -12,6 +12,22 @@ const SITE = {
   }
 };
 
+/* ── i18n ── */
+const LANGS = {
+  en: { welcome:'Welcome to REP•TARO!', couponMsg:'Use the invite code below to register and start ordering with our trusted sellers.', register:'Register Now', dismiss:"Don't show again", copy:'Copy', language:'Language', currency:'Currency', selectLang:'Select Language', selectCurr:'Select Currency', next:'Next', back:'Back' },
+  de: { welcome:'Willkommen bei REP•TARO!', couponMsg:'Verwende den Einladungscode unten, um dich zu registrieren und bei unseren vertrauenswürdigen Verkäufern zu bestellen.', register:'Jetzt registrieren', dismiss:'Nicht mehr anzeigen', copy:'Kopieren', language:'Sprache', currency:'Währung', selectLang:'Sprache wählen', selectCurr:'Währung wählen', next:'Weiter', back:'Zurück' },
+  fi: { welcome:'Tervetuloa REP•TAROon!', couponMsg:'Käytä alla olevaa kutsukoodia rekisteröityäksesi ja aloittaaksesi tilaamisen luotetuilta myyjiltämme.', register:'Rekisteröidy nyt', dismiss:'Älä näytä uudelleen', copy:'Kopioi', language:'Kieli', currency:'Valuutta', selectLang:'Valitse kieli', selectCurr:'Valitse valuutta', next:'Seuraava', back:'Takaisin' },
+  es: { welcome:'¡Bienvenido a REP•TARO!', couponMsg:'Usa el código de invitación a continuación para registrarte y comenzar a pedir con nuestros vendedores de confianza.', register:'Regístrate ahora', dismiss:'No mostrar de nuevo', copy:'Copiar', language:'Idioma', currency:'Moneda', selectLang:'Seleccionar idioma', selectCurr:'Seleccionar moneda', next:'Siguiente', back:'Atrás' },
+  pl: { welcome:'Witamy w REP•TARO!', couponMsg:'Użyj poniższego kodu zaproszenia, aby się zarejestrować i zacząć zamawiać u naszych zaufanych sprzedawców.', register:'Zarejestruj się', dismiss:'Nie pokazuj ponownie', copy:'Kopiuj', language:'Język', currency:'Waluta', selectLang:'Wybierz język', selectCurr:'Wybierz walutę', next:'Dalej', back:'Wstecz' },
+  fr: { welcome:'Bienvenue sur REP•TARO!', couponMsg:'Utilisez le code d\'invitation ci-dessous pour vous inscrire et commencer à commander auprès de nos vendeurs de confiance.', register:'S\'inscrire', dismiss:'Ne plus afficher', copy:'Copier', language:'Langue', currency:'Devise', selectLang:'Choisir la langue', selectCurr:'Choisir la devise', next:'Suivant', back:'Retour' },
+  nl: { welcome:'Welkom bij REP•TARO!', couponMsg:'Gebruik de uitnodigingscode hieronder om te registreren en te beginnen met bestellen bij onze vertrouwde verkopers.', register:'Nu registreren', dismiss:'Niet meer tonen', copy:'Kopiëren', language:'Taal', currency:'Valuta', selectLang:'Selecteer taal', selectCurr:'Selecteer valuta', next:'Volgende', back:'Terug' },
+  pt: { welcome:'Bem-vindo ao REP•TARO!', couponMsg:'Use o código de convite abaixo para se registrar e começar a pedir com nossos vendedores confiáveis.', register:'Registre-se agora', dismiss:'Não mostrar novamente', copy:'Copiar', language:'Idioma', currency:'Moeda', selectLang:'Selecionar idioma', selectCurr:'Selecionar moeda', next:'Próximo', back:'Voltar' },
+};
+const LANG_LABELS = { en:'🇬🇧 English', de:'🇩🇪 Deutsch', fi:'🇫🇮 Suomi', es:'🇪🇸 Español', pl:'🇵🇱 Polski', fr:'🇫🇷 Français', nl:'🇳🇱 Nederlands', pt:'🇵🇹 Português' };
+let activeLang = localStorage.getItem('rt_lang') || 'en';
+function t(key) { return (LANGS[activeLang] || LANGS.en)[key] || LANGS.en[key] || key; }
+function setLang(code) { activeLang = code; localStorage.setItem('rt_lang', code); }
+
 /* ── Currency rates (CNY base — all Weidian prices are in CNY) ── */
 const RATES = { CNY:1, USD:0.138, GBP:0.109, EUR:0.127, AUD:0.214, CAD:0.188, JPY:20.9, SGD:0.185 };
 const SYMBOLS = { CNY:'¥', USD:'$', GBP:'£', EUR:'€', AUD:'A$', CAD:'C$', JPY:'¥', SGD:'S$' };
@@ -83,10 +99,23 @@ async function loadData() {
           const img = p.image || p.imageUrl || p.photo || '';
           const link = (p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#')
             .replace(/inviteCode=SWIFTY/gi, 'inviteCode=REPTARO');
+          const rawName = (p.name || '').trim().replace(/\n/g, ' ');
+          let cat = (p.category || p.tag || '').toLowerCase().trim();
+          if (!cat) {
+            const n = rawName.toLowerCase();
+            if (/shoe|jordan|dunk|force|yeezy|trainer|sneaker|boot/i.test(n)) cat = 'shoes';
+            else if (/hoodie|hoody/i.test(n)) cat = 'hoodies';
+            else if (/jacket|puffer|coat|down\b|goose|nuptse|moncler/i.test(n)) cat = 'jackets';
+            else if (/watch|bag|belt|hat|cap|sunglasse|wallet|chain|ring|bracelet|necklace|beanie/i.test(n)) cat = 'accessories';
+            else if (/headphone|earphone|airpod|speaker|charger|phone/i.test(n)) cat = 'electronics';
+            else if (/t-shirt|tee|short|polo/i.test(n)) cat = 'clothes';
+            else if (/shirt|trouser|pant|jean|sweat|track/i.test(n)) cat = 'clothes';
+            else cat = 'clothes';
+          }
           return {
             id: p.id || 'p' + i,
-            name: (p.name || '').trim().replace(/\n/g, ' '),
-            category: (p.category || p.tag || 'other').toLowerCase().trim() || 'other',
+            name: rawName,
+            category: cat,
             seller: p.seller || p.agentName || '',
             price: parseFloat(p.price || p.sellPrice) || 0,
             featured: p.featured === true || i < 12,
@@ -142,24 +171,22 @@ function buildFeaturedGrid() {
 function buildSellerPanel() {
   const top = $('#bsTopSlot');
   const list = $('#sellerList');
-  if (!top || !list || !SELLERS.length) return;
-  const [first, ...rest] = SELLERS;
-  const initials = n => n.substring(0, 2).toUpperCase();
-  const avatarHtml = s => s.logo ? `<img src="${esc(s.logo)}" alt="${esc(s.name)}" onerror="this.style.display='none'">` : `<span>${initials(s.name)}</span>`;
-  top.innerHTML = `
-    <a class="bs-top" href="${esc(first.link)}" target="_blank" rel="noopener">
-      <div class="bs-avatar-lg">${avatarHtml(first)}</div>
-      <div>
-        <div class="s-name">${esc(first.name)} <span class="vbadge">✓</span></div>
-        <div class="s-count">Featured Seller</div>
-      </div>
-    </a>`;
-  list.innerHTML = rest.slice(0, 6).map((s, i) => `
+  const bsLabel = document.querySelector('.bs-label');
+  if (top) top.style.display = 'none';
+  if (bsLabel) bsLabel.style.display = 'none';
+  if (!list || !SELLERS.length) return;
+  const avatarHtml = s => {
+    if (s.logo && !s.logo.startsWith('data:image/jpeg;base64')) {
+      return `<img src="${esc(s.logo)}" alt="${esc(s.name)}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span style="display:none;width:100%;height:100%;align-items:center;justify-content:center">${s.name.substring(0,2).toUpperCase()}</span>`;
+    }
+    return `<span>${s.name.substring(0,2).toUpperCase()}</span>`;
+  };
+  list.innerHTML = SELLERS.slice(0, 8).map(s => `
     <a class="seller-row" href="${esc(s.link)}" target="_blank" rel="noopener">
       <div class="s-avatar">${avatarHtml(s)}</div>
       <div class="s-info">
         <div class="s-name">${esc(s.name)}${s.verified ? '<span class="vbadge">✓</span>' : ''}</div>
-        <div class="s-count">${PRODUCTS.filter(pr=>pr.seller===s.name).length} Products</div>
+        <div class="s-count">${esc(s.description)}</div>
       </div>
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg>
     </a>`).join('');
@@ -256,6 +283,7 @@ function openProductModal(product) {
         ${qcGalleryHtml}
         <div style="margin-top:20px;display:flex;gap:10px;">
           <a href="${esc(product.link)}" target="_blank" rel="noopener" class="btn btn-primary" style="flex:1;justify-content:center;">View Product →</a>
+          <button class="btn btn-ghost" onclick="saveProduct()">💾 Save</button>
           <button class="btn btn-ghost" onclick="copyProductLink('${esc(product.link)}')">Copy Link</button>
         </div>
       </div>
@@ -317,6 +345,15 @@ function nextQCImage(currentIdx) {
 
 function copyProductLink(link) {
   navigator.clipboard?.writeText(link).then(() => toast('Link copied! 📋')).catch(() => toast('Failed to copy'));
+}
+
+function saveProduct() {
+  if (!currentProduct) return;
+  const saved = JSON.parse(localStorage.getItem('rt_saved_items') || '[]');
+  if (saved.find(s => s.id === currentProduct.id)) { toast('Already saved!'); return; }
+  saved.push({ id: currentProduct.id, name: currentProduct.name, image: currentProduct.image, price: fmt(currentProduct.price), link: currentProduct.link });
+  localStorage.setItem('rt_saved_items', JSON.stringify(saved));
+  toast('Item saved! View in Profile.');
 }
 
 /* ── CATALOGUE PAGE ── */
@@ -431,6 +468,10 @@ function initAnnouncementsPage() {
   if(document.body.dataset.page !== 'announcements') return;
   const list=$('#announcementsList');
   if(!list) return;
+  if(!ANNOUNCEMENTS.length) {
+    list.innerHTML='<div class="empty-state"><div class="empty-icon">📣</div><div class="empty-text">No announcements yet. Check back soon!</div></div>';
+    return;
+  }
   list.innerHTML=ANNOUNCEMENTS.map(a=>`
     <div class="ann-card ann-level-${a.tag.toLowerCase()}">
       <div class="ann-icon">${a.icon}</div>
@@ -447,6 +488,10 @@ function initAlertsPage() {
   if(document.body.dataset.page !== 'alerts') return;
   const list=$('#alertsList');
   if(!list) return;
+  if(!ALERTS.length) {
+    list.innerHTML='<div class="empty-state"><div class="empty-icon">🔔</div><div class="empty-text">No alerts right now. Everything looks good!</div></div>';
+    return;
+  }
   list.innerHTML=ALERTS.map(a=>`
     <div class="alert-card alert-${a.level}">
       <div class="alert-icon">${a.icon}</div>
@@ -477,7 +522,7 @@ function updateStats() {
   if (statSellers) statSellers.textContent = SELLERS.length;
 }
 
-/* ── Coupon Popup ── */
+/* ── Welcome Popup (language → currency → coupon) ── */
 function initCoupon() {
   const modal = $('#couponModal');
   if (!modal) return;
@@ -485,32 +530,57 @@ function initCoupon() {
   const dismissed = localStorage.getItem('rt_coupon_dismissed');
   if (dismissed) return;
 
-  const titleEl = $('#couponTitle');
-  const msgEl = $('#couponMessage');
-  const codeEl = $('#couponCode');
-  if (titleEl) titleEl.textContent = SITE.coupon.title;
-  if (msgEl) msgEl.textContent = SITE.coupon.message;
-  if (codeEl) codeEl.textContent = SITE.inviteCode;
+  let step = 1; // 1=lang, 2=currency, 3=coupon
+  function renderStep() {
+    const box = modal.querySelector('.coupon-box');
+    if (!box) return;
+    if (step === 1) {
+      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
+        <div class="coupon-inner">
+          <div class="coupon-tag">🌍 ${t('selectLang')}</div>
+          <h3>${t('language')}</h3>
+          <div class="welcome-lang-grid">${Object.entries(LANG_LABELS).map(([code,label])=>`<button class="welcome-opt${activeLang===code?' active':''}" data-lang="${code}">${label}</button>`).join('')}</div>
+          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-white" id="langNext">${t('next')} →</button></div>
+        </div>`;
+      box.querySelectorAll('[data-lang]').forEach(b=>b.addEventListener('click',()=>{
+        setLang(b.dataset.lang); box.querySelectorAll('[data-lang]').forEach(x=>x.classList.toggle('active',x===b)); renderStep();
+      }));
+      box.querySelector('#langNext')?.addEventListener('click',()=>{step=2;renderStep();});
+    } else if (step === 2) {
+      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
+        <div class="coupon-inner">
+          <div class="coupon-tag">💱 ${t('selectCurr')}</div>
+          <h3>${t('currency')}</h3>
+          <div class="welcome-curr-grid">${Object.entries(SYMBOLS).map(([code,sym])=>`<button class="welcome-opt${activeCurrency===code?' active':''}" data-curr="${code}">${sym} ${code}</button>`).join('')}</div>
+          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-outline" id="currBack">← ${t('back')}</button><button class="c-btn-white" id="currNext">${t('next')} →</button></div>
+        </div>`;
+      box.querySelectorAll('[data-curr]').forEach(b=>b.addEventListener('click',()=>{
+        setActiveCurrency(b.dataset.curr); box.querySelectorAll('[data-curr]').forEach(x=>x.classList.toggle('active',x===b));
+      }));
+      box.querySelector('#currBack')?.addEventListener('click',()=>{step=1;renderStep();});
+      box.querySelector('#currNext')?.addEventListener('click',()=>{step=3;renderStep();});
+    } else {
+      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" id="couponClose">✕</button>
+        <div class="coupon-inner">
+          <div class="coupon-tag">🎁 Special Offer</div>
+          <h3>${t('welcome')}</h3>
+          <p>${t('couponMsg')}</p>
+          <div class="coupon-code-box"><span>${SITE.inviteCode}</span><button class="copy-btn" id="copyCodeBtn">${t('copy')}</button></div>
+          <div class="coupon-actions">
+            <button class="c-btn-white" id="couponGo">${t('register')}</button>
+            <button class="c-btn-outline" id="couponDismiss">${t('dismiss')}</button>
+          </div>
+        </div>`;
+      box.querySelector('#couponClose')?.addEventListener('click',()=>modal.classList.remove('active'));
+      box.querySelector('#copyCodeBtn')?.addEventListener('click',()=>{navigator.clipboard?.writeText(SITE.inviteCode).then(()=>toast('Code copied!')).catch(()=>{});});
+      box.querySelector('#couponGo')?.addEventListener('click',()=>{window.open(SITE.coupon.url,'_blank');modal.classList.remove('active');});
+      box.querySelector('#couponDismiss')?.addEventListener('click',()=>{localStorage.setItem('rt_coupon_dismissed','1');modal.classList.remove('active');});
+    }
+  }
 
-  const closeModal = () => { modal.classList.remove('active'); };
-
-  const closeBtn = $('#couponClose');
-  if (closeBtn) closeBtn.addEventListener('click', closeModal);
-
-  const copyBtn = $('#copyCodeBtn');
-  if (copyBtn) copyBtn.addEventListener('click', () => {
-    navigator.clipboard?.writeText(SITE.inviteCode).then(() => toast('Code copied!')).catch(() => {});
-  });
-
-  const goBtn = $('#couponGo');
-  if (goBtn) goBtn.addEventListener('click', () => { window.open(SITE.coupon.url, '_blank'); closeModal(); });
-
-  const dismissBtn = $('#couponDismiss');
-  if (dismissBtn) dismissBtn.addEventListener('click', () => { localStorage.setItem('rt_coupon_dismissed', '1'); closeModal(); });
-
-  modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
-
-  setTimeout(() => { modal.classList.add('active'); }, 1500);
+  modal.addEventListener('click',(e)=>{if(e.target===modal)modal.classList.remove('active');});
+  renderStep();
+  setTimeout(()=>{modal.classList.add('active');},1200);
 }
 
 /* ── Currency Selector ── */
@@ -557,12 +627,39 @@ function initSearch() {
   if (btn) btn.addEventListener('click', doSearch);
 }
 
+/* ── Scrolling Category Marquee ── */
+function buildCategoryMarquee() {
+  const el = $('#categoryMarquee');
+  if (!el) return;
+  const cats = {};
+  PRODUCTS.forEach(p => { const c = p.category || 'other'; cats[c] = (cats[c]||0)+1; });
+  const sorted = Object.entries(cats).sort((a,b)=>b[1]-a[1]).slice(0,20);
+  if (!sorted.length) return;
+  const items = sorted.map(([cat,count]) => {
+    const emoji = CAT_EMOJI[cat] || '📦';
+    return `<a href="catalogue.html?category=${encodeURIComponent(cat)}" class="marquee-chip">${emoji} ${cat} <span class="marquee-count">${count}</span></a>`;
+  });
+  const doubled = items.join('') + items.join('');
+  el.innerHTML = `<div class="marquee-track">${doubled}</div>`;
+  el.addEventListener('mouseenter', () => el.querySelector('.marquee-track').style.animationPlayState = 'paused');
+  el.addEventListener('mouseleave', () => el.querySelector('.marquee-track').style.animationPlayState = 'running');
+}
+
+/* ── Sellers Page avatar fix ── */
+function sellerAvatarHtml(s) {
+  if (s.logo && !s.logo.startsWith('data:image/jpeg;base64')) {
+    return `<img src="${esc(s.logo)}" alt="${esc(s.name)}" style="width:100%;height:100%;object-fit:cover;border-radius:50%" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span style="display:none;width:100%;height:100%;align-items:center;justify-content:center">${s.name.substring(0,2).toUpperCase()}</span>`;
+  }
+  return `<span>${s.name.substring(0,2).toUpperCase()}</span>`;
+}
+
 /* ── BOOT ── */
 document.addEventListener('DOMContentLoaded', async ()=>{
   await loadData();
   updateStats();
   buildFeaturedGrid();
   buildSellerPanel();
+  buildCategoryMarquee();
   buildForumPosts();
   buildAnnouncements();
   initCoupon();

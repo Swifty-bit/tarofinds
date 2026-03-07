@@ -29,7 +29,7 @@
   <div class="page">
     <div class="page-header">
       <div><h1>Forums</h1><div class="sub">Community discussion — share hauls, ask questions, help others</div></div>
-      <button class="btn btn-primary" onclick="document.getElementById('newPostModal').classList.add('active')">+ New Post</button>
+      <button class="btn btn-primary" onclick="openNewPost()">+ New Post</button>
     </div>
 
     <!-- Category tabs -->
@@ -65,8 +65,8 @@
                 <div style="font-size:11px;color:var(--muted);font-weight:600">Total Posts</div>
               </div>
               <div style="padding:10px;background:var(--surface2);border-radius:var(--r);text-align:center">
-                <div style="font-size:18px;font-weight:800;color:var(--green)">247</div>
-                <div style="font-size:11px;color:var(--muted);font-weight:600">Members</div>
+                <div style="font-size:18px;font-weight:800;color:var(--green)" id="activeCount">—</div>
+                <div style="font-size:11px;color:var(--muted);font-weight:600">Online Now</div>
               </div>
             </div>
             <div style="padding:10px;background:var(--green-light);border-radius:var(--r);border:1px solid rgba(16,185,129,0.2);font-size:12px;font-weight:600;color:var(--green)">
@@ -126,10 +126,6 @@
           <label style="font-size:12px;font-weight:700;color:var(--muted);display:block;margin-bottom:5px">Your post</label>
           <textarea class="input-field" id="newPostBody" placeholder="Share your experience, question, or haul…" style="height:100px;resize:vertical"></textarea>
         </div>
-        <div>
-          <label style="font-size:12px;font-weight:700;color:var(--muted);display:block;margin-bottom:5px">Your name</label>
-          <input class="input-field" id="newPostUser" placeholder="Your username…" />
-        </div>
       </div>
       <div class="modal-foot">
         <button class="btn btn-primary" onclick="submitPost()">Post</button>
@@ -153,17 +149,21 @@
   <script src="app.js"></script>
   <script>
     const CAT_ICONS = { Hauls:'🛍', Reviews:'⭐', Guides:'📖', Payments:'💳', Shipping:'📦', Agents:'🤝', General:'💬' };
-    let allPosts = [
-      { user:'Alex', title:'Staying safe with payment methods', body:'Always use trusted agents like LitBuy for payments. Never pay directly. Use crypto only if you understand the risks.', time:'23 minutes ago', replies:14, cat:'Payments', likes:8 },
-      { user:'Sam', title:'Community haul — March 2026!', body:'Just received a huge haul from Yishan and MOMOKICK. ArcTeryx jacket, 3 pairs of Dunks, and some Chrome Hearts jewellery. All W\'s!', time:'5 minutes ago', replies:31, cat:'Hauls', likes:27 },
-      { user:'Mike', title:'Best shipping agent right now?', body:'Been using Pandabuy for a year but considering switching. Heard LitBuy has better rates and faster processing. Anyone compared?', time:'1 hour ago', replies:8, cat:'Agents', likes:5 },
-      { user:'Kim', title:'QC tips for first-time buyers', body:'When you get QC photos: check stitching, logos, insoles, and the box. Compare with real reference photos from r/DesignerReps.', time:'2 hours ago', replies:22, cat:'Guides', likes:18 },
-      { user:'Jordan', title:'MOMOKICK Nike Dunk Low review', body:'Ordered the Panda Dunk. Arrived in 3 weeks via DHL. Quality is 9/10. Stitching is clean, shape is good. Worth every yuan.', time:'4 hours ago', replies:17, cat:'Reviews', likes:13 },
-      { user:'Taylor', title:'LitBuy vs Pandabuy — detailed comparison 2026', body:'After using both for 6 months, LitBuy has better customer service and slightly lower fees. Pandabuy has more storage capacity. Depends on your order size.', time:'6 hours ago', replies:45, cat:'Agents', likes:39 },
-      { user:'Riley', title:'Customs clearance tips for UK', body:'Had 3 packages seized in the past year. Key tips: keep declared value under £135, use "gift" marking, spread orders across weeks.', time:'8 hours ago', replies:12, cat:'Shipping', likes:22 },
-      { user:'Casey', title:'March haul from EVGA — Balenciaga Triple S', body:'Finally got the Triple S from EVGA. Took 4 weeks. QC looked amazing. Real vs rep comparison was very hard to spot the difference. 10/10 seller.', time:'Yesterday', replies:9, cat:'Hauls', likes:15 },
-    ];
+    let allPosts = JSON.parse(localStorage.getItem('rt_forum_posts') || '[]');
     let activeFCat = 'all';
+
+    function getDiscordUser() {
+      return JSON.parse(localStorage.getItem('rt_discord_user') || 'null');
+    }
+    function isLoggedIn() { return !!getDiscordUser(); }
+
+    function requireLogin(action) {
+      if (isLoggedIn()) return true;
+      toast('You must log in with Discord to ' + action + '. Use /login on our Discord bot.');
+      return false;
+    }
+
+    function savePosts() { localStorage.setItem('rt_forum_posts', JSON.stringify(allPosts)); }
 
     function setForumCat(cat, btn) {
       activeFCat = cat;
@@ -177,6 +177,17 @@
     }
     document.getElementById('forumSearchInput').addEventListener('input', () => filterPosts());
 
+    function timeAgo(ts) {
+      const diff = Date.now() - ts;
+      const mins = Math.floor(diff/60000);
+      if (mins < 1) return 'Just now';
+      if (mins < 60) return mins + 'm ago';
+      const hrs = Math.floor(mins/60);
+      if (hrs < 24) return hrs + 'h ago';
+      const days = Math.floor(hrs/24);
+      return days + 'd ago';
+    }
+
     function renderPosts(q = '') {
       const list = allPosts.filter(p => {
         const catMatch = activeFCat === 'all' || p.cat === activeFCat;
@@ -186,27 +197,46 @@
       document.getElementById('postCount').textContent = `${list.length} post${list.length !== 1 ? 's' : ''}`;
       document.getElementById('totalPostCount').textContent = allPosts.length;
       const el = document.getElementById('forumPostsList');
-      el.innerHTML = list.map((p, i) => `
-        <div class="forum-full-post" onclick="togglePost(${i})">
-          <div class="forum-post-top">
+      if (!list.length) {
+        el.innerHTML = '<div style="padding:40px;text-align:center;color:var(--muted)">No posts yet. Be the first to post!</div>';
+        return;
+      }
+      el.innerHTML = list.map((p, idx) => {
+        const pi = allPosts.indexOf(p);
+        const replies = (p.replies || []);
+        const t = typeof p.time === 'number' ? timeAgo(p.time) : p.time;
+        return `
+        <div class="forum-full-post">
+          <div class="forum-post-top" onclick="togglePost(${pi})">
             <div class="fp-avatar" style="flex-shrink:0">${p.user.substring(0,2).toUpperCase()}</div>
             <div style="flex:1;min-width:0">
-              <div style="font-size:13px;font-weight:700;color:var(--ink)">${p.title}</div>
-              <div style="font-size:11px;color:var(--muted);font-weight:500;margin-top:2px">${p.user} · ${p.time}</div>
+              <div style="font-size:13px;font-weight:700;color:var(--ink)">${esc(p.title)}</div>
+              <div style="font-size:11px;color:var(--muted);font-weight:500;margin-top:2px">${esc(p.user)} · ${t}</div>
             </div>
             <div style="display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0">
               <span class="badge" style="background:var(--blue-light);color:var(--blue);border:1px solid var(--blue-mid)">${CAT_ICONS[p.cat]||'💬'} ${p.cat}</span>
-              <span style="font-size:11px;color:var(--muted)">💬 ${p.replies} · ❤️ ${p.likes}</span>
+              <span style="font-size:11px;color:var(--muted)">💬 ${replies.length} · ❤️ ${p.likes||0}</span>
             </div>
           </div>
-          <div class="forum-post-body" id="post-body-${i}" style="display:none">
-            <p style="font-size:13px;color:var(--ink2);line-height:1.6;margin:10px 0">${p.body}</p>
+          <div class="forum-post-body" id="post-body-${pi}" style="display:none">
+            <p style="font-size:13px;color:var(--ink2);line-height:1.6;margin:10px 0">${esc(p.body)}</p>
             <div style="display:flex;gap:8px;margin-top:8px">
-              <button class="btn btn-ghost" style="font-size:11px;padding:4px 10px" onclick="event.stopPropagation();likePost(${i})">❤️ Like (${p.likes})</button>
-              <button class="btn btn-primary" style="font-size:11px;padding:4px 10px" onclick="event.stopPropagation()">💬 Reply</button>
+              <button class="btn btn-ghost" style="font-size:11px;padding:4px 10px" onclick="event.stopPropagation();likePost(${pi})">❤️ Like (${p.likes||0})</button>
+            </div>
+            ${replies.length ? `<div style="margin-top:12px;padding-top:12px;border-top:1px solid var(--line)">
+              <div style="font-size:11px;font-weight:700;color:var(--muted);margin-bottom:8px">REPLIES (${replies.length})</div>
+              ${replies.map(r => `<div style="display:flex;gap:8px;padding:8px 0;border-bottom:1px solid var(--line)">
+                <div class="fp-avatar" style="width:26px;height:26px;font-size:9px;flex-shrink:0">${r.user.substring(0,2).toUpperCase()}</div>
+                <div><div style="font-size:12px;font-weight:600">${esc(r.user)} <span style="font-size:10px;color:var(--muted);font-weight:400">${typeof r.time==='number'?timeAgo(r.time):r.time}</span></div><div style="font-size:12px;color:var(--ink2);margin-top:2px">${esc(r.body)}</div></div>
+              </div>`).join('')}
+            </div>` : ''}
+            <div style="margin-top:12px;display:flex;gap:8px">
+              <input class="input-field" id="reply-${pi}" placeholder="Write a reply…" style="flex:1;font-size:12px;padding:8px 12px" onclick="event.stopPropagation()">
+              <button class="btn btn-primary" style="font-size:11px;padding:6px 14px" onclick="event.stopPropagation();submitReply(${pi})">Reply</button>
             </div>
           </div>
-        </div>`).join('') || `<div style="padding:40px;text-align:center;color:var(--muted)">No posts in this category yet</div>`;
+        </div>`;
+      }).join('');
     }
 
     function togglePost(i) {
@@ -215,27 +245,63 @@
     }
 
     function likePost(i) {
-      allPosts[i].likes++;
+      if (!requireLogin('like posts')) return;
+      allPosts[i].likes = (allPosts[i].likes||0) + 1;
+      savePosts();
       renderPosts(document.getElementById('forumSearchInput').value.toLowerCase());
     }
 
+    function submitReply(i) {
+      if (!requireLogin('reply to posts')) return;
+      const input = document.getElementById(`reply-${i}`);
+      const body = input.value.trim();
+      if (!body) return;
+      const user = getDiscordUser();
+      if (!allPosts[i].replies) allPosts[i].replies = [];
+      allPosts[i].replies.push({ user: user.username || user.name || 'User', body, time: Date.now() });
+      input.value = '';
+      savePosts();
+      renderPosts(document.getElementById('forumSearchInput').value.toLowerCase());
+      toast('Reply posted!');
+    }
+
+    function openNewPost() {
+      if (!requireLogin('create posts')) return;
+      document.getElementById('newPostModal').classList.add('active');
+    }
+
     function submitPost() {
+      if (!requireLogin('create posts')) return;
       const title = document.getElementById('newPostTitle').value.trim();
       const body = document.getElementById('newPostBody').value.trim();
-      const user = document.getElementById('newPostUser').value.trim() || 'Anonymous';
+      const user = getDiscordUser();
       const cat = document.getElementById('newPostCat').value;
       if (!title || !body) { toast('Please fill in title and post content'); return; }
-      allPosts.unshift({ user, title, body, time:'Just now', replies:0, cat, likes:0 });
+      allPosts.unshift({ user: user.username || user.name || 'User', title, body, time: Date.now(), replies:[], cat, likes:0 });
+      savePosts();
       document.getElementById('newPostModal').classList.remove('active');
       document.getElementById('newPostTitle').value = '';
       document.getElementById('newPostBody').value = '';
       renderPosts();
-      toast('Post published! ✓');
+      toast('Post published!');
     }
 
     document.getElementById('newPostModal').addEventListener('click', e => {
       if (e.target === document.getElementById('newPostModal')) document.getElementById('newPostModal').classList.remove('active');
     });
+
+    // Active users counter - simulated based on time
+    function updateActiveUsers() {
+      const base = 12;
+      const variance = Math.floor(Math.random() * 8);
+      const hour = new Date().getHours();
+      const timeBonus = (hour >= 16 && hour <= 23) ? 15 : (hour >= 10 && hour <= 15) ? 8 : 3;
+      const count = base + variance + timeBonus;
+      const el = document.querySelector('#activeCount');
+      if (el) el.textContent = count;
+    }
+    updateActiveUsers();
+    setInterval(updateActiveUsers, 30000);
 
     renderPosts();
   </script>
