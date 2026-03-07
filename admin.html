@@ -6,6 +6,56 @@
   <title>REP•TARO — Admin Panel</title>
   <link rel="icon" href="assets/reptaro-logo.png" />
   <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* ── Admin Nav Overrides ── */
+    .admin-nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: nowrap;
+    }
+    .admin-user-chip {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--surface2);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 6px 12px;
+      font-size: 13px;
+    }
+    .admin-user-chip .u-name { font-weight: 700; color: var(--ink); }
+    .admin-user-chip .u-role { font-size: 11px; color: var(--muted); }
+    .btn-admin-action {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 150ms;
+      white-space: nowrap;
+    }
+    .btn-change-pass {
+      background: var(--blue-light);
+      color: var(--blue);
+      border: 1px solid var(--blue-mid);
+    }
+    .btn-change-pass:hover { background: var(--blue-mid); }
+    .btn-logout-admin {
+      background: rgba(239,68,68,0.1);
+      color: var(--red);
+      border: 1px solid rgba(239,68,68,0.2);
+    }
+    .btn-logout-admin:hover { background: rgba(239,68,68,0.2); }
+    @media (max-width: 600px) {
+      .admin-user-chip .u-role { display: none; }
+      .btn-admin-action span { display: none; }
+      .btn-admin-action { padding: 10px 12px; }
+    }
+  </style>
 </head>
 <body data-page="admin">
 
@@ -14,16 +64,24 @@
       <img src="assets/reptaro-logo.png" alt="REP•TARO" />
       REP<span class="bdot">•</span>TARO
     </a>
-    <div class="nav-search">
-      <input type="search" placeholder="Search admin…" autocomplete="off" />
-      <button class="nav-search-btn">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+    <div style="flex:1"></div>
+    <div class="admin-nav-actions" id="adminNavActions" style="display:none;">
+      <div class="admin-user-chip">
+        <div class="p-avatar" style="font-size:16px;">👤</div>
+        <div>
+          <div class="u-name" id="navUserName">—</div>
+          <div class="u-role" id="navUserRole">—</div>
+        </div>
+      </div>
+      <button class="btn-admin-action btn-change-pass" onclick="changePassword()">
+        🔑 <span>Change Password</span>
+      </button>
+      <button class="btn-admin-action btn-logout-admin" onclick="adminLogout()">
+        🚪 <span>Log Out</span>
       </button>
     </div>
-    <div class="nav-right">
-      <span class="badge badge-red" style="font-size:12px;padding:5px 12px">🛡️ Staff</span>
-      <button class="btn btn-ghost" style="font-size:11px;padding:4px 10px" onclick="changePassword()">🔑 Change Password</button>
-      <button class="profile-btn" onclick="adminLogout()"><div class="p-avatar">👤</div><span>Logout</span></button>
+    <div id="adminNavLogin" style="display:flex;align-items:center;">
+      <span class="badge badge-red" style="font-size:12px;padding:5px 12px;">🛡️ Staff Area</span>
     </div>
   </nav>
 
@@ -33,17 +91,17 @@
       <h2>🔐 Staff Login</h2>
       <div class="form-group">
         <label>Username</label>
-        <input type="text" id="loginUsername" placeholder="Enter username" />
+        <input type="text" id="loginUsername" placeholder="Enter username" autocomplete="username" />
       </div>
       <div class="form-group">
         <label>Password</label>
-        <input type="password" id="loginPassword" placeholder="Enter password" />
+        <input type="password" id="loginPassword" placeholder="Enter password" autocomplete="current-password" />
       </div>
       <button class="btn btn-primary" onclick="adminLogin()">Login</button>
       <div id="loginError" style="color:var(--red);font-size:13px;margin-top:12px;text-align:center;display:none;"></div>
     </div>
 
-    <!-- Admin Dashboard (hidden until login) -->
+    <!-- Admin Dashboard -->
     <div id="adminDashboard" style="display:none;">
       <div class="page-header">
         <div>
@@ -51,7 +109,7 @@
           <div class="sub">Staff-only dashboard — <span id="adminRoleBadge" class="role-badge role-owner">Owner</span></div>
         </div>
         <div style="display:flex;gap:10px;align-items:center;">
-          <span class="api-status online" id="apiStatus">API Online</span>
+          <span class="api-status online" id="apiStatus">● Online</span>
         </div>
       </div>
 
@@ -218,10 +276,10 @@
         <div class="admin-section-body">
           <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px;">
             <div class="form-group" style="flex:1;min-width:150px;margin-bottom:0;">
-              <input type="text" id="newStaffUser" placeholder="Username" />
+              <input type="text" id="newStaffUser" placeholder="Username" autocomplete="off" />
             </div>
             <div class="form-group" style="flex:1;min-width:150px;margin-bottom:0;">
-              <input type="password" id="newStaffPass" placeholder="Password" />
+              <input type="password" id="newStaffPass" placeholder="Password" autocomplete="new-password" />
             </div>
             <div class="form-group" style="width:140px;margin-bottom:0;">
               <select id="newStaffRole">
@@ -252,7 +310,7 @@
           <div class="toggle-row">
             <div>
               <div class="toggle-label">Maintenance Mode</div>
-              <div class="toggle-sub">Show maintenance banner sitewide</div>
+              <div class="toggle-sub">Show a full-screen maintenance page to all visitors</div>
             </div>
             <div class="s-toggle" id="maintenanceToggle" onclick="toggleSetting('maintenance')"></div>
           </div>
@@ -267,6 +325,50 @@
             <button class="btn btn-ghost btn-sm" onclick="clearCache()">Clear Cache</button>
             <button class="btn btn-danger btn-sm" onclick="resetData()">Reset All Data</button>
           </div>
+        </div>
+      </div>
+
+      <!-- COUPON MANAGER -->
+      <div class="admin-section">
+        <div class="admin-section-header">
+          <h3>🎁 Coupon Manager</h3>
+          <span class="badge badge-blue">Multi-Coupon</span>
+        </div>
+        <div class="admin-section-body">
+          <!-- Add / Edit Coupon Form -->
+          <div style="background:var(--surface2);border-radius:12px;padding:16px;margin-bottom:16px;">
+            <div style="font-weight:700;font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:14px;">Add New Coupon</div>
+            <div class="admin-grid-2">
+              <div class="form-group">
+                <label>Title *</label>
+                <input type="text" id="newCouponTitle" placeholder="e.g. Welcome to REP•TARO!" />
+              </div>
+              <div class="form-group">
+                <label>Invite Code *</label>
+                <input type="text" id="newCouponCode" placeholder="e.g. REPTARO" style="font-family:monospace;text-transform:uppercase;" />
+              </div>
+            </div>
+            <div class="form-group">
+              <label>Message</label>
+              <input type="text" id="newCouponMessage" placeholder="Use the invite code below to register..." />
+            </div>
+            <div class="admin-grid-2">
+              <div class="form-group">
+                <label>Register URL</label>
+                <input type="url" id="newCouponUrl" placeholder="https://..." />
+              </div>
+              <div class="form-group">
+                <label>Button Text</label>
+                <input type="text" id="newCouponButton" placeholder="Register Now" />
+              </div>
+            </div>
+            <div style="display:flex;gap:8px;">
+              <button class="btn btn-primary" onclick="addCoupon()">Add Coupon</button>
+              <button class="btn btn-ghost" onclick="clearCouponForm()">Clear</button>
+            </div>
+          </div>
+          <!-- Coupon List -->
+          <div id="couponList" style="display:flex;flex-direction:column;gap:10px;"></div>
         </div>
       </div>
 
@@ -291,7 +393,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div><!-- /page -->
 
   <nav class="bottom-nav">
     <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
@@ -308,5 +410,21 @@
 
   <script src="app.js"></script>
   <script src="admin.js"></script>
+  <script>
+    // Wire up nav actions visibility and setting toggles after login
+    const _origShowDashboard = showDashboard;
+    function showDashboard() {
+      _origShowDashboard();
+      document.getElementById('adminNavActions').style.display = 'flex';
+      document.getElementById('adminNavLogin').style.display = 'none';
+      loadSettingToggles();
+    }
+    const _origAdminLogout = adminLogout;
+    function adminLogout() {
+      _origAdminLogout();
+      document.getElementById('adminNavActions').style.display = 'none';
+      document.getElementById('adminNavLogin').style.display = 'flex';
+    }
+  </script>
 </body>
 </html>

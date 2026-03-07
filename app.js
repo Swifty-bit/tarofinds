@@ -139,6 +139,10 @@ async function loadData() {
       }));
     }
   } catch (e) { console.warn('loadData error:', e); }
+  // Expose as globals so admin.js can access them
+  window.PRODUCTS = PRODUCTS;
+  window.SELLERS = SELLERS;
+}
 }
 
 /* ── Best Sellers Panel ── */
@@ -413,10 +417,8 @@ function initSellersPage() {
     const count=document.getElementById('sellersCount');
     if(count) count.textContent=list.length;
     grid.innerHTML=list.map(s=>{
-      const init=s.name.substring(0,2).toUpperCase();
-      const avatar=s.logo?`<img src="${esc(s.logo)}" alt="${esc(s.name)}" onerror="this.style.display='none'">${init}`:init;
       return `<div class="seller-card">
-        <div class="sc-avatar">${avatar}</div>
+        <div class="sc-avatar">${sellerAvatarHtml(s)}</div>
         <h3>${esc(s.name)}${s.verified?' <span class="vbadge">✓</span>':''}</h3>
         <p>${esc(s.description)}</p>
         <a href="${esc(s.link)}" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center">Visit Store →</a>
@@ -496,15 +498,25 @@ function updateStats() {
   if (statSellers) statSellers.textContent = SELLERS.length;
 }
 
-/* ── Welcome Popup (language → currency → coupon) ── */
+/* ── Welcome Popup (language → currency → platform → coupon) ── */
 function initCoupon() {
   const modal = $('#couponModal');
   if (!modal) return;
   if (!SITE.coupon.enabled) return;
   const dismissed = localStorage.getItem('rt_coupon_dismissed');
   if (dismissed) return;
-
-  let step = 1; // 1=lang, 2=currency, 3=coupon
+  const coupons = getActiveCoupons().filter(c => c.enabled);
+  if (!coupons.length) return;
+  const coupon = coupons[0];
+  const PLATFORMS = [
+    { id: 'weidian', label: '🛍️ Weidian', desc: 'weidian.com' },
+    { id: 'taobao', label: '🟠 Taobao', desc: 'taobao.com' },
+    { id: 'yupoo', label: '📸 Yupoo', desc: 'yupoo.com' },
+    { id: 'dssr', label: '🔵 DSSR', desc: 'dssuperfake.com' },
+    { id: 'wechat', label: '💬 WeChat', desc: 'via agent' },
+  ];
+  let activePlatform = localStorage.getItem('rt_platform') || 'weidian';
+  let step = 1; // 1=lang, 2=currency, 3=platform, 4=coupon
   function renderStep() {
     const box = modal.querySelector('.coupon-box');
     if (!box) return;
@@ -533,21 +545,42 @@ function initCoupon() {
       }));
       box.querySelector('#currBack')?.addEventListener('click',()=>{step=1;renderStep();});
       box.querySelector('#currNext')?.addEventListener('click',()=>{step=3;renderStep();});
+    } else if (step === 3) {
+      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
+        <div class="coupon-inner">
+          <div class="coupon-tag">📱 Select Platform</div>
+          <h3>Where do you shop?</h3>
+          <p style="color:var(--muted);font-size:13px;margin-bottom:14px;">Choose your preferred shopping platform</p>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:8px;">
+            ${PLATFORMS.map(p=>`<button class="welcome-opt platform-opt${activePlatform===p.id?' active':''}" data-platform="${p.id}" style="flex-direction:column;gap:2px;padding:14px 10px;">
+              <span style="font-size:20px;">${p.label.split(' ')[0]}</span>
+              <span style="font-size:13px;font-weight:700;">${p.label.split(' ').slice(1).join(' ')}</span>
+              <span style="font-size:11px;color:var(--muted);">${p.desc}</span>
+            </button>`).join('')}
+          </div>
+          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-outline" id="platBack">← ${t('back')}</button><button class="c-btn-white" id="platNext">${t('next')} →</button></div>
+        </div>`;
+      box.querySelectorAll('[data-platform]').forEach(b=>b.addEventListener('click',()=>{
+        activePlatform=b.dataset.platform; localStorage.setItem('rt_platform',activePlatform);
+        box.querySelectorAll('[data-platform]').forEach(x=>x.classList.toggle('active',x===b));
+      }));
+      box.querySelector('#platBack')?.addEventListener('click',()=>{step=2;renderStep();});
+      box.querySelector('#platNext')?.addEventListener('click',()=>{step=4;renderStep();});
     } else {
       box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" id="couponClose">✕</button>
         <div class="coupon-inner">
           <div class="coupon-tag">🎁 Special Offer</div>
-          <h3>${t('welcome')}</h3>
-          <p>${t('couponMsg')}</p>
-          <div class="coupon-code-box"><span>${SITE.inviteCode}</span><button class="copy-btn" id="copyCodeBtn">${t('copy')}</button></div>
+          <h3>${coupon.title || t('welcome')}</h3>
+          <p>${coupon.message || t('couponMsg')}</p>
+          <div class="coupon-code-box"><span>${coupon.code || SITE.inviteCode}</span><button class="copy-btn" id="copyCodeBtn">${t('copy')}</button></div>
           <div class="coupon-actions">
-            <button class="c-btn-white" id="couponGo">${t('register')}</button>
+            <button class="c-btn-white" id="couponGo">${coupon.button || t('register')}</button>
             <button class="c-btn-outline" id="couponDismiss">${t('dismiss')}</button>
           </div>
         </div>`;
       box.querySelector('#couponClose')?.addEventListener('click',()=>modal.classList.remove('active'));
-      box.querySelector('#copyCodeBtn')?.addEventListener('click',()=>{navigator.clipboard?.writeText(SITE.inviteCode).then(()=>toast('Code copied!')).catch(()=>{});});
-      box.querySelector('#couponGo')?.addEventListener('click',()=>{window.open(SITE.coupon.url,'_blank');modal.classList.remove('active');});
+      box.querySelector('#copyCodeBtn')?.addEventListener('click',()=>{navigator.clipboard?.writeText(coupon.code||SITE.inviteCode).then(()=>toast('Code copied!')).catch(()=>{});});
+      box.querySelector('#couponGo')?.addEventListener('click',()=>{window.open(coupon.url||SITE.coupon.url,'_blank');modal.classList.remove('active');});
       box.querySelector('#couponDismiss')?.addEventListener('click',()=>{localStorage.setItem('rt_coupon_dismissed','1');modal.classList.remove('active');});
     }
   }
@@ -651,6 +684,65 @@ function buildCategoryMarquee() {
   });
 }
 
+/* ── Featured Grid (home page) ── */
+function buildFeaturedGrid() {
+  const grid = document.getElementById('featuredGrid');
+  if (!grid) return;
+  const featured = PRODUCTS.filter(p => p.featured).slice(0, 12);
+  if (!featured.length) { grid.innerHTML = '<div style="padding:24px;text-align:center;color:var(--muted);font-size:13px;">No featured products yet.</div>'; return; }
+  grid.innerHTML = featured.map(p => {
+    const cat = (p.category || '').toLowerCase();
+    const bg = CAT_BG[cat] || 'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
+    const emoji = CAT_EMOJI[cat] || '📦';
+    return `<div class="product-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g,'&quot;')})">
+      <div class="product-thumb" style="background:${bg};position:relative;overflow:hidden;">
+        ${p.image ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.querySelector('.pf').style.display='flex'">` : ''}
+        <div class="pf" style="display:${p.image?'none':'flex'};position:absolute;inset:0;align-items:center;justify-content:center;font-size:36px;">${emoji}</div>
+      </div>
+      <div class="product-info">
+        <div class="product-name">${esc(p.name)}</div>
+        <div class="product-price">${fmt(p.price)}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+/* ── Maintenance Mode ── */
+function checkMaintenanceMode() {
+  const settings = JSON.parse(localStorage.getItem('rt_settings') || '{}');
+  if (!settings.maintenance) return;
+  if (document.body.dataset.page === 'admin') return;
+  // Show maintenance overlay
+  const banner = document.createElement('div');
+  banner.id = 'maintenanceBanner';
+  banner.style.cssText = 'position:fixed;inset:0;z-index:99999;background:linear-gradient(135deg,#0f172a,#1e3a8a);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:white;padding:40px;';
+  banner.innerHTML = `
+    <div style="font-size:64px;margin-bottom:24px;">🔧</div>
+    <h1 style="font-family:Outfit,sans-serif;font-size:32px;font-weight:900;margin-bottom:12px;">Under Maintenance</h1>
+    <p style="color:rgba(255,255,255,0.7);max-width:400px;font-size:16px;line-height:1.6;">REP•TARO is currently undergoing scheduled maintenance. We'll be back shortly!</p>
+    <div style="margin-top:32px;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.2);border-radius:14px;padding:16px 28px;font-size:14px;color:rgba(255,255,255,0.6);">Staff? <a href="admin.html" style="color:#60a5fa;font-weight:700;">Go to Admin Panel →</a></div>
+  `;
+  document.body.appendChild(banner);
+}
+
+/* ── Coupon helpers ── */
+function getActiveCoupons() {
+  const stored = localStorage.getItem('rt_coupons');
+  if (stored) {
+    try { return JSON.parse(stored); } catch(e) {}
+  }
+  // Default single coupon from SITE config
+  return [{
+    id: 'c_default',
+    enabled: SITE.coupon.enabled,
+    title: SITE.coupon.title,
+    message: SITE.coupon.message,
+    code: SITE.inviteCode,
+    url: SITE.coupon.url,
+    button: SITE.coupon.button,
+  }];
+}
+
 /* ── Sellers Page avatar fix ── */
 function sellerAvatarHtml(s) {
   if (s.logo && s.logo.trim() && !s.logo.startsWith('data:image/jpeg;base64')) {
@@ -662,6 +754,7 @@ function sellerAvatarHtml(s) {
 /* ── BOOT ── */
 document.addEventListener('DOMContentLoaded', async ()=>{
   await loadData();
+  checkMaintenanceMode();
   updateStats();
   buildFeaturedGrid();
   buildSellerPanel();
