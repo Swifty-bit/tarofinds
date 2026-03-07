@@ -34,60 +34,14 @@ function refreshPrices() {
   if (document.body.dataset.page === 'home') buildFeaturedGrid();
 }
 
-/* ── Default data ── */
-const DEFAULT_PRODUCTS = [
-  { id:'p1', name:"Under Armour Tee", category:'t-shirts & shorts', seller:'Yishan', price:42, featured:true, link:'https://weidian.com/item.html?itemID=7583312248', qc:true },
-  { id:'p2', name:"Arc'teryx Beta LT Jacket", category:'puffer jackets and coats', seller:'WWTop', price:420, featured:true, link:'https://weidian.com/item.html?itemID=7581349191', qc:false },
-  { id:'p3', name:'Nike Air Force 1 White', category:'shoes', seller:'MOMOKICK', price:280, featured:true, link:'https://momokick.x.yupoo.com/categories', qc:true },
-  { id:'p4', name:'Balenciaga Triple S', category:'shoes', seller:'EVGA', price:550, featured:true, link:'#', qc:true },
-  { id:'p5', name:'Chrome Hearts Ring', category:'accessories', seller:'JimiOptical', price:180, featured:true, link:'#', qc:false },
-  { id:'p6', name:'Moncler Maya Jacket', category:'puffer jackets and coats', seller:'Koala', price:680, featured:true, link:'#', qc:true },
-  { id:'p7', name:'AirPods Pro Clone', category:'electronics', seller:'OgWave', price:320, featured:true, link:'#', qc:false },
-  { id:'p8', name:'Supreme Box Logo Hoodie', category:'hoodies', seller:'Husky', price:195, featured:true, link:'#', qc:true },
-  { id:'p9', name:'Yeezy Boost 350 V2', category:'shoes', seller:'MOMOKICK', price:310, featured:false, link:'#', qc:true },
-  { id:'p10', name:'Stone Island Badge Hoodie', category:'hoodies', seller:'Yishan', price:220, featured:false, link:'#', qc:false },
-  { id:'p11', name:'Nike Dunk Low Panda', category:'shoes', seller:'WWTop', price:260, featured:false, link:'#', qc:true },
-  { id:'p12', name:'Rolex Submariner', category:'accessories', seller:'K8', price:1800, featured:false, link:'#', qc:true },
-];
-const DEFAULT_SELLERS = [
-  { id:'s1', name:'Yishan', description:'Good Essentials', link:'https://yishan-ess.x.yupoo.com/', logo:'', verified:true },
-  { id:'s2', name:'WWTop', description:'Overall best shoe seller', link:'https://wwfake100.x.yupoo.com/categories', logo:'', verified:true },
-  { id:'s3', name:'MOMOKICK', description:'Good for shoes overall', link:'https://momokick.x.yupoo.com/categories', logo:'', verified:true },
-  { id:'s4', name:'EVGA', description:'Best for Balenciaga & Rick Owens', link:'#', logo:'', verified:true },
-  { id:'s5', name:'Koala', description:'Best designer shoe seller', link:'#', logo:'', verified:true },
-  { id:'s6', name:'Husky', description:'Huge catalogue, hit or miss', link:'#', logo:'', verified:true },
-  { id:'s7', name:'K8', description:'Premium watch & jewellery reps', link:'#', logo:'', verified:true },
-  { id:'s8', name:'JimiOptical', description:'Sunglasses & optical accessories', link:'#', logo:'', verified:false },
-];
-
-const FORUM_POSTS = [
-  { user:'Alex', title:'Staying safe with payment methods', time:'23 minutes ago', replies:14, cat:'Payments' },
-  { user:'Sam', title:'Community haul — what did you get this month?', time:'5 minutes ago', replies:31, cat:'Hauls' },
-  { user:'Mike', title:'Best shipping agent right now?', time:'1 hour ago', replies:8, cat:'Shipping' },
-  { user:'Kim', title:'QC tips for first-time buyers', time:'2 hours ago', replies:22, cat:'Guides' },
-  { user:'Jordan', title:'MOMOKICK review — Nike Dunk Low', time:'4 hours ago', replies:17, cat:'Reviews' },
-  { user:'Taylor', title:'LitBuy vs Pandabuy — which agent is better?', time:'6 hours ago', replies:45, cat:'Agents' },
-];
-
-const ANNOUNCEMENTS = [
-  { icon:'📢', title:'New sellers added — Koala and JimiOptical!', body:'We have onboarded 2 new verified sellers this week. Both have been reviewed by staff and have excellent track records.', time:'30 minutes ago', tag:'New' },
-  { icon:'🔔', title:'Platform maintenance scheduled for Sunday 3AM UTC', body:'The site will be down for approximately 30 minutes for database upgrades and performance improvements.', time:'2 hours ago', tag:'Maintenance' },
-  { icon:'✨', title:'QC photo feature now live on product pages', body:'Products with available QC photos now show a gallery on the detail view. Look for the "QC ✓" badge.', time:'Yesterday', tag:'Feature' },
-  { icon:'💬', title:'Forums are now open to all registered members', body:'Join the community discussion. Share hauls, ask questions, and help others navigate the rep market.', time:'3 days ago', tag:'Community' },
-  { icon:'🛡️', title:'Seller verification system update', body:'All sellers must now re-verify their identity. This improves buyer protection across the platform.', time:'1 week ago', tag:'Security' },
-];
-
-const ALERTS = [
-  { icon:'⚠️', title:'WWTop — extended shipping delays', body:'Buyers are reporting 2–3 week extra delays from WWTop. Consider alternative agents or prepare for longer waits.', time:'1 hour ago', level:'warn' },
-  { icon:'🚨', title:'Scam alert: fake REPTARO Discord', body:'There is a fake Discord server impersonating us. We do NOT have an official Discord. Do not send anyone money.', time:'Yesterday', level:'danger' },
-  { icon:'✅', title:'LitBuy card payment issues resolved', body:'The card payment issues from last week have been fixed by LitBuy\'s team. All payment methods are now working.', time:'2 days ago', level:'success' },
-  { icon:'ℹ️', title:'CNY exchange rate updated', body:'Exchange rates have been updated to reflect current market rates. Prices shown in non-CNY currencies are now more accurate.', time:'3 days ago', level:'info' },
-  { icon:'⚠️', title:'Customs checks increased at UK borders', body:'UK customs has increased checks on packages from China. Consider splitting large orders and using lower declared values.', time:'5 days ago', level:'warn' },
-];
+/* ── Data (loaded from JSON files, no placeholders) ── */
+const FORUM_POSTS = [];
+const ANNOUNCEMENTS = [];
+const ALERTS = [];
 
 /* ── State ── */
-let PRODUCTS = [...DEFAULT_PRODUCTS];
-let SELLERS = [...DEFAULT_SELLERS];
+let PRODUCTS = [];
+let SELLERS = [];
 
 /* ── Helpers ── */
 const $ = (sel, root = document) => root.querySelector(sel);
