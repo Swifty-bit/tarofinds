@@ -11,10 +11,7 @@ async function hashPassword(password) {
 // Default staff bootstrapped with hashed passwords
 // Plain text defaults: owner=owner123, admin=admin123
 // These are ONLY used on first run then hashed+stored
-const DEFAULT_STAFF_PLAIN = [
-  { username: 'owner', password: 'owner123', role: 'owner', id: 'staff_1' },
-  { username: 'admin', password: 'admin123', role: 'admin', id: 'staff_2' }
-];
+const DEFAULT_STAFF_PLAIN = [];
 
 let adminState = {
   loggedIn: false,
@@ -35,6 +32,9 @@ async function initAdmin() {
   await loadAdminData();
   loadCoupons();
 
+  const inviteUsed = await completeInviteSignupFromUrl();
+  if (inviteUsed) return;
+
   const session = localStorage.getItem('rt_admin_session');
   if (session) {
     try {
@@ -45,42 +45,39 @@ async function initAdmin() {
         adminState.loggedIn = true;
         showDashboard();
       }
-    } catch(e) {}
+    } catch (e) {}
   }
+
   updateKPIs();
 }
 
+
 async function loadOrBootstrapStaff() {
   const savedStaff = localStorage.getItem('rt_staff');
-  if (savedStaff) {
-    try {
-      adminState.staff = JSON.parse(savedStaff);
-      // Migrate any plain-text passwords (no 'hashed' flag) to hashed
-      let needsSave = false;
-      for (const s of adminState.staff) {
-        if (!s.hashed) {
-          s.password = await hashPassword(s.password);
-          s.hashed = true;
-          needsSave = true;
-        }
-      }
-      if (needsSave) saveStaff();
-    } catch(e) {
-      adminState.staff = [];
-    }
-  } else {
-    // Bootstrap default staff with hashed passwords
+
+  if (!savedStaff) {
     adminState.staff = [];
-    for (const s of DEFAULT_STAFF_PLAIN) {
-      adminState.staff.push({
-        ...s,
-        password: await hashPassword(s.password),
-        hashed: true
-      });
+    return;
+  }
+
+  try {
+    adminState.staff = JSON.parse(savedStaff);
+    let needsSave = false;
+
+    for (const s of adminState.staff) {
+      if (!s.hashed && s.password) {
+        s.password = await hashPassword(s.password);
+        s.hashed = true;
+        needsSave = true;
+      }
     }
-    saveStaff();
+
+    if (needsSave) saveStaff();
+  } catch (e) {
+    adminState.staff = [];
   }
 }
+
 
 async function loadAdminData() {
   // Try window globals first (set by app.js after fetch)
@@ -154,12 +151,102 @@ function saveSellers() {
   localStorage.setItem('rt_sellers_override', JSON.stringify(adminState.sellers));
 }
 
+function decodeInvitePayload(raw) {
+  const normalized = raw.replace(/-/g, '+').replace(/_/g, '/');
+  const pad = normalized.length % 4 === 0 ? '' : '='.repeat(4 - (normalized.length % 4));
+  return JSON.parse(atob(normalized + pad));
+}
+
+async function completeInviteSignupFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+
+  if (params.get('reset_staff') === '1') {
+    localStorage.removeItem('rt_staff');
+    localStorage.removeItem('rt_admin_session');
+    history.replaceState(null, '', 'admin.html');
+    adminState.staff = [];
+    toast('Local admin staff reset');
+    return false;
+  }
+
+  const rawInvite = params.get('invite');
+  if (!rawInvite) return false;
+
+  let payload;
+  try {
+    payload = decodeInvitePayload(rawInvite);
+  } catch (e) {
+    history.replaceState(null, '', 'admin.html');
+    toast('Invalid admin invite link');
+    return false;
+  }
+
+  const desiredRole = String(payload.role || 'staff').toLowerCase();
+  const discordId = String(payload.discord_id || '');
+
+  let username = prompt(`Set up your ${desiredRole} account.\nChoose a username:`) || '';
+  username = username.trim().toLowerCase();
+
+  if (!username) {
+    history.replaceState(null, '', 'admin.html');
+    toast('Signup cancelled');
+    return true;
+  }
+
+  if (adminState.staff.find(s => s.username === username && String(s.discord_id || '') !== discordId)) {
+    history.replaceState(null, '', 'admin.html');
+    toast('That username is already taken');
+    return true;
+  }
+
+  const password = prompt('Choose a password (minimum 8 characters):') || '';
+  if (password.length < 8) {
+    history.replaceState(null, '', 'admin.html');
+    toast('Password must be at least 8 characters');
+    return true;
+  }
+
+  const existing = adminState.staff.find(s => String(s.discord_id || '') === discordId);
+  const staffRecord = {
+    id: existing?.id || ('staff_' + Date.now()),
+    username,
+    password: await hashPassword(password),
+    hashed: true,
+    role: desiredRole,
+    discord_id: discordId,
+    invited_by: String(payload.invited_by || ''),
+    created_at: new Date().toISOString(),
+  };
+
+  if (existing) {
+    adminState.staff = adminState.staff.map(s => String(s.discord_id || '') === discordId ? staffRecord : s);
+  } else {
+    adminState.staff.push(staffRecord);
+  }
+
+  saveStaff();
+  adminState.user = staffRecord;
+  adminState.loggedIn = true;
+  localStorage.setItem('rt_admin_session', JSON.stringify({ username: staffRecord.username, role: staffRecord.role }));
+
+  history.replaceState(null, '', 'admin.html');
+  showDashboard();
+  toast(`Admin account created for ${staffRecord.username}`);
+  return true;
+}
+
 /* ── Login ── */
 async function adminLogin() {
-  const username = document.getElementById('loginUsername').value.trim();
+  const username = document.getElementById('loginUsername').value.trim().toLowerCase();
   const password = document.getElementById('loginPassword').value;
   const errorEl = document.getElementById('loginError');
   const btn = document.querySelector('#adminLogin .btn-primary');
+
+  if (!adminState.staff.length) {
+    errorEl.textContent = 'No admin accounts exist on this browser yet. Use your invite link first.';
+    errorEl.style.display = 'block';
+    return;
+  }
 
   if (!username || !password) {
     errorEl.textContent = 'Please enter username and password';
@@ -167,12 +254,18 @@ async function adminLogin() {
     return;
   }
 
-  if (btn) { btn.textContent = 'Logging in…'; btn.disabled = true; }
+  if (btn) {
+    btn.textContent = 'Logging in…';
+    btn.disabled = true;
+  }
 
   const hashed = await hashPassword(password);
   const staff = adminState.staff.find(s => s.username === username && s.password === hashed);
 
-  if (btn) { btn.textContent = 'Login'; btn.disabled = false; }
+  if (btn) {
+    btn.textContent = 'Login';
+    btn.disabled = false;
+  }
 
   if (staff) {
     adminState.user = staff;
@@ -180,12 +273,13 @@ async function adminLogin() {
     localStorage.setItem('rt_admin_session', JSON.stringify({ username: staff.username, role: staff.role }));
     errorEl.style.display = 'none';
     showDashboard();
-    toast(`Welcome back, ${staff.username}! 👋`);
+    toast(`Welcome back, ${staff.username}!`);
   } else {
     errorEl.textContent = 'Invalid username or password';
     errorEl.style.display = 'block';
   }
 }
+
 
 // Allow pressing Enter in password field
 document.addEventListener('DOMContentLoaded', () => {
@@ -310,31 +404,9 @@ function clearSellerForm() {
 
 /* ── Add Staff ── */
 async function addStaff() {
-  if (adminState.user.role !== 'owner') { toast('Only owner can add staff'); return; }
-
-  const username = document.getElementById('newStaffUser').value.trim();
-  const password = document.getElementById('newStaffPass').value;
-  const role = document.getElementById('newStaffRole').value;
-
-  if (!username || !password) { toast('Please enter username and password'); return; }
-  if (adminState.staff.find(s => s.username === username)) { toast('Username already exists'); return; }
-
-  const newStaff = {
-    id: 'staff_' + Date.now(), username,
-    password: await hashPassword(password),
-    hashed: true, role
-  };
-
-  adminState.staff.push(newStaff);
-  saveStaff();
-  updateStaffList();
-  updateKPIs();
-
-  document.getElementById('newStaffUser').value = '';
-  document.getElementById('newStaffPass').value = '';
-  document.getElementById('newStaffRole').value = 'staff';
-  toast(`Staff member ${username} added as ${role}`);
+  toast('Use the Discord /addstaff command to invite staff.');
 }
+
 
 function removeStaff(staffId) {
   if (adminState.user.role !== 'owner') { toast('Only owner can remove staff'); return; }

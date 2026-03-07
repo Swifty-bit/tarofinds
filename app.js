@@ -59,6 +59,102 @@ const ALERTS = [];
 let PRODUCTS = [];
 let SELLERS = [];
 
+function normalizeCategory(product = {}) {
+  const rawCategory = String(product.category || product.tag || '').toLowerCase().trim();
+  const name = String(product.name || '').toLowerCase().replace(/\n/g, ' ');
+
+  const explicit = {
+    'shoes': 'shoes',
+    'shoe': 'shoes',
+    'clothes': 'clothes',
+    'clothing': 'clothes',
+    't-shirts': 'clothes',
+    't-shirts & shorts': 'clothes',
+    'shorts': 'clothes',
+    'hoodie': 'hoodies',
+    'hoodies': 'hoodies',
+    'jacket': 'jackets',
+    'jackets': 'jackets',
+    'puffer jackets': 'jackets',
+    'puffer jackets and coats': 'jackets',
+    'coat': 'jackets',
+    'coats': 'jackets',
+    'accessories': 'accessories',
+    'accessory': 'accessories',
+    'bags': 'accessories',
+    'watches': 'accessories',
+    'jewelry': 'accessories',
+    'electronics': 'electronics',
+  };
+
+  if (explicit[rawCategory]) return explicit[rawCategory];
+
+  if (/jordan|dunk|air max|air force|yeezy|samba|gazelle|sneaker|shoe|shoes|boot|trainer|b25/i.test(name)) return 'shoes';
+  if (/hoodie|zip hoodie|pullover/i.test(name)) return 'hoodies';
+  if (/jacket|puffer|coat|down jacket|canada goose|moncler|nuptse/i.test(name)) return 'jackets';
+  if (/watch|bag|belt|hat|cap|sunglass|wallet|chain|ring|bracelet|necklace|beanie/i.test(name)) return 'accessories';
+  if (/headphone|earphone|airpod|speaker|charger|phone|electronic/i.test(name)) return 'electronics';
+  if (/t-shirt|tee|shorts|shirt|pants|trouser|jean|tracksuit|sweatpants|sweater|crewneck|polo/i.test(name)) return 'clothes';
+
+  return 'clothes';
+}
+
+function getSavedProducts() {
+  try {
+    return JSON.parse(localStorage.getItem('rt_saved_items') || '[]');
+  } catch (e) {
+    return [];
+  }
+}
+
+function isSavedProduct(productId) {
+  return getSavedProducts().some(item => item.id === productId);
+}
+
+function toggleSavedProduct(product) {
+  const saved = getSavedProducts();
+  const existingIndex = saved.findIndex(item => item.id === product.id);
+
+  if (existingIndex >= 0) {
+    saved.splice(existingIndex, 1);
+    localStorage.setItem('rt_saved_items', JSON.stringify(saved));
+    toast('Removed from favourites');
+  } else {
+    saved.unshift({
+      id: product.id,
+      name: product.name,
+      image: product.image,
+      price: fmt(product.price),
+      rawPrice: product.price,
+      seller: product.seller,
+      link: product.link
+    });
+    localStorage.setItem('rt_saved_items', JSON.stringify(saved));
+    toast('Added to favourites');
+  }
+
+  if (document.body.dataset.page === 'catalogue') renderCatalogueCards();
+}
+
+function openProductModalFromEncoded(encoded) {
+  try {
+    const product = JSON.parse(decodeURIComponent(encoded));
+    openProductModal(product);
+  } catch (e) {
+    console.warn('Bad product payload', e);
+  }
+}
+
+function toggleSavedFromCard(event, encoded) {
+  event.stopPropagation();
+  try {
+    const product = JSON.parse(decodeURIComponent(encoded));
+    toggleSavedProduct(product);
+  } catch (e) {
+    console.warn('Bad save payload', e);
+  }
+}
+
 /* ── Helpers ── */
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
@@ -93,56 +189,52 @@ async function loadData() {
       fetch('products.json').then(r => r.json()),
       fetch('sellers.json').then(r => r.json()),
     ]);
+
     if (pr.status === 'fulfilled' && Array.isArray(pr.value)) {
       PRODUCTS = pr.value
         .map((p, i) => {
           const img = p.image || p.imageUrl || p.photo || '';
           const link = (p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#')
             .replace(/inviteCode=SWIFTY/gi, 'inviteCode=REPTARO');
-          const rawName = (p.name || '').trim().replace(/\n/g, ' ');
-          let cat = (p.category || p.tag || '').toLowerCase().trim();
-          if (!cat) {
-            const n = rawName.toLowerCase();
-            if (/shoe|jordan|dunk|force|yeezy|trainer|sneaker|boot/i.test(n)) cat = 'shoes';
-            else if (/hoodie|hoody/i.test(n)) cat = 'hoodies';
-            else if (/jacket|puffer|coat|down\b|goose|nuptse|moncler/i.test(n)) cat = 'jackets';
-            else if (/watch|bag|belt|hat|cap|sunglasse|wallet|chain|ring|bracelet|necklace|beanie/i.test(n)) cat = 'accessories';
-            else if (/headphone|earphone|airpod|speaker|charger|phone/i.test(n)) cat = 'electronics';
-            else if (/t-shirt|tee|short|polo/i.test(n)) cat = 'clothes';
-            else if (/shirt|trouser|pant|jean|sweat|track/i.test(n)) cat = 'clothes';
-            else cat = 'clothes';
-          }
+
+          const rawName = String(p.name || '').trim().replace(/\n/g, ' ');
+          const normalizedCategory = normalizeCategory(p);
+
           return {
-            id: p.id || 'p' + i,
+            id: p.id || ('p' + i),
             name: rawName,
-            category: cat,
-            seller: p.seller || p.agentName || '',
-            price: parseFloat(p.price || p.sellPrice) || 0,
-            featured: p.featured === true || i < 12,
+            category: normalizedCategory,
+            seller: p.seller || p.agentName || 'Unknown',
+            price: parseFloat(p.price || p.sellPrice || 0) || 0,
+            featured: p.featured === true || i < 24,
             image: img,
-            link: link,
-            qc: p.qc_available || p.qc || false,
-            qcImages: p.qc_images || p.qcImages || [],
+            link,
+            qc: Boolean(p.qc_available || p.qc),
+            qcImages: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []),
           };
         })
-        .filter(p => p.image && p.name);
+        .filter(p => p.name && p.image);
     }
+
     if (sr.status === 'fulfilled' && Array.isArray(sr.value)) {
       SELLERS = sr.value.map(s => ({
         id: s.id,
         name: s.name,
-        description: (s.description || '').replace(/\r\n/g, ' ').replace(/\r/g, ' '),
+        description: String(s.description || '').replace(/\n/g, ' ').replace(/\n/g, ' '),
         logo: s.logo || '',
-        link: (s.link || '#').replace(/\\\//g, '/'),
-        verified: true,
+        link: String(s.link || '#').replace(/\\//g, '/'),
+        verified: s.verified !== false,
         dateAdded: s.dateAdded,
       }));
     }
-  } catch (e) { console.warn('loadData error:', e); }
-  // Expose as globals so admin.js can access them
+  } catch (e) {
+    console.warn('loadData error:', e);
+  }
+
   window.PRODUCTS = PRODUCTS;
   window.SELLERS = SELLERS;
 }
+
 
 /* ── Best Sellers Panel ── */
 function buildSellerPanel() {
@@ -326,12 +418,9 @@ function copyProductLink(link) {
 
 function saveProduct() {
   if (!currentProduct) return;
-  const saved = JSON.parse(localStorage.getItem('rt_saved_items') || '[]');
-  if (saved.find(s => s.id === currentProduct.id)) { toast('Already saved!'); return; }
-  saved.push({ id: currentProduct.id, name: currentProduct.name, image: currentProduct.image, price: fmt(currentProduct.price), link: currentProduct.link });
-  localStorage.setItem('rt_saved_items', JSON.stringify(saved));
-  toast('Item saved! View in Profile.');
+  toggleSavedProduct(currentProduct);
 }
+
 
 /* ── CATALOGUE PAGE ── */
 let catState = { cat:'all', q:'', sort:'default' };
@@ -365,94 +454,93 @@ function initCataloguePage() {
 }
 
 function catCardHtml(p) {
-  const cat=(p.category||'').toLowerCase();
-  const bg=CAT_BG[cat]||'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
-  const emoji=CAT_EMOJI[cat]||'📦';
+  const cat = (p.category || '').toLowerCase();
+  const bg = CAT_BG[cat] || 'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
+  const emoji = CAT_EMOJI[cat] || '📦';
   const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
-  return `<div class="cat-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
-    <div class="cat-card-thumb" style="background:${bg};position:relative;overflow:hidden;">
-      ${p.image ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.querySelector('.img-fallback').style.display='flex'">` : ''}
-      <div class="img-fallback" style="display:${p.image?'none':'flex'};position:absolute;inset:0;align-items:center;justify-content:center;font-size:48px;">${emoji}</div>
-      ${hasQC ? '<div style="position:absolute;top:8px;right:8px;background:var(--green);color:white;font-size:10px;font-weight:700;padding:3px 8px;border-radius:12px;">QC ✓</div>' : ''}
-    </div>
-    <div class="cat-card-info">
-      <div class="cat-card-name" title="${esc(p.name)}">${esc(p.name)}</div>
-      <div class="cat-card-seller">${esc(p.seller)}</div>
-      <div class="cat-card-meta">
-        <span class="cat-card-price">${fmt(p.price)}</span>
-        <a href="${esc(p.link)}" target="_blank" onclick="event.stopPropagation()" class="btn btn-primary" style="font-size:11px;padding:4px 10px;height:auto">View →</a>
+  const encoded = encodeURIComponent(JSON.stringify(p));
+  const saved = isSavedProduct(p.id);
+
+  return `
+    <div class="cat-card" onclick="openProductModalFromEncoded('${encoded}')">
+      <div class="cat-card-thumb" style="background:${bg};position:relative;overflow:hidden;">
+        ${p.image ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.querySelector('.img-fallback').style.display='flex'">` : ''}
+        <div class="img-fallback" style="display:${p.image ? 'none' : 'flex'};position:absolute;inset:0;align-items:center;justify-content:center;font-size:48px;">${emoji}</div>
+        ${hasQC ? '<div style="position:absolute;top:8px;right:8px;background:var(--green);color:white;font-size:10px;font-weight:700;padding:3px 8px;border-radius:12px;">QC ✓</div>' : ''}
+        <button class="fav-btn ${saved ? 'active' : ''}" onclick="toggleSavedFromCard(event, '${encoded}')" aria-label="Favourite item">
+          ${saved ? '♥' : '♡'}
+        </button>
+      </div>
+      <div class="cat-card-info">
+        <div class="cat-card-name" title="${esc(p.name)}">${esc(p.name)}</div>
+        <div class="cat-card-seller">${esc(p.seller || 'Unknown')}</div>
+        <div class="cat-card-meta">
+          <span class="cat-card-price">${fmt(p.price)}</span>
+          <a href="${esc(p.link)}" target="_blank" onclick="event.stopPropagation()" class="btn btn-primary" style="font-size:11px;padding:4px 10px;height:auto">View →</a>
+        </div>
       </div>
     </div>
-  </div>`;
+  `;
 }
+
 
 function renderCatalogueCards() {
   const grid = document.getElementById('productGrid');
-  if(!grid) return;
-  const catMap = { clothes:['clothes','shirt','t-shirts','t-shirts & shorts'], shoes:['shoes','shoe'], accessories:['accessories','accessory'], electronics:['electronics'], hoodies:['hoodies','hoodie'], jackets:['jacket','puffer','coat'] };
+  if (!grid) return;
+
+  const catMap = {
+    clothes: ['clothes'],
+    shoes: ['shoes'],
+    accessories: ['accessories'],
+    electronics: ['electronics'],
+    hoodies: ['hoodies'],
+    jackets: ['jackets'],
+  };
+
   let filtered = PRODUCTS.filter(p => {
-    let catMatch = catState.cat === 'all';
-    if(!catMatch){ const terms=catMap[catState.cat]||[catState.cat]; catMatch=terms.some(t=>p.category.includes(t)); }
-    const qMatch = !catState.q || (p.name+p.seller+p.category).toLowerCase().includes(catState.q.toLowerCase());
+    const category = String(p.category || '').toLowerCase();
+    const queryBlob = `${p.name || ''} ${p.seller || ''} ${p.category || ''}`.toLowerCase();
+
+    const catMatch =
+      catState.cat === 'all' ||
+      (catMap[catState.cat] || [catState.cat]).includes(category);
+
+    const qMatch =
+      !catState.q || queryBlob.includes(catState.q.toLowerCase());
+
     return catMatch && qMatch;
   });
-  if(catState.sort==='price-asc') filtered.sort((a,b)=>a.price-b.price);
-  else if(catState.sort==='price-desc') filtered.sort((a,b)=>b.price-a.price);
-  else if(catState.sort==='name') filtered.sort((a,b)=>a.name.localeCompare(b.name));
-  const count=document.getElementById('catalogueCount');
-  if(count) count.textContent=`${filtered.length} product${filtered.length!==1?'s':''}`;
-  if(!filtered.length){ grid.innerHTML=`<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-text">No products found</div><button class="btn btn-ghost" onclick="catState.q='';catState.cat='all';document.querySelectorAll('.filter-chip').forEach((c,i)=>c.classList.toggle('active',i===0));renderCatalogueCards()">Clear filters</button></div>`; return; }
 
-  // When showing all categories and no search query, group into category sections with scrolling rows
-  if(catState.cat === 'all' && !catState.q && catState.sort === 'default') {
-    const catOrder = [
-      {key:'shoes', label:'👟 Shoes', terms:['shoes','shoe']},
-      {key:'clothes', label:'👕 Clothes', terms:['clothes','shirt','t-shirts','t-shirts & shorts']},
-      {key:'hoodies', label:'🧥 Hoodies', terms:['hoodies','hoodie']},
-      {key:'jackets', label:'🧥 Jackets', terms:['jacket','puffer','coat']},
-      {key:'accessories', label:'⌚ Accessories', terms:['accessories','accessory']},
-      {key:'electronics', label:'🎧 Electronics', terms:['electronics']},
-    ];
-    const grouped = {};
-    catOrder.forEach(c => { grouped[c.key] = []; });
-    const other = [];
-    filtered.forEach(p => {
-      const cat = (p.category||'').toLowerCase();
-      const matched = catOrder.find(c => c.terms.some(t => cat.includes(t)));
-      if(matched) grouped[matched.key].push(p);
-      else other.push(p);
-    });
-    let html = '';
-    catOrder.forEach(c => {
-      const prods = grouped[c.key];
-      if(!prods.length) return;
-      html += `<div class="cat-section">
-        <div class="cat-section-header">
-          <h3>${c.label}</h3>
-          <a href="catalogue.html?category=${c.key}" class="view-all-link">View All (${prods.length}) →</a>
-        </div>
-        <div class="cat-scroll-track" data-cat-scroll="${c.key}">
-          ${prods.slice(0,30).map(p=>catCardHtml(p)).join('')}
-        </div>
-      </div>`;
-    });
-    if(other.length) {
-      html += `<div class="cat-section">
-        <div class="cat-section-header"><h3>📦 Other</h3></div>
-        <div class="cat-scroll-track">${other.slice(0,30).map(p=>catCardHtml(p)).join('')}</div>
-      </div>`;
-    }
-    grid.innerHTML = html;
-    // Pause scroll on hover
-    grid.querySelectorAll('.cat-scroll-track').forEach(track => {
-      track.addEventListener('mouseenter', () => track.classList.add('paused'));
-      track.addEventListener('mouseleave', () => track.classList.remove('paused'));
-    });
+  if (catState.sort === 'price-asc') filtered.sort((a, b) => a.price - b.price);
+  else if (catState.sort === 'price-desc') filtered.sort((a, b) => b.price - a.price);
+  else if (catState.sort === 'name') filtered.sort((a, b) => a.name.localeCompare(b.name));
+
+  const count = document.getElementById('catalogueCount');
+  if (count) count.textContent = `${filtered.length} product${filtered.length !== 1 ? 's' : ''}`;
+
+  const badge = document.getElementById('badgeProducts');
+  if (badge) badge.textContent = `${PRODUCTS.length.toLocaleString()} total`;
+
+  if (!filtered.length) {
+    grid.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">🔍</div>
+        <div class="empty-text">No products found</div>
+        <button class="btn btn-ghost" onclick="
+          catState.q='';
+          catState.cat='all';
+          document.getElementById('catalogueSearch').value='';
+          document.querySelectorAll('.filter-chip').forEach((c,i)=>c.classList.toggle('active', i===0));
+          renderCatalogueCards();
+        ">Clear filters</button>
+      </div>
+    `;
     return;
   }
-  // Filtered/sorted view: regular grid
-  grid.innerHTML = filtered.map(p=>catCardHtml(p)).join('');
+
+  grid.innerHTML = filtered.map(catCardHtml).join('');
 }
+
 
 /* ── SELLERS PAGE ── */
 function initSellersPage() {
