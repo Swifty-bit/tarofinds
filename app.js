@@ -78,31 +78,38 @@ async function loadData() {
       fetch('sellers.json').then(r => r.json()),
     ]);
     if (pr.status === 'fulfilled' && Array.isArray(pr.value)) {
-      PRODUCTS = pr.value.map((p, i) => ({
-        id: p.id || 'p' + i,
-        name: p.name,
-        category: (p.category || 'other').toLowerCase().trim(),
-        seller: p.seller || '',
-        price: parseFloat(p.price) || 0,
-        featured: i < 12,
-        image: p.image || '',
-        link: p.litbuy || p.link || '#',
-        qc: p.qc_available || false,
-        qcImages: p.qc_images || [],
-      }));
+      PRODUCTS = pr.value
+        .map((p, i) => {
+          const img = p.image || p.imageUrl || p.photo || '';
+          const link = (p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#')
+            .replace(/inviteCode=SWIFTY/gi, 'inviteCode=REPTARO');
+          return {
+            id: p.id || 'p' + i,
+            name: (p.name || '').trim().replace(/\n/g, ' '),
+            category: (p.category || p.tag || 'other').toLowerCase().trim() || 'other',
+            seller: p.seller || p.agentName || '',
+            price: parseFloat(p.price || p.sellPrice) || 0,
+            featured: p.featured === true || i < 12,
+            image: img,
+            link: link,
+            qc: p.qc_available || p.qc || false,
+            qcImages: p.qc_images || p.qcImages || [],
+          };
+        })
+        .filter(p => p.image && p.name);
     }
     if (sr.status === 'fulfilled' && Array.isArray(sr.value)) {
       SELLERS = sr.value.map(s => ({
         id: s.id,
         name: s.name,
-        description: s.description || '',
+        description: (s.description || '').replace(/\r\n/g, ' ').replace(/\r/g, ' '),
         logo: s.logo || '',
-        link: s.link || '#',
+        link: (s.link || '#').replace(/\\\//g, '/'),
         verified: true,
         dateAdded: s.dateAdded,
       }));
     }
-  } catch (e) { /* keep defaults */ }
+  } catch (e) { console.warn('loadData error:', e); }
 }
 
 /* ── Featured Product Grid ── */
@@ -112,7 +119,7 @@ function buildFeaturedGrid() {
   const featured = PRODUCTS.filter(p => p.featured).slice(0, 8);
   grid.innerHTML = featured.map(p => {
     const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
-    const imgSrc = p.image || 'https://via.placeholder.com/400x400/2563eb/ffffff?text=' + encodeURIComponent(p.name.substring(0, 20));
+    const imgSrc = p.image;
     
     return `
       <div class="product-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
@@ -152,7 +159,7 @@ function buildSellerPanel() {
       <div class="s-avatar">${avatarHtml(s)}</div>
       <div class="s-info">
         <div class="s-name">${esc(s.name)}${s.verified ? '<span class="vbadge">✓</span>' : ''}</div>
-        <div class="s-count">${[193,618,273,782,309,441][i]||0} Products</div>
+        <div class="s-count">${PRODUCTS.filter(pr=>pr.seller===s.name).length} Products</div>
       </div>
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg>
     </a>`).join('');
@@ -162,6 +169,10 @@ function buildSellerPanel() {
 function buildForumPosts() {
   const el = $('#forumPosts');
   if (!el) return;
+  if (!FORUM_POSTS.length) {
+    el.innerHTML = '<div style="padding:16px 0;text-align:center;color:var(--muted);font-size:13px;">No forum posts yet.</div>';
+    return;
+  }
   el.innerHTML = FORUM_POSTS.map(p => `
     <a class="forum-post" href="forums.html">
       <div class="fp-avatar">${p.user.substring(0,2).toUpperCase()}</div>
@@ -176,6 +187,10 @@ function buildForumPosts() {
 function buildAnnouncements() {
   const el = $('#announcements');
   if (!el) return;
+  if (!ANNOUNCEMENTS.length) {
+    el.innerHTML = '<div style="padding:16px 0;text-align:center;color:var(--muted);font-size:13px;">No announcements yet.</div>';
+    return;
+  }
   el.innerHTML = ANNOUNCEMENTS.slice(0, 3).map(a => `
     <a class="announce-item" href="announcements.html">
       <div class="a-icon">${a.icon}</div>
@@ -200,7 +215,7 @@ function openProductModal(product) {
   modal.className = 'modal-backdrop active';
   
   const hasQC = product.qc && product.qcImages && product.qcImages.length > 0;
-  const mainImage = product.image || 'https://via.placeholder.com/600x400/2563eb/ffffff?text=' + encodeURIComponent(product.name.substring(0, 30));
+  const mainImage = product.image;
   
   let qcGalleryHtml = '';
   if (hasQC) {
