@@ -141,32 +141,6 @@ async function loadData() {
   } catch (e) { console.warn('loadData error:', e); }
 }
 
-/* ── Featured Product Grid ── */
-function buildFeaturedGrid() {
-  const grid = $('#featuredGrid');
-  if (!grid) return;
-  const featured = PRODUCTS.filter(p => p.featured).slice(0, 8);
-  grid.innerHTML = featured.map(p => {
-    const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
-    const imgSrc = p.image;
-    
-    return `
-      <div class="product-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
-        <div class="product-thumb" style="position:relative;overflow:hidden;background:linear-gradient(135deg,#dbeafe,#bfdbfe);">
-          <img src="${esc(imgSrc)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
-          ${hasQC ? '<div class="qc-badge" style="position:absolute;top:8px;right:8px;background:var(--green);color:white;font-size:10px;font-weight:700;padding:3px 8px;border-radius:12px;">QC ✓</div>' : ''}
-        </div>
-        <div class="product-info">
-          <div class="product-name" title="${esc(p.name)}">${esc(p.name)}</div>
-          <div class="product-meta">
-            <span class="product-price">${fmt(p.price)}</span>
-            <span style="font-size:11px;color:var(--muted);">${esc(p.seller)}</span>
-          </div>
-        </div>
-      </div>`;
-  }).join('');
-}
-
 /* ── Best Sellers Panel ── */
 function buildSellerPanel() {
   const top = $('#bsTopSlot');
@@ -176,10 +150,10 @@ function buildSellerPanel() {
   if (bsLabel) bsLabel.style.display = 'none';
   if (!list || !SELLERS.length) return;
   const avatarHtml = s => {
-    if (s.logo && !s.logo.startsWith('data:image/jpeg;base64')) {
-      return `<img src="${esc(s.logo)}" alt="${esc(s.name)}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span style="display:none;width:100%;height:100%;align-items:center;justify-content:center">${s.name.substring(0,2).toUpperCase()}</span>`;
+    if (s.logo && s.logo.trim() && !s.logo.startsWith('data:image/jpeg;base64')) {
+      return `<img src="${esc(s.logo)}" alt="${esc(s.name)}" style="width:100%;height:100%;object-fit:cover" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span style="display:none;width:100%;height:100%;align-items:center;justify-content:center;font-weight:700">${s.name.substring(0,2).toUpperCase()}</span>`;
     }
-    return `<span>${s.name.substring(0,2).toUpperCase()}</span>`;
+    return `<span style="font-weight:700">${s.name.substring(0,2).toUpperCase()}</span>`;
   };
   list.innerHTML = SELLERS.slice(0, 8).map(s => `
     <a class="seller-row" href="${esc(s.link)}" target="_blank" rel="noopener">
@@ -631,26 +605,58 @@ function initSearch() {
 function buildCategoryMarquee() {
   const el = $('#categoryMarquee');
   if (!el) return;
-  const cats = {};
-  PRODUCTS.forEach(p => { const c = p.category || 'other'; cats[c] = (cats[c]||0)+1; });
-  const sorted = Object.entries(cats).sort((a,b)=>b[1]-a[1]).slice(0,20);
-  if (!sorted.length) return;
-  const items = sorted.map(([cat,count]) => {
-    const emoji = CAT_EMOJI[cat] || '📦';
-    return `<a href="catalogue.html?category=${encodeURIComponent(cat)}" class="marquee-chip">${emoji} ${cat} <span class="marquee-count">${count}</span></a>`;
+  
+  const categoryGroups = {
+    'shoes': { name: 'SHOES', icon: '👟', products: [] },
+    'hoodies': { name: 'HOODIES', icon: '🧥', products: [] },
+    'jackets': { name: 'JACKETS', icon: '🧥', products: [] },
+    'accessories': { name: 'ACCESSORIES', icon: '⌚', products: [] },
+    'clothes': { name: 'CLOTHES', icon: '👕', products: [] },
+    'electronics': { name: 'ELECTRONICS', icon: '🎧', products: [] }
+  };
+  
+  PRODUCTS.forEach(p => {
+    const cat = (p.category || '').toLowerCase();
+    if (categoryGroups[cat]) categoryGroups[cat].products.push(p);
   });
-  const doubled = items.join('') + items.join('');
-  el.innerHTML = `<div class="marquee-track">${doubled}</div>`;
-  el.addEventListener('mouseenter', () => el.querySelector('.marquee-track').style.animationPlayState = 'paused');
-  el.addEventListener('mouseleave', () => el.querySelector('.marquee-track').style.animationPlayState = 'running');
+  
+  const rows = Object.entries(categoryGroups)
+    .filter(([_, data]) => data.products.length > 0)
+    .map(([cat, data]) => {
+      const items = [...data.products.slice(0, 12), ...data.products.slice(0, 12)];
+      return `
+        <div class="category-row">
+          <div class="category-row-header">
+            <h3>${data.icon} ${data.name}</h3>
+            <a href="catalogue.html?category=${cat}" class="view-all-link">View All →</a>
+          </div>
+          <div class="category-row-track">
+            ${items.map(p => `
+              <div class="marquee-item" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
+                <img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">
+                <div class="marquee-item-name">${esc(p.name)}</div>
+                <div class="marquee-item-price">${fmt(p.price)}</div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      `;
+    }).join('');
+  
+  el.innerHTML = rows;
+  
+  document.querySelectorAll('.category-row-track').forEach(track => {
+    track.parentElement.addEventListener('mouseenter', () => track.style.animationPlayState = 'paused');
+    track.parentElement.addEventListener('mouseleave', () => track.style.animationPlayState = 'running');
+  });
 }
 
 /* ── Sellers Page avatar fix ── */
 function sellerAvatarHtml(s) {
-  if (s.logo && !s.logo.startsWith('data:image/jpeg;base64')) {
-    return `<img src="${esc(s.logo)}" alt="${esc(s.name)}" style="width:100%;height:100%;object-fit:cover;border-radius:50%" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span style="display:none;width:100%;height:100%;align-items:center;justify-content:center">${s.name.substring(0,2).toUpperCase()}</span>`;
+  if (s.logo && s.logo.trim() && !s.logo.startsWith('data:image/jpeg;base64')) {
+    return `<img src="${esc(s.logo)}" alt="${esc(s.name)}" style="width:100%;height:100%;object-fit:cover;border-radius:50%" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span style="display:none;width:100%;height:100%;align-items:center;justify-content:center;font-weight:700">${s.name.substring(0,2).toUpperCase()}</span>`;
   }
-  return `<span>${s.name.substring(0,2).toUpperCase()}</span>`;
+  return `<span style="font-weight:700">${s.name.substring(0,2).toUpperCase()}</span>`;
 }
 
 /* ── BOOT ── */
