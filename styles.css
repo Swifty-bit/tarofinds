@@ -1140,3 +1140,112 @@ tr:hover td{background:var(--surface2)}
   .currency-btn span{display:none;}
   .platform-options{flex-direction:column;}
 }
+
+/* ===== COUPON REDESIGN ===== */
+.platform-big-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 20px 28px;
+  background: rgba(255,255,255,0.15);
+  border: 2px solid rgba(255,255,255,0.25);
+  border-radius: 16px;
+  color: white;
+  cursor: pointer;
+  transition: all 200ms;
+  min-width: 120px;
+}
+.platform-big-btn:hover {
+  background: rgba(255,255,255,0.28);
+  border-color: rgba(255,255,255,0.6);
+  transform: translateY(-2px);
+}
+.coupon-selects-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.coupon-select-wrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.coupon-select-wrap label {
+  font-size: 11px;
+  font-weight: 700;
+  color: rgba(255,255,255,0.7);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.coupon-sel {
+  width: 100%;
+  padding: 8px 10px;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 8px;
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+.coupon-sel option { background: #1e40af; color: white; }
+.c-btn-discord {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 16px;
+  background: #5865F2;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 150ms;
+}
+.c-btn-discord:hover { background: #4752c4; transform: translateY(-1px); }
+.c-btn-sm { padding: 8px 16px !important; font-size: 12px !important; }
+
+/* ===== CATALOGUE CATEGORY SECTIONS ===== */
+.cat-section {
+  margin-bottom: 32px;
+}
+.cat-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  padding: 0 2px;
+}
+.cat-section-header h3 {
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--ink);
+  margin: 0;
+}
+.cat-scroll-track {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  animation: scrollLeft 40s linear infinite;
+}
+.cat-scroll-track::-webkit-scrollbar { height: 4px; }
+.cat-scroll-track::-webkit-scrollbar-track { background: var(--surface2); border-radius: 2px; }
+.cat-scroll-track::-webkit-scrollbar-thumb { background: var(--blue-mid); border-radius: 2px; }
+.cat-scroll-track .cat-card {
+  flex-shrink: 0;
+  width: 160px;
+  scroll-snap-align: start;
+}
+@media (max-width: 600px) {
+  .cat-scroll-track .cat-card { width: 140px; }
+}

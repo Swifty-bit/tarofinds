@@ -341,6 +341,11 @@ function initCataloguePage() {
   const urlQ = new URLSearchParams(window.location.search);
   catState.cat = (urlQ.get('category')||'all').toLowerCase();
   catState.q = urlQ.get('q')||'';
+  // If a specific category is selected via URL, update the filter chips
+  if(catState.cat !== 'all') {
+    document.querySelectorAll('.filter-chip[data-cat]').forEach(c =>
+      c.classList.toggle('active', c.dataset.cat === catState.cat));
+  }
   const si=$('#catalogueSearch');
   if(si){ si.value=catState.q; si.addEventListener('input',()=>{catState.q=si.value;renderCatalogueCards();}); }
   const searchBtn=$('#catalogueSearchBtn');
@@ -359,6 +364,28 @@ function initCataloguePage() {
   renderCatalogueCards();
 }
 
+function catCardHtml(p) {
+  const cat=(p.category||'').toLowerCase();
+  const bg=CAT_BG[cat]||'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
+  const emoji=CAT_EMOJI[cat]||'📦';
+  const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
+  return `<div class="cat-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
+    <div class="cat-card-thumb" style="background:${bg};position:relative;overflow:hidden;">
+      ${p.image ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.querySelector('.img-fallback').style.display='flex'">` : ''}
+      <div class="img-fallback" style="display:${p.image?'none':'flex'};position:absolute;inset:0;align-items:center;justify-content:center;font-size:48px;">${emoji}</div>
+      ${hasQC ? '<div style="position:absolute;top:8px;right:8px;background:var(--green);color:white;font-size:10px;font-weight:700;padding:3px 8px;border-radius:12px;">QC ✓</div>' : ''}
+    </div>
+    <div class="cat-card-info">
+      <div class="cat-card-name" title="${esc(p.name)}">${esc(p.name)}</div>
+      <div class="cat-card-seller">${esc(p.seller)}</div>
+      <div class="cat-card-meta">
+        <span class="cat-card-price">${fmt(p.price)}</span>
+        <a href="${esc(p.link)}" target="_blank" onclick="event.stopPropagation()" class="btn btn-primary" style="font-size:11px;padding:4px 10px;height:auto">View →</a>
+      </div>
+    </div>
+  </div>`;
+}
+
 function renderCatalogueCards() {
   const grid = document.getElementById('productGrid');
   if(!grid) return;
@@ -375,35 +402,56 @@ function renderCatalogueCards() {
   const count=document.getElementById('catalogueCount');
   if(count) count.textContent=`${filtered.length} product${filtered.length!==1?'s':''}`;
   if(!filtered.length){ grid.innerHTML=`<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-text">No products found</div><button class="btn btn-ghost" onclick="catState.q='';catState.cat='all';document.querySelectorAll('.filter-chip').forEach((c,i)=>c.classList.toggle('active',i===0));renderCatalogueCards()">Clear filters</button></div>`; return; }
-  grid.innerHTML = filtered.map(p=>{
-    const cat=(p.category||'').toLowerCase();
-    const bg=CAT_BG[cat]||'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
-    const emoji=CAT_EMOJI[cat]||'📦';
-    const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
-    
-    let imgHtml = '';
-    if (p.image) {
-      imgHtml = `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.querySelector('.img-fallback').style.display='flex'">`;
-    }
-    
-    return `<div class="cat-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
-      <div class="cat-card-thumb" style="background:${bg};position:relative;overflow:hidden;">
-        ${imgHtml}
-        <div class="img-fallback" style="display:${p.image ? 'none' : 'flex'};position:absolute;inset:0;align-items:center;justify-content:center;font-size:48px;">${emoji}</div>
-        ${hasQC ? '<div style="position:absolute;top:8px;right:8px;background:var(--green);color:white;font-size:10px;font-weight:700;padding:3px 8px;border-radius:12px;">QC ✓</div>' : ''}
-      </div>
-      <div class="cat-card-info">
-        <div class="cat-card-name" title="${esc(p.name)}">${esc(p.name)}</div>
-        <div class="cat-card-seller">${esc(p.seller)}</div>
-        <div class="cat-card-meta">
-          <span class="cat-card-price">${fmt(p.price)}</span>
-          <div style="display:flex;gap:4px;align-items:center">
-            <a href="${esc(p.link)}" target="_blank" onclick="event.stopPropagation()" class="btn btn-primary" style="font-size:11px;padding:4px 10px;height:auto">View →</a>
-          </div>
+
+  // When showing all categories and no search query, group into category sections with scrolling rows
+  if(catState.cat === 'all' && !catState.q && catState.sort === 'default') {
+    const catOrder = [
+      {key:'shoes', label:'👟 Shoes', terms:['shoes','shoe']},
+      {key:'clothes', label:'👕 Clothes', terms:['clothes','shirt','t-shirts','t-shirts & shorts']},
+      {key:'hoodies', label:'🧥 Hoodies', terms:['hoodies','hoodie']},
+      {key:'jackets', label:'🧥 Jackets', terms:['jacket','puffer','coat']},
+      {key:'accessories', label:'⌚ Accessories', terms:['accessories','accessory']},
+      {key:'electronics', label:'🎧 Electronics', terms:['electronics']},
+    ];
+    const grouped = {};
+    catOrder.forEach(c => { grouped[c.key] = []; });
+    const other = [];
+    filtered.forEach(p => {
+      const cat = (p.category||'').toLowerCase();
+      const matched = catOrder.find(c => c.terms.some(t => cat.includes(t)));
+      if(matched) grouped[matched.key].push(p);
+      else other.push(p);
+    });
+    let html = '';
+    catOrder.forEach(c => {
+      const prods = grouped[c.key];
+      if(!prods.length) return;
+      html += `<div class="cat-section">
+        <div class="cat-section-header">
+          <h3>${c.label}</h3>
+          <a href="catalogue.html?category=${c.key}" class="view-all-link">View All (${prods.length}) →</a>
         </div>
-      </div>
-    </div>`;
-  }).join('');
+        <div class="cat-scroll-track" data-cat-scroll="${c.key}">
+          ${prods.slice(0,30).map(p=>catCardHtml(p)).join('')}
+        </div>
+      </div>`;
+    });
+    if(other.length) {
+      html += `<div class="cat-section">
+        <div class="cat-section-header"><h3>📦 Other</h3></div>
+        <div class="cat-scroll-track">${other.slice(0,30).map(p=>catCardHtml(p)).join('')}</div>
+      </div>`;
+    }
+    grid.innerHTML = html;
+    // Pause scroll on hover
+    grid.querySelectorAll('.cat-scroll-track').forEach(track => {
+      track.addEventListener('mouseenter', () => track.classList.add('paused'));
+      track.addEventListener('mouseleave', () => track.classList.remove('paused'));
+    });
+    return;
+  }
+  // Filtered/sorted view: regular grid
+  grid.innerHTML = filtered.map(p=>catCardHtml(p)).join('');
 }
 
 /* ── SELLERS PAGE ── */
@@ -497,96 +545,116 @@ function updateStats() {
   if (statSellers) statSellers.textContent = SELLERS.length;
 }
 
-/* ── Welcome Popup (language → currency → platform → coupon) ── */
+/* ── Welcome Popup ── */
 function initCoupon() {
   const modal = $('#couponModal');
   if (!modal) return;
-  if (!SITE.coupon.enabled) return;
+  const settings = JSON.parse(localStorage.getItem('rt_settings')||'{}');
+  if (settings.coupon === false) return;
   const dismissed = localStorage.getItem('rt_coupon_dismissed');
   if (dismissed) return;
   const coupons = getActiveCoupons().filter(c => c.enabled);
-  if (!coupons.length) return;
-  const coupon = coupons[0];
-  const PLATFORMS = [
-    { id: 'weidian', label: '🛍️ Weidian', desc: 'weidian.com' },
-    { id: 'taobao', label: '🟠 Taobao', desc: 'taobao.com' },
-    { id: 'yupoo', label: '📸 Yupoo', desc: 'yupoo.com' },
-    { id: 'dssr', label: '🔵 DSSR', desc: 'dssuperfake.com' },
-    { id: 'wechat', label: '💬 WeChat', desc: 'via agent' },
-  ];
-  let activePlatform = localStorage.getItem('rt_platform') || 'weidian';
-  let step = 1; // 1=lang, 2=currency, 3=platform, 4=coupon
+  const coupon = coupons[0] || { title:'Welcome to REP•TARO!', message:'Use the invite code below to register.', code: SITE.inviteCode, url: SITE.coupon.url, button:'Register Now' };
+
+  let step = 1; // 1=platform, 2=main coupon
+
   function renderStep() {
     const box = modal.querySelector('.coupon-box');
     if (!box) return;
+
     if (step === 1) {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
-        <div class="coupon-inner">
-          <div class="coupon-tag">🌍 ${t('selectLang')}</div>
-          <h3>${t('language')}</h3>
-          <div class="welcome-lang-grid">${Object.entries(LANG_LABELS).map(([code,label])=>`<button class="welcome-opt${activeLang===code?' active':''}" data-lang="${code}">${label}</button>`).join('')}</div>
-          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-white" id="langNext">${t('next')} →</button></div>
-        </div>`;
-      box.querySelectorAll('[data-lang]').forEach(b=>b.addEventListener('click',()=>{
-        setLang(b.dataset.lang); box.querySelectorAll('[data-lang]').forEach(x=>x.classList.toggle('active',x===b)); renderStep();
-      }));
-      box.querySelector('#langNext')?.addEventListener('click',()=>{step=2;renderStep();});
-    } else if (step === 2) {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
-        <div class="coupon-inner">
-          <div class="coupon-tag">💱 ${t('selectCurr')}</div>
-          <h3>${t('currency')}</h3>
-          <div class="welcome-curr-grid">${Object.entries(SYMBOLS).map(([code,sym])=>`<button class="welcome-opt${activeCurrency===code?' active':''}" data-curr="${code}">${sym} ${code}</button>`).join('')}</div>
-          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-outline" id="currBack">← ${t('back')}</button><button class="c-btn-white" id="currNext">${t('next')} →</button></div>
-        </div>`;
-      box.querySelectorAll('[data-curr]').forEach(b=>b.addEventListener('click',()=>{
-        setActiveCurrency(b.dataset.curr); box.querySelectorAll('[data-curr]').forEach(x=>x.classList.toggle('active',x===b));
-      }));
-      box.querySelector('#currBack')?.addEventListener('click',()=>{step=1;renderStep();});
-      box.querySelector('#currNext')?.addEventListener('click',()=>{step=3;renderStep();});
-    } else if (step === 3) {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
-        <div class="coupon-inner">
-          <div class="coupon-tag">📱 Select Platform</div>
-          <h3>Where do you shop?</h3>
-          <p style="color:var(--muted);font-size:13px;margin-bottom:14px;">Choose your preferred shopping platform</p>
-          <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:8px;">
-            ${PLATFORMS.map(p=>`<button class="welcome-opt platform-opt${activePlatform===p.id?' active':''}" data-platform="${p.id}" style="flex-direction:column;gap:2px;padding:14px 10px;">
-              <span style="font-size:20px;">${p.label.split(' ')[0]}</span>
-              <span style="font-size:13px;font-weight:700;">${p.label.split(' ').slice(1).join(' ')}</span>
-              <span style="font-size:11px;color:var(--muted);">${p.desc}</span>
-            </button>`).join('')}
+      // Platform selection: PC or Mobile
+      box.innerHTML = `
+        <div class="coupon-bg"></div>
+        <button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
+        <div class="coupon-inner" style="text-align:center;">
+          <div class="coupon-tag">👋 Welcome to REP•TARO</div>
+          <h3 style="margin-bottom:6px;">How are you browsing?</h3>
+          <p style="font-size:13px;opacity:0.8;margin-bottom:20px;">We'll tailor your experience for you</p>
+          <div style="display:flex;gap:14px;justify-content:center;margin-bottom:20px;">
+            <button class="platform-big-btn" onclick="pickPlatform('desktop')">
+              <span style="font-size:40px;">🖥️</span>
+              <span style="font-weight:800;font-size:15px;">Desktop</span>
+              <span style="font-size:11px;opacity:0.7;">PC / Mac</span>
+            </button>
+            <button class="platform-big-btn" onclick="pickPlatform('mobile')">
+              <span style="font-size:40px;">📱</span>
+              <span style="font-weight:800;font-size:15px;">Mobile</span>
+              <span style="font-size:11px;opacity:0.7;">Phone / Tablet</span>
+            </button>
           </div>
-          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-outline" id="platBack">← ${t('back')}</button><button class="c-btn-white" id="platNext">${t('next')} →</button></div>
         </div>`;
-      box.querySelectorAll('[data-platform]').forEach(b=>b.addEventListener('click',()=>{
-        activePlatform=b.dataset.platform; localStorage.setItem('rt_platform',activePlatform);
-        box.querySelectorAll('[data-platform]').forEach(x=>x.classList.toggle('active',x===b));
-      }));
-      box.querySelector('#platBack')?.addEventListener('click',()=>{step=2;renderStep();});
-      box.querySelector('#platNext')?.addEventListener('click',()=>{step=4;renderStep();});
     } else {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" id="couponClose">✕</button>
+      // Main coupon: language, currency, invite code, discord
+      const langOpts = Object.entries(LANG_LABELS).map(([code,label])=>
+        `<option value="${code}" ${activeLang===code?'selected':''}>${label}</option>`).join('');
+      const currOpts = Object.entries(SYMBOLS).map(([code,sym])=>
+        `<option value="${code}" ${activeCurrency===code?'selected':''}>${sym} ${code}</option>`).join('');
+
+      box.innerHTML = `
+        <div class="coupon-bg"></div>
+        <button class="coupon-x" id="couponClose">✕</button>
         <div class="coupon-inner">
           <div class="coupon-tag">🎁 Special Offer</div>
-          <h3>${coupon.title || t('welcome')}</h3>
-          <p>${coupon.message || t('couponMsg')}</p>
-          <div class="coupon-code-box"><span>${coupon.code || SITE.inviteCode}</span><button class="copy-btn" id="copyCodeBtn">${t('copy')}</button></div>
-          <div class="coupon-actions">
-            <button class="c-btn-white" id="couponGo">${coupon.button || t('register')}</button>
-            <button class="c-btn-outline" id="couponDismiss">${t('dismiss')}</button>
+          <h3>${coupon.title}</h3>
+          <p>${coupon.message}</p>
+
+          <div class="coupon-selects-row">
+            <div class="coupon-select-wrap">
+              <label>🌍 Language</label>
+              <select id="couponLangSel" class="coupon-sel">${langOpts}</select>
+            </div>
+            <div class="coupon-select-wrap">
+              <label>💱 Currency</label>
+              <select id="couponCurrSel" class="coupon-sel">${currOpts}</select>
+            </div>
+          </div>
+
+          <div class="coupon-code-box">
+            <span id="couponCodeDisplay">${coupon.code}</span>
+            <button class="copy-btn" id="copyCodeBtn">${t('copy')}</button>
+          </div>
+
+          <div class="coupon-actions" style="flex-direction:column;gap:8px;margin-top:14px;">
+            <button class="c-btn-white" id="couponGo">${coupon.button}</button>
+            <a href="https://discord.gg/PEWPebhG" target="_blank" class="c-btn-discord" id="discordJoin">
+              <svg width="18" height="14" viewBox="0 0 24 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M20.317 1.492a19.825 19.825 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 1.492a.07.07 0 0 0-.032.027C.533 5.833-.32 10.034.099 14.181a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 14.09 14.09 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 11.578c-1.183 0-2.157-1.086-2.157-2.419 0-1.332.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.332-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.086-2.157-2.419 0-1.332.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.332-.946 2.418-2.157 2.418z"/></svg>
+              Join our Discord
+            </a>
+            <button class="c-btn-outline c-btn-sm" id="couponDismiss">${t('dismiss')}</button>
           </div>
         </div>`;
+
+      // Language change
+      document.getElementById('couponLangSel')?.addEventListener('change', e => {
+        setLang(e.target.value);
+      });
+      // Currency change
+      document.getElementById('couponCurrSel')?.addEventListener('change', e => {
+        setActiveCurrency(e.target.value);
+      });
       box.querySelector('#couponClose')?.addEventListener('click',()=>modal.classList.remove('active'));
-      box.querySelector('#copyCodeBtn')?.addEventListener('click',()=>{navigator.clipboard?.writeText(coupon.code||SITE.inviteCode).then(()=>toast('Code copied!')).catch(()=>{});});
-      box.querySelector('#couponGo')?.addEventListener('click',()=>{window.open(coupon.url||SITE.coupon.url,'_blank');modal.classList.remove('active');});
-      box.querySelector('#couponDismiss')?.addEventListener('click',()=>{localStorage.setItem('rt_coupon_dismissed','1');modal.classList.remove('active');});
+      box.querySelector('#copyCodeBtn')?.addEventListener('click',()=>{
+        navigator.clipboard?.writeText(coupon.code).then(()=>toast('Code copied! 📋')).catch(()=>{});
+      });
+      box.querySelector('#couponGo')?.addEventListener('click',()=>{
+        window.open(coupon.url,'_blank'); modal.classList.remove('active');
+      });
+      box.querySelector('#couponDismiss')?.addEventListener('click',()=>{
+        localStorage.setItem('rt_coupon_dismissed','1'); modal.classList.remove('active');
+      });
     }
   }
 
+  window.pickPlatform = function(type) {
+    localStorage.setItem('rt_platform', type);
+    step = 2;
+    renderStep();
+  };
+
   modal.addEventListener('click',(e)=>{if(e.target===modal)modal.classList.remove('active');});
   renderStep();
-  setTimeout(()=>{modal.classList.add('active');},1200);
+  setTimeout(()=>{modal.classList.add('active');},1000);
 }
 
 /* ── Currency Selector ── */
