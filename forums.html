@@ -154,7 +154,7 @@
 
     function requireLogin(action) {
       if (isLoggedIn()) return true;
-      toast('You must log in with Discord to ' + action + '. Use /login on our Discord bot.');
+      toast('Log in first — visit your Profile page to get a code, then use /login &lt;code&gt; on Discord.');
       return false;
     }
 
