@@ -51,7 +51,6 @@ async function initAdmin() {
   updateKPIs();
 }
 
-
 async function loadOrBootstrapStaff() {
   const savedStaff = localStorage.getItem('rt_staff');
 
@@ -77,7 +76,6 @@ async function loadOrBootstrapStaff() {
     adminState.staff = [];
   }
 }
-
 
 async function loadAdminData() {
   // Try window globals first (set by app.js after fetch)
@@ -159,16 +157,6 @@ function decodeInvitePayload(raw) {
 
 async function completeInviteSignupFromUrl() {
   const params = new URLSearchParams(window.location.search);
-
-  if (params.get('reset_staff') === '1') {
-    localStorage.removeItem('rt_staff');
-    localStorage.removeItem('rt_admin_session');
-    history.replaceState(null, '', 'admin.html');
-    adminState.staff = [];
-    toast('Local admin staff reset');
-    return false;
-  }
-
   const rawInvite = params.get('invite');
   if (!rawInvite) return false;
 
@@ -178,13 +166,14 @@ async function completeInviteSignupFromUrl() {
   } catch (e) {
     history.replaceState(null, '', 'admin.html');
     toast('Invalid admin invite link');
-    return false;
+    return true;
   }
 
   const desiredRole = String(payload.role || 'staff').toLowerCase();
   const discordId = String(payload.discord_id || '');
 
-  let username = prompt(`Set up your ${desiredRole} account.\nChoose a username:`) || '';
+  let username = prompt(`Set up your ${desiredRole} account.
+Choose a username:`) || '';
   username = username.trim().toLowerCase();
 
   if (!username) {
@@ -254,18 +243,12 @@ async function adminLogin() {
     return;
   }
 
-  if (btn) {
-    btn.textContent = 'Logging in…';
-    btn.disabled = true;
-  }
+  if (btn) { btn.textContent = 'Logging in…'; btn.disabled = true; }
 
   const hashed = await hashPassword(password);
   const staff = adminState.staff.find(s => s.username === username && s.password === hashed);
 
-  if (btn) {
-    btn.textContent = 'Login';
-    btn.disabled = false;
-  }
+  if (btn) { btn.textContent = 'Login'; btn.disabled = false; }
 
   if (staff) {
     adminState.user = staff;
@@ -279,7 +262,6 @@ async function adminLogin() {
     errorEl.style.display = 'block';
   }
 }
-
 
 // Allow pressing Enter in password field
 document.addEventListener('DOMContentLoaded', () => {
@@ -406,7 +388,6 @@ function clearSellerForm() {
 async function addStaff() {
   toast('Use the Discord /addstaff command to invite staff.');
 }
-
 
 function removeStaff(staffId) {
   if (adminState.user.role !== 'owner') { toast('Only owner can remove staff'); return; }
