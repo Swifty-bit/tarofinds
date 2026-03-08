@@ -80,6 +80,21 @@
 
           <div class="card"><div class="card-header"><h2>Coupons</h2></div><div class="card-body"><div id="couponList"></div></div></div>
 
+          <div class="card"><div class="card-header"><h2 id="announcementFormTitle">Add announcement</h2></div><div class="card-body">
+            <div class="form-grid">
+              <div class="form-group"><label>Announcement title</label><input id="newAnnouncementTitle" class="input-field"></div>
+              <div class="form-group"><label>Tag</label><input id="newAnnouncementTag" class="input-field" value="update"></div>
+              <div class="form-group"><label>Icon</label><input id="newAnnouncementIcon" class="input-field" value="📣"></div>
+              <div class="form-group"><label>Button name</label><input id="newAnnouncementButtonName" class="input-field" placeholder="Open"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Announcement text</label><input id="newAnnouncementText" class="input-field"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Button link / variable</label><input id="newAnnouncementButtonLink" class="input-field" placeholder="page:guides or category:shoes or https://..."></div>
+            </div>
+            <div class="info-inline"><div class="info-dot">i</div><div>Quick links: <code>page:guides</code>, <code>page:announcements</code>, <code>category:shoes</code>, <code>search:nike</code>, or a full URL.</div></div>
+            <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><button id="announcementSubmitBtn" class="btn btn-primary btn-sm" type="button" onclick="addAnnouncement()">Add announcement</button><button class="btn btn-ghost btn-sm" type="button" onclick="clearAnnouncementForm()">Clear</button></div>
+          </div></div>
+
+          <div class="card"><div class="card-header"><h2>Announcements</h2></div><div class="card-body"><div id="announcementList"></div></div></div>
+
           <div class="card"><div class="card-header"><h2>Site settings</h2></div><div class="card-body">
             <div class="toggle-row"><div><div class="toggle-label">Coupon popup</div><div class="toggle-sub">Show popup on the homepage</div></div><div id="couponToggle" class="s-toggle" onclick="toggleSetting('coupon')"></div></div>
             <div class="toggle-row"><div><div class="toggle-label">Maintenance mode</div><div class="toggle-sub">Show maintenance screen to visitors but still let staff in</div></div><div id="maintenanceToggle" class="s-toggle" onclick="toggleSetting('maintenance')"></div></div>
