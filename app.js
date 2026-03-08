@@ -21,7 +21,7 @@ const RATES = { CNY:1, USD:0.138, GBP:0.109, EUR:0.127, AUD:0.214, CAD:0.188, JP
 const SYMS  = { CNY:'¥', USD:'$', GBP:'£', EUR:'€', AUD:'A$', CAD:'C$', JPY:'¥', SGD:'S$' };
 let activeCurr = localStorage.getItem('rt_currency') || 'USD';
 let activeLang = localStorage.getItem('rt_language') || 'English';
-let activePlatform = localStorage.getItem('rt_platform') || 'LitBuy';
+let activePlatform = localStorage.getItem('rt_platform') || 'Mobile';
 
 function fmtPrice(cny) {
   const rate = RATES[activeCurr] || 1;
@@ -155,6 +155,92 @@ function readCoupons() {
   } catch {
     return [];
   }
+}
+
+function inferProductCategory(product = {}) {
+  const explicit = String(product.category || '').trim().toLowerCase();
+  if (explicit && explicit !== 'other') return explicit;
+  const hay = [product.name, product.seller, product.description].filter(Boolean).join(' ').toLowerCase();
+  if (/(shoe|sneaker|trainer|runner|boot|dunk|jordan|air force|asics|b30|loafer)/.test(hay)) return 'shoes';
+  if (/(hoodie|tee|t-shirt|shirt|sweater|jersey|tech fleece|polo|top|crewneck)/.test(hay)) return 'tops';
+  if (/(jacket|coat|puffer|parka|windbreaker|outerwear|moncler|goose)/.test(hay)) return 'outerwear';
+  if (/(jean|pants|pant|shorts|trouser|cargo|bottom)/.test(hay)) return 'bottoms';
+  if (/(bag|belt|cap|hat|glass|glasses|jewelry|jewellery|watch|sock|boxer|accessor)/.test(hay)) return 'accessories';
+  return 'other';
+}
+
+const SEARCH_TAGS = {
+  shoes:['shoe','shoes','sneaker','sneakers','trainers','boot','boots','asics','jordans','jordan','nike','dior b30'],
+  tops:['top','tops','hoodie','hoodies','tee','tees','shirt','shirts','jersey','jerseys','tech fleece'],
+  outerwear:['outerwear','jacket','jackets','coat','coats','puffer','puffers','parka','parkas'],
+  bottoms:['bottom','bottoms','jean','jeans','pants','pant','shorts','cargo','cargos','trousers'],
+  accessories:['accessory','accessories','bag','bags','belt','belts','cap','caps','glasses','jewelry','jewellery','sock','socks','boxers']
+};
+
+function productSearchBlob(product = {}) {
+  const inferred = inferProductCategory(product);
+  const tags = SEARCH_TAGS[inferred] || [];
+  return [product.name, product.seller, product.category, inferred, ...(product.qc_images || []), ...tags].filter(Boolean).join(' ').toLowerCase();
+}
+
+function sellerSearchBlob(seller = {}) {
+  const base = [seller.name, seller.description, seller.link].filter(Boolean).join(' ').toLowerCase();
+  let extra = '';
+  if (/(shoe|sneaker|asics|b30|jordan|boot)/.test(base)) extra += ' shoes sneaker trainers footwear';
+  if (/(hoodie|tee|shirt|jersey|blanks|stussy|bape|supreme|corteiz|nike tech|essentials|lacoste|ralph|ami|palace)/.test(base)) extra += ' tops clothing';
+  if (/(moncler|goose|arcteryx|puffer|jacket|moose knuckles)/.test(base)) extra += ' outerwear jackets';
+  if (/(jean|jeans|flared|amiri|purple)/.test(base)) extra += ' bottoms jeans pants';
+  if (/(bag|bags|belt|belts|cap|caps|glass|glasses|jewel|boxers|socks|electronics|accessories)/.test(base)) extra += ' accessories';
+  return (base + ' ' + extra).trim();
+}
+
+function searchMatches(blob, query) {
+  const q = String(query || '').trim().toLowerCase();
+  if (!q) return true;
+  const words = q.split(/\s+/).filter(Boolean);
+  return words.every(word => blob.includes(word));
+}
+
+function announcementTargetHref(value = '') {
+  const v = String(value || '').trim();
+  if (!v) return 'announcements.html';
+  if (/^https?:\/\//i.test(v)) return v;
+  if (v.startsWith('page:')) return `${v.slice(5).trim()}.html`;
+  if (v.startsWith('category:')) return `catalogue.html?category=${encodeURIComponent(v.slice(9).trim())}`;
+  if (v.startsWith('search:')) return `catalogue.html?q=${encodeURIComponent(v.slice(7).trim())}`;
+  return v;
+}
+
+function readAnnouncements() {
+  try {
+    const parsed = JSON.parse(localStorage.getItem('rt_announcements') || '[]');
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+function translateUi() {
+  const lang = activeLang;
+  const map = {
+    English: { hero:'Your central hub for products, sellers, guides, and announcements.', search:'Search', welcome:'Welcome to TAROFINDS!' },
+    Deutsch: { hero:'Dein Hub für Produkte, Verkäufer, Guides und Ankündigungen.', search:'Suchen', welcome:'Willkommen bei TAROFINDS!' },
+    Français: { hero:'Votre hub pour produits, vendeurs, guides et annonces.', search:'Rechercher', welcome:'Bienvenue sur TAROFINDS !' },
+    Español: { hero:'Tu centro para productos, vendedores, guías y anuncios.', search:'Buscar', welcome:'¡Bienvenido a TAROFINDS!' }
+  }[lang] || null;
+  if (!map) return;
+  const heroP = document.querySelector('.hero-content p');
+  if (heroP) heroP.textContent = map.hero;
+  const searchBtns = [document.getElementById('heroSearchBtn'), document.querySelector('.nav-search-btn'), document.getElementById('catalogueSearchBtn')];
+  searchBtns.forEach(btn => { if (btn && btn.childNodes.length) {
+    if (btn.id === 'heroSearchBtn' || btn.classList.contains('nav-search-btn')) {
+      const textNode = Array.from(btn.childNodes).find(n => n.nodeType === 3 && n.textContent.trim());
+      if (textNode) textNode.textContent = ' ' + map.search;
+      else if (btn.lastElementChild || btn.firstElementChild) btn.append(' ' + map.search);
+    } else btn.textContent = map.search;
+  }});
+  const titleEl = document.getElementById('couponTitle');
+  if (titleEl && !readCoupons().length) titleEl.textContent = map.welcome;
 }
 
 function ensureMaintenanceGate() {
@@ -365,7 +451,7 @@ function buildSellerList(products, sellers) {
       <div class="s-avatar">${initialsFor(s.name)}</div>
       <div class="s-info">
         <div class="s-name">${s.name}<span class="vbadge">✓</span></div>
-        <div class="s-count">${s.count} products listed</div>
+        <div class="s-count">${s.description || 'Trusted seller'}</div>
       </div>
     </a>
   `).join('');
@@ -430,16 +516,26 @@ function buildCommunity() {
 function buildAnnouncements() {
   const el = document.getElementById('announcements');
   if (!el) return;
-  el.innerHTML = SAMPLE_ANNOUNCEMENTS.map(a => `
-    <div class="announce-item">
-      <div class="a-icon">${a.icon}</div>
+  const items = readAnnouncements().filter(a => a.enabled !== false);
+  if (!items.length) {
+    const card = el.closest('.card');
+    if (card) card.style.display = 'none';
+    return;
+  }
+  const card = el.closest('.card');
+  if (card) card.style.display = '';
+  el.innerHTML = items.slice(0, 6).map(a => {
+    const href = announcementTargetHref(a.link || a.target || '');
+    const openAttrs = /^https?:\/\//i.test(href) ? ' target="_blank" rel="noopener noreferrer"' : '';
+    return `<a class="announce-item" href="${href}"${openAttrs}>
+      <div class="a-icon">${a.icon || '📣'}</div>
       <div class="a-body">
-        <div class="ann-head"><span class="a-title">${a.title}</span><span class="a-tag">${a.tag}</span></div>
-        <div style="font-size:12px;color:var(--muted);margin-top:2px">${a.text}</div>
-        <div class="a-time">${a.time}</div>
+        <div class="ann-head"><span class="a-title">${a.title || 'Announcement'}</span><span class="a-tag">${a.tag || 'update'}</span></div>
+        <div style="font-size:12px;color:var(--muted);margin-top:2px">${a.text || ''}</div>
+        <div class="a-time">${a.time || a.dateAdded || ''}</div>
       </div>
-    </div>
-  `).join('');
+    </a>`;
+  }).join('');
 }
 
 function initCouponPopup() {
@@ -535,19 +631,21 @@ function initCouponPopup() {
 async function initCataloguePage() {
   const grid = document.getElementById('productGrid');
   if (!grid) return;
-  const products = await getProducts();
+  const products = (await getProducts()).map(p => ({ ...p, category: inferProductCategory(p) }));
+  const sellers = await getSellers();
   const input = document.getElementById('catalogueSearchInput');
   const searchBtn = document.getElementById('catalogueSearchBtn');
   const chipsWrap = document.getElementById('catalogueChips');
   const countEl = document.getElementById('catalogueCount');
   const sortEl = document.getElementById('sortSelect');
   const titleEl = document.getElementById('catalogueTitle');
+  const sellerResultsSection = document.getElementById('sellerResultsSection');
 
   const queryParam = getParam('q');
   const categoryParam = getParam('category');
   if (input && queryParam) input.value = queryParam;
 
-  const categories = ['all', ...new Set(products.map(p => (p.category || 'other').toLowerCase()))].slice(0, 16);
+  const categories = ['all', ...new Set(products.map(p => inferProductCategory(p)).filter(Boolean))].slice(0, 16);
   let activeCategory = categoryParam ? categoryParam.toLowerCase() : 'all';
 
   if (chipsWrap) {
@@ -567,10 +665,14 @@ async function initCataloguePage() {
   function render() {
     const q = (input?.value || queryParam || '').trim().toLowerCase();
     let filtered = products.filter(p => {
-      const matchesQuery = !q || [p.name, p.seller, p.category].join(' ').toLowerCase().includes(q);
-      const matchesCategory = activeCategory === 'all' || (p.category || 'other').toLowerCase() === activeCategory;
+      const inferred = inferProductCategory(p);
+      const blob = productSearchBlob({ ...p, category: inferred });
+      const matchesQuery = !q || searchMatches(blob, q);
+      const matchesCategory = activeCategory === 'all' || inferred === activeCategory;
       return matchesQuery && matchesCategory;
     });
+
+    const matchedSellers = sellers.filter(s => !q ? false : searchMatches(sellerSearchBlob(s), q)).sort((a,b)=>a.name.localeCompare(b.name));
 
     const sort = sortEl?.value || 'featured';
     if (sort === 'price-asc') filtered.sort((a, b) => Number(a.price) - Number(b.price));
@@ -586,20 +688,46 @@ async function initCataloguePage() {
     }
     if (countEl) countEl.textContent = `${filtered.length.toLocaleString()} products`;
 
-    grid.innerHTML = filtered.map(p => `
+    if (sellerResultsSection) {
+      if (matchedSellers.length) {
+        sellerResultsSection.style.display = '';
+        sellerResultsSection.innerHTML = `
+          <div class="card">
+            <div class="card-header"><h2>Matching Sellers</h2><span class="badge badge-blue">${matchedSellers.length}</span></div>
+            <div class="card-body">
+              <div class="sellers-grid">${matchedSellers.slice(0, 24).map(s => `
+                <div class="seller-card">
+                  <div class="sc-avatar">${s.logo ? `<img src="${s.logo}" alt="${s.name}" style="width:100%;height:100%;object-fit:cover">` : initialsFor(s.name)}</div>
+                  <h3>${s.name}</h3>
+                  <p>${s.description || 'Trusted marketplace seller.'}</p>
+                  <div style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap">
+                    <a class="btn btn-primary btn-sm" href="${s.link || '#'}" target="_blank" rel="noopener noreferrer">Open Seller</a>
+                  </div>
+                </div>`).join('')}</div>
+            </div>
+          </div>`;
+      } else {
+        sellerResultsSection.style.display = 'none';
+        sellerResultsSection.innerHTML = '';
+      }
+    }
+
+    grid.innerHTML = filtered.map(p => {
+      const category = inferProductCategory(p);
+      return `
       <a class="cat-card" href="${p.link || '#'}" target="_blank" rel="noopener noreferrer" style="position:relative">
         ${productAdminActions(p.id)}
         <div class="cat-card-thumb"><img src="${p.image}" alt="${p.name}" loading="lazy" /></div>
         <div class="cat-card-info">
           <div class="cat-card-name">${p.name}</div>
-          <div class="cat-card-seller">${p.seller} · ${(p.category || 'other')}</div>
+          <div class="cat-card-seller">${p.seller} · ${category}</div>
           <div class="cat-card-meta">
             <span class="cat-card-price product-price" data-cny="${p.price}">${fmtPrice(p.price)}</span>
             ${p.qc_available ? '<span class="badge badge-green">QC</span>' : '<span class="badge badge-blue">Link</span>'}
           </div>
         </div>
-      </a>
-    `).join('') || '<div class="empty-state">No products found. Try a different search or category.</div>';
+      </a>`;
+    }).join('') || '<div class="empty-state">No products found. Try a different search or category.</div>';
   }
 
   if (searchBtn && input) searchBtn.addEventListener('click', render);
@@ -613,22 +741,16 @@ async function initSellersPage() {
   const grid = document.getElementById('sellersGrid');
   if (!grid) return;
   const sellers = await getSellers();
-  const products = await getProducts();
   const input = document.getElementById('sellerSearch');
   const focusSeller = getParam('seller').toLowerCase();
   if (input && focusSeller) input.value = getParam('seller');
 
-  const counts = products.reduce((acc, p) => {
-    acc[p.seller] = (acc[p.seller] || 0) + 1;
-    return acc;
-  }, {});
-
   function render() {
     const q = (input?.value || '').trim().toLowerCase();
     const filtered = sellers.filter(s => {
-      const hay = [s.name, s.description].join(' ').toLowerCase();
-      return !q || hay.includes(q);
-    }).sort((a, b) => (counts[b.name] || 0) - (counts[a.name] || 0));
+      const hay = sellerSearchBlob(s);
+      return !q || searchMatches(hay, q);
+    }).sort((a, b) => a.name.localeCompare(b.name));
 
     const badge1 = document.getElementById('badgeSellers');
     const badge2 = document.getElementById('badgeSellers2');
@@ -642,7 +764,6 @@ async function initSellersPage() {
         <p>${s.description || 'Trusted marketplace seller.'}</p>
         <div style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap">
           <a class="btn btn-primary btn-sm" href="${s.link || '#'}" target="_blank" rel="noopener noreferrer">Open Seller</a>
-          <a class="btn btn-ghost btn-sm" href="catalogue.html?q=${encodeURIComponent(s.name)}">View Products (${counts[s.name] || 0})</a>
         </div>
       </div>
     `).join('') || '<div class="empty-state">No sellers found.</div>';
@@ -659,12 +780,13 @@ async function initSellersPage() {
 async function initHomePage() {
   if (document.body.dataset.page !== 'home') return;
   const [products, sellers] = await Promise.all([getProducts(), getSellers()]);
-  buildFeaturedGrid(products);
-  buildSellerList(products, sellers);
-  buildMarquee(products);
+  const normalizedProducts = products.map(p => ({ ...p, category: inferProductCategory(p) }));
+  buildFeaturedGrid(normalizedProducts);
+  buildSellerList(normalizedProducts, sellers);
+  buildMarquee(normalizedProducts);
   buildCommunity();
   buildAnnouncements();
-  buildStats(products.length, sellers.length);
+  buildStats(normalizedProducts.length, sellers.length);
 }
 
 /* ── Init ──────────────────────────────────────────── */
@@ -673,6 +795,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   injectBottomNav();
   initCurrencyModal();
   initCouponPopup();
+  translateUi();
   initSearch();
   initProfileBtn();
   initMouseOrb();
