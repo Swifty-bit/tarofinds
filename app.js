@@ -139,7 +139,6 @@ function getParam(name) {
   return new URLSearchParams(window.location.search).get(name) || '';
 }
 
-
 function escapeHtml(str = '') {
   return String(str)
     .replace(/&/g, '&amp;')
