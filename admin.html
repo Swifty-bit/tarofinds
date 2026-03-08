@@ -6,333 +6,99 @@
   <title>TAROFINDS — Admin</title>
   <link rel="icon" href="assets/reptaro-logo.png" />
   <link rel="stylesheet" href="styles.css" />
+  <style>
+    .admin-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:18px}.admin-stack{display:grid;gap:18px}.admin-row,.admin-mini-card{padding:12px 14px;border:1px solid var(--line);border-radius:16px;background:rgba(255,255,255,.04)}
+    .admin-row{display:flex;gap:12px;align-items:center}.admin-row-thumb{width:58px;height:58px;border-radius:14px;overflow:hidden;background:var(--surface2);display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .pager{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;flex-wrap:wrap}.pager-label{font-size:12px;color:var(--muted)}
+    .info-inline{display:flex;gap:8px;align-items:flex-start;margin-top:10px;font-size:12px;color:var(--muted)} .info-dot{width:18px;height:18px;border-radius:999px;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    @media (max-width:980px){.admin-grid{grid-template-columns:1fr}}
+  </style>
 </head>
 <body data-page="admin">
+  <div class="liquid-orb liquid-orb-1"></div><div class="liquid-orb liquid-orb-2"></div><div class="liquid-orb liquid-orb-3"></div><div class="liquid-orb liquid-orb-4"></div>
+  <nav class="navbar">
+    <a class="nav-brand" href="index.html"><img src="assets/reptaro-logo.png" alt="TAROFINDS" />TARO<span class="bdot">•</span>FINDS</a>
+    <div style="flex:1;display:flex;align-items:center;gap:10px;margin-left:16px"><span style="font-size:13px;color:var(--muted)">Admin Panel</span><span id="adminRoleBadge" class="role-badge"></span></div>
+    <div class="nav-right" id="adminNavLogin"><a class="btn btn-ghost btn-sm" href="index.html">Back to site</a></div>
+    <div class="nav-right" id="adminNavActions" style="display:none;gap:10px"><div style="text-align:right"><div id="navUserName" style="font-weight:700;font-size:13px"></div><div id="navUserRole" style="font-size:11px;color:var(--muted)"></div></div><button class="btn btn-danger btn-sm" id="logoutBtn" type="button">Log out</button></div>
+  </nav>
 
-  <div class="liquid-orb liquid-orb-1"></div>
-  <div class="liquid-orb liquid-orb-2"></div>
-  <div class="liquid-orb liquid-orb-3"></div>
-  <div class="liquid-orb liquid-orb-4"></div>
+  <div class="page">
+    <section id="adminLogin" style="min-height:70vh;display:grid;place-items:center;">
+      <form id="loginForm" class="card" style="width:100%;max-width:430px;padding:24px;position:relative;z-index:1;">
+        <div class="card-header" style="padding:0 0 12px"><h2>Staff login</h2></div>
+        <div class="form-group"><label>Username</label><input id="loginUsername" class="input-field" autocomplete="username"></div>
+        <div class="form-group"><label>Password</label><input id="loginPassword" class="input-field" type="password" autocomplete="current-password"></div>
+        <div id="loginError" style="display:none;color:var(--red);font-size:13px;margin:4px 0 12px"></div>
+        <button id="loginBtn" class="btn btn-primary" type="submit" style="width:100%;justify-content:center">Sign in</button>
+      </form>
+    </section>
 
-  <!-- LOGIN SCREEN -->
-  <div id="loginScreen" style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;position:relative;z-index:1">
-    <div class="admin-login-box" style="width:100%;max-width:420px">
-      <div style="font-size:36px;margin-bottom:12px">⚙️</div>
-      <h2>Admin Panel</h2>
-      <p class="login-sub">TAROFINDS staff only — enter your credentials</p>
-      <div class="form-group">
-        <label>Username</label>
-        <input class="input-field" id="loginUser" type="text" placeholder="Enter username" autocomplete="off" />
+    <section id="adminDashboard" style="display:none;position:relative;z-index:1;">
+      <div class="kpi-row" style="margin-bottom:18px">
+        <div class="kpi-card"><div class="kpi-val" id="adminProducts">0</div><div class="kpi-lbl">Products</div></div>
+        <div class="kpi-card"><div class="kpi-val" id="adminSellers">0</div><div class="kpi-lbl">Sellers</div></div>
+        <div class="kpi-card"><div class="kpi-val" id="adminCoupons">0</div><div class="kpi-lbl">Coupons</div></div>
+        <div class="kpi-card"><div class="kpi-val" id="adminStaff">0</div><div class="kpi-lbl">Staff</div></div>
       </div>
-      <div class="form-group">
-        <label>Password</label>
-        <input class="input-field" id="loginPass" type="password" placeholder="Enter password" />
+
+      <div class="admin-grid">
+        <div class="admin-stack">
+          <div class="card"><div class="card-header"><h2 id="productFormTitle">Add product</h2></div><div class="card-body">
+            <div class="form-grid">
+              <div class="form-group"><label>Name</label><input id="addProdName" class="input-field"></div>
+              <div class="form-group"><label>Category</label><input id="addProdCategory" class="input-field" value="shoes"></div>
+              <div class="form-group"><label>Price (CNY)</label><input id="addProdPrice" class="input-field" type="number" step="0.01"></div>
+              <div class="form-group"><label>Seller</label><input id="addProdSeller" class="input-field"></div>
+              <div class="form-group"><label>Product link</label><input id="addProdLink" class="input-field"></div>
+              <div class="form-group"><label>Image link</label><input id="addProdImage" class="input-field"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>QC image links (comma separated)</label><input id="addProdQC" class="input-field"></div>
+              <label style="display:flex;align-items:center;gap:10px;font-size:13px"><input id="addProdFeatured" type="checkbox"> Featured product</label>
+            </div>
+            <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><button id="productSubmitBtn" class="btn btn-primary btn-sm" type="button" onclick="upsertProduct()">Add product</button><button class="btn btn-ghost btn-sm" type="button" onclick="clearProductForm()">Clear</button></div>
+          </div></div>
+
+          <div class="card"><div class="card-header"><h2>Products</h2><div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap"><input id="prodSearch" class="input-field" placeholder="Search products…" style="width:220px"><select id="productPageSize" class="input-field" style="width:110px"><option value="25">25 / page</option><option value="50">50 / page</option><option value="100">100 / page</option></select></div></div><div class="card-body"><div id="adminProductList"></div><div id="productPager" class="pager"></div></div></div>
+        </div>
+
+        <div class="admin-stack">
+          <div class="card"><div class="card-header"><h2 id="couponFormTitle">Add coupon</h2></div><div class="card-body">
+            <div class="form-grid">
+              <div class="form-group"><label>Coupon title</label><input id="newCouponTitle" class="input-field"></div>
+              <div class="form-group"><label>Coupon code</label><input id="newCouponCode" class="input-field"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Coupon message</label><input id="newCouponMessage" class="input-field"></div>
+              <div class="form-group"><label>Main link</label><input id="newCouponUrl" class="input-field"></div>
+              <div class="form-group"><label>Legacy button text</label><input id="newCouponButton" class="input-field" value="Register Now"></div>
+              <div class="form-group"><label>Button photo link</label><input id="newCouponPhotoLink" class="input-field"></div>
+              <div class="form-group"><label>Button link</label><input id="newCouponButtonLink" class="input-field"></div>
+              <div class="form-group"><label>Button name</label><input id="newCouponButtonName" class="input-field"></div>
+              <div class="form-group"><label>Coupon name</label><input id="newCouponName" class="input-field"></div>
+              <div class="form-group"><label>Agent name</label><input id="newCouponAgentName" class="input-field"></div>
+            </div>
+            <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><button id="couponSubmitBtn" class="btn btn-primary btn-sm" type="button" onclick="addCoupon()">Add coupon</button><button class="btn btn-ghost btn-sm" type="button" onclick="clearCouponForm()">Clear</button></div>
+          </div></div>
+
+          <div class="card"><div class="card-header"><h2>Coupons</h2></div><div class="card-body"><div id="couponList"></div></div></div>
+
+          <div class="card"><div class="card-header"><h2>Site settings</h2></div><div class="card-body">
+            <div class="toggle-row"><div><div class="toggle-label">Coupon popup</div><div class="toggle-sub">Show popup on the homepage</div></div><div id="couponToggle" class="s-toggle" onclick="toggleSetting('coupon')"></div></div>
+            <div class="toggle-row"><div><div class="toggle-label">Maintenance mode</div><div class="toggle-sub">Show maintenance screen to visitors but still let staff in</div></div><div id="maintenanceToggle" class="s-toggle" onclick="toggleSetting('maintenance')"></div></div>
+            <div class="toggle-row"><div><div class="toggle-label">Registration</div><div class="toggle-sub">Placeholder setting for sign-up availability</div></div><div id="registrationToggle" class="s-toggle" onclick="toggleSetting('registration')"></div></div>
+            <div class="toggle-row"><div><div class="toggle-label">Beta features</div><div class="toggle-sub">Enable early feature set</div></div><div id="betaToggle" class="s-toggle" onclick="toggleSetting('beta')"></div></div>
+            <div class="info-inline"><div class="info-dot">i</div><div id="betaInfoText">—</div><button class="btn btn-ghost btn-sm" type="button" onclick="showBetaInfo()">Info</button></div>
+            <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><button class="btn btn-ghost btn-sm" type="button" onclick="clearCache()">Clear cache</button><button class="btn btn-danger btn-sm" type="button" onclick="resetData()">Reset local data</button></div>
+          </div></div>
+
+          <div class="card"><div class="card-header"><h2>Sellers snapshot</h2></div><div class="card-body"><div id="adminSellerList"></div></div></div>
+          <div class="card"><div class="card-header"><h2>Staff</h2></div><div class="card-body"><div id="staffList"></div></div></div>
+        </div>
       </div>
-      <div id="loginError" style="color:var(--red);font-size:13px;margin-bottom:10px;display:none;text-align:center">
-        ❌ Invalid credentials
-      </div>
-      <button class="btn btn-primary" onclick="doLogin()" style="width:100%;justify-content:center;padding:13px;font-size:15px;margin-top:4px">
-        Sign In
-      </button>
-      <div style="margin-top:16px;text-align:center">
-        <a href="index.html" style="font-size:12px;color:var(--muted)">← Back to site</a>
-      </div>
-    </div>
+    </section>
   </div>
 
-  <!-- ADMIN PANEL -->
-  <div id="adminPanel" style="display:none">
-
-    <nav class="navbar">
-      <a class="nav-brand" href="index.html">
-        <img src="assets/reptaro-logo.png" alt="TAROFINDS" />
-        TARO<span class="bdot">•</span>FINDS
-      </a>
-      <div style="flex:1;display:flex;align-items:center;gap:10px;margin-left:16px">
-        <span style="font-size:13px;color:var(--muted)">Admin Panel</span>
-        <span id="sessionRoleBadge" class="role-badge"></span>
-        <span id="sessionName" style="font-size:13px;color:var(--ink2);font-weight:600"></span>
-      </div>
-      <div class="nav-right">
-        <button class="btn btn-danger btn-sm" onclick="doLogout()">Log Out</button>
-      </div>
-    </nav>
-
-    <div class="page" style="padding-top:88px">
-
-      <!-- KPI Row -->
-      <div class="kpi-row" style="margin-bottom:24px">
-        <div class="kpi-card">
-          <div class="kpi-val">480</div>
-          <div class="kpi-lbl">Products</div>
-        </div>
-        <div class="kpi-card">
-          <div class="kpi-val">102</div>
-          <div class="kpi-lbl">Sellers</div>
-        </div>
-        <div class="kpi-card">
-          <div class="kpi-val">14.2k</div>
-          <div class="kpi-lbl">Visitors</div>
-        </div>
-        <div class="kpi-card">
-          <div class="kpi-val">3</div>
-          <div class="kpi-lbl">Staff</div>
-        </div>
-      </div>
-
-      <!-- Products management -->
-      <div class="admin-section" style="margin-bottom:20px">
-        <div class="admin-section-header">
-          <h3>📦 Products</h3>
-          <button class="btn btn-primary btn-sm" onclick="toast('Product form coming soon…')">+ Add Product</button>
-        </div>
-        <div class="admin-section-body">
-          <div class="admin-product-list" id="adminProductList"></div>
-        </div>
-      </div>
-
-      <!-- Announcements management -->
-      <div class="admin-section" style="margin-bottom:20px">
-        <div class="admin-section-header">
-          <h3>📣 Announcements</h3>
-          <button class="btn btn-primary btn-sm" onclick="toast('Announcement form coming soon…')">+ Post</button>
-        </div>
-        <div class="admin-section-body" id="adminAnnList">
-          <div style="padding:10px 0;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between">
-            <div>
-              <div style="font-size:14px;font-weight:700">New Seller Verification System Live</div>
-              <div style="font-size:12px;color:var(--muted)">2 hours ago · update</div>
-            </div>
-            <button class="btn btn-danger btn-sm" onclick="toast('Deleted announcement')">Delete</button>
-          </div>
-          <div style="padding:10px 0;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between">
-            <div>
-              <div style="font-size:14px;font-weight:700">Site Maintenance Notice</div>
-              <div style="font-size:12px;color:var(--muted)">Yesterday · alert</div>
-            </div>
-            <button class="btn btn-danger btn-sm" onclick="toast('Deleted announcement')">Delete</button>
-          </div>
-          <div style="padding:10px 0;display:flex;align-items:center;justify-content:space-between">
-            <div>
-              <div style="font-size:14px;font-weight:700">100 Sellers Milestone!</div>
-              <div style="font-size:12px;color:var(--muted)">3 days ago · news</div>
-            </div>
-            <button class="btn btn-danger btn-sm" onclick="toast('Deleted announcement')">Delete</button>
-          </div>
-        </div>
-      </div>
-
-      <!-- Coupon settings -->
-      <div class="admin-section" style="margin-bottom:20px">
-        <div class="admin-section-header">
-          <h3>🎁 Coupon / Invite Code</h3>
-        </div>
-        <div class="admin-section-body">
-          <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
-            <div class="form-group">
-              <label>Coupon Code</label>
-              <input class="input-field" id="couponCodeInput" value="REPTARO" />
-            </div>
-            <div class="form-group">
-              <label>Title</label>
-              <input class="input-field" id="couponTitleInput" value="Welcome to TAROFINDS!" />
-            </div>
-            <div class="form-group" style="grid-column:1/-1">
-              <label>Message</label>
-              <input class="input-field" id="couponMsgInput" value="Use the invite code below to register and start ordering with our trusted sellers." />
-            </div>
-          </div>
-          <button class="btn btn-primary btn-sm" onclick="saveCouponSettings()">Save Coupon Settings</button>
-        </div>
-      </div>
-
-      <!-- Dev-only section -->
-      <div class="admin-section" id="devSection" style="display:none;margin-bottom:20px">
-        <div class="admin-section-header">
-          <h3>🛠 Developer Settings</h3>
-          <span class="role-badge role-dev">DEV ONLY</span>
-        </div>
-        <div class="admin-section-body">
-          <div class="toggle-row">
-            <div><div class="toggle-label">Maintenance Mode</div><div class="toggle-sub">Show maintenance page to all visitors</div></div>
-            <div class="s-toggle" onclick="this.classList.toggle('on');toast('Maintenance mode ' + (this.classList.contains('on') ? 'ON' : 'OFF'))"></div>
-          </div>
-          <div class="toggle-row">
-            <div><div class="toggle-label">Debug Logging</div><div class="toggle-sub">Log all actions to console</div></div>
-            <div class="s-toggle" onclick="this.classList.toggle('on');toast('Debug logging ' + (this.classList.contains('on') ? 'ON' : 'OFF'))"></div>
-          </div>
-          <div class="toggle-row">
-            <div><div class="toggle-label">Beta Features</div><div class="toggle-sub">Enable unreleased features site-wide</div></div>
-            <div class="s-toggle" onclick="this.classList.toggle('on');toast('Beta features ' + (this.classList.contains('on') ? 'enabled' : 'disabled'))"></div>
-          </div>
-          <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
-            <button class="btn btn-ghost btn-sm" onclick="toast('Cache cleared')">🗑 Clear Cache</button>
-            <button class="btn btn-ghost btn-sm" onclick="toast('Rebuilding indexes…')">🔄 Rebuild Indexes</button>
-            <button class="btn btn-danger btn-sm" onclick="toast('This would reset all data (disabled in demo)')">⚠️ Reset Data</button>
-          </div>
-        </div>
-      </div>
-
-      <!-- Staff list — dev only -->
-      <div class="admin-section" id="staffSection" style="display:none;margin-bottom:20px">
-        <div class="admin-section-header">
-          <h3>👥 Staff Management</h3>
-          <span class="role-badge role-dev">DEV ONLY</span>
-        </div>
-        <div class="admin-section-body">
-          <div class="staff-item">
-            <div class="staff-avatar">SW</div>
-            <div class="staff-info">
-              <div class="staff-name">swift</div>
-              <div class="staff-role">Developer</div>
-            </div>
-            <span class="role-badge role-dev">DEV</span>
-          </div>
-          <div class="staff-item" style="margin-top:8px">
-            <div class="staff-avatar">T1</div>
-            <div class="staff-info">
-              <div class="staff-name">Tony1</div>
-              <div class="staff-role">Owner</div>
-            </div>
-            <span class="role-badge role-owner">OWNER</span>
-          </div>
-        </div>
-      </div>
-
-    </div>
-
-    <nav class="bottom-nav">
-      <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
-      <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
-      <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
-      <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
-      <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
-      <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
-      <a class="bnav-item active" href="admin.html"><span class="bnav-icon">⚙️</span><span>Admin</span></a>
-    </nav>
-
-  </div><!-- /adminPanel -->
-
+  <nav class="bottom-nav"></nav>
   <div id="toast"></div>
-
-  <script>
-    /* ── Credentials ─────────────────────────────── */
-    const USERS = {
-      'swift':  { pass: 'Kacperek2010', role: 'dev',   label: 'Developer' },
-      'Tony1':  { pass: 'Pfannkuchen10', role: 'owner', label: 'Owner'    },
-    };
-
-    /* ── Toast ───────────────────────────────────── */
-    function toast(msg, dur = 2600) {
-      const el = document.getElementById('toast');
-      if (!el) return;
-      el.textContent = msg;
-      el.style.opacity = '1';
-      el.style.transform = 'translateX(-50%) translateY(0)';
-      clearTimeout(el._t);
-      el._t = setTimeout(() => {
-        el.style.opacity = '0';
-        el.style.transform = 'translateX(-50%) translateY(8px)';
-      }, dur);
-    }
-
-    /* ── Login ───────────────────────────────────── */
-    function doLogin() {
-      const user = document.getElementById('loginUser').value.trim();
-      const pass = document.getElementById('loginPass').value;
-      const errEl = document.getElementById('loginError');
-
-      if (USERS[user] && USERS[user].pass === pass) {
-        errEl.style.display = 'none';
-        sessionStorage.setItem('rt_admin_user', user);
-        sessionStorage.setItem('rt_admin_role', USERS[user].role);
-        renderPanel(user, USERS[user].role, USERS[user].label);
-      } else {
-        errEl.style.display = 'block';
-        document.getElementById('loginPass').value = '';
-      }
-    }
-
-    /* ── Logout ──────────────────────────────────── */
-    function doLogout() {
-      sessionStorage.removeItem('rt_admin_user');
-      sessionStorage.removeItem('rt_admin_role');
-      document.getElementById('adminPanel').style.display = 'none';
-      document.getElementById('loginScreen').style.display = 'flex';
-      document.getElementById('loginUser').value = '';
-      document.getElementById('loginPass').value = '';
-      toast('Logged out');
-    }
-
-    /* ── Render Panel ────────────────────────────── */
-    function renderPanel(user, role, label) {
-      document.getElementById('loginScreen').style.display = 'none';
-      document.getElementById('adminPanel').style.display = 'block';
-
-      const badge = document.getElementById('sessionRoleBadge');
-      badge.textContent = role === 'dev' ? 'DEV' : 'OWNER';
-      badge.className = 'role-badge ' + (role === 'dev' ? 'role-dev' : 'role-owner');
-      document.getElementById('sessionName').textContent = user;
-
-      // Dev-only sections
-      if (role === 'dev') {
-        document.getElementById('devSection').style.display = 'block';
-        document.getElementById('staffSection').style.display = 'block';
-      }
-
-      buildAdminProducts();
-    }
-
-    /* ── Products list ───────────────────────────── */
-    const ADMIN_PRODUCTS = [
-      { name:'Nike Air Force 1 Low', seller:'SneakerKing', price:'¥178', cat:'Shoes' },
-      { name:'Jordan 1 Retro High OG', seller:'TopSeller', price:'¥220', cat:'Shoes' },
-      { name:'Stone Island Badge Hoodie', seller:'LuxReps', price:'¥145', cat:'Tops' },
-      { name:'Moncler Jacket', seller:'LuxReps', price:'¥520', cat:'Outerwear' },
-      { name:'Louis Vuitton Bag', seller:'BagMaster', price:'¥890', cat:'Accessories' },
-    ];
-
-    function buildAdminProducts() {
-      const el = document.getElementById('adminProductList');
-      if (!el) return;
-      el.innerHTML = ADMIN_PRODUCTS.map((p, i) => `
-        <div class="admin-product-item">
-          <div style="width:44px;height:44px;border-radius:8px;background:linear-gradient(135deg,rgba(30,80,200,0.30),rgba(79,159,255,0.20));flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:18px">📦</div>
-          <div class="admin-product-info">
-            <div class="admin-product-name">${p.name}</div>
-            <div class="admin-product-meta">${p.seller} · ${p.cat} · ${p.price}</div>
-          </div>
-          <div style="display:flex;gap:6px">
-            <button class="btn btn-ghost btn-sm" onclick="toast('Edit product: ${p.name}')">Edit</button>
-            <button class="btn btn-danger btn-sm" onclick="this.closest('.admin-product-item').remove();toast('Product deleted')">Delete</button>
-          </div>
-        </div>`).join('');
-    }
-
-    /* ── Coupon save ─────────────────────────────── */
-    function saveCouponSettings() {
-      const code  = document.getElementById('couponCodeInput').value;
-      const title = document.getElementById('couponTitleInput').value;
-      const msg   = document.getElementById('couponMsgInput').value;
-      localStorage.setItem('rt_coupon_code',  code);
-      localStorage.setItem('rt_coupon_title', title);
-      localStorage.setItem('rt_coupon_msg',   msg);
-      toast('Coupon settings saved ✓');
-    }
-
-    /* ── Enter key on login ──────────────────────── */
-    document.addEventListener('keydown', e => {
-      if (e.key === 'Enter' && document.getElementById('loginScreen').style.display !== 'none') {
-        doLogin();
-      }
-    });
-
-    /* ── Auto-restore session ────────────────────── */
-    const savedUser = sessionStorage.getItem('rt_admin_user');
-    const savedRole = sessionStorage.getItem('rt_admin_role');
-    if (savedUser && USERS[savedUser] && USERS[savedUser].role === savedRole) {
-      renderPanel(savedUser, savedRole, USERS[savedUser].label);
-    }
-  </script>
+  <script src="app.js"></script>
+  <script src="admin.js"></script>
 </body>
 </html>
