@@ -6,218 +6,43 @@
   <title>TAROFINDS — Profile</title>
   <link rel="icon" href="assets/reptaro-logo.png" />
   <link rel="stylesheet" href="styles.css" />
-  <style>
-    .login-card {
-      background: linear-gradient(135deg, #1e3a8a, #2563eb);
-      border-radius: var(--r2);
-      padding: 32px;
-      text-align: center;
-      color: white;
-      box-shadow: var(--shadow-lg);
-      margin-bottom: 24px;
-    }
-    .login-card h2 { font-family: 'Outfit', sans-serif; font-size: 22px; font-weight: 800; margin-bottom: 8px; }
-    .login-card p { opacity: 0.8; font-size: 14px; margin-bottom: 24px; line-height: 1.6; }
-
-    .code-display {
-      background: rgba(255,255,255,0.15);
-      border: 2px dashed rgba(255,255,255,0.4);
-      border-radius: 14px;
-      padding: 20px 24px;
-      margin: 20px 0;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 16px;
-    }
-    .code-display .code-value {
-      font-family: 'Courier New', monospace;
-      font-size: 28px;
-      font-weight: 900;
-      letter-spacing: 0.15em;
-      color: white;
-      flex: 1;
-      text-align: center;
-    }
-    .code-display .copy-code-btn {
-      background: rgba(255,255,255,0.2);
-      border: 1px solid rgba(255,255,255,0.35);
-      border-radius: 8px;
-      color: white;
-      padding: 8px 16px;
-      font-weight: 700;
-      font-size: 13px;
-      cursor: pointer;
-      transition: all 150ms;
-      white-space: nowrap;
-      flex-shrink: 0;
-    }
-    .code-display .copy-code-btn:hover { background: rgba(255,255,255,0.32); }
-
-    .code-expires {
-      font-size: 12px;
-      opacity: 0.65;
-      margin-top: 8px;
-      margin-bottom: 0;
-    }
-
-    .discord-cmd-box {
-      background: rgba(0,0,0,0.25);
-      border: 1px solid rgba(255,255,255,0.2);
-      border-radius: 10px;
-      padding: 12px 16px;
-      font-family: 'Courier New', monospace;
-      font-size: 16px;
-      font-weight: 700;
-      color: #a5f3fc;
-      margin: 0 0 20px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-    }
-    .discord-cmd-box button {
-      background: rgba(255,255,255,0.15);
-      border: 1px solid rgba(255,255,255,0.25);
-      border-radius: 6px;
-      color: white;
-      padding: 5px 12px;
-      font-size: 12px;
-      font-weight: 700;
-      cursor: pointer;
-      white-space: nowrap;
-    }
-    .discord-cmd-box button:hover { background: rgba(255,255,255,0.28); }
-
-    .steps-list {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      margin-bottom: 20px;
-      text-align: left;
-    }
-    .step-item {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      background: rgba(255,255,255,0.1);
-      border-radius: 10px;
-      padding: 10px 14px;
-      font-size: 14px;
-      font-weight: 500;
-    }
-    .step-num {
-      width: 26px;
-      height: 26px;
-      background: rgba(255,255,255,0.2);
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: 800;
-      font-size: 13px;
-      flex-shrink: 0;
-    }
-    .btn-discord-big {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      width: 100%;
-      padding: 14px;
-      background: #5865F2;
-      border: none;
-      border-radius: var(--r);
-      color: white;
-      font-weight: 800;
-      font-size: 15px;
-      text-decoration: none;
-      cursor: pointer;
-      transition: all 150ms;
-      margin-top: 4px;
-    }
-    .btn-discord-big:hover { background: #4752c4; transform: translateY(-1px); }
-
-    .regen-btn {
-      background: transparent;
-      border: 1px solid rgba(255,255,255,0.3);
-      border-radius: 8px;
-      color: rgba(255,255,255,0.7);
-      padding: 6px 14px;
-      font-size: 12px;
-      cursor: pointer;
-      margin-top: 8px;
-      transition: all 150ms;
-    }
-    .regen-btn:hover { color: white; border-color: white; }
-  </style>
 </head>
 <body data-page="profile">
+
+  <div class="liquid-orb liquid-orb-1"></div>
+  <div class="liquid-orb liquid-orb-2"></div>
+  <div class="liquid-orb liquid-orb-3"></div>
+  <div class="liquid-orb liquid-orb-4"></div>
 
   <nav class="navbar">
     <a class="nav-brand" href="index.html">
       <img src="assets/reptaro-logo.png" alt="TAROFINDS" />
       TARO<span class="bdot">•</span>FINDS
     </a>
-    <div class="nav-search" style="visibility:hidden;flex:1"></div>
+    <div class="nav-search">
+      <input type="search" placeholder="Search products, sellers…" autocomplete="off" />
+      <button class="nav-search-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        Search
+      </button>
+    </div>
     <div class="nav-right">
-      <button class="profile-btn" id="profileBtn"><div class="p-avatar">👤</div><span>Profile</span></button>
+      <button class="currency-btn" id="currencyBtn">
+        <span id="currencyLabel">USD</span>
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
     </div>
   </nav>
 
   <div class="page">
-
-    <div class="profile-hero" id="profileHero" style="display:none;">
-      <div class="pa-lg" id="profileAvatar">👤</div>
-      <div class="profile-info">
-        <h2 id="profileName">User</h2>
-        <p id="profileSub">Logged in via Discord</p>
-      </div>
-      <div style="margin-left:auto;" id="profileActions">
-        <button class="btn" style="background:rgba(255,255,255,0.15);color:white;border:1px solid rgba(255,255,255,0.3);font-weight:700" onclick="doLogout()">Logout</button>
-      </div>
+    <div class="page-header">
+      <div><h1>Profile</h1><div class="sub">Your saved items and preferences</div></div>
     </div>
 
-    <div id="loginSection">
-      <div class="login-card">
-        <div style="font-size:48px;margin-bottom:12px;">
-          <svg width="48" height="38" viewBox="0 0 71 55" fill="white" xmlns="http://www.w3.org/2000/svg"><path d="M60.1 4.9A58.5 58.5 0 0045.4.2a.2.2 0 00-.2.1 40.6 40.6 0 00-1.8 3.7 54 54 0 00-16.2 0A37.3 37.3 0 0025.4.3a.2.2 0 00-.2-.1A58.4 58.4 0 0010.5 4.9.2.2 0 0010.4 5C1.5 18.6-.9 31.9.3 45a.2.2 0 00.1.2A58.8 58.8 0 0018 54.7a.2.2 0 00.3-.1 42 42 0 003.6-5.9.2.2 0 00-.1-.3 38.7 38.7 0 01-5.5-2.6.2.2 0 01 0-.4 31 31 0 001.1-.9.2.2 0 01.2 0 42 42 0 0035.8 0 .2.2 0 01.2 0l1.1.9a.2.2 0 01 0 .3 36.4 36.4 0 01-5.5 2.7.2.2 0 00-.1.3 47.2 47.2 0 003.6 5.8.2.2 0 00.3.1A58.6 58.6 0 0070.6 45.2a.2.2 0 00.1-.2c1.4-14.6-2.4-27.3-10.1-38.5a.2.2 0 00-.1-.1zM23.7 37c-3.3 0-6.1-3.1-6.1-6.8s2.7-6.9 6.1-6.9 6.2 3.1 6.1 6.9c0 3.7-2.7 6.8-6.1 6.8zm22.6 0c-3.3 0-6.1-3.1-6.1-6.8s2.7-6.9 6.1-6.9 6.2 3.1 6.1 6.9c0 3.7-2.7 6.8-6.1 6.8z"/></svg>
-        </div>
-        <h2>Login with Discord</h2>
-        <p>Link your Discord account to save items, post on forums, and unlock community features.</p>
-
-        <div class="steps-list">
-          <div class="step-item"><div class="step-num">1</div><span>Your unique login code is shown below</span></div>
-          <div class="step-item"><div class="step-num">2</div><span>Join our Discord server</span></div>
-          <div class="step-item"><div class="step-num">3</div><span>Run <strong>/login &lt;code&gt;</strong> in any channel with the bot</span></div>
-        </div>
-
-        <div style="margin-bottom:6px;font-size:12px;font-weight:700;opacity:0.7;text-transform:uppercase;letter-spacing:0.06em;text-align:left;">Your Code</div>
-        <div class="code-display">
-          <span class="code-value" id="loginCodeDisplay">……</span>
-          <button class="copy-code-btn" onclick="copyLoginCode()">Copy</button>
-        </div>
-        <p class="code-expires" id="codeExpiresText">Generating…</p>
-
-        <div style="margin:16px 0 6px;font-size:12px;font-weight:700;opacity:0.7;text-transform:uppercase;letter-spacing:0.06em;text-align:left;">Discord Command</div>
-        <div class="discord-cmd-box">
-          <span id="discordCmdText">/login ……</span>
-          <button onclick="copyDiscordCmd()">Copy Command</button>
-        </div>
-
-        <a href="https://discord.gg/PEWPebhG" target="_blank" class="btn-discord-big">
-          <svg width="20" height="16" viewBox="0 0 71 55" fill="currentColor"><path d="M60.1 4.9A58.5 58.5 0 0045.4.2a.2.2 0 00-.2.1 40.6 40.6 0 00-1.8 3.7 54 54 0 00-16.2 0A37.3 37.3 0 0025.4.3a.2.2 0 00-.2-.1A58.4 58.4 0 0010.5 4.9.2.2 0 0010.4 5C1.5 18.6-.9 31.9.3 45a.2.2 0 00.1.2A58.8 58.8 0 0018 54.7a.2.2 0 00.3-.1 42 42 0 003.6-5.9.2.2 0 00-.1-.3 38.7 38.7 0 01-5.5-2.6.2.2 0 01 0-.4 31 31 0 001.1-.9.2.2 0 01.2 0 42 42 0 0035.8 0 .2.2 0 01.2 0l1.1.9a.2.2 0 01 0 .3 36.4 36.4 0 01-5.5 2.7.2.2 0 00-.1.3 47.2 47.2 0 003.6 5.8.2.2 0 00.3.1A58.6 58.6 0 0070.6 45.2a.2.2 0 00.1-.2c1.4-14.6-2.4-27.3-10.1-38.5a.2.2 0 00-.1-.1zM23.7 37c-3.3 0-6.1-3.1-6.1-6.8s2.7-6.9 6.1-6.9 6.2 3.1 6.1 6.9c0 3.7-2.7 6.8-6.1 6.8zm22.6 0c-3.3 0-6.1-3.1-6.1-6.8s2.7-6.9 6.1-6.9 6.2 3.1 6.1 6.9c0 3.7-2.7 6.8-6.1 6.8z"/></svg>
-          Open Discord Server
-        </a>
-
-        <button class="regen-btn" onclick="generateCode()">↻ Generate new code</button>
-      </div>
-    </div>
-
-    <div class="admin-grid" id="loggedInContent" style="display:none;">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px">
 
       <div class="card">
-        <div class="card-header"><h2>Saved Items</h2><span class="badge" id="savedCount">0 saved</span></div>
+        <div class="card-header"><h2>Saved Items</h2><span class="badge badge-blue" id="savedCount">0 saved</span></div>
         <div class="card-body" id="savedItemsBody">
           <div style="text-align:center;padding:30px 0;color:var(--muted)">
             <div style="font-size:36px;margin-bottom:12px">💾</div>
@@ -240,10 +65,6 @@
               <div><div class="toggle-label">Compact View</div><div class="toggle-sub">Smaller product cards in catalogue</div></div>
               <div class="s-toggle" onclick="this.classList.toggle('on');toast('Preference saved')"></div>
             </div>
-            <div class="toggle-row">
-              <div><div class="toggle-label">Show Coupon on Load</div><div class="toggle-sub">Display the welcome coupon on visit</div></div>
-              <div class="s-toggle on" id="couponPref" onclick="this.classList.toggle('on');localStorage.removeItem('rt_coupon_dismissed');toast('Coupon preference saved')"></div>
-            </div>
           </div>
         </div>
       </div>
@@ -251,10 +72,23 @@
       <div class="card">
         <div class="card-header"><h2>Invite Friends</h2></div>
         <div class="card-body">
-          <p style="font-size:13px;color:var(--muted);margin-bottom:14px">Share your invite code and earn rewards for every person who joins.</p>
+          <p style="font-size:13px;color:var(--muted);margin-bottom:14px">Share your invite code to unlock rewards.</p>
           <div style="display:flex;gap:8px;align-items:center">
-            <div style="flex:1;padding:10px 14px;background:var(--blue-light);border:1px dashed var(--blue-mid);border-radius:10px;font-family:monospace;font-size:15px;font-weight:700;letter-spacing:0.08em;color:var(--blue)">TAROFINDS</div>
-            <button class="btn btn-primary" onclick="navigator.clipboard?.writeText('TAROFINDS');toast('Invite code copied!')">Copy</button>
+            <div style="flex:1;padding:10px 14px;background:var(--blue-light);border:1px dashed var(--blue-mid);border-radius:10px;font-family:monospace;font-size:15px;font-weight:700;letter-spacing:0.08em;color:var(--blue)">REPTARO</div>
+            <button class="btn btn-primary" onclick="navigator.clipboard?.writeText('REPTARO');toast('Invite code copied!')">Copy</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header"><h2>Quick Links</h2></div>
+        <div class="card-body">
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+            <a href="catalogue.html" class="btn btn-ghost btn-sm" style="text-align:center">Catalogue</a>
+            <a href="sellers.html"   class="btn btn-ghost btn-sm" style="text-align:center">Sellers</a>
+            <a href="guides.html"    class="btn btn-ghost btn-sm" style="text-align:center">Guides</a>
+            <a href="tools.html"     class="btn btn-ghost btn-sm" style="text-align:center">Tools</a>
+            <a href="https://m.litbuy.com/pages/register/index?inviteCode=REPTARO" target="_blank" class="btn btn-primary btn-sm" style="text-align:center;grid-column:1/-1">Register on LitBuy</a>
           </div>
         </div>
       </div>
@@ -265,190 +99,32 @@
   <nav class="bottom-nav">
     <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
     <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
-    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Best Sellers</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
     <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
-    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
-    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
     <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
     <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+    <a class="bnav-item" href="admin.html"><span class="bnav-icon">⚙️</span><span>Admin</span></a>
   </nav>
+
+  <div class="modal-backdrop" id="currencyModal">
+    <div class="modal-box">
+      <div class="modal-head"><h3>Select Currency</h3><button class="modal-x" id="currencyClose">✕</button></div>
+      <div class="modal-body">
+        <div class="currency-grid">
+          <div class="curr-opt" data-code="CNY"><div class="curr-code">CNY</div><div class="curr-name">Chinese Yuan ¥</div></div>
+          <div class="curr-opt" data-code="USD"><div class="curr-code">USD</div><div class="curr-name">US Dollar $</div></div>
+          <div class="curr-opt" data-code="GBP"><div class="curr-code">GBP</div><div class="curr-name">British Pound £</div></div>
+          <div class="curr-opt" data-code="EUR"><div class="curr-code">EUR</div><div class="curr-name">Euro €</div></div>
+          <div class="curr-opt" data-code="AUD"><div class="curr-code">AUD</div><div class="curr-name">Australian Dollar</div></div>
+          <div class="curr-opt" data-code="CAD"><div class="curr-code">CAD</div><div class="curr-name">Canadian Dollar</div></div>
+          <div class="curr-opt" data-code="JPY"><div class="curr-code">JPY</div><div class="curr-name">Japanese Yen</div></div>
+          <div class="curr-opt" data-code="SGD"><div class="curr-code">SGD</div><div class="curr-name">Singapore Dollar</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div id="toast"></div>
   <script src="app.js"></script>
-  <script>
-    const CODE_EXPIRY_MS = 10 * 60 * 1000;
-
-    function getDiscordUser() {
-      try {
-        return JSON.parse(localStorage.getItem('rt_discord_user') || 'null');
-      } catch (e) {
-        return null;
-      }
-    }
-
-    function getStoredLoginCode() {
-      try {
-        const parsed = JSON.parse(localStorage.getItem('rt_login_code') || 'null');
-        if (!parsed || !parsed.code || !parsed.expiresAt) return null;
-        return parsed;
-      } catch (e) {
-        return null;
-      }
-    }
-
-    function generateCode() {
-      const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
-      let code = '';
-      for (let i = 0; i < 6; i++) code += chars[Math.floor(Math.random() * chars.length)];
-      const expiresAt = Date.now() + CODE_EXPIRY_MS;
-      const payload = { code, expiresAt };
-      localStorage.setItem('rt_login_code', JSON.stringify(payload));
-      updateCodeDisplay(code, expiresAt);
-      return payload;
-    }
-
-    function getOrCreateCode() {
-      const stored = getStoredLoginCode();
-      if (stored && Date.now() < stored.expiresAt) return stored;
-      return generateCode();
-    }
-
-    function updateCodeDisplay(code, expiresAt) {
-      const codeEl = document.getElementById('loginCodeDisplay');
-      const expEl = document.getElementById('codeExpiresText');
-      const cmdEl = document.getElementById('discordCmdText');
-
-      if (codeEl) codeEl.textContent = code;
-      if (cmdEl) cmdEl.textContent = `/login ${code}`;
-
-      if (expEl) {
-        const updateTimer = () => {
-          const remaining = Math.max(0, expiresAt - Date.now());
-          const mins = Math.floor(remaining / 60000);
-          const secs = Math.floor((remaining % 60000) / 1000);
-
-          if (remaining <= 0) {
-            expEl.textContent = 'Code expired — click "Generate new code"';
-            expEl.style.color = 'rgba(255,100,100,0.9)';
-          } else {
-            expEl.textContent = `Expires in ${mins}:${String(secs).padStart(2, '0')}`;
-            expEl.style.color = '';
-          }
-        };
-
-        updateTimer();
-        clearInterval(window._codeTimer);
-        window._codeTimer = setInterval(updateTimer, 1000);
-      }
-    }
-
-    function copyLoginCode() {
-      const code = document.getElementById('loginCodeDisplay')?.textContent;
-      if (code && code !== '……') {
-        navigator.clipboard?.writeText(code).then(() => toast('Code copied! ✓')).catch(() => {});
-      }
-    }
-
-    function copyDiscordCmd() {
-      const code = document.getElementById('loginCodeDisplay')?.textContent;
-      if (code && code !== '……') {
-        navigator.clipboard?.writeText(`/login ${code}`).then(() => toast('Command copied! Paste it in Discord ✓')).catch(() => {});
-      }
-    }
-
-    function doLogout() {
-      if (confirm('Log out of your Discord account?')) {
-        localStorage.removeItem('rt_discord_user');
-        location.href = 'profile.html';
-      }
-    }
-
-    function renderProfile() {
-      const user = getDiscordUser();
-
-      if (user) {
-        document.getElementById('loginSection').style.display = 'none';
-        document.getElementById('profileHero').style.display = 'flex';
-        document.getElementById('loggedInContent').style.display = 'grid';
-
-        const name = document.getElementById('profileName');
-        const sub = document.getElementById('profileSub');
-        const avatar = document.getElementById('profileAvatar');
-
-        if (name) name.textContent = user.globalName || user.username || user.name || 'User';
-        if (sub) sub.textContent = `Connected · Discord ID: ${user.discordId || user.userId || ''}`;
-
-        if (avatar) {
-          if (user.avatar) {
-            avatar.innerHTML = `<img src="${user.avatar}" style="width:100%;height:100%;object-fit:cover;border-radius:50%;" onerror="this.parentElement.textContent='👤'">`;
-          } else {
-            avatar.textContent = (user.username || user.name || 'U').substring(0, 2).toUpperCase();
-          }
-        }
-
-        const saved = JSON.parse(localStorage.getItem('rt_saved_items') || '[]');
-        const countEl = document.getElementById('savedCount');
-        const bodyEl = document.getElementById('savedItemsBody');
-
-        if (countEl) countEl.textContent = saved.length + ' saved';
-
-        if (bodyEl && saved.length) {
-          bodyEl.innerHTML =
-            '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px">' +
-            saved.map((item, i) => `
-              <div style="background:var(--surface2);border-radius:var(--r);overflow:hidden;border:1px solid var(--line)">
-                <div style="height:120px;overflow:hidden;background:linear-gradient(135deg,#dbeafe,#bfdbfe)">
-                  <img src="${item.image || ''}" style="width:100%;height:100%;object-fit:cover" onerror="this.style.display='none'">
-                </div>
-                <div style="padding:8px 10px">
-                  <div style="font-size:12px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${item.name || 'Item'}</div>
-                  <div style="display:flex;justify-content:space-between;align-items:center;margin-top:4px">
-                    <span style="font-size:12px;font-weight:700;color:var(--blue)">${item.price || ''}</span>
-                    <button class="btn btn-ghost" style="font-size:10px;padding:2px 6px" onclick="removeSaved(${i})">Remove</button>
-                  </div>
-                </div>
-              </div>`).join('') +
-            '</div>';
-        }
-      } else {
-        document.getElementById('loginSection').style.display = 'block';
-        document.getElementById('profileHero').style.display = 'none';
-        document.getElementById('loggedInContent').style.display = 'none';
-
-        const current = getOrCreateCode();
-        updateCodeDisplay(current.code, current.expiresAt);
-      }
-    }
-
-    function removeSaved(i) {
-      const saved = JSON.parse(localStorage.getItem('rt_saved_items') || '[]');
-      saved.splice(i, 1);
-      localStorage.setItem('rt_saved_items', JSON.stringify(saved));
-      renderProfile();
-      toast('Item removed');
-    }
-
-    function completeDiscordLoginFromUrl() {
-      const params = new URLSearchParams(location.search);
-      const raw = params.get('discord_login');
-      if (!raw) return;
-
-      try {
-        const userData = JSON.parse(decodeURIComponent(raw));
-
-        localStorage.setItem('rt_discord_user', JSON.stringify(userData));
-        localStorage.removeItem('rt_login_code');
-
-        history.replaceState(null, '', 'profile.html');
-        toast('Logged in as ' + (userData.globalName || userData.username || userData.name) + ' ✓');
-      } catch (e) {
-        history.replaceState(null, '', 'profile.html');
-        toast('Login failed: bad login link');
-      }
-    }
-
-    completeDiscordLoginFromUrl();
-    renderProfile();
-  </script>
 </body>
 </html>

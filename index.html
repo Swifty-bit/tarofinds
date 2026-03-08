@@ -3,20 +3,28 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>REP•TARO — Home</title>
+  <title>TAROFINDS — Home</title>
   <link rel="icon" href="assets/reptaro-logo.png" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-page="home">
 
-  <!-- TOP NAVBAR -->
+  <div class="liquid-orb liquid-orb-1"></div>
+  <div class="liquid-orb liquid-orb-2"></div>
+  <div class="liquid-orb liquid-orb-3"></div>
+  <div class="liquid-orb liquid-orb-4"></div>
+
   <nav class="navbar">
     <a class="nav-brand" href="index.html">
-      <img src="assets/reptaro-logo.png" alt="REP•TARO" />
-      REP<span class="bdot">•</span>TARO
+      <img src="assets/reptaro-logo.png" alt="TAROFINDS" />
+      TARO<span class="bdot">•</span>FINDS
     </a>
-    <div class="nav-search" style="visibility:hidden;flex:1">
-      <input type="search" disabled />
+    <div class="nav-search">
+      <input id="searchInput" type="search" placeholder="Search products, sellers…" autocomplete="off" />
+      <button class="nav-search-btn" aria-label="Search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        Search
+      </button>
     </div>
     <div class="nav-right">
       <button class="currency-btn" id="currencyBtn">
@@ -30,15 +38,22 @@
     </div>
   </nav>
 
-  <!-- PAGE CONTENT -->
   <div class="page">
 
-    <!-- HERO BANNER -->
     <section class="hero">
       <div class="hero-content">
         <h1>Find products fast.<br>Track sellers. Keep it simple.</h1>
         <p>Your central hub for the best reps — products, sellers, guides, and community.</p>
       </div>
+
+      <div class="hero-search-wrap">
+        <input id="heroSearchInput" type="search" placeholder="Search products, sellers, categories…" autocomplete="off" />
+        <button class="hero-search-btn" id="heroSearchBtn">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="margin-right:6px;flex-shrink:0"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          Search
+        </button>
+      </div>
+
       <div class="hero-stats">
         <div class="hero-stat">
           <div class="val" id="statProducts">—</div>
@@ -51,23 +66,11 @@
       </div>
     </section>
 
-    <!-- SEARCH BAR -->
-    <div class="home-search-wrap" style="display:flex;justify-content:center;margin:-8px 0 -4px">
-      <div class="nav-search" style="max-width:600px;flex:1;background:rgba(255,255,255,0.12);border:1px solid rgba(255,255,255,0.25);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px)">
-        <input id="searchInput" type="search" placeholder="Search products, sellers, categories…" autocomplete="off" style="color:white" />
-        <button class="nav-search-btn" aria-label="Search">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-        </button>
-      </div>
+    <div class="category-marquee-wrap">
+      <div id="categoryMarquee"></div>
     </div>
 
-    <!-- SCROLLING CATEGORIES -->
-    <div class="category-marquee" id="categoryMarquee"></div>
-
-    <!-- FEATURED CATALOG + BEST SELLERS -->
     <div class="main-grid">
-
-      <!-- FEATURED CATALOG -->
       <div class="card">
         <div class="card-header">
           <h2>Featured Catalog</h2>
@@ -78,7 +81,6 @@
         </div>
       </div>
 
-      <!-- BEST SELLERS -->
       <div class="card">
         <div class="card-header">
           <h2>Best Sellers</h2>
@@ -87,13 +89,9 @@
         <div class="bs-label">Best Sellers</div>
         <div id="sellerList"></div>
       </div>
-
     </div>
 
-    <!-- COMMUNITY + ANNOUNCEMENTS -->
     <div class="bottom-grid">
-
-      <!-- COMMUNITY & GUIDES -->
       <div class="card">
         <div class="card-header">
           <h2>Community &amp; Guides</h2>
@@ -102,60 +100,55 @@
         <div class="card-body">
           <div class="community-grid">
             <div>
-              <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px;">Recent forum posts</div>
-              <div id="forumPosts"></div>
-            </div>
-            <div>
               <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px;">Guides</div>
               <div id="guidesList"></div>
+            </div>
+            <div>
+              <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px;">Recent Activity</div>
+              <div id="forumPosts"></div>
             </div>
           </div>
         </div>
       </div>
 
-      <!-- ANNOUNCEMENTS -->
       <div class="card">
         <div class="card-header">
           <h2>Announcements</h2>
         </div>
         <div class="card-body" id="announcements"></div>
       </div>
-
     </div>
 
-  </div><!-- /page -->
+  </div>
 
-  <!-- BOTTOM NAV -->
   <nav class="bottom-nav">
-    <a class="bnav-item active" href="index.html">
-      <span class="bnav-icon">🏠</span><span>Home</span>
-    </a>
-    <a class="bnav-item" href="catalogue.html">
-      <span class="bnav-icon">📋</span><span>Catalog</span>
-    </a>
-    <a class="bnav-item" href="sellers.html">
-      <span class="bnav-icon">🏆</span><span>Best Sellers</span>
-    </a>
-    <a class="bnav-item" href="guides.html">
-      <span class="bnav-icon">📖</span><span>Guides</span>
-    </a>
-    <a class="bnav-item" href="forums.html">
-      <span class="bnav-icon">💬</span><span>Forums</span>
-    </a>
-    <a class="bnav-item" href="alerts.html">
-      <span class="bnav-icon">🔔</span><span>Alerts</span>
-    </a>
-    <a class="bnav-item" href="announcements.html">
-      <span class="bnav-icon">📣</span><span>News</span>
-    </a>
-    <a class="bnav-item" href="tools.html">
-      <span class="bnav-icon">🔧</span><span>Tools</span>
-    </a>
+    <a class="bnav-item active" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+    <a class="bnav-item" href="admin.html"><span class="bnav-icon">⚙️</span><span>Admin</span></a>
   </nav>
 
-  <!-- COUPON MODAL -->
+  <!-- COUPON MODAL — no "don't show again" -->
   <div class="modal-backdrop" id="couponModal">
-    <div class="coupon-box"></div>
+    <div class="coupon-box">
+      <div class="coupon-bg"></div>
+      <button class="coupon-x" id="couponClose">✕</button>
+      <div class="coupon-inner">
+        <div class="coupon-tag">🎁 Special Offer</div>
+        <h3 id="couponTitle">Welcome to TAROFINDS!</h3>
+        <p id="couponMessage">Use the invite code below to register and start ordering with our trusted sellers.</p>
+        <div class="coupon-code-box">
+          <span id="couponCode">REPTARO</span>
+          <button class="copy-btn" id="copyCodeBtn">Copy</button>
+        </div>
+        <div class="coupon-actions">
+          <button class="c-btn-white" id="couponGo">Register Now</button>
+        </div>
+      </div>
+    </div>
   </div>
 
   <!-- CURRENCY MODAL -->
@@ -181,7 +174,6 @@
   </div>
 
   <div id="toast"></div>
-
   <script src="app.js"></script>
 </body>
 </html>

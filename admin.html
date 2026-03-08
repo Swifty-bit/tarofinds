@@ -3,402 +3,336 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>TAROFINDS — Admin Panel</title>
+  <title>TAROFINDS — Admin</title>
   <link rel="icon" href="assets/reptaro-logo.png" />
   <link rel="stylesheet" href="styles.css" />
-  <style>
-    .admin-nav-actions {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: nowrap;
-    }
-    .admin-user-chip {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      background: var(--surface2);
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      padding: 6px 12px;
-      font-size: 13px;
-    }
-    .admin-user-chip .u-name { font-weight: 700; color: var(--ink); }
-    .admin-user-chip .u-role { font-size: 11px; color: var(--muted); }
-    .btn-admin-action {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 10px 18px;
-      border-radius: 10px;
-      font-size: 14px;
-      font-weight: 700;
-      cursor: pointer;
-      transition: all 150ms;
-      white-space: nowrap;
-    }
-    .btn-change-pass {
-      background: var(--blue-light);
-      color: var(--blue);
-      border: 1px solid var(--blue-mid);
-    }
-    .btn-change-pass:hover { background: var(--blue-mid); }
-    .btn-logout-admin {
-      background: rgba(239,68,68,0.1);
-      color: var(--red);
-      border: 1px solid rgba(239,68,68,0.2);
-    }
-    .btn-logout-admin:hover { background: rgba(239,68,68,0.2); }
-    @media (max-width: 600px) {
-      .admin-user-chip .u-role { display: none; }
-      .btn-admin-action span { display: none; }
-      .btn-admin-action { padding: 10px 12px; }
-    }
-  </style>
 </head>
 <body data-page="admin">
 
-  <nav class="navbar">
-    <a class="nav-brand" href="index.html">
-      <img src="assets/reptaro-logo.png" alt="TAROFINDS" />
-      TARO<span class="bdot">•</span>FINDS
-    </a>
-    <div style="flex:1"></div>
-    <div class="admin-nav-actions" id="adminNavActions" style="display:none;">
-      <div class="admin-user-chip">
-        <div class="p-avatar" style="font-size:16px;">👤</div>
-        <div>
-          <div class="u-name" id="navUserName">—</div>
-          <div class="u-role" id="navUserRole">—</div>
-        </div>
+  <div class="liquid-orb liquid-orb-1"></div>
+  <div class="liquid-orb liquid-orb-2"></div>
+  <div class="liquid-orb liquid-orb-3"></div>
+  <div class="liquid-orb liquid-orb-4"></div>
+
+  <!-- LOGIN SCREEN -->
+  <div id="loginScreen" style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;position:relative;z-index:1">
+    <div class="admin-login-box" style="width:100%;max-width:420px">
+      <div style="font-size:36px;margin-bottom:12px">⚙️</div>
+      <h2>Admin Panel</h2>
+      <p class="login-sub">TAROFINDS staff only — enter your credentials</p>
+      <div class="form-group">
+        <label>Username</label>
+        <input class="input-field" id="loginUser" type="text" placeholder="Enter username" autocomplete="off" />
       </div>
-      <button class="btn-admin-action btn-change-pass" type="button" onclick="changePassword()">
-        🔑 <span>Change Password</span>
+      <div class="form-group">
+        <label>Password</label>
+        <input class="input-field" id="loginPass" type="password" placeholder="Enter password" />
+      </div>
+      <div id="loginError" style="color:var(--red);font-size:13px;margin-bottom:10px;display:none;text-align:center">
+        ❌ Invalid credentials
+      </div>
+      <button class="btn btn-primary" onclick="doLogin()" style="width:100%;justify-content:center;padding:13px;font-size:15px;margin-top:4px">
+        Sign In
       </button>
-      <button class="btn-admin-action btn-logout-admin" id="logoutBtn" type="button">
-        🚪 <span>Log Out</span>
-      </button>
-    </div>
-    <div id="adminNavLogin" style="display:flex;align-items:center;">
-      <span class="badge badge-red" style="font-size:12px;padding:5px 12px;">🛡️ Staff Area</span>
-    </div>
-  </nav>
-
-  <div class="page" id="adminPage">
-    <div id="adminLogin" class="admin-login-box">
-      <h2>🔐 Staff Login</h2>
-
-      <form id="loginForm">
-        <div class="form-group">
-          <label for="loginUsername">Username</label>
-          <input type="text" id="loginUsername" placeholder="Enter username" autocomplete="username" />
-        </div>
-
-        <div class="form-group">
-          <label for="loginPassword">Password</label>
-          <input type="password" id="loginPassword" placeholder="Enter password" autocomplete="current-password" />
-        </div>
-
-        <button class="btn btn-primary" id="loginBtn" type="submit">Login</button>
-        <div id="loginError" style="color:var(--red);font-size:13px;margin-top:12px;text-align:center;display:none;"></div>
-      </form>
-    </div>
-
-    <div id="adminDashboard" style="display:none;">
-      <div class="page-header">
-        <div>
-          <h1>Admin Panel</h1>
-          <div class="sub">Staff-only dashboard — <span id="adminRoleBadge" class="role-badge role-owner">Owner</span></div>
-        </div>
-        <div style="display:flex;gap:10px;align-items:center;">
-          <span class="api-status online" id="apiStatus">● Online</span>
-        </div>
-      </div>
-
-      <div class="bot-info-card">
-        <h3>🤖 Discord Bot</h3>
-        <p>Manage your site through Discord. The bot provides commands for adding products, sellers, and managing staff.</p>
-        <div class="bot-commands">
-          <div class="bot-command"><code>/addproduct</code> — Add new product</div>
-          <div class="bot-command"><code>/addseller</code> — Add new seller</div>
-          <div class="bot-command"><code>/addstaff</code> — Add staff member</div>
-          <div class="bot-command"><code>/removestaff</code> — Remove staff</div>
-          <div class="bot-command"><code>/listproducts</code> — List products</div>
-          <div class="bot-command"><code>/announce</code> — Post announcement</div>
-        </div>
-      </div>
-
-      <div class="kpi-row">
-        <div class="kpi-card">
-          <div class="kpi-val" id="adminProducts">—</div>
-          <div class="kpi-lbl">Total Products</div>
-        </div>
-        <div class="kpi-card">
-          <div class="kpi-val" id="adminSellers">—</div>
-          <div class="kpi-lbl">Total Sellers</div>
-        </div>
-        <div class="kpi-card">
-          <div class="kpi-val" id="adminStaff">—</div>
-          <div class="kpi-lbl">Staff Members</div>
-        </div>
-        <div class="kpi-card">
-          <div class="kpi-val" style="color:var(--green)" id="adminUsers">—</div>
-          <div class="kpi-lbl">Total Users</div>
-        </div>
-      </div>
-
-      <div class="admin-grid-2">
-        <div class="admin-section">
-          <div class="admin-section-header">
-            <h3>📦 Add Product</h3>
-            <span class="badge badge-green">+ New</span>
-          </div>
-          <div class="admin-section-body">
-            <div class="form-group">
-              <label>Product Name *</label>
-              <input type="text" id="addProdName" placeholder="e.g. Nike Dunks SB" />
-            </div>
-            <div class="admin-grid-2">
-              <div class="form-group">
-                <label>Category *</label>
-                <select id="addProdCategory">
-                  <option value="shoes">Shoes</option>
-                  <option value="clothes">Clothes</option>
-                  <option value="accessories">Accessories</option>
-                  <option value="electronics">Electronics</option>
-                  <option value="hoodies">Hoodies</option>
-                  <option value="puffer jackets">Puffer Jackets</option>
-                  <option value="t-shirts">T-Shirts</option>
-                  <option value="shorts">Shorts</option>
-                  <option value="bags">Bags</option>
-                  <option value="watches">Watches</option>
-                  <option value="jewelry">Jewelry</option>
-                </select>
-              </div>
-              <div class="form-group">
-                <label>Price (CNY) *</label>
-                <input type="number" id="addProdPrice" placeholder="0.00" step="0.01" />
-              </div>
-            </div>
-            <div class="admin-grid-2">
-              <div class="form-group">
-                <label>Seller Name</label>
-                <input type="text" id="addProdSeller" placeholder="e.g. WWTop" />
-              </div>
-              <div class="form-group">
-                <label>Product Link</label>
-                <input type="url" id="addProdLink" placeholder="https://weidian.com/..." />
-              </div>
-            </div>
-            <div class="form-group">
-              <label>Image URL</label>
-              <input type="url" id="addProdImage" placeholder="https://..." />
-            </div>
-            <div class="form-group">
-              <label>QC Image URLs (comma-separated)</label>
-              <input type="text" id="addProdQC" placeholder="https://..., https://..." />
-            </div>
-            <div style="display:flex;gap:8px;">
-              <button class="btn btn-primary" type="button" onclick="addProduct()">Add Product</button>
-              <button class="btn btn-ghost" type="button" onclick="clearProductForm()">Clear</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="admin-section">
-          <div class="admin-section-header">
-            <h3>🏪 Add Seller</h3>
-            <span class="badge badge-green">+ New</span>
-          </div>
-          <div class="admin-section-body">
-            <div class="form-group">
-              <label>Seller Name *</label>
-              <input type="text" id="addSellerName" placeholder="e.g. Taro" />
-            </div>
-            <div class="form-group">
-              <label>Store Link *</label>
-              <input type="url" id="addSellerLink" placeholder="https://yupoo.com/..." />
-            </div>
-            <div class="form-group">
-              <label>Logo URL</label>
-              <input type="url" id="addSellerLogo" placeholder="https://..." />
-            </div>
-            <div class="form-group">
-              <label>Description</label>
-              <input type="text" id="addSellerDesc" placeholder="Short description..." />
-            </div>
-            <div class="form-group">
-              <label>
-                <input type="checkbox" id="addSellerVerified" checked /> Verified Seller
-              </label>
-            </div>
-            <div style="display:flex;gap:8px;">
-              <button class="btn btn-primary" type="button" onclick="addSeller()">Add Seller</button>
-              <button class="btn btn-ghost" type="button" onclick="clearSellerForm()">Clear</button>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="admin-section">
-        <div class="admin-section-header">
-          <h3>📋 Products</h3>
-          <div style="display:flex;gap:8px;">
-            <input type="text" id="prodSearch" placeholder="Search products..." style="width:200px;padding:6px 12px;border:1px solid var(--line);border-radius:8px;" />
-            <button class="btn btn-sm btn-ghost" type="button" onclick="exportProducts()">Export JSON</button>
-          </div>
-        </div>
-        <div class="admin-section-body" style="padding:0;">
-          <div class="admin-product-list" id="adminProductList"></div>
-        </div>
-      </div>
-
-      <div class="admin-section">
-        <div class="admin-section-header">
-          <h3>🏆 Sellers</h3>
-          <button class="btn btn-sm btn-ghost" type="button" onclick="exportSellers()">Export JSON</button>
-        </div>
-        <div class="admin-section-body">
-          <div id="adminSellerList" style="display:flex;flex-direction:column;gap:8px;"></div>
-        </div>
-      </div>
-
-      <div class="admin-section" id="staffSection">
-        <div class="admin-section-header">
-          <h3>👥 Staff Management</h3>
-          <span class="badge badge-blue">Owner Only</span>
-        </div>
-        <div class="admin-section-body">
-          <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px;">
-            <div class="form-group" style="flex:1;min-width:150px;margin-bottom:0;">
-              <input type="text" id="newStaffUser" placeholder="Username" autocomplete="off" />
-            </div>
-            <div class="form-group" style="flex:1;min-width:150px;margin-bottom:0;">
-              <input type="password" id="newStaffPass" placeholder="Password" autocomplete="new-password" />
-            </div>
-            <div class="form-group" style="width:140px;margin-bottom:0;">
-              <select id="newStaffRole">
-                <option value="staff">Staff</option>
-                <option value="moderator">Moderator</option>
-                <option value="admin">Admin</option>
-              </select>
-            </div>
-            <button class="btn btn-primary" type="button" onclick="addStaff()">Add Staff</button>
-          </div>
-          <div class="staff-list" id="staffList"></div>
-        </div>
-      </div>
-
-      <div class="admin-section">
-        <div class="admin-section-header">
-          <h3>⚙️ Site Controls</h3>
-        </div>
-        <div class="admin-section-body">
-          <div class="toggle-row">
-            <div>
-              <div class="toggle-label">Coupon Popup</div>
-              <div class="toggle-sub">Show the welcome coupon to new visitors</div>
-            </div>
-            <div class="s-toggle on" id="couponToggle" onclick="toggleSetting('coupon')"></div>
-          </div>
-          <div class="toggle-row">
-            <div>
-              <div class="toggle-label">Maintenance Mode</div>
-              <div class="toggle-sub">Show a full-screen maintenance page to all visitors</div>
-            </div>
-            <div class="s-toggle" id="maintenanceToggle" onclick="toggleSetting('maintenance')"></div>
-          </div>
-          <div class="toggle-row">
-            <div>
-              <div class="toggle-label">New Registrations</div>
-              <div class="toggle-sub">Allow new users to register</div>
-            </div>
-            <div class="s-toggle on" id="registrationToggle" onclick="toggleSetting('registration')"></div>
-          </div>
-          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:14px">
-            <button class="btn btn-ghost btn-sm" type="button" onclick="clearCache()">Clear Cache</button>
-            <button class="btn btn-danger btn-sm" type="button" onclick="resetData()">Reset All Data</button>
-          </div>
-        </div>
-      </div>
-
-      <div class="admin-section">
-        <div class="admin-section-header">
-          <h3>🎁 Coupon Manager</h3>
-          <span class="badge badge-blue">Multi-Coupon</span>
-        </div>
-        <div class="admin-section-body">
-          <div style="background:var(--surface2);border-radius:12px;padding:16px;margin-bottom:16px;">
-            <div style="font-weight:700;font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:14px;">Add New Coupon</div>
-            <div class="admin-grid-2">
-              <div class="form-group">
-                <label>Title *</label>
-                <input type="text" id="newCouponTitle" placeholder="e.g. Welcome to TAROFINDS!" />
-              </div>
-              <div class="form-group">
-                <label>Invite Code *</label>
-                <input type="text" id="newCouponCode" placeholder="e.g. TAROFINDS" style="font-family:monospace;text-transform:uppercase;" />
-              </div>
-            </div>
-            <div class="form-group">
-              <label>Message</label>
-              <input type="text" id="newCouponMessage" placeholder="Use the invite code below to register..." />
-            </div>
-            <div class="admin-grid-2">
-              <div class="form-group">
-                <label>Register URL</label>
-                <input type="url" id="newCouponUrl" placeholder="https://..." />
-              </div>
-              <div class="form-group">
-                <label>Button Text</label>
-                <input type="text" id="newCouponButton" placeholder="Register Now" />
-              </div>
-            </div>
-            <div style="display:flex;gap:8px;">
-              <button class="btn btn-primary" type="button" onclick="addCoupon()">Add Coupon</button>
-              <button class="btn btn-ghost" type="button" onclick="clearCouponForm()">Clear</button>
-            </div>
-          </div>
-          <div id="couponList" style="display:flex;flex-direction:column;gap:10px;"></div>
-        </div>
-      </div>
-
-      <div class="admin-section">
-        <div class="admin-section-header">
-          <h3>💾 Data Manager</h3>
-        </div>
-        <div class="admin-section-body">
-          <div class="admin-grid-2">
-            <div>
-              <div style="font-weight:700;margin-bottom:10px;">Upload Products JSON</div>
-              <input type="file" id="uploadProducts" accept=".json" onchange="uploadJSON('products', this)" />
-              <div style="margin-top:10px;font-size:12px;color:var(--muted);">Upload a products.json file to replace all products</div>
-            </div>
-            <div>
-              <div style="font-weight:700;margin-bottom:10px;">Upload Sellers JSON</div>
-              <input type="file" id="uploadSellers" accept=".json" onchange="uploadJSON('sellers', this)" />
-              <div style="margin-top:10px;font-size:12px;color:var(--muted);">Upload a sellers.json file to replace all sellers</div>
-            </div>
-          </div>
-        </div>
+      <div style="margin-top:16px;text-align:center">
+        <a href="index.html" style="font-size:12px;color:var(--muted)">← Back to site</a>
       </div>
     </div>
   </div>
 
-  <nav class="bottom-nav">
-    <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
-    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
-    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Best Sellers</span></a>
-    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
-    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
-    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
-    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
-    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
-  </nav>
+  <!-- ADMIN PANEL -->
+  <div id="adminPanel" style="display:none">
+
+    <nav class="navbar">
+      <a class="nav-brand" href="index.html">
+        <img src="assets/reptaro-logo.png" alt="TAROFINDS" />
+        TARO<span class="bdot">•</span>FINDS
+      </a>
+      <div style="flex:1;display:flex;align-items:center;gap:10px;margin-left:16px">
+        <span style="font-size:13px;color:var(--muted)">Admin Panel</span>
+        <span id="sessionRoleBadge" class="role-badge"></span>
+        <span id="sessionName" style="font-size:13px;color:var(--ink2);font-weight:600"></span>
+      </div>
+      <div class="nav-right">
+        <button class="btn btn-danger btn-sm" onclick="doLogout()">Log Out</button>
+      </div>
+    </nav>
+
+    <div class="page" style="padding-top:88px">
+
+      <!-- KPI Row -->
+      <div class="kpi-row" style="margin-bottom:24px">
+        <div class="kpi-card">
+          <div class="kpi-val">480</div>
+          <div class="kpi-lbl">Products</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-val">102</div>
+          <div class="kpi-lbl">Sellers</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-val">14.2k</div>
+          <div class="kpi-lbl">Visitors</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-val">3</div>
+          <div class="kpi-lbl">Staff</div>
+        </div>
+      </div>
+
+      <!-- Products management -->
+      <div class="admin-section" style="margin-bottom:20px">
+        <div class="admin-section-header">
+          <h3>📦 Products</h3>
+          <button class="btn btn-primary btn-sm" onclick="toast('Product form coming soon…')">+ Add Product</button>
+        </div>
+        <div class="admin-section-body">
+          <div class="admin-product-list" id="adminProductList"></div>
+        </div>
+      </div>
+
+      <!-- Announcements management -->
+      <div class="admin-section" style="margin-bottom:20px">
+        <div class="admin-section-header">
+          <h3>📣 Announcements</h3>
+          <button class="btn btn-primary btn-sm" onclick="toast('Announcement form coming soon…')">+ Post</button>
+        </div>
+        <div class="admin-section-body" id="adminAnnList">
+          <div style="padding:10px 0;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between">
+            <div>
+              <div style="font-size:14px;font-weight:700">New Seller Verification System Live</div>
+              <div style="font-size:12px;color:var(--muted)">2 hours ago · update</div>
+            </div>
+            <button class="btn btn-danger btn-sm" onclick="toast('Deleted announcement')">Delete</button>
+          </div>
+          <div style="padding:10px 0;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between">
+            <div>
+              <div style="font-size:14px;font-weight:700">Site Maintenance Notice</div>
+              <div style="font-size:12px;color:var(--muted)">Yesterday · alert</div>
+            </div>
+            <button class="btn btn-danger btn-sm" onclick="toast('Deleted announcement')">Delete</button>
+          </div>
+          <div style="padding:10px 0;display:flex;align-items:center;justify-content:space-between">
+            <div>
+              <div style="font-size:14px;font-weight:700">100 Sellers Milestone!</div>
+              <div style="font-size:12px;color:var(--muted)">3 days ago · news</div>
+            </div>
+            <button class="btn btn-danger btn-sm" onclick="toast('Deleted announcement')">Delete</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Coupon settings -->
+      <div class="admin-section" style="margin-bottom:20px">
+        <div class="admin-section-header">
+          <h3>🎁 Coupon / Invite Code</h3>
+        </div>
+        <div class="admin-section-body">
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+            <div class="form-group">
+              <label>Coupon Code</label>
+              <input class="input-field" id="couponCodeInput" value="REPTARO" />
+            </div>
+            <div class="form-group">
+              <label>Title</label>
+              <input class="input-field" id="couponTitleInput" value="Welcome to TAROFINDS!" />
+            </div>
+            <div class="form-group" style="grid-column:1/-1">
+              <label>Message</label>
+              <input class="input-field" id="couponMsgInput" value="Use the invite code below to register and start ordering with our trusted sellers." />
+            </div>
+          </div>
+          <button class="btn btn-primary btn-sm" onclick="saveCouponSettings()">Save Coupon Settings</button>
+        </div>
+      </div>
+
+      <!-- Dev-only section -->
+      <div class="admin-section" id="devSection" style="display:none;margin-bottom:20px">
+        <div class="admin-section-header">
+          <h3>🛠 Developer Settings</h3>
+          <span class="role-badge role-dev">DEV ONLY</span>
+        </div>
+        <div class="admin-section-body">
+          <div class="toggle-row">
+            <div><div class="toggle-label">Maintenance Mode</div><div class="toggle-sub">Show maintenance page to all visitors</div></div>
+            <div class="s-toggle" onclick="this.classList.toggle('on');toast('Maintenance mode ' + (this.classList.contains('on') ? 'ON' : 'OFF'))"></div>
+          </div>
+          <div class="toggle-row">
+            <div><div class="toggle-label">Debug Logging</div><div class="toggle-sub">Log all actions to console</div></div>
+            <div class="s-toggle" onclick="this.classList.toggle('on');toast('Debug logging ' + (this.classList.contains('on') ? 'ON' : 'OFF'))"></div>
+          </div>
+          <div class="toggle-row">
+            <div><div class="toggle-label">Beta Features</div><div class="toggle-sub">Enable unreleased features site-wide</div></div>
+            <div class="s-toggle" onclick="this.classList.toggle('on');toast('Beta features ' + (this.classList.contains('on') ? 'enabled' : 'disabled'))"></div>
+          </div>
+          <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
+            <button class="btn btn-ghost btn-sm" onclick="toast('Cache cleared')">🗑 Clear Cache</button>
+            <button class="btn btn-ghost btn-sm" onclick="toast('Rebuilding indexes…')">🔄 Rebuild Indexes</button>
+            <button class="btn btn-danger btn-sm" onclick="toast('This would reset all data (disabled in demo)')">⚠️ Reset Data</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Staff list — dev only -->
+      <div class="admin-section" id="staffSection" style="display:none;margin-bottom:20px">
+        <div class="admin-section-header">
+          <h3>👥 Staff Management</h3>
+          <span class="role-badge role-dev">DEV ONLY</span>
+        </div>
+        <div class="admin-section-body">
+          <div class="staff-item">
+            <div class="staff-avatar">SW</div>
+            <div class="staff-info">
+              <div class="staff-name">swift</div>
+              <div class="staff-role">Developer</div>
+            </div>
+            <span class="role-badge role-dev">DEV</span>
+          </div>
+          <div class="staff-item" style="margin-top:8px">
+            <div class="staff-avatar">T1</div>
+            <div class="staff-info">
+              <div class="staff-name">Tony1</div>
+              <div class="staff-role">Owner</div>
+            </div>
+            <span class="role-badge role-owner">OWNER</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <nav class="bottom-nav">
+      <a class="bnav-item" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+      <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+      <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
+      <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+      <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+      <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+      <a class="bnav-item active" href="admin.html"><span class="bnav-icon">⚙️</span><span>Admin</span></a>
+    </nav>
+
+  </div><!-- /adminPanel -->
 
   <div id="toast"></div>
 
-  <script src="app.js"></script>
-  <script src="admin.js"></script>
+  <script>
+    /* ── Credentials ─────────────────────────────── */
+    const USERS = {
+      'swift':  { pass: 'Kacperek2010', role: 'dev',   label: 'Developer' },
+      'Tony1':  { pass: 'Pfannkuchen10', role: 'owner', label: 'Owner'    },
+    };
+
+    /* ── Toast ───────────────────────────────────── */
+    function toast(msg, dur = 2600) {
+      const el = document.getElementById('toast');
+      if (!el) return;
+      el.textContent = msg;
+      el.style.opacity = '1';
+      el.style.transform = 'translateX(-50%) translateY(0)';
+      clearTimeout(el._t);
+      el._t = setTimeout(() => {
+        el.style.opacity = '0';
+        el.style.transform = 'translateX(-50%) translateY(8px)';
+      }, dur);
+    }
+
+    /* ── Login ───────────────────────────────────── */
+    function doLogin() {
+      const user = document.getElementById('loginUser').value.trim();
+      const pass = document.getElementById('loginPass').value;
+      const errEl = document.getElementById('loginError');
+
+      if (USERS[user] && USERS[user].pass === pass) {
+        errEl.style.display = 'none';
+        sessionStorage.setItem('rt_admin_user', user);
+        sessionStorage.setItem('rt_admin_role', USERS[user].role);
+        renderPanel(user, USERS[user].role, USERS[user].label);
+      } else {
+        errEl.style.display = 'block';
+        document.getElementById('loginPass').value = '';
+      }
+    }
+
+    /* ── Logout ──────────────────────────────────── */
+    function doLogout() {
+      sessionStorage.removeItem('rt_admin_user');
+      sessionStorage.removeItem('rt_admin_role');
+      document.getElementById('adminPanel').style.display = 'none';
+      document.getElementById('loginScreen').style.display = 'flex';
+      document.getElementById('loginUser').value = '';
+      document.getElementById('loginPass').value = '';
+      toast('Logged out');
+    }
+
+    /* ── Render Panel ────────────────────────────── */
+    function renderPanel(user, role, label) {
+      document.getElementById('loginScreen').style.display = 'none';
+      document.getElementById('adminPanel').style.display = 'block';
+
+      const badge = document.getElementById('sessionRoleBadge');
+      badge.textContent = role === 'dev' ? 'DEV' : 'OWNER';
+      badge.className = 'role-badge ' + (role === 'dev' ? 'role-dev' : 'role-owner');
+      document.getElementById('sessionName').textContent = user;
+
+      // Dev-only sections
+      if (role === 'dev') {
+        document.getElementById('devSection').style.display = 'block';
+        document.getElementById('staffSection').style.display = 'block';
+      }
+
+      buildAdminProducts();
+    }
+
+    /* ── Products list ───────────────────────────── */
+    const ADMIN_PRODUCTS = [
+      { name:'Nike Air Force 1 Low', seller:'SneakerKing', price:'¥178', cat:'Shoes' },
+      { name:'Jordan 1 Retro High OG', seller:'TopSeller', price:'¥220', cat:'Shoes' },
+      { name:'Stone Island Badge Hoodie', seller:'LuxReps', price:'¥145', cat:'Tops' },
+      { name:'Moncler Jacket', seller:'LuxReps', price:'¥520', cat:'Outerwear' },
+      { name:'Louis Vuitton Bag', seller:'BagMaster', price:'¥890', cat:'Accessories' },
+    ];
+
+    function buildAdminProducts() {
+      const el = document.getElementById('adminProductList');
+      if (!el) return;
+      el.innerHTML = ADMIN_PRODUCTS.map((p, i) => `
+        <div class="admin-product-item">
+          <div style="width:44px;height:44px;border-radius:8px;background:linear-gradient(135deg,rgba(30,80,200,0.30),rgba(79,159,255,0.20));flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:18px">📦</div>
+          <div class="admin-product-info">
+            <div class="admin-product-name">${p.name}</div>
+            <div class="admin-product-meta">${p.seller} · ${p.cat} · ${p.price}</div>
+          </div>
+          <div style="display:flex;gap:6px">
+            <button class="btn btn-ghost btn-sm" onclick="toast('Edit product: ${p.name}')">Edit</button>
+            <button class="btn btn-danger btn-sm" onclick="this.closest('.admin-product-item').remove();toast('Product deleted')">Delete</button>
+          </div>
+        </div>`).join('');
+    }
+
+    /* ── Coupon save ─────────────────────────────── */
+    function saveCouponSettings() {
+      const code  = document.getElementById('couponCodeInput').value;
+      const title = document.getElementById('couponTitleInput').value;
+      const msg   = document.getElementById('couponMsgInput').value;
+      localStorage.setItem('rt_coupon_code',  code);
+      localStorage.setItem('rt_coupon_title', title);
+      localStorage.setItem('rt_coupon_msg',   msg);
+      toast('Coupon settings saved ✓');
+    }
+
+    /* ── Enter key on login ──────────────────────── */
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Enter' && document.getElementById('loginScreen').style.display !== 'none') {
+        doLogin();
+      }
+    });
+
+    /* ── Auto-restore session ────────────────────── */
+    const savedUser = sessionStorage.getItem('rt_admin_user');
+    const savedRole = sessionStorage.getItem('rt_admin_role');
+    if (savedUser && USERS[savedUser] && USERS[savedUser].role === savedRole) {
+      renderPanel(savedUser, savedRole, USERS[savedUser].label);
+    }
+  </script>
 </body>
 </html>

@@ -190,29 +190,11 @@
       <!-- WEIGHT CALCULATOR -->
       <div class="tool-card">
         <h3><span class="t-icon">⚖️</span>Package Weight Guide</h3>
-        <p>Estimate the weight of your order and see shipping costs for your country.</p>
-        <div style="display:flex;flex-direction:column;gap:10px">
-          <div>
-            <label style="font-size:12px;font-weight:700;color:var(--muted);display:block;margin-bottom:5px">Your Country</label>
-            <select class="input-field" id="weightCountry">
-              <option value="UK">🇬🇧 United Kingdom</option>
-              <option value="US">🇺🇸 United States</option>
-              <option value="DE">🇩🇪 Germany</option>
-              <option value="FR">🇫🇷 France</option>
-              <option value="ES">🇪🇸 Spain</option>
-              <option value="NL">🇳🇱 Netherlands</option>
-              <option value="IT">🇮🇹 Italy</option>
-              <option value="PL">🇵🇱 Poland</option>
-              <option value="FI">🇫🇮 Finland</option>
-              <option value="CA">🇨🇦 Canada</option>
-              <option value="AU">🇦🇺 Australia</option>
-              <option value="JP">🇯🇵 Japan</option>
-              <option value="SG">🇸🇬 Singapore</option>
-            </select>
-          </div>
+        <p>Estimate the weight of your order for shipping calculation.</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
           <div id="weightItems" style="display:flex;flex-direction:column;gap:6px">
             <div class="weight-row" style="display:flex;gap:6px;align-items:center">
-              <select class="input-field" style="flex:1">
+              <select class="input-field" style="flex:1;font-size:12px">
                 <option value="0.35">T-Shirt (~350g)</option>
                 <option value="0.6">Hoodie (~600g)</option>
                 <option value="1.2">Jacket (~1.2kg)</option>
@@ -225,10 +207,10 @@
             </div>
           </div>
           <div style="display:flex;gap:8px">
-            <button class="btn btn-ghost" onclick="addWeightRow()">+ Add item</button>
-            <button class="btn btn-primary" onclick="calcWeight()">Calculate</button>
+            <button class="btn btn-ghost btn-sm" onclick="addWeightRow()">+ Add item</button>
+            <button class="btn btn-primary btn-sm" onclick="calcWeight()">Calculate</button>
           </div>
-          <div id="weightResult" style="font-size:14px;font-weight:700;color:var(--blue)"></div>
+          <div id="weightResult" style="font-size:13px;font-weight:700;color:var(--blue)"></div>
         </div>
       </div>
 
@@ -267,10 +249,9 @@
     <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
     <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
     <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
-    <a class="bnav-item" href="forums.html"><span class="bnav-icon">💬</span><span>Forums</span></a>
-    <a class="bnav-item" href="alerts.html"><span class="bnav-icon">🔔</span><span>Alerts</span></a>
     <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
     <a class="bnav-item active" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+    <a class="bnav-item" href="admin.html"><span class="bnav-icon">⚙️</span><span>Admin</span></a>
   </nav>
 
   <div class="modal-backdrop" id="currencyModal">
@@ -456,7 +437,7 @@
       row.className = 'weight-row';
       row.style.cssText = 'display:flex;gap:6px;align-items:center';
       row.innerHTML = `
-        <select class="input-field" style="flex:1">
+        <select class="input-field" style="flex:1;font-size:12px">
           <option value="0.35">T-Shirt (~350g)</option>
           <option value="0.6">Hoodie (~600g)</option>
           <option value="1.2">Jacket (~1.2kg)</option>
@@ -468,15 +449,6 @@
         <button class="btn btn-ghost" onclick="this.closest('.weight-row').remove();calcWeight()" style="padding:0 8px;font-size:16px;height:38px">×</button>`;
       document.getElementById('weightItems').appendChild(row);
     }
-    const COUNTRY_SHIP = {
-      UK:{base:65,perKg:25,curr:'GBP'},US:{base:85,perKg:30,curr:'USD'},
-      DE:{base:70,perKg:22,curr:'EUR'},FR:{base:70,perKg:22,curr:'EUR'},
-      ES:{base:75,perKg:24,curr:'EUR'},NL:{base:68,perKg:22,curr:'EUR'},
-      IT:{base:72,perKg:23,curr:'EUR'},PL:{base:65,perKg:20,curr:'EUR'},
-      FI:{base:78,perKg:26,curr:'EUR'},CA:{base:95,perKg:32,curr:'CAD'},
-      AU:{base:100,perKg:35,curr:'AUD'},JP:{base:55,perKg:20,curr:'JPY'},
-      SG:{base:55,perKg:18,curr:'SGD'},
-    };
     function calcWeight() {
       let total = 0;
       document.querySelectorAll('.weight-row').forEach(row => {
@@ -484,11 +456,7 @@
         const qty = parseInt(row.querySelector('input')?.value) || 1;
         total += parseFloat(sel?.value || 0) * qty;
       });
-      const country = document.getElementById('weightCountry').value;
-      const cs = COUNTRY_SHIP[country] || COUNTRY_SHIP.UK;
-      const costCNY = cs.base + total * cs.perKg;
-      const el = document.getElementById('weightResult');
-      el.innerHTML = `Total weight: ~${total.toFixed(2)}kg<br>Est. shipping: ¥${costCNY.toFixed(0)} CNY (~${fmtC(costCNY, cs.curr)} ${cs.curr})<br><span style="font-size:12px;font-weight:500;color:var(--muted)">Standard line to ${country} · actual rates vary by agent</span>`;
+      document.getElementById('weightResult').textContent = `Total: ~${total.toFixed(2)}kg — approx. shipping ${fmtC(total*25 + 65, 'GBP')} GBP (standard, UK)`;
     }
   </script>
   <style>
