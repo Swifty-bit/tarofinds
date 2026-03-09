@@ -64,3 +64,9 @@ announcements.json
 
 # Discord bot folder (keep separate from main site)
 bot/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
