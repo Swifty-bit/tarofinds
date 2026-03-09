@@ -333,6 +333,59 @@ function saveProduct() {
   toast('Item saved! View in Profile.');
 }
 
+
+const CATEGORY_DEFS = {
+  shoes: { name: 'Shoes', icon: '👟', keywords: ['shoe','shoes','sneaker','sneakers','dunk','air max','jordan','b25','trainer','runner','yeezy','boot','boots','loafer','slipper','new balance','af1','force 1'] },
+  hoodies: { name: 'Hoodies', icon: '🧥', keywords: ['hoodie','hooded','zip hoodie','pullover'] },
+  jackets: { name: 'Jackets', icon: '🧥', keywords: ['jacket','down jacket','down','puffer','coat','windbreaker','parka','fleece'] },
+  clothes: { name: 'Clothes', icon: '👕', keywords: ['tee','t-shirt','shirt','shirts','tracksuit','pants','shorts','jeans','cargo','sweater','crewneck','longsleeve','long sleeve','jersey','set'] },
+  accessories: { name: 'Accessories', icon: '⌚', keywords: ['bag','belt','wallet','cap','hat','beanie','watch','glasses','sunglasses','scarf','bracelet','necklace'] },
+  electronics: { name: 'Electronics', icon: '🎧', keywords: ['electronics','headphone','headphones','earbuds','speaker','charger','cable','phone','ipad','tablet','watch band'] },
+  other: { name: 'Other', icon: '📦', keywords: [] }
+};
+
+function inferCategory(product) {
+  const raw = String(product?.category || '').toLowerCase().trim();
+  if (raw && raw !== 'other' && CATEGORY_DEFS[raw]) return raw;
+  const hay = [product?.name, product?.seller, raw].filter(Boolean).join(' ').toLowerCase();
+  for (const [key, def] of Object.entries(CATEGORY_DEFS)) {
+    if (key === 'other') continue;
+    if (def.keywords.some(k => hay.includes(k))) return key;
+  }
+  return 'other';
+}
+
+function getCategoryCounts() {
+  const counts = Object.fromEntries(Object.keys(CATEGORY_DEFS).map(k => [k, 0]));
+  PRODUCTS.forEach(p => { counts[inferCategory(p)] = (counts[inferCategory(p)] || 0) + 1; });
+  return counts;
+}
+
+function buildCatalogueChips() {
+  const wrap = document.getElementById('catalogueChips');
+  if (!wrap) return;
+  const counts = getCategoryCounts();
+  const items = [{ key:'all', name:'All', icon:'✨', count:PRODUCTS.length }]
+    .concat(Object.entries(CATEGORY_DEFS)
+      .filter(([key]) => key !== 'other' && counts[key] > 0)
+      .sort((a,b) => counts[b[0]] - counts[a[0]])
+      .map(([key, def]) => ({ key, name:def.name, icon:def.icon, count:counts[key] })));
+  wrap.innerHTML = items.map(item => `
+    <button class="filter-chip${item.key === catState.cat ? ' active' : ''}" type="button" data-cat="${item.key}">
+      <span>${item.icon}</span>
+      <span>${item.name}</span>
+      <span class="filter-chip-count">${item.count}</span>
+    </button>`).join('');
+  wrap.querySelectorAll('.filter-chip[data-cat]').forEach(c => {
+    c.addEventListener('click', () => {
+      catState.cat = c.dataset.cat;
+      document.querySelectorAll('.filter-chip[data-cat]').forEach(x => x.classList.toggle('active', x === c));
+      renderCatalogueCards();
+    });
+  });
+}
+
+
 /* ── CATALOGUE PAGE ── */
 let catState = { cat:'all', q:'', sort:'default' };
 
@@ -341,32 +394,27 @@ function initCataloguePage() {
   const urlQ = new URLSearchParams(window.location.search);
   catState.cat = (urlQ.get('category')||'all').toLowerCase();
   catState.q = urlQ.get('q')||'';
-  const si=$('#catalogueSearch');
-  if(si){ si.value=catState.q; si.addEventListener('input',()=>{catState.q=si.value;renderCatalogueCards();}); }
+  const si=$('#catalogueSearchInput');
+  if(si){
+    si.value=catState.q;
+    si.addEventListener('input',()=>{catState.q=si.value;renderCatalogueCards();});
+    si.addEventListener('keydown',e=>{ if(e.key==='Enter') renderCatalogueCards(); });
+  }
   const searchBtn=$('#catalogueSearchBtn');
   if(searchBtn) searchBtn.addEventListener('click',()=>renderCatalogueCards());
   const sortSel=$('#sortSelect');
   if(sortSel) sortSel.addEventListener('change',()=>{catState.sort=sortSel.value;renderCatalogueCards();});
-  document.querySelectorAll('.filter-chip[data-cat]').forEach(c=>{
-    c.addEventListener('click',()=>{
-      catState.cat=c.dataset.cat;
-      document.querySelectorAll('.filter-chip[data-cat]').forEach(x=>x.classList.toggle('active',x===c));
-      renderCatalogueCards();
-    });
-  });
-  // set active chip
-  document.querySelectorAll('.filter-chip[data-cat]').forEach(c=>c.classList.toggle('active',c.dataset.cat===catState.cat));
+  buildCatalogueChips();
   renderCatalogueCards();
 }
 
 function renderCatalogueCards() {
   const grid = document.getElementById('productGrid');
   if(!grid) return;
-  const catMap = { clothes:['clothes','shirt','t-shirts','t-shirts & shorts'], shoes:['shoes','shoe'], accessories:['accessories','accessory'], electronics:['electronics'], hoodies:['hoodies','hoodie'], jackets:['jacket','puffer','coat'] };
   let filtered = PRODUCTS.filter(p => {
-    let catMatch = catState.cat === 'all';
-    if(!catMatch){ const terms=catMap[catState.cat]||[catState.cat]; catMatch=terms.some(t=>p.category.includes(t)); }
-    const qMatch = !catState.q || (p.name+p.seller+p.category).toLowerCase().includes(catState.q.toLowerCase());
+    const inferred = inferCategory(p);
+    const catMatch = catState.cat === 'all' || inferred === catState.cat;
+    const qMatch = !catState.q || [p.name, p.seller, p.category, inferred].join(' ').toLowerCase().includes(catState.q.toLowerCase());
     return catMatch && qMatch;
   });
   if(catState.sort==='price-asc') filtered.sort((a,b)=>a.price-b.price);
@@ -376,7 +424,7 @@ function renderCatalogueCards() {
   if(count) count.textContent=`${filtered.length} product${filtered.length!==1?'s':''}`;
   if(!filtered.length){ grid.innerHTML=`<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-text">No products found</div><button class="btn btn-ghost" onclick="catState.q='';catState.cat='all';document.querySelectorAll('.filter-chip').forEach((c,i)=>c.classList.toggle('active',i===0));renderCatalogueCards()">Clear filters</button></div>`; return; }
   grid.innerHTML = filtered.map(p=>{
-    const cat=(p.category||'').toLowerCase();
+    const cat=inferCategory(p);
     const bg=CAT_BG[cat]||'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
     const emoji=CAT_EMOJI[cat]||'📦';
     const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
@@ -487,6 +535,7 @@ function initNav() {
     a.classList.toggle('active',href.includes(map[page]||'__none__'));
   });
   document.querySelectorAll('#currencyLabel').forEach(el=>el.textContent=activeCurrency);
+  if (page === 'home') document.body.classList.add('home-page');
 }
 
 /* ── Update Stats (animated count-up) ── */
@@ -695,53 +744,55 @@ function initProfile() {
 
 /* ── Search ── */
 function initSearch() {
-  const input = $('#searchInput');
-  const btn = document.querySelector('.nav-search-btn');
-  if (!input) return;
+  const navInput = $('#searchInput');
+  const navBtn = document.querySelector('.nav-search-btn');
+  const heroInput = $('#heroSearchInput');
+  const heroBtn = document.querySelector('.hero-search-btn');
 
-  const doSearch = () => {
-    const q = input.value.trim();
-    if (q) window.location.href = 'catalogue.html?q=' + encodeURIComponent(q);
+  const doSearch = (sourceInput) => {
+    const q = sourceInput?.value?.trim() || '';
+    if (!q) return;
+    const sourceWrap = sourceInput?.closest('.hero-search-wrap, .nav-search, .cat-search-bar');
+    if (sourceWrap) {
+      const rect = sourceWrap.getBoundingClientRect();
+      sessionStorage.setItem('rt_search_morph', JSON.stringify({
+        left: rect.left, top: rect.top, width: rect.width, height: rect.height, value: q, ts: Date.now()
+      }));
+    }
+    window.location.href = 'catalogue.html?q=' + encodeURIComponent(q);
   };
 
-  input.addEventListener('keydown', (e) => { if (e.key === 'Enter') doSearch(); });
-  if (btn) btn.addEventListener('click', doSearch);
+  const currentQ = new URLSearchParams(window.location.search).get('q') || '';
+  if (navInput && currentQ) navInput.value = currentQ;
+  if (heroInput && currentQ) heroInput.value = currentQ;
+
+  if (navInput) navInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') doSearch(navInput); });
+  if (navBtn) navBtn.addEventListener('click', () => doSearch(navInput));
+  if (heroInput) heroInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') doSearch(heroInput); });
+  if (heroBtn) heroBtn.addEventListener('click', () => doSearch(heroInput));
 }
 
 /* ── Floating Hero Categories ── */
 function buildCategoryMarquee() {
-  const el = $('#categoryMarquee');
-  if (!el) return;
-
-  const categoryGroups = {
-    shoes: { name: 'Shoes', icon: '👟', products: [] },
-    hoodies: { name: 'Hoodies', icon: '🧥', products: [] },
-    jackets: { name: 'Jackets', icon: '🧥', products: [] },
-    accessories: { name: 'Accessories', icon: '⌚', products: [] },
-    clothes: { name: 'Clothes', icon: '👕', products: [] },
-    electronics: { name: 'Electronics', icon: '🎧', products: [] }
-  };
-
-  PRODUCTS.forEach(p => {
-    const cat = (p.category || '').toLowerCase();
-    if (categoryGroups[cat]) categoryGroups[cat].products.push(p);
-  });
-
-  const pills = Object.entries(categoryGroups)
-    .filter(([_, data]) => data.products.length > 0)
-    .sort((a, b) => b[1].products.length - a[1].products.length)
-    .map(([cat, data]) => `
-      <a class="hero-cat-pill" href="catalogue.html?category=${cat}">
+  const counts = getCategoryCounts();
+  const pills = Object.entries(CATEGORY_DEFS)
+    .filter(([key]) => key !== 'other' && counts[key] > 0)
+    .sort((a, b) => counts[b[0]] - counts[a[0]])
+    .map(([cat, data], idx) => `
+      <a class="hero-cat-pill" style="--float-delay:${idx * 0.18}s" href="catalogue.html?category=${cat}">
         <div class="hero-cat-icon">${data.icon}</div>
         <div class="hero-cat-meta">
           <div class="hero-cat-name">${data.name}</div>
-          <div class="hero-cat-count">${data.products.length} items</div>
+          <div class="hero-cat-count">${counts[cat]} items</div>
         </div>
         <div class="hero-cat-arrow">→</div>
       </a>
     `).join('');
 
-  el.innerHTML = pills || '<div style="padding:12px 16px;color:var(--muted);font-size:13px;">Categories coming soon.</div>';
+  ['categoryMarquee','catalogueCategoryMarquee'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.innerHTML = pills || '<div style="padding:12px 16px;color:var(--muted);font-size:13px;">Categories coming soon.</div>';
+  });
 }
 
 /* ── Featured Guides (home page) ── */
@@ -896,6 +947,40 @@ function initScrollReveal() {
   document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 }
 
+
+function initSearchMorph() {
+  if (window.innerWidth < 700) return;
+  const payload = sessionStorage.getItem('rt_search_morph');
+  if (!payload) return;
+  const target = document.querySelector('.nav-search:not(.nav-search-hidden)');
+  if (!target) return;
+  let data;
+  try { data = JSON.parse(payload); } catch (e) { sessionStorage.removeItem('rt_search_morph'); return; }
+  if (!data || !data.ts || Date.now() - data.ts > 3000) { sessionStorage.removeItem('rt_search_morph'); return; }
+  const targetRect = target.getBoundingClientRect();
+  const ghost = document.createElement('div');
+  ghost.className = 'search-morph-ghost';
+  ghost.style.left = data.left + 'px';
+  ghost.style.top = data.top + 'px';
+  ghost.style.width = data.width + 'px';
+  ghost.style.height = data.height + 'px';
+  ghost.innerHTML = `<div class="search-morph-ghost-inner"><span class="search-morph-text">${esc(data.value || '')}</span><span class="search-morph-pill"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>Search</span></div>`;
+  document.body.appendChild(ghost);
+  target.classList.add('nav-search-morph-target');
+  requestAnimationFrame(() => {
+    ghost.style.left = targetRect.left + 'px';
+    ghost.style.top = targetRect.top + 'px';
+    ghost.style.width = targetRect.width + 'px';
+    ghost.style.height = targetRect.height + 'px';
+    ghost.style.opacity = '0.28';
+    ghost.style.transform = 'translateY(0) scale(0.985)';
+    target.classList.remove('nav-search-morph-target');
+  });
+  setTimeout(() => { ghost.remove(); }, 520);
+  sessionStorage.removeItem('rt_search_morph');
+}
+
+
 /* ── BOOT ── */
 document.addEventListener('DOMContentLoaded', async ()=>{
   startProgress();
@@ -920,6 +1005,7 @@ document.addEventListener('DOMContentLoaded', async ()=>{
   initAnnouncementsPage();
   initAlertsPage();
   initNav();
+  initSearchMorph();
   initScrollReveal();
   applyAdminVisibility();
   if(document.getElementById('year')) document.getElementById('year').textContent=new Date().getFullYear();

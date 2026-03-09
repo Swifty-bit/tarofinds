@@ -9,6 +9,8 @@
 </head>
 <body data-page="catalogue">
 
+  <div id="pageProgress"></div>
+
   <div class="liquid-orb liquid-orb-1"></div>
   <div class="liquid-orb liquid-orb-2"></div>
   <div class="liquid-orb liquid-orb-3"></div>
@@ -50,7 +52,18 @@
     <div class="catalogue-header-wrap">
       <div class="cat-search-bar">
         <input id="catalogueSearchInput" type="search" placeholder="Search the catalogue…" autocomplete="off" />
-        <button id="catalogueSearchBtn">Search</button>
+        <button id="catalogueSearchBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg><span>Search</span></button>
+      </div>
+
+      <div class="category-marquee-wrap reveal catalogue-floating-categories">
+        <div id="catalogueCategoryMarquee">
+          <div class="floating-cats-skeleton">
+            <div class="floating-cat-skeleton"></div>
+            <div class="floating-cat-skeleton"></div>
+            <div class="floating-cat-skeleton"></div>
+            <div class="floating-cat-skeleton"></div>
+          </div>
+        </div>
       </div>
 
       <div class="filter-chips" style="margin-bottom:16px">
