@@ -708,59 +708,40 @@ function initSearch() {
   if (btn) btn.addEventListener('click', doSearch);
 }
 
-/* ── Scrolling Category Marquee ── */
-/* ── Category Marquee ── */
+/* ── Floating Hero Categories ── */
 function buildCategoryMarquee() {
   const el = $('#categoryMarquee');
   if (!el) return;
-  
+
   const categoryGroups = {
-    'shoes': { name: 'SHOES', icon: '👟', products: [] },
-    'hoodies': { name: 'HOODIES', icon: '🧥', products: [] },
-    'jackets': { name: 'JACKETS', icon: '🧥', products: [] },
-    'accessories': { name: 'ACCESSORIES', icon: '⌚', products: [] },
-    'clothes': { name: 'CLOTHES', icon: '👕', products: [] },
-    'electronics': { name: 'ELECTRONICS', icon: '🎧', products: [] }
+    shoes: { name: 'Shoes', icon: '👟', products: [] },
+    hoodies: { name: 'Hoodies', icon: '🧥', products: [] },
+    jackets: { name: 'Jackets', icon: '🧥', products: [] },
+    accessories: { name: 'Accessories', icon: '⌚', products: [] },
+    clothes: { name: 'Clothes', icon: '👕', products: [] },
+    electronics: { name: 'Electronics', icon: '🎧', products: [] }
   };
-  
+
   PRODUCTS.forEach(p => {
     const cat = (p.category || '').toLowerCase();
     if (categoryGroups[cat]) categoryGroups[cat].products.push(p);
   });
-  
-  const rows = Object.entries(categoryGroups)
-    .filter(([_, data]) => data.products.length > 0)
-    .map(([cat, data]) => {
-      const items = [...data.products.slice(0, 12), ...data.products.slice(0, 12)];
-      return `
-        <div class="category-row">
-          <div class="category-row-header">
-            <h3>${data.icon} ${data.name}</h3>
-            <a href="catalogue.html?category=${cat}" class="view-all-link">View All →</a>
-          </div>
-          <div class="category-row-track">
-            ${items.map(p => `
-              <div class="marquee-item" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
-                <img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">
-                <div class="marquee-item-name">${esc(p.name)}</div>
-                <div class="marquee-item-price">${fmt(p.price)}</div>
-              </div>
-            `).join('')}
-          </div>
-        </div>
-      `;
-    }).join('');
-  
-  el.innerHTML = rows;
 
-  // Drag-to-scroll on every track
-  document.querySelectorAll('.category-row-track').forEach(track => {
-    let isDown = false, startX = 0, scrollLeft = 0;
-    track.addEventListener('mousedown', e => { isDown = true; track.classList.add('dragging'); startX = e.pageX - track.offsetLeft; scrollLeft = track.scrollLeft; });
-    track.addEventListener('mouseleave', () => { isDown = false; track.classList.remove('dragging'); });
-    track.addEventListener('mouseup', () => { isDown = false; track.classList.remove('dragging'); });
-    track.addEventListener('mousemove', e => { if (!isDown) return; e.preventDefault(); const x = e.pageX - track.offsetLeft; track.scrollLeft = scrollLeft - (x - startX) * 1.4; });
-  });
+  const pills = Object.entries(categoryGroups)
+    .filter(([_, data]) => data.products.length > 0)
+    .sort((a, b) => b[1].products.length - a[1].products.length)
+    .map(([cat, data]) => `
+      <a class="hero-cat-pill" href="catalogue.html?category=${cat}">
+        <div class="hero-cat-icon">${data.icon}</div>
+        <div class="hero-cat-meta">
+          <div class="hero-cat-name">${data.name}</div>
+          <div class="hero-cat-count">${data.products.length} items</div>
+        </div>
+        <div class="hero-cat-arrow">→</div>
+      </a>
+    `).join('');
+
+  el.innerHTML = pills || '<div style="padding:12px 16px;color:var(--muted);font-size:13px;">Categories coming soon.</div>';
 }
 
 /* ── Featured Guides (home page) ── */
