@@ -498,7 +498,81 @@ function updateStats() {
   if (statSellers) statSellers.textContent = SELLERS.length;
 }
 
-/* ── Welcome Popup (language → currency → platform → coupon) ── */
+/* ── Platform Popup (separate, shown after coupon or on demand) ── */
+const PLATFORMS = [
+  { id: 'weidian', emoji: '🛍️', label: 'Weidian', desc: 'weidian.com', color: '#4f9fff' },
+  { id: 'taobao', emoji: '🟠', label: 'Taobao', desc: 'taobao.com', color: '#ff6b35' },
+  { id: 'yupoo',  emoji: '📸', label: 'Yupoo',  desc: 'yupoo.com', color: '#a855f7' },
+  { id: 'dssr',   emoji: '🔵', label: 'DSSR',   desc: 'dssuperfake.com', color: '#3b82f6' },
+  { id: 'wechat', emoji: '💬', label: 'WeChat', desc: 'via agent', color: '#22c55e' },
+];
+
+function showPlatformPopup(onDone) {
+  let existing = document.getElementById('platformModal');
+  if (existing) existing.remove();
+
+  const isMobile = window.innerWidth < 600;
+  let activePlatform = localStorage.getItem('rt_platform') || 'weidian';
+
+  const modal = document.createElement('div');
+  modal.id = 'platformModal';
+  modal.className = 'modal-backdrop active';
+
+  const gridCols = isMobile ? '1fr 1fr' : 'repeat(3, 1fr)';
+  const gridGap = isMobile ? '8px' : '12px';
+
+  function renderPlatformModal() {
+    modal.innerHTML = `
+      <div class="coupon-box" style="max-width:${isMobile ? '360px' : '500px'}">
+        <div class="coupon-bg"></div>
+        <div class="coupon-close-row">
+          <button class="coupon-x" id="platClose" aria-label="Close">✕</button>
+        </div>
+        <div class="coupon-inner" style="padding-top:4px">
+          <div class="coupon-tag">📱 Your Platform</div>
+          <h3 style="font-size:${isMobile?'17px':'21px'}">Where do you shop?</h3>
+          <p style="font-size:${isMobile?'12px':'13px'};color:var(--muted);margin-bottom:14px">We'll tailor links and guides to your preferred platform.</p>
+          <div style="display:grid;grid-template-columns:${gridCols};gap:${gridGap};margin-bottom:16px">
+            ${PLATFORMS.map(p => `
+              <button class="platform-tile${activePlatform === p.id ? ' active' : ''}" data-pid="${p.id}">
+                <span class="pt-emoji">${p.emoji}</span>
+                <span class="pt-label">${p.label}</span>
+                <span class="pt-desc">${p.desc}</span>
+              </button>`).join('')}
+          </div>
+          <button class="c-btn-white" id="platConfirm" style="width:100%">Confirm →</button>
+        </div>
+      </div>`;
+
+    modal.querySelectorAll('[data-pid]').forEach(b => {
+      b.addEventListener('click', () => {
+        activePlatform = b.dataset.pid;
+        modal.querySelectorAll('[data-pid]').forEach(x => x.classList.toggle('active', x === b));
+      });
+    });
+    modal.querySelector('#platClose').addEventListener('click', () => {
+      modal.remove();
+      if (onDone) onDone();
+    });
+    modal.querySelector('#platConfirm').addEventListener('click', () => {
+      localStorage.setItem('rt_platform', activePlatform);
+      toast('Platform saved: ' + (PLATFORMS.find(p => p.id === activePlatform)?.label || activePlatform));
+      modal.remove();
+      if (onDone) onDone();
+    });
+    modal.addEventListener('click', e => { if (e.target === modal) { modal.remove(); if (onDone) onDone(); } });
+  }
+
+  renderPlatformModal();
+  document.body.appendChild(modal);
+}
+
+function initPlatformPopup() {
+  if (localStorage.getItem('rt_platform')) return; // already set
+  setTimeout(() => showPlatformPopup(), 400);
+}
+
+/* ── Welcome Popup (lang → currency → coupon, platform is now separate) ── */
 function initCoupon() {
   const modal = $('#couponModal');
   if (!modal) return;
@@ -508,86 +582,78 @@ function initCoupon() {
   const coupons = getActiveCoupons().filter(c => c.enabled);
   if (!coupons.length) return;
   const coupon = coupons[0];
-  const PLATFORMS = [
-    { id: 'weidian', label: '🛍️ Weidian', desc: 'weidian.com' },
-    { id: 'taobao', label: '🟠 Taobao', desc: 'taobao.com' },
-    { id: 'yupoo', label: '📸 Yupoo', desc: 'yupoo.com' },
-    { id: 'dssr', label: '🔵 DSSR', desc: 'dssuperfake.com' },
-    { id: 'wechat', label: '💬 WeChat', desc: 'via agent' },
-  ];
-  let activePlatform = localStorage.getItem('rt_platform') || 'weidian';
-  let step = 1; // 1=lang, 2=currency, 3=platform, 4=coupon
+
+  let step = 1; // 1=lang, 2=currency, 3=coupon
+
+  function closeCoupon() { modal.classList.remove('active'); }
+
   function renderStep() {
     const box = modal.querySelector('.coupon-box');
     if (!box) return;
+
     if (step === 1) {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
-        <div class="coupon-inner">
+      box.innerHTML = `
+        <div class="coupon-bg"></div>
+        <div class="coupon-close-row"><button class="coupon-x" id="cpX">✕</button></div>
+        <div class="coupon-inner" style="padding-top:4px">
           <div class="coupon-tag">🌍 ${t('selectLang')}</div>
           <h3>${t('language')}</h3>
           <div class="welcome-lang-grid">${Object.entries(LANG_LABELS).map(([code,label])=>`<button class="welcome-opt${activeLang===code?' active':''}" data-lang="${code}">${label}</button>`).join('')}</div>
-          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-white" id="langNext">${t('next')} →</button></div>
+          <div class="coupon-actions" style="margin-top:14px"><button class="c-btn-white" id="langNext">${t('next')} →</button></div>
         </div>`;
-      box.querySelectorAll('[data-lang]').forEach(b=>b.addEventListener('click',()=>{
-        setLang(b.dataset.lang); box.querySelectorAll('[data-lang]').forEach(x=>x.classList.toggle('active',x===b)); renderStep();
+      box.querySelector('#cpX').onclick = closeCoupon;
+      box.querySelectorAll('[data-lang]').forEach(b => b.addEventListener('click', () => {
+        setLang(b.dataset.lang); box.querySelectorAll('[data-lang]').forEach(x => x.classList.toggle('active', x === b));
       }));
-      box.querySelector('#langNext')?.addEventListener('click',()=>{step=2;renderStep();});
+      box.querySelector('#langNext').onclick = () => { step = 2; renderStep(); };
+
     } else if (step === 2) {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
-        <div class="coupon-inner">
+      box.innerHTML = `
+        <div class="coupon-bg"></div>
+        <div class="coupon-close-row"><button class="coupon-x" id="cpX">✕</button></div>
+        <div class="coupon-inner" style="padding-top:4px">
           <div class="coupon-tag">💱 ${t('selectCurr')}</div>
           <h3>${t('currency')}</h3>
           <div class="welcome-curr-grid">${Object.entries(SYMBOLS).map(([code,sym])=>`<button class="welcome-opt${activeCurrency===code?' active':''}" data-curr="${code}">${sym} ${code}</button>`).join('')}</div>
-          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-outline" id="currBack">← ${t('back')}</button><button class="c-btn-white" id="currNext">${t('next')} →</button></div>
-        </div>`;
-      box.querySelectorAll('[data-curr]').forEach(b=>b.addEventListener('click',()=>{
-        setActiveCurrency(b.dataset.curr); box.querySelectorAll('[data-curr]').forEach(x=>x.classList.toggle('active',x===b));
-      }));
-      box.querySelector('#currBack')?.addEventListener('click',()=>{step=1;renderStep();});
-      box.querySelector('#currNext')?.addEventListener('click',()=>{step=3;renderStep();});
-    } else if (step === 3) {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" onclick="document.getElementById('couponModal').classList.remove('active')">✕</button>
-        <div class="coupon-inner">
-          <div class="coupon-tag">📱 Select Platform</div>
-          <h3>Where do you shop?</h3>
-          <p style="color:var(--muted);font-size:13px;margin-bottom:14px;">Choose your preferred shopping platform</p>
-          <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:8px;">
-            ${PLATFORMS.map(p=>`<button class="welcome-opt platform-opt${activePlatform===p.id?' active':''}" data-platform="${p.id}" style="flex-direction:column;gap:2px;padding:14px 10px;">
-              <span style="font-size:20px;">${p.label.split(' ')[0]}</span>
-              <span style="font-size:13px;font-weight:700;">${p.label.split(' ').slice(1).join(' ')}</span>
-              <span style="font-size:11px;color:var(--muted);">${p.desc}</span>
-            </button>`).join('')}
+          <div class="coupon-actions" style="margin-top:14px">
+            <button class="c-btn-outline" id="currBack">← ${t('back')}</button>
+            <button class="c-btn-white" id="currNext">${t('next')} →</button>
           </div>
-          <div class="coupon-actions" style="margin-top:16px"><button class="c-btn-outline" id="platBack">← ${t('back')}</button><button class="c-btn-white" id="platNext">${t('next')} →</button></div>
         </div>`;
-      box.querySelectorAll('[data-platform]').forEach(b=>b.addEventListener('click',()=>{
-        activePlatform=b.dataset.platform; localStorage.setItem('rt_platform',activePlatform);
-        box.querySelectorAll('[data-platform]').forEach(x=>x.classList.toggle('active',x===b));
+      box.querySelector('#cpX').onclick = closeCoupon;
+      box.querySelectorAll('[data-curr]').forEach(b => b.addEventListener('click', () => {
+        setActiveCurrency(b.dataset.curr); box.querySelectorAll('[data-curr]').forEach(x => x.classList.toggle('active', x === b));
       }));
-      box.querySelector('#platBack')?.addEventListener('click',()=>{step=2;renderStep();});
-      box.querySelector('#platNext')?.addEventListener('click',()=>{step=4;renderStep();});
+      box.querySelector('#currBack').onclick = () => { step = 1; renderStep(); };
+      box.querySelector('#currNext').onclick = () => { step = 3; renderStep(); };
+
     } else {
-      box.innerHTML = `<div class="coupon-bg"></div><button class="coupon-x" id="couponClose">✕</button>
-        <div class="coupon-inner">
+      box.innerHTML = `
+        <div class="coupon-bg"></div>
+        <div class="coupon-close-row"><button class="coupon-x" id="cpX">✕</button></div>
+        <div class="coupon-inner" style="padding-top:4px">
           <div class="coupon-tag">🎁 Special Offer</div>
           <h3>${coupon.title || t('welcome')}</h3>
           <p>${coupon.message || t('couponMsg')}</p>
-          <div class="coupon-code-box"><span>${coupon.code || SITE.inviteCode}</span><button class="copy-btn" id="copyCodeBtn">${t('copy')}</button></div>
+          <div class="coupon-code-box">
+            <span>${coupon.code || SITE.inviteCode}</span>
+            <button class="copy-btn" id="copyCodeBtn">${t('copy')}</button>
+          </div>
           <div class="coupon-actions">
             <button class="c-btn-white" id="couponGo">${coupon.button || t('register')}</button>
             <button class="c-btn-outline" id="couponDismiss">${t('dismiss')}</button>
           </div>
         </div>`;
-      box.querySelector('#couponClose')?.addEventListener('click',()=>modal.classList.remove('active'));
-      box.querySelector('#copyCodeBtn')?.addEventListener('click',()=>{navigator.clipboard?.writeText(coupon.code||SITE.inviteCode).then(()=>toast('Code copied!')).catch(()=>{});});
-      box.querySelector('#couponGo')?.addEventListener('click',()=>{window.open(coupon.url||SITE.coupon.url,'_blank');modal.classList.remove('active');});
-      box.querySelector('#couponDismiss')?.addEventListener('click',()=>{localStorage.setItem('rt_coupon_dismissed','1');modal.classList.remove('active');});
+      box.querySelector('#cpX').onclick = closeCoupon;
+      box.querySelector('#copyCodeBtn').onclick = () => navigator.clipboard?.writeText(coupon.code || SITE.inviteCode).then(() => toast('Code copied!')).catch(() => {});
+      box.querySelector('#couponGo').onclick = () => { window.open(coupon.url || SITE.coupon.url, '_blank'); closeCoupon(); };
+      box.querySelector('#couponDismiss').onclick = () => { localStorage.setItem('rt_coupon_dismissed', '1'); closeCoupon(); };
     }
   }
 
-  modal.addEventListener('click',(e)=>{if(e.target===modal)modal.classList.remove('active');});
+  modal.addEventListener('click', e => { if (e.target === modal) closeCoupon(); });
   renderStep();
-  setTimeout(()=>{modal.classList.add('active');},1200);
+  setTimeout(() => { modal.classList.add('active'); }, 1200);
 }
 
 /* ── Currency Selector ── */
@@ -764,6 +830,15 @@ function getActiveCoupons() {
   }];
 }
 
+/* ── Admin guard (hides .admin-only elements for non-admins) ── */
+function isAdminLoggedIn() {
+  try { return !!JSON.parse(localStorage.getItem('rt_admin_session') || 'null'); } catch(e) { return false; }
+}
+function applyAdminVisibility() {
+  const admin = isAdminLoggedIn();
+  document.querySelectorAll('.admin-only').forEach(el => { el.style.display = admin ? '' : 'none'; });
+}
+
 /* ── Sellers Page avatar fix ── */
 function sellerAvatarHtml(s) {
   if (s.logo && s.logo.trim() && !s.logo.startsWith('data:image/jpeg;base64')) {
@@ -784,6 +859,7 @@ document.addEventListener('DOMContentLoaded', async ()=>{
   buildForumPosts();
   buildAnnouncements();
   initCoupon();
+  initPlatformPopup();
   initCurrency();
   initProfile();
   initSearch();
@@ -793,5 +869,6 @@ document.addEventListener('DOMContentLoaded', async ()=>{
   initAnnouncementsPage();
   initAlertsPage();
   initNav();
+  applyAdminVisibility();
   if(document.getElementById('year')) document.getElementById('year').textContent=new Date().getFullYear();
 });

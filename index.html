@@ -129,22 +129,15 @@
     <a class="bnav-item" href="admin.html"><span class="bnav-icon">⚙️</span><span>Admin</span></a>
   </nav>
 
-  <!-- COUPON MODAL — no "don't show again" -->
+  <!-- COUPON MODAL -->
   <div class="modal-backdrop" id="couponModal">
     <div class="coupon-box">
       <div class="coupon-bg"></div>
-      <button class="coupon-x" id="couponClose">✕</button>
+      <div class="coupon-close-row">
+        <button class="coupon-x" id="couponClose">✕</button>
+      </div>
       <div class="coupon-inner">
-        <div class="coupon-tag">🎁 Special Offer</div>
-        <h3 id="couponTitle">Welcome to TAROFINDS!</h3>
-        <p id="couponMessage">Use the invite code below to register and start ordering with our trusted sellers.</p>
-        <div class="coupon-code-box">
-          <span id="couponCode">REPTARO</span>
-          <button class="copy-btn" id="copyCodeBtn">Copy</button>
-        </div>
-        <div class="coupon-actions">
-          <button class="c-btn-white" id="couponGo">Register Now</button>
-        </div>
+        <!-- content injected by initCoupon() -->
       </div>
     </div>
   </div>

@@ -552,27 +552,38 @@ h1,h2,h3,h4{font-family:'Outfit',sans-serif}
   backdrop-filter:blur(30px) saturate(1.6);
   -webkit-backdrop-filter:blur(30px) saturate(1.6);
   border:1px solid rgba(255,255,255,0.16);
-  border-radius:24px;width:100%;max-width:420px;overflow:hidden;
+  border-radius:24px;width:100%;max-width:420px;
   box-shadow:0 32px 80px rgba(0,0,80,0.65),0 0 60px rgba(79,159,255,0.12);
   animation:modalIn 250ms ease;
-  max-height:90vh;overflow-y:auto;
+  display:flex;flex-direction:column;
+  max-height:calc(100vh - 48px);
+  overflow:hidden;
 }
 .coupon-bg{
   position:absolute;inset:0;
   background:radial-gradient(ellipse at 30% 0%,rgba(79,159,255,0.22) 0%,transparent 55%),
               radial-gradient(ellipse at 80% 100%,rgba(30,80,200,0.18) 0%,transparent 50%);
-  pointer-events:none;
+  pointer-events:none;z-index:0;
+}
+.coupon-close-row{
+  position:relative;z-index:10;
+  display:flex;justify-content:flex-end;
+  padding:12px 12px 0;flex-shrink:0;
 }
 .coupon-x{
-  position:sticky;top:0;right:0;float:right;
-  margin:12px 12px 0 0;z-index:10;
   width:32px;height:32px;border-radius:50%;
   background:rgba(255,255,255,0.12);color:var(--muted);
   font-size:14px;display:flex;align-items:center;justify-content:center;
-  transition:all 150ms;cursor:pointer;border:none;
+  transition:all 150ms;cursor:pointer;border:none;flex-shrink:0;
 }
 .coupon-x:hover{background:rgba(255,107,107,0.30);color:var(--red);}
-.coupon-inner{position:relative;z-index:2;padding:8px 24px 28px;}
+.coupon-inner{
+  position:relative;z-index:2;
+  padding:8px 24px 28px;
+  overflow-y:auto;
+  -webkit-overflow-scrolling:touch;
+  flex:1;min-height:0;
+}
 .coupon-tag{
   display:inline-flex;align-items:center;gap:6px;
   font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:0.12em;
@@ -585,55 +596,74 @@ h1,h2,h3,h4{font-family:'Outfit',sans-serif}
   display:flex;align-items:center;gap:10px;
   background:rgba(255,255,255,0.07);
   border:1px solid rgba(79,159,255,0.30);
-  border-radius:12px;padding:10px 14px;margin-bottom:16px;
+  border-radius:12px;padding:10px 14px;margin-bottom:14px;
 }
 .coupon-code-box span{flex:1;font-family:monospace;font-size:18px;font-weight:900;color:#fff;letter-spacing:0.1em;}
 .copy-btn{
-  padding:7px 14px;
+  padding:7px 14px;flex-shrink:0;
   background:linear-gradient(135deg,#4f9fff,#1a4fcc);
   color:white;font-size:12px;font-weight:700;border-radius:8px;transition:all 150ms;
-  flex-shrink:0;
 }
-.copy-btn:hover{background:linear-gradient(135deg,#60aaff,#2563eb);transform:translateY(-1px);}
+.copy-btn:hover{background:linear-gradient(135deg,#60aaff,#2563eb);}
 .coupon-actions{display:flex;gap:8px;flex-wrap:wrap;}
 .c-btn-white{
-  flex:1;padding:11px 16px;
+  flex:1;padding:12px 16px;
   background:linear-gradient(135deg,#4f9fff,#1a4fcc);
   color:white;font-size:13px;font-weight:800;
   border-radius:12px;text-align:center;
-  box-shadow:0 6px 24px rgba(30,80,250,0.40);
+  box-shadow:0 4px 18px rgba(30,80,250,0.40);
   transition:all 150ms;cursor:pointer;border:none;font:inherit;font-weight:800;font-size:13px;
+  min-height:44px;touch-action:manipulation;
 }
-.c-btn-white:hover{transform:translateY(-2px);box-shadow:0 10px 32px rgba(30,80,250,0.55);}
+.c-btn-white:active{transform:scale(0.97);}
 .c-btn-outline{
-  padding:11px 16px;
+  padding:12px 16px;
   background:rgba(255,255,255,0.07);color:var(--ink2);
   font-size:12px;font-weight:700;border-radius:12px;
   border:1px solid rgba(255,255,255,0.12);transition:all 150ms;
   cursor:pointer;font:inherit;font-size:12px;font-weight:700;
+  min-height:44px;touch-action:manipulation;
 }
 .c-btn-outline:hover{background:rgba(255,255,255,0.12);color:var(--ink);}
-@media(max-width:480px){
-  .coupon-box{border-radius:20px;max-height:85vh;}
-  .coupon-inner{padding:6px 18px 22px;}
-  .coupon-inner h3{font-size:17px;}
-  .coupon-inner p{font-size:12px;margin-bottom:12px;}
-  .coupon-code-box{padding:8px 12px;margin-bottom:12px;}
-  .coupon-code-box span{font-size:15px;}
-  .coupon-tag{font-size:10px;padding:3px 10px;}
-  .welcome-lang-grid,.welcome-curr-grid{grid-template-columns:1fr 1fr;gap:6px;}
-  .welcome-opt{padding:8px 10px;font-size:12px;}
+
+/* ===== PLATFORM TILES ===== */
+.platform-tile{
+  display:flex;flex-direction:column;align-items:center;gap:4px;
+  padding:14px 8px;
+  background:rgba(255,255,255,0.07);
+  border:1.5px solid rgba(255,255,255,0.11);
+  border-radius:14px;cursor:pointer;transition:all 150ms;
+  font:inherit;touch-action:manipulation;
+  min-height:80px;
 }
+.platform-tile:hover{background:rgba(79,159,255,0.15);border-color:rgba(79,159,255,0.35);}
+.platform-tile.active{background:rgba(79,159,255,0.20);border-color:var(--blue);box-shadow:0 0 0 2px rgba(79,159,255,0.25);}
+.pt-emoji{font-size:22px;line-height:1;}
+.pt-label{font-size:13px;font-weight:700;color:var(--ink);}
+.pt-desc{font-size:10px;color:var(--muted);}
 
 /* ===== WELCOME GRIDS ===== */
 .welcome-lang-grid,.welcome-curr-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
 .welcome-opt{
-  padding:10px 14px;background:rgba(255,255,255,0.07);
+  padding:10px 12px;background:rgba(255,255,255,0.07);
   border:1px solid rgba(255,255,255,0.11);border-radius:10px;
-  font-size:13px;font-weight:600;color:var(--ink2);text-align:left;cursor:pointer;transition:all 150ms;font:inherit;
+  font-size:13px;font-weight:600;color:var(--ink2);text-align:left;cursor:pointer;
+  transition:all 150ms;font:inherit;min-height:42px;touch-action:manipulation;
 }
 .welcome-opt:hover{background:rgba(79,159,255,0.15);border-color:rgba(79,159,255,0.35);color:var(--ink);}
 .welcome-opt.active{background:rgba(79,159,255,0.20);border-color:var(--blue);color:#fff;}
+@media(max-width:480px){
+  .coupon-box{border-radius:20px;max-height:calc(100vh - 32px);}
+  .coupon-inner{padding:6px 16px 20px;}
+  .coupon-inner h3{font-size:17px;}
+  .coupon-inner p{font-size:12px;margin-bottom:12px;}
+  .coupon-tag{font-size:10px;padding:3px 10px;}
+  .welcome-lang-grid,.welcome-curr-grid{gap:6px;}
+  .welcome-opt{padding:8px 10px;font-size:12px;}
+  .platform-tile{padding:12px 6px;min-height:72px;}
+  .pt-emoji{font-size:20px;}
+  .pt-label{font-size:12px;}
+}
 
 /* ===== CURRENCY MODAL ===== */
 .currency-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
