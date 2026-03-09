@@ -43,7 +43,7 @@
     <section class="hero">
       <div class="hero-content">
         <h1>Find products fast.<br>Track sellers. Keep it simple.</h1>
-        <p id="homeSubtext">Your central hub for products, sellers, guides, and announcements.</p>
+        <p>Your central hub for the best reps — products, sellers, guides, and community.</p>
       </div>
 
       <div class="hero-search-wrap">
@@ -98,30 +98,36 @@
           <a class="view-all" href="guides.html">View all</a>
         </div>
         <div class="card-body">
-          <div class="community-grid">
-            <div>
-              <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px;">Guides</div>
-              <div id="guidesList"></div>
-            </div>
-            <div>
-              <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px;">Latest Updates</div>
-              <div id="forumPosts"></div>
-            </div>
+          <div id="featuredGuides"></div>
+          <div style="margin-top:14px;padding-top:14px;border-top:1px solid var(--line);">
+            <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px;">Latest Updates</div>
+            <div id="announcements"></div>
           </div>
         </div>
       </div>
 
       <div class="card">
         <div class="card-header">
-          <h2>Announcements</h2>
+          <h2>Community</h2>
         </div>
-        <div class="card-body" id="announcements"></div>
+        <div class="card-body">
+          <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px;">Recent Activity</div>
+          <div id="forumPosts"></div>
+        </div>
       </div>
     </div>
 
   </div>
 
-  <nav class="bottom-nav"></nav>
+  <nav class="bottom-nav">
+    <a class="bnav-item active" href="index.html"><span class="bnav-icon">🏠</span><span>Home</span></a>
+    <a class="bnav-item" href="catalogue.html"><span class="bnav-icon">📋</span><span>Catalog</span></a>
+    <a class="bnav-item" href="sellers.html"><span class="bnav-icon">🏆</span><span>Sellers</span></a>
+    <a class="bnav-item" href="guides.html"><span class="bnav-icon">📖</span><span>Guides</span></a>
+    <a class="bnav-item" href="announcements.html"><span class="bnav-icon">📣</span><span>News</span></a>
+    <a class="bnav-item" href="tools.html"><span class="bnav-icon">🔧</span><span>Tools</span></a>
+    <a class="bnav-item" href="admin.html"><span class="bnav-icon">⚙️</span><span>Admin</span></a>
+  </nav>
 
   <!-- COUPON MODAL — no "don't show again" -->
   <div class="modal-backdrop" id="couponModal">
@@ -132,37 +138,6 @@
         <div class="coupon-tag">🎁 Special Offer</div>
         <h3 id="couponTitle">Welcome to TAROFINDS!</h3>
         <p id="couponMessage">Use the invite code below to register and start ordering with our trusted sellers.</p>
-        <div class="coupon-pref-grid">
-          <div class="coupon-pref-card">
-            <div class="coupon-pref-label">Language</div>
-            <div class="coupon-pref-value" id="couponLanguageLabel">English</div>
-            <div class="welcome-lang-grid welcome-language" style="margin-top:10px">
-              <button class="welcome-opt" data-value="English">English</button>
-              <button class="welcome-opt" data-value="Deutsch">Deutsch</button>
-              <button class="welcome-opt" data-value="Français">Français</button>
-              <button class="welcome-opt" data-value="Español">Español</button>
-            </div>
-          </div>
-          <div class="coupon-pref-card welcome-currency">
-            <div class="coupon-pref-label">Currency</div>
-            <div class="coupon-pref-value" id="couponCurrencyLabel">USD</div>
-            <div class="welcome-curr-grid" style="margin-top:10px">
-              <button class="welcome-opt" data-value="USD">USD</button>
-              <button class="welcome-opt" data-value="GBP">GBP</button>
-              <button class="welcome-opt" data-value="EUR">EUR</button>
-              <button class="welcome-opt" data-value="CNY">CNY</button>
-            </div>
-          </div>
-          <div class="coupon-pref-card welcome-platform" style="grid-column:1/-1">
-            <div class="coupon-pref-label">Platform</div>
-            <div class="coupon-pref-value" id="couponPlatformLabel">Mobile</div>
-            <div class="welcome-lang-grid" style="margin-top:10px">
-              <button class="welcome-opt" data-value="Mobile">Mobile</button>
-              <button class="welcome-opt" data-value="PC">PC</button>
-            </div>
-          </div>
-          </div>
-        </div>
         <div class="coupon-code-box">
           <span id="couponCode">REPTARO</span>
           <button class="copy-btn" id="copyCodeBtn">Copy</button>
