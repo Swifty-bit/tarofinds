@@ -24,13 +24,6 @@
       <img src="assets/reptaro-logo.png" alt="TAROFINDS" />
       TARO<span class="bdot">•</span>FINDS
     </a>
-    <div class="nav-search nav-search-hidden">
-      <input id="searchInput" type="search" placeholder="Search products, sellers…" autocomplete="off" />
-      <button class="nav-search-btn" aria-label="Search">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-        Search
-      </button>
-    </div>
     <div class="nav-right">
       <button class="currency-btn" id="currencyBtn">
         <span id="currencyLabel">USD</span>
@@ -55,20 +48,9 @@
       <div class="hero-search-wrap">
         <input id="heroSearchInput" type="search" placeholder="Search products, sellers, categories…" autocomplete="off" />
         <button class="hero-search-btn" id="heroSearchBtn">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-          <span>Search</span>
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="margin-right:6px;flex-shrink:0"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          Search
         </button>
-      </div>
-
-      <div class="category-marquee-wrap reveal hero-floating-categories">
-        <div id="categoryMarquee">
-          <div class="floating-cats-skeleton">
-            <div class="floating-cat-skeleton"></div>
-            <div class="floating-cat-skeleton"></div>
-            <div class="floating-cat-skeleton"></div>
-            <div class="floating-cat-skeleton"></div>
-          </div>
-        </div>
       </div>
 
       <div class="hero-stats">
@@ -88,6 +70,15 @@
         </div>
       </div>
     </section>
+
+    <div class="floating-categories-wrap reveal">
+      <div id="floatingCategoryBar" class="floating-categories">
+        <div class="floating-category-skeleton"></div>
+        <div class="floating-category-skeleton"></div>
+        <div class="floating-category-skeleton"></div>
+        <div class="floating-category-skeleton"></div>
+      </div>
+    </div>
 
     <div class="main-grid">
       <div class="card reveal">
@@ -134,17 +125,7 @@
           </div>
         </div>
       </div>
-
-      <div class="card reveal">
-        <div class="card-header">
-          <h2>Community</h2>
-        </div>
-        <div class="card-body">
-          <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px;">Recent Activity</div>
-          <div id="forumPosts"></div>
-        </div>
-      </div>
-    </div>
+</div>
 
   </div>
 
