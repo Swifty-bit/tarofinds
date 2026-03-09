@@ -489,12 +489,21 @@ function initNav() {
   document.querySelectorAll('#currencyLabel').forEach(el=>el.textContent=activeCurrency);
 }
 
-/* ── Update Stats ── */
+/* ── Update Stats (animated count-up) ── */
+function countUp(el, target, dur = 900) {
+  if (!el || target === 0) { if (el) el.textContent = '0'; return; }
+  const start = performance.now();
+  function step(now) {
+    const p = Math.min((now - start) / dur, 1);
+    const ease = 1 - Math.pow(1 - p, 3); // cubic ease-out
+    el.textContent = Math.round(ease * target).toLocaleString();
+    if (p < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
 function updateStats() {
-  const statProducts = document.getElementById('statProducts');
-  const statSellers = document.getElementById('statSellers');
-  if (statProducts) statProducts.textContent = PRODUCTS.length;
-  if (statSellers) statSellers.textContent = SELLERS.length;
+  countUp(document.getElementById('statProducts'), PRODUCTS.length);
+  countUp(document.getElementById('statSellers'), SELLERS.length);
 }
 
 /* ── Platform Popup (separate, shown after coupon or on demand) ── */
@@ -700,6 +709,7 @@ function initSearch() {
 }
 
 /* ── Scrolling Category Marquee ── */
+/* ── Category Marquee ── */
 function buildCategoryMarquee() {
   const el = $('#categoryMarquee');
   if (!el) return;
@@ -742,10 +752,14 @@ function buildCategoryMarquee() {
     }).join('');
   
   el.innerHTML = rows;
-  
+
+  // Drag-to-scroll on every track
   document.querySelectorAll('.category-row-track').forEach(track => {
-    track.parentElement.addEventListener('mouseenter', () => track.style.animationPlayState = 'paused');
-    track.parentElement.addEventListener('mouseleave', () => track.style.animationPlayState = 'running');
+    let isDown = false, startX = 0, scrollLeft = 0;
+    track.addEventListener('mousedown', e => { isDown = true; track.classList.add('dragging'); startX = e.pageX - track.offsetLeft; scrollLeft = track.scrollLeft; });
+    track.addEventListener('mouseleave', () => { isDown = false; track.classList.remove('dragging'); });
+    track.addEventListener('mouseup', () => { isDown = false; track.classList.remove('dragging'); });
+    track.addEventListener('mousemove', e => { if (!isDown) return; e.preventDefault(); const x = e.pageX - track.offsetLeft; track.scrollLeft = scrollLeft - (x - startX) * 1.4; });
   });
 }
 
@@ -771,6 +785,28 @@ function buildFeaturedGuides() {
 }
 
 /* ── Featured Grid (home page) ── */
+function isSaved(id) {
+  try { return JSON.parse(localStorage.getItem('rt_saved_items') || '[]').some(s => s.id === id); } catch(e) { return false; }
+}
+function toggleSave(e, p) {
+  e.stopPropagation();
+  let items = [];
+  try { items = JSON.parse(localStorage.getItem('rt_saved_items') || '[]'); } catch(ex) {}
+  const idx = items.findIndex(s => s.id === p.id);
+  const btn = e.currentTarget;
+  if (idx >= 0) {
+    items.splice(idx, 1);
+    btn.classList.remove('saved');
+    btn.title = 'Save';
+    toast('Removed from saved');
+  } else {
+    items.push({ id: p.id, name: p.name, price: fmt(p.price), image: p.image, link: p.link });
+    btn.classList.add('saved');
+    btn.title = 'Saved!';
+    toast('💾 Saved!');
+  }
+  localStorage.setItem('rt_saved_items', JSON.stringify(items));
+}
 function buildFeaturedGrid() {
   const grid = document.getElementById('featuredGrid');
   if (!grid) return;
@@ -780,10 +816,15 @@ function buildFeaturedGrid() {
     const cat = (p.category || '').toLowerCase();
     const bg = CAT_BG[cat] || 'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
     const emoji = CAT_EMOJI[cat] || '📦';
-    return `<div class="product-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g,'&quot;')})">
+    const saved = isSaved(p.id);
+    const pJson = JSON.stringify(p).replace(/"/g,'&quot;');
+    return `<div class="product-card" onclick="openProductModal(${pJson})">
       <div class="product-thumb" style="background:${bg};position:relative;overflow:hidden;">
-        ${p.image ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.querySelector('.pf').style.display='flex'">` : ''}
+        ${p.image ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" decoding="async" class="lazy-img" style="width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 300ms;" onload="this.style.opacity=1" onerror="this.style.display='none';this.parentElement.querySelector('.pf').style.display='flex'">` : ''}
         <div class="pf" style="display:${p.image?'none':'flex'};position:absolute;inset:0;align-items:center;justify-content:center;font-size:36px;">${emoji}</div>
+        <button class="card-save-btn${saved?' saved':''}" title="${saved?'Saved!':'Save'}" onclick="toggleSave(event,${pJson})">
+          ${saved ? '💾' : '🤍'}
+        </button>
       </div>
       <div class="product-info">
         <div class="product-name">${esc(p.name)}</div>
@@ -846,9 +887,39 @@ function sellerAvatarHtml(s) {
   return `<span style="font-weight:700">${s.name.substring(0,2).toUpperCase()}</span>`;
 }
 
+/* ── Page progress bar ── */
+function startProgress() {
+  const bar = document.getElementById('pageProgress');
+  if (!bar) return;
+  bar.style.width = '0%'; bar.style.opacity = '1';
+  bar.style.transition = 'width 300ms ease';
+  setTimeout(() => { bar.style.width = '60%'; }, 10);
+}
+function finishProgress() {
+  const bar = document.getElementById('pageProgress');
+  if (!bar) return;
+  bar.style.width = '100%';
+  setTimeout(() => { bar.style.opacity = '0'; bar.style.width = '0%'; }, 350);
+}
+
+/* ── Scroll reveal (IntersectionObserver) ── */
+function initScrollReveal() {
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('revealed');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.08 });
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+}
+
 /* ── BOOT ── */
 document.addEventListener('DOMContentLoaded', async ()=>{
+  startProgress();
   await loadData();
+  finishProgress();
   checkMaintenanceMode();
   updateStats();
   buildFeaturedGrid();
@@ -868,6 +939,7 @@ document.addEventListener('DOMContentLoaded', async ()=>{
   initAnnouncementsPage();
   initAlertsPage();
   initNav();
+  initScrollReveal();
   applyAdminVisibility();
   if(document.getElementById('year')) document.getElementById('year').textContent=new Date().getFullYear();
 });

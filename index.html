@@ -3,11 +3,16 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>TAROFINDS — Home</title>
+  <title>TAROFINDS — Best Reps, Guides & Sellers</title>
+  <meta name="description" content="Find the best replica products. Browse sellers, guides, and deals — all in one place." />
   <link rel="icon" href="assets/reptaro-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-page="home">
+
+  <div id="pageProgress"></div>
 
   <div class="liquid-orb liquid-orb-1"></div>
   <div class="liquid-orb liquid-orb-2"></div>
@@ -42,8 +47,9 @@
 
     <section class="hero">
       <div class="hero-content">
-        <h1>Find products fast.<br>Track sellers. Keep it simple.</h1>
-        <p>Your central hub for the best reps — products, sellers, guides, and community.</p>
+        <div class="hero-eyebrow">🔥 The #1 Rep Community Hub</div>
+        <h1>Find products fast.<br><span class="hero-accent">Rep smarter.</span></h1>
+        <p>Curated products, verified sellers, step-by-step guides — everything you need in one place.</p>
       </div>
 
       <div class="hero-search-wrap">
@@ -59,40 +65,74 @@
           <div class="val" id="statProducts">—</div>
           <div class="lbl">Products</div>
         </div>
+        <div class="hero-divider"></div>
         <div class="hero-stat">
           <div class="val" id="statSellers">—</div>
-          <div class="lbl">Sellers</div>
+          <div class="lbl">Verified Sellers</div>
+        </div>
+        <div class="hero-divider"></div>
+        <div class="hero-stat">
+          <div class="val">5+</div>
+          <div class="lbl">Guides</div>
         </div>
       </div>
     </section>
 
-    <div class="category-marquee-wrap">
-      <div id="categoryMarquee"></div>
+    <div class="category-marquee-wrap reveal">
+      <div id="categoryMarquee">
+        <!-- skeleton rows while loading -->
+        <div class="skeleton-row">
+          <div class="skeleton-label"></div>
+          <div class="skeleton-strip">
+            <div class="skeleton-card"></div><div class="skeleton-card"></div>
+            <div class="skeleton-card"></div><div class="skeleton-card"></div>
+            <div class="skeleton-card"></div><div class="skeleton-card"></div>
+          </div>
+        </div>
+        <div class="skeleton-row">
+          <div class="skeleton-label"></div>
+          <div class="skeleton-strip">
+            <div class="skeleton-card"></div><div class="skeleton-card"></div>
+            <div class="skeleton-card"></div><div class="skeleton-card"></div>
+            <div class="skeleton-card"></div><div class="skeleton-card"></div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <div class="main-grid">
-      <div class="card">
+      <div class="card reveal">
         <div class="card-header">
           <h2>Featured Catalog</h2>
           <a class="view-all" href="catalogue.html">View all</a>
         </div>
         <div class="card-body">
-          <div class="product-grid" id="featuredGrid"></div>
+          <div class="product-grid" id="featuredGrid">
+            <div class="skeleton-card tall"></div><div class="skeleton-card tall"></div>
+            <div class="skeleton-card tall"></div><div class="skeleton-card tall"></div>
+          </div>
         </div>
       </div>
 
-      <div class="card">
+      <div class="card reveal">
         <div class="card-header">
           <h2>Best Sellers</h2>
+          <a class="view-all" href="sellers.html">View all</a>
         </div>
         <div id="bsTopSlot"></div>
         <div class="bs-label">Best Sellers</div>
-        <div id="sellerList"></div>
+        <div id="sellerList">
+          <div style="padding:12px 20px;display:flex;flex-direction:column;gap:10px">
+            <div class="skeleton-seller-row"></div>
+            <div class="skeleton-seller-row"></div>
+            <div class="skeleton-seller-row"></div>
+          </div>
+        </div>
       </div>
     </div>
 
     <div class="bottom-grid">
-      <div class="card">
+      <div class="card reveal">
         <div class="card-header">
           <h2>Guides &amp; Updates</h2>
           <a class="view-all" href="guides.html">View all</a>
@@ -106,7 +146,7 @@
         </div>
       </div>
 
-      <div class="card">
+      <div class="card reveal">
         <div class="card-header">
           <h2>Community</h2>
         </div>
