@@ -1,3 +1,5 @@
+(function() {
+'use strict';
 const adminState = {
   loggedIn: false,
   user: null,
@@ -203,3 +205,4 @@ function bindAdminEvents() { const loginForm = $('loginForm'); const loginBtn = 
 async function initAdmin() { bindAdminEvents(); await loadOrBootstrapStaff(); await loadAdminData(); loadCoupons(); loadAnnouncements(); fillProductForm(null); fillCouponForm(null); fillAnnouncementForm(null); const session = localStorage.getItem('rt_admin_session'); if (session) { try { const data = JSON.parse(session); const staff = adminState.staff.find(s => s.username === String(data.username || '').toLowerCase()); if (staff) { adminState.user = staff; adminState.loggedIn = true; showDashboard(); return; } } catch {} } showLogin(); updateKPIs(); }
 document.addEventListener('DOMContentLoaded', initAdmin);
 window.adminLogin = adminLogin; window.adminLogout = adminLogout; window.createStaff = createStaff; window.upsertProduct = upsertProduct; window.clearProductForm = clearProductForm; window.editProduct = editProduct; window.deleteProduct = deleteProduct; window.changeProductPage = changeProductPage; window.addCoupon = addCoupon; window.clearCouponForm = clearCouponForm; window.editCoupon = editCoupon; window.deleteCoupon = deleteCoupon; window.toggleCoupon = toggleCoupon; window.addAnnouncement = addAnnouncement; window.clearAnnouncementForm = clearAnnouncementForm; window.editAnnouncement = editAnnouncement; window.deleteAnnouncement = deleteAnnouncement; window.toggleAnnouncement = toggleAnnouncement; window.removeStaff = removeStaff; window.toggleSetting = toggleSetting; window.clearCache = clearCache; window.resetData = resetData; window.showBetaInfo = showBetaInfo;
+})();
