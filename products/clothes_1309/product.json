@@ -1,0 +1,61 @@
+{
+  "name": "LacostePants5 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7309182331%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7309182331?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "24$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://newdp.x.yupoo.com/albums/176447982?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0H3hPDwMvkeMFJrQeVRy4gdynL25pGzxjGgIqoW4YDrjV2IoQ-8L9l6H5K3qEkP1h-t0J6fGpq_xdp_Mtu391sTWYo-G5QFhmJi5XbxkqdBkgrtoDrQGRXHwS3GJAWZqv22HZ8xf-tAYB=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "900"
+    },
+    "col_1": {
+      "text": "LacostePants5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0H3hPDwMvkeMFJrQeVRy4gdynL25pGzxjGgIqoW4YDrjV2IoQ-8L9l6H5K3qEkP1h-t0J6fGpq_xdp_Mtu391sTWYo-G5QFhmJi5XbxkqdBkgrtoDrQGRXHwS3GJAWZqv22HZ8xf-tAYB=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://www.oopbuy.com/product/weidian/7309182331?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "24$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://newdp.x.yupoo.com/albums/176447982?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1309"
+}

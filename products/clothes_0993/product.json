@@ -1,0 +1,64 @@
+{
+  "name": "In to The Abyss SetHoodie and Pants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7342555984%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7342555984?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "57$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/150113886?uid=1"
+    }
+  ],
+  "notes": "set 57$ - hoodie 32$ - pants 25$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azx1Kqs9NDsaXlCoL_C1Fp3FgU-Xxzr1lXZ7fM-7p2_BFss9Z0bd_qAUs0YQ_UNi4Tr2O7utgoDqI70KzeV1eDpIEq71y-dq6e-cvxrvQrGzJ7ltbKqhxrvvtIQw1T0_sL-XToy__dzh6ie=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "530"
+    },
+    "col_1": {
+      "text": "In to The Abyss SetHoodie and Pants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azx1Kqs9NDsaXlCoL_C1Fp3FgU-Xxzr1lXZ7fM-7p2_BFss9Z0bd_qAUs0YQ_UNi4Tr2O7utgoDqI70KzeV1eDpIEq71y-dq6e-cvxrvQrGzJ7ltbKqhxrvvtIQw1T0_sL-XToy__dzh6ie=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://www.oopbuy.com/product/weidian/7342555984?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "57$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/150113886?uid=1"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 57$ - hoodie 32$ - pants 25$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0993"
+}

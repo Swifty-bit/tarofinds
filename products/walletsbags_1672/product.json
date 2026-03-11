@@ -1,0 +1,61 @@
+{
+  "name": "DiorPouch with Shoulder Strap Oblique Jacquard",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/779729004903?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "22$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2002927877119627266?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtkRmCHUe2lhOIRsTF9vcgSRqI0aHupmLLSUE8HEMuoo2Staqa05gfM16lS5Id-QkjsMPu5Yx6GFwLQl6Os-mc0h1utH0oXslvIvW2v-lElIGJP7SPxJOHWgeojkfJhQ3HwjyiXbSfnBjn=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "35"
+    },
+    "col_1": {
+      "text": "DiorPouch with Shoulder Strap Oblique Jacquard"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtkRmCHUe2lhOIRsTF9vcgSRqI0aHupmLLSUE8HEMuoo2Staqa05gfM16lS5Id-QkjsMPu5Yx6GFwLQl6Os-mc0h1utH0oXslvIvW2v-lElIGJP7SPxJOHWgeojkfJhQ3HwjyiXbSfnBjn=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/779729004903?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2002927877119627266?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1672"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "NOCTA Glide Drake",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Baymax",
+  "best_batch_links": [
+    {
+      "label": "Baymax",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6557011076%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6557011076?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxxOdA8JWBpSN1lPBUG266B1MHT0gewjnjt6m8Bzf0GDAOHy64TzNV9UHykxbTKarW-z9fhvHk2f9yubzhRqDSTmxrBhxebfUDF3mBTsUwo6CBHn54sSbilslJaLvJENzCkFI_kOyNmrYtY=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "58"
+    },
+    "col_1": {
+      "text": "NOCTA Glide Drake"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxxOdA8JWBpSN1lPBUG266B1MHT0gewjnjt6m8Bzf0GDAOHy64TzNV9UHykxbTKarW-z9fhvHk2f9yubzhRqDSTmxrBhxebfUDF3mBTsUwo6CBHn54sSbilslJaLvJENzCkFI_kOyNmrYtY=w143-h110"
+    },
+    "col_3": {
+      "text": "Baymax",
+      "links": [
+        {
+          "label": "Baymax",
+          "url": "https://oopbuy.com/product/weidian/6557011076?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0051"
+}

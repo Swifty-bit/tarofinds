@@ -1,0 +1,61 @@
+{
+  "name": "Ralph Lauren",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/857620796415?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzwcuR9iKVDeH5ersfXNSMDZg6HtRaSSadsBOKaqIaEjWEIh30_2pm54OhoBIdZgE9vEGo2_yjRRf4v34H5XOhEwmPovml-_WXyz06nNdbOtxn7TX0ONJOeBGMzyLc_6hSVhCyylnNgNdP3=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "46"
+    },
+    "col_1": {
+      "text": "Ralph Lauren"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzwcuR9iKVDeH5ersfXNSMDZg6HtRaSSadsBOKaqIaEjWEIh30_2pm54OhoBIdZgE9vEGo2_yjRRf4v34H5XOhEwmPovml-_WXyz06nNdbOtxn7TX0ONJOeBGMzyLc_6hSVhCyylnNgNdP3=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/857620796415?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1729"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Acne StudiosScarf Oversized",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Topacney",
+  "best_batch_links": [
+    {
+      "label": "Topacney",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F985020300740%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/985020300740?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "28$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://topacney.x.yupoo.com/albums/103984774?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDeJqKLPYNhB33Z_EQmoaCBugsQKZbcaYVlnclt-8gWFrD0F_ITHTTi44yN3l5WQm4_4xuugYTALHg74TyhbRcvLfLH7LG3I1PdZETL8hTejgbPw2rX9dj_lnF_KXXr5h0ci1WtEqKzR37=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "721"
+    },
+    "col_1": {
+      "text": "Acne StudiosScarf Oversized"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDeJqKLPYNhB33Z_EQmoaCBugsQKZbcaYVlnclt-8gWFrD0F_ITHTTi44yN3l5WQm4_4xuugYTALHg74TyhbRcvLfLH7LG3I1PdZETL8hTejgbPw2rX9dj_lnF_KXXr5h0ci1WtEqKzR37=w143-h110"
+    },
+    "col_3": {
+      "text": "Topacney",
+      "links": [
+        {
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/985020300740?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "28$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://topacney.x.yupoo.com/albums/103984774?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1158"
+}

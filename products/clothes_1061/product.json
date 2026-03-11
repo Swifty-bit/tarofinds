@@ -1,0 +1,61 @@
+{
+  "name": "HellstarLong SleeveQR Christ T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
+    {
+      "label": "PikaPikaGo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F805640522489%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/805640522489?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "15$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/166136793?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AziF4977Cew5SMfdoWV8vtnzLmMK28KUbd9UdK7nDqHYLBuiv1k9koImBzoUETj29Gybga8A2VrzsW5c7rcXOWaWqEJ8c2ZslhO68lcmXneoimxBg13ZELw5CCRLHPqhnLp0DppTO-Zzw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "610"
+    },
+    "col_1": {
+      "text": "HellstarLong SleeveQR Christ T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AziF4977Cew5SMfdoWV8vtnzLmMK28KUbd9UdK7nDqHYLBuiv1k9koImBzoUETj29Gybga8A2VrzsW5c7rcXOWaWqEJ8c2ZslhO68lcmXneoimxBg13ZELw5CCRLHPqhnLp0DppTO-Zzw=w143-h110"
+    },
+    "col_3": {
+      "text": "PikaPikaGo",
+      "links": [
+        {
+          "label": "PikaPikaGo",
+          "url": "https://www.oopbuy.com/product/1/805640522489?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/166136793?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1061"
+}

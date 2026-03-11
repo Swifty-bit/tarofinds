@@ -1,0 +1,47 @@
+{
+  "name": "Defender",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GOOD / OK",
+  "best_batch_links": [
+    {
+      "label": "GOOD / OK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5782597084%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5782597084?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "86$ / 74$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay0ZQ8lT65NPJ9JpTXfLCs32F-E2jrIJDTwDlKd--H35ocnnXt2_RiAyZ_j1D6rTYMDg9SlzsWeg6ryCsqPOepScUcRNF2gJ2uPMAmA15RWNHh3-ScoTL0g_bxESip0reGUlhqcHh4zww=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "495"
+    },
+    "col_1": {
+      "text": "Defender"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay0ZQ8lT65NPJ9JpTXfLCs32F-E2jrIJDTwDlKd--H35ocnnXt2_RiAyZ_j1D6rTYMDg9SlzsWeg6ryCsqPOepScUcRNF2gJ2uPMAmA15RWNHh3-ScoTL0g_bxESip0reGUlhqcHh4zww=w143-h110"
+    },
+    "col_3": {
+      "text": "GOOD / OK",
+      "links": [
+        {
+          "label": "GOOD / OK",
+          "url": "https://oopbuy.com/product/weidian/5782597084?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "86$ / 74$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0436"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "VetementsFitted Zip Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F853153553264%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/853153553264?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "60$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/175947399?uid=1&isSubCate=false&referrercate=4651184"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az63DYGmVREMBRQ27QTLU1drPVSBMBAeAfXwbdUBLicjFo9xFOrfeDRAcUkc6TyRC9CYzYp9uvxWbEzV2RkUE3Wa5F-vj0KMx2sxdxROeZKXuG2ZeCK2PiSvQxZoS3xZYlt-p40zeT4XQNq=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "676"
+    },
+    "col_1": {
+      "text": "VetementsFitted Zip Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az63DYGmVREMBRQ27QTLU1drPVSBMBAeAfXwbdUBLicjFo9xFOrfeDRAcUkc6TyRC9CYzYp9uvxWbEzV2RkUE3Wa5F-vj0KMx2sxdxROeZKXuG2ZeCK2PiSvQxZoS3xZYlt-p40zeT4XQNq=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/853153553264?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "60$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/175947399?uid=1&isSubCate=false&referrercate=4651184"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1121"
+}

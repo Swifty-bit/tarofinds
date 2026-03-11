@@ -1,0 +1,61 @@
+{
+  "name": "Ralph LaurenHooded Windbreaker",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F753676734133%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/753676734133?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "32$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1883787112022642690?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay_jC1dfyh5sFhy8aShOa8feElQJcNch16p59usOH2ZFKhc6LBsyFYvyFkX6sgCMlil_0Kq2Y2wm75nR3jSAiFfzVMqIi1HJrm9HmC6xVyMx4o2eVqOndkSjrdSrtJK9O-4bIgZsA-SbbWg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "102"
+    },
+    "col_1": {
+      "text": "Ralph LaurenHooded Windbreaker"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay_jC1dfyh5sFhy8aShOa8feElQJcNch16p59usOH2ZFKhc6LBsyFYvyFkX6sgCMlil_0Kq2Y2wm75nR3jSAiFfzVMqIi1HJrm9HmC6xVyMx4o2eVqOndkSjrdSrtJK9O-4bIgZsA-SbbWg=w143-h110"
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/753676734133?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "32$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1883787112022642690?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0631"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Cool Grey",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7259180318%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7259180318?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "71$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZPt2u1Q0Dqv05X9mIWZ5Khw8JRfOKANtf68l327rou3Q9nYFWdXv0vnGe4bpuLntqk-YXkHBZdUF2OfGXR5yPSmn3v3Z0DDoLntqhmDI2wU39P76yYGtDIDrm64cddJ1lxFmCm-BmV90W=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "267"
+    },
+    "col_1": {
+      "text": "Cool Grey"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZPt2u1Q0Dqv05X9mIWZ5Khw8JRfOKANtf68l327rou3Q9nYFWdXv0vnGe4bpuLntqk-YXkHBZdUF2OfGXR5yPSmn3v3Z0DDoLntqhmDI2wU39P76yYGtDIDrm64cddJ1lxFmCm-BmV90W=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7259180318?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "71$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0252"
+}

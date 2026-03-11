@@ -1,0 +1,61 @@
+{
+  "name": "Eric Emanuel x Interscope RecordsShorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Angelking",
+  "best_batch_links": [
+    {
+      "label": "Angelking",
+      "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "23$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://angelking47.x.yupoo.com/albums/138875714?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTRi5TXf_WepZiQw8vyqjk_GkjSwhIPdQcrAe5ueoqSROtpM-1X4W8EGoMaKggyg4iEXHRx0iC7pvtnccrnD7vC8lhl4l_yxOCfe23t1XbiwsvQaNvoRKv-il7IvEGQhQ3-LZf9uy8Vw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "976"
+    },
+    "col_1": {
+      "text": "Eric Emanuel x Interscope RecordsShorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTRi5TXf_WepZiQw8vyqjk_GkjSwhIPdQcrAe5ueoqSROtpM-1X4W8EGoMaKggyg4iEXHRx0iC7pvtnccrnD7vC8lhl4l_yxOCfe23t1XbiwsvQaNvoRKv-il7IvEGQhQ3-LZf9uy8Vw=w143-h110"
+    },
+    "col_3": {
+      "text": "Angelking",
+      "links": [
+        {
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://angelking47.x.yupoo.com/albums/138875714?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1502"
+}

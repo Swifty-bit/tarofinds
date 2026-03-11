@@ -1,0 +1,47 @@
+{
+  "name": "Black Pigeon",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "TOP/S2",
+  "best_batch_links": [
+    {
+      "label": "TOP/S2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251512589%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251512589?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "50$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay8Vu1Cpkcu_6TLMUP1pnxSf7uAWD06H-Umnl84jymAW03QbD-JVYvHEUUyeLnX94Jx_Xl4B5pS5a50KbaW4nNrlhzwqawMmJ7apvfydkItn2y_zP9_R5mvkH2eV6niAhYF_we-BbqckIrL=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "101"
+    },
+    "col_1": {
+      "text": "Black Pigeon"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay8Vu1Cpkcu_6TLMUP1pnxSf7uAWD06H-Umnl84jymAW03QbD-JVYvHEUUyeLnX94Jx_Xl4B5pS5a50KbaW4nNrlhzwqawMmJ7apvfydkItn2y_zP9_R5mvkH2eV6niAhYF_we-BbqckIrL=w143-h110"
+    },
+    "col_3": {
+      "text": "TOP/S2",
+      "links": [
+        {
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/2/7251512589?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "50$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0092"
+}

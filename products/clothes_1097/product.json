@@ -1,0 +1,73 @@
+{
+  "name": "Kroen Embroidery Basic Sports Suit",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT/GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656824894%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656824894?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653844899%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653844899?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/186143439?uid=1&isSubCate=false&referrercate=4943474"
+    }
+  ],
+  "notes": "set 59$ - top 30$ - bottom 29$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeAP3N5WZxQvHepYxKu-N96ezIcF5V5CbLqbOLLx6EEBlmxnnOEUVX8wyi--5FRBG2EEzguqii70QkmBScMdoeZVNJUBkNiyEzJYdYQhEGP_EJUhqebKB6dql_G7ykyqooiO04gu51M6Zb=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "650"
+    },
+    "col_1": {
+      "text": "Kroen Embroidery Basic Sports Suit"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeAP3N5WZxQvHepYxKu-N96ezIcF5V5CbLqbOLLx6EEBlmxnnOEUVX8wyi--5FRBG2EEzguqii70QkmBScMdoeZVNJUBkNiyEzJYdYQhEGP_EJUhqebKB6dql_G7ykyqooiO04gu51M6Zb=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT/GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656824894?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653844899?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "59$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/186143439?uid=1&isSubCate=false&referrercate=4943474"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 59$ - top 30$ - bottom 29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1097"
+}

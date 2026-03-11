@@ -1,0 +1,61 @@
+{
+  "name": "Syna WorldVarsity CrewShorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "elephant",
+  "best_batch_links": [
+    {
+      "label": "elephant",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7382532643%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7382532643?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "23$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://elephant-factory.x.yupoo.com/albums/184763063?uid=1&isSubCate=false&referrercate=4564614"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwsJb9XMybHdRFVoeFfmKLw-ybhs741Udj3-wEq8KoZ9zNbBbNUSmrTOd8snslYBUO1ifvV3jPOigsTwVHgheEpBEjBqSkTAFip4M_mgOTMonOcGYrbxC6ZY4WLZj9AjCeDe89PI_BXk1jQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "457"
+    },
+    "col_1": {
+      "text": "Syna WorldVarsity CrewShorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwsJb9XMybHdRFVoeFfmKLw-ybhs741Udj3-wEq8KoZ9zNbBbNUSmrTOd8snslYBUO1ifvV3jPOigsTwVHgheEpBEjBqSkTAFip4M_mgOTMonOcGYrbxC6ZY4WLZj9AjCeDe89PI_BXk1jQ=w143-h110"
+    },
+    "col_3": {
+      "text": "elephant",
+      "links": [
+        {
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/2/7382532643?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://elephant-factory.x.yupoo.com/albums/184763063?uid=1&isSubCate=false&referrercate=4564614"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0930"
+}

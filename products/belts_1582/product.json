@@ -1,0 +1,61 @@
+{
+  "name": "Fendi",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F768485960230%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/768485960230?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzlZb2FwyodhrhlCgs2IsqGvwTiPqHCy2hRT5NDrEes4KmcqeLlOxpAo4GYSQ_UNYqaGXU4f7SYZF_T5a3KXGy9iBjRZsK4UU5ApcLSF48PKdu0wtspdDCRl5hVXhhHbj03Nc3yZDSl70WY=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "44"
+    },
+    "col_1": {
+      "text": "Fendi"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzlZb2FwyodhrhlCgs2IsqGvwTiPqHCy2hRT5NDrEes4KmcqeLlOxpAo4GYSQ_UNYqaGXU4f7SYZF_T5a3KXGy9iBjRZsK4UU5ApcLSF48PKdu0wtspdDCRl5hVXhhHbj03Nc3yZDSl70WY=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/768485960230?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1582"
+}

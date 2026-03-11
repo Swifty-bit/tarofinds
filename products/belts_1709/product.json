@@ -1,0 +1,61 @@
+{
+  "name": "Cartier",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "K8",
+  "best_batch_links": [
+    {
+      "label": "K8",
+      "url": "https://www.oopbuy.com/product/weidian/7247852691?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923073411405418497?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwlJNfbtfl8Ay7lt2-mVpVYoZWALDrwJkySsucFmbc7QJzBTacghmHiXJ9XdElZ0aBidrASsuqjCR9icvW3-FvBpunY-DQm1j3hwhAWQB4jpQ81Yn_TQfqJd28gcp74ct2p3lk6p4iSzA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "26"
+    },
+    "col_1": {
+      "text": "Cartier"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwlJNfbtfl8Ay7lt2-mVpVYoZWALDrwJkySsucFmbc7QJzBTacghmHiXJ9XdElZ0aBidrASsuqjCR9icvW3-FvBpunY-DQm1j3hwhAWQB4jpQ81Yn_TQfqJd28gcp74ct2p3lk6p4iSzA=w143-h110"
+    },
+    "col_3": {
+      "text": "K8",
+      "links": [
+        {
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7247852691?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "36$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923073411405418497?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1709"
+}

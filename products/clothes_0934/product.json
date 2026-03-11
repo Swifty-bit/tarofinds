@@ -1,0 +1,87 @@
+{
+  "name": "Syna TracksuitHoodie & PantsBlack/Red",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "elephant",
+  "best_batch_links": [
+    {
+      "label": "elephant",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7250853109%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7250853109?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F736632475800%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "49$(SET)",
+  "budget_price": "10$(SET)",
+  "pics_text": "elephant/budget",
+  "pics_links": [
+    {
+      "label": "elephant",
+      "url": "https://elephant-factory.x.yupoo.com/albums/169851983?uid=1&isSubCate=false&referrercate=4564614"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXIcSc2UUmgl_uf4PaxtWiCuttd41-fl5afAxEb5z4dSiA6wcE5jcQEEMBXuK1lKMNLASU7FTQIP63yzNuzeeKe0x-Tpn-6wi5YqIgS78_kGSjQ9VQVZa7JAI-6YubVr1avzVnPp6rh7zv=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "461"
+    },
+    "col_1": {
+      "text": "Syna TracksuitHoodie & PantsBlack/Red"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXIcSc2UUmgl_uf4PaxtWiCuttd41-fl5afAxEb5z4dSiA6wcE5jcQEEMBXuK1lKMNLASU7FTQIP63yzNuzeeKe0x-Tpn-6wi5YqIgS78_kGSjQ9VQVZa7JAI-6YubVr1avzVnPp6rh7zv=w143-h110"
+    },
+    "col_3": {
+      "text": "elephant",
+      "links": [
+        {
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/2/7250853109?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "49$(SET)"
+    },
+    "col_6": {
+      "text": "10$(SET)"
+    },
+    "col_7": {
+      "text": "elephant/budget",
+      "links": [
+        {
+          "label": "elephant",
+          "url": "https://elephant-factory.x.yupoo.com/albums/169851983?uid=1&isSubCate=false&referrercate=4564614"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0934"
+}

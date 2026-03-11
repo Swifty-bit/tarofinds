@@ -1,0 +1,47 @@
+{
+  "name": "Taxi",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PK",
+  "best_batch_links": [
+    {
+      "label": "PK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6224274272%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6224274272?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "78$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxmAXTI-PMCe1lZF1G3JbsM-9xAgGnwVwiF96RJMU2Xs-bG4wr8g3NgcrPHvZbbqmJuXXAoNk-vrgwjwXaPB6j8G7uHA3M_IDJFDtw5lSek9NlS2MhqsoWJPbwUCTWG3VDYFt_XRsdwmUg4=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "190"
+    },
+    "col_1": {
+      "text": "Taxi"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxmAXTI-PMCe1lZF1G3JbsM-9xAgGnwVwiF96RJMU2Xs-bG4wr8g3NgcrPHvZbbqmJuXXAoNk-vrgwjwXaPB6j8G7uHA3M_IDJFDtw5lSek9NlS2MhqsoWJPbwUCTWG3VDYFt_XRsdwmUg4=w143-h100"
+    },
+    "col_3": {
+      "text": "PK",
+      "links": [
+        {
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/6224274272?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "78$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0179"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Off White Muslin",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7239346781%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "83$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwiFOiwIB0siQ7lu4WPB6W1p0NcGTV5oNN39YokSRWWW40LzNwSd6D85Ymg_Vfe18aAUJr_lNWoiQ97Iuex096ZcpnNiR7laf85OPCYtKDGbJAs5eWA3_fxxXlefKYhoweXaFDQ0SICCVLn=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "299"
+    },
+    "col_1": {
+      "text": "Off White Muslin"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwiFOiwIB0siQ7lu4WPB6W1p0NcGTV5oNN39YokSRWWW40LzNwSd6D85Ymg_Vfe18aAUJr_lNWoiQ97Iuex096ZcpnNiR7laf85OPCYtKDGbJAs5eWA3_fxxXlefKYhoweXaFDQ0SICCVLn=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "83$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0282"
+}

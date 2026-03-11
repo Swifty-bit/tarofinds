@@ -1,0 +1,87 @@
+{
+  "name": "Syna Skull Beanie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653811271%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653811271?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F855744841878%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/855744841878?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "10$",
+  "budget_price": "3$",
+  "pics_text": "GOAT/budget",
+  "pics_links": [
+    {
+      "label": "GOAT",
+      "url": "https://goat-official222.x.yupoo.com/albums/148903862?uid=1&isSubCate=false&referrercate=4215138"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969589225499746306?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awy3-A-Z31rFvaSeoysk1Duhdpm8xtMHRcRnyB7CTZuNbBmQa44Mi6hZezj6EZEpudM8-ZMDougGOGJBL5l9gxGzBNC4MwqqT5Y4uzLgjrb_bXbdSYJFa3876YfT5YnZBwKDoZotuJl6sMt=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "468"
+    },
+    "col_1": {
+      "text": "Syna Skull Beanie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awy3-A-Z31rFvaSeoysk1Duhdpm8xtMHRcRnyB7CTZuNbBmQa44Mi6hZezj6EZEpudM8-ZMDougGOGJBL5l9gxGzBNC4MwqqT5Y4uzLgjrb_bXbdSYJFa3876YfT5YnZBwKDoZotuJl6sMt=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653811271?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/855744841878?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "10$"
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "GOAT/budget",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://goat-official222.x.yupoo.com/albums/148903862?uid=1&isSubCate=false&referrercate=4215138"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969589225499746306?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0941"
+}

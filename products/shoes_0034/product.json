@@ -1,0 +1,65 @@
+{
+  "name": "Air Max 95Corteiz",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7301232626%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7301232626?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "UMKAO",
+  "budget_batch_links": [
+    {
+      "label": "UMKAO",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F751328545164%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/751328545164?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "46$",
+  "budget_price": "22$",
+  "pics_text": "22$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTRwWd_WvPl_WFacnSWhBLW4LDw_BZ-xr8l-JWhsAiIS9tzZCk0HG-pLk6a5eC95ENtKDHlN1-uAFr1yOX7a3ZqQtb1mVHfu_F3EIHjHlcvEgDcL00pTQjzCj-cdmcOlu7QjFi6ek6vHSx=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "41"
+    },
+    "col_1": {
+      "text": "Air Max 95Corteiz"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTRwWd_WvPl_WFacnSWhBLW4LDw_BZ-xr8l-JWhsAiIS9tzZCk0HG-pLk6a5eC95ENtKDHlN1-uAFr1yOX7a3ZqQtb1mVHfu_F3EIHjHlcvEgDcL00pTQjzCj-cdmcOlu7QjFi6ek6vHSx=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://www.oopbuy.com/product/weidian/7301232626?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "UMKAO",
+      "links": [
+        {
+          "label": "UMKAO",
+          "url": "https://oopbuy.com/product/1/751328545164?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "46$"
+    },
+    "col_6": {
+      "text": "22$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0034"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Air Force OneSkeleton4 Colors",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Passerby",
+  "best_batch_links": [
+    {
+      "label": "Passerby",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7325698280%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7325698280?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "33$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axm_t9AobOUNz90kQm3Sddq-bbV0NuJ62VIFs38bD2L4vcYlRTy3nZMos9qT2LoybseY4692_3aateYyQaWP5fwJHL_F2oYOQdr09D_cdO4lvFNRT0LMtrEnDtFLRbGxAvFmqrK3rKh8pZW=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "22"
+    },
+    "col_1": {
+      "text": "Air Force OneSkeleton4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axm_t9AobOUNz90kQm3Sddq-bbV0NuJ62VIFs38bD2L4vcYlRTy3nZMos9qT2LoybseY4692_3aateYyQaWP5fwJHL_F2oYOQdr09D_cdO4lvFNRT0LMtrEnDtFLRbGxAvFmqrK3rKh8pZW=w143-h110"
+    },
+    "col_3": {
+      "text": "Passerby",
+      "links": [
+        {
+          "label": "Passerby",
+          "url": "https://oopbuy.com/product/2/7325698280?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "33$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0015"
+}

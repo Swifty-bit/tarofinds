@@ -1,0 +1,61 @@
+{
+  "name": "Burberry Cap",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "ogwave",
+  "best_batch_links": [
+    {
+      "label": "ogwave",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7435192170%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7435192170?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "19$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://ogwave.x.yupoo.com/albums/176446436?uid=1&isSubCate=false&referrercate=4687632"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUozbVYSQigOqEDK2QPK3IBorMfXM-SQqcziEj9DoVuUyuhQ-CZZDTFZXjicdV7EiAnpII3bKI9B84MF3R78e62gfbr7QTUEzXUj1EmWJW_-obTSPiXlJ7pJnIOc0xwPSsta6CxFDw7w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1015"
+    },
+    "col_1": {
+      "text": "Burberry Cap"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUozbVYSQigOqEDK2QPK3IBorMfXM-SQqcziEj9DoVuUyuhQ-CZZDTFZXjicdV7EiAnpII3bKI9B84MF3R78e62gfbr7QTUEzXUj1EmWJW_-obTSPiXlJ7pJnIOc0xwPSsta6CxFDw7w=w143-h110"
+    },
+    "col_3": {
+      "text": "ogwave",
+      "links": [
+        {
+          "label": "ogwave",
+          "url": "https://www.oopbuy.com/product/weidian/7435192170?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "19$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://ogwave.x.yupoo.com/albums/176446436?uid=1&isSubCate=false&referrercate=4687632"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1408"
+}

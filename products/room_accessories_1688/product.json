@@ -1,0 +1,61 @@
+{
+  "name": "LEGOShopping Bag",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "RETAIL",
+  "best_batch_links": [
+    {
+      "label": "RETAIL",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F657285632654%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/657285632654?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "1$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1956884662917357570?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxC1tMPnSteslMjLLTNftOvL9xFJAZ1vfBKt2Ps0zvhdjlRXiYf7J-0L7JDCeL0CqTzB_GL2dfxN2BHwampXgsqrVtxwWaK-YMe3f0QkDaAzUP3xRsYMxouVFXUNfLjqMNBAESB1_r5Q3yO=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "54"
+    },
+    "col_1": {
+      "text": "LEGOShopping Bag"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxC1tMPnSteslMjLLTNftOvL9xFJAZ1vfBKt2Ps0zvhdjlRXiYf7J-0L7JDCeL0CqTzB_GL2dfxN2BHwampXgsqrVtxwWaK-YMe3f0QkDaAzUP3xRsYMxouVFXUNfLjqMNBAESB1_r5Q3yO=w143-h110"
+    },
+    "col_3": {
+      "text": "RETAIL",
+      "links": [
+        {
+          "label": "RETAIL",
+          "url": "https://oopbuy.com/product/1/657285632654?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "1$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1956884662917357570?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1688"
+}

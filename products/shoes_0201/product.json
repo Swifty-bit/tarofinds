@@ -1,0 +1,47 @@
+{
+  "name": "SP J Balvin Rio",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OG",
+  "best_batch_links": [
+    {
+      "label": "OG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "66$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwfKOdnUqMywMujXhFv8U7q744KE3QiMMqO-0LWzfcV9E0-bmo_ifi9lhx8hA-2KhAj3c1LqllA8Xq8csrnjVoXo7Kxx79FFVyrmwZgWDw8gLF48YlfePqVRLgnfc2VNsF-eOFzN0GSpoSg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "214"
+    },
+    "col_1": {
+      "text": "SP J Balvin Rio"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwfKOdnUqMywMujXhFv8U7q744KE3QiMMqO-0LWzfcV9E0-bmo_ifi9lhx8hA-2KhAj3c1LqllA8Xq8csrnjVoXo7Kxx79FFVyrmwZgWDw8gLF48YlfePqVRLgnfc2VNsF-eOFzN0GSpoSg=w143-h110"
+    },
+    "col_3": {
+      "text": "OG",
+      "links": [
+        {
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "66$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0201"
+}

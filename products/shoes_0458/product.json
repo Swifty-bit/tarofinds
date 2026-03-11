@@ -1,0 +1,74 @@
+{
+  "name": "MA-1",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Alison/ZZZTOPXX",
+  "best_batch_links": [
+    {
+      "label": "Alison",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F738818524838%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/738818524838?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "ZZZTOPXX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6274457628%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6274457628?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F808191692139%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/808191692139?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "87$",
+  "budget_price": "53$",
+  "pics_text": "53$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AytXrCOQO2wZnQi1ABLjTGx1hYodojaInZw45568MUwFQDiDB3s553T6806jk87tF54NEDl0FQRCbtrvLJxQt-4yUuW4ZQ8oykImjFjkyGmdwQB4ZlkMUmrAkilKZ-oncW6rSAOPjbdq1v_=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "521"
+    },
+    "col_1": {
+      "text": "MA-1"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AytXrCOQO2wZnQi1ABLjTGx1hYodojaInZw45568MUwFQDiDB3s553T6806jk87tF54NEDl0FQRCbtrvLJxQt-4yUuW4ZQ8oykImjFjkyGmdwQB4ZlkMUmrAkilKZ-oncW6rSAOPjbdq1v_=w143-h110"
+    },
+    "col_3": {
+      "text": "Alison/ZZZTOPXX",
+      "links": [
+        {
+          "label": "Alison",
+          "url": "https://oopbuy.com/product/1/738818524838?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/2/6274457628?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/808191692139?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "87$"
+    },
+    "col_6": {
+      "text": "53$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0458"
+}

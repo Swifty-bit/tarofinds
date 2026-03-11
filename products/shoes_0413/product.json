@@ -1,0 +1,65 @@
+{
+  "name": "Dior B27",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Ice Cream",
+  "best_batch_links": [
+    {
+      "label": "Ice Cream",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7519418083%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7519418083?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "GD",
+  "budget_batch_links": [
+    {
+      "label": "GD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7475255237%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7475255237?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "91$",
+  "budget_price": "61$",
+  "pics_text": "61$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwL_InRA3ZGAYivIqzrysc7zDvPOpxDVZ08HFA8RihoHn2JonSD-070Od1xZDaizkxM9_Kxva8Iqt4Q8CV3SjZwYOotcnQh-VXnsruTdrptC_O6TfJVmFwbE-miUvdzXCcOlMJKPA3n8Pjk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "470"
+    },
+    "col_1": {
+      "text": "Dior B27"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwL_InRA3ZGAYivIqzrysc7zDvPOpxDVZ08HFA8RihoHn2JonSD-070Od1xZDaizkxM9_Kxva8Iqt4Q8CV3SjZwYOotcnQh-VXnsruTdrptC_O6TfJVmFwbE-miUvdzXCcOlMJKPA3n8Pjk=w143-h110"
+    },
+    "col_3": {
+      "text": "Ice Cream",
+      "links": [
+        {
+          "label": "Ice Cream",
+          "url": "https://oopbuy.com/product/weidian/7519418083?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "GD",
+      "links": [
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7475255237?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "91$"
+    },
+    "col_6": {
+      "text": "61$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0413"
+}

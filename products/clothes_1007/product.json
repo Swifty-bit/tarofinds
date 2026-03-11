@@ -1,0 +1,64 @@
+{
+  "name": "Saint AlexanderZipped Hoodie2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F862852791296%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "29$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "80% Cotton / 20% Cotton Blend",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2CvBrbe6h3Rjf52iBsenNJq1AXPeUa-zhDgm7Ii7EXeGBjcc3vrONyTrePizSDqYXVVkHnaGGppLiv6eS3yCen0-mNun-q04Jq0lPsZHAQPCO0Yz0zHa8Zw2Bp_Ip6usOWt9Uh-Bv1-Y4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "546"
+    },
+    "col_1": {
+      "text": "Saint AlexanderZipped Hoodie2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2CvBrbe6h3Rjf52iBsenNJq1AXPeUa-zhDgm7Ii7EXeGBjcc3vrONyTrePizSDqYXVVkHnaGGppLiv6eS3yCen0-mNun-q04Jq0lPsZHAQPCO0Yz0zHa8Zw2Bp_Ip6usOWt9Uh-Bv1-Y4=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "29$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "80% Cotton / 20% Cotton Blend"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1007"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Air Max DNx Supreme",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7256673865%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7256673865?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzQdkpu6vffcR07oZQRKEm1IwR6suiXRyjPB63tDfFzt87ccFMYQ1k970LT0AqPBgrG6maHdsmcJG0dHwTtEX1PPnw6Af4vOvZQVAEfhwayGyPKeBaC9OXf99qKTIATRZ5FKyKwpPd2-89K=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "37"
+    },
+    "col_1": {
+      "text": "Air Max DNx Supreme"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzQdkpu6vffcR07oZQRKEm1IwR6suiXRyjPB63tDfFzt87ccFMYQ1k970LT0AqPBgrG6maHdsmcJG0dHwTtEX1PPnw6Af4vOvZQVAEfhwayGyPKeBaC9OXf99qKTIATRZ5FKyKwpPd2-89K=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/7256673865?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "36$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0030"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Gucci Polo",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Thunder",
+  "best_batch_links": [
+    {
+      "label": "Thunder",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7423391054%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7423391054?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://thethunder.x.yupoo.com/albums/130752787?uid=1&isSubCate=false&referrercate=3972376"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCkS8j1eDHHmroFSF5X804yyx77UbsY57BflYH0k9qW_r2DtyH-04oZ-aERyUgkZENF0TkVpvqGmw8Vkgxec7d720jAJFGYxag9YmLlaqPmCc2WHuZ39Vp2ZzguCNCO-RC6kCDkVDxv76N=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1024"
+    },
+    "col_1": {
+      "text": "Gucci Polo"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCkS8j1eDHHmroFSF5X804yyx77UbsY57BflYH0k9qW_r2DtyH-04oZ-aERyUgkZENF0TkVpvqGmw8Vkgxec7d720jAJFGYxag9YmLlaqPmCc2WHuZ39Vp2ZzguCNCO-RC6kCDkVDxv76N=w143-h110"
+    },
+    "col_3": {
+      "text": "Thunder",
+      "links": [
+        {
+          "label": "Thunder",
+          "url": "https://www.oopbuy.com/product/weidian/7423391054?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "36$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://thethunder.x.yupoo.com/albums/130752787?uid=1&isSubCate=false&referrercate=3972376"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1415"
+}

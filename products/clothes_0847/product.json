@@ -1,0 +1,64 @@
+{
+  "name": "YSL T-Shirts4 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F882950026983%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/882950026983?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://plug4.me/item/882950026983?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+    }
+  ],
+  "notes": "size up 2",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwafXUCmsgbrOYjTAlm47i9q6Dj8OmxFBm8LZhakpftKjL1zV32FPdvv7zhyV6CY2ITVevVNeABbJAdr2KPWvex6eCftEV0R-nUrgnOQQ7qLvZBQyqpPVhyKKL8P-sKo2H1dMugBSZpQg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "352"
+    },
+    "col_1": {
+      "text": "YSL T-Shirts4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwafXUCmsgbrOYjTAlm47i9q6Dj8OmxFBm8LZhakpftKjL1zV32FPdvv7zhyV6CY2ITVevVNeABbJAdr2KPWvex6eCftEV0R-nUrgnOQQ7qLvZBQyqpPVhyKKL8P-sKo2H1dMugBSZpQg=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/882950026983?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://plug4.me/item/882950026983?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "size up 2"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0847"
+}

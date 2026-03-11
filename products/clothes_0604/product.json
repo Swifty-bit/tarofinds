@@ -1,0 +1,61 @@
+{
+  "name": "Ralph Lauren Oxford Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F559955571476%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/559955571476?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1892379317356302337?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az7k6PcFRLJfXWmxlTuuyixHKitNnYqCotTxosdrFTP6nmSNCf3NndTcDjjVbs4eBXEX4-xSVnniiqGH7AnuCgfHOa6VJRf6GROVDxLsw3DXTvQ2T91JauJmitS3Uqan6un5bBehrBy0usP=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "75"
+    },
+    "col_1": {
+      "text": "Ralph Lauren Oxford Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az7k6PcFRLJfXWmxlTuuyixHKitNnYqCotTxosdrFTP6nmSNCf3NndTcDjjVbs4eBXEX4-xSVnniiqGH7AnuCgfHOa6VJRf6GROVDxLsw3DXTvQ2T91JauJmitS3Uqan6un5bBehrBy0usP=w143-h110"
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/559955571476?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1892379317356302337?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0604"
+}

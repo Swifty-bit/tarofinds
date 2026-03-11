@@ -1,0 +1,61 @@
+{
+  "name": "Gallery DeptHoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F830333117626%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/830333117626?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1927082322807537665?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLiSl-3sEL4O3ZhBa0pOEvYrsh4Kdzyhg1-bawKSmPc_QcfB4dEZZTr2dgDkIwr-heURf4O6ZQQZHTIa7ZgtOg9DGOjdOKAM5_d-jBKd5coDoWbe6TwNZPKR8rcedLsJIrsZbbHNQoNw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "198"
+    },
+    "col_1": {
+      "text": "Gallery DeptHoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLiSl-3sEL4O3ZhBa0pOEvYrsh4Kdzyhg1-bawKSmPc_QcfB4dEZZTr2dgDkIwr-heURf4O6ZQQZHTIa7ZgtOg9DGOjdOKAM5_d-jBKd5coDoWbe6TwNZPKR8rcedLsJIrsZbbHNQoNw=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/830333117626?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "36$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1927082322807537665?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0715"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Hot Step 2Drake NOCTA25 Colors",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Baymax/GX",
+  "best_batch_links": [
+    {
+      "label": "Baymax",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7432457500%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7432457500?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7637063490%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7637063490?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "35$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFfaSjbvF6m9XyoRR2nqv-0VEkWdfAsF49p1mAfJ35May3gbkxTrykHsDJ6e2jhDuga9qkYQ_vPKheRjaX1BQbaUH_nt7yA_N_TdY1qPl4jJZeoAlPTMpANPlfcn8X47kvR54Av_hv_XVn=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "57"
+    },
+    "col_1": {
+      "text": "Hot Step 2Drake NOCTA25 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFfaSjbvF6m9XyoRR2nqv-0VEkWdfAsF49p1mAfJ35May3gbkxTrykHsDJ6e2jhDuga9qkYQ_vPKheRjaX1BQbaUH_nt7yA_N_TdY1qPl4jJZeoAlPTMpANPlfcn8X47kvR54Av_hv_XVn=w143-h110"
+    },
+    "col_3": {
+      "text": "Baymax/GX",
+      "links": [
+        {
+          "label": "Baymax",
+          "url": "https://oopbuy.com/product/weidian/7432457500?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/weidian/7637063490?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "35$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0050"
+}

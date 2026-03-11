@@ -1,0 +1,69 @@
+{
+  "name": "RCW POLO",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "RepsKing",
+  "best_batch_links": [
+    {
+      "label": "RepsKing",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7467905689%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7467905689?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1936952583787220994?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/161740911?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxdgT9_Sz1HK-tbw-kv25Eu8CmlQGw247xKPtvqvoLsATiAEWTO08fGBCMpOkSAnf5Q7efO26UzW3RBfGhPaaiJfMeB7h-qfdmTlQLTAZgFwGKi1Hpf15xFuoPuG2nbZzigXcP5-Vgt9__O=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "281"
+    },
+    "col_1": {
+      "text": "RCW POLO"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxdgT9_Sz1HK-tbw-kv25Eu8CmlQGw247xKPtvqvoLsATiAEWTO08fGBCMpOkSAnf5Q7efO26UzW3RBfGhPaaiJfMeB7h-qfdmTlQLTAZgFwGKi1Hpf15xFuoPuG2nbZzigXcP5-Vgt9__O=w143-h110"
+    },
+    "col_3": {
+      "text": "RepsKing",
+      "links": [
+        {
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/weidian/7467905689?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "QC Pics/pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1936952583787220994?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/161740911?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0786"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Saint AlexanderPants2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F862852791296%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "27$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "80% Cotton / 20% Cotton Blend",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDmE6SbYSWzSPkYro4Xq4B7TGGA7vjjqPWgTRlGS3u2SzUSYSaMaiE_9kiE-RL2-ML5QO6-FBhGN0hKOppBQdNeun17-x450ZEZMHGSA1FdjUK3p3xslk4wY535erOIkFOoZ3lFZUXZQnk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "547"
+    },
+    "col_1": {
+      "text": "Saint AlexanderPants2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDmE6SbYSWzSPkYro4Xq4B7TGGA7vjjqPWgTRlGS3u2SzUSYSaMaiE_9kiE-RL2-ML5QO6-FBhGN0hKOppBQdNeun17-x450ZEZMHGSA1FdjUK3p3xslk4wY535erOIkFOoZ3lFZUXZQnk=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "27$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "80% Cotton / 20% Cotton Blend"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1008"
+}

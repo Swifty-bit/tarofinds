@@ -1,0 +1,61 @@
+{
+  "name": "Chrome HeartsNecklaceMany Styles",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/weidian/7262547042?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "50$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1955437741408907265?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjDLa4o18AgpGOvdOBGmAQFXo6SdHPAzKa6VFSRx-7wgjeeli1eLgewfUjvTO9xWCTBk0EOmcElyURswDaF8v2-2gMe-jlEStK-0r_N3At8iHsA501r2tGYbTUPpXlDzygfidMugGsW9Rw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "45"
+    },
+    "col_1": {
+      "text": "Chrome HeartsNecklaceMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjDLa4o18AgpGOvdOBGmAQFXo6SdHPAzKa6VFSRx-7wgjeeli1eLgewfUjvTO9xWCTBk0EOmcElyURswDaF8v2-2gMe-jlEStK-0r_N3At8iHsA501r2tGYbTUPpXlDzygfidMugGsW9Rw=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7262547042?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "50$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1955437741408907265?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1778"
+}

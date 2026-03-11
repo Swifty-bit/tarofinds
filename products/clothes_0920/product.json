@@ -1,0 +1,87 @@
+{
+  "name": "Palm AngelsTrack Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F962611323620%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/962611323620?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F747897258427%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/747897258427?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "43$",
+  "budget_price": "12$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=962611323620"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1920646166054223873?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZXZtgqIGBE9KEMvajsbFvni2REEzGckONS6y-AGC09w09HmpNp93iaRinGdTBP75u_uTpPVqD5lJI-YXNmOTQ_F7_Gm52LELAFQ4i7LwNlHN_lf8OhttF9EfH49bOMm9ccJoPyGv0Lk1y=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "445"
+    },
+    "col_1": {
+      "text": "Palm AngelsTrack Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZXZtgqIGBE9KEMvajsbFvni2REEzGckONS6y-AGC09w09HmpNp93iaRinGdTBP75u_uTpPVqD5lJI-YXNmOTQ_F7_Gm52LELAFQ4i7LwNlHN_lf8OhttF9EfH49bOMm9ccJoPyGv0Lk1y=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/962611323620?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/747897258427?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "43$"
+    },
+    "col_6": {
+      "text": "12$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=962611323620"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1920646166054223873?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0920"
+}

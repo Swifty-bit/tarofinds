@@ -1,0 +1,65 @@
+{
+  "name": "Obsidian",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239381635%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "71$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az80Yn-1ExyVsvAtwJaM54xT4Ze0q29S3sJaxB4bIuEu_j3FY5AkA-f_T_btS5khDgxRsHW5_q0yvq2ffLM4e5vuRlH8daTUrCz2moeoq0kCqZX5O7-o9EYCuW76numQoqC0rX-fuyksi81=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "171"
+    },
+    "col_1": {
+      "text": "Obsidian"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az80Yn-1ExyVsvAtwJaM54xT4Ze0q29S3sJaxB4bIuEu_j3FY5AkA-f_T_btS5khDgxRsHW5_q0yvq2ffLM4e5vuRlH8daTUrCz2moeoq0kCqZX5O7-o9EYCuW76numQoqC0rX-fuyksi81=w143-h100"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "71$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0160"
+}

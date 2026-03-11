@@ -1,0 +1,49 @@
+{
+  "name": "The Simpsons House",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "55$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1956159893219135490?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw-r8e09nqjKVG1Lkg6f-AN5MbqF9a4Z5U9O1s1zwwU2fa_Rq85F4aq9N-LaRW9vZ44XbXVDCSF6KdZK6x9eGZ_StTZAdZN2p2QFlAlIIjhGNeIxmqus8bf36_C0aLdY4NX499sLHTKOJ1d=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "27"
+    },
+    "col_1": {
+      "text": "The Simpsons House"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw-r8e09nqjKVG1Lkg6f-AN5MbqF9a4Z5U9O1s1zwwU2fa_Rq85F4aq9N-LaRW9vZ44XbXVDCSF6KdZK6x9eGZ_StTZAdZN2p2QFlAlIIjhGNeIxmqus8bf36_C0aLdY4NX499sLHTKOJ1d=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "55$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1956159893219135490?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1812"
+}

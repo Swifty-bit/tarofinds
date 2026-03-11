@@ -1,0 +1,61 @@
+{
+  "name": "Gallery DeptLA RIOTT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F766205658585%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/766205658585?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1895958248338042882?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxM5qKo1qJKiEnqiWaj4gfNY-9I2FLyg8AvsJm5CRUspCB5LGcHXk8GI_MH0Uw9dLa9fqRo9CfzjnUJLlpZG2yiMy6Ubl18-JFPxU1PFO6X9t5aXClcbKd6G4Q_X3kT=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "189"
+    },
+    "col_1": {
+      "text": "Gallery DeptLA RIOTT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxM5qKo1qJKiEnqiWaj4gfNY-9I2FLyg8AvsJm5CRUspCB5LGcHXk8GI_MH0Uw9dLa9fqRo9CfzjnUJLlpZG2yiMy6Ubl18-JFPxU1PFO6X9t5aXClcbKd6G4Q_X3kT=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/766205658585?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1895958248338042882?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0706"
+}

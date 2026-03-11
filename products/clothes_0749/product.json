@@ -1,0 +1,87 @@
+{
+  "name": "Essentials x NBAFW24 Sweatpants2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F895645495875%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/895645495875?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Yishan",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F992331612718%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/992331612718?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "21$",
+  "pics_text": "singor/yishan",
+  "pics_links": [
+    {
+      "label": "singor",
+      "url": "https://steven-1989.x.yupoo.com/albums/187677370?uid=1&isSubCate=false&referrercate=3018541"
+    },
+    {
+      "label": "yishan",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2008065427547181058?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwAEvB17lMMOZUZjZ0yO0QFFhfVajvqHUwmnCKujNDQVyKzbJLp7LCVok9JgZGmtk70SsH9BMp75WD2p728Sp7A0hv6-8b1JR2vLJG-uOanaPCZuU8oR_o54On5iJ5uyRXWubW5g5UscO07=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "236"
+    },
+    "col_1": {
+      "text": "Essentials x NBAFW24 Sweatpants2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwAEvB17lMMOZUZjZ0yO0QFFhfVajvqHUwmnCKujNDQVyKzbJLp7LCVok9JgZGmtk70SsH9BMp75WD2p728Sp7A0hv6-8b1JR2vLJG-uOanaPCZuU8oR_o54On5iJ5uyRXWubW5g5UscO07=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/895645495875?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/992331612718?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "21$"
+    },
+    "col_7": {
+      "text": "singor/yishan",
+      "links": [
+        {
+          "label": "singor",
+          "url": "https://steven-1989.x.yupoo.com/albums/187677370?uid=1&isSubCate=false&referrercate=3018541"
+        },
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2008065427547181058?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0749"
+}

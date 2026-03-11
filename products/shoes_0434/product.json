@@ -1,0 +1,47 @@
+{
+  "name": "Arena",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F538558645207%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/538558645207?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "40$",
+  "pics_text": "40$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVQrSPcwLeWLtMRo0_JYryAWBf6kvmbib50C5_ZB2FgyHWuwVb0nSOTHmjgoZnFVmDeG4M73WBnR9ulUATF1ase_SFQRb8_Oh9EZjuOaenDVfCedjEK122vp0JhABEOF4IxRH5jADPOYGv=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "493"
+    },
+    "col_1": {
+      "text": "Arena"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVQrSPcwLeWLtMRo0_JYryAWBf6kvmbib50C5_ZB2FgyHWuwVb0nSOTHmjgoZnFVmDeG4M73WBnR9ulUATF1ase_SFQRb8_Oh9EZjuOaenDVfCedjEK122vp0JhABEOF4IxRH5jADPOYGv=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/1/538558645207?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "40$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0434"
+}

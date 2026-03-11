@@ -1,0 +1,61 @@
+{
+  "name": "Gucci Bracelet",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/2/7266547265?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "50$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJ0PnHo_Pj4Xia-ah_PTMC4mysFpQL-v0UUGEYc7g1tMOsQrMVl_B4LWRoKhtBm6zxW3vzpbX4Gp6TGyrnoTNd78jY2PKIMmVgVmt2Lstl6ZZsY-nSIqbJErdRMWNu-Bb7XQ7FXp83Lirs=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "52"
+    },
+    "col_1": {
+      "text": "Gucci Bracelet"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJ0PnHo_Pj4Xia-ah_PTMC4mysFpQL-v0UUGEYc7g1tMOsQrMVl_B4LWRoKhtBm6zxW3vzpbX4Gp6TGyrnoTNd78jY2PKIMmVgVmt2Lstl6ZZsY-nSIqbJErdRMWNu-Bb7XQ7FXp83Lirs=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/7266547265?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "50$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1785"
+}

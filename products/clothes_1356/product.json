@@ -1,0 +1,61 @@
+{
+  "name": "Chrome Hearts Zipped Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
+    {
+      "label": "tophotfashion",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7505434519%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7505434519?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "45$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/170539465?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwsJZhr6bA2nXnEHb2A080nB28bfaPjSBmFBl3DtZ5gvWhs2zDOluTx93CnnEYU7jzFKoP1drUYJPMUmylUXgrZAKi6hRS1j5uunBxLs5JzOvAXjmNjPaNBNpK3HpfdJJVQ95MC5lRzcm54=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "955"
+    },
+    "col_1": {
+      "text": "Chrome Hearts Zipped Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwsJZhr6bA2nXnEHb2A080nB28bfaPjSBmFBl3DtZ5gvWhs2zDOluTx93CnnEYU7jzFKoP1drUYJPMUmylUXgrZAKi6hRS1j5uunBxLs5JzOvAXjmNjPaNBNpK3HpfdJJVQ95MC5lRzcm54=w143-h110"
+    },
+    "col_3": {
+      "text": "tophotfashion",
+      "links": [
+        {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/weidian/7505434519?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "45$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/170539465?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1356"
+}

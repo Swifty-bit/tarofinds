@@ -1,0 +1,65 @@
+{
+  "name": "Maison MargielaGATSPaint Splatter",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "BL",
+  "best_batch_links": [
+    {
+      "label": "BL",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4689600987%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F705562729612%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "54$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyDq5oxC9lQS2gG5uRv-nY7yOyP6BTZJN_VhuMt4nwHJIx3YHb7iV1zf37so_zNG20rl1d-m28OghOE35VLNNr8-7uhwTfjK-7S-FM_lLiej-q3uIJe9zRag9x35ipgm7lj2qZ_ZzLJkZov=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "560"
+    },
+    "col_1": {
+      "text": "Maison MargielaGATSPaint Splatter"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyDq5oxC9lQS2gG5uRv-nY7yOyP6BTZJN_VhuMt4nwHJIx3YHb7iV1zf37so_zNG20rl1d-m28OghOE35VLNNr8-7uhwTfjK-7S-FM_lLiej-q3uIJe9zRag9x35ipgm7lj2qZ_ZzLJkZov=w143-h110"
+    },
+    "col_3": {
+      "text": "BL",
+      "links": [
+        {
+          "label": "BL",
+          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "54$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0485"
+}

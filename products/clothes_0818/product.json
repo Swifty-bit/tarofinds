@@ -1,0 +1,69 @@
+{
+  "name": "Baseball Cap",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "RepsKing",
+  "best_batch_links": [
+    {
+      "label": "RepsKing",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7476195546%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7476195546?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938918016344518658?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/163420511?uid=1&isSubCate=false&referrercate=4544589"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwazUzTJtNUyPHubTd5fGQVjOEujzXTAmsPS2-WkHV8rMXJN8lV5IHWLmQNqj8hj7QlOV4Vm-yAGeTMI_fvkdLWZej1BACmeKXf3fyvmumDI1ymvGHGehyA6Xls6esb2iVZ1jN6xZayGh3D=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "313"
+    },
+    "col_1": {
+      "text": "Baseball Cap"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwazUzTJtNUyPHubTd5fGQVjOEujzXTAmsPS2-WkHV8rMXJN8lV5IHWLmQNqj8hj7QlOV4Vm-yAGeTMI_fvkdLWZej1BACmeKXf3fyvmumDI1ymvGHGehyA6Xls6esb2iVZ1jN6xZayGh3D=w143-h110"
+    },
+    "col_3": {
+      "text": "RepsKing",
+      "links": [
+        {
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/weidian/7476195546?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics/pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938918016344518658?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/163420511?uid=1&isSubCate=false&referrercate=4544589"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0818"
+}

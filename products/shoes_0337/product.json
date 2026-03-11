@@ -1,0 +1,95 @@
+{
+  "name": "Yeezy 350 v2Basic Colours",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LW/LW",
+  "best_batch_links": [
+    {
+      "label": "LW",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7246958566%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7246958566?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "LW",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245980503%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245980503?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "K5 1/K5 2/K5 3",
+  "budget_batch_links": [
+    {
+      "label": "K5 1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.cc%2F1mMsB2hz&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.cc/1mMsB2hz"
+    },
+    {
+      "label": "K5 2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.cc%2FUipCCtFm&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.cc/UipCCtFm"
+    },
+    {
+      "label": "K5 3",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.cc%2FaQKJIXPf&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.cc/aQKJIXPf"
+    }
+  ],
+  "best_price": "56$",
+  "budget_price": "28$",
+  "pics_text": "28$",
+  "pics_links": [],
+  "notes": "Size up 0.5 EU size",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBhokaNr2-0dJIoCbDcF2NpmQZ9karIdDYB-reQAKHmUGjRvGC_umtsAoU5aUptssdwlcr0KWKxCNHjmPuWM9egi4vtPOjNbkrtFd-FwqevuTKYO_m2MB-NuxZ5eNiA0227XQd8yhSdQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "368"
+    },
+    "col_1": {
+      "text": "Yeezy 350 v2Basic Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBhokaNr2-0dJIoCbDcF2NpmQZ9karIdDYB-reQAKHmUGjRvGC_umtsAoU5aUptssdwlcr0KWKxCNHjmPuWM9egi4vtPOjNbkrtFd-FwqevuTKYO_m2MB-NuxZ5eNiA0227XQd8yhSdQ=w143-h110"
+    },
+    "col_3": {
+      "text": "LW/LW",
+      "links": [
+        {
+          "label": "LW",
+          "url": "https://oopbuy.com/product/2/7246958566?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "LW",
+          "url": "https://oopbuy.com/product/2/7245980503?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "K5 1/K5 2/K5 3",
+      "links": [
+        {
+          "label": "K5 1",
+          "url": "https://oopbuy.cc/1mMsB2hz"
+        },
+        {
+          "label": "K5 2",
+          "url": "https://oopbuy.cc/UipCCtFm"
+        },
+        {
+          "label": "K5 3",
+          "url": "https://oopbuy.cc/aQKJIXPf"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "56$"
+    },
+    "col_6": {
+      "text": "28$"
+    },
+    "col_7": {
+      "text": "Size up 0.5 EU size"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0337"
+}

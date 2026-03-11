@@ -1,0 +1,61 @@
+{
+  "name": "Nike STRIKE SNOOD",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F654018261946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/654018261946?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1879264927997833218?action=discord&cid=-1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7Hg9lsiTuvYTEY821cEMdXXpYdIQAwm-9wVxgHSHZXedXwrCeYZ3Igvd6HgnbrKo0j3sqEp9vH1rFWPdABYMHH_0ZEB24yVOGZ-_ye70xHFdRIU9HLraPR_G5S5tex15UOfeCEb0Etw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "36"
+    },
+    "col_1": {
+      "text": "Nike STRIKE SNOOD"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7Hg9lsiTuvYTEY821cEMdXXpYdIQAwm-9wVxgHSHZXedXwrCeYZ3Igvd6HgnbrKo0j3sqEp9vH1rFWPdABYMHH_0ZEB24yVOGZ-_ye70xHFdRIU9HLraPR_G5S5tex15UOfeCEb0Etw=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/654018261946?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1879264927997833218?action=discord&cid=-1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0571"
+}

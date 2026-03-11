@@ -1,0 +1,56 @@
+{
+  "name": "TrainersBlue Denim",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PONE/Foshan",
+  "best_batch_links": [
+    {
+      "label": "PONE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7215295063%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7215295063?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Foshan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564004903%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "103$ / 75$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay8V9HZc2aguD4YEsPRoN3illfBz2468imy39L-xIxYGBSLwgUj24N5Zp-sOCfNlWEfF2Ixb4b0iCchyj4jO7AdqhqDWOpb0sUPqlP2GRQ1QrUkeFKpf3cUvGOPTti1iC5a7tjiXC3N7w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "503"
+    },
+    "col_1": {
+      "text": "TrainersBlue Denim"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay8V9HZc2aguD4YEsPRoN3illfBz2468imy39L-xIxYGBSLwgUj24N5Zp-sOCfNlWEfF2Ixb4b0iCchyj4jO7AdqhqDWOpb0sUPqlP2GRQ1QrUkeFKpf3cUvGOPTti1iC5a7tjiXC3N7w=w143-h110"
+    },
+    "col_3": {
+      "text": "PONE/Foshan",
+      "links": [
+        {
+          "label": "PONE",
+          "url": "https://oopbuy.com/product/weidian/7215295063?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Foshan",
+          "url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "103$ / 75$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0442"
+}

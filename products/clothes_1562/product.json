@@ -1,0 +1,61 @@
+{
+  "name": "CarharttJ130 Cotton Jacket15 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "LambClub",
+  "best_batch_links": [
+    {
+      "label": "LambClub",
+      "url": "https://www.oopbuy.com/product/0/743062544600?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "40$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2020743682200784898?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AymhUFpKN0qX43FuHfbdcRfSCCgR2KNsfXMhbVIznFZCD1QG1BzNpKFXt2nNAKy1bl8qjLMCkZ0BiJeKQwHlq3lAfoJBBs3KsBAte8AO2n_9r3F_gbDm6g0zRjf5zpRZ0YnTl9Unu_K6wZz=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1041"
+    },
+    "col_1": {
+      "text": "CarharttJ130 Cotton Jacket15 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AymhUFpKN0qX43FuHfbdcRfSCCgR2KNsfXMhbVIznFZCD1QG1BzNpKFXt2nNAKy1bl8qjLMCkZ0BiJeKQwHlq3lAfoJBBs3KsBAte8AO2n_9r3F_gbDm6g0zRjf5zpRZ0YnTl9Unu_K6wZz=w143-h110"
+    },
+    "col_3": {
+      "text": "LambClub",
+      "links": [
+        {
+          "label": "LambClub",
+          "url": "https://www.oopbuy.com/product/0/743062544600?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "40$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2020743682200784898?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1562"
+}

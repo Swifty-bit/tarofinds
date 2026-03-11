@@ -1,0 +1,87 @@
+{
+  "name": "DD ShellPadded Quilted Ripstop Hooded Down Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7617224826%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7617224826?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F943310395493%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/943310395493?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "112$",
+  "budget_price": "24$",
+  "pics_text": "cprepscn/budget",
+  "pics_links": [
+    {
+      "label": "cprepscn",
+      "url": "https://cprepscn.x.yupoo.com/albums/179318396?uid=1&isSubCate=false&referrercate=4543871"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1984447222890176513?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwmtWUjsxiE8p-hrLBIId8iZzr9ctoNksIWf0Bri3CQH5cm3-CHnpAFYwnm8hqGwal-CCpO5P2t4ZkKDiIqVQLsogRqiO7J4kTSKvHqKgBTxE9xDm-udrGZUrAWAOl8W6vo03-_vg0g6A=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "265"
+    },
+    "col_1": {
+      "text": "DD ShellPadded Quilted Ripstop Hooded Down Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwmtWUjsxiE8p-hrLBIId8iZzr9ctoNksIWf0Bri3CQH5cm3-CHnpAFYwnm8hqGwal-CCpO5P2t4ZkKDiIqVQLsogRqiO7J4kTSKvHqKgBTxE9xDm-udrGZUrAWAOl8W6vo03-_vg0g6A=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/weidian/7617224826?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/943310395493?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "112$"
+    },
+    "col_6": {
+      "text": "24$"
+    },
+    "col_7": {
+      "text": "cprepscn/budget",
+      "links": [
+        {
+          "label": "cprepscn",
+          "url": "https://cprepscn.x.yupoo.com/albums/179318396?uid=1&isSubCate=false&referrercate=4543871"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1984447222890176513?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0774"
+}

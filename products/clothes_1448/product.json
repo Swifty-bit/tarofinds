@@ -1,0 +1,61 @@
+{
+  "name": "PHARRELL Hooded Bomber Down JacketMany Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOTA",
+  "best_batch_links": [
+    {
+      "label": "GOTA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7541463846%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7541463846?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "105$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2009510847599169538?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw_K2gk4n8M2k3UBNHwXxip-IvIL71WlRWr0NUwE5K4i8BipJOZo_LC4YLXaeUCpxPmA_yru4XtBz5iyKYaKoKQ6g1IAEgxoGKmEwMtAoy0BuG17a58BrC8nZhtUAsnUpWAylxhpXYv4w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1065"
+    },
+    "col_1": {
+      "text": "PHARRELL Hooded Bomber Down JacketMany Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw_K2gk4n8M2k3UBNHwXxip-IvIL71WlRWr0NUwE5K4i8BipJOZo_LC4YLXaeUCpxPmA_yru4XtBz5iyKYaKoKQ6g1IAEgxoGKmEwMtAoy0BuG17a58BrC8nZhtUAsnUpWAylxhpXYv4w=w143-h110"
+    },
+    "col_3": {
+      "text": "GOTA",
+      "links": [
+        {
+          "label": "GOTA",
+          "url": "https://oopbuy.com/product/weidian/7541463846?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "105$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2009510847599169538?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1448"
+}

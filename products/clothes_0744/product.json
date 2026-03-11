@@ -1,0 +1,104 @@
+{
+  "name": "Essentials1977 Pants3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F985914673288%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Yishan/FFOG",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F736216469350%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/736216469350?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680297579107%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/680297579107?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "27$",
+  "budget_price": "15$",
+  "pics_text": "firerep/yishan/FFOG",
+  "pics_links": [
+    {
+      "label": "firerep",
+      "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+    },
+    {
+      "label": "yishan",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2010204526949257217?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1993159219148853249?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZlLTrTwC1o5om_3CMNxNVFBdl5-qaTq92KuURY2Bhi4k8FS_0ckw6bH5tjzSoi4MSnyqGc-N3Y8w_BHi2CRZ1zE7hh715GAlKgYJAbWAKXP8Fr4iw3_gDc9b4lB-xfzP3lT7nrIqkkwyS=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "230"
+    },
+    "col_1": {
+      "text": "Essentials1977 Pants3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZlLTrTwC1o5om_3CMNxNVFBdl5-qaTq92KuURY2Bhi4k8FS_0ckw6bH5tjzSoi4MSnyqGc-N3Y8w_BHi2CRZ1zE7hh715GAlKgYJAbWAKXP8Fr4iw3_gDc9b4lB-xfzP3lT7nrIqkkwyS=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan/FFOG",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/736216469350?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://oopbuy.com/product/1/680297579107?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "27$"
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "firerep/yishan/FFOG",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+        },
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2010204526949257217?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1993159219148853249?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0744"
+}

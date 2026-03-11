@@ -1,0 +1,61 @@
+{
+  "name": "Burberry Scarf",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F2937140948%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/2937140948?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "11$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/2937140948"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxxjEvWgRQa0sARTe9ixj5-YL4Br2iObT433eRgFEBG4ZBivF9TLi13F9uRF1VA6wW4Lh-LJbsicpR7hwO8JoZ_DwOy0Gg075k7Nt5unu8S87ramQxoGfIlEo8I2J8lliMxHGiXX-EjKKV9=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1012"
+    },
+    "col_1": {
+      "text": "Burberry Scarf"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxxjEvWgRQa0sARTe9ixj5-YL4Br2iObT433eRgFEBG4ZBivF9TLi13F9uRF1VA6wW4Lh-LJbsicpR7hwO8JoZ_DwOy0Gg075k7Nt5unu8S87ramQxoGfIlEo8I2J8lliMxHGiXX-EjKKV9=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/2937140948?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "11$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/2937140948"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1405"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Toro BRAVO",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239331101%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239331101?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "71$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8zM39Qw4Nw0jB8XEwyZ6ePIWmryRehjzgdlbDQazjtO7grJ9Vblj1zBBsufxBc-GQ0M1Fb6huhFXY_W0VSZZsKS2rmBRlaoN7x7zm8ydomTigpOmFZUsFSfvVYQ_7A0x8GtSnwmu1wQmu=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "326"
+    },
+    "col_1": {
+      "text": "Toro BRAVO"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8zM39Qw4Nw0jB8XEwyZ6ePIWmryRehjzgdlbDQazjtO7grJ9Vblj1zBBsufxBc-GQ0M1Fb6huhFXY_W0VSZZsKS2rmBRlaoN7x7zm8ydomTigpOmFZUsFSfvVYQ_7A0x8GtSnwmu1wQmu=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7239331101?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "71$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0307"
+}

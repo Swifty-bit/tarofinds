@@ -1,0 +1,61 @@
+{
+  "name": "Moncler Beanie4 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F831380251166%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/831380251166?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://plug4.me/item/831380251166?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrCUvOKz-zGPsEqtyceRSCRtex1y10zns14nHXWwlOwdI_z9wJH4DaPvJ1Mi_8HrCyy6OQZkjw-Ujjwjk_WeqtJFNzBDaFkSM9AvX-ndTx20yIjfgI1-Dz2NQXTSN0VY5sY3ptAzGF31FQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "310"
+    },
+    "col_1": {
+      "text": "Moncler Beanie4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrCUvOKz-zGPsEqtyceRSCRtex1y10zns14nHXWwlOwdI_z9wJH4DaPvJ1Mi_8HrCyy6OQZkjw-Ujjwjk_WeqtJFNzBDaFkSM9AvX-ndTx20yIjfgI1-Dz2NQXTSN0VY5sY3ptAzGF31FQ=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/831380251166?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://plug4.me/item/831380251166?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0815"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Louis Vuitton",
+  "category": "Glasses",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/weidian/7387465062?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "11$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967050682399285249?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxM4AjFtcR6w5rndd7hYN7DOxbo2d9bq4OL9NkQCxe6rjnA38MC1jGNp_UtjUME2Y7EuZ4WnJ2F1IyRlOBPhFxNxy8YqEFEMpbfZS7XvnTPHkoed8a5aMz8vhvm2fuMpRQXaugf0j2UDg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "13"
+    },
+    "col_1": {
+      "text": "Louis Vuitton"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxM4AjFtcR6w5rndd7hYN7DOxbo2d9bq4OL9NkQCxe6rjnA38MC1jGNp_UtjUME2Y7EuZ4WnJ2F1IyRlOBPhFxNxy8YqEFEMpbfZS7XvnTPHkoed8a5aMz8vhvm2fuMpRQXaugf0j2UDg=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7387465062?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "11$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967050682399285249?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "glasses_1895"
+}

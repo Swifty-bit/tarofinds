@@ -1,0 +1,47 @@
+{
+  "name": "Dior B31",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Alison",
+  "best_batch_links": [
+    {
+      "label": "Alison",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F746862597840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/746862597840?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "80$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrIBdF5mNlWI7Rtf5WTEYyKlqLIPfd7oV2VFQ7jen7sNHrqRgjj19d4vg69yD44I6s4xWlpPBwH5ybCth_b5Wbr0xoBJApbQN4377iqDamceyrca5CW60tv5e4eLBCKldH5wbBFxxklA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "473"
+    },
+    "col_1": {
+      "text": "Dior B31"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrIBdF5mNlWI7Rtf5WTEYyKlqLIPfd7oV2VFQ7jen7sNHrqRgjj19d4vg69yD44I6s4xWlpPBwH5ybCth_b5Wbr0xoBJApbQN4377iqDamceyrca5CW60tv5e4eLBCKldH5wbBFxxklA=w143-h110"
+    },
+    "col_3": {
+      "text": "Alison",
+      "links": [
+        {
+          "label": "Alison",
+          "url": "https://www.oopbuy.com/product/1/746862597840?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "80$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0416"
+}

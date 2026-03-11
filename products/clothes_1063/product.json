@@ -1,0 +1,61 @@
+{
+  "name": "Hellstar No Guts No Glory Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
+    {
+      "label": "PikaPikaGo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F823298978366%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/823298978366?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/171865743?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDcgWdp3vjDLpPOEm7yG23aH7lAzAD0ZByNtpveFZuoVlFmkXcytIwU4mv0TNFlPj1W5z3JhK3k4DdPN1uV5sY1tdscpy1uz8QFiqjfxFrm9XAzCialxybpbqlqyGGwy5U7W82Gd61TA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "612"
+    },
+    "col_1": {
+      "text": "Hellstar No Guts No Glory Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDcgWdp3vjDLpPOEm7yG23aH7lAzAD0ZByNtpveFZuoVlFmkXcytIwU4mv0TNFlPj1W5z3JhK3k4DdPN1uV5sY1tdscpy1uz8QFiqjfxFrm9XAzCialxybpbqlqyGGwy5U7W82Gd61TA=w143-h110"
+    },
+    "col_3": {
+      "text": "PikaPikaGo",
+      "links": [
+        {
+          "label": "PikaPikaGo",
+          "url": "https://www.oopbuy.com/product/1/823298978366?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "59$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/171865743?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1063"
+}

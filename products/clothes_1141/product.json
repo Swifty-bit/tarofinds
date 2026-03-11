@@ -1,0 +1,61 @@
+{
+  "name": "Acne StudiosSweatshirt Oversize6 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Topacney",
+  "best_batch_links": [
+    {
+      "label": "Topacney",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F984080146521%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/984080146521?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "35$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://topacney.x.yupoo.com/albums/70959228?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzsHAK_y8kQ0UOkjhWZ9zRiG7gNWu7YpXvQwR2_TrkJHo77k1i-2GnIGFi5z_j0IeSEn7RDVhvEvpGytMVcBhUE7ZyVPYfd-zK5aB80LunOwK_T01K0nvu7fVpMlt-l5SZItZHrUHmKgQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "704"
+    },
+    "col_1": {
+      "text": "Acne StudiosSweatshirt Oversize6 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzsHAK_y8kQ0UOkjhWZ9zRiG7gNWu7YpXvQwR2_TrkJHo77k1i-2GnIGFi5z_j0IeSEn7RDVhvEvpGytMVcBhUE7ZyVPYfd-zK5aB80LunOwK_T01K0nvu7fVpMlt-l5SZItZHrUHmKgQ=w143-h110"
+    },
+    "col_3": {
+      "text": "Topacney",
+      "links": [
+        {
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/984080146521?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "35$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://topacney.x.yupoo.com/albums/70959228?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1141"
+}

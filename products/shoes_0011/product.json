@@ -1,0 +1,47 @@
+{
+  "name": "Air Force One Travis Scott Sail",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OWF",
+  "best_batch_links": [
+    {
+      "label": "OWF",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7244572724%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7244572724?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "58$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwxBnKdUoAjNthSWMIFBDZsvSZlTa7tEC6Ud9MHhRik1aAjFpQc5HZdcvzOALd6ABMFIly1Iw9PMZ6JuKidTe13ayk6eezP0QoCKXOuPEkVfJCXBPG1D8FB0t77U2sRMFucb8Z4_5fwi6L7=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "18"
+    },
+    "col_1": {
+      "text": "Air Force One Travis Scott Sail"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwxBnKdUoAjNthSWMIFBDZsvSZlTa7tEC6Ud9MHhRik1aAjFpQc5HZdcvzOALd6ABMFIly1Iw9PMZ6JuKidTe13ayk6eezP0QoCKXOuPEkVfJCXBPG1D8FB0t77U2sRMFucb8Z4_5fwi6L7=w143-h110"
+    },
+    "col_3": {
+      "text": "OWF",
+      "links": [
+        {
+          "label": "OWF",
+          "url": "https://oopbuy.com/product/2/7244572724?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "58$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0011"
+}

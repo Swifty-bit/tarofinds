@@ -1,0 +1,61 @@
+{
+  "name": "Kroen Embroidered Basic ShortsDark Gray",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653866491%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653866491?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/204915943?uid=1&isSubCate=false&referrercate=4943474"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZJILmcXm36WTSQVPqSWklxryGi9WVFeGV9i_XmuZ3rNbhpm9hS4T4I5BGD2IlwDbvSE6lOQdtjLoZy_6_-NKO-Ex6T_zmyOfhPFG6gY22lPpvYNXrUdZl8LQ6w6O97Bv9LqLl6T1tzlc2=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "655"
+    },
+    "col_1": {
+      "text": "Kroen Embroidered Basic ShortsDark Gray"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZJILmcXm36WTSQVPqSWklxryGi9WVFeGV9i_XmuZ3rNbhpm9hS4T4I5BGD2IlwDbvSE6lOQdtjLoZy_6_-NKO-Ex6T_zmyOfhPFG6gY22lPpvYNXrUdZl8LQ6w6O97Bv9LqLl6T1tzlc2=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653866491?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/204915943?uid=1&isSubCate=false&referrercate=4943474"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1102"
+}

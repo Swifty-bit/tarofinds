@@ -1,0 +1,49 @@
+{
+  "name": "GYMSHARKLong Sleeves20 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "25$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938576650759356417?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzCgCUbEEmPuhvS73mFpxAkszXi6PlEcsW4QAlIqVvYBj_jTihv5gfPbP-kINAWLPek4CFJP_8VAZWI4iO_7JQE9Mv-GFkSb7OdCg188D5pawGJrqG9miKnARXtP5F1Z8sIhl8qnjRbD4CN=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "14"
+    },
+    "col_1": {
+      "text": "GYMSHARKLong Sleeves20 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzCgCUbEEmPuhvS73mFpxAkszXi6PlEcsW4QAlIqVvYBj_jTihv5gfPbP-kINAWLPek4CFJP_8VAZWI4iO_7JQE9Mv-GFkSb7OdCg188D5pawGJrqG9miKnARXtP5F1Z8sIhl8qnjRbD4CN=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "25$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938576650759356417?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1713"
+}

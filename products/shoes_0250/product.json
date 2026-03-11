@@ -1,0 +1,47 @@
+{
+  "name": "Black Kaws",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "83$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aza2jsTr6IyJG3eZAhpQJSaNphcDliAeHCQUOWzYNEKa1JBvMD3K8-rZDuAMR306-gs6yHQLSvO1Yk5TxjGSxRW7TKwN4e7ierUpv6aDVBckymyjnQ6YC4cHt1gODlOvbvUlYTPEvONCQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "265"
+    },
+    "col_1": {
+      "text": "Black Kaws"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aza2jsTr6IyJG3eZAhpQJSaNphcDliAeHCQUOWzYNEKa1JBvMD3K8-rZDuAMR306-gs6yHQLSvO1Yk5TxjGSxRW7TKwN4e7ierUpv6aDVBckymyjnQ6YC4cHt1gODlOvbvUlYTPEvONCQ=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "83$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0250"
+}

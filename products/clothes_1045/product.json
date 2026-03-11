@@ -1,0 +1,64 @@
+{
+  "name": "CDG HOMMET-Shirts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F974982910073%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/974982910073?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "20$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206697939?uid=1&isSubCate=false&referrercate=4980596"
+    }
+  ],
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7pPf3Lww_svv-fi5NJvshZb_p7wU5aQyRR4NvdFd-479AHe4nN8xMzM7vW-J9pF55qIE5cpPAU8c9IFY_t81jnBOr27YFiyuucoD7dCrLzo1pioIq5beAu7SAVtxhbRDT-LpLWTCkdAYU=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "592"
+    },
+    "col_1": {
+      "text": "CDG HOMMET-Shirts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7pPf3Lww_svv-fi5NJvshZb_p7wU5aQyRR4NvdFd-479AHe4nN8xMzM7vW-J9pF55qIE5cpPAU8c9IFY_t81jnBOr27YFiyuucoD7dCrLzo1pioIq5beAu7SAVtxhbRDT-LpLWTCkdAYU=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/974982910073?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "20$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206697939?uid=1&isSubCate=false&referrercate=4980596"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1045"
+}

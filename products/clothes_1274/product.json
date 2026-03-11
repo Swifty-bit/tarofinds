@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaPull Up Jeans",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F929721448972%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/929721448972?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "66$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/196798966?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxbQeltcFID9-5KDxAEZHoFeIiMzCryKFTLrXjZccZWcgjYzMZ4sxGMFtdjmhOgy7DMvH7woLmTxOC2DKTTh2y_5tbpVEtkWlRCg176XfrlIWcB2qoUMMdjz-1rVaClAladDmuBOBTnQw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "863"
+    },
+    "col_1": {
+      "text": "BalenciagaPull Up Jeans"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxbQeltcFID9-5KDxAEZHoFeIiMzCryKFTLrXjZccZWcgjYzMZ4sxGMFtdjmhOgy7DMvH7woLmTxOC2DKTTh2y_5tbpVEtkWlRCg176XfrlIWcB2qoUMMdjz-1rVaClAladDmuBOBTnQw=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/929721448972?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "66$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/196798966?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1274"
+}

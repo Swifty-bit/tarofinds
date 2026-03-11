@@ -1,0 +1,61 @@
+{
+  "name": "AkimboBlank GreyZipped Pants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7594262389%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7594262389?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "26$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://firerep.x.yupoo.com/albums/186533933?uid=1&isSubCate=false&referrercate=4666904"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTk_zEzFR7Fe2ohBG0-0xARfdUPlgcpE8zWKZT-pP-kWljP7EyUG4dyTTaUf3-Osu8R_dHcs95QKXbdHwljiAGRo4pRTJq5Upd_nyiXAE3Qy5ADhy6sTRlGdO0gRddP6MoH5iGUshOBw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "416"
+    },
+    "col_1": {
+      "text": "AkimboBlank GreyZipped Pants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTk_zEzFR7Fe2ohBG0-0xARfdUPlgcpE8zWKZT-pP-kWljP7EyUG4dyTTaUf3-Osu8R_dHcs95QKXbdHwljiAGRo4pRTJq5Upd_nyiXAE3Qy5ADhy6sTRlGdO0gRddP6MoH5iGUshOBw=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/weidian/7594262389?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "26$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://firerep.x.yupoo.com/albums/186533933?uid=1&isSubCate=false&referrercate=4666904"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0897"
+}

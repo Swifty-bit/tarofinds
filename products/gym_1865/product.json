@@ -1,0 +1,61 @@
+{
+  "name": "GYMSHARK T-Shirt11 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/1/611493947097?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1953783989050339331?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayzt6LtbiahEhvx1y3TaapPJGX84QRV5PEJUYtr_IqQfRwXhUCf_BBuIqukkdK5Kujo-1fvraRZqfPHNPsmh_hP1KynSounKUOaG-s22VSn8cmX3zd7tXj-hViuGrHLtYcmmgXSfvBOjQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "12"
+    },
+    "col_1": {
+      "text": "GYMSHARK T-Shirt11 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayzt6LtbiahEhvx1y3TaapPJGX84QRV5PEJUYtr_IqQfRwXhUCf_BBuIqukkdK5Kujo-1fvraRZqfPHNPsmh_hP1KynSounKUOaG-s22VSn8cmX3zd7tXj-hViuGrHLtYcmmgXSfvBOjQ=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/611493947097?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1953783989050339331?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1865"
+}

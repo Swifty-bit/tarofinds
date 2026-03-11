@@ -1,0 +1,47 @@
+{
+  "name": "15 Pro Max",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
+    {
+      "label": "ThebigY",
+      "url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "185$ / 247$",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTBPybGKu5aC8b0SHH39HKiuBkhnR06hkqvCcF68a0HIjWMYlDvpHU5FFMLBrCpcxET2mmHqRFDLHe-lVwV-841bJ-2gXU5dvzqnWlfLiXEZwmoLRvdUo1eUTO8tuu5Ar10JKvd16oFQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "18"
+    },
+    "col_1": {
+      "text": "15 Pro Max"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTBPybGKu5aC8b0SHH39HKiuBkhnR06hkqvCcF68a0HIjWMYlDvpHU5FFMLBrCpcxET2mmHqRFDLHe-lVwV-841bJ-2gXU5dvzqnWlfLiXEZwmoLRvdUo1eUTO8tuu5Ar10JKvd16oFQ=w143-h110"
+    },
+    "col_4": {
+      "text": "ThebigY",
+      "links": [
+        {
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "185$ / 247$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "electronics_1853"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Gel-113026 Colors",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Repsun",
+  "best_batch_links": [
+    {
+      "label": "Repsun",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7283398518%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7283398518?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "26$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azn7otU5kbmP5aKNyLN3pSB4Luj9rzqAl4L5UzNPzKv_cFH6WPfomCTkI-V-B6gUfYm0l4nCMN4Awf35TYgHJrktg2OWNORMSFOwCpiLo0YiTm3mSMs4ue0b5eZZKr80NiL922O4dIOjR_l=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "533"
+    },
+    "col_1": {
+      "text": "Gel-113026 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azn7otU5kbmP5aKNyLN3pSB4Luj9rzqAl4L5UzNPzKv_cFH6WPfomCTkI-V-B6gUfYm0l4nCMN4Awf35TYgHJrktg2OWNORMSFOwCpiLo0YiTm3mSMs4ue0b5eZZKr80NiL922O4dIOjR_l=w143-h110"
+    },
+    "col_3": {
+      "text": "Repsun",
+      "links": [
+        {
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/2/7283398518?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "26$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0468"
+}

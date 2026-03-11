@@ -1,0 +1,61 @@
+{
+  "name": "Ralph LaurenStriped T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F674028271083%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/674028271083?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "9$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1991806548215173121?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awbhysj_dAmJJsE4ulyD8nHng1ONp-kbrIJuTeB5hFivoRBFj_ABUY_nLgZgpeEmMVpkrb6VjY7Vn3PM57DrZvUy0SotEVRcEXwNBB1Cq3rfgMywMzijBddaIhZBdJdv1bEqgl8m8iDwz4s=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "70"
+    },
+    "col_1": {
+      "text": "Ralph LaurenStriped T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awbhysj_dAmJJsE4ulyD8nHng1ONp-kbrIJuTeB5hFivoRBFj_ABUY_nLgZgpeEmMVpkrb6VjY7Vn3PM57DrZvUy0SotEVRcEXwNBB1Cq3rfgMywMzijBddaIhZBdJdv1bEqgl8m8iDwz4s=w143-h110"
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/674028271083?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "9$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1991806548215173121?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0599"
+}

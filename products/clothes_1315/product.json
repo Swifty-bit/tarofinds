@@ -1,0 +1,87 @@
+{
+  "name": "Bape Shark Head Camouflage Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Lufilo",
+  "best_batch_links": [
+    {
+      "label": "Lufilo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F831660496914%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/831660496914?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F639804338495%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/639804338495?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "38$",
+  "budget_price": "14$",
+  "pics_text": "lufilo/budget",
+  "pics_links": [
+    {
+      "label": "lufilo",
+      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831660496914"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924269021631397889?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJ4YqXxtKrnPoEMNgsXfwFeWSUUxhWtsJdEsCOxhzu3U9yRvQ9ZMfMwgGzban4pn6JizSJ9yeCMIptnPsMfvmfdVld64CXCf2PgeqegHQ0pV2HCy_rQcI-aQ_Ya5fQyJ9wI-JimIcEODRi=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "908"
+    },
+    "col_1": {
+      "text": "Bape Shark Head Camouflage Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJ4YqXxtKrnPoEMNgsXfwFeWSUUxhWtsJdEsCOxhzu3U9yRvQ9ZMfMwgGzban4pn6JizSJ9yeCMIptnPsMfvmfdVld64CXCf2PgeqegHQ0pV2HCy_rQcI-aQ_Ya5fQyJ9wI-JimIcEODRi=w143-h110"
+    },
+    "col_3": {
+      "text": "Lufilo",
+      "links": [
+        {
+          "label": "Lufilo",
+          "url": "https://oopbuy.com/product/1/831660496914?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/639804338495?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "38$"
+    },
+    "col_6": {
+      "text": "14$"
+    },
+    "col_7": {
+      "text": "lufilo/budget",
+      "links": [
+        {
+          "label": "lufilo",
+          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831660496914"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924269021631397889?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1315"
+}

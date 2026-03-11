@@ -1,0 +1,64 @@
+{
+  "name": "CarsickoTracksuitBlack",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F764758749251%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "27$(SET)",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "set 27$ - top 14$ - bottom 13$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aym25GB8nYYT0LgEXqb4gWgsIIYbNMA2gpkvwDUQGsahLCmt0-HRDEY7HH-1sCwRkbwfCW_pA596m3Z726pE9iQlgdWmC21F_0bVafmhnJ2i7g9EhRu-eZcdHeNPGGT2JuHSau8l8TKfZPn=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "681"
+    },
+    "col_1": {
+      "text": "CarsickoTracksuitBlack"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aym25GB8nYYT0LgEXqb4gWgsIIYbNMA2gpkvwDUQGsahLCmt0-HRDEY7HH-1sCwRkbwfCW_pA596m3Z726pE9iQlgdWmC21F_0bVafmhnJ2i7g9EhRu-eZcdHeNPGGT2JuHSau8l8TKfZPn=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "27$(SET)"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 27$ - top 14$ - bottom 13$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1124"
+}

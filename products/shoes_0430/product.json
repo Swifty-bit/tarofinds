@@ -1,0 +1,47 @@
+{
+  "name": "Strike Boots",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565909088%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565909088?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "72$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDZJ-Whzx0r9Whg_tttJ2tuihnhAbIrHUgoMbH_okggH2ndLoWEBDq4dn-efH1zobiVcX8Z938WmscJ_CVPkH7FxcKnWyIMBDwPg-DH-XxjENF8DF_1i4QZJzfSt56Mr5yRMXiKun5RbPA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "489"
+    },
+    "col_1": {
+      "text": "Strike Boots"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDZJ-Whzx0r9Whg_tttJ2tuihnhAbIrHUgoMbH_okggH2ndLoWEBDq4dn-efH1zobiVcX8Z938WmscJ_CVPkH7FxcKnWyIMBDwPg-DH-XxjENF8DF_1i4QZJzfSt56Mr5yRMXiKun5RbPA=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565909088?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "72$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0430"
+}

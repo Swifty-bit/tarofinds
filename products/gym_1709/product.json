@@ -1,0 +1,49 @@
+{
+  "name": "GYMSHARK T-Shirt12 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "16$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1930821223945703426?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTAOckKwgh3DP1fu9XC3sLrAVxgd-Rc1SkOaAvbzZ4IHBViSGdRq7S9Ppwd8TdjD9hdLVTr6GHRSKRcyqaSgWa6_c_T9Tp_NM5qh2J0kh8TrxUbVXehaWd48u2m3xB3P3fPZ95dX0fkqVt=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "10"
+    },
+    "col_1": {
+      "text": "GYMSHARK T-Shirt12 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTAOckKwgh3DP1fu9XC3sLrAVxgd-Rc1SkOaAvbzZ4IHBViSGdRq7S9Ppwd8TdjD9hdLVTr6GHRSKRcyqaSgWa6_c_T9Tp_NM5qh2J0kh8TrxUbVXehaWd48u2m3xB3P3fPZ95dX0fkqVt=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "16$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1930821223945703426?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1709"
+}

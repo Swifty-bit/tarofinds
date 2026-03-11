@@ -1,0 +1,47 @@
+{
+  "name": "Ben & Jerry's Chunky Dunkyw/ BOX",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "H12",
+  "best_batch_links": [
+    {
+      "label": "H12",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7221772691%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7221772691?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "71$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azonb6gT8ZuiRnKHdQAzdSUWQFK4N_kYH7XtA0t8BBh5KsOsB8C3vfaYA-b0yoXOYVdb8PaqcmhoFk4NrtzKMjU1VegJ0pPjidDng-JzHKsppdUgY6_0iDTHpW-Tey3yp4Gu7OL23CQ-A=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "127"
+    },
+    "col_1": {
+      "text": "Ben & Jerry's Chunky Dunkyw/ BOX"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azonb6gT8ZuiRnKHdQAzdSUWQFK4N_kYH7XtA0t8BBh5KsOsB8C3vfaYA-b0yoXOYVdb8PaqcmhoFk4NrtzKMjU1VegJ0pPjidDng-JzHKsppdUgY6_0iDTHpW-Tey3yp4Gu7OL23CQ-A=w143-h110"
+    },
+    "col_3": {
+      "text": "H12",
+      "links": [
+        {
+          "label": "H12",
+          "url": "https://oopbuy.com/product/2/7221772691?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "71$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0118"
+}

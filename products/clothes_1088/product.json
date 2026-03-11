@@ -1,0 +1,107 @@
+{
+  "name": "MertraTracksuits",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "pengreps/pengreps",
+  "best_batch_links": [
+    {
+      "label": "pengreps",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7505004349%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7505004349?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "pengreps",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7506934022%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7506934022?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "74$(SET)",
+  "budget_price": "35$(SET)",
+  "pics_text": "pics/pics/budget",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7505004349"
+    },
+    {
+      "label": "pics",
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7506934022"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "set 74$ - top 34$ - bottom 30$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwalKVW492uvvpBW714OeuvS2oFxsqV1aqh-WW4EeRXfg26guh0rFsqtAXkftfhz-3BCmaD2A-CnqOMKCEXLgqSWjVpImMTQ5ZB97avIJ4nYG2uu2L7-pX8MJ5Xu-58aN85r9Jt7OYt_Ytc=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "639"
+    },
+    "col_1": {
+      "text": "MertraTracksuits"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwalKVW492uvvpBW714OeuvS2oFxsqV1aqh-WW4EeRXfg26guh0rFsqtAXkftfhz-3BCmaD2A-CnqOMKCEXLgqSWjVpImMTQ5ZB97avIJ4nYG2uu2L7-pX8MJ5Xu-58aN85r9Jt7OYt_Ytc=w143-h110"
+    },
+    "col_3": {
+      "text": "pengreps/pengreps",
+      "links": [
+        {
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7505004349?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7506934022?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "74$(SET)"
+    },
+    "col_6": {
+      "text": "35$(SET)"
+    },
+    "col_7": {
+      "text": "pics/pics/budget",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7505004349"
+        },
+        {
+          "label": "pics",
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7506934022"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 74$ - top 34$ - bottom 30$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1088"
+}

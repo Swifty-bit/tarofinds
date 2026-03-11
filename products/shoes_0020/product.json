@@ -1,0 +1,47 @@
+{
+  "name": "Air Force OneDenim TearsBlack",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WTG",
+  "best_batch_links": [
+    {
+      "label": "WTG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7367693596%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7367693596?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "21$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwHWuObvJJ5q_LBtAZZbjMswG0lc0X9eG_OyInFcb8GHtTaPgV2fS9k-lA6BTj9Hqfny_tbB1ZbFG64GXzfW_BZuoTedAQpNNi0Res_JjDRsF40GM09nUZtLDqclPxX6cGhdiNtLElc_R-1=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "27"
+    },
+    "col_1": {
+      "text": "Air Force OneDenim TearsBlack"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwHWuObvJJ5q_LBtAZZbjMswG0lc0X9eG_OyInFcb8GHtTaPgV2fS9k-lA6BTj9Hqfny_tbB1ZbFG64GXzfW_BZuoTedAQpNNi0Res_JjDRsF40GM09nUZtLDqclPxX6cGhdiNtLElc_R-1=w143-h110"
+    },
+    "col_3": {
+      "text": "WTG",
+      "links": [
+        {
+          "label": "WTG",
+          "url": "https://oopbuy.com/product/2/7367693596?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0020"
+}

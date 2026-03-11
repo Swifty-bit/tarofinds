@@ -1,0 +1,61 @@
+{
+  "name": "MM6 Sweater4 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F746801458197%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/746801458197?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/746801458197"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayp39vd00bL2txNc_zSYIvfFSM8-ytGsTXfWuF9w6rsjIKhb_hjRFeFp1TndNVjia8fpY2h9BcxFQHYM9DWbFVGGrnX0gSbVF94KtBv8O8pnEl7yvywATMaCinZuy2XU68-YpkqHQdQj1lW=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "733"
+    },
+    "col_1": {
+      "text": "MM6 Sweater4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayp39vd00bL2txNc_zSYIvfFSM8-ytGsTXfWuF9w6rsjIKhb_hjRFeFp1TndNVjia8fpY2h9BcxFQHYM9DWbFVGGrnX0gSbVF94KtBv8O8pnEl7yvywATMaCinZuy2XU68-YpkqHQdQj1lW=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/746801458197?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/746801458197"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1168"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "iPhoneStone IslandCase",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.oopbuy.com/product/0/837404564540?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "0,50$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058735025971202?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzkFMc7W_ymQ7vgU7GnNJ9GldocwcmRRtVOMPIwKBEoGY1gA670BgV6Ij7os2j10A9Ifjy4QMynVqFsQL19DkxPbqJo4hTeI0lepJ5WmwLfvRsnQzPt26J-CdFnW__Vq0WNyIJQ3S9Tztnh=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "36"
+    },
+    "col_1": {
+      "text": "iPhoneStone IslandCase"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzkFMc7W_ymQ7vgU7GnNJ9GldocwcmRRtVOMPIwKBEoGY1gA670BgV6Ij7os2j10A9Ifjy4QMynVqFsQL19DkxPbqJo4hTeI0lepJ5WmwLfvRsnQzPt26J-CdFnW__Vq0WNyIJQ3S9Tztnh=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/0/837404564540?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "0,50$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058735025971202?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1820"
+}

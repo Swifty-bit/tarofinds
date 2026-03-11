@@ -1,0 +1,61 @@
+{
+  "name": "Ami ParisSweaterMany Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7268904344%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7268904344?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "21$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/exploreMore/1853614324016807938"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtivD_0GdL0zL-Me93XeIiTysmvvThiSG1CqVU37-IfaEdbOO9gIz3tO2_9L6hcmsXdjKQ8aaj6bCcgpL1_yXNcTzaZymFDXGZJkFsjpIqWYnaxI2K_k9WDzoWJiar-XRyOyqQROWGvB25=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "497"
+    },
+    "col_1": {
+      "text": "Ami ParisSweaterMany Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtivD_0GdL0zL-Me93XeIiTysmvvThiSG1CqVU37-IfaEdbOO9gIz3tO2_9L6hcmsXdjKQ8aaj6bCcgpL1_yXNcTzaZymFDXGZJkFsjpIqWYnaxI2K_k9WDzoWJiar-XRyOyqQROWGvB25=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7268904344?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "21$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/exploreMore/1853614324016807938"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0966"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "whales jorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F992915480238%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/992915480238?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotders.x.yupoo.com/albums/204106611?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXXyZLARfSnaSaR5vfI973ml6wZnl5DRrOZgYgr5ZGW1KQNlC89g5jMOjGemy4RtKaE3V9HHFJt3th2_cJm0QSrt9SPIA4IgdjcmyloZ9va25W_86G3iF9I994WZcddaPHvPCcKmz94Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "407"
+    },
+    "col_1": {
+      "text": "whales jorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXXyZLARfSnaSaR5vfI973ml6wZnl5DRrOZgYgr5ZGW1KQNlC89g5jMOjGemy4RtKaE3V9HHFJt3th2_cJm0QSrt9SPIA4IgdjcmyloZ9va25W_86G3iF9I994WZcddaPHvPCcKmz94Q=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/992915480238?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "38$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotders.x.yupoo.com/albums/204106611?uid=1"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AypEkirswqecdB-wt0Yp7vWdiP_WRPM7hwG6RAlSttrI_aYILHV7yiQYzOSpxejlV2ioy8sJgr9BkCHa22DAxAqIifxNq_ZLw1h0ll25NeDp9l8q-BcfEcLAc307YJ0IzHL7HkeY7l4agEc=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0890"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Ralph Lauren Zipped Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6990966530%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6990966530?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F736469349863%3F%26inviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "28$",
+  "budget_price": "15$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/151671645?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeHhPse2CqimMcojg4GhlQEwSsbWWzwaI-HTbsiZB0RCsNdaHoNMUWODcTuFCAFWsihkfRYwsl7d6WRurEghR14zUUf1EXY-K_lW5pXAq-8eKTauLwip8XundsqpbB2JfWATVh4_NXWA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "85"
+    },
+    "col_1": {
+      "text": "Ralph Lauren Zipped Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeHhPse2CqimMcojg4GhlQEwSsbWWzwaI-HTbsiZB0RCsNdaHoNMUWODcTuFCAFWsihkfRYwsl7d6WRurEghR14zUUf1EXY-K_lW5pXAq-8eKTauLwip8XundsqpbB2JfWATVh4_NXWA=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/6990966530?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "28$"
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/151671645?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0614"
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Louis Vuitton",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "MissChen/K8",
+  "best_batch_links": [
+    {
+      "label": "MissChen",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F3918382305%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/3918382305?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "K8",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564619134%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564619134?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget1/budget2",
+  "budget_batch_links": [
+    {
+      "label": "budget1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7431380126%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7431380126?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F783959210130%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/783959210130?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "37$ / 34$",
+  "budget_price": "15$ / 1$",
+  "pics_text": "MissChen/K8/budget1/budget2",
+  "pics_links": [
+    {
+      "label": "MissChen",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968501111859535873?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "K8",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968970637528633346?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1960145347709329409?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969951417218719745?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1B8F5BgShWLlPU8Km_x5CqxzISXmc6blQFu1a7oa6qVlFgkqHjyklJGjAeO8yT-lDLaQ_oq1wGFqdM9odiJE1ezm92SXil4Rom_drb1v-eIXmPjjZFKGDlsvmO1m6gJH4iPIQ4O1rRpzi=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "8"
+    },
+    "col_1": {
+      "text": "Louis Vuitton"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1B8F5BgShWLlPU8Km_x5CqxzISXmc6blQFu1a7oa6qVlFgkqHjyklJGjAeO8yT-lDLaQ_oq1wGFqdM9odiJE1ezm92SXil4Rom_drb1v-eIXmPjjZFKGDlsvmO1m6gJH4iPIQ4O1rRpzi=w143-h110"
+    },
+    "col_3": {
+      "text": "MissChen/K8",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/3918382305?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "K8",
+          "url": "https://oopbuy.com/product/weidian/7564619134?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget1/budget2",
+      "links": [
+        {
+          "label": "budget1",
+          "url": "https://oopbuy.com/product/weidian/7431380126?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget2",
+          "url": "https://oopbuy.com/product/0/783959210130?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$ / 34$"
+    },
+    "col_6": {
+      "text": "15$ / 1$"
+    },
+    "col_7": {
+      "text": "MissChen/K8/budget1/budget2",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968501111859535873?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "K8",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968970637528633346?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1960145347709329409?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969951417218719745?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1546"
+}

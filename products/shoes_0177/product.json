@@ -1,0 +1,65 @@
+{
+  "name": "Shadow 2.0",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565902946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "69$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxHRFc3vZvQ1EBAJSoZppOD3MBPiArAcBtMOCWgJFI_tNBwRJjlKPz1oaKcNlLl0dhM2EDQJ7bnt0a3OQGO3lLxgAvWY32dfKOKX69mdMmpKcThz3aYQu1qTSfUgBO7L-UzgPZJs_QGoCZy=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "188"
+    },
+    "col_1": {
+      "text": "Shadow 2.0"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxHRFc3vZvQ1EBAJSoZppOD3MBPiArAcBtMOCWgJFI_tNBwRJjlKPz1oaKcNlLl0dhM2EDQJ7bnt0a3OQGO3lLxgAvWY32dfKOKX69mdMmpKcThz3aYQu1qTSfUgBO7L-UzgPZJs_QGoCZy=w143-h100"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "69$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0177"
+}

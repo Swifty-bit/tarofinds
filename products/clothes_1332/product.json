@@ -1,0 +1,61 @@
+{
+  "name": "Palace Facemask Zip Up Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7498013346%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7498013346?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "54$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://dragonrep333.x.yupoo.com/albums/207875487?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeVtkB27S8qxCuO4z-gTQsNkwHqlnIk-Q-hSuq9ZJo-zpny8N1HMiCrEtNwCpUxz-AhHBVQV2EjLm2MKWnMLmIRFWlMX0x0xuBIATBirNfdosOTZi5PuQ5iEtgC8W6FJ5oCHWqc9nZa_zG=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "929"
+    },
+    "col_1": {
+      "text": "Palace Facemask Zip Up Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeVtkB27S8qxCuO4z-gTQsNkwHqlnIk-Q-hSuq9ZJo-zpny8N1HMiCrEtNwCpUxz-AhHBVQV2EjLm2MKWnMLmIRFWlMX0x0xuBIATBirNfdosOTZi5PuQ5iEtgC8W6FJ5oCHWqc9nZa_zG=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7498013346?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "54$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://dragonrep333.x.yupoo.com/albums/207875487?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1332"
+}

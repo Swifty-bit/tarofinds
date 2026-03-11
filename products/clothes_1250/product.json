@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaTape T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "1to1",
+  "best_batch_links": [
+    {
+      "label": "1to1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6187744799%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6187744799?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/132463695?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtKvRchr4xccE42p7XRl8dwpFd7gOLMLUdXbn56p1eODC_hyH5t4D8TUkb_MlheObNFfiuj9I7ETbCtnZMtw0353DK1Lkws-n05te6qcxw2EVPuWWzM6D5F46O26Ks2eB2HAq5kVQSwJVw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "839"
+    },
+    "col_1": {
+      "text": "BalenciagaTape T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtKvRchr4xccE42p7XRl8dwpFd7gOLMLUdXbn56p1eODC_hyH5t4D8TUkb_MlheObNFfiuj9I7ETbCtnZMtw0353DK1Lkws-n05te6qcxw2EVPuWWzM6D5F46O26Ks2eB2HAq5kVQSwJVw=w143-h110"
+    },
+    "col_3": {
+      "text": "1to1",
+      "links": [
+        {
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/2/6187744799?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "38$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/132463695?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1250"
+}

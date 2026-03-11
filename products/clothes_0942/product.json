@@ -1,0 +1,61 @@
+{
+  "name": "Syna Socks2 Pairs",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656830836%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656830836?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "10$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/145951861?uid=1&isSubCate=false&referrercate=4215138"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzV1c-TVm34tdr7QxFRn2ferFtGFQk5CC8AOQDyyhdbvasWnL2CbZR-uR4OVUekQ0ZBtDArlzwXAAU7gLcH4YGagPHKdHDJ8j1G30KkFRR4crglW7aoMyn0HbfkI19-wsyabwMcIEoXP8yx=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "469"
+    },
+    "col_1": {
+      "text": "Syna Socks2 Pairs"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzV1c-TVm34tdr7QxFRn2ferFtGFQk5CC8AOQDyyhdbvasWnL2CbZR-uR4OVUekQ0ZBtDArlzwXAAU7gLcH4YGagPHKdHDJ8j1G30KkFRR4crglW7aoMyn0HbfkI19-wsyabwMcIEoXP8yx=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656830836?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "10$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/145951861?uid=1&isSubCate=false&referrercate=4215138"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0942"
+}

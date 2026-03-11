@@ -1,0 +1,61 @@
+{
+  "name": "Kaws Mousepad",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F616117233464%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/616117233464?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "2$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1958696712261951490?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwMcg2Th7wCB0MO88WNUEctqjSzK2-d68FWEZEoKX083Gd0m2UWumLxfZb5WzRLQoRQi7nUnOVcL7rLxBrqSBE_vR8gc4jPRyAZACbnOwE72EyjjmmTpHWmP_n_fgGnD9jRQC0DLZrmyCl0=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "39"
+    },
+    "col_1": {
+      "text": "Kaws Mousepad"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMcg2Th7wCB0MO88WNUEctqjSzK2-d68FWEZEoKX083Gd0m2UWumLxfZb5WzRLQoRQi7nUnOVcL7rLxBrqSBE_vR8gc4jPRyAZACbnOwE72EyjjmmTpHWmP_n_fgGnD9jRQC0DLZrmyCl0=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/616117233464?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "2$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1958696712261951490?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1673"
+}

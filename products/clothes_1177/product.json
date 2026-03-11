@@ -1,0 +1,61 @@
+{
+  "name": "Supreme x Tiffany21FW Tee",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TeenageClub",
+  "best_batch_links": [
+    {
+      "label": "TeenageClub",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F678038699098%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/678038699098?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "16$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1955437494507008002?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxICBr7FYVwPAIKP_KTIXj0kXH4GzigQXVN16S1vrPgrVzWd2VoxJx_uBatzhGKUDIwfNyMAJAX_3Y4_37SBmYHSpzLmaW7QAayriEMj6HYte2vLhl2tCBuMZMGtTdaYrPikUIn3KDRD7WJ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "746"
+    },
+    "col_1": {
+      "text": "Supreme x Tiffany21FW Tee"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxICBr7FYVwPAIKP_KTIXj0kXH4GzigQXVN16S1vrPgrVzWd2VoxJx_uBatzhGKUDIwfNyMAJAX_3Y4_37SBmYHSpzLmaW7QAayriEMj6HYte2vLhl2tCBuMZMGtTdaYrPikUIn3KDRD7WJ=w143-h110"
+    },
+    "col_3": {
+      "text": "TeenageClub",
+      "links": [
+        {
+          "label": "TeenageClub",
+          "url": "https://www.oopbuy.com/product/1/678038699098?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "16$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1955437494507008002?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1177"
+}

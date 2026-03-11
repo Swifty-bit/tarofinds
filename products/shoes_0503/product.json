@@ -1,0 +1,47 @@
+{
+  "name": "Gucci Ace",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F788411679454%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/788411679454?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "16$",
+  "pics_text": "16$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTxRxNAcrD7SerYLLI7wfr3x-tCZAtylBiIRu7CQsDrvCoxGPdPOsNxKJF7KT-wqpCOfMP_yLKQcmMO2PUSylPDo11-De43fPrS_zRqwARt5Nd93H_UxeYu8Mzq62rStM95Z45xYNjE4zV=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "596"
+    },
+    "col_1": {
+      "text": "Gucci Ace"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTxRxNAcrD7SerYLLI7wfr3x-tCZAtylBiIRu7CQsDrvCoxGPdPOsNxKJF7KT-wqpCOfMP_yLKQcmMO2PUSylPDo11-De43fPrS_zRqwARt5Nd93H_UxeYu8Mzq62rStM95Z45xYNjE4zV=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/788411679454?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "16$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0503"
+}

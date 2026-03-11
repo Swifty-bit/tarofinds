@@ -1,0 +1,46 @@
+{
+  "name": "CDG PlayLong Sleeve PrintedT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206698297?uid=1&isSubCate=false&referrercate=4980597"
+    }
+  ],
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzfSSu39vcqz0EpNUrLEWYejlf-dwoLCOkbFZl33Ji0TkSztxJx2PDnLvCRCSbIZB5eDBCOp-qOU6zHwCzEYuFZWPgELgZ2OcSMvodmz66TLUovvpT4L_eQW9A4oUOGY123Gi2Wk0LUlQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "580"
+    },
+    "col_1": {
+      "text": "CDG PlayLong Sleeve PrintedT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzfSSu39vcqz0EpNUrLEWYejlf-dwoLCOkbFZl33Ji0TkSztxJx2PDnLvCRCSbIZB5eDBCOp-qOU6zHwCzEYuFZWPgELgZ2OcSMvodmz66TLUovvpT4L_eQW9A4oUOGY123Gi2Wk0LUlQ=w143-h110"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206698297?uid=1&isSubCate=false&referrercate=4980597"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1035"
+}

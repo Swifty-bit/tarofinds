@@ -1,0 +1,61 @@
+{
+  "name": "Celine Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "1to1",
+  "best_batch_links": [
+    {
+      "label": "1to1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5504348314%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5504348314?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "57$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/199479598?uid=1&isSubCate=false&referrercate=5012627"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxjJnRxg40tFzb_rTzN0-axCJviN-KSbTKXJkN3z7DyTKJenyN8mAg56MyW-iDenYpx13qdqbQZ685kfEI-Xh-lSMHnv1ccM9Zwln_m91cnmLxs8fh0_zsxzLnniTW4CRDqevVW2s0LIg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "371"
+    },
+    "col_1": {
+      "text": "Celine Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxjJnRxg40tFzb_rTzN0-axCJviN-KSbTKXJkN3z7DyTKJenyN8mAg56MyW-iDenYpx13qdqbQZ685kfEI-Xh-lSMHnv1ccM9Zwln_m91cnmLxs8fh0_zsxzLnniTW4CRDqevVW2s0LIg=w143-h110"
+    },
+    "col_3": {
+      "text": "1to1",
+      "links": [
+        {
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/weidian/5504348314?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "57$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/199479598?uid=1&isSubCate=false&referrercate=5012627"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0860"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "True ReligionSweatpantsMany Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TR",
+  "best_batch_links": [
+    {
+      "label": "TR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F770079816140%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/770079816140?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "15$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/770079816140"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aym_wuYaB80HCBWTh_TFr5kscrSE6xDzXp88lONbhv97vYLWWQk7vbd0xJsXxWvSlapO_8iqL1pUI_gv2h5GVK8n-iGRAxzD1TbthjP7hHhdTSeQgr34xYR2bcWTS1dxlEZGh2XlY4-uA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "803"
+    },
+    "col_1": {
+      "text": "True ReligionSweatpantsMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aym_wuYaB80HCBWTh_TFr5kscrSE6xDzXp88lONbhv97vYLWWQk7vbd0xJsXxWvSlapO_8iqL1pUI_gv2h5GVK8n-iGRAxzD1TbthjP7hHhdTSeQgr34xYR2bcWTS1dxlEZGh2XlY4-uA=w143-h110"
+    },
+    "col_3": {
+      "text": "TR",
+      "links": [
+        {
+          "label": "TR",
+          "url": "https://www.oopbuy.com/product/1/770079816140?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/770079816140"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1226"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaLost TapeFlared JeansPants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F906790679596%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/906790679596?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "47$-60$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/190025240?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzACI7gFfWYW-aBB1bQex2F_5Cb_DDbHE9TW7fGYU5Ol_BGR1VsimB90DQLEbfvp7mU42L92zPdI52aptqKSa4BO3AVlhL22b_nsQ1dCLoSLzjyLD-obsevbKdiLtRTuLq1lCAVhxZxxg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "859"
+    },
+    "col_1": {
+      "text": "BalenciagaLost TapeFlared JeansPants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzACI7gFfWYW-aBB1bQex2F_5Cb_DDbHE9TW7fGYU5Ol_BGR1VsimB90DQLEbfvp7mU42L92zPdI52aptqKSa4BO3AVlhL22b_nsQ1dCLoSLzjyLD-obsevbKdiLtRTuLq1lCAVhxZxxg=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://www.oopbuy.com/product/1/906790679596?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "47$-60$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/190025240?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1270"
+}

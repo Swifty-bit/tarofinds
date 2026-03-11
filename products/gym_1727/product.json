@@ -1,0 +1,61 @@
+{
+  "name": "UFC Shorts9 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "UFC",
+  "best_batch_links": [
+    {
+      "label": "UFC",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F763774013105%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/763774013105?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "7$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1926443372296876033?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRgFvryuctZ-kuDHNg5pWiTY83427T2PVHLBLHth4rNS5XIUxdbpn7KiAmUrz94HLq63-sbjfCdwXbfq2pEfcwWtzNZ1m_8AVJ39IZOTcByDdqs-_DW90M2wUgCbVBmLaJ6LQq89jbeFmM=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "32"
+    },
+    "col_1": {
+      "text": "UFC Shorts9 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRgFvryuctZ-kuDHNg5pWiTY83427T2PVHLBLHth4rNS5XIUxdbpn7KiAmUrz94HLq63-sbjfCdwXbfq2pEfcwWtzNZ1m_8AVJ39IZOTcByDdqs-_DW90M2wUgCbVBmLaJ6LQq89jbeFmM=w143-h110"
+    },
+    "col_3": {
+      "text": "UFC",
+      "links": [
+        {
+          "label": "UFC",
+          "url": "https://oopbuy.com/product/1/763774013105?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1926443372296876033?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1727"
+}

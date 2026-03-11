@@ -1,0 +1,61 @@
+{
+  "name": "Bape x Inter MiamiJersey3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Lufilo",
+  "best_batch_links": [
+    {
+      "label": "Lufilo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F975462768804%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "33$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=Miami"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyD4R4ffPAQsSev1SzqNCA89zRTgALD3lXs_cu1MBKlC6NPtI6Dr4vF5k-w4EQMeUQnmpJkFi2ngbTpjBoL2dkCCVfiSRYGKaz2mS-DJkWvRmLlfL46q8WryNCLI1g_SHRpjurbC1qyMPef=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "904"
+    },
+    "col_1": {
+      "text": "Bape x Inter MiamiJersey3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyD4R4ffPAQsSev1SzqNCA89zRTgALD3lXs_cu1MBKlC6NPtI6Dr4vF5k-w4EQMeUQnmpJkFi2ngbTpjBoL2dkCCVfiSRYGKaz2mS-DJkWvRmLlfL46q8WryNCLI1g_SHRpjurbC1qyMPef=w143-h110"
+    },
+    "col_3": {
+      "text": "Lufilo",
+      "links": [
+        {
+          "label": "Lufilo",
+          "url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "33$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=Miami"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1311"
+}

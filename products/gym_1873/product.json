@@ -1,0 +1,49 @@
+{
+  "name": "GYMSHARKVest Tank Top6 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938764604491558913?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyX1hV1vq0e3lxSSX73RT_DNKaaAcL3TUGwAWutHD3ffYqvGJZJwwQZBZnuYfSLQlQDQ_QIDUSD5jqDk_o32Ebg2vNG8KhteShV18f6zr7QUFm1siIou3AdWY-RKCsf1Gw7d4rat1lt_Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "20"
+    },
+    "col_1": {
+      "text": "GYMSHARKVest Tank Top6 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyX1hV1vq0e3lxSSX73RT_DNKaaAcL3TUGwAWutHD3ffYqvGJZJwwQZBZnuYfSLQlQDQ_QIDUSD5jqDk_o32Ebg2vNG8KhteShV18f6zr7QUFm1siIou3AdWY-RKCsf1Gw7d4rat1lt_Q=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938764604491558913?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1873"
+}

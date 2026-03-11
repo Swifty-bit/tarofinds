@@ -1,0 +1,49 @@
+{
+  "name": "Emporio ArmaniT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://toparmani.x.yupoo.com/albums/118254120?uid=1&isSubCate=false&referrercate=4172967"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-ZlelB8iUfqb3wtLk-BV6rkHvKRdiIIWN72U_2S4j_oa7jc-zwYB0u1d2YSXH6L-3ePKnJucIlh1F0Ay0lWdR2YqzM87Z1eY7DPySQx-afLg-x6ui1GmLHRo6rSJP6H6VnhrAWFoMSA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "831"
+    },
+    "col_1": {
+      "text": "Emporio ArmaniT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-ZlelB8iUfqb3wtLk-BV6rkHvKRdiIIWN72U_2S4j_oa7jc-zwYB0u1d2YSXH6L-3ePKnJucIlh1F0Ay0lWdR2YqzM87Z1eY7DPySQx-afLg-x6ui1GmLHRo6rSJP6H6VnhrAWFoMSA=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://toparmani.x.yupoo.com/albums/118254120?uid=1&isSubCate=false&referrercate=4172967"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1244"
+}

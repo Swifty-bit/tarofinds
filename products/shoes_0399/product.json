@@ -1,0 +1,65 @@
+{
+  "name": "DRKSHDW High",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "ROG",
+  "best_batch_links": [
+    {
+      "label": "ROG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F609220746139%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/609220746139?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "DRK STUDIO",
+  "budget_batch_links": [
+    {
+      "label": "DRK STUDIO",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F673096171707%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "88$",
+  "budget_price": "78$",
+  "pics_text": "78$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCXpdIBlXinO-4woYYSJgHAf7y09d8Qf3U6VBLlC0ZO7fVVPSEmvE02-HPsWWDOrhOiv9uy4VIDzo6sVi3cp6B7qXfE2vb_y7zRdvcn7ATsYHvcxAW-jHdCPbrJztuySyYkSOfDsHj-w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "450"
+    },
+    "col_1": {
+      "text": "DRKSHDW High"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCXpdIBlXinO-4woYYSJgHAf7y09d8Qf3U6VBLlC0ZO7fVVPSEmvE02-HPsWWDOrhOiv9uy4VIDzo6sVi3cp6B7qXfE2vb_y7zRdvcn7ATsYHvcxAW-jHdCPbrJztuySyYkSOfDsHj-w=w143-h110"
+    },
+    "col_3": {
+      "text": "ROG",
+      "links": [
+        {
+          "label": "ROG",
+          "url": "https://oopbuy.com/product/1/609220746139?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DRK STUDIO",
+      "links": [
+        {
+          "label": "DRK STUDIO",
+          "url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "88$"
+    },
+    "col_6": {
+      "text": "78$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0399"
+}

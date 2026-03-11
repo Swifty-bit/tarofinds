@@ -1,0 +1,74 @@
+{
+  "name": "Marvel BAPE Sta",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP/CSJ",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565966178%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565966178?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "CSJ",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239337365%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239337365?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F857304096312%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/857304096312?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "50$",
+  "budget_price": "20$",
+  "pics_text": "20$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-c6XuuUfdOTgoG-xoSNrA1XETMRFFdZdk_ISoCP1le4mQWtD1oMudXSWyNf-vpLGsKb8uZKlk0yZ03MFpRzZavQJqR_XmTfwC3CDXEAZrgy-C9BzhpeYR8OK3fJijpygHGW1W-855lLa4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "419"
+    },
+    "col_1": {
+      "text": "Marvel BAPE Sta"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-c6XuuUfdOTgoG-xoSNrA1XETMRFFdZdk_ISoCP1le4mQWtD1oMudXSWyNf-vpLGsKb8uZKlk0yZ03MFpRzZavQJqR_XmTfwC3CDXEAZrgy-C9BzhpeYR8OK3fJijpygHGW1W-855lLa4=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP/CSJ",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565966178?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "CSJ",
+          "url": "https://oopbuy.com/product/2/7239337365?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/857304096312?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "50$"
+    },
+    "col_6": {
+      "text": "20$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0378"
+}

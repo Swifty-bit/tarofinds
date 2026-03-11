@@ -1,0 +1,61 @@
+{
+  "name": "Canada GooseLodge Hoody Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TopGoosey",
+  "best_batch_links": [
+    {
+      "label": "TopGoosey",
+      "url": "https://oopbuy.com/product/1/1004427913225?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "138$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192747632?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyMY9aHOWfPMPanXZgf3oDRxuu1BiJ2G2AIK64xc3a6NQHPcsT8BV8UzUs-O6Q5DbcOwF7jnvZLyTvqc6qaUjD5KcSdssrxp3v6Q4DVYnLlJ0bkPM1yxffOuLTZ71fzvoL7c4NHd7l9PJ6Y=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1090"
+    },
+    "col_1": {
+      "text": "Canada GooseLodge Hoody Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyMY9aHOWfPMPanXZgf3oDRxuu1BiJ2G2AIK64xc3a6NQHPcsT8BV8UzUs-O6Q5DbcOwF7jnvZLyTvqc6qaUjD5KcSdssrxp3v6Q4DVYnLlJ0bkPM1yxffOuLTZ71fzvoL7c4NHd7l9PJ6Y=w143-h110"
+    },
+    "col_3": {
+      "text": "TopGoosey",
+      "links": [
+        {
+          "label": "TopGoosey",
+          "url": "https://oopbuy.com/product/1/1004427913225?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "138$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192747632?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1606"
+}

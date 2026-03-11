@@ -1,0 +1,61 @@
+{
+  "name": "Canada Goose Emerson Crew-Neck T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TopGoosey",
+  "best_batch_links": [
+    {
+      "label": "TopGoosey",
+      "url": "https://oopbuy.com/product/1/1002966111534?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "23$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192749431?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AywbHyrLKN7BlpQlekjIuBY5kJ5IE2y8j9E7gwlyQHtGCrl-aScZ0VSkd7LJEHF0Ef-0qbhUm_Cpb6YkGP6IMGC86CCU0BL9KtIxQDHviYiiiw6tgb1toyLobceeXhGVbU4-MCMNsnUUxjS=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1080"
+    },
+    "col_1": {
+      "text": "Canada Goose Emerson Crew-Neck T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AywbHyrLKN7BlpQlekjIuBY5kJ5IE2y8j9E7gwlyQHtGCrl-aScZ0VSkd7LJEHF0Ef-0qbhUm_Cpb6YkGP6IMGC86CCU0BL9KtIxQDHviYiiiw6tgb1toyLobceeXhGVbU4-MCMNsnUUxjS=w143-h110"
+    },
+    "col_3": {
+      "text": "TopGoosey",
+      "links": [
+        {
+          "label": "TopGoosey",
+          "url": "https://oopbuy.com/product/1/1002966111534?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192749431?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1596"
+}

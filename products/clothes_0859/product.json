@@ -1,0 +1,61 @@
+{
+  "name": "Celine Polo",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "1to1",
+  "best_batch_links": [
+    {
+      "label": "1to1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6190603723%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6190603723?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/215422538?uid=1&isSubCate=false&referrercate=5012627"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLjMCAwLva9kkWzJAkUbIDRouRkz77g3z-QyG9DBA6eUPRG_0bqcZl_aokWc1fgnLsuOGI9D-ymFnQ9nlg9W4kqzZuXT-aoZL8Wlm6uSDmRQtnWwbdAmiZLEax8CG-FTROTZvS3tERQw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "370"
+    },
+    "col_1": {
+      "text": "Celine Polo"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLjMCAwLva9kkWzJAkUbIDRouRkz77g3z-QyG9DBA6eUPRG_0bqcZl_aokWc1fgnLsuOGI9D-ymFnQ9nlg9W4kqzZuXT-aoZL8Wlm6uSDmRQtnWwbdAmiZLEax8CG-FTROTZvS3tERQw=w143-h110"
+    },
+    "col_3": {
+      "text": "1to1",
+      "links": [
+        {
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/weidian/6190603723?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "44$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/215422538?uid=1&isSubCate=false&referrercate=5012627"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0859"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Canada GooseCrofton Puffer",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "palmmoose",
+  "budget_batch_links": [
+    {
+      "label": "palmmoose",
+      "url": "https://oopbuy.com/product/0/661616586720?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "86$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1848635474132402177?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxEptIUZC9JPt_W6Bh3fLeesNmsOBReRCNrY_1dyxrMvB-VTsLw2asCX7kzBOrOhqKARa3vNyT9H9KipZndU_VroDFOgPGw61EinC81XLQpJKT99ilmFzr3Jw3mqLakGR09UWFnmkQaVA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1099"
+    },
+    "col_1": {
+      "text": "Canada GooseCrofton Puffer"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxEptIUZC9JPt_W6Bh3fLeesNmsOBReRCNrY_1dyxrMvB-VTsLw2asCX7kzBOrOhqKARa3vNyT9H9KipZndU_VroDFOgPGw61EinC81XLQpJKT99ilmFzr3Jw3mqLakGR09UWFnmkQaVA=w143-h110"
+    },
+    "col_4": {
+      "text": "palmmoose",
+      "links": [
+        {
+          "label": "palmmoose",
+          "url": "https://oopbuy.com/product/0/661616586720?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "86$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1848635474132402177?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1615"
+}

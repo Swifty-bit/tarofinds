@@ -1,0 +1,47 @@
+{
+  "name": "AMM(A Ma Maniere)Dawn",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Y3",
+  "best_batch_links": [
+    {
+      "label": "Y3",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "66$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax0Hk9oqOozgK7xEumVOFB7tby7aFE2-iDALfk41vYE0J244WR3O1CIW_tXFknj-nJ4uFMuM25uHS2ZltBH-BMf4RqAqG4sNP2cOqez8Bq603h4ZyTcCra9XJoOVsbf-bxfh60-ftZbxzA1=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "302"
+    },
+    "col_1": {
+      "text": "AMM(A Ma Maniere)Dawn"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax0Hk9oqOozgK7xEumVOFB7tby7aFE2-iDALfk41vYE0J244WR3O1CIW_tXFknj-nJ4uFMuM25uHS2ZltBH-BMf4RqAqG4sNP2cOqez8Bq603h4ZyTcCra9XJoOVsbf-bxfh60-ftZbxzA1=w143-h110"
+    },
+    "col_3": {
+      "text": "Y3",
+      "links": [
+        {
+          "label": "Y3",
+          "url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "66$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0285"
+}

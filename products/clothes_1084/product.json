@@ -1,0 +1,87 @@
+{
+  "name": "MertraBigstep Jorts (Indigo) Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "elephant",
+  "best_batch_links": [
+    {
+      "label": "elephant",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7542202576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7542202576?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "22$",
+  "budget_price": "16$",
+  "pics_text": "elephant/budget",
+  "pics_links": [
+    {
+      "label": "elephant",
+      "url": "https://elephant-factory.x.yupoo.com/albums/208987304?uid=1&isSubCate=false&referrercate=5000643"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyYEfHKqQs45qeHe1-fX3MAxQ-IDGFn78lSk_wDGm5ZtRxCSho7Egd-3fLkw61XyHg2i9FrLjXfMT7UE2q4RN0ToeM0JiHZnN5I79jysO0RdLzuy2rBtjue3mmTWW0YjMEem_o78DxVxIQ-=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "635"
+    },
+    "col_1": {
+      "text": "MertraBigstep Jorts (Indigo) Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyYEfHKqQs45qeHe1-fX3MAxQ-IDGFn78lSk_wDGm5ZtRxCSho7Egd-3fLkw61XyHg2i9FrLjXfMT7UE2q4RN0ToeM0JiHZnN5I79jysO0RdLzuy2rBtjue3mmTWW0YjMEem_o78DxVxIQ-=w143-h110"
+    },
+    "col_3": {
+      "text": "elephant",
+      "links": [
+        {
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7542202576?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_6": {
+      "text": "16$"
+    },
+    "col_7": {
+      "text": "elephant/budget",
+      "links": [
+        {
+          "label": "elephant",
+          "url": "https://elephant-factory.x.yupoo.com/albums/208987304?uid=1&isSubCate=false&referrercate=5000643"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1084"
+}

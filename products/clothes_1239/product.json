@@ -1,0 +1,61 @@
+{
+  "name": "KsubiWOMANJeans",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Bigd",
+  "best_batch_links": [
+    {
+      "label": "Bigd",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F771900364472%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/771900364472?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1889872081754046465?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwkuHRVYZGZmocXZG3LfynW5Nubfv3CxekUlLAUDp-i8OulTmKxjEGQWSbjEUj9_y0JORAXSK_orvzX6tYS9_CP3CQlrhbbcSJ1jQG_IzkBt_ahkBD1ytWZ6HIBEbRUy8cPF652XxlDMIpv=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "820"
+    },
+    "col_1": {
+      "text": "KsubiWOMANJeans"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwkuHRVYZGZmocXZG3LfynW5Nubfv3CxekUlLAUDp-i8OulTmKxjEGQWSbjEUj9_y0JORAXSK_orvzX6tYS9_CP3CQlrhbbcSJ1jQG_IzkBt_ahkBD1ytWZ6HIBEbRUy8cPF652XxlDMIpv=w143-h110"
+    },
+    "col_3": {
+      "text": "Bigd",
+      "links": [
+        {
+          "label": "Bigd",
+          "url": "https://www.oopbuy.com/product/1/771900364472?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1889872081754046465?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1239"
+}

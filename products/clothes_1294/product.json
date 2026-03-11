@@ -1,0 +1,87 @@
+{
+  "name": "Lacoste PoloClassic 2 Buttons5 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "FrenchFish",
+  "best_batch_links": [
+    {
+      "label": "FrenchFish",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7411829715%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7411829715?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F894916498417%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/894916498417?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "32$",
+  "budget_price": "6$",
+  "pics_text": "frenchfish/budget",
+  "pics_links": [
+    {
+      "label": "frenchfish",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923864613453139970?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1936952657250455554?action=discord&cid=-1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtobdDsM1bg5G2Zq88XZASyW7BYyHKWC_dQrS_ktwBGX1fvPnC6MlO_E0qz5LcYOAH09wlTcoq9kGGC5GVi-iSzaQX3PhMARF9oDdP-FLb2A2uhs5RVTYXPd1k3qao7fI-wbTsUQfZLM3t=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "885"
+    },
+    "col_1": {
+      "text": "Lacoste PoloClassic 2 Buttons5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtobdDsM1bg5G2Zq88XZASyW7BYyHKWC_dQrS_ktwBGX1fvPnC6MlO_E0qz5LcYOAH09wlTcoq9kGGC5GVi-iSzaQX3PhMARF9oDdP-FLb2A2uhs5RVTYXPd1k3qao7fI-wbTsUQfZLM3t=w143-h110"
+    },
+    "col_3": {
+      "text": "FrenchFish",
+      "links": [
+        {
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7411829715?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/894916498417?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "32$"
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "frenchfish/budget",
+      "links": [
+        {
+          "label": "frenchfish",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923864613453139970?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1936952657250455554?action=discord&cid=-1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1294"
+}

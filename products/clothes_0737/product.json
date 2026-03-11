@@ -1,0 +1,87 @@
+{
+  "name": "Essentials 23FW Sweatpants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GmanClub",
+  "best_batch_links": [
+    {
+      "label": "GmanClub",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F756350264897%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F678275024081%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/678275024081?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "30$",
+  "budget_price": "11$",
+  "pics_text": "gmanclub/budget",
+  "pics_links": [
+    {
+      "label": "gmanclub",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1873781291819282434?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwmDpPX7TfnIY6kOkznxZoBtUBfLKKXXqFe7KDOJG78WsOUfxEl3BKrEKJ_1A_zSDlk-WuBmToAjvu2WKHIQhtUipx8NQ0M0eVnD_Zwi4y6hFpzPJGk3htFwdGvbbMxp08eCrx2y8cntA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "222"
+    },
+    "col_1": {
+      "text": "Essentials 23FW Sweatpants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwmDpPX7TfnIY6kOkznxZoBtUBfLKKXXqFe7KDOJG78WsOUfxEl3BKrEKJ_1A_zSDlk-WuBmToAjvu2WKHIQhtUipx8NQ0M0eVnD_Zwi4y6hFpzPJGk3htFwdGvbbMxp08eCrx2y8cntA=w143-h110"
+    },
+    "col_3": {
+      "text": "GmanClub",
+      "links": [
+        {
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/678275024081?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_6": {
+      "text": "11$"
+    },
+    "col_7": {
+      "text": "gmanclub/budget",
+      "links": [
+        {
+          "label": "gmanclub",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1873781291819282434?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0737"
+}

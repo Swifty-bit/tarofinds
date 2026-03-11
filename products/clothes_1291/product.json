@@ -1,0 +1,61 @@
+{
+  "name": "Lacoste T-Shirt3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "FrenchFish",
+  "best_batch_links": [
+    {
+      "label": "FrenchFish",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7262137338%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7262137338?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "15$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1929547805414703106?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzWRzSq_4UhUnfW7w4ac1KwZNJ6avvaOr0auHgrV4HFhF6rw2fg3jG7QFt2VrLo6VReP956ItK4izen8swlB5GNB62ZmFbA_TXc74UTVDZBdX16jyMw9jasLwMo6tzBVDWi5QkNZdAfdw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "882"
+    },
+    "col_1": {
+      "text": "Lacoste T-Shirt3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzWRzSq_4UhUnfW7w4ac1KwZNJ6avvaOr0auHgrV4HFhF6rw2fg3jG7QFt2VrLo6VReP956ItK4izen8swlB5GNB62ZmFbA_TXc74UTVDZBdX16jyMw9jasLwMo6tzBVDWi5QkNZdAfdw=w143-h110"
+    },
+    "col_3": {
+      "text": "FrenchFish",
+      "links": [
+        {
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7262137338?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1929547805414703106?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1291"
+}

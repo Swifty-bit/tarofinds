@@ -1,0 +1,74 @@
+{
+  "name": "Frozen Moments",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "RFA",
+  "best_batch_links": [
+    {
+      "label": "RFA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5791543640%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "NEW R1/KX",
+  "budget_batch_links": [
+    {
+      "label": "NEW R1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328101882%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "66$",
+  "budget_price": "45$ / 37$",
+  "pics_text": "45$ / 37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw3KX1_x8h6wTUaFzrOdVztaV9lDWqKGL15g9YrsxBLds2HCCvHO50GesAA7WEDXEFfSjC3X3_AojBrPPM3D3ja7YN2AOm19TvF9744d2HlJ1iA2TJKXXFfUXdHZWUZda35i_sWkhWuQA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "247"
+    },
+    "col_1": {
+      "text": "Frozen Moments"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw3KX1_x8h6wTUaFzrOdVztaV9lDWqKGL15g9YrsxBLds2HCCvHO50GesAA7WEDXEFfSjC3X3_AojBrPPM3D3ja7YN2AOm19TvF9744d2HlJ1iA2TJKXXFfUXdHZWUZda35i_sWkhWuQA=w143-h110"
+    },
+    "col_3": {
+      "text": "RFA",
+      "links": [
+        {
+          "label": "RFA",
+          "url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "NEW R1/KX",
+      "links": [
+        {
+          "label": "NEW R1",
+          "url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "66$"
+    },
+    "col_6": {
+      "text": "45$ / 37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0232"
+}

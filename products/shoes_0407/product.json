@@ -1,0 +1,47 @@
+{
+  "name": "Trigreca",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Koala",
+  "best_batch_links": [
+    {
+      "label": "Koala",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F765036830859%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/765036830859?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "94$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay8Lm1rjZuXcmb05YzMUNl4Td7lghvrvDvqwhNO4CHvVDFQEl3lFRiChJz4KXoDE6qqztA-QaUG29AN3aAc1cbGY6hgbglENUgndQtNN8QTQw722-zXi8mfqAEmThXUHWiX6ATgSGuCSg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "462"
+    },
+    "col_1": {
+      "text": "Trigreca"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay8Lm1rjZuXcmb05YzMUNl4Td7lghvrvDvqwhNO4CHvVDFQEl3lFRiChJz4KXoDE6qqztA-QaUG29AN3aAc1cbGY6hgbglENUgndQtNN8QTQw722-zXi8mfqAEmThXUHWiX6ATgSGuCSg=w143-h110"
+    },
+    "col_3": {
+      "text": "Koala",
+      "links": [
+        {
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/765036830859?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "94$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0407"
+}

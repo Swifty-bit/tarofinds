@@ -1,0 +1,47 @@
+{
+  "name": "Travis ScottVelvet Brown",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PK4.0",
+  "best_batch_links": [
+    {
+      "label": "PK4.0",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7632127461%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7632127461?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "60$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzqDA5w2tMtE857BZxvhVOPSw5ofmmN6EgK6soYpfEw7DunoTZ2o-t6Qnq8wQI6LloH-XLRQuAjtXD6faRazGra_NeYOZ5VIRM6wEF4UxDJ4mCLqHs77ykp92bneekKm_H-CTX5NOyWIw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "158"
+    },
+    "col_1": {
+      "text": "Travis ScottVelvet Brown"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzqDA5w2tMtE857BZxvhVOPSw5ofmmN6EgK6soYpfEw7DunoTZ2o-t6Qnq8wQI6LloH-XLRQuAjtXD6faRazGra_NeYOZ5VIRM6wEF4UxDJ4mCLqHs77ykp92bneekKm_H-CTX5NOyWIw=w143-h110"
+    },
+    "col_3": {
+      "text": "PK4.0",
+      "links": [
+        {
+          "label": "PK4.0",
+          "url": "https://oopbuy.com/product/weidian/7632127461?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "60$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0147"
+}

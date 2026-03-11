@@ -1,0 +1,65 @@
+{
+  "name": "NikeBasketball Set",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F913450739858%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/913450739858?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2029780606018211842?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayi_N7fDkZZoFmEn7t06qPXabB2ISHU11Ra-JPFbiJhbr77qEVvuMwIsndc_d74UQBKoZW3tmD56FHKu9qbS5dL5rKMHzOrILnOz6_o07-we0TXcm7rGQrs5YTRqmvOsS-7hThLCrV39ewp=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "13"
+    },
+    "col_1": {
+      "text": "NikeBasketball Set"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayi_N7fDkZZoFmEn7t06qPXabB2ISHU11Ra-JPFbiJhbr77qEVvuMwIsndc_d74UQBKoZW3tmD56FHKu9qbS5dL5rKMHzOrILnOz6_o07-we0TXcm7rGQrs5YTRqmvOsS-7hThLCrV39ewp=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/913450739858?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2029780606018211842?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwpMMqPmadXgpDJvataVL_jkhv5F-Kfgb8Ofw97mqkoGWTYMxL4qXRHMhOFTduxxVRjOREIQJ5vMifsnoVCG_f_oQVAKsuFO3QCg4yhvHzrSQJB6_1vFRHd61JIvWx4VL9MRCsH4vHTQw=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0548"
+}

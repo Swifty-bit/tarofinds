@@ -1,0 +1,61 @@
+{
+  "name": "VetementsUnicorn RainbowHoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "vetementsshop",
+  "best_batch_links": [
+    {
+      "label": "vetementsshop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F659207887969%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/659207887969?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "80$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://vetementsshop.x.yupoo.com/albums/87024914?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyaLTI7btbmzB9k_ns-UA8EI5RaxfzRQgsMIQmHEvbZjwS1q0KfM0DO3toWEGKZG-M_ah8H2rZoN_7s02nVeNHnI0GPz3ImSWU7fV5W51QFQ0BBQBe4o1P3qcBM0yPbGCK3pi-G0UfNmXnV=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "674"
+    },
+    "col_1": {
+      "text": "VetementsUnicorn RainbowHoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyaLTI7btbmzB9k_ns-UA8EI5RaxfzRQgsMIQmHEvbZjwS1q0KfM0DO3toWEGKZG-M_ah8H2rZoN_7s02nVeNHnI0GPz3ImSWU7fV5W51QFQ0BBQBe4o1P3qcBM0yPbGCK3pi-G0UfNmXnV=w143-h110"
+    },
+    "col_3": {
+      "text": "vetementsshop",
+      "links": [
+        {
+          "label": "vetementsshop",
+          "url": "https://oopbuy.com/product/1/659207887969?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "80$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://vetementsshop.x.yupoo.com/albums/87024914?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1119"
+}

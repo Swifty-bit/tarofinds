@@ -1,0 +1,61 @@
+{
+  "name": "CASABLANCAT-ShirtMany Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7431356564%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7431356564?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "8$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/ali1688/704265368581"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxwG43kzZZo0KRpNXi3ki3vNZXVpBE4oJ2ZcH71b-Q0ZcHL-tZVsHHvwwTQPIIniDE18JaYEq4RMQl0XMy0PcvBQLM4OxS3FHhVPmUUGdq5z4n-MZ6qgStCi0Uk9mpWlwqLXQm6nhls3Ctu=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "689"
+    },
+    "col_1": {
+      "text": "CASABLANCAT-ShirtMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxwG43kzZZo0KRpNXi3ki3vNZXVpBE4oJ2ZcH71b-Q0ZcHL-tZVsHHvwwTQPIIniDE18JaYEq4RMQl0XMy0PcvBQLM4OxS3FHhVPmUUGdq5z4n-MZ6qgStCi0Uk9mpWlwqLXQm6nhls3Ctu=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7431356564?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "8$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/ali1688/704265368581"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1128"
+}

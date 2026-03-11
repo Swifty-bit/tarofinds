@@ -1,0 +1,47 @@
+{
+  "name": "ChicagoBlack Toe (2016)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5533395980%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5533395980?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "71$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azt4KD2Rg52dbzt73-xfrZe5HOaGoe3SINjYBBvz8ifzu5K-uhsEUSJ5nqFKqCEdYJwx3tCUP0KuqA4IABoDuKYoPakp0P0yGOpDI7wp6xELNEGmFWTPeRS_rBV_yxYCAxR6QiMfM4yZ50A=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "169"
+    },
+    "col_1": {
+      "text": "ChicagoBlack Toe (2016)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azt4KD2Rg52dbzt73-xfrZe5HOaGoe3SINjYBBvz8ifzu5K-uhsEUSJ5nqFKqCEdYJwx3tCUP0KuqA4IABoDuKYoPakp0P0yGOpDI7wp6xELNEGmFWTPeRS_rBV_yxYCAxR6QiMfM4yZ50A=w143-h100"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/5533395980?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "71$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0158"
+}

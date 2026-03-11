@@ -1,0 +1,87 @@
+{
+  "name": "Venus Diagonal Goggle Hoodie3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F981146107455%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/981146107455?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F756743794908%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "44$",
+  "budget_price": "11$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://cprepscn.x.yupoo.com/albums/161311504?uid=1&isSubCate=false&referrercate=4543871"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzxvQmAiyUGKjokrWUs6ufWkd0zt6jdtoHSFwFkN4LVHDwu46vEvaYvH9JMulNBPWxf6Om8y25EUzwadc6ZoJdaDC6jrl7TrapeivnUQvDM6NJyoWs29Wq1n0A17Sk83siccWWkYztZDgAj=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "253"
+    },
+    "col_1": {
+      "text": "Venus Diagonal Goggle Hoodie3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzxvQmAiyUGKjokrWUs6ufWkd0zt6jdtoHSFwFkN4LVHDwu46vEvaYvH9JMulNBPWxf6Om8y25EUzwadc6ZoJdaDC6jrl7TrapeivnUQvDM6NJyoWs29Wq1n0A17Sk83siccWWkYztZDgAj=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/981146107455?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "44$"
+    },
+    "col_6": {
+      "text": "11$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://cprepscn.x.yupoo.com/albums/161311504?uid=1&isSubCate=false&referrercate=4543871"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0762"
+}

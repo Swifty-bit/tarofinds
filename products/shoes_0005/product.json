@@ -1,0 +1,47 @@
+{
+  "name": "Air Force OneOFF WHITE8 Colors",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OWF",
+  "best_batch_links": [
+    {
+      "label": "OWF",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7328078788%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7328078788?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "57$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRNpLVVNeOJRb_Reov5op6d4Bd-lVl1Sg86iVWQWRal0NEM6E_mI3wPyrnRohKqywwJ5Dbk98KO4_F59p4QeFDyunEvkzdcH_ntjq4EtB52qshKL7ZVbL2UMI3TAlV4jH9wQkvKJOBLg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "12"
+    },
+    "col_1": {
+      "text": "Air Force OneOFF WHITE8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRNpLVVNeOJRb_Reov5op6d4Bd-lVl1Sg86iVWQWRal0NEM6E_mI3wPyrnRohKqywwJ5Dbk98KO4_F59p4QeFDyunEvkzdcH_ntjq4EtB52qshKL7ZVbL2UMI3TAlV4jH9wQkvKJOBLg=w143-h110"
+    },
+    "col_3": {
+      "text": "OWF",
+      "links": [
+        {
+          "label": "OWF",
+          "url": "https://oopbuy.com/product/weidian/7328078788?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "57$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0005"
+}

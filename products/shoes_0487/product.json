@@ -1,0 +1,47 @@
+{
+  "name": "Maison MargielaGATSPaint Splatter",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F705562729612%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTANkcsD_oa_oM5bPqMXj7yptUrBtmkBUFmdlo8qKoB4hMeBdAVu2lPd_DPpZIoDZjno6I4IhS1wduh6rHWf-wTTj0cimZywfUcknKH-SzdOJqW_y4w8wMPprP_Pe-VpI43McBh3yyYw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "562"
+    },
+    "col_1": {
+      "text": "Maison MargielaGATSPaint Splatter"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTANkcsD_oa_oM5bPqMXj7yptUrBtmkBUFmdlo8qKoB4hMeBdAVu2lPd_DPpZIoDZjno6I4IhS1wduh6rHWf-wTTj0cimZywfUcknKH-SzdOJqW_y4w8wMPprP_Pe-VpI43McBh3yyYw=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0487"
+}

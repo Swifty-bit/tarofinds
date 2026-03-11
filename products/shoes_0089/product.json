@@ -1,0 +1,47 @@
+{
+  "name": "Black Gum",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "TOP/S2",
+  "best_batch_links": [
+    {
+      "label": "TOP/S2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251512589%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251512589?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "47$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3mg9__DLWf5cy9i2_-EUB6sHxg8Fjv6F596ToNWMNhRU9u2-tHrvmKIthQ2r_8PBkXR0mVegKCS75jJ2MxgrA-ZnY8fJ8PlHIZo4ss2HRxPNeQMnxdTA0Yy71ukQ5wGIz61n3itNy9e5I=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "98"
+    },
+    "col_1": {
+      "text": "Black Gum"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3mg9__DLWf5cy9i2_-EUB6sHxg8Fjv6F596ToNWMNhRU9u2-tHrvmKIthQ2r_8PBkXR0mVegKCS75jJ2MxgrA-ZnY8fJ8PlHIZo4ss2HRxPNeQMnxdTA0Yy71ukQ5wGIz61n3itNy9e5I=w143-h110"
+    },
+    "col_3": {
+      "text": "TOP/S2",
+      "links": [
+        {
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/2/7251512589?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "47$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0089"
+}

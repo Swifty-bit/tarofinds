@@ -1,0 +1,90 @@
+{
+  "name": "Nocta TechTF2023 Green",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7531193005%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F772266800659%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/772266800659?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "67$(SET)",
+  "budget_price": "29$(SET)",
+  "pics_text": "DRAGON/budget",
+  "pics_links": [
+    {
+      "label": "DRAGON",
+      "url": "https://noghost.x.yupoo.com/albums/150325025?uid=1&isSubCate=false&referrercate=4733109"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631475137855489?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "set 67$ - hoodie 35$ - pants 32$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay03m31F_Yuv2i-TdfVGRKSNC-7N-pGysOulMDJ0-SeXeMia1RM_A_T7qFUPX2PXI8lcz1eUiEVdX3W8qIaP88MJudj0wBEoVR9jWZlsFrlMNk3cT3HYFgUbsFnV672UmI6fYWyz0QLZRDh=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "30"
+    },
+    "col_1": {
+      "text": "Nocta TechTF2023 Green"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay03m31F_Yuv2i-TdfVGRKSNC-7N-pGysOulMDJ0-SeXeMia1RM_A_T7qFUPX2PXI8lcz1eUiEVdX3W8qIaP88MJudj0wBEoVR9jWZlsFrlMNk3cT3HYFgUbsFnV672UmI6fYWyz0QLZRDh=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/772266800659?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "67$(SET)"
+    },
+    "col_6": {
+      "text": "29$(SET)"
+    },
+    "col_7": {
+      "text": "DRAGON/budget",
+      "links": [
+        {
+          "label": "DRAGON",
+          "url": "https://noghost.x.yupoo.com/albums/150325025?uid=1&isSubCate=false&referrercate=4733109"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631475137855489?action=discord&cid=1840597081113280514"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 67$ - hoodie 35$ - pants 32$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0565"
+}

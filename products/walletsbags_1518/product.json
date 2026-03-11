@@ -1,0 +1,61 @@
+{
+  "name": "GoyardCardholder8 Colors",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F927872641982%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/927872641982?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973213283885867010?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyrUmvwE6pUg5IHCCXcBSsdHo9IyosPLFoo5dq4xJ3WmqGFzUUy_Z8_gRYi2-6JOV5HetIiyTZDWbEe91I1SXuT0dH6PO3UR7IrR6ZpofOp58cIfrVk6GJ5j4oIrCputz3UrNM1f3o0lQXb=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "24"
+    },
+    "col_1": {
+      "text": "GoyardCardholder8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrUmvwE6pUg5IHCCXcBSsdHo9IyosPLFoo5dq4xJ3WmqGFzUUy_Z8_gRYi2-6JOV5HetIiyTZDWbEe91I1SXuT0dH6PO3UR7IrR6ZpofOp58cIfrVk6GJ5j4oIrCputz3UrNM1f3o0lQXb=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/927872641982?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973213283885867010?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1518"
+}

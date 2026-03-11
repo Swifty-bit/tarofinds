@@ -1,0 +1,65 @@
+{
+  "name": "on air Jeans",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F996328897857%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/996328897857?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "46$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotders.x.yupoo.com/albums/202429508?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQ7A4thKD_LitR4Bwe-l4i5A9szZeEag43oMYe3_ZmDWzrSsu0vPiBM3aqbDMVp7x01qLBzU_WoCdGkGIq9MA3UglYcvTyNTc-4-ZWvE9bephyw_NSMNDW-cClUhUWjWhAOhoMtSFyVw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "398"
+    },
+    "col_1": {
+      "text": "on air Jeans"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQ7A4thKD_LitR4Bwe-l4i5A9szZeEag43oMYe3_ZmDWzrSsu0vPiBM3aqbDMVp7x01qLBzU_WoCdGkGIq9MA3UglYcvTyNTc-4-ZWvE9bephyw_NSMNDW-cClUhUWjWhAOhoMtSFyVw=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/996328897857?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "46$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotders.x.yupoo.com/albums/202429508?uid=1"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwhImffQJpqG3HFhiEAFJv332imVTCYgpAkyXkf8dA-xwxWTY9FDkZFtTXUUzcSh3GDdIohHVmzXOzFYMMMUW1tFEKfUSwHsJmAjtOnnxLUSS5pliYm7dzvPiWq1-xmXpww1_ICEyq4a3xl=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0881"
+}

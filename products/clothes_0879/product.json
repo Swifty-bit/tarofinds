@@ -1,0 +1,53 @@
+{
+  "name": "\"blossom v2\" Denim blackJeans",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "-",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "50$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotders.x.yupoo.com/albums/203164134?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyMMuM7Z-KOYljmJyCJOo1lauZLYAQolha5nJ3OL_TpWnJk_mqN52zaqjgfBkJ5MY1KOdVZsGKtGnNa-lwqfKA6wxIJOTWlyioBVQSjgmKdd2wD3uHrSq7WNWqvJt6HQQWFuWyC44abiA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "396"
+    },
+    "col_1": {
+      "text": "\"blossom v2\" Denim blackJeans"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyMMuM7Z-KOYljmJyCJOo1lauZLYAQolha5nJ3OL_TpWnJk_mqN52zaqjgfBkJ5MY1KOdVZsGKtGnNa-lwqfKA6wxIJOTWlyioBVQSjgmKdd2wD3uHrSq7WNWqvJt6HQQWFuWyC44abiA=w143-h110"
+    },
+    "col_3": {
+      "text": "-"
+    },
+    "col_5": {
+      "text": "50$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotders.x.yupoo.com/albums/203164134?uid=1"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8RmyetMy7mxpoD0w75i8uuAmztrwMLJp7KcxVS8e0IV4_0ba2uzC04Cw3b2i5xDtM7Nh51H8UlO018cTolVWAsVTXe3dmCLTI_hmIddvnZng89hafsJpXayaIYw_uGjPvMJBH5uW2R09p=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0879"
+}

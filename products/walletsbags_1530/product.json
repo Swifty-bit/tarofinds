@@ -1,0 +1,61 @@
+{
+  "name": "DiorSaddle Bag Mini",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F743655801823%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/743655801823?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "22$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2006563884859740161?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzE0UK7UD81ifri9aoIRHnbY0xMGrbIAFpFpEuC5tCVgSxbJ1fz1jrQ7BEWW3XFQ721nj_4BOppGoaAnFZ64B4vN6g5fCy-4M43hLyNoaFKWMUDKSdkEei7w2wwtY_XDHGgMs_T5BsysTtC=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "36"
+    },
+    "col_1": {
+      "text": "DiorSaddle Bag Mini"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzE0UK7UD81ifri9aoIRHnbY0xMGrbIAFpFpEuC5tCVgSxbJ1fz1jrQ7BEWW3XFQ721nj_4BOppGoaAnFZ64B4vN6g5fCy-4M43hLyNoaFKWMUDKSdkEei7w2wwtY_XDHGgMs_T5BsysTtC=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/743655801823?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006563884859740161?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1530"
+}

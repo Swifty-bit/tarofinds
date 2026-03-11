@@ -1,0 +1,61 @@
+{
+  "name": "Palm AngelsCrane T-shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F963748497964%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/963748497964?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "29$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repsbro.x.yupoo.com/albums/205540173?uid=1&isSubCate=false&referrercate=4971731"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZQPCgHIYHFxVsvEyamvZ0wjY9fCCIOYGDmvqB9KJpS5TNW3bVQYnVqHeFLvNM4rHiUbyk_BjDA-MttEHYqiRu-TF8KU_23dTN03KPE4ucJchN1qu9xeS1oAs7iUxSnIbJBhlPVvUDJraq=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "437"
+    },
+    "col_1": {
+      "text": "Palm AngelsCrane T-shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZQPCgHIYHFxVsvEyamvZ0wjY9fCCIOYGDmvqB9KJpS5TNW3bVQYnVqHeFLvNM4rHiUbyk_BjDA-MttEHYqiRu-TF8KU_23dTN03KPE4ucJchN1qu9xeS1oAs7iUxSnIbJBhlPVvUDJraq=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/963748497964?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "29$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repsbro.x.yupoo.com/albums/205540173?uid=1&isSubCate=false&referrercate=4971731"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0912"
+}

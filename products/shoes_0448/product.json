@@ -1,0 +1,65 @@
+{
+  "name": "Skate xBrown Swarovski",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Koala",
+  "best_batch_links": [
+    {
+      "label": "Koala",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595571456%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7370594492%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "100$",
+  "budget_price": "43$",
+  "pics_text": "43$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxV8M4ni5rzBhHO9mQPKa1zjS2AejQlkmhA4ZWvjKy3QVdaRacABjq1-LJPMvirtJ9JJ0kOgwS_seUGfj3vWclvX252j1vY6dv4nZ6m7NJjAGXwZ_jIRddUAA44d_MYCcQ8kB9mZnqCaw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "509"
+    },
+    "col_1": {
+      "text": "Skate xBrown Swarovski"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxV8M4ni5rzBhHO9mQPKa1zjS2AejQlkmhA4ZWvjKy3QVdaRacABjq1-LJPMvirtJ9JJ0kOgwS_seUGfj3vWclvX252j1vY6dv4nZ6m7NJjAGXwZ_jIRddUAA44d_MYCcQ8kB9mZnqCaw=w143-h110"
+    },
+    "col_3": {
+      "text": "Koala",
+      "links": [
+        {
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "100$"
+    },
+    "col_6": {
+      "text": "43$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0448"
+}

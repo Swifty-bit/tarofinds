@@ -1,0 +1,87 @@
+{
+  "name": "Ralph LaurenLong Socks",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CND ISLAND",
+  "best_batch_links": [
+    {
+      "label": "CND ISLAND",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7447183357%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7447183357?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F842628826623%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "7$(6 Pairs)",
+  "budget_price": "1$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azp5oJJfDGG3gJbwPetoLnpPAErLsUt5IU-O1JKytiZF0_YgVNcm12RObW-fNiuUJDqcZrNStcisUV136RW10bhiyU80hcKQExD5TjyqFF625zfl0pAcQ2okQdvxR69jZNZJws-JTVLsg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "113"
+    },
+    "col_1": {
+      "text": "Ralph LaurenLong Socks"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azp5oJJfDGG3gJbwPetoLnpPAErLsUt5IU-O1JKytiZF0_YgVNcm12RObW-fNiuUJDqcZrNStcisUV136RW10bhiyU80hcKQExD5TjyqFF625zfl0pAcQ2okQdvxR69jZNZJws-JTVLsg=w143-h110"
+    },
+    "col_3": {
+      "text": "CND ISLAND",
+      "links": [
+        {
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7447183357?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "7$(6 Pairs)"
+    },
+    "col_6": {
+      "text": "1$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0642"
+}

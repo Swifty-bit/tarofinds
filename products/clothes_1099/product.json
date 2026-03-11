@@ -1,0 +1,73 @@
+{
+  "name": "Kroen Embroidery Concretelock Sports Suit",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT/GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656807120%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656807120?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656809052%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656809052?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/209300644?uid=1&isSubCate=false&referrercate=4943474"
+    }
+  ],
+  "notes": "set 59$ - top 30$ - bottom 29$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJGED9ZGYxddnZfPr3yrgm26wXOueoS02D11Z9Ytz-uiYWlY4HRTHua_DMCzil04Qa_zgM7wqhTaM-VpqVJp7BYfQVilctTluy6IkAllKQFv3vLEs0QLNxKurCCCiTdp3zilwoioBtjeGT=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "652"
+    },
+    "col_1": {
+      "text": "Kroen Embroidery Concretelock Sports Suit"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJGED9ZGYxddnZfPr3yrgm26wXOueoS02D11Z9Ytz-uiYWlY4HRTHua_DMCzil04Qa_zgM7wqhTaM-VpqVJp7BYfQVilctTluy6IkAllKQFv3vLEs0QLNxKurCCCiTdp3zilwoioBtjeGT=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT/GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656807120?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656809052?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "59$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/209300644?uid=1&isSubCate=false&referrercate=4943474"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 59$ - top 30$ - bottom 29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1099"
+}

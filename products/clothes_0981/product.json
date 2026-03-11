@@ -1,0 +1,69 @@
+{
+  "name": "Stone IslandBadge",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1007366411320%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1007366411320?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "3$",
+  "budget_price": "",
+  "pics_text": "link/pics",
+  "pics_links": [
+    {
+      "label": "link",
+      "url": "https://repsbrothers.x.yupoo.com/albums/221980374?uid=1"
+    },
+    {
+      "label": "pics",
+      "url": "https://hooohooo.x.yupoo.com/albums/221991540?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AykucNfMXFoJanjLXLkjIp_RCkxU3PspfuDu0Bb47mKOS2OiuLao_CFXANEujb7KaKxNpt-sMfqOroKoD6mLyLDQDlIAXF2-QHe8BXS7uEEt3YqUXta-LTud37F3kvXrIgw3ETeD1iD5A=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "516"
+    },
+    "col_1": {
+      "text": "Stone IslandBadge"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AykucNfMXFoJanjLXLkjIp_RCkxU3PspfuDu0Bb47mKOS2OiuLao_CFXANEujb7KaKxNpt-sMfqOroKoD6mLyLDQDlIAXF2-QHe8BXS7uEEt3YqUXta-LTud37F3kvXrIgw3ETeD1iD5A=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/1007366411320?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "link/pics",
+      "links": [
+        {
+          "label": "link",
+          "url": "https://repsbrothers.x.yupoo.com/albums/221980374?uid=1"
+        },
+        {
+          "label": "pics",
+          "url": "https://hooohooo.x.yupoo.com/albums/221991540?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0981"
+}

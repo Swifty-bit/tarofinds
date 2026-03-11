@@ -1,0 +1,56 @@
+{
+  "name": "FS SOCKS2 Colors",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F818485052177%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/818485052177?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "0,44$",
+  "pics_text": "0,44$",
+  "pics_links": [],
+  "notes": "QC Pics",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLt9ao7oAj0rheBJ2X5nTGW5bqY4nL68yX1rNEToRBKzz15jXQNrmQwB2T0EtVlrcrRme-IgVICgt6ScqXr0nxh0RjqxyvQ1aWfcAGVQkS_HvduR9rmvm162dAvNZVqPmSmCwLgXl5ywX9=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "657"
+    },
+    "col_1": {
+      "text": "FS SOCKS2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLt9ao7oAj0rheBJ2X5nTGW5bqY4nL68yX1rNEToRBKzz15jXQNrmQwB2T0EtVlrcrRme-IgVICgt6ScqXr0nxh0RjqxyvQ1aWfcAGVQkS_HvduR9rmvm162dAvNZVqPmSmCwLgXl5ywX9=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/818485052177?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "0,44$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969950175599878146?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0540"
+}

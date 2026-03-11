@@ -1,0 +1,47 @@
+{
+  "name": "Gucci Rhyton",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F680697169947%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/680697169947?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "20$",
+  "pics_text": "20$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azjy39Gz-UM325lgqXwshC7N_LV2OP5-4RORyk3Ewt5CVduF0uZYAOANiXSQTmMg0ZZR-48zCYZxfmu9T4ClVOavGquhzjK-9u6gDAA0n4hQ9gWcJs3pA8LzKD9D10NGU0HuOVWSJSxRm0W=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "595"
+    },
+    "col_1": {
+      "text": "Gucci Rhyton"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azjy39Gz-UM325lgqXwshC7N_LV2OP5-4RORyk3Ewt5CVduF0uZYAOANiXSQTmMg0ZZR-48zCYZxfmu9T4ClVOavGquhzjK-9u6gDAA0n4hQ9gWcJs3pA8LzKD9D10NGU0HuOVWSJSxRm0W=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/680697169947?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "20$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0502"
+}

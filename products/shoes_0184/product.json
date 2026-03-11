@@ -1,0 +1,47 @@
+{
+  "name": "AMM(A Ma Maniere)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6079375814%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6079375814?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "75$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azf5jp37jZP_xG1kSZKMx44YE46lnh6Mrg8f9yCetwPVKTEMEzOogwWRVSxWPytNWVp0Rziiv9-jShRwDrGYIE3MAS1fo5YFdVBeshuJK_BBNUoCOx3-zcjzf0AVUoB7inSu9U6eUSMeQ=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "195"
+    },
+    "col_1": {
+      "text": "AMM(A Ma Maniere)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azf5jp37jZP_xG1kSZKMx44YE46lnh6Mrg8f9yCetwPVKTEMEzOogwWRVSxWPytNWVp0Rziiv9-jShRwDrGYIE3MAS1fo5YFdVBeshuJK_BBNUoCOx3-zcjzf0AVUoB7inSu9U6eUSMeQ=w143-h100"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/6079375814?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "75$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0184"
+}

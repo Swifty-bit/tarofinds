@@ -1,0 +1,61 @@
+{
+  "name": "CB Shorts5 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "akdingji",
+  "best_batch_links": [
+    {
+      "label": "akdingji",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243976533%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7243976533?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://akdingji.x.yupoo.com/albums/166023874?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwsDa-ZtlrtVI3N_8-KJQnTTYx_3V6tlgABDHkZgSGlIu1Q7A5aCxgBM8Z6dIdEJJZbNGNut77w4KtpFA_p_8gtGGt-ou4Y6nNAYkur2INxxSthpaNjsbvqSvjzQdDtQBYJBOTOZbiGUR_N=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "244"
+    },
+    "col_1": {
+      "text": "CB Shorts5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwsDa-ZtlrtVI3N_8-KJQnTTYx_3V6tlgABDHkZgSGlIu1Q7A5aCxgBM8Z6dIdEJJZbNGNut77w4KtpFA_p_8gtGGt-ou4Y6nNAYkur2INxxSthpaNjsbvqSvjzQdDtQBYJBOTOZbiGUR_N=w143-h110"
+    },
+    "col_3": {
+      "text": "akdingji",
+      "links": [
+        {
+          "label": "akdingji",
+          "url": "https://oopbuy.com/product/weidian/7243976533?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://akdingji.x.yupoo.com/albums/166023874?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0755"
+}

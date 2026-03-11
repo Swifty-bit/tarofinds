@@ -1,0 +1,74 @@
+{
+  "name": "Gray Kaws",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX/R1",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "R1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327098245%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327098245?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX2.0",
+  "budget_batch_links": [
+    {
+      "label": "KX2.0",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7249836913%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "83$ / 75$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxF7JFyj8FX6nsU60mtuDltxbPYWH176K3C3KK0U8Zpb_xyrLaLAQhHqrJkx46sJGTy310dQrhH5-Gej8kCAlbmIvFOOfkSOZ0I8KXod1-04kfXAd9fTPLGoGAVBD4aJ1wvjjg78YERZdrI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "264"
+    },
+    "col_1": {
+      "text": "Gray Kaws"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxF7JFyj8FX6nsU60mtuDltxbPYWH176K3C3KK0U8Zpb_xyrLaLAQhHqrJkx46sJGTy310dQrhH5-Gej8kCAlbmIvFOOfkSOZ0I8KXod1-04kfXAd9fTPLGoGAVBD4aJ1wvjjg78YERZdrI=w143-h110"
+    },
+    "col_3": {
+      "text": "GX/R1",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "R1",
+          "url": "https://oopbuy.com/product/2/7327098245?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX2.0",
+      "links": [
+        {
+          "label": "KX2.0",
+          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "83$ / 75$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0249"
+}

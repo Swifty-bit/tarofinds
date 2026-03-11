@@ -1,0 +1,47 @@
+{
+  "name": "ValentinoGaravani Open",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "best",
+  "best_batch_links": [
+    {
+      "label": "best",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805829529060%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805829529060?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "60$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6zzN1PAHmbrWZO_tRAT76AME0yMaO0u7YQ5q88XQX7zOeJ9IbCdUZEylmTqKt0uYAwaeuNhzMAE3m3oOxTYWoE02CK3wK1wl4ESu25aMuJm4r-Z2JmQXrCZrmtZIHiNsYIDcLuEO4Kw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "431"
+    },
+    "col_1": {
+      "text": "ValentinoGaravani Open"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6zzN1PAHmbrWZO_tRAT76AME0yMaO0u7YQ5q88XQX7zOeJ9IbCdUZEylmTqKt0uYAwaeuNhzMAE3m3oOxTYWoE02CK3wK1wl4ESu25aMuJm4r-Z2JmQXrCZrmtZIHiNsYIDcLuEO4Kw=w143-h110"
+    },
+    "col_3": {
+      "text": "best",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://oopbuy.com/product/1/805829529060?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "60$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0386"
+}

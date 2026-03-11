@@ -1,0 +1,61 @@
+{
+  "name": "Moncler Beanie8 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234458934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/7234458934"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxwQU61V8fXSPZNm_gRtThwPZM4wNLEfc6h_Q2ONVnVGYDeYyFoMBk_uNn2YSGpijuovCJlOcdFrAflJop0D2rYzsCKV3mw5hSltBLMGHMkMYTz9p_n0Fws-FWj6dGPF2P1UkEqg6tOsAml=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "309"
+    },
+    "col_1": {
+      "text": "Moncler Beanie8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxwQU61V8fXSPZNm_gRtThwPZM4wNLEfc6h_Q2ONVnVGYDeYyFoMBk_uNn2YSGpijuovCJlOcdFrAflJop0D2rYzsCKV3mw5hSltBLMGHMkMYTz9p_n0Fws-FWj6dGPF2P1UkEqg6tOsAml=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/7234458934"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0814"
+}

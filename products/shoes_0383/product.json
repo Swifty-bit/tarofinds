@@ -1,0 +1,65 @@
+{
+  "name": "Alexander McQueen",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Koala",
+  "best_batch_links": [
+    {
+      "label": "Koala",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F734787846048%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/734787846048?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7326197911%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7326197911?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "94$",
+  "budget_price": "35$",
+  "pics_text": "35$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax20ZPzeuGRnuir-B5jx_zmm7QJW785s8BRx5VwndCLfGUWPsfIdfZdEabJgOosQv_opdAEmQOP783pfmejHLo9Q_XdQbGeIVfvnFeCtmgb0CZB0wV6tBNSMHvl_nybpoqEHYDGbdoaJw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "426"
+    },
+    "col_1": {
+      "text": "Alexander McQueen"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax20ZPzeuGRnuir-B5jx_zmm7QJW785s8BRx5VwndCLfGUWPsfIdfZdEabJgOosQv_opdAEmQOP783pfmejHLo9Q_XdQbGeIVfvnFeCtmgb0CZB0wV6tBNSMHvl_nybpoqEHYDGbdoaJw=w143-h110"
+    },
+    "col_3": {
+      "text": "Koala",
+      "links": [
+        {
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/734787846048?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7326197911?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "94$"
+    },
+    "col_6": {
+      "text": "35$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0383"
+}

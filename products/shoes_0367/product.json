@@ -1,0 +1,47 @@
+{
+  "name": "Supreme x Timberland",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWT",
+  "best_batch_links": [
+    {
+      "label": "WWT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563993287%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "55$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLc-_JFOyxIeVGPVf9oo7ub2BEzNHdrivzZtHNJh5cebwuIkVibHMAch0TGg9PQJaeBxUYux-Z4o5d2svCZRRGR1Kt2PWiqGCu9lGvklB47PP4TKdLFbPtgKKNXstZI_f0dUiXQzP6ONdg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "402"
+    },
+    "col_1": {
+      "text": "Supreme x Timberland"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLc-_JFOyxIeVGPVf9oo7ub2BEzNHdrivzZtHNJh5cebwuIkVibHMAch0TGg9PQJaeBxUYux-Z4o5d2svCZRRGR1Kt2PWiqGCu9lGvklB47PP4TKdLFbPtgKKNXstZI_f0dUiXQzP6ONdg=w143-h110"
+    },
+    "col_3": {
+      "text": "WWT",
+      "links": [
+        {
+          "label": "WWT",
+          "url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "55$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0367"
+}

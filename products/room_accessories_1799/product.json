@@ -1,0 +1,61 @@
+{
+  "name": "MinecraftMany Styles",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "Qingwen",
+  "best_batch_links": [
+    {
+      "label": "Qingwen",
+      "url": "https://oopbuy.com/product/1/689360389169?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$ / 48$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://doppel.fit/item/taobao/689360389169"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxKeS_w7WZOCTkdU4R46XWniMlnBMpX7HedVaATvq4pYvJpQVzqjnUR4pyEUW2_02c_WxIBW8c8EXQ9ZCtG949JS1ScICDSkFJL8OM3v7R_Yauj6j4TUi5G6T3HuxrAvr-UI__eqS2uJA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "14"
+    },
+    "col_1": {
+      "text": "MinecraftMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxKeS_w7WZOCTkdU4R46XWniMlnBMpX7HedVaATvq4pYvJpQVzqjnUR4pyEUW2_02c_WxIBW8c8EXQ9ZCtG949JS1ScICDSkFJL8OM3v7R_Yauj6j4TUi5G6T3HuxrAvr-UI__eqS2uJA=w143-h110"
+    },
+    "col_3": {
+      "text": "Qingwen",
+      "links": [
+        {
+          "label": "Qingwen",
+          "url": "https://oopbuy.com/product/1/689360389169?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$ / 48$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://doppel.fit/item/taobao/689360389169"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1799"
+}

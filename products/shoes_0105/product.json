@@ -1,0 +1,47 @@
+{
+  "name": "There Skateboards",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "TOP/S2",
+  "best_batch_links": [
+    {
+      "label": "TOP/S2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251543921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "48$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw6I5pY-96SVRZTdwM7wjmdJFDY1ENDrX2xHop7i4rChOvOJ89clvJs5BxWCTG-Uw5sMxE2_jblXLLAXplXk1R0KVoPbxxAi4L8liOshGcA1L9ZbuufNFrHQgU6W4iSfB1fKjaISS65Ng=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "114"
+    },
+    "col_1": {
+      "text": "There Skateboards"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw6I5pY-96SVRZTdwM7wjmdJFDY1ENDrX2xHop7i4rChOvOJ89clvJs5BxWCTG-Uw5sMxE2_jblXLLAXplXk1R0KVoPbxxAi4L8liOshGcA1L9ZbuufNFrHQgU6W4iSfB1fKjaISS65Ng=w143-h110"
+    },
+    "col_3": {
+      "text": "TOP/S2",
+      "links": [
+        {
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "48$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0105"
+}

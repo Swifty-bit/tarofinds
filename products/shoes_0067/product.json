@@ -1,0 +1,47 @@
+{
+  "name": "Medium Curry",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "VT",
+  "budget_batch_links": [
+    {
+      "label": "VT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "23$",
+  "pics_text": "23$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPMIwIDhL_ia1ppoM4dEM0Q7Lq9DVypV2tEPs0li-3dMIvHK4hk6Mc-ocJYIq1Ch-Spqm_q0zu7_xZOIhOEPQJGPGUYS3Mbta_VwsN1rRn_7eQ1tTSLXABlKHzB7rW_WIRVyBNW1vGdbO0=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "76"
+    },
+    "col_1": {
+      "text": "Medium Curry"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPMIwIDhL_ia1ppoM4dEM0Q7Lq9DVypV2tEPs0li-3dMIvHK4hk6Mc-ocJYIq1Ch-Spqm_q0zu7_xZOIhOEPQJGPGUYS3Mbta_VwsN1rRn_7eQ1tTSLXABlKHzB7rW_WIRVyBNW1vGdbO0=w143-h110"
+    },
+    "col_4": {
+      "text": "VT",
+      "links": [
+        {
+          "label": "VT",
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "23$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0067"
+}

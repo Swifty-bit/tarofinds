@@ -1,0 +1,61 @@
+{
+  "name": "Louis VuittonKeepall 50",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/950742576043?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "24$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1975387670605029377?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwvcotP00JPaKBGa1fC6UgP-HTzoSpsHCKk8lJtYTybkhOcHzvF1CZyD01Y9K5zW06ZJczZ_jCkLW0QsWcHP651xNGWmejhcjY0oLDvjvnApce1fDPjBqg9df23xHItj9F-INd8fesWjw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "17"
+    },
+    "col_1": {
+      "text": "Louis VuittonKeepall 50"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwvcotP00JPaKBGa1fC6UgP-HTzoSpsHCKk8lJtYTybkhOcHzvF1CZyD01Y9K5zW06ZJczZ_jCkLW0QsWcHP651xNGWmejhcjY0oLDvjvnApce1fDPjBqg9df23xHItj9F-INd8fesWjw=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/950742576043?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "24$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1975387670605029377?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1654"
+}

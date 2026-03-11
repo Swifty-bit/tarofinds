@@ -1,0 +1,65 @@
+{
+  "name": "Travis ScottCanary Yellow",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PK",
+  "best_batch_links": [
+    {
+      "label": "PK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312872656%3F%26inviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7312872656?&inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "PK4.0 B GRADE",
+  "budget_batch_links": [
+    {
+      "label": "PK4.0 B GRADE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327454526%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "60$",
+  "budget_price": "34$",
+  "pics_text": "34$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzQ7QaDYqrJheweN7oOrq9PUT72DnRbLzzpFtTpGpQlPMhzICgecXN7wvqY9kjZG1x8QdTOuE6OGqYlyru7_wrPj4X0HFron7xuacwjKsBW466vbeqBGrfOCPx2SnbR9fVYeriQIyMZ6g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "157"
+    },
+    "col_1": {
+      "text": "Travis ScottCanary Yellow"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzQ7QaDYqrJheweN7oOrq9PUT72DnRbLzzpFtTpGpQlPMhzICgecXN7wvqY9kjZG1x8QdTOuE6OGqYlyru7_wrPj4X0HFron7xuacwjKsBW466vbeqBGrfOCPx2SnbR9fVYeriQIyMZ6g=w143-h110"
+    },
+    "col_3": {
+      "text": "PK",
+      "links": [
+        {
+          "label": "PK",
+          "url": "https://oopbuy.com/product/weidian/7312872656?&inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "PK4.0 B GRADE",
+      "links": [
+        {
+          "label": "PK4.0 B GRADE",
+          "url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "60$"
+    },
+    "col_6": {
+      "text": "34$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0146"
+}

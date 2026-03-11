@@ -1,0 +1,61 @@
+{
+  "name": "LacosteShorts6 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7310131500%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7310131500?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "12$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://newdp.x.yupoo.com/albums/177003383?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3xluIAwKEJzj8YNewOxrRwEWEMBm_nkP-5--u7I90O8f90HaT5Xvv9f51q6t6HJFX7s1iC-HSLLX3MJlKx9evtWfE2lhxDt4P_i7xUuDUOGOmbze6cquMpwuB_hkeIL0x9Rzu5dxdPrAB=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "898"
+    },
+    "col_1": {
+      "text": "LacosteShorts6 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3xluIAwKEJzj8YNewOxrRwEWEMBm_nkP-5--u7I90O8f90HaT5Xvv9f51q6t6HJFX7s1iC-HSLLX3MJlKx9evtWfE2lhxDt4P_i7xUuDUOGOmbze6cquMpwuB_hkeIL0x9Rzu5dxdPrAB=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://www.oopbuy.com/product/weidian/7310131500?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "12$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://newdp.x.yupoo.com/albums/177003383?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1307"
+}

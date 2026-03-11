@@ -1,0 +1,61 @@
+{
+  "name": "ALYX ClearBracelet / Necklace",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/1/650071687251?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058725106442242?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyiKaqXuPJifu5zzKbgsOISSf9VJKCgzVE3IkrZ2uTxB8mO64_pAMXjx3HIyDgoPswQxdrpuvA1kbr2eVmNh2a9X4QPdcUxwt_-ChQjEi8TLmLmYT9p-CbS_2wsiVeagL7zWSsG4wZBCyCl=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "47"
+    },
+    "col_1": {
+      "text": "ALYX ClearBracelet / Necklace"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyiKaqXuPJifu5zzKbgsOISSf9VJKCgzVE3IkrZ2uTxB8mO64_pAMXjx3HIyDgoPswQxdrpuvA1kbr2eVmNh2a9X4QPdcUxwt_-ChQjEi8TLmLmYT9p-CbS_2wsiVeagL7zWSsG4wZBCyCl=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/650071687251?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058725106442242?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1780"
+}

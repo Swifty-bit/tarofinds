@@ -1,0 +1,74 @@
+{
+  "name": "Out Of Office40+ Colours",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GZ/Shark",
+  "best_batch_links": [
+    {
+      "label": "GZ",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565966270%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Shark",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7614176437%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "YC",
+  "budget_batch_links": [
+    {
+      "label": "YC",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7614207865%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "52$ / 50$",
+  "budget_price": "33$",
+  "pics_text": "33$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3U6_nb68bIOIU2H538IlVhr6fH0F-z8CTBYwPyR_QiyuPJjMLodqNKD9ehldMOxANrRCxDSB9OQaYuCB8qVb4mfNWl2CxIk8zynkmlLFQNc-ALJk-G5S48gbU5J8nHtfg5A4zsZmRfyjU=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "408"
+    },
+    "col_1": {
+      "text": "Out Of Office40+ Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3U6_nb68bIOIU2H538IlVhr6fH0F-z8CTBYwPyR_QiyuPJjMLodqNKD9ehldMOxANrRCxDSB9OQaYuCB8qVb4mfNWl2CxIk8zynkmlLFQNc-ALJk-G5S48gbU5J8nHtfg5A4zsZmRfyjU=w143-h110"
+    },
+    "col_3": {
+      "text": "GZ/Shark",
+      "links": [
+        {
+          "label": "GZ",
+          "url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Shark",
+          "url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "YC",
+      "links": [
+        {
+          "label": "YC",
+          "url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "52$ / 50$"
+    },
+    "col_6": {
+      "text": "33$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0369"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "CorteizBolo V2Jacket Puffer",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656824960%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656824960?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "87$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/152901453?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUrPM4p-b3J0bGKTWppx5L7u0PHTm2wpYUyXKhRbtVer73V9jsUzaNCvxgdzqesWqSGg8HsI0bf5GULN6m2FtOZd2VQwX5EqQ6SJb3UPfYpUSzgTGFN5xzKi-p3LSBCghsrNmSgLohtahR=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "177"
+    },
+    "col_1": {
+      "text": "CorteizBolo V2Jacket Puffer"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUrPM4p-b3J0bGKTWppx5L7u0PHTm2wpYUyXKhRbtVer73V9jsUzaNCvxgdzqesWqSGg8HsI0bf5GULN6m2FtOZd2VQwX5EqQ6SJb3UPfYpUSzgTGFN5xzKi-p3LSBCghsrNmSgLohtahR=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656824960?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "87$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/152901453?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0696"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Repair Services Wid Leg Sweatpants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7342532406%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7342532406?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "28$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/161209663?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqcRGLIKymTYcUv2SzJeI-rlvP4dVyHnQBYOA-H1L3NFHM61fk97Fz8jOCi9qDf2-vCx-8m96jK5SEHGyGXpmJkKBcbrGeDIcm1-q2LURztKo5ESt92dSYT01pCEEOJCkBJ338XtxNLopW=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "534"
+    },
+    "col_1": {
+      "text": "Repair Services Wid Leg Sweatpants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqcRGLIKymTYcUv2SzJeI-rlvP4dVyHnQBYOA-H1L3NFHM61fk97Fz8jOCi9qDf2-vCx-8m96jK5SEHGyGXpmJkKBcbrGeDIcm1-q2LURztKo5ESt92dSYT01pCEEOJCkBJ338XtxNLopW=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://www.oopbuy.com/product/weidian/7342532406?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "28$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/161209663?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0997"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Crocs",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Crocs",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "",
+  "raw_cells": {
+    "col_0": {
+      "text": "637"
+    },
+    "col_3": {
+      "text": "Crocs"
+    }
+  },
+  "local_image": "",
+  "folder": "shoes_0577"
+}

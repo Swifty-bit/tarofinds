@@ -1,0 +1,61 @@
+{
+  "name": "Lacoste2025 T-Shirt5 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "FrenchFish",
+  "best_batch_links": [
+    {
+      "label": "FrenchFish",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7261157305%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7261157305?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "23$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1944925194498994178?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay4gfqJnJUd_JUmBedHPyIF1lLPHH9bpfpNlZYYEW3oaaUwdRkSWPy4vDiuMhUg4K2hlh28DIuIM62E5kQovfnntRARz1EXsq72Ypc9NSinelajjCAXLGN-6od5RsqqZmM44VPhZ60SuQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "878"
+    },
+    "col_1": {
+      "text": "Lacoste2025 T-Shirt5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay4gfqJnJUd_JUmBedHPyIF1lLPHH9bpfpNlZYYEW3oaaUwdRkSWPy4vDiuMhUg4K2hlh28DIuIM62E5kQovfnntRARz1EXsq72Ypc9NSinelajjCAXLGN-6od5RsqqZmM44VPhZ60SuQ=w143-h110"
+    },
+    "col_3": {
+      "text": "FrenchFish",
+      "links": [
+        {
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7261157305?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1944925194498994178?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1287"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Gucci Beanie4 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/weidian/7234316984?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1977562105852289026?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxV2ihYHuYyirK7zt1UNoPnwvBnwGsmkRHKoSX14UKCzjw4tGvzpBcTtu-67Jm7JY_o7Dh4MUtlCZEJQWzLnjQmpWujPi0pDM7uu_uSU8ocGJKg1WKVyTVl1RbeUscB6nfuB5RJl6OIydEQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1030"
+    },
+    "col_1": {
+      "text": "Gucci Beanie4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxV2ihYHuYyirK7zt1UNoPnwvBnwGsmkRHKoSX14UKCzjw4tGvzpBcTtu-67Jm7JY_o7Dh4MUtlCZEJQWzLnjQmpWujPi0pDM7uu_uSU8ocGJKg1WKVyTVl1RbeUscB6nfuB5RJl6OIydEQ=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7234316984?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1977562105852289026?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1552"
+}

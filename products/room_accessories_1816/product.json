@@ -1,0 +1,61 @@
+{
+  "name": "Space Shuttle",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "Qingwen",
+  "best_batch_links": [
+    {
+      "label": "Qingwen",
+      "url": "https://oopbuy.com/product/1/684480700967?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1988834718827253761?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxvoHd846LjadoMvs3StZU1yg3iu5IKfxxZ1nUgTD004o6g5SPlWR9aGnP0vbxzlTmKIck7iKuX3xJ18iTu1Ge8094r4GTPRWLub1K8Z_2oM42eeKVK9oU16zZLwasQzKIp70vsU9DQcDqG=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "31"
+    },
+    "col_1": {
+      "text": "Space Shuttle"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxvoHd846LjadoMvs3StZU1yg3iu5IKfxxZ1nUgTD004o6g5SPlWR9aGnP0vbxzlTmKIck7iKuX3xJ18iTu1Ge8094r4GTPRWLub1K8Z_2oM42eeKVK9oU16zZLwasQzKIp70vsU9DQcDqG=w143-h110"
+    },
+    "col_3": {
+      "text": "Qingwen",
+      "links": [
+        {
+          "label": "Qingwen",
+          "url": "https://oopbuy.com/product/1/684480700967?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1988834718827253761?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1816"
+}

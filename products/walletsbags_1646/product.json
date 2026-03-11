@@ -1,0 +1,65 @@
+{
+  "name": "Louis VuittonMultiple Wallet6 Colors",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.oopbuy.com/product/weidian/6180840599?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "12$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1972850554020913153?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayo_Pzo2zcCl6Uh-ziKOlJP5TOV1j9bbiFnKh61Xk_N99ATHdUAF9-UP893_PoLk3f9U8Xo7S8A_MOXtdiWa6Y4Lbe0FxCmwlKk7IDwjSqfcBUOFlURQ7oyGrPeK_NMZFLf7dd6Koopk1Ah=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "9"
+    },
+    "col_1": {
+      "text": "Louis VuittonMultiple Wallet6 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayo_Pzo2zcCl6Uh-ziKOlJP5TOV1j9bbiFnKh61Xk_N99ATHdUAF9-UP893_PoLk3f9U8Xo7S8A_MOXtdiWa6Y4Lbe0FxCmwlKk7IDwjSqfcBUOFlURQ7oyGrPeK_NMZFLf7dd6Koopk1Ah=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/6180840599?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "12$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1972850554020913153?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxkPKwDYU775nOaOoqdiEhgsgw1Us9kc3_Sblo_iCT1rV9YTuQnOSdTOt-9tyfgMYyz0RtXSqOEPKJaZC8bIW9KbfeGJj7zY60Woqx8lCDVqc8qzhQVFfedzmAbwSAMl2lohK7d_WllJrLE=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1646"
+}

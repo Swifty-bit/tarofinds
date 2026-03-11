@@ -1,0 +1,61 @@
+{
+  "name": "Celine Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "1to1",
+  "best_batch_links": [
+    {
+      "label": "1to1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6099911936%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6099911936?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "54$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/215422593?uid=1&isSubCate=false&referrercate=5012627"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw8rVrqyfEh04VV43EIe31Rjm4X33Iyu5ZeMjpa8hmR9nN9leNsnyPjGiH8Nwi6gC54D_dK3DQ4z6ImVgnHHunpjDuBkv29qJEib9yqH9Z2MiyDY2JnaDd5w6vsKuSOI8maE0PsraNtHUms=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "375"
+    },
+    "col_1": {
+      "text": "Celine Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw8rVrqyfEh04VV43EIe31Rjm4X33Iyu5ZeMjpa8hmR9nN9leNsnyPjGiH8Nwi6gC54D_dK3DQ4z6ImVgnHHunpjDuBkv29qJEib9yqH9Z2MiyDY2JnaDd5w6vsKuSOI8maE0PsraNtHUms=w143-h110"
+    },
+    "col_3": {
+      "text": "1to1",
+      "links": [
+        {
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/weidian/6099911936?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "54$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/215422593?uid=1&isSubCate=false&referrercate=5012627"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0864"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Gallery Dept T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F654871536569%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/654871536569?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "15$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1891230363882696706?cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSvy2vkTQ9qtUn6Cli9s0B0lXQR30OjwU1SzY3R29Q6-jmzQgMTUudtqQmEKcdRiwteNTVoIz9unUeWdkQEY4N4NfkXieAfM_H7yUg1pAS9aHnKjRp3zFPde0CcaRQNX6btgC1tbQoLP55=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "184"
+    },
+    "col_1": {
+      "text": "Gallery Dept T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSvy2vkTQ9qtUn6Cli9s0B0lXQR30OjwU1SzY3R29Q6-jmzQgMTUudtqQmEKcdRiwteNTVoIz9unUeWdkQEY4N4NfkXieAfM_H7yUg1pAS9aHnKjRp3zFPde0CcaRQNX6btgC1tbQoLP55=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/654871536569?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1891230363882696706?cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0701"
+}

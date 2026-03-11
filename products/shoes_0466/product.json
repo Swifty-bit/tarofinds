@@ -1,0 +1,74 @@
+{
+  "name": "Gel-Kayano 1425 Colours",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "ZC/9mile",
+  "best_batch_links": [
+    {
+      "label": "ZC",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7298687712%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7298687712?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "9mile",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7696665135%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7696665135?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7241418798%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7241418798?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "38$ / 35$",
+  "budget_price": "31$",
+  "pics_text": "31$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-sjxX3t5-E6RCqFbJXrShNFx0epN6JqB_M39RDSFq3BvuFS1D9qLOmP-k1ySk4c4I8H2apD4Z6nGaQf0XriHrszR6XDvmTgveVJhtTHZ-Ocf7X1OOKChp1pdK-UoxYapmiPPbD_1PeEil=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "531"
+    },
+    "col_1": {
+      "text": "Gel-Kayano 1425 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-sjxX3t5-E6RCqFbJXrShNFx0epN6JqB_M39RDSFq3BvuFS1D9qLOmP-k1ySk4c4I8H2apD4Z6nGaQf0XriHrszR6XDvmTgveVJhtTHZ-Ocf7X1OOKChp1pdK-UoxYapmiPPbD_1PeEil=w143-h110"
+    },
+    "col_3": {
+      "text": "ZC/9mile",
+      "links": [
+        {
+          "label": "ZC",
+          "url": "https://www.oopbuy.com/product/weidian/7298687712?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "9mile",
+          "url": "https://oopbuy.com/product/weidian/7696665135?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/7241418798?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "38$ / 35$"
+    },
+    "col_6": {
+      "text": "31$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0466"
+}

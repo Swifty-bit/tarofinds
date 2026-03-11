@@ -1,0 +1,61 @@
+{
+  "name": "BurberryMonogram Cap",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "ogwave",
+  "best_batch_links": [
+    {
+      "label": "ogwave",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7435247850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7435247850?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "19$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://ogwave.x.yupoo.com/albums/175087829?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyR9Owm0o71-uliaARmdoyz8ariFciTBx5IucJHOLghgUuHdueWultz701QVK8oT2iMDVxeU66YJBsMxbqNhOn8H6BIUsPORQEkespvzwmrBzdvqf2_xb4ad30ecsW0b_5-IC43lTPTEQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1016"
+    },
+    "col_1": {
+      "text": "BurberryMonogram Cap"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyR9Owm0o71-uliaARmdoyz8ariFciTBx5IucJHOLghgUuHdueWultz701QVK8oT2iMDVxeU66YJBsMxbqNhOn8H6BIUsPORQEkespvzwmrBzdvqf2_xb4ad30ecsW0b_5-IC43lTPTEQ=w143-h110"
+    },
+    "col_3": {
+      "text": "ogwave",
+      "links": [
+        {
+          "label": "ogwave",
+          "url": "https://www.oopbuy.com/product/weidian/7435247850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "19$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://ogwave.x.yupoo.com/albums/175087829?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1409"
+}

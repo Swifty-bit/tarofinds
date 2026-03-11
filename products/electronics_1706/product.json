@@ -1,0 +1,61 @@
+{
+  "name": "MagSafe Charger",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7224159577%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7224159577?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "4$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1947242666817273857?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az24PowONtiwZr92hyPe-ZP2Q_N1k08lYVVZ9J1kQoMEW6D0kBAI2o9qQMKkUhFRVI03e92dZOx0zJLVsVV3HZMhw1VUjQycE5hDSRZsvz0PoGMUbHVmEMish3Mx1354TKDjSlb29btnEL3=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "23"
+    },
+    "col_1": {
+      "text": "MagSafe Charger"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az24PowONtiwZr92hyPe-ZP2Q_N1k08lYVVZ9J1kQoMEW6D0kBAI2o9qQMKkUhFRVI03e92dZOx0zJLVsVV3HZMhw1VUjQycE5hDSRZsvz0PoGMUbHVmEMish3Mx1354TKDjSlb29btnEL3=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/weidian/7224159577?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1947242666817273857?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "electronics_1706"
+}

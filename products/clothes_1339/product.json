@@ -1,0 +1,61 @@
+{
+  "name": "Palace Oakley Beanie2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7498043064%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7498043064?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "15$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://dragonrep333.x.yupoo.com/albums/207877223?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az0KJgSZic6hUTukNGr96eoT2Xo71OEbx7BpnnTr25QuKMVkcfBQkwlC6GBuVWx4UcxCUW_xByO5SFKPf2zA3wEVDiNhGluwIoN5fxleN9OCLBpZrBoLT51fXzn7swWa2ZQh3dD2OV96g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "936"
+    },
+    "col_1": {
+      "text": "Palace Oakley Beanie2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0KJgSZic6hUTukNGr96eoT2Xo71OEbx7BpnnTr25QuKMVkcfBQkwlC6GBuVWx4UcxCUW_xByO5SFKPf2zA3wEVDiNhGluwIoN5fxleN9OCLBpZrBoLT51fXzn7swWa2ZQh3dD2OV96g=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7498043064?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://dragonrep333.x.yupoo.com/albums/207877223?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1339"
+}

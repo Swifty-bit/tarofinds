@@ -1,0 +1,61 @@
+{
+  "name": "HellstarTees and ShortsMany Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "33TRENTE",
+  "budget_batch_links": [
+    {
+      "label": "33TRENTE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F716267662724%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/716267662724?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1999427486951772164?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyazwFl16_k1OEPr3oWsgS7sRlvGSoQQz0Q__fKcNtVhqE0gmXjB1vCnGtbXdQ5uY7gs7_VxjeSdGaw-Z6yZWBrUAJiOlyWP72ux76r68Y8Tgd-CJDLMlERYg3uFa8ZQO3W4yCd7ha--hk3=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "617"
+    },
+    "col_1": {
+      "text": "HellstarTees and ShortsMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyazwFl16_k1OEPr3oWsgS7sRlvGSoQQz0Q__fKcNtVhqE0gmXjB1vCnGtbXdQ5uY7gs7_VxjeSdGaw-Z6yZWBrUAJiOlyWP72ux76r68Y8Tgd-CJDLMlERYg3uFa8ZQO3W4yCd7ha--hk3=w143-h110"
+    },
+    "col_4": {
+      "text": "33TRENTE",
+      "links": [
+        {
+          "label": "33TRENTE",
+          "url": "https://oopbuy.com/product/1/716267662724?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1999427486951772164?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1068"
+}

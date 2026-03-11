@@ -1,0 +1,65 @@
+{
+  "name": "Dior B9",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Alison",
+  "best_batch_links": [
+    {
+      "label": "Alison",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F861145414872%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/861145414872?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "FS",
+  "budget_batch_links": [
+    {
+      "label": "FS",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7568136006%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7568136006?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "120$",
+  "budget_price": "85$",
+  "pics_text": "85$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1ZR3gJot0e-yM_WB71MlPp8yEY2wLoTTURmIm8ARfHdRvuR3I66QjSOZYOJcR_Y9wPYuDda1ulCi5LbXIroZwMWda92WajxSLpGtHeZhKgoDyEV6kxqpQ5b3FmNdF4-058Ux7F0o1mw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "465"
+    },
+    "col_1": {
+      "text": "Dior B9"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1ZR3gJot0e-yM_WB71MlPp8yEY2wLoTTURmIm8ARfHdRvuR3I66QjSOZYOJcR_Y9wPYuDda1ulCi5LbXIroZwMWda92WajxSLpGtHeZhKgoDyEV6kxqpQ5b3FmNdF4-058Ux7F0o1mw=w143-h110"
+    },
+    "col_3": {
+      "text": "Alison",
+      "links": [
+        {
+          "label": "Alison",
+          "url": "https://www.oopbuy.com/product/1/861145414872?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FS",
+      "links": [
+        {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7568136006?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "120$"
+    },
+    "col_6": {
+      "text": "85$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0408"
+}

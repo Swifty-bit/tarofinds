@@ -1,0 +1,47 @@
+{
+  "name": "Air Max DN",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565942842%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565942842?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyrmhQH9OWC_B5c8g055UtPnyuq9KnTNYZiWSdcqh08peMvFWfeUOZ-txUULA9a7Eya1EKB2XhYEmEoFCXgP8VZvfDYiV35bZLHC_3Ymtg52zrzyfuE7mzKbdTNvcWeDJx5tpc9MEZ_wg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "36"
+    },
+    "col_1": {
+      "text": "Air Max DN"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrmhQH9OWC_B5c8g055UtPnyuq9KnTNYZiWSdcqh08peMvFWfeUOZ-txUULA9a7Eya1EKB2XhYEmEoFCXgP8VZvfDYiV35bZLHC_3Ymtg52zrzyfuE7mzKbdTNvcWeDJx5tpc9MEZ_wg=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565942842?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0029"
+}

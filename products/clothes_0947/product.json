@@ -1,0 +1,64 @@
+{
+  "name": "Denim TearsTees and ShortsMany Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "33TRENTE",
+  "budget_batch_links": [
+    {
+      "label": "33TRENTE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F670071114503%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "30$(SET)",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "set 30$ - t-shirt 15$ - shorts 15$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyjkPLdsj2FXQ0aLePsg6fQVWcLNFuJNW-2E8OE7S-Us7cFTm5_oavPR9ng3xltJ9Milq8U1GQs0y2ksKX83v6WGKN-zeDb27vpTwFAvV4nNvK2lLDI-r7H97SNe5WmZ_jlK0VMKRYkfovr=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "476"
+    },
+    "col_1": {
+      "text": "Denim TearsTees and ShortsMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyjkPLdsj2FXQ0aLePsg6fQVWcLNFuJNW-2E8OE7S-Us7cFTm5_oavPR9ng3xltJ9Milq8U1GQs0y2ksKX83v6WGKN-zeDb27vpTwFAvV4nNvK2lLDI-r7H97SNe5WmZ_jlK0VMKRYkfovr=w143-h110"
+    },
+    "col_4": {
+      "text": "33TRENTE",
+      "links": [
+        {
+          "label": "33TRENTE",
+          "url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "30$(SET)"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 30$ - t-shirt 15$ - shorts 15$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0947"
+}

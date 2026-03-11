@@ -1,0 +1,61 @@
+{
+  "name": "Under ArmourShorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F786523684502%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/786523684502?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1950361343109451778?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwN8Sb44dsbfN_chw384XS6eQIxsFFgUwjV96GgEBJIcB1DK0WwV6hMVpRT88PYXmUN4Ji0IDrreOK1Wa-gVscoXEa3yGOEMfpY3wku-jNpdC37dhoiCqiw3bMchg8UL4kfAV9yn1J_WA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "361"
+    },
+    "col_1": {
+      "text": "Under ArmourShorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwN8Sb44dsbfN_chw384XS6eQIxsFFgUwjV96GgEBJIcB1DK0WwV6hMVpRT88PYXmUN4Ji0IDrreOK1Wa-gVscoXEa3yGOEMfpY3wku-jNpdC37dhoiCqiw3bMchg8UL4kfAV9yn1J_WA=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/786523684502?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1950361343109451778?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0852"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Rick Owens Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PinkElephant",
+  "best_batch_links": [
+    {
+      "label": "PinkElephant",
+      "url": "https://oopbuy.com/product/2/4351425263?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "123$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/5596707916"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyU2I_kKSflFX-x_aD30jLU699yEglBX5DM7LNOCISZx3IK9PQ16p2V7rObC1Fx81ITyllPt3wIY1ZC10rnS1H7qBM40QhcvdBSsGllJ2qdY6I42YV_GCkcotw2xarKh6vELxlBPPM8ue40=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1129"
+    },
+    "col_1": {
+      "text": "Rick Owens Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyU2I_kKSflFX-x_aD30jLU699yEglBX5DM7LNOCISZx3IK9PQ16p2V7rObC1Fx81ITyllPt3wIY1ZC10rnS1H7qBM40QhcvdBSsGllJ2qdY6I42YV_GCkcotw2xarKh6vELxlBPPM8ue40=w143-h110"
+    },
+    "col_3": {
+      "text": "PinkElephant",
+      "links": [
+        {
+          "label": "PinkElephant",
+          "url": "https://oopbuy.com/product/2/4351425263?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "123$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/5596707916"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1641"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "MA-1 Crystal",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Chipotle",
+  "best_batch_links": [
+    {
+      "label": "Chipotle",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7401621964%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7401621964?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "118$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxRfrUpAuNelM6DRs5YNsDSpvKyYBNgBXH_W2xV5UHQgUfeZWci-1ixPT5VHam3Q-coPZdnDyzfme6EsugJ3qbIUefOuBtqpRvgMBesMHx8JGyQZbU2MDZ9oSH8hEc9cNfHrf6Kfu1JX-5w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "522"
+    },
+    "col_1": {
+      "text": "MA-1 Crystal"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxRfrUpAuNelM6DRs5YNsDSpvKyYBNgBXH_W2xV5UHQgUfeZWci-1ixPT5VHam3Q-coPZdnDyzfme6EsugJ3qbIUefOuBtqpRvgMBesMHx8JGyQZbU2MDZ9oSH8hEc9cNfHrf6Kfu1JX-5w=w143-h110"
+    },
+    "col_3": {
+      "text": "Chipotle",
+      "links": [
+        {
+          "label": "Chipotle",
+          "url": "https://oopbuy.com/product/2/7401621964?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "118$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0459"
+}

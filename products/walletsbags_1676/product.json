@@ -1,0 +1,61 @@
+{
+  "name": "GucciSupreme Belt Bag4 Styles",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/761055475784?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005734513374744577?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AybK38exkJsSM-OdjDm06JLhl258K4uH3yjAPxHFD1IO1OHlS88fuxrtdo9VuAd_qaGT1yGb8i9FYa6n2zCIV04GTcef6d_KN1NyAb40YlJsWCxWgHUnWFSmYmSNNe3bgXax1doF5xI0bC0=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "39"
+    },
+    "col_1": {
+      "text": "GucciSupreme Belt Bag4 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AybK38exkJsSM-OdjDm06JLhl258K4uH3yjAPxHFD1IO1OHlS88fuxrtdo9VuAd_qaGT1yGb8i9FYa6n2zCIV04GTcef6d_KN1NyAb40YlJsWCxWgHUnWFSmYmSNNe3bgXax1doF5xI0bC0=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/761055475784?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005734513374744577?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1676"
+}

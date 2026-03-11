@@ -1,0 +1,61 @@
+{
+  "name": "PHARRELL Hooded Bomber Down Jacket(Black)",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://oopbuy.com/product/weidian/7671523112?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "109$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/179204523?uid=1&isSubCate=false&referrercate=4543872"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjzBOfAPM_0RRrGEHdpgWI_pN2QssPR-W4ojN3T8KIl3W1kzZRY6JAl2nP0_botqEazTZHk_VffHxXAZidLVaGAXX7q6ezZOc_opkcjpOkHLOEm6bttT7W9f9_MrTPFehXuokk2ngsIg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1064"
+    },
+    "col_1": {
+      "text": "PHARRELL Hooded Bomber Down Jacket(Black)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjzBOfAPM_0RRrGEHdpgWI_pN2QssPR-W4ojN3T8KIl3W1kzZRY6JAl2nP0_botqEazTZHk_VffHxXAZidLVaGAXX7q6ezZOc_opkcjpOkHLOEm6bttT7W9f9_MrTPFehXuokk2ngsIg=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/weidian/7671523112?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "109$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/179204523?uid=1&isSubCate=false&referrercate=4543872"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1582"
+}

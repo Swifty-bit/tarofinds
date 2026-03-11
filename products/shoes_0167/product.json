@@ -1,0 +1,47 @@
+{
+  "name": "Court PurpleWhite Toe",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4327889542%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4327889542?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "69$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayzf_f1JxWUpnSmndjAiqE7NxvL02wYu49mGDYvWd4euPcI1nYkUimGTUs2II0t6BEL8ght0PNxQ3u90saWFPPE4Q2LcWQ1luHw0o33_-8RmZq4YyD0weiN2vwipoqVFtnCStUNnGct7Q=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "178"
+    },
+    "col_1": {
+      "text": "Court PurpleWhite Toe"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayzf_f1JxWUpnSmndjAiqE7NxvL02wYu49mGDYvWd4euPcI1nYkUimGTUs2II0t6BEL8ght0PNxQ3u90saWFPPE4Q2LcWQ1luHw0o33_-8RmZq4YyD0weiN2vwipoqVFtnCStUNnGct7Q=w143-h100"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/4327889542?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "69$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0167"
+}

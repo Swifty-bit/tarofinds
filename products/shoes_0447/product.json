@@ -1,0 +1,65 @@
+{
+  "name": "Skate x Swarovski",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Koala",
+  "best_batch_links": [
+    {
+      "label": "Koala",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595571456%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7370594492%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "108$",
+  "budget_price": "43$",
+  "pics_text": "43$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzvHiwCCIRJNhgzNulnr5tVdqhOly5pnipUKzUyWFwM-A3KYlwCKj1jCb6MdjUl0BcShg5cm-efoz8rXnehxtAL-tEckUs2ZvsaGMJEzQNL-BiYu78jQe3Qje98lrJGl0CLYqGWLJ-wLz00=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "508"
+    },
+    "col_1": {
+      "text": "Skate x Swarovski"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzvHiwCCIRJNhgzNulnr5tVdqhOly5pnipUKzUyWFwM-A3KYlwCKj1jCb6MdjUl0BcShg5cm-efoz8rXnehxtAL-tEckUs2ZvsaGMJEzQNL-BiYu78jQe3Qje98lrJGl0CLYqGWLJ-wLz00=w143-h110"
+    },
+    "col_3": {
+      "text": "Koala",
+      "links": [
+        {
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "108$"
+    },
+    "col_6": {
+      "text": "43$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0447"
+}

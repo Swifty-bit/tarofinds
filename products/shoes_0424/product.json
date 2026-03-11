@@ -1,0 +1,74 @@
+{
+  "name": "Speed Trainer",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GOURD/H",
+  "best_batch_links": [
+    {
+      "label": "GOURD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5917226967%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5917226967?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "H",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7433582142%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7433582142?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F847059890789%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/847059890789?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "48$",
+  "budget_price": "30$",
+  "pics_text": "30$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDCPOP7qc-NTQZCmMIbWtDsFa9pAAaUD-S7PNr3T8OGY3VzpkWGq7i8iTdPw458PDNS8F33QGKAi1id6GC1AS078tN3yjUVBj1u-7IMOv5N1tD5LX4_ESnrt5PKqewn_PGaeALyny8nnAo=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "483"
+    },
+    "col_1": {
+      "text": "Speed Trainer"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDCPOP7qc-NTQZCmMIbWtDsFa9pAAaUD-S7PNr3T8OGY3VzpkWGq7i8iTdPw458PDNS8F33QGKAi1id6GC1AS078tN3yjUVBj1u-7IMOv5N1tD5LX4_ESnrt5PKqewn_PGaeALyny8nnAo=w143-h110"
+    },
+    "col_3": {
+      "text": "GOURD/H",
+      "links": [
+        {
+          "label": "GOURD",
+          "url": "https://oopbuy.com/product/2/5917226967?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "H",
+          "url": "https://oopbuy.com/product/weidian/7433582142?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/847059890789?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "48$"
+    },
+    "col_6": {
+      "text": "30$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0424"
+}

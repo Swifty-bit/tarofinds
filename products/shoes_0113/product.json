@@ -1,0 +1,47 @@
+{
+  "name": "Yellow Lobster",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OG",
+  "best_batch_links": [
+    {
+      "label": "OG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245075709%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "58$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXO94k6L-d77izUuic9h46JNpESB_n_G_Eek9HpnQr1AJbeniTJ_laWfzMPePDyTlVV9595q0qmFpEYF4i-4gA9e2i7Z-2_5mgbIKHYNQ2yJm8-En8YA0ucWMzrl89VRLw0gXXe3f6Z4Zp=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "122"
+    },
+    "col_1": {
+      "text": "Yellow Lobster"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXO94k6L-d77izUuic9h46JNpESB_n_G_Eek9HpnQr1AJbeniTJ_laWfzMPePDyTlVV9595q0qmFpEYF4i-4gA9e2i7Z-2_5mgbIKHYNQ2yJm8-En8YA0ucWMzrl89VRLw0gXXe3f6Z4Zp=w143-h110"
+    },
+    "col_3": {
+      "text": "OG",
+      "links": [
+        {
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "58$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0113"
+}

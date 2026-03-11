@@ -1,0 +1,61 @@
+{
+  "name": "ALYX8 Colors",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F594133558750%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/594133558750?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "7$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968500792152907777?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0c59d_PWpp4UqRjI1sh8ZXq12y_egJx-wxOxx6CwEVyCr51JmQpX7WtCRgw219dtn2jcXrPHGiwBqDiy4ThtLyl3OEzZx_SoKdYk-Mzpg2HciAcNIUg2XbccB3d0cme9OtKEId_PNMPQw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "17"
+    },
+    "col_1": {
+      "text": "ALYX8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0c59d_PWpp4UqRjI1sh8ZXq12y_egJx-wxOxx6CwEVyCr51JmQpX7WtCRgw219dtn2jcXrPHGiwBqDiy4ThtLyl3OEzZx_SoKdYk-Mzpg2HciAcNIUg2XbccB3d0cme9OtKEId_PNMPQw=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/594133558750?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968500792152907777?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1555"
+}

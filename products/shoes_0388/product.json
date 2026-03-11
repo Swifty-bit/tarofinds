@@ -1,0 +1,65 @@
+{
+  "name": "LouboutinsBlue",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "RG-NEON",
+  "best_batch_links": [
+    {
+      "label": "RG-NEON",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7235686592%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7235686592?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F839116782886%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/839116782886?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "117$",
+  "budget_price": "34$",
+  "pics_text": "34$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjOh_8uF6uhBITnOJOGmdep2HIrpdRlcxLHQZheUJmcvfDTnDZSfiay1bxeAPvovnBcqdXFTkDrZc7NA4YWj5m_buhJafyRFhMwJ4p3rj3zZjHePOGtqwn5vldyofMr2J1v6z5VzoBKgSt=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "435"
+    },
+    "col_1": {
+      "text": "LouboutinsBlue"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjOh_8uF6uhBITnOJOGmdep2HIrpdRlcxLHQZheUJmcvfDTnDZSfiay1bxeAPvovnBcqdXFTkDrZc7NA4YWj5m_buhJafyRFhMwJ4p3rj3zZjHePOGtqwn5vldyofMr2J1v6z5VzoBKgSt=w143-h110"
+    },
+    "col_3": {
+      "text": "RG-NEON",
+      "links": [
+        {
+          "label": "RG-NEON",
+          "url": "https://oopbuy.com/product/weidian/7235686592?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/839116782886?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "117$"
+    },
+    "col_6": {
+      "text": "34$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0388"
+}

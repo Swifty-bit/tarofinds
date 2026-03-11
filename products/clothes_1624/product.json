@@ -1,0 +1,61 @@
+{
+  "name": "Moose Knuckles Stagg BomberPuffer Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "palmmoose",
+  "best_batch_links": [
+    {
+      "label": "palmmoose",
+      "url": "https://oopbuy.com/product/0/839875839985?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "94$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1991343996641316866?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwNd60yOp67bALkMj0DfZAGaPEZWrE3d0p0_VT2uKobjl_CMHB6-uoVzw0K7TjkfPEEjkFGmBJTHpD4S6wDyi6YX6mEKa9nXyd0uKz4n9BXcovf-flV1AEomSCO8ksKzVWIkS9FZamWg7Du=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1109"
+    },
+    "col_1": {
+      "text": "Moose Knuckles Stagg BomberPuffer Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwNd60yOp67bALkMj0DfZAGaPEZWrE3d0p0_VT2uKobjl_CMHB6-uoVzw0K7TjkfPEEjkFGmBJTHpD4S6wDyi6YX6mEKa9nXyd0uKz4n9BXcovf-flV1AEomSCO8ksKzVWIkS9FZamWg7Du=w143-h110"
+    },
+    "col_3": {
+      "text": "palmmoose",
+      "links": [
+        {
+          "label": "palmmoose",
+          "url": "https://oopbuy.com/product/0/839875839985?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "94$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1991343996641316866?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1624"
+}

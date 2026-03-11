@@ -1,0 +1,47 @@
+{
+  "name": "GucciBracelet / Necklace",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/weidian/7267603858?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$ / 83$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzNShA-NOAFUM2_B9OhZ1zOm_6Gf4jrDqv5tpHY8EkoSsD76M9BqPDZYMHNK0NTLKyWCSFYBCseoSSmGA6Wu98Ea1msFWxwCsbbJDP0A-O0k3e-r2l672hOjH4x5a1k1cuPqC0WrxJPl6VC=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "56"
+    },
+    "col_1": {
+      "text": "GucciBracelet / Necklace"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzNShA-NOAFUM2_B9OhZ1zOm_6Gf4jrDqv5tpHY8EkoSsD76M9BqPDZYMHNK0NTLKyWCSFYBCseoSSmGA6Wu98Ea1msFWxwCsbbJDP0A-O0k3e-r2l672hOjH4x5a1k1cuPqC0WrxJPl6VC=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7267603858?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$ / 83$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1789"
+}

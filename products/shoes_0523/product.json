@@ -1,0 +1,56 @@
+{
+  "name": "Ugg Lowmel",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "FS/here",
+  "best_batch_links": [
+    {
+      "label": "FS",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7549055256%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7279961466%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "43$ / 56$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayj78OS95_ITKQ6L529g2ygY7z2e6wxvwXoSo5Bv_nbkXLog9PdKlDBiRCcgj9NeE67Ds4AZbBudY863QRgc3Kbz2QefFh3rNsRHyuY0myLBXe7_CsajY-02PxsG0JEbL0E5gFgu_QysA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "632"
+    },
+    "col_1": {
+      "text": "Ugg Lowmel"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayj78OS95_ITKQ6L529g2ygY7z2e6wxvwXoSo5Bv_nbkXLog9PdKlDBiRCcgj9NeE67Ds4AZbBudY863QRgc3Kbz2QefFh3rNsRHyuY0myLBXe7_CsajY-02PxsG0JEbL0E5gFgu_QysA=w143-h110"
+    },
+    "col_3": {
+      "text": "FS/here",
+      "links": [
+        {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "43$ / 56$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0523"
+}

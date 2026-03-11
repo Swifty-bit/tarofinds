@@ -1,0 +1,61 @@
+{
+  "name": "Gallery DeptBoxing MerchT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F907431708745%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/907431708745?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1927085856768704514?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyL8e_pcrY-NLmF9e6uErOk3G5uGJXmQrn6EipmWz4QzhkPrAGMYiyYP2buF_Hp1vnljxUxhJ9IA9JGoGysVnKwkpbm0CII66e8vpsPuVnAYRpU387uIYpqeNzFH0u7PitRu0QTti-TA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "191"
+    },
+    "col_1": {
+      "text": "Gallery DeptBoxing MerchT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyL8e_pcrY-NLmF9e6uErOk3G5uGJXmQrn6EipmWz4QzhkPrAGMYiyYP2buF_Hp1vnljxUxhJ9IA9JGoGysVnKwkpbm0CII66e8vpsPuVnAYRpU387uIYpqeNzFH0u7PitRu0QTti-TA=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/907431708745?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1927085856768704514?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0708"
+}

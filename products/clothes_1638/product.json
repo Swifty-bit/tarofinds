@@ -1,0 +1,61 @@
+{
+  "name": "Rick Owens Pants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PinkElephant",
+  "best_batch_links": [
+    {
+      "label": "PinkElephant",
+      "url": "https://oopbuy.com/product/2/4831285549?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "53$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/5596707916"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az667hZTI6rN4RXLjMzR8XvqHyaNnj1hSTT8eH_tA4tI79y-vvXWC92LCSQOHF1HhqFCJVvZrv-X9fRyhB6TqhcKA4Oheu1X-W5OcWg9jilrrueS8137D-BMIYnAcrCYo-wbCh6OH_99iT3=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1126"
+    },
+    "col_1": {
+      "text": "Rick Owens Pants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az667hZTI6rN4RXLjMzR8XvqHyaNnj1hSTT8eH_tA4tI79y-vvXWC92LCSQOHF1HhqFCJVvZrv-X9fRyhB6TqhcKA4Oheu1X-W5OcWg9jilrrueS8137D-BMIYnAcrCYo-wbCh6OH_99iT3=w143-h110"
+    },
+    "col_3": {
+      "text": "PinkElephant",
+      "links": [
+        {
+          "label": "PinkElephant",
+          "url": "https://oopbuy.com/product/2/4831285549?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "53$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/5596707916"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1638"
+}

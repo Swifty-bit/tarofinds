@@ -1,0 +1,61 @@
+{
+  "name": "Gallery DeptZip Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F746102331323%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/746102331323?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1879250926899376130?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyCs97ck_dsjWRuwWr5A0dyRhPfREPGr7yW078sXih8qEO_43bivKVGXpTLY566IzbxWnOfoA816txKNvkwcrMs3oLnVszP87112W7_FiaCbgbt7v4w0N06aanS4J2bVyRps5tznMzpiCNg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "197"
+    },
+    "col_1": {
+      "text": "Gallery DeptZip Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyCs97ck_dsjWRuwWr5A0dyRhPfREPGr7yW078sXih8qEO_43bivKVGXpTLY566IzbxWnOfoA816txKNvkwcrMs3oLnVszP87112W7_FiaCbgbt7v4w0N06aanS4J2bVyRps5tznMzpiCNg=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/746102331323?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "38$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1879250926899376130?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0714"
+}

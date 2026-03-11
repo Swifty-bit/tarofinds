@@ -1,0 +1,35 @@
+{
+  "name": "Tiffany",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "-",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "-",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxHhs2Cu-dncsw-phUAJcVS16v5e0uiPErAWrONcrFCjKAyctfXhEkSzNL0CpP25lcySGSh2o5J-OU46WG5EERPu0NR3BHatu9T2wbP8HHR4B8aKn-GUeSHEmOk2IGqj963zSyUwS8l_ZP2=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "258"
+    },
+    "col_1": {
+      "text": "Tiffany"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxHhs2Cu-dncsw-phUAJcVS16v5e0uiPErAWrONcrFCjKAyctfXhEkSzNL0CpP25lcySGSh2o5J-OU46WG5EERPu0NR3BHatu9T2wbP8HHR4B8aKn-GUeSHEmOk2IGqj963zSyUwS8l_ZP2=w143-h110"
+    },
+    "col_3": {
+      "text": "-"
+    },
+    "col_5": {
+      "text": "-"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0243"
+}

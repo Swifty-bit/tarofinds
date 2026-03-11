@@ -1,0 +1,65 @@
+{
+  "name": "University Blue(UNC)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "M",
+  "best_batch_links": [
+    {
+      "label": "M",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "VT",
+  "budget_batch_links": [
+    {
+      "label": "VT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "46$",
+  "budget_price": "23$",
+  "pics_text": "23$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrImEHi-ewbTMDF9q2UtuaststpbAfyQQEfpELwRvpYD2zvW0UQ2_eqFRytuZPh4D3XmWN1PnhILQ-nNLRDezsaydDHMcF50JOnLlBme_jj9xESSEGOYGRS2qGpvFPUj6hCnLI3GRdGEdg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "77"
+    },
+    "col_1": {
+      "text": "University Blue(UNC)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrImEHi-ewbTMDF9q2UtuaststpbAfyQQEfpELwRvpYD2zvW0UQ2_eqFRytuZPh4D3XmWN1PnhILQ-nNLRDezsaydDHMcF50JOnLlBme_jj9xESSEGOYGRS2qGpvFPUj6hCnLI3GRdGEdg=w143-h110"
+    },
+    "col_3": {
+      "text": "M",
+      "links": [
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "VT",
+      "links": [
+        {
+          "label": "VT",
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "46$"
+    },
+    "col_6": {
+      "text": "23$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0068"
+}

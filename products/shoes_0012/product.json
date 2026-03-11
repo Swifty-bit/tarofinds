@@ -1,0 +1,65 @@
+{
+  "name": "Air Force Onex CPFM White",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565944808%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565944808?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Loopy",
+  "budget_batch_links": [
+    {
+      "label": "Loopy",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7244458823%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7244458823?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "48$",
+  "budget_price": "34$",
+  "pics_text": "34$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay77TJRtqnNGsl_d4Gic0Ia2e7w0ckkchfcAbOZnBeHqb_W9PnyaRol-f8jF2VuB4ose7y60TPXXtvkbt1xsm9OxJiYdEoscAldtx2bSlKMj_bk0EfHj9YfTAw8fO8e3Y02gOw9k9AYYw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "19"
+    },
+    "col_1": {
+      "text": "Air Force Onex CPFM White"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay77TJRtqnNGsl_d4Gic0Ia2e7w0ckkchfcAbOZnBeHqb_W9PnyaRol-f8jF2VuB4ose7y60TPXXtvkbt1xsm9OxJiYdEoscAldtx2bSlKMj_bk0EfHj9YfTAw8fO8e3Y02gOw9k9AYYw=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565944808?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Loopy",
+      "links": [
+        {
+          "label": "Loopy",
+          "url": "https://oopbuy.com/product/weidian/7244458823?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "48$"
+    },
+    "col_6": {
+      "text": "34$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0012"
+}

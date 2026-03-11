@@ -1,0 +1,74 @@
+{
+  "name": "Fire Red",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "RFA/GX",
+  "best_batch_links": [
+    {
+      "label": "RFA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5791543640%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "66$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxBdJ9QsLbMCVQ2UmbyxiyVW1t_BXq2HzB-FehMLGCteq0zXYTxXYoxJGzOkej22-C2kjfjKNgc7jXVF7qlFKOdKdw8lw2Ve40FD3g7T8CdN-AznBkpZRyNUCrOpG1N3TjuVFZrsX2dV_7X=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "237"
+    },
+    "col_1": {
+      "text": "Fire Red"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxBdJ9QsLbMCVQ2UmbyxiyVW1t_BXq2HzB-FehMLGCteq0zXYTxXYoxJGzOkej22-C2kjfjKNgc7jXVF7qlFKOdKdw8lw2Ve40FD3g7T8CdN-AznBkpZRyNUCrOpG1N3TjuVFZrsX2dV_7X=w143-h110"
+    },
+    "col_3": {
+      "text": "RFA/GX",
+      "links": [
+        {
+          "label": "RFA",
+          "url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "66$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0222"
+}

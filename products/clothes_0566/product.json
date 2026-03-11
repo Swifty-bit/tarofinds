@@ -1,0 +1,64 @@
+{
+  "name": "Nike TechxSyna World",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7589517837%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7589517837?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "71$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://noghost.x.yupoo.com/albums/179020437?uid=1"
+    }
+  ],
+  "notes": "set 71$ - hoodie 37$ - pants 34$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXRyVqG6cgsmub1haftf-nZ8K-yJbOAg8lZ38Bxg0aoAsrtHY_U0Z9hTHCeT2lCYEzQMW70cLwNZJK9AkXbIbxnaky4JQbv9kg562TVRaj0c1J8MQZkOlhVWQtsQ9EgzAd67Pmxi8Dxu7s=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "31"
+    },
+    "col_1": {
+      "text": "Nike TechxSyna World"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXRyVqG6cgsmub1haftf-nZ8K-yJbOAg8lZ38Bxg0aoAsrtHY_U0Z9hTHCeT2lCYEzQMW70cLwNZJK9AkXbIbxnaky4JQbv9kg562TVRaj0c1J8MQZkOlhVWQtsQ9EgzAd67Pmxi8Dxu7s=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7589517837?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "71$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://noghost.x.yupoo.com/albums/179020437?uid=1"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 71$ - hoodie 37$ - pants 34$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0566"
+}

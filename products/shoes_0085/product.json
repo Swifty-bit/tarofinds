@@ -1,0 +1,47 @@
+{
+  "name": "Vintage Green",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "M",
+  "best_batch_links": [
+    {
+      "label": "M",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYsJ_GSRT9fycmAE-0i8VLwQSnhn11wFvULCeLZHBpTnHe3wZK24Z_KZQ2Gq5so6772A-0mHkI9ybIHTLSjMpHgLO6u-1D45A-frYjD-Yc7WNR_E6IA4oLXLu-6L90iYO9h9SjDnRdxuq5=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "94"
+    },
+    "col_1": {
+      "text": "Vintage Green"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYsJ_GSRT9fycmAE-0i8VLwQSnhn11wFvULCeLZHBpTnHe3wZK24Z_KZQ2Gq5so6772A-0mHkI9ybIHTLSjMpHgLO6u-1D45A-frYjD-Yc7WNR_E6IA4oLXLu-6L90iYO9h9SjDnRdxuq5=w143-h110"
+    },
+    "col_3": {
+      "text": "M",
+      "links": [
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "44$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0085"
+}

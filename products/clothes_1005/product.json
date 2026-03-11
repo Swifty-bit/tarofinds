@@ -1,0 +1,61 @@
+{
+  "name": "Outer Space Beanie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341451443%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7341451443?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "9$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/134599375?uid=1&isSubCate=false&referrercate=4098105"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLnTB89FrGaZBE7vIMIaW8otQD0qRnBsijFt-ZgRrHo5RnazaF-EEZu7jD5xsrMdQZ6oop1R9hJAYwYnrrbHDfXPfqbbbKfEWOky1wrxVUb48aUHZwpou1-QbQGW6zuS04Z_iPZDn2oHMQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "542"
+    },
+    "col_1": {
+      "text": "Outer Space Beanie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLnTB89FrGaZBE7vIMIaW8otQD0qRnBsijFt-ZgRrHo5RnazaF-EEZu7jD5xsrMdQZ6oop1R9hJAYwYnrrbHDfXPfqbbbKfEWOky1wrxVUb48aUHZwpou1-QbQGW6zuS04Z_iPZDn2oHMQ=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://oopbuy.com/product/2/7341451443?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "9$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/134599375?uid=1&isSubCate=false&referrercate=4098105"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1005"
+}

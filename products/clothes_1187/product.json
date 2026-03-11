@@ -1,0 +1,90 @@
+{
+  "name": "SupremeTracksuit4 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982922629033%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/982922629033?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F998953231462%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/998953231462?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "80$(SET)",
+  "budget_price": "50$(SET)",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://noghost.x.yupoo.com/albums/176427625?uid=1&isSubCate=false&referrercate=4686229"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2025397266657923074?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "set 80$ - jacket 40$ - pants 40$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZ15woJC-lBvZ2j6c-lXd-DMvB2v9xJWOoEJy5XRZzida5_r8kO-AUlXhYEyTBbQMAxjj8fx8Bb3EEjLC36tzOxKuz-VAgGhf8WRFAb2Aw4RaT35FgMJaXCgimXkqAb8tHFI9sedIKXBRI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "756"
+    },
+    "col_1": {
+      "text": "SupremeTracksuit4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZ15woJC-lBvZ2j6c-lXd-DMvB2v9xJWOoEJy5XRZzida5_r8kO-AUlXhYEyTBbQMAxjj8fx8Bb3EEjLC36tzOxKuz-VAgGhf8WRFAb2Aw4RaT35FgMJaXCgimXkqAb8tHFI9sedIKXBRI=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/1/982922629033?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/998953231462?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "80$(SET)"
+    },
+    "col_6": {
+      "text": "50$(SET)"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://noghost.x.yupoo.com/albums/176427625?uid=1&isSubCate=false&referrercate=4686229"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2025397266657923074?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 80$ - jacket 40$ - pants 40$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1187"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Emporio ArmaniPOLO",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TopArmani",
+  "best_batch_links": [
+    {
+      "label": "TopArmani",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F917933493099%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/917933493099?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "21$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://toparmani.x.yupoo.com/albums/118091952?uid=1&isSubCate=false&referrercate=4172967"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzSOVvnBdLui0eWp5HGamGzlK_8MbBOoOt6MwOgynK4-DL2_4W9f-CwkbYbFTuAxJ63T5Q06Xn-9JbeEQglrfk3f-sXay45QQ84FeBoZhTkEEKMKNA_wPmUV-vzFOqqZjVgvH3pDCdG2SU5=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "833"
+    },
+    "col_1": {
+      "text": "Emporio ArmaniPOLO"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzSOVvnBdLui0eWp5HGamGzlK_8MbBOoOt6MwOgynK4-DL2_4W9f-CwkbYbFTuAxJ63T5Q06Xn-9JbeEQglrfk3f-sXay45QQ84FeBoZhTkEEKMKNA_wPmUV-vzFOqqZjVgvH3pDCdG2SU5=w143-h110"
+    },
+    "col_3": {
+      "text": "TopArmani",
+      "links": [
+        {
+          "label": "TopArmani",
+          "url": "https://www.oopbuy.com/product/1/917933493099?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://toparmani.x.yupoo.com/albums/118091952?uid=1&isSubCate=false&referrercate=4172967"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1246"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Air Force One Utopia",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "A1",
+  "best_batch_links": [
+    {
+      "label": "A1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6531496384%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6531496384?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "G",
+  "budget_batch_links": [
+    {
+      "label": "G",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7325694820%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7325694820?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "29$",
+  "pics_text": "29$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyR4JopSkVMAfBFKEFPyzUu6Of_RxpFrocaKkKA4lCg0TAMVzhk8II5QH3vPP6JDr2lo3EjMK2E_-ElXHSQN7WWgyr11ocbW2g2DcxZ7qU0cEuUx4OvieiuaNar2PwU5hdJ0uv8DRa2KFfn=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "14"
+    },
+    "col_1": {
+      "text": "Air Force One Utopia"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyR4JopSkVMAfBFKEFPyzUu6Of_RxpFrocaKkKA4lCg0TAMVzhk8II5QH3vPP6JDr2lo3EjMK2E_-ElXHSQN7WWgyr11ocbW2g2DcxZ7qU0cEuUx4OvieiuaNar2PwU5hdJ0uv8DRa2KFfn=w143-h110"
+    },
+    "col_3": {
+      "text": "A1",
+      "links": [
+        {
+          "label": "A1",
+          "url": "https://oopbuy.com/product/2/6531496384?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "G",
+      "links": [
+        {
+          "label": "G",
+          "url": "https://oopbuy.com/product/weidian/7325694820?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0007"
+}

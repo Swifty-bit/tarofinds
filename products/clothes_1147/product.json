@@ -1,0 +1,61 @@
+{
+  "name": "Acne StudiosOversize Hoodie5 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Topacney",
+  "best_batch_links": [
+    {
+      "label": "Topacney",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F983641691474%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983641691474?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://topacney.x.yupoo.com/albums/76944820?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnuCym6cMTVBXn4qcfH7VFHnFSrhuTFgpeGBRKe4TbdCkTOdbfy6tIyZbEqdShtvpjn7cNZZQZp46afX2VBxqjhpogO4tL3iEaxLvL-7e9tmzPIJydCdz4xdQKaTgJvbDk4jBYltDS2bGo=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "710"
+    },
+    "col_1": {
+      "text": "Acne StudiosOversize Hoodie5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnuCym6cMTVBXn4qcfH7VFHnFSrhuTFgpeGBRKe4TbdCkTOdbfy6tIyZbEqdShtvpjn7cNZZQZp46afX2VBxqjhpogO4tL3iEaxLvL-7e9tmzPIJydCdz4xdQKaTgJvbDk4jBYltDS2bGo=w143-h110"
+    },
+    "col_3": {
+      "text": "Topacney",
+      "links": [
+        {
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/983641691474?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://topacney.x.yupoo.com/albums/76944820?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1147"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Drama CallShorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7403321605%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7403321605?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/186712815?uid=1&isSubCate=false&referrercate=4589391"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzrkADaqNQv6FT5ISLE3xmWdBRVY1DhtlZDHwae0JT50eicx1SHP_Sro8ZPtmvE8O0sWumCIcSbWCUYD6w27UEiv4rz3VK-VwGFuTjujcJszxLt5GEqe9ZauewjzVwZwFuwxhFcZ4Q7Rw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "569"
+    },
+    "col_1": {
+      "text": "Drama CallShorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzrkADaqNQv6FT5ISLE3xmWdBRVY1DhtlZDHwae0JT50eicx1SHP_Sro8ZPtmvE8O0sWumCIcSbWCUYD6w27UEiv4rz3VK-VwGFuTjujcJszxLt5GEqe9ZauewjzVwZwFuwxhFcZ4Q7Rw=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://oopbuy.com/product/2/7403321605?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/186712815?uid=1&isSubCate=false&referrercate=4589391"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1026"
+}

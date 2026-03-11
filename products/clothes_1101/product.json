@@ -1,0 +1,73 @@
+{
+  "name": "KroenButterfly Pattern Sports Suit",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT/GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656854382%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656854382?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656777388%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656777388?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/201770417?uid=1&isSubCate=false&referrercate=4943474"
+    }
+  ],
+  "notes": "set 59$ - top 30$ - bottom 29$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqVnCWEuEn07OjRE-CugLC0xY1EwPUYA6hWuqLY3wm42iVymu7xYZIC1rnnXXvj-OskNZEIXYnkIcL1N1-886ODTjcOM611Xhvo9tjoOLNZ7oLi5DamYWRg221YJBbmU6_n2Fz10qihQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "654"
+    },
+    "col_1": {
+      "text": "KroenButterfly Pattern Sports Suit"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqVnCWEuEn07OjRE-CugLC0xY1EwPUYA6hWuqLY3wm42iVymu7xYZIC1rnnXXvj-OskNZEIXYnkIcL1N1-886ODTjcOM611Xhvo9tjoOLNZ7oLi5DamYWRg221YJBbmU6_n2Fz10qihQ=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT/GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656854382?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656777388?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "59$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/201770417?uid=1&isSubCate=false&referrercate=4943474"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 59$ - top 30$ - bottom 29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1101"
+}

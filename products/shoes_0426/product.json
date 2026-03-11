@@ -1,0 +1,74 @@
+{
+  "name": "Triple S",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GOOD/GOOD",
+  "best_batch_links": [
+    {
+      "label": "GOOD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565918820%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565918820?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOOD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327022405%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327022405?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F3111674330%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/3111674330?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "56$",
+  "budget_price": "42$",
+  "pics_text": "42$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQtVGrCY72PKusVIWuD6PCVgAlqipw3uA5HcHPmuiyLMxC_cX7x8aVgZr3hJ4G_YdITIA_GuDDQMQXt6LE74YLO7KU2yH_dBxOrj41-n41B8W3NOZnGV9W0BVsAOmhxj5EwUXAiXqc8w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "485"
+    },
+    "col_1": {
+      "text": "Triple S"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQtVGrCY72PKusVIWuD6PCVgAlqipw3uA5HcHPmuiyLMxC_cX7x8aVgZr3hJ4G_YdITIA_GuDDQMQXt6LE74YLO7KU2yH_dBxOrj41-n41B8W3NOZnGV9W0BVsAOmhxj5EwUXAiXqc8w=w143-h110"
+    },
+    "col_3": {
+      "text": "GOOD/GOOD",
+      "links": [
+        {
+          "label": "GOOD",
+          "url": "https://oopbuy.com/product/weidian/7565918820?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOOD",
+          "url": "https://oopbuy.com/product/weidian/7327022405?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/3111674330?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "56$"
+    },
+    "col_6": {
+      "text": "42$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0426"
+}

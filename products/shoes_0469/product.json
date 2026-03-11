@@ -1,0 +1,47 @@
+{
+  "name": "Gel-Quantum 36011 Colors",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Repsun",
+  "best_batch_links": [
+    {
+      "label": "Repsun",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7490553970%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7490553970?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxO0KeyXT_M8hvsot72DsIZN6RKEV0pdV8EYwLa7vvQUcoO5JEfMb9WQO0neOa9PtTGnyPmh8p97q0fSN94_VhOouIEHwvrs_SRGVM1yrlq7b3AawJ2vqH7tYlB-B3TIKbEoDp7kAuY0HQy=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "534"
+    },
+    "col_1": {
+      "text": "Gel-Quantum 36011 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxO0KeyXT_M8hvsot72DsIZN6RKEV0pdV8EYwLa7vvQUcoO5JEfMb9WQO0neOa9PtTGnyPmh8p97q0fSN94_VhOouIEHwvrs_SRGVM1yrlq7b3AawJ2vqH7tYlB-B3TIKbEoDp7kAuY0HQy=w143-h110"
+    },
+    "col_3": {
+      "text": "Repsun",
+      "links": [
+        {
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/2/7490553970?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "32$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0469"
+}

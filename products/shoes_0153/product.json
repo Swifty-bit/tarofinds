@@ -1,0 +1,74 @@
+{
+  "name": "Travis Scott Mocha High",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR/FK",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240131608%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565902946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "80$",
+  "budget_price": "39$",
+  "pics_text": "39$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxfU_kHHPz_4JSUhMG3NCifkKqgJzDKcgbdBfwaSpJPazU_XJwcIt2Q2eOxbBMTKLjs4jUek3sqUa6pryPy7BPZJhSa6Q0-hmFyuBE2W6UcXNzO-2VK7Ss_xsudxrzDBhqhzjPAzO965w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "164"
+    },
+    "col_1": {
+      "text": "Travis Scott Mocha High"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxfU_kHHPz_4JSUhMG3NCifkKqgJzDKcgbdBfwaSpJPazU_XJwcIt2Q2eOxbBMTKLjs4jUek3sqUa6pryPy7BPZJhSa6Q0-hmFyuBE2W6UcXNzO-2VK7Ss_xsudxrzDBhqhzjPAzO965w=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR/FK",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FK",
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "80$"
+    },
+    "col_6": {
+      "text": "39$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0153"
+}

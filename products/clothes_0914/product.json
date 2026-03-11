@@ -1,0 +1,61 @@
+{
+  "name": "Palm AngelsOversize Necklogo T-shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F964385540187%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/964385540187?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "29$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repsbro.x.yupoo.com/albums/205539867?uid=1&isSubCate=false&referrercate=4971731"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzoCOAICmQ4Gobuphd7xNMYBFLwTXokCpW8h_9gKnubAORbku-b6greTVswJUew1d7kDX-OyA0XnZ9QWG4i0EJdWaNNZMZamNGmWmSuws2ufoLkue2iYFnS9typN9JcqSEEzrb47Ca7XyCv=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "439"
+    },
+    "col_1": {
+      "text": "Palm AngelsOversize Necklogo T-shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzoCOAICmQ4Gobuphd7xNMYBFLwTXokCpW8h_9gKnubAORbku-b6greTVswJUew1d7kDX-OyA0XnZ9QWG4i0EJdWaNNZMZamNGmWmSuws2ufoLkue2iYFnS9typN9JcqSEEzrb47Ca7XyCv=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/964385540187?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "29$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repsbro.x.yupoo.com/albums/205539867?uid=1&isSubCate=false&referrercate=4971731"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0914"
+}

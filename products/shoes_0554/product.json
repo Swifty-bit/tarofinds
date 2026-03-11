@@ -1,0 +1,47 @@
+{
+  "name": "CDGxConverse",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://oopbuy.com/product/weidian/7565912914?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "23$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyqKVhfuocM0LLFRFCu9tcKlOfoxb0J7LMzoOl1jnJ5Q0mHVVFitqO6IJLIUhofZYiLPC2R2d6YfL1H6sZ6ba1OA2f0Va64KYh-ITK4Pix-x5tU3q1jnvgaLBAzs7-4kD1weATSaruD-w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "607"
+    },
+    "col_1": {
+      "text": "CDGxConverse"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyqKVhfuocM0LLFRFCu9tcKlOfoxb0J7LMzoOl1jnJ5Q0mHVVFitqO6IJLIUhofZYiLPC2R2d6YfL1H6sZ6ba1OA2f0Va64KYh-ITK4Pix-x5tU3q1jnvgaLBAzs7-4kD1weATSaruD-w=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565912914?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0554"
+}

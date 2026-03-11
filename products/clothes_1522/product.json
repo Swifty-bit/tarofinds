@@ -1,0 +1,90 @@
+{
+  "name": "BurberryZipped Hoodie(hood and inside pattern)",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Thunder",
+  "best_batch_links": [
+    {
+      "label": "Thunder",
+      "url": "https://oopbuy.com/product/weidian/7525090001?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "bysh2017",
+  "budget_batch_links": [
+    {
+      "label": "bysh2017",
+      "url": "https://oopbuy.com/product/1/997694063160?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "50$",
+  "budget_price": "26$",
+  "pics_text": "thunder/bysh2017",
+  "pics_links": [
+    {
+      "label": "thunder",
+      "url": "https://thethunder.x.yupoo.com/albums/120632874?uid=1"
+    },
+    {
+      "label": "bysh2017",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2018996965784768514?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "Hood and inside pattern",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azf2dY-BMK7IbcAlbdCBpka7wZsudOb1HI7rpx5DrxBZEaDWXZ09Sv96y2gZyYmsmW5IQsRnWu2mzaAufmC0gyi6Uto6V8uUMK-VbLCEW3ztLv9CZIRCFOR31YjQhFsnsa2NT_yxIoIjMax=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "999"
+    },
+    "col_1": {
+      "text": "BurberryZipped Hoodie(hood and inside pattern)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azf2dY-BMK7IbcAlbdCBpka7wZsudOb1HI7rpx5DrxBZEaDWXZ09Sv96y2gZyYmsmW5IQsRnWu2mzaAufmC0gyi6Uto6V8uUMK-VbLCEW3ztLv9CZIRCFOR31YjQhFsnsa2NT_yxIoIjMax=w143-h110"
+    },
+    "col_3": {
+      "text": "Thunder",
+      "links": [
+        {
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/weidian/7525090001?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "bysh2017",
+      "links": [
+        {
+          "label": "bysh2017",
+          "url": "https://oopbuy.com/product/1/997694063160?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "50$"
+    },
+    "col_6": {
+      "text": "26$"
+    },
+    "col_7": {
+      "text": "thunder/bysh2017",
+      "links": [
+        {
+          "label": "thunder",
+          "url": "https://thethunder.x.yupoo.com/albums/120632874?uid=1"
+        },
+        {
+          "label": "bysh2017",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2018996965784768514?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "Hood and inside pattern"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1522"
+}

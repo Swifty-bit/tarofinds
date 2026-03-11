@@ -1,0 +1,47 @@
+{
+  "name": "Air Force One Tiffany",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "TOP/S2",
+  "best_batch_links": [
+    {
+      "label": "TOP/S2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6155320711%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6155320711?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "60$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZVm5Qx9E9rpXUx5pgNpEKtObFZIUByf7SLob51couimdxJR9eHRk2fUs2pQ-4p07mT5qQE_Rl2gGco4EZ5L9B6kNGY-77t72kIhSEJDbP0DBuYlJYN0zefCKflASrRNG9aC4pVQJ4rIAH=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "11"
+    },
+    "col_1": {
+      "text": "Air Force One Tiffany"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZVm5Qx9E9rpXUx5pgNpEKtObFZIUByf7SLob51couimdxJR9eHRk2fUs2pQ-4p07mT5qQE_Rl2gGco4EZ5L9B6kNGY-77t72kIhSEJDbP0DBuYlJYN0zefCKflASrRNG9aC4pVQJ4rIAH=w143-h110"
+    },
+    "col_3": {
+      "text": "TOP/S2",
+      "links": [
+        {
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/weidian/6155320711?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "60$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0004"
+}

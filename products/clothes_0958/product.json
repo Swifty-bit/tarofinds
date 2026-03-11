@@ -1,0 +1,61 @@
+{
+  "name": "Ami ParisClassic LogoSweatshirt7 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TOPAMI",
+  "best_batch_links": [
+    {
+      "label": "TOPAMI",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F753842505805%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/753842505805?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "40$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://amiparis.x.yupoo.com/albums/172682056?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqEsAFICCMos_Acpr_kUbZI2wS3fyQBq9YEKTw6BfGoS0aHDyfRnxleQZo-ts4Goh4g9PWHBD6pACgBXK_AB71o6g7xTnlbySYvBcxdyc_A64JLDIlW7AqqEZVRXW8OS2VCQhxFm8BETRO=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "489"
+    },
+    "col_1": {
+      "text": "Ami ParisClassic LogoSweatshirt7 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqEsAFICCMos_Acpr_kUbZI2wS3fyQBq9YEKTw6BfGoS0aHDyfRnxleQZo-ts4Goh4g9PWHBD6pACgBXK_AB71o6g7xTnlbySYvBcxdyc_A64JLDIlW7AqqEZVRXW8OS2VCQhxFm8BETRO=w143-h110"
+    },
+    "col_3": {
+      "text": "TOPAMI",
+      "links": [
+        {
+          "label": "TOPAMI",
+          "url": "https://oopbuy.com/product/1/753842505805?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "40$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://amiparis.x.yupoo.com/albums/172682056?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0958"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "CorteizAlcatraz Sun & Rain Windbreaker",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656834854%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656834854?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "43$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/116122449?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwR2OU8ARSxelZlvhTme1RZDFbbv_47F--KbG-X3FKk2nLUSsA76u3MIkNr3_iFLb8VFD2xhv3Sc66jacs1HEc1AXmx1SBP-pw2yaYkYV505K1dbvIyqCjwKS9SutKNhwcitdwn4oIu9F9D=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "176"
+    },
+    "col_1": {
+      "text": "CorteizAlcatraz Sun & Rain Windbreaker"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwR2OU8ARSxelZlvhTme1RZDFbbv_47F--KbG-X3FKk2nLUSsA76u3MIkNr3_iFLb8VFD2xhv3Sc66jacs1HEc1AXmx1SBP-pw2yaYkYV505K1dbvIyqCjwKS9SutKNhwcitdwn4oIu9F9D=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656834854?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "43$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/116122449?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0695"
+}

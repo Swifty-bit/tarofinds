@@ -1,0 +1,61 @@
+{
+  "name": "CorteizHMP 3 StarPants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653809351%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653809351?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "26$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/151236429?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9u7CzJPQLjLvLo-o_UNtejyBY1jfiRS3ip6BCc3WMphsgiKmPPiLyjkAE8H9JXTA9fWBcs-cByJVFDcjULFIhACFcpgvNg_BKW_Celh5LjCoc4hYn9NRWXMIGwsWNYkeAfByQn18pcG8R=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "157"
+    },
+    "col_1": {
+      "text": "CorteizHMP 3 StarPants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9u7CzJPQLjLvLo-o_UNtejyBY1jfiRS3ip6BCc3WMphsgiKmPPiLyjkAE8H9JXTA9fWBcs-cByJVFDcjULFIhACFcpgvNg_BKW_Celh5LjCoc4hYn9NRWXMIGwsWNYkeAfByQn18pcG8R=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653809351?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "26$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/151236429?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0676"
+}

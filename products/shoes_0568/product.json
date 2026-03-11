@@ -1,0 +1,56 @@
+{
+  "name": "Ugg Tasman",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "FS/here",
+  "best_batch_links": [
+    {
+      "label": "FS",
+      "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH",
+      "original_url": null
+    },
+    {
+      "label": "here",
+      "url": "https://www.oopbuy.com/product/weidian/6623490494?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "31$ / 42$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzBSlC3hJt0rHUURAefzx97Bo2RKKUcyBYnLa7Y0XBpReEAjgz2Gg5m6Zq0RJbu3XJJalHJctaC7OXPOM5fzk-pxdprZkkfQrgiIbh4JCzI_fy1wPUSqUz2fHZ5rZhQsv6a_VUB1yWQHw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "626"
+    },
+    "col_1": {
+      "text": "Ugg Tasman"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzBSlC3hJt0rHUURAefzx97Bo2RKKUcyBYnLa7Y0XBpReEAjgz2Gg5m6Zq0RJbu3XJJalHJctaC7OXPOM5fzk-pxdprZkkfQrgiIbh4JCzI_fy1wPUSqUz2fHZ5rZhQsv6a_VUB1yWQHw=w143-h110"
+    },
+    "col_3": {
+      "text": "FS/here",
+      "links": [
+        {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/weidian/6623490494?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "31$ / 42$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0568"
+}

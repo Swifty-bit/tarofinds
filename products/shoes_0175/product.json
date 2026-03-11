@@ -1,0 +1,65 @@
+{
+  "name": "Stage HazeBleached Coral",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "FT",
+  "best_batch_links": [
+    {
+      "label": "FT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327965576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327965576?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "H12",
+  "budget_batch_links": [
+    {
+      "label": "H12",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7222827836%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7222827836?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "52$",
+  "budget_price": "48$",
+  "pics_text": "48$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLOrV6dbAwgfBIoVRyQ9B8RBPV0K-XVMFr-iGhYn1JDemNxMjudu7JuONKJ-kTUQTdCR3Dp-Z_QVQMRwVu4WIdW7c0cLs4Hs-4py379xpCew-MCWIq0i3Q1lzd6L7aqISqepCPlAZ0vQ=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "186"
+    },
+    "col_1": {
+      "text": "Stage HazeBleached Coral"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLOrV6dbAwgfBIoVRyQ9B8RBPV0K-XVMFr-iGhYn1JDemNxMjudu7JuONKJ-kTUQTdCR3Dp-Z_QVQMRwVu4WIdW7c0cLs4Hs-4py379xpCew-MCWIq0i3Q1lzd6L7aqISqepCPlAZ0vQ=w143-h100"
+    },
+    "col_3": {
+      "text": "FT",
+      "links": [
+        {
+          "label": "FT",
+          "url": "https://oopbuy.com/product/2/7327965576?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "H12",
+      "links": [
+        {
+          "label": "H12",
+          "url": "https://oopbuy.com/product/2/7222827836?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "52$"
+    },
+    "col_6": {
+      "text": "48$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0175"
+}

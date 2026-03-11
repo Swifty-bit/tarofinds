@@ -1,0 +1,47 @@
+{
+  "name": "LoeweBallet Runner",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Repsun",
+  "best_batch_links": [
+    {
+      "label": "Repsun",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7432162309%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7432162309?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "57$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyPIb9QlcWk8-ExialGPN9hoFUvGhm-9nburBpRLs02y3UvHsTJ18r8prqriot2cwDR_MrZ5FYlPHsld4b7GLxXybLmtoeZNVxoHZmgJ9SzQwEAttvbCgzoCTIa_PtLjqT48AOB-tBTFA-R=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "580"
+    },
+    "col_1": {
+      "text": "LoeweBallet Runner"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyPIb9QlcWk8-ExialGPN9hoFUvGhm-9nburBpRLs02y3UvHsTJ18r8prqriot2cwDR_MrZ5FYlPHsld4b7GLxXybLmtoeZNVxoHZmgJ9SzQwEAttvbCgzoCTIa_PtLjqT48AOB-tBTFA-R=w143-h110"
+    },
+    "col_3": {
+      "text": "Repsun",
+      "links": [
+        {
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/weidian/7432162309?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "57$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0495"
+}

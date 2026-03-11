@@ -1,0 +1,65 @@
+{
+  "name": "Super Star16 colours",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "DGC",
+  "best_batch_links": [
+    {
+      "label": "DGC",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7614170131%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614170131?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F830812365240%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/830812365240?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "56$",
+  "budget_price": "24$",
+  "pics_text": "24$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDXehjo1jhNCgGzxivgDAfEa0WqWvUpif2eA1gNfPfgLOlgS0umRac6E6q0Xzus8RwTPokaez-0DA_Hk7bDT_eQ25NaKrjm4dTTbOfkCVSrIIQcc3SL4kKa9gNF_Kc62VnhOBEU6umGmut=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "570"
+    },
+    "col_1": {
+      "text": "Super Star16 colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDXehjo1jhNCgGzxivgDAfEa0WqWvUpif2eA1gNfPfgLOlgS0umRac6E6q0Xzus8RwTPokaez-0DA_Hk7bDT_eQ25NaKrjm4dTTbOfkCVSrIIQcc3SL4kKa9gNF_Kc62VnhOBEU6umGmut=w143-h110"
+    },
+    "col_3": {
+      "text": "DGC",
+      "links": [
+        {
+          "label": "DGC",
+          "url": "https://oopbuy.com/product/weidian/7614170131?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/830812365240?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "56$"
+    },
+    "col_6": {
+      "text": "24$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0491"
+}

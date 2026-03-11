@@ -1,0 +1,61 @@
+{
+  "name": "Louis VuittonBracelet",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/weidian/7265978689?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952535179556900865?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRzrZCpd7Uj6Cbq2Eavt3ak4X3TwoSb1tt79BubHYOzE-u9vYpba1xGUJY5dUf11lTvY_q59ujYGeAaEmjxB_3lhaC6W9G1eYxRSpMW2zXgRaL3icresRBRJyx71RKtVTBr1ensFcQ6zjK=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "21"
+    },
+    "col_1": {
+      "text": "Louis VuittonBracelet"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRzrZCpd7Uj6Cbq2Eavt3ak4X3TwoSb1tt79BubHYOzE-u9vYpba1xGUJY5dUf11lTvY_q59ujYGeAaEmjxB_3lhaC6W9G1eYxRSpMW2zXgRaL3icresRBRJyx71RKtVTBr1ensFcQ6zjK=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7265978689?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "32$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952535179556900865?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1754"
+}

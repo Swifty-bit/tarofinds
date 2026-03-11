@@ -1,0 +1,74 @@
+{
+  "name": "TrainersBlack Denim",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PONE/Foshan",
+  "best_batch_links": [
+    {
+      "label": "PONE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7180862977%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7180862977?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Foshan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564004903%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F4755106410%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/4755106410?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "103$ / 75$",
+  "budget_price": "15$",
+  "pics_text": "15$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay2d1okEoVu5st_gqFSFLu_RoDSrvTe3iTAj1e9xDwxbZiDplyEwnclRrfllbxJ593uGAY-X_--p4OFz9_7jYw6iIwaezE0UvuHn5o5DdfbCVwLgo_IOL2kz1jPcbRRQPAYFf5k_7haKw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "502"
+    },
+    "col_1": {
+      "text": "TrainersBlack Denim"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay2d1okEoVu5st_gqFSFLu_RoDSrvTe3iTAj1e9xDwxbZiDplyEwnclRrfllbxJ593uGAY-X_--p4OFz9_7jYw6iIwaezE0UvuHn5o5DdfbCVwLgo_IOL2kz1jPcbRRQPAYFf5k_7haKw=w143-h110"
+    },
+    "col_3": {
+      "text": "PONE/Foshan",
+      "links": [
+        {
+          "label": "PONE",
+          "url": "https://oopbuy.com/product/2/7180862977?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Foshan",
+          "url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/4755106410?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "103$ / 75$"
+    },
+    "col_6": {
+      "text": "15$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0441"
+}

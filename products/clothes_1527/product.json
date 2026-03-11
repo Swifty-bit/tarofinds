@@ -1,0 +1,64 @@
+{
+  "name": "Burberry Equestrian Knight Sweater",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "kungfu",
+  "best_batch_links": [
+    {
+      "label": "kungfu",
+      "url": "https://oopbuy.com/product/weidian/7564564626?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "62$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://madebykungfu.x.yupoo.com/albums/211866811?uid=1&isSubCate=false&referrercate=4654696"
+    }
+  ],
+  "notes": "100% Wool",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwU4EV44XjFActKTBQUlmVxAPIFbc7NaG90G3ZqBsArqejuVEunrxZqeADU6K4WqobxJmhI2EXnb1HTM4c_7mlvjrhbPTHQGcAGcWBmYbPBTHd_M51aztCpm36w-zot4OymOs6ChSPwfl0D=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1004"
+    },
+    "col_1": {
+      "text": "Burberry Equestrian Knight Sweater"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwU4EV44XjFActKTBQUlmVxAPIFbc7NaG90G3ZqBsArqejuVEunrxZqeADU6K4WqobxJmhI2EXnb1HTM4c_7mlvjrhbPTHQGcAGcWBmYbPBTHd_M51aztCpm36w-zot4OymOs6ChSPwfl0D=w143-h110"
+    },
+    "col_3": {
+      "text": "kungfu",
+      "links": [
+        {
+          "label": "kungfu",
+          "url": "https://oopbuy.com/product/weidian/7564564626?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "62$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://madebykungfu.x.yupoo.com/albums/211866811?uid=1&isSubCate=false&referrercate=4654696"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Wool"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1527"
+}

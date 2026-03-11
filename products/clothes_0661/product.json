@@ -1,0 +1,87 @@
+{
+  "name": "Corteiz Star Tee2 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656793250%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656793250?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F817436479234%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "12$",
+  "budget_price": "7$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/153093313?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzkuwwXP0dGEBPoAcfl1HTi5ScLLdzIxL8HIy1cUS4KvlvMGg5UKjmI-xnHZ_Ldkn0oxRVd_xtw8ICkBjOZLJU_0VNgxe5Sd9SVToB64pRjwWW98Yoydd6s7ggcOAVTFmVx61iBU5KCtuRV=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "142"
+    },
+    "col_1": {
+      "text": "Corteiz Star Tee2 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzkuwwXP0dGEBPoAcfl1HTi5ScLLdzIxL8HIy1cUS4KvlvMGg5UKjmI-xnHZ_Ldkn0oxRVd_xtw8ICkBjOZLJU_0VNgxe5Sd9SVToB64pRjwWW98Yoydd6s7ggcOAVTFmVx61iBU5KCtuRV=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656793250?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "12$"
+    },
+    "col_6": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/153093313?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0661"
+}

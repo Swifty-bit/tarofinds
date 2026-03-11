@@ -1,0 +1,47 @@
+{
+  "name": "HokaClifton 9",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "XC",
+  "best_batch_links": [
+    {
+      "label": "XC",
+      "url": "https://oopbuy.com/product/weidian/7501701058?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "26$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLFodkzJGU3hKjGgart-qwd1SjNeraAkm94iDL1C58dmONISGgMFc7O4Dw8Xl0IuV-CyNzZ3bAfFlju2bAcK-ry_D2FW0TdGgNhLLQ-Qtfvr8boiAgXlCqSP2Ov-LKhtEIzCPk-VI2yw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "592"
+    },
+    "col_1": {
+      "text": "HokaClifton 9"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLFodkzJGU3hKjGgart-qwd1SjNeraAkm94iDL1C58dmONISGgMFc7O4Dw8Xl0IuV-CyNzZ3bAfFlju2bAcK-ry_D2FW0TdGgNhLLQ-Qtfvr8boiAgXlCqSP2Ov-LKhtEIzCPk-VI2yw=w143-h110"
+    },
+    "col_3": {
+      "text": "XC",
+      "links": [
+        {
+          "label": "XC",
+          "url": "https://oopbuy.com/product/weidian/7501701058?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "26$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0543"
+}

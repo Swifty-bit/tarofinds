@@ -1,0 +1,61 @@
+{
+  "name": "ALYX8 Colors",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/1/594133558750?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "7$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968500792152907777?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azfag4ZmhUtK-qpamvyw1kMlYmyuc_1-P5SMM0bUxHRLq23pw9BCkL3_hGf70BS0RUjukRFqqdSse-CTWSz8Br_cWp2Zo18fjrukCQO9FoS42RchdHUDEye5spRgl_HYNJio3B05VPRJ2WI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "17"
+    },
+    "col_1": {
+      "text": "ALYX8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azfag4ZmhUtK-qpamvyw1kMlYmyuc_1-P5SMM0bUxHRLq23pw9BCkL3_hGf70BS0RUjukRFqqdSse-CTWSz8Br_cWp2Zo18fjrukCQO9FoS42RchdHUDEye5spRgl_HYNJio3B05VPRJ2WI=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/594133558750?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968500792152907777?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1700"
+}

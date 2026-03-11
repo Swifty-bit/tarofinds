@@ -1,0 +1,61 @@
+{
+  "name": "Ami ParisClassic LogoZipped Hoodie3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TOPAMI",
+  "best_batch_links": [
+    {
+      "label": "TOPAMI",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F843930263352%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/843930263352?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "51$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://amiparis.x.yupoo.com/albums/177580341?uid=1&isSubCate=false&referrercate=4672363"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2AAYoy0_TCig0GIMesFQ_BVDPOM8WXPF9g-n4v43Mao3WgJ1qx2Nwu-pzh3KM4v1qxdDfe5L-gyanIEV-Dt1Q2EKS7wo2UOqqryFJZ5qELIHJSuSH-l4-W0WfIJV7-mDTUfCBGe-gIIbP=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "494"
+    },
+    "col_1": {
+      "text": "Ami ParisClassic LogoZipped Hoodie3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2AAYoy0_TCig0GIMesFQ_BVDPOM8WXPF9g-n4v43Mao3WgJ1qx2Nwu-pzh3KM4v1qxdDfe5L-gyanIEV-Dt1Q2EKS7wo2UOqqryFJZ5qELIHJSuSH-l4-W0WfIJV7-mDTUfCBGe-gIIbP=w143-h110"
+    },
+    "col_3": {
+      "text": "TOPAMI",
+      "links": [
+        {
+          "label": "TOPAMI",
+          "url": "https://www.oopbuy.com/product/1/843930263352?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "51$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://amiparis.x.yupoo.com/albums/177580341?uid=1&isSubCate=false&referrercate=4672363"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0963"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "MM6T-Shirt19 Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F778929309468%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/778929309468?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "10$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1945139543118233602?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxAAOSog0yMy6LEm7Dp5MUobrLvatzSVgQSpRE4QanSaeE_Cn3Fbv2r4U5gNU0UhYdvkEc_jlXUWVJK6QP4htuT25IlZ9ruJI4vdC6B1AAU8K8yRE0A_Wdexb8_19L4WePoEJ2iAzRHhtPY=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "728"
+    },
+    "col_1": {
+      "text": "MM6T-Shirt19 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxAAOSog0yMy6LEm7Dp5MUobrLvatzSVgQSpRE4QanSaeE_Cn3Fbv2r4U5gNU0UhYdvkEc_jlXUWVJK6QP4htuT25IlZ9ruJI4vdC6B1AAU8K8yRE0A_Wdexb8_19L4WePoEJ2iAzRHhtPY=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/778929309468?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "10$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1945139543118233602?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1163"
+}

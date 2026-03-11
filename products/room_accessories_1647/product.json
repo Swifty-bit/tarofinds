@@ -1,0 +1,38 @@
+{
+  "name": "Back to The Future",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "24$",
+  "budget_price": "",
+  "pics_text": "/",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayog05dgiu-L0j8qVRva0kTdAlu6Djj80Y1p35B6oYXMG-gOwUs1sAERl31mlUcZ4_bQD5QrVEr_iEHbgnsf9fC6-F2s5Yt4C62vTJdgxOCgyuFFGsdRywbRGa5Jt6rdHI49Rc0uKJ2RA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "11"
+    },
+    "col_1": {
+      "text": "Back to The Future"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayog05dgiu-L0j8qVRva0kTdAlu6Djj80Y1p35B6oYXMG-gOwUs1sAERl31mlUcZ4_bQD5QrVEr_iEHbgnsf9fC6-F2s5Yt4C62vTJdgxOCgyuFFGsdRywbRGa5Jt6rdHI49Rc0uKJ2RA=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "24$"
+    },
+    "col_7": {
+      "text": "/"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1647"
+}

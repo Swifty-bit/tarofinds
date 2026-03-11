@@ -1,0 +1,68 @@
+{
+  "name": "Yeezy Foam Runner",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX/LW",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239131429%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239131429?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "LW B GRADE",
+  "budget_batch_links": [
+    {
+      "label": "LW B GRADE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7613684637%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "21$",
+  "budget_price": "7$",
+  "pics_text": "7$",
+  "pics_links": [],
+  "notes": "Size up 1/1.5 EU size for GX/ZOK/LW(runners are smaller)",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyM-XFN9bCRbWzu7VM9WtVkq88_lmv-TKLURkiGT4439LH4uHYNTpfMaFtLww7KQost1zervwwKW2sEV4_IxW61XZod4gfeNFIpROvf6whO3aznULAZoqlEZMM5yps2P7OpOjxMHVCJsioO=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "378"
+    },
+    "col_1": {
+      "text": "Yeezy Foam Runner"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyM-XFN9bCRbWzu7VM9WtVkq88_lmv-TKLURkiGT4439LH4uHYNTpfMaFtLww7KQost1zervwwKW2sEV4_IxW61XZod4gfeNFIpROvf6whO3aznULAZoqlEZMM5yps2P7OpOjxMHVCJsioO=w143-h110"
+    },
+    "col_3": {
+      "text": "GX/LW",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239131429?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "LW B GRADE",
+      "links": [
+        {
+          "label": "LW B GRADE",
+          "url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    },
+    "col_6": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "Size up 1/1.5 EU size for GX/ZOK/LW(runners are smaller)"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0347"
+}

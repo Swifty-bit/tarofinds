@@ -1,0 +1,56 @@
+{
+  "name": "Maison MargielaGATSWhite",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "H/BL",
+  "best_batch_links": [
+    {
+      "label": "H",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563973209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "BL",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4689600987%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "56$ / 54$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyF2j4YqJ94UunzIbJdqRWQ-3_glESSTMUjKde5imJS_Qb4ipdF8nnvwj4u-P1ExoMOMUCYISm5vGxddtxsMkraKHd_EhYt3sb8NNezJ3Wvb6mSkz68c8KS-3ZGK7_1_gO0AYF14hBMMFGI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "558"
+    },
+    "col_1": {
+      "text": "Maison MargielaGATSWhite"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyF2j4YqJ94UunzIbJdqRWQ-3_glESSTMUjKde5imJS_Qb4ipdF8nnvwj4u-P1ExoMOMUCYISm5vGxddtxsMkraKHd_EhYt3sb8NNezJ3Wvb6mSkz68c8KS-3ZGK7_1_gO0AYF14hBMMFGI=w143-h110"
+    },
+    "col_3": {
+      "text": "H/BL",
+      "links": [
+        {
+          "label": "H",
+          "url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "BL",
+          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "56$ / 54$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0483"
+}

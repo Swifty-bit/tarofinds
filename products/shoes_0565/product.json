@@ -1,0 +1,35 @@
+{
+  "name": "Birkenstock Gizeh",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azs0fW5vabvlgeeUWNjZwEEK5GraQgwCLzZEGoM1QJ9DCoJp5u3oPN8UwP-_uqQUi1DW_TDL9itxmz0t3gDHrGErVY58fTr3Muua8jeKmmnnWyCvyJ2c7aRvakKJPq1JuGjDqgAAw6UrGER=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "622"
+    },
+    "col_1": {
+      "text": "Birkenstock Gizeh"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azs0fW5vabvlgeeUWNjZwEEK5GraQgwCLzZEGoM1QJ9DCoJp5u3oPN8UwP-_uqQUi1DW_TDL9itxmz0t3gDHrGErVY58fTr3Muua8jeKmmnnWyCvyJ2c7aRvakKJPq1JuGjDqgAAw6UrGER=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "18$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0565"
+}

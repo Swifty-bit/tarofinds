@@ -1,0 +1,47 @@
+{
+  "name": "Cargo Sneaker",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "XA",
+  "best_batch_links": [
+    {
+      "label": "XA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312759831%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7312759831?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "65$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az9PMtgHfF2nxBdf80-MJDire3NzKORs-niKLsB9gKes7LPPkZLgu1HN0aGEhj_vnd6FdJxAqVyhOEtLo8FxZJq-8xBP3jvscJNyxm1xPX_0u1guTMHbf0LEbqRyfShdGCmUkU-NxplWg7F=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "487"
+    },
+    "col_1": {
+      "text": "Cargo Sneaker"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az9PMtgHfF2nxBdf80-MJDire3NzKORs-niKLsB9gKes7LPPkZLgu1HN0aGEhj_vnd6FdJxAqVyhOEtLo8FxZJq-8xBP3jvscJNyxm1xPX_0u1guTMHbf0LEbqRyfShdGCmUkU-NxplWg7F=w143-h110"
+    },
+    "col_3": {
+      "text": "XA",
+      "links": [
+        {
+          "label": "XA",
+          "url": "https://oopbuy.com/product/weidian/7312759831?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "65$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0428"
+}

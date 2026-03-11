@@ -1,0 +1,61 @@
+{
+  "name": "REVENGEHoodie90 Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://oopbuy.com/product/1/630857535433?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/630857535433"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az5Nr3Yc8xNt7te_d8Kq9P3Ko-QP68SNY5d-0moXqANeqj0ZSLRiu8rrKaMPZznE47EC6Q9AyoC1sUCTEQ6lKwCpeIGQV5tGsbamIXehE-0HnqXRxnQPOyY9bhJhrTePc6H0fMIJ88JAQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "994"
+    },
+    "col_1": {
+      "text": "REVENGEHoodie90 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az5Nr3Yc8xNt7te_d8Kq9P3Ko-QP68SNY5d-0moXqANeqj0ZSLRiu8rrKaMPZznE47EC6Q9AyoC1sUCTEQ6lKwCpeIGQV5tGsbamIXehE-0HnqXRxnQPOyY9bhJhrTePc6H0fMIJ88JAQ=w143-h110"
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/630857535433?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/630857535433"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1518"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Jersey Logo T-shirt3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F981152943862%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/981152943862?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "16$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/167557934?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awo2u9O9YrL2zFbZBKyN63p-qp5Pec9M2Ddfquqm8r7Kjs4I6BaY-c3mLL53Tyd-33lw-xGTwI3rwQ5i-eJ4J2DQQJK3iCk9GEZ4XEqjDdDFpibOVKfg1AglXo8HGcYx90qmtQJngVJfO6b=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "247"
+    },
+    "col_1": {
+      "text": "Jersey Logo T-shirt3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awo2u9O9YrL2zFbZBKyN63p-qp5Pec9M2Ddfquqm8r7Kjs4I6BaY-c3mLL53Tyd-33lw-xGTwI3rwQ5i-eJ4J2DQQJK3iCk9GEZ4XEqjDdDFpibOVKfg1AglXo8HGcYx90qmtQJngVJfO6b=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/981152943862?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "16$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/167557934?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0756"
+}

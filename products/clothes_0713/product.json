@@ -1,0 +1,78 @@
+{
+  "name": "Gallery DeptBoxing MerchZip Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "tophotfashion/Singor",
+  "best_batch_links": [
+    {
+      "label": "tophotfashion",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F821849748129%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/821849748129?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F829687869058%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/829687869058?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "tophot/singor",
+  "pics_links": [
+    {
+      "label": "tophot",
+      "url": "https://tophotfashion.x.yupoo.com/search/album?uid=1&sort=&q=821849748129"
+    },
+    {
+      "label": "singor",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1925922182125371394?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awv4TaNSQ8MI6Kypfr6bqAK7Ka2ptrocNHYsa7ShRCS0uEaodyRUGNVq275xR8nWYDGA7wYKCHzvIkHdpN2Bt-Jj8T0xwjDCvmA1jlIIFbEtwOuaZY7WSHUnTSqfw3Mj3BulKfcG7a4MA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "196"
+    },
+    "col_1": {
+      "text": "Gallery DeptBoxing MerchZip Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awv4TaNSQ8MI6Kypfr6bqAK7Ka2ptrocNHYsa7ShRCS0uEaodyRUGNVq275xR8nWYDGA7wYKCHzvIkHdpN2Bt-Jj8T0xwjDCvmA1jlIIFbEtwOuaZY7WSHUnTSqfw3Mj3BulKfcG7a4MA=w143-h110"
+    },
+    "col_3": {
+      "text": "tophotfashion/Singor",
+      "links": [
+        {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/1/821849748129?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/829687869058?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "36$"
+    },
+    "col_7": {
+      "text": "tophot/singor",
+      "links": [
+        {
+          "label": "tophot",
+          "url": "https://tophotfashion.x.yupoo.com/search/album?uid=1&sort=&q=821849748129"
+        },
+        {
+          "label": "singor",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1925922182125371394?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0713"
+}

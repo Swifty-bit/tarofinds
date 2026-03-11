@@ -1,0 +1,61 @@
+{
+  "name": "Eric EmanuelFlame Shorts2 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Angelking",
+  "best_batch_links": [
+    {
+      "label": "Angelking",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792718020125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "23$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://angelking47.x.yupoo.com/albums/135571142?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVHDAZBqjhUtE0noAE1FEbNpO4KCiFuy4W2CTua4c0wBSo_5EfuY6YbVCHXS5huWTPclxoAeVgiwnTs1rofSyZRL3C-z6czYC4JI_y1S3lLP2sfabseNkAWFwfMSH2WSdZBQwoug2j1kcf=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "974"
+    },
+    "col_1": {
+      "text": "Eric EmanuelFlame Shorts2 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVHDAZBqjhUtE0noAE1FEbNpO4KCiFuy4W2CTua4c0wBSo_5EfuY6YbVCHXS5huWTPclxoAeVgiwnTs1rofSyZRL3C-z6czYC4JI_y1S3lLP2sfabseNkAWFwfMSH2WSdZBQwoug2j1kcf=w143-h110"
+    },
+    "col_3": {
+      "text": "Angelking",
+      "links": [
+        {
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://angelking47.x.yupoo.com/albums/135571142?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1373"
+}

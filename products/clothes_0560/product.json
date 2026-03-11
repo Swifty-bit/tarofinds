@@ -1,0 +1,61 @@
+{
+  "name": "Nike TechRed",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F767458964273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "24$(SET)",
+  "pics_text": "budget",
+  "pics_links": [
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZ7_QW9wbgdC5CWA0y4-4BwUCDXMNgPsognIct58hCvhFfOsMX7Bb_kDrtx2alfJEOgeHTiIRANxwwTlbEpTZXe7_2FdcCQo0KHhKkaHC_E7w6OvLoQWPBx-gJ5z07Xa94QJx-3pzQCG0K=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "25"
+    },
+    "col_1": {
+      "text": "Nike TechRed"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZ7_QW9wbgdC5CWA0y4-4BwUCDXMNgPsognIct58hCvhFfOsMX7Bb_kDrtx2alfJEOgeHTiIRANxwwTlbEpTZXe7_2FdcCQo0KHhKkaHC_E7w6OvLoQWPBx-gJ5z07Xa94QJx-3pzQCG0K=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "24$(SET)"
+    },
+    "col_7": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0560"
+}

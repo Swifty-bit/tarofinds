@@ -1,0 +1,61 @@
+{
+  "name": "Burberry CheckSwim Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F902016745356%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/902016745356?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631259550629890?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axbgf5wo72tAfQ78S1j3BoU-R2IBLci9t35te7AVJ6BlpCAXCte-6guWVeCmhMr2j-sEPwWqUEqMkuDmYVagnlqmFShhvYyXZPLrP3Z6G6qIYP70gdu0rovkKTISniPd6a7svuE5lhpag=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1007"
+    },
+    "col_1": {
+      "text": "Burberry CheckSwim Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axbgf5wo72tAfQ78S1j3BoU-R2IBLci9t35te7AVJ6BlpCAXCte-6guWVeCmhMr2j-sEPwWqUEqMkuDmYVagnlqmFShhvYyXZPLrP3Z6G6qIYP70gdu0rovkKTISniPd6a7svuE5lhpag=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/902016745356?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631259550629890?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1400"
+}

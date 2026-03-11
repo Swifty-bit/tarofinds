@@ -1,0 +1,74 @@
+{
+  "name": "ChanelCC Runner",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Repsun",
+  "best_batch_links": [
+    {
+      "label": "Repsun",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7413012470%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7413012470?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "GD/budget",
+  "budget_batch_links": [
+    {
+      "label": "GD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7444371128%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7444371128?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F797137714264%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/797137714264?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "75$",
+  "budget_price": "58$ / 47$",
+  "pics_text": "58$ / 47$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzdK5IV6nVhsYYx4kxtiljOXREjlIZHKgDy92HMnEendmmJiXbtU6r-LWA43LoXFaBs8m_PlLnX_PX5vai4AULb9h7oDRz9F8nhJMCjPiFGl3WSmSe7ByE3rHRBucOI8IdJ3robki7q7w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "458"
+    },
+    "col_1": {
+      "text": "ChanelCC Runner"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzdK5IV6nVhsYYx4kxtiljOXREjlIZHKgDy92HMnEendmmJiXbtU6r-LWA43LoXFaBs8m_PlLnX_PX5vai4AULb9h7oDRz9F8nhJMCjPiFGl3WSmSe7ByE3rHRBucOI8IdJ3robki7q7w=w143-h110"
+    },
+    "col_3": {
+      "text": "Repsun",
+      "links": [
+        {
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/2/7413012470?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "GD/budget",
+      "links": [
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7444371128?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/797137714264?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "75$"
+    },
+    "col_6": {
+      "text": "58$ / 47$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0405"
+}

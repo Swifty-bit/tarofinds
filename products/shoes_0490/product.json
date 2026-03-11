@@ -1,0 +1,47 @@
+{
+  "name": "Isabel MarantBekett Sneakers",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GD",
+  "best_batch_links": [
+    {
+      "label": "GD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7625042457%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7625042457?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "77$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZOM5ohVJy63TFZJFh5l87tmxceScPfj-geylzkUKelm6TGNGHAu80ZgbNFv4MaR7ZYlyLYhsCvXtAxGB_mjv1JiR9bi5J7qT9Q0HfcxD-khEKUp-v28GE_A9DkgOSL0aUNPujp8j5ltwb=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "567"
+    },
+    "col_1": {
+      "text": "Isabel MarantBekett Sneakers"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZOM5ohVJy63TFZJFh5l87tmxceScPfj-geylzkUKelm6TGNGHAu80ZgbNFv4MaR7ZYlyLYhsCvXtAxGB_mjv1JiR9bi5J7qT9Q0HfcxD-khEKUp-v28GE_A9DkgOSL0aUNPujp8j5ltwb=w143-h110"
+    },
+    "col_3": {
+      "text": "GD",
+      "links": [
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7625042457?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "77$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0490"
+}

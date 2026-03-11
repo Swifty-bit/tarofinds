@@ -1,0 +1,61 @@
+{
+  "name": "Christian DiorWOMAN",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F768858711602%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/768858711602?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "2$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1919195443022053378?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyvPBfAxsXutNc2Y9u1Fng62kr-JGhwGJsoXFzzeNXFexjcbApsj5SIRNDFoIPXZLiKacY5x-8K33ucEx05QGeJJ3FbWrX7weJt4nSXnK3xpkSOEua2fXEe3jHlD5ocITrLgMCW3YE3eIgu=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "42"
+    },
+    "col_1": {
+      "text": "Christian DiorWOMAN"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyvPBfAxsXutNc2Y9u1Fng62kr-JGhwGJsoXFzzeNXFexjcbApsj5SIRNDFoIPXZLiKacY5x-8K33ucEx05QGeJJ3FbWrX7weJt4nSXnK3xpkSOEua2fXEe3jHlD5ocITrLgMCW3YE3eIgu=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/768858711602?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "2$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1919195443022053378?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1580"
+}

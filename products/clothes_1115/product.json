@@ -1,0 +1,61 @@
+{
+  "name": "Vetements Reversible Bomber Hoodie TFD/Gun club",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F923162676346%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/923162676346?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "98$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/180244974?uid=1&isSubCate=false&referrercate=4670550"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azt1f5HhmTwx8GTlcUxctcGbA8udLIuaZp9wqCm6Rk0D1X2Jt9pvdJt7W-eXoqTX_6M7iVVCKVW-5vZBTBCiMm42iYjvjd34rz2P5KHIq1E9RT9sGxrcti35gLzT34r5fPircrMmGkXoDeJ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "670"
+    },
+    "col_1": {
+      "text": "Vetements Reversible Bomber Hoodie TFD/Gun club"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azt1f5HhmTwx8GTlcUxctcGbA8udLIuaZp9wqCm6Rk0D1X2Jt9pvdJt7W-eXoqTX_6M7iVVCKVW-5vZBTBCiMm42iYjvjd34rz2P5KHIq1E9RT9sGxrcti35gLzT34r5fPircrMmGkXoDeJ=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/923162676346?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "98$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/180244974?uid=1&isSubCate=false&referrercate=4670550"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1115"
+}

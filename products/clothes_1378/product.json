@@ -1,0 +1,61 @@
+{
+  "name": "Eric EmanuelShorts56 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "UnionKingdom",
+  "budget_batch_links": [
+    {
+      "label": "UnionKingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1905424804963520513?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDK8-7udiaGGkX95G7_1os0VteBMQWj8Nn-xFJZHFDPu_mgPd_eyystKAcc-q8L0fsWUOc7s8Ti0-cX8QbOyITb3h0iNbOheXaLnTh0SPLlypaSWNTH0I4e-6xZoP0lmXxEH44SnvzGA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "979"
+    },
+    "col_1": {
+      "text": "Eric EmanuelShorts56 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDK8-7udiaGGkX95G7_1os0VteBMQWj8Nn-xFJZHFDPu_mgPd_eyystKAcc-q8L0fsWUOc7s8Ti0-cX8QbOyITb3h0iNbOheXaLnTh0SPLlypaSWNTH0I4e-6xZoP0lmXxEH44SnvzGA=w143-h110"
+    },
+    "col_4": {
+      "text": "UnionKingdom",
+      "links": [
+        {
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1905424804963520513?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1378"
+}

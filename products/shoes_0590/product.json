@@ -1,0 +1,78 @@
+{
+  "name": "Ralph LaurenShort Socks",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "CND ISLAND",
+  "best_batch_links": [
+    {
+      "label": "CND ISLAND",
+      "url": "https://oopbuy.com/product/weidian/7592621583?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "5$(6 Pairs)",
+  "budget_price": "1$",
+  "pics_text": "1$",
+  "pics_links": [],
+  "notes": "best/budget",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbErRBUP3qpTbnpIG9kjxrAQupJemiqPkaTSbjT7j3XJYfxSmHzNnQXxp0_a-q1HrKjLC5FS0ciWd4NNXRFxjV5B3rIm6-La9i3EubkqAJNUAEzQwsXybunYxL4zSQm63opCAOrf9M9g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "652"
+    },
+    "col_1": {
+      "text": "Ralph LaurenShort Socks"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbErRBUP3qpTbnpIG9kjxrAQupJemiqPkaTSbjT7j3XJYfxSmHzNnQXxp0_a-q1HrKjLC5FS0ciWd4NNXRFxjV5B3rIm6-La9i3EubkqAJNUAEzQwsXybunYxL4zSQm63opCAOrf9M9g=w143-h110"
+    },
+    "col_3": {
+      "text": "CND ISLAND",
+      "links": [
+        {
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7592621583?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "5$(6 Pairs)"
+    },
+    "col_6": {
+      "text": "1$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0590"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Ralph Lauren FW24Sweatpants4 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7289350360%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7289350360?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "27$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/177690045?uid=1&isSubCate=false&referrercate=4373091"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmccXEi_Ygo8HO2HfNUS_pAXrV7a-FKdIMy_nTaIm09cWz6dYAEwvvuUbGGvkdy76SBUv9IOB-u7AgeF1MFj6ulzDuDZbzqReAz0RV_XEs2TXP5m6ASUmqiCMucAvUK_d5mfszkZk27yZc=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "96"
+    },
+    "col_1": {
+      "text": "Ralph Lauren FW24Sweatpants4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmccXEi_Ygo8HO2HfNUS_pAXrV7a-FKdIMy_nTaIm09cWz6dYAEwvvuUbGGvkdy76SBUv9IOB-u7AgeF1MFj6ulzDuDZbzqReAz0RV_XEs2TXP5m6ASUmqiCMucAvUK_d5mfszkZk27yZc=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://www.oopbuy.com/product/weidian/7289350360?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "27$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/177690045?uid=1&isSubCate=false&referrercate=4373091"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0625"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Bape Shark Head CamouflageBeach Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Lufilo",
+  "best_batch_links": [
+    {
+      "label": "Lufilo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F831089203557%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/831089203557?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831089203557"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxvKHcetUNOTS9FwGGgih1WdorMJgfi6KjCKdPoR8pFvEjUjjY0vdF0BMkrRxTeMAC5vZoBC9mM3vKOtYEiWzYP-cZ1zUSy9yHnw3yDGvtW7YvF9sQJrdV80QQtmeoVDeaTjxswde7-ag=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "909"
+    },
+    "col_1": {
+      "text": "Bape Shark Head CamouflageBeach Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxvKHcetUNOTS9FwGGgih1WdorMJgfi6KjCKdPoR8pFvEjUjjY0vdF0BMkrRxTeMAC5vZoBC9mM3vKOtYEiWzYP-cZ1zUSy9yHnw3yDGvtW7YvF9sQJrdV80QQtmeoVDeaTjxswde7-ag=w143-h110"
+    },
+    "col_3": {
+      "text": "Lufilo",
+      "links": [
+        {
+          "label": "Lufilo",
+          "url": "https://oopbuy.com/product/1/831089203557?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "44$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831089203557"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1316"
+}

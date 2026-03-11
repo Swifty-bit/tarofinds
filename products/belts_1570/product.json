@@ -1,0 +1,87 @@
+{
+  "name": "Ferragamo",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "K8",
+  "best_batch_links": [
+    {
+      "label": "K8",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7237665997%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7237665997?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F908065154082%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "2$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938764598913134594?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzeDCbEnC3gycq0ZBK1UTUq230Znoe4VKjO-fAs_mHgVyG1GXK64Pm4QLTCJQgXGyimwDolWlWbK_fRg9VXGxVxwfAhGWBX7_hrKxkwV2Y3cU8uhUq0f707K9I9q22-GJVEq3Zch2_oFw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "32"
+    },
+    "col_1": {
+      "text": "Ferragamo"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzeDCbEnC3gycq0ZBK1UTUq230Znoe4VKjO-fAs_mHgVyG1GXK64Pm4QLTCJQgXGyimwDolWlWbK_fRg9VXGxVxwfAhGWBX7_hrKxkwV2Y3cU8uhUq0f707K9I9q22-GJVEq3Zch2_oFw=w143-h110"
+    },
+    "col_3": {
+      "text": "K8",
+      "links": [
+        {
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7237665997?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "2$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938764598913134594?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1570"
+}

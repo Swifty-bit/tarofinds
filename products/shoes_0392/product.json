@@ -1,0 +1,65 @@
+{
+  "name": "LouboutinsBlue Spikes",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F562674968851%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/562674968851?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F779786898860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/779786898860?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "95$",
+  "budget_price": "25$",
+  "pics_text": "25$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axr1e84YAR-y4BfIfSPCE_UsAT-w-i1uLy80kiHLoDTPziSNbO7xFCcj80t5Ut8_xIpRzbWpItbMiQFYmAYdgnqpTpE7eGCJOPu9Jo_woznJRNmhJiA7UiZoJ_pdoaGIiYPHXe-ykLpjg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "439"
+    },
+    "col_1": {
+      "text": "LouboutinsBlue Spikes"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axr1e84YAR-y4BfIfSPCE_UsAT-w-i1uLy80kiHLoDTPziSNbO7xFCcj80t5Ut8_xIpRzbWpItbMiQFYmAYdgnqpTpE7eGCJOPu9Jo_woznJRNmhJiA7UiZoJ_pdoaGIiYPHXe-ykLpjg=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/562674968851?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/779786898860?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "95$"
+    },
+    "col_6": {
+      "text": "25$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0392"
+}

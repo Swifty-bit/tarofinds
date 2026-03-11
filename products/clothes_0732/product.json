@@ -1,0 +1,61 @@
+{
+  "name": "Essentials 23FW Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GmanClub",
+  "best_batch_links": [
+    {
+      "label": "GmanClub",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F756350264897%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwAeIW6R7ZMnR_EHZdX4K5-MYSJlgETj9bK-0weZEzeluzNgVJxdAL94aFxC3UvElyLwGLRbRngu7f2cTN-IYnW-BFtk0CIdVPKZexSas5Int3It44j8qUP47TkFESYwDcFRLn149Bde0jB=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "217"
+    },
+    "col_1": {
+      "text": "Essentials 23FW Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwAeIW6R7ZMnR_EHZdX4K5-MYSJlgETj9bK-0weZEzeluzNgVJxdAL94aFxC3UvElyLwGLRbRngu7f2cTN-IYnW-BFtk0CIdVPKZexSas5Int3It44j8qUP47TkFESYwDcFRLn149Bde0jB=w143-h110"
+    },
+    "col_3": {
+      "text": "GmanClub",
+      "links": [
+        {
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0732"
+}

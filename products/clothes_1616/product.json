@@ -1,0 +1,61 @@
+{
+  "name": "Canada GooseFur",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Chaoren",
+  "best_batch_links": [
+    {
+      "label": "Chaoren",
+      "url": "https://www.oopbuy.com/product/1/747079053372?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "7$ - 30$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1922841637832200193?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFh2Nc1aGSNY9BQzXVpY-e8sCESR6YuXbiYo2GNlbKsM1HWwMa1_gm-_jUOAdeMUcU6_ss7use5bw-UGPSkCSTRgyBSk6V_5mehCgCXxtBNO8sS9MutkaHWliQVlDSJXZaQT0OexOjEGPD=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1100"
+    },
+    "col_1": {
+      "text": "Canada GooseFur"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFh2Nc1aGSNY9BQzXVpY-e8sCESR6YuXbiYo2GNlbKsM1HWwMa1_gm-_jUOAdeMUcU6_ss7use5bw-UGPSkCSTRgyBSk6V_5mehCgCXxtBNO8sS9MutkaHWliQVlDSJXZaQT0OexOjEGPD=w143-h110"
+    },
+    "col_3": {
+      "text": "Chaoren",
+      "links": [
+        {
+          "label": "Chaoren",
+          "url": "https://www.oopbuy.com/product/1/747079053372?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "7$ - 30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1922841637832200193?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1616"
+}

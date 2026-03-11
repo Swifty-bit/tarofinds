@@ -1,0 +1,64 @@
+{
+  "name": "Ralph Lauren Sweater9 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F760438413422%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/760438413422?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "14$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1892912024184262658?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzXIEF82GpYu1ncrScofDw5dJ84Xd0ddjHeRwfZ-uOvv7ffuwnbEiNk_t0SF-QyKzUwrl9dzrA5sQu2IGTAJ8utrP1Ak6EPlbezvITHnd7ZHj8ajOlrfJ_XPju1ibUG97webKT8-qenq6Ul=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "90"
+    },
+    "col_1": {
+      "text": "Ralph Lauren Sweater9 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzXIEF82GpYu1ncrScofDw5dJ84Xd0ddjHeRwfZ-uOvv7ffuwnbEiNk_t0SF-QyKzUwrl9dzrA5sQu2IGTAJ8utrP1Ak6EPlbezvITHnd7ZHj8ajOlrfJ_XPju1ibUG97webKT8-qenq6Ul=w143-h110"
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/760438413422?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "14$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1892912024184262658?action=discord&cid=1840597081113280514"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0619"
+}

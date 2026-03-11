@@ -1,0 +1,61 @@
+{
+  "name": "Balenciaga Wide-Leg Logo Embroidered Cotton Jersey Sweatpants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "ApexMade",
+  "best_batch_links": [
+    {
+      "label": "ApexMade",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F772595235189%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/772595235189?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "40$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1988432748312875009?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwGcd4s5w8vMQkWV7OQqJslESNImh-QAPJgSKyfGflcJRsPfAS8MyouEi-5wtQN3bbWHbMcL93esMb38BiG4u7d9b4nlVJJWP5nygyk_2pJO5zV57XfWIOmRsVV45p8PpAz9jEnbuKaQJmL=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "867"
+    },
+    "col_1": {
+      "text": "Balenciaga Wide-Leg Logo Embroidered Cotton Jersey Sweatpants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwGcd4s5w8vMQkWV7OQqJslESNImh-QAPJgSKyfGflcJRsPfAS8MyouEi-5wtQN3bbWHbMcL93esMb38BiG4u7d9b4nlVJJWP5nygyk_2pJO5zV57XfWIOmRsVV45p8PpAz9jEnbuKaQJmL=w143-h110"
+    },
+    "col_3": {
+      "text": "ApexMade",
+      "links": [
+        {
+          "label": "ApexMade",
+          "url": "https://oopbuy.com/product/1/772595235189?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "40$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1988432748312875009?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1278"
+}

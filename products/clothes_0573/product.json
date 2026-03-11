@@ -1,0 +1,61 @@
+{
+  "name": "Nike Gloves",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F869641927614%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/869641927614?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "5$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1987346903181893634?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8gE5PYsVzVw0V3n2U8bAgQzGR2PKLhI_t5F5h4ryF2vkdju2N56tWwxbGQXq_KoMwRxmJVzRZ0cHLRCpD1NjS6jqISZCQfc8o4kMT28XTGVOlomNdwJWXx8RCQ78ac5HX9X9V85krqbEI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "38"
+    },
+    "col_1": {
+      "text": "Nike Gloves"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8gE5PYsVzVw0V3n2U8bAgQzGR2PKLhI_t5F5h4ryF2vkdju2N56tWwxbGQXq_KoMwRxmJVzRZ0cHLRCpD1NjS6jqISZCQfc8o4kMT28XTGVOlomNdwJWXx8RCQ78ac5HX9X9V85krqbEI=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/869641927614?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "5$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1987346903181893634?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0573"
+}

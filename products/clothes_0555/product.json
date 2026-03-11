@@ -1,0 +1,64 @@
+{
+  "name": "Nike TechHoodie2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F913871043719%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/913871043719?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "25$(SET)",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1996405842893688834?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "set 25$ - hoodie 14$ - pants 11$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax-PqtrbsjMHdBnlhb8O29ncSyVIdT6gQJDI4uw0ljJLiuVZhpvzrUpmoRE1BfprX5ST-5Qt5XORKZmsAjYKedzT3Fo8rNPKvLdqXy5jjfRy7uPnEuV-sLrGxuXN00A5ZIvAPYYyxh4opuC=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "20"
+    },
+    "col_1": {
+      "text": "Nike TechHoodie2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax-PqtrbsjMHdBnlhb8O29ncSyVIdT6gQJDI4uw0ljJLiuVZhpvzrUpmoRE1BfprX5ST-5Qt5XORKZmsAjYKedzT3Fo8rNPKvLdqXy5jjfRy7uPnEuV-sLrGxuXN00A5ZIvAPYYyxh4opuC=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/913871043719?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "25$(SET)"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1996405842893688834?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 25$ - hoodie 14$ - pants 11$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0555"
+}

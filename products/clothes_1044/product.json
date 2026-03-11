@@ -1,0 +1,64 @@
+{
+  "name": "CDG PlayCardigan",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F976281760913%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/976281760913?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "57$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206698417?uid=1&isSubCate=false&referrercate=4980597"
+    }
+  ],
+  "notes": "100% Wool",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az5wk49A3WcUNaJAtRv1hq7oWemoGtJ8XCmIq2k_PD53AGIq9rIzyP2tz961XPOaKFJPoLjKvwDF3RcbSloLwkbMsL8cYQqCbC_8rwMhoK6W0VGnuJ-QEmfJ0U5KqCg4rVeRJyDisN76auO=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "589"
+    },
+    "col_1": {
+      "text": "CDG PlayCardigan"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az5wk49A3WcUNaJAtRv1hq7oWemoGtJ8XCmIq2k_PD53AGIq9rIzyP2tz961XPOaKFJPoLjKvwDF3RcbSloLwkbMsL8cYQqCbC_8rwMhoK6W0VGnuJ-QEmfJ0U5KqCg4rVeRJyDisN76auO=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/976281760913?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "57$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206698417?uid=1&isSubCate=false&referrercate=4980597"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Wool"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1044"
+}

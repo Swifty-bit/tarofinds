@@ -1,0 +1,65 @@
+{
+  "name": "Dior Alpha Slide",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "EVGA",
+  "best_batch_links": [
+    {
+      "label": "EVGA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6527349070%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6527349070?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F620943501779%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/620943501779?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "41$",
+  "budget_price": "32$",
+  "pics_text": "32$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2jaLW9D1HiapLqOLgDqa0zcD543onA6oTFcRQARE__9kGtmX_O9Ne3war0NNuEB2i2GBL0fIf8pB8a-rS4OyYLmm36qFkm6KPK1QN7gGSFDMIWbZLLZAdXsEFoFXSPD2djnUFQuY2bxo2=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "477"
+    },
+    "col_1": {
+      "text": "Dior Alpha Slide"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2jaLW9D1HiapLqOLgDqa0zcD543onA6oTFcRQARE__9kGtmX_O9Ne3war0NNuEB2i2GBL0fIf8pB8a-rS4OyYLmm36qFkm6KPK1QN7gGSFDMIWbZLLZAdXsEFoFXSPD2djnUFQuY2bxo2=w143-h110"
+    },
+    "col_3": {
+      "text": "EVGA",
+      "links": [
+        {
+          "label": "EVGA",
+          "url": "https://oopbuy.com/product/2/6527349070?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/620943501779?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "41$"
+    },
+    "col_6": {
+      "text": "32$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0420"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Ralph Lauren Knit Sweater10 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7260568818%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7260568818?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F738528616022%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/738528616022?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "26$",
+  "budget_price": "15$",
+  "pics_text": "pics/budget",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/172386563?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631479017586690?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwH_-5SrohJnk9lUNDy5S_ZTaUn1YnY0fQVwis3P2tGkij24hIDug_u6nDmDOB4gqBxqAHfhCNIfDuIlFapxtawe3yIZ2bh_fH-QRetEROqb2dfQfOH_qVomOJO1HFeomIwSRGSElQOE0kQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "89"
+    },
+    "col_1": {
+      "text": "Ralph Lauren Knit Sweater10 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwH_-5SrohJnk9lUNDy5S_ZTaUn1YnY0fQVwis3P2tGkij24hIDug_u6nDmDOB4gqBxqAHfhCNIfDuIlFapxtawe3yIZ2bh_fH-QRetEROqb2dfQfOH_qVomOJO1HFeomIwSRGSElQOE0kQ=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/weidian/7260568818?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/738528616022?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "26$"
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "pics/budget",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/172386563?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631479017586690?action=discord&cid=1840597081113280514"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0618"
+}

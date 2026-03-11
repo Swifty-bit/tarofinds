@@ -1,0 +1,47 @@
+{
+  "name": "Corteiz Socks",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://oopbuy.com/product/2/7235735111?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "6$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awoj-ZrBmDvj2Tfenf65a7IedvQ8nb_Kh0k9lIvuVjvf9a0nhJ2sPhiwbFUS5QBg6Hkvavthj4RsGy1Bnkp30HqU1OlZFGxl39R6vc-SH2qnc7cRhKsjAYqxUFXaLgpRu7scSQdKBf0cILp=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "651"
+    },
+    "col_1": {
+      "text": "Corteiz Socks"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awoj-ZrBmDvj2Tfenf65a7IedvQ8nb_Kh0k9lIvuVjvf9a0nhJ2sPhiwbFUS5QBg6Hkvavthj4RsGy1Bnkp30HqU1OlZFGxl39R6vc-SH2qnc7cRhKsjAYqxUFXaLgpRu7scSQdKBf0cILp=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/2/7235735111?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "6$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0589"
+}

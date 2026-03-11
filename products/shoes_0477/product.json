@@ -1,0 +1,41 @@
+{
+  "name": "MMY PetersonHigh",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "/",
+  "budget_batch_links": [],
+  "best_price": "/",
+  "budget_price": "/",
+  "pics_text": "/",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUyvHil23fqGZGCRK-ObgG3SDWAuLXlXpocHuffksnbs43FPQ8leRjSl6NfbmVi6qEdkF1ophUCbfPYrasoLhOzZBaxs8ULF26EeUrTJOcnZJ5yY0txv_dUEmS-vRqPQpmn7-9a1HAmJqS=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "550"
+    },
+    "col_1": {
+      "text": "MMY PetersonHigh"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUyvHil23fqGZGCRK-ObgG3SDWAuLXlXpocHuffksnbs43FPQ8leRjSl6NfbmVi6qEdkF1ophUCbfPYrasoLhOzZBaxs8ULF26EeUrTJOcnZJ5yY0txv_dUEmS-vRqPQpmn7-9a1HAmJqS=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_4": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "/"
+    },
+    "col_6": {
+      "text": "/"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0477"
+}

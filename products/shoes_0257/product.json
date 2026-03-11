@@ -1,0 +1,47 @@
+{
+  "name": "SE 95 Neon",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GB",
+  "best_batch_links": [
+    {
+      "label": "GB",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6631882941%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6631882941?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "47$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayte0ZRD2b2pB5EsNOrJ_dlnbBSojRet4rOKyJaiDe7qPIpawA2lrQ5guTrDk-3rF27EuBtKiwbkYnsd4tDOmwi_v_Bq0FhMWkhiPfegzSjQqmwk3O6DPlhSRLC0ddMUmukHiSJL5ZgvzvF=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "272"
+    },
+    "col_1": {
+      "text": "SE 95 Neon"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayte0ZRD2b2pB5EsNOrJ_dlnbBSojRet4rOKyJaiDe7qPIpawA2lrQ5guTrDk-3rF27EuBtKiwbkYnsd4tDOmwi_v_Bq0FhMWkhiPfegzSjQqmwk3O6DPlhSRLC0ddMUmukHiSJL5ZgvzvF=w143-h110"
+    },
+    "col_3": {
+      "text": "GB",
+      "links": [
+        {
+          "label": "GB",
+          "url": "https://oopbuy.com/product/2/6631882941?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "47$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0257"
+}

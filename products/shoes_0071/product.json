@@ -1,0 +1,47 @@
+{
+  "name": "Championship Court Purple",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "VT",
+  "budget_batch_links": [
+    {
+      "label": "VT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "23$",
+  "pics_text": "23$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyHiRB0S0W4rMks7eiPSo_byVv-KLEL_moW4tD5R1Xp_CP2PtoKyA_V-2FnBU5QI7MsH_2KWrgxtIwZHE06CMsTZU_n0HOW3RvQwkB9MxE2Q39WKDiiXFrK1x9r4d2CuUyKRpSnDwjmlw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "80"
+    },
+    "col_1": {
+      "text": "Championship Court Purple"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyHiRB0S0W4rMks7eiPSo_byVv-KLEL_moW4tD5R1Xp_CP2PtoKyA_V-2FnBU5QI7MsH_2KWrgxtIwZHE06CMsTZU_n0HOW3RvQwkB9MxE2Q39WKDiiXFrK1x9r4d2CuUyKRpSnDwjmlw=w143-h110"
+    },
+    "col_4": {
+      "text": "VT",
+      "links": [
+        {
+          "label": "VT",
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "23$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0071"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "CDG PlayT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F974427059839%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/974427059839?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206698493?uid=1&isSubCate=false&referrercate=4980597"
+    }
+  ],
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyF-Be0YuU9DR_VsZkH17dztF1KAv37IMDBqQ28PppS-gopb6qIFEtvGNIAmYw643T9hFFF0oiBzbFSYK5bs1Yutj6Sz4SN-b_D0Rsp0pXOWANWt0cjdPgcc3N6y9lR9rx8BnIJ8Lh1V2uT=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "573"
+    },
+    "col_1": {
+      "text": "CDG PlayT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyF-Be0YuU9DR_VsZkH17dztF1KAv37IMDBqQ28PppS-gopb6qIFEtvGNIAmYw643T9hFFF0oiBzbFSYK5bs1Yutj6Sz4SN-b_D0Rsp0pXOWANWt0cjdPgcc3N6y9lR9rx8BnIJ8Lh1V2uT=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/974427059839?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206698493?uid=1&isSubCate=false&referrercate=4980597"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1028"
+}

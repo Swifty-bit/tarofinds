@@ -1,0 +1,47 @@
+{
+  "name": "Freddy Krueger",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "TOP/S2",
+  "best_batch_links": [
+    {
+      "label": "TOP/S2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251512589%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251512589?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "54$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQchriqVdUUb8aFtJln1G-ccSVhIyN3t_jqZSuwMLw_qQrRD34FAY5hDVzYJqt6mmL7lvhn3OoxXsKFx9H3AVpnh5NwHVd6qVTVloGJER99gkMbGAliPXC3nA9i4HoLTkx3cb5MpaDMwCL=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "97"
+    },
+    "col_1": {
+      "text": "Freddy Krueger"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQchriqVdUUb8aFtJln1G-ccSVhIyN3t_jqZSuwMLw_qQrRD34FAY5hDVzYJqt6mmL7lvhn3OoxXsKFx9H3AVpnh5NwHVd6qVTVloGJER99gkMbGAliPXC3nA9i4HoLTkx3cb5MpaDMwCL=w143-h110"
+    },
+    "col_3": {
+      "text": "TOP/S2",
+      "links": [
+        {
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/2/7251512589?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "54$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0088"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Air Jordan 1 HighOff-WhiteEuro White",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564058443%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564058443?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "78$",
+  "budget_price": "39$",
+  "pics_text": "39$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDcpSGc-5YWAcoLoVV3CmSneOBuL7aC-R9GK4J-oIeI5YAcCFypeVUJ-PCjvR7uSyKU9M5pewnVfrxAesripyE_okdbrmMQkVoC0xH88KQAU-L7VzlcuSOtRzSLR0aB3AZOEN3kJY8LKtI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "162"
+    },
+    "col_1": {
+      "text": "Air Jordan 1 HighOff-WhiteEuro White"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDcpSGc-5YWAcoLoVV3CmSneOBuL7aC-R9GK4J-oIeI5YAcCFypeVUJ-PCjvR7uSyKU9M5pewnVfrxAesripyE_okdbrmMQkVoC0xH88KQAU-L7VzlcuSOtRzSLR0aB3AZOEN3kJY8LKtI=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7564058443?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "78$"
+    },
+    "col_6": {
+      "text": "39$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0151"
+}

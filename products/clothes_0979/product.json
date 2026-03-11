@@ -1,0 +1,61 @@
+{
+  "name": "Stone IslandZip-up shirt jacket with pocket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F909935476951%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/909935476951?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "12$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014563407167049730?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azhp0AAisIv-8D20ffX1IqBQJEUgCVk1_tJtWdcelq0YvSosqwa9DLRGuAwiNTB-MY70EPoUerVRTKl4hbZIS0DmfoMuO7iSdmwta_fhAJPZqbfgpdIXb4yRyjD9zMUqcC4syxcGNZGvbYa=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "514"
+    },
+    "col_1": {
+      "text": "Stone IslandZip-up shirt jacket with pocket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azhp0AAisIv-8D20ffX1IqBQJEUgCVk1_tJtWdcelq0YvSosqwa9DLRGuAwiNTB-MY70EPoUerVRTKl4hbZIS0DmfoMuO7iSdmwta_fhAJPZqbfgpdIXb4yRyjD9zMUqcC4syxcGNZGvbYa=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/909935476951?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "12$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014563407167049730?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0979"
+}

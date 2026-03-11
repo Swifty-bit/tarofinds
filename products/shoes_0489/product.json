@@ -1,0 +1,65 @@
+{
+  "name": "Maison MargielaFuture High",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7337653369%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7337653369?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F678013089482%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/678013089482?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "96$",
+  "budget_price": "40$",
+  "pics_text": "40$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxV3ZgmeG8FrGIwRD7xuiif2isxPGejF84KTQx3r7lDtSnk4T0q-lcZWD3bfleX9my3GA5GjgN_j5UBXv0NLGQNIx2ggNLSdZXg5ZKhAPMxF7OdIwgsary6x53zUUbkClekI4FTZwU5xs4a=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "564"
+    },
+    "col_1": {
+      "text": "Maison MargielaFuture High"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxV3ZgmeG8FrGIwRD7xuiif2isxPGejF84KTQx3r7lDtSnk4T0q-lcZWD3bfleX9my3GA5GjgN_j5UBXv0NLGQNIx2ggNLSdZXg5ZKhAPMxF7OdIwgsary6x53zUUbkClekI4FTZwU5xs4a=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7337653369?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/678013089482?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "96$"
+    },
+    "col_6": {
+      "text": "40$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0489"
+}

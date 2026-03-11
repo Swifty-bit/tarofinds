@@ -1,0 +1,56 @@
+{
+  "name": "Strangelove",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PK/M",
+  "best_batch_links": [
+    {
+      "label": "PK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7259102421%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7259102421?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "M",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7242327027%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "61$ / 56$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzIl7uYuXQS_UwI3l8xQfLnLRlYATzpr3WUlh99LO64PWLI7ZrcbomJaGNnbRdSTRhX1YVunXlXumGB5PbXFfds4tjrxP1RzmNyM30rWurxr2fr6MtmJaIKgYKn3wDF8uN0GlIhyR7MTENO=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "135"
+    },
+    "col_1": {
+      "text": "Strangelove"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzIl7uYuXQS_UwI3l8xQfLnLRlYATzpr3WUlh99LO64PWLI7ZrcbomJaGNnbRdSTRhX1YVunXlXumGB5PbXFfds4tjrxP1RzmNyM30rWurxr2fr6MtmJaIKgYKn3wDF8uN0GlIhyR7MTENO=w143-h110"
+    },
+    "col_3": {
+      "text": "PK/M",
+      "links": [
+        {
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/7259102421?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "61$ / 56$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0126"
+}

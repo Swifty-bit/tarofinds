@@ -1,0 +1,47 @@
+{
+  "name": "991",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "ZC",
+  "best_batch_links": [
+    {
+      "label": "ZC",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7254358467%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7254358467?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEVKYF_fely5ddnwkGs8hr7V0oT9NLvcI_DbW2ub5ZSw_V-D1riY-JToFoea1dP1-IzBHQ6hBYLDysX4-HKeyvC41SBMPkALLZN2LrQdLh_oFGvE0IVKr_G0mj0nx5fuU6eX2Kg-KwKTF7=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "389"
+    },
+    "col_1": {
+      "text": "991"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEVKYF_fely5ddnwkGs8hr7V0oT9NLvcI_DbW2ub5ZSw_V-D1riY-JToFoea1dP1-IzBHQ6hBYLDysX4-HKeyvC41SBMPkALLZN2LrQdLh_oFGvE0IVKr_G0mj0nx5fuU6eX2Kg-KwKTF7=w143-h110"
+    },
+    "col_3": {
+      "text": "ZC",
+      "links": [
+        {
+          "label": "ZC",
+          "url": "https://oopbuy.com/product/2/7254358467?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "44$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0356"
+}

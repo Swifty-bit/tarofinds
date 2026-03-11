@@ -1,0 +1,61 @@
+{
+  "name": "SynaT-Shirt & Shorts4 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653805345%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653805345?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "40$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/138101088?uid=1&isSubCate=false&referrercate=4215138"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awk_Q5I2jkgRg3-kH7aHuhApdt40fVpgrmX72-VNzdh6Vl_i-jhiJ93aF_2OHYvXhK4pnERtuSJAOXYDufzH0yhLDa2d56MJ-ffqVmeRAeGllFaLgxdGxwrCV_QJQSin9NyMkrDdUqKvQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "452"
+    },
+    "col_1": {
+      "text": "SynaT-Shirt & Shorts4 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awk_Q5I2jkgRg3-kH7aHuhApdt40fVpgrmX72-VNzdh6Vl_i-jhiJ93aF_2OHYvXhK4pnERtuSJAOXYDufzH0yhLDa2d56MJ-ffqVmeRAeGllFaLgxdGxwrCV_QJQSin9NyMkrDdUqKvQ=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653805345?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "40$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/138101088?uid=1&isSubCate=false&referrercate=4215138"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0925"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Kroen Embroidery Patchwork Sports Suit",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT/GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653795417%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653795417?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653842843%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653842843?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/200426874?uid=1&isSubCate=false&referrercate=4943474"
+    }
+  ],
+  "notes": "set 59$ - top 30$ - bottom 29$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwJMenno85RWhX6lLePO7GiU4km7AWjMlZujRRX3OJb6eg-xAyX4MJ2F2VF5gRUME0oGpZha6BDUtcJ8UY3At9CX2cISVzyR4zEXm5nsfUOSUN1jqGfhqseimfq8jPS-R2FK3NwY-B7IhKl=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "651"
+    },
+    "col_1": {
+      "text": "Kroen Embroidery Patchwork Sports Suit"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwJMenno85RWhX6lLePO7GiU4km7AWjMlZujRRX3OJb6eg-xAyX4MJ2F2VF5gRUME0oGpZha6BDUtcJ8UY3At9CX2cISVzyR4zEXm5nsfUOSUN1jqGfhqseimfq8jPS-R2FK3NwY-B7IhKl=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT/GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653795417?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653842843?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "59$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/200426874?uid=1&isSubCate=false&referrercate=4943474"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 59$ - top 30$ - bottom 29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1098"
+}

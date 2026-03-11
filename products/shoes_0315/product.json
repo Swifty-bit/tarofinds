@@ -1,0 +1,47 @@
+{
+  "name": "Space Jam",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240644396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "70$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyIuKJJK6bK2lQH1-lm-2QyOvCPQMVX1WYA_q7IkJqmoQhFIyHe9T7RTZtMQfB_QxstWQJ1-a3KQoqwDT7J0vxiHrHplhctrrVXn4328pn2v39Qr1LqAmbpAX9SJgn6V7orOp0WVHQH81jk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "338"
+    },
+    "col_1": {
+      "text": "Space Jam"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyIuKJJK6bK2lQH1-lm-2QyOvCPQMVX1WYA_q7IkJqmoQhFIyHe9T7RTZtMQfB_QxstWQJ1-a3KQoqwDT7J0vxiHrHplhctrrVXn4328pn2v39Qr1LqAmbpAX9SJgn6V7orOp0WVHQH81jk=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "70$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0315"
+}

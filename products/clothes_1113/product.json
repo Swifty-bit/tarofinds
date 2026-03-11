@@ -1,0 +1,61 @@
+{
+  "name": "VetementsUnicorn Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F852710711728%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/852710711728?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "51$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/180244541?uid=1&isSubCate=false&referrercate=4651184"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDrh43vtrRcQnxAbS58bwmMEFTpPecYqfYjmxMSTxFKXNdDhyIM5HLed0yQWnuUO53ZHhNDWE0Zy9rGNy36mtGZezUFBVJ1XX3BOp1tyT9EvrYSaeO8mtxbYa3r1qpWETI32lHswWqU3J-=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "668"
+    },
+    "col_1": {
+      "text": "VetementsUnicorn Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDrh43vtrRcQnxAbS58bwmMEFTpPecYqfYjmxMSTxFKXNdDhyIM5HLed0yQWnuUO53ZHhNDWE0Zy9rGNy36mtGZezUFBVJ1XX3BOp1tyT9EvrYSaeO8mtxbYa3r1qpWETI32lHswWqU3J-=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/852710711728?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "51$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/180244541?uid=1&isSubCate=false&referrercate=4651184"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1113"
+}

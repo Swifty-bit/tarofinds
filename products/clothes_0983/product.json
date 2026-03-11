@@ -1,0 +1,79 @@
+{
+  "name": "Out of the ShadowsT-shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341585605%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7341585605?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F740512418980%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "15$",
+  "budget_price": "8$",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/152763266?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axj8FpJFgvNuwN8rGKkN1oQZA1oX1UFGyMGu0Lu6PQ2Azt1X8cj8K6_kaiKUCbYUgTsgvufX07SGEPM_q0MJCPlYq3IPJ-j2GSVRZ1E_1JVkFOorR6Qr8mPfVkfvV9eWNVk1FkTd-m1Yptl=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "520"
+    },
+    "col_1": {
+      "text": "Out of the ShadowsT-shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axj8FpJFgvNuwN8rGKkN1oQZA1oX1UFGyMGu0Lu6PQ2Azt1X8cj8K6_kaiKUCbYUgTsgvufX07SGEPM_q0MJCPlYq3IPJ-j2GSVRZ1E_1JVkFOorR6Qr8mPfVkfvV9eWNVk1FkTd-m1Yptl=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://oopbuy.com/product/2/7341585605?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "15$"
+    },
+    "col_6": {
+      "text": "8$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/152763266?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0983"
+}

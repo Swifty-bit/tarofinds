@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaTriple Waisted Sweatpants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "ApexMade",
+  "best_batch_links": [
+    {
+      "label": "ApexMade",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F940387098196%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/940387098196?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "70$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2003291346436182017?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-NYMIrq3WrSLJkv4RrL848ZyB9C-ZHcJabtHuYjbvgp9mbIY2Qc4hC3ukyfMmutclcKG7UlYXNkcvdKqR39_ZBQN_qNI9okgTolb3CY8GSEuAfHa1AkfVYRIxH9N41JtlVfyke69I1-Tk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "858"
+    },
+    "col_1": {
+      "text": "BalenciagaTriple Waisted Sweatpants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-NYMIrq3WrSLJkv4RrL848ZyB9C-ZHcJabtHuYjbvgp9mbIY2Qc4hC3ukyfMmutclcKG7UlYXNkcvdKqR39_ZBQN_qNI9okgTolb3CY8GSEuAfHa1AkfVYRIxH9N41JtlVfyke69I1-Tk=w143-h110"
+    },
+    "col_3": {
+      "text": "ApexMade",
+      "links": [
+        {
+          "label": "ApexMade",
+          "url": "https://oopbuy.com/product/1/940387098196?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "70$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2003291346436182017?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1269"
+}

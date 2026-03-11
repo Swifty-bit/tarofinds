@@ -1,0 +1,47 @@
+{
+  "name": "Sean Cliver",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "M",
+  "best_batch_links": [
+    {
+      "label": "M",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7242327027%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "56$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwjLVnhor98QktIKlBhqw_8h8qxyLKS9fUK_wcvmqKJ6lzb9rp-GrZVYY7HGDr1iczI5P4Lkxbkx6DTyaFee9ir0DiYndJju9fZZZ7HEwlqWQWo-6L5Cn1RuvnKFc3w3qomG3Bpywf6XJ4D=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "132"
+    },
+    "col_1": {
+      "text": "Sean Cliver"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwjLVnhor98QktIKlBhqw_8h8qxyLKS9fUK_wcvmqKJ6lzb9rp-GrZVYY7HGDr1iczI5P4Lkxbkx6DTyaFee9ir0DiYndJju9fZZZ7HEwlqWQWo-6L5Cn1RuvnKFc3w3qomG3Bpywf6XJ4D=w143-h110"
+    },
+    "col_3": {
+      "text": "M",
+      "links": [
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "56$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0123"
+}

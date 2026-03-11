@@ -1,0 +1,87 @@
+{
+  "name": "Ferragamo",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "K8",
+  "best_batch_links": [
+    {
+      "label": "K8",
+      "url": "https://www.oopbuy.com/product/weidian/7241913020?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "2$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967777567391440897?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUL6IT-KVVbqDDnYIapcv94AC-oifSnyMsD8lqxXWFbE7x6a_mxxgnvz68_Kja70gQhWd3003y4As8kgv_TLb5ItrURScGVJ4Rm2KQp79qdYBObxDz8t79SH9y2nvESUKWLTl5R8B6NT6W=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "33"
+    },
+    "col_1": {
+      "text": "Ferragamo"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUL6IT-KVVbqDDnYIapcv94AC-oifSnyMsD8lqxXWFbE7x6a_mxxgnvz68_Kja70gQhWd3003y4As8kgv_TLb5ItrURScGVJ4Rm2KQp79qdYBObxDz8t79SH9y2nvESUKWLTl5R8B6NT6W=w143-h110"
+    },
+    "col_3": {
+      "text": "K8",
+      "links": [
+        {
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7241913020?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "2$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967777567391440897?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1716"
+}

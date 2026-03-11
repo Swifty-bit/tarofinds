@@ -1,0 +1,61 @@
+{
+  "name": "Burberry Reversible Windbreaker",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/902061632487?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "55$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://doppel.fit/item/1688/902061632487"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwgHlaw3jxjUs7m571-7-yLVcJVopqSnXFp4FLeOazayYUWndkJxQOoQPMrTR1hWYEDusMhn_pAGqqeC6GtzBNWznJIQFK4_WexSTmWR6heLy7zpxboEJ0TzWO6AAipKPAxs-fzuBERqE89=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1011"
+    },
+    "col_1": {
+      "text": "Burberry Reversible Windbreaker"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwgHlaw3jxjUs7m571-7-yLVcJVopqSnXFp4FLeOazayYUWndkJxQOoQPMrTR1hWYEDusMhn_pAGqqeC6GtzBNWznJIQFK4_WexSTmWR6heLy7zpxboEJ0TzWO6AAipKPAxs-fzuBERqE89=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/902061632487?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "55$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://doppel.fit/item/1688/902061632487"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1534"
+}

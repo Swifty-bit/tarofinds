@@ -1,0 +1,61 @@
+{
+  "name": "Ralph Lauren Vest",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F963485656126%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/963485656126?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1991333068475027457?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUEGqa5ZKrlz4K0wMplNS3qNwG57_NkWrbmjGkgtJCpPBG55eSopEXEMxIrrLFXJ9yhQqowLbAAPCBIwNyy7ZMZpk_CqAOgyZcsW50LEnUHh4enYsX_xkaO9uWhA2FuDQxji-MRhiNjw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "104"
+    },
+    "col_1": {
+      "text": "Ralph Lauren Vest"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUEGqa5ZKrlz4K0wMplNS3qNwG57_NkWrbmjGkgtJCpPBG55eSopEXEMxIrrLFXJ9yhQqowLbAAPCBIwNyy7ZMZpk_CqAOgyZcsW50LEnUHh4enYsX_xkaO9uWhA2FuDQxji-MRhiNjw=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/963485656126?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1991333068475027457?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0633"
+}

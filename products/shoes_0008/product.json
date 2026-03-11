@@ -1,0 +1,65 @@
+{
+  "name": "Air Force One Drake NOCTA Lover Boy",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Baymax",
+  "best_batch_links": [
+    {
+      "label": "Baymax",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7238647427%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7238647427?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "G",
+  "budget_batch_links": [
+    {
+      "label": "G",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7325694820%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7325694820?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "40$",
+  "budget_price": "29$",
+  "pics_text": "29$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwF7jCPa6vGh9ADzB8AimCQA5j7POq-BgbqgIvWsVxfGs_6BYUR0gpG_xwLMF7dIzFfWzDWvnp8Tcj6QXn8GZMyFpCR_5VNb2mWpzHGYp3Rk1h_sdhydoJ91Hy4wMiuq842npeHb6fawVSd=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "15"
+    },
+    "col_1": {
+      "text": "Air Force One Drake NOCTA Lover Boy"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwF7jCPa6vGh9ADzB8AimCQA5j7POq-BgbqgIvWsVxfGs_6BYUR0gpG_xwLMF7dIzFfWzDWvnp8Tcj6QXn8GZMyFpCR_5VNb2mWpzHGYp3Rk1h_sdhydoJ91Hy4wMiuq842npeHb6fawVSd=w143-h110"
+    },
+    "col_3": {
+      "text": "Baymax",
+      "links": [
+        {
+          "label": "Baymax",
+          "url": "https://oopbuy.com/product/weidian/7238647427?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "G",
+      "links": [
+        {
+          "label": "G",
+          "url": "https://oopbuy.com/product/weidian/7325694820?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "40$"
+    },
+    "col_6": {
+      "text": "29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0008"
+}

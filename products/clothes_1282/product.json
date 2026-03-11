@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaGreen Bomber",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F971854933856%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/971854933856?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "117$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/173762755?uid=1&isSubCate=false&referrercate=4670550"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxClzY1THeLycEmXoknAOjtk_k9LymT88hNBuLRNI-pYbMq2k6VIOn1rW8nL_BS-_T_qJsMZvOBOnOlqym68ozz3KoQcqRp-Fg6ctG_HB6Tl_SkQwoEHENIeQfhwt3-xrJppk_g36ZfQRd4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "871"
+    },
+    "col_1": {
+      "text": "BalenciagaGreen Bomber"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxClzY1THeLycEmXoknAOjtk_k9LymT88hNBuLRNI-pYbMq2k6VIOn1rW8nL_BS-_T_qJsMZvOBOnOlqym68ozz3KoQcqRp-Fg6ctG_HB6Tl_SkQwoEHENIeQfhwt3-xrJppk_g36ZfQRd4=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/971854933856?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "117$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/173762755?uid=1&isSubCate=false&referrercate=4670550"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1282"
+}

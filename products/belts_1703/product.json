@@ -1,0 +1,87 @@
+{
+  "name": "Hermes",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "K8",
+  "best_batch_links": [
+    {
+      "label": "K8",
+      "url": "https://www.oopbuy.com/product/weidian/7237615533?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/1/557811120075?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "41$",
+  "budget_price": "4$",
+  "pics_text": "QC Pics/budget",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952173272379510785?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969952042518142978?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax85biVSzJwZTqAekT9NRNoxVeerMqciWrTjJ1PvgyeEWQoSJ8SEwtNgdUadtOgDZcUqNUUU617nYq91Mb4m39WPdrLXW5MFLdT-voFiY8bxA-0GqK5lR2z0Ag31tO4ccaVze16rtCW2Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "20"
+    },
+    "col_1": {
+      "text": "Hermes"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax85biVSzJwZTqAekT9NRNoxVeerMqciWrTjJ1PvgyeEWQoSJ8SEwtNgdUadtOgDZcUqNUUU617nYq91Mb4m39WPdrLXW5MFLdT-voFiY8bxA-0GqK5lR2z0Ag31tO4ccaVze16rtCW2Q=w143-h110"
+    },
+    "col_3": {
+      "text": "K8",
+      "links": [
+        {
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7237615533?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/557811120075?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "41$"
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics/budget",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952173272379510785?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969952042518142978?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1703"
+}

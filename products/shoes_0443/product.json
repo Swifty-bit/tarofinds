@@ -1,0 +1,47 @@
+{
+  "name": "TrainersGreen Denim",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Jelly",
+  "best_batch_links": [
+    {
+      "label": "Jelly",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F730428049541%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/730428049541?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "103$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxydMbXEJzuDZOE7REkNmRHUwnJYB-tsWYl8nNMJQqUqwu_s4lGwhRWIw6oMiR-8LAmsi2p7NOi0UseTQdz8PQ_X3q4JTUAHFQooYlj9iPJlEqXo-Gbi5LTgmumVI6-iCu1s3gdvIuE4o14=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "504"
+    },
+    "col_1": {
+      "text": "TrainersGreen Denim"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxydMbXEJzuDZOE7REkNmRHUwnJYB-tsWYl8nNMJQqUqwu_s4lGwhRWIw6oMiR-8LAmsi2p7NOi0UseTQdz8PQ_X3q4JTUAHFQooYlj9iPJlEqXo-Gbi5LTgmumVI6-iCu1s3gdvIuE4o14=w143-h110"
+    },
+    "col_3": {
+      "text": "Jelly",
+      "links": [
+        {
+          "label": "Jelly",
+          "url": "https://oopbuy.com/product/1/730428049541?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "103$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0443"
+}

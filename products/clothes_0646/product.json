@@ -1,0 +1,61 @@
+{
+  "name": "Yeezy GapRound Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Bound2",
+  "best_batch_links": [
+    {
+      "label": "Bound2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F666685287497%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/666685287497?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "67$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1933510698871631874?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayq7gPZy2kaFN1LKPMGawOBy3ohjPk6WOFP_vZI8dMGfopnVQGhqKJywR_N-6pE5RMfixba-LhL4kZF3WwhS5bL81jw3XLNnCGbwrd2yz_zE_55mhpl_E71pPqqA0Xr6Nt4-UtNHvonWHZH=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "119"
+    },
+    "col_1": {
+      "text": "Yeezy GapRound Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayq7gPZy2kaFN1LKPMGawOBy3ohjPk6WOFP_vZI8dMGfopnVQGhqKJywR_N-6pE5RMfixba-LhL4kZF3WwhS5bL81jw3XLNnCGbwrd2yz_zE_55mhpl_E71pPqqA0Xr6Nt4-UtNHvonWHZH=w143-h110"
+    },
+    "col_3": {
+      "text": "Bound2",
+      "links": [
+        {
+          "label": "Bound2",
+          "url": "https://oopbuy.com/product/1/666685287497?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "67$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1933510698871631874?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0646"
+}

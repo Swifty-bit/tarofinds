@@ -1,0 +1,47 @@
+{
+  "name": "Rick OwensWizard HatZipped Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PinkElephant",
+  "best_batch_links": [
+    {
+      "label": "PinkElephant",
+      "url": "https://oopbuy.com/product/weidian/4369201567?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "52$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUQtwPkhmRh7qRTy7T1J29wRniYMWFTy_4Beg_D5umyVEH0nqaMpUmSjPhvi-J3WDfuAW7_UeFZQvsCJdJMVfX_nPNCtJAeskhF8-YENCqPFnfoEwyVZBxGAfWcpiLRwcIGHRWA1CWe0JT=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1123"
+    },
+    "col_1": {
+      "text": "Rick OwensWizard HatZipped Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUQtwPkhmRh7qRTy7T1J29wRniYMWFTy_4Beg_D5umyVEH0nqaMpUmSjPhvi-J3WDfuAW7_UeFZQvsCJdJMVfX_nPNCtJAeskhF8-YENCqPFnfoEwyVZBxGAfWcpiLRwcIGHRWA1CWe0JT=w143-h110"
+    },
+    "col_3": {
+      "text": "PinkElephant",
+      "links": [
+        {
+          "label": "PinkElephant",
+          "url": "https://oopbuy.com/product/weidian/4369201567?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "52$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1635"
+}

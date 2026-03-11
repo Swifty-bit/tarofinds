@@ -1,0 +1,61 @@
+{
+  "name": "GYMSHARKSocks3 Pairs",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "CND ISLAND",
+  "best_batch_links": [
+    {
+      "label": "CND ISLAND",
+      "url": "https://oopbuy.com/product/weidian/7522811624?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "6$(3 Pairs)",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2009469680350220290?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwX3ZtKw1XniY38-wPkWKnOkOHAg4WFYrExBiIa460bDjfG9HgsQo1dGj1iZTpWmFjKZeoFEwr8BXJvspDXc4BLzznVatnlwXS6WpuFhwSoA3aTU5NIngJbCth7QmYSKaI3orWmmwHRHg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "24"
+    },
+    "col_1": {
+      "text": "GYMSHARKSocks3 Pairs"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwX3ZtKw1XniY38-wPkWKnOkOHAg4WFYrExBiIa460bDjfG9HgsQo1dGj1iZTpWmFjKZeoFEwr8BXJvspDXc4BLzznVatnlwXS6WpuFhwSoA3aTU5NIngJbCth7QmYSKaI3orWmmwHRHg=w143-h110"
+    },
+    "col_3": {
+      "text": "CND ISLAND",
+      "links": [
+        {
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7522811624?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "6$(3 Pairs)"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2009469680350220290?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1877"
+}

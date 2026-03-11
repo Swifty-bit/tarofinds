@@ -1,0 +1,47 @@
+{
+  "name": "Born X RaisedOne Block At A Time",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "M",
+  "best_batch_links": [
+    {
+      "label": "M",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7242327027%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "52$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySUhaUJZk_FrEBGUw3oXJ5AYTbTsTCJXeCb0sYgVlkfw47292m1hm0fhopoIZOmQsAvxbkrcQNqp4bQCWhX-ZeeZeC8mrKMwxHKeTpmpF9JbLu3YX1MgbUDO_zP2oDGoBbJp0EAxVB7g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "133"
+    },
+    "col_1": {
+      "text": "Born X RaisedOne Block At A Time"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySUhaUJZk_FrEBGUw3oXJ5AYTbTsTCJXeCb0sYgVlkfw47292m1hm0fhopoIZOmQsAvxbkrcQNqp4bQCWhX-ZeeZeC8mrKMwxHKeTpmpF9JbLu3YX1MgbUDO_zP2oDGoBbJp0EAxVB7g=w143-h110"
+    },
+    "col_3": {
+      "text": "M",
+      "links": [
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "52$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0124"
+}

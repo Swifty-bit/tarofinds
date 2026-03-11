@@ -1,0 +1,61 @@
+{
+  "name": "Kaws Figures",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fgoods%2Fdetails%3Fid%3D547143495825%26channel%3DTAOBAO%26inviteCode%3DPY7986WZ9%253FinviteCode%253D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/goods/details?id=547143495825&channel=TAOBAO&inviteCode=PY7986WZ9%3FinviteCode%3D29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "56$ / 15$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1957972063605579777?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzqtadKHP1QZSOOuJERmV53IDj-mXUTCEkOmxXSfY-XL43IeeZ7wSsKnD2IrX3iLpumBLLowcwxn5ezWX4iyfnIRZfaJHzcJWQBNArBLMOF-GysRuKOd3yo7o4woTkXGwmA17vxmfC1GVkQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "38"
+    },
+    "col_1": {
+      "text": "Kaws Figures"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzqtadKHP1QZSOOuJERmV53IDj-mXUTCEkOmxXSfY-XL43IeeZ7wSsKnD2IrX3iLpumBLLowcwxn5ezWX4iyfnIRZfaJHzcJWQBNArBLMOF-GysRuKOd3yo7o4woTkXGwmA17vxmfC1GVkQ=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/goods/details?id=547143495825&channel=TAOBAO&inviteCode=PY7986WZ9%3FinviteCode%3D29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "56$ / 15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1957972063605579777?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1672"
+}

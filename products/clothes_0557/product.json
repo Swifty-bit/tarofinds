@@ -1,0 +1,61 @@
+{
+  "name": "Nike TechReflectiveLight Grey",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F860250553214%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/860250553214?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "31$(SET)",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxVcoMQm8dL-iXibh0VM0SKTgI-PIFN30y2iuT6X3a7WljuDCX9pZohi3BSARsDOT-8DlwByL2JAZMnEiL53wrC8jEKD816JgOE21bQLF4sfwW-cf7ISNA8Ec7b6anGprObvL-9d_dK1AwG=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "22"
+    },
+    "col_1": {
+      "text": "Nike TechReflectiveLight Grey"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVcoMQm8dL-iXibh0VM0SKTgI-PIFN30y2iuT6X3a7WljuDCX9pZohi3BSARsDOT-8DlwByL2JAZMnEiL53wrC8jEKD816JgOE21bQLF4sfwW-cf7ISNA8Ec7b6anGprObvL-9d_dK1AwG=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/860250553214?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "31$(SET)"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0557"
+}

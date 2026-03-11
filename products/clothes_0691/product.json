@@ -1,0 +1,87 @@
+{
+  "name": "Corteiz Alcatraz Basic Shorts5 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656819036%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656819036?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F777131556234%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/777131556234?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "23$",
+  "budget_price": "10$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/117565495?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1853614623259426821"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygQm_yYoJ9I0eF0W8IH6vl-7PhWUwSCzy19qZR0L9o4eQqNoxCu7JeXVnkpZYos0x5utoAnO24SX-k4Auj73lOTF3ytVm6mF0wapKXWloz9KO1mQ1DUJXMh24NgtCl5OwXFzW_iB_dxJzd=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "172"
+    },
+    "col_1": {
+      "text": "Corteiz Alcatraz Basic Shorts5 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygQm_yYoJ9I0eF0W8IH6vl-7PhWUwSCzy19qZR0L9o4eQqNoxCu7JeXVnkpZYos0x5utoAnO24SX-k4Auj73lOTF3ytVm6mF0wapKXWloz9KO1mQ1DUJXMh24NgtCl5OwXFzW_iB_dxJzd=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656819036?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/777131556234?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    },
+    "col_6": {
+      "text": "10$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/117565495?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1853614623259426821"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0691"
+}

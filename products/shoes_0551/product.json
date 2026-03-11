@@ -1,0 +1,47 @@
+{
+  "name": "YSL Court Classic",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.oopbuy.com/product/0/875601401464?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "36$",
+  "pics_text": "36$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwAijWhSPMasdhWqNw7HRHt2DvbKlGDweThXxBB__ixpyozGhh1p5rArlyBT6vWL4aUPBZ1osEeFWY08vcvm1mbX_0lrhX8zDYnJTBYoGSOmI13Ekh1UqwEbMY6HVnMPJAjV3FOqinvPr_h=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "603"
+    },
+    "col_1": {
+      "text": "YSL Court Classic"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwAijWhSPMasdhWqNw7HRHt2DvbKlGDweThXxBB__ixpyozGhh1p5rArlyBT6vWL4aUPBZ1osEeFWY08vcvm1mbX_0lrhX8zDYnJTBYoGSOmI13Ekh1UqwEbMY6HVnMPJAjV3FOqinvPr_h=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/875601401464?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "36$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0551"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Genesis LowRTFKTMany Styles",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "60$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-0NW5rfIzupy5gpi86asvS28Pj42Qa1P2j0cq3pKjE2WrXlXst1H6IWrdtY3eazr-dMlF4kF2Bk24uVvuW8Ugj_4T3qj_OvP725-Ek9X9VNpMXgjDqU4VsxMq9bxZsbdOAYaxZUZmOWjZ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "144"
+    },
+    "col_1": {
+      "text": "Genesis LowRTFKTMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-0NW5rfIzupy5gpi86asvS28Pj42Qa1P2j0cq3pKjE2WrXlXst1H6IWrdtY3eazr-dMlF4kF2Bk24uVvuW8Ugj_4T3qj_OvP725-Ek9X9VNpMXgjDqU4VsxMq9bxZsbdOAYaxZUZmOWjZ=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "60$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0135"
+}

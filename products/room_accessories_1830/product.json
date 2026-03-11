@@ -1,0 +1,61 @@
+{
+  "name": "Jellycat Plush",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/0/864543060023?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "6$ / 40$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1971400856840003586?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtI_g76GhK6I6bDEGEljfLGIDVWy_T_GhhvQ1daXqVt-TJOx4YzfXIV7H4f1NfJMHP45i4LzFRymzcFruWnVj50BSFD7CiIcFtbjzEe22mEixisrzhVtdKRB8qb1d990F8P7wycnXcB6Ln=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "46"
+    },
+    "col_1": {
+      "text": "Jellycat Plush"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtI_g76GhK6I6bDEGEljfLGIDVWy_T_GhhvQ1daXqVt-TJOx4YzfXIV7H4f1NfJMHP45i4LzFRymzcFruWnVj50BSFD7CiIcFtbjzEe22mEixisrzhVtdKRB8qb1d990F8P7wycnXcB6Ln=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/864543060023?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "6$ / 40$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1971400856840003586?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1830"
+}

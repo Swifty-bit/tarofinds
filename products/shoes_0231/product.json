@@ -1,0 +1,47 @@
+{
+  "name": "Royalty",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "ZX",
+  "best_batch_links": [
+    {
+      "label": "ZX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327052251%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327052251?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "48$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwAcFys9MZsJA2v3ll5FRRJVtLRMbdHrzIXEgBvkgVcLACTGOes0YjV9DPEPvUqCRHfMeqToTMUunZqcfvURvvTg30BZX-qJrlcAI1LB7ckovAVuQgYlbkYmcfxNNd3iWT7qLgUXZ61RA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "246"
+    },
+    "col_1": {
+      "text": "Royalty"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwAcFys9MZsJA2v3ll5FRRJVtLRMbdHrzIXEgBvkgVcLACTGOes0YjV9DPEPvUqCRHfMeqToTMUunZqcfvURvvTg30BZX-qJrlcAI1LB7ckovAVuQgYlbkYmcfxNNd3iWT7qLgUXZ61RA=w143-h110"
+    },
+    "col_3": {
+      "text": "ZX",
+      "links": [
+        {
+          "label": "ZX",
+          "url": "https://oopbuy.com/product/weidian/7327052251?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "48$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0231"
+}

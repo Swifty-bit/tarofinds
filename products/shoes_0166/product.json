@@ -1,0 +1,47 @@
+{
+  "name": "Court Purple(2018)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "XP",
+  "best_batch_links": [
+    {
+      "label": "XP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565902946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "54$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awx7PYHDOsVYUVY0P4zo_jXfOEUwEESSgZ46iajfUavFyjhE88Bm69j6Hr1VB1WKHZi2mYX86zjqBVAP3xZa7S9ubZjuqOhtfGumQN1bduMaEidZHFnVsdC6l8VZq4920CLoFOwCmwCaQ=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "177"
+    },
+    "col_1": {
+      "text": "Court Purple(2018)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awx7PYHDOsVYUVY0P4zo_jXfOEUwEESSgZ46iajfUavFyjhE88Bm69j6Hr1VB1WKHZi2mYX86zjqBVAP3xZa7S9ubZjuqOhtfGumQN1bduMaEidZHFnVsdC6l8VZq4920CLoFOwCmwCaQ=w143-h100"
+    },
+    "col_3": {
+      "text": "XP",
+      "links": [
+        {
+          "label": "XP",
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "54$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0166"
+}

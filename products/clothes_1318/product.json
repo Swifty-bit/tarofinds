@@ -1,0 +1,79 @@
+{
+  "name": "Rhinestone Logo Hoodie White",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
+    {
+      "label": "PikaPikaGo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F823014410350%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/823014410350?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "21$(sale)",
+  "budget_price": "14$",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/177006767?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzoLdmk8eL4m9j1p_bN5PWKjYUVNr4-bMASDCvinxg_L4c6fSLgavUvIU97EONjWH0HAw9Br1vnevoWoSI2D-FcrcpXlYOAK91wszWPrvXrfjQdvN0ks3b-66JQGUwqj-c3vvDjXVu9P5Hk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "913"
+    },
+    "col_1": {
+      "text": "Rhinestone Logo Hoodie White"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzoLdmk8eL4m9j1p_bN5PWKjYUVNr4-bMASDCvinxg_L4c6fSLgavUvIU97EONjWH0HAw9Br1vnevoWoSI2D-FcrcpXlYOAK91wszWPrvXrfjQdvN0ks3b-66JQGUwqj-c3vvDjXVu9P5Hk=w143-h110"
+    },
+    "col_3": {
+      "text": "PikaPikaGo",
+      "links": [
+        {
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/823014410350?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$(sale)"
+    },
+    "col_6": {
+      "text": "14$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/177006767?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1318"
+}

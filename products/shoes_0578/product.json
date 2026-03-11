@@ -1,0 +1,47 @@
+{
+  "name": "Crocs",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/0/925525143820?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "3$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzuZFHt93Z7k15flh3SB4U6u9m59xrjzEOQ8GB9TeZB-e-cxhC1OosAPJFXzI6A7fivJxlBgpRnxkbGeHxZ4BFqIqcz702eZv2DAxggvXV49VxhgcoB5Cu3XdFbV9nVA2R6R-w_C5Sp1-FW=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "638"
+    },
+    "col_1": {
+      "text": "Crocs"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzuZFHt93Z7k15flh3SB4U6u9m59xrjzEOQ8GB9TeZB-e-cxhC1OosAPJFXzI6A7fivJxlBgpRnxkbGeHxZ4BFqIqcz702eZv2DAxggvXV49VxhgcoB5Cu3XdFbV9nVA2R6R-w_C5Sp1-FW=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/925525143820?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "3$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0578"
+}

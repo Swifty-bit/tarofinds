@@ -1,0 +1,65 @@
+{
+  "name": "White Oreo",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "66$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzsIb5hA61OEubhYbgTcu-zYSo9Q6WnvBDQ5cIpvj-XzPyHlZaecIWaiD1EL800I0a_-wHXRai05C-NBKSU4UToFnqrlFpFvUgcx7J016Z-QgtSv10PijWh6cSV_IsmF-FIyNj9f0HaVcFq=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "236"
+    },
+    "col_1": {
+      "text": "White Oreo"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzsIb5hA61OEubhYbgTcu-zYSo9Q6WnvBDQ5cIpvj-XzPyHlZaecIWaiD1EL800I0a_-wHXRai05C-NBKSU4UToFnqrlFpFvUgcx7J016Z-QgtSv10PijWh6cSV_IsmF-FIyNj9f0HaVcFq=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "66$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0221"
+}

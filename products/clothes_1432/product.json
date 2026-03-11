@@ -1,0 +1,61 @@
+{
+  "name": "CarharttWindbreaker Jacket3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "LambClub",
+  "best_batch_links": [
+    {
+      "label": "LambClub",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F735956835626%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/735956835626?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "28$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967414521057861633?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4MJH9hpRLmRtj1wwQkLZkACTEj-1DaFPnW1u3ER4-ShMsdVDa0HhmV1_xiHUlDQ_xYdet48KzSVqFR9Y6NF_rDs1kknjztpnIjjTXTFigOdQQMdEnvTuKEPMqPbIB-KkuWx08tu9xgQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1043"
+    },
+    "col_1": {
+      "text": "CarharttWindbreaker Jacket3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4MJH9hpRLmRtj1wwQkLZkACTEj-1DaFPnW1u3ER4-ShMsdVDa0HhmV1_xiHUlDQ_xYdet48KzSVqFR9Y6NF_rDs1kknjztpnIjjTXTFigOdQQMdEnvTuKEPMqPbIB-KkuWx08tu9xgQ=w143-h110"
+    },
+    "col_3": {
+      "text": "LambClub",
+      "links": [
+        {
+          "label": "LambClub",
+          "url": "https://www.oopbuy.com/product/0/735956835626?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "28$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967414521057861633?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1432"
+}

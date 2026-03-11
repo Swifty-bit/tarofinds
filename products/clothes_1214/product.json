@@ -1,0 +1,61 @@
+{
+  "name": "Amiri Jeans",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Pingu7",
+  "best_batch_links": [
+    {
+      "label": "Pingu7",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6314695776%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6314695776?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pingu7.x.yupoo.com/albums/135461066?uid=1&isSubCate=false&referrercate=4083969"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFji_cW6o6TzQAoTd8D79d6tJRxufzHAoAb-0MFzc6Lr2rRCQV_RFoAxBAccz4meKZY8MZ5jsnV9mgNHbmWBr66fc5blfZ1t9AApNP_wr_ggTLjL0Zc9smsed7gceJmrTAeElI_Bbs9vj7=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "787"
+    },
+    "col_1": {
+      "text": "Amiri Jeans"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFji_cW6o6TzQAoTd8D79d6tJRxufzHAoAb-0MFzc6Lr2rRCQV_RFoAxBAccz4meKZY8MZ5jsnV9mgNHbmWBr66fc5blfZ1t9AApNP_wr_ggTLjL0Zc9smsed7gceJmrTAeElI_Bbs9vj7=w143-h110"
+    },
+    "col_3": {
+      "text": "Pingu7",
+      "links": [
+        {
+          "label": "Pingu7",
+          "url": "https://oopbuy.com/product/weidian/6314695776?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "44$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pingu7.x.yupoo.com/albums/135461066?uid=1&isSubCate=false&referrercate=4083969"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1214"
+}

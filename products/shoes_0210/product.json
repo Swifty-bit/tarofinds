@@ -1,0 +1,65 @@
+{
+  "name": "Jordan 4WOMANSize",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OG",
+  "best_batch_links": [
+    {
+      "label": "OG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7245796224%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7245796224?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7282345814%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7282345814?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "67$",
+  "budget_price": "38$",
+  "pics_text": "38$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awmb81e28Medwmjr0D7o1HXNjIuG-uuqdmjHmNd1M93vSh_O4IkzdxeMkTb6fZ7feAaTr0mDUGPigB600N0JwRZ8yVvmjhO1YMHlin65jIE8ud-LLS2IT9gPqSH8PQL8V1k3guKrcHNRw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "225"
+    },
+    "col_1": {
+      "text": "Jordan 4WOMANSize"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awmb81e28Medwmjr0D7o1HXNjIuG-uuqdmjHmNd1M93vSh_O4IkzdxeMkTb6fZ7feAaTr0mDUGPigB600N0JwRZ8yVvmjhO1YMHlin65jIE8ud-LLS2IT9gPqSH8PQL8V1k3guKrcHNRw=w143-h110"
+    },
+    "col_3": {
+      "text": "OG",
+      "links": [
+        {
+          "label": "OG",
+          "url": "https://www.oopbuy.com/product/weidian/7245796224?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/7282345814?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "67$"
+    },
+    "col_6": {
+      "text": "38$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0210"
+}

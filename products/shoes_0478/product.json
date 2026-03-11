@@ -1,0 +1,56 @@
+{
+  "name": "MMY Baker",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "GOTA/budget",
+  "budget_batch_links": [
+    {
+      "label": "GOTA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7405205441%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7405205441?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7409269418%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7409269418?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "39$ / 29$",
+  "pics_text": "39$ / 29$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awp1RzFMGZfBM9NqjRdoGD8PVNpraZ2iaj-i6V-7sPwr4gwf5tVqoav28YEvP5xUf_XJnDXRukOarBiHmTas4ClCq4nc3nT8LsUSahMa7oGfM9XXqvt87J3c5c5xwAPhCMibgFoW0KkRZZZ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "551"
+    },
+    "col_1": {
+      "text": "MMY Baker"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awp1RzFMGZfBM9NqjRdoGD8PVNpraZ2iaj-i6V-7sPwr4gwf5tVqoav28YEvP5xUf_XJnDXRukOarBiHmTas4ClCq4nc3nT8LsUSahMa7oGfM9XXqvt87J3c5c5xwAPhCMibgFoW0KkRZZZ=w143-h110"
+    },
+    "col_4": {
+      "text": "GOTA/budget",
+      "links": [
+        {
+          "label": "GOTA",
+          "url": "https://oopbuy.com/product/weidian/7405205441?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/7409269418?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "39$ / 29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0478"
+}

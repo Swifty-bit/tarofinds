@@ -1,0 +1,61 @@
+{
+  "name": "Under ArmourPants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F864363947481%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/864363947481?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961957829805432833?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw21awRs2ZSnMBy9z0j_NmU6byFm89gEk6Ue8fFDNUXtIbUuD0smQc3-JCH2u_YZKqpN0Eqwl_ut24sxIq18-Lb09RgAAylGlvQNvgDhaAWwmlC1vNUZ9K-LndFYl_zwVnegyZE2u9Y2Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "364"
+    },
+    "col_1": {
+      "text": "Under ArmourPants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw21awRs2ZSnMBy9z0j_NmU6byFm89gEk6Ue8fFDNUXtIbUuD0smQc3-JCH2u_YZKqpN0Eqwl_ut24sxIq18-Lb09RgAAylGlvQNvgDhaAWwmlC1vNUZ9K-LndFYl_zwVnegyZE2u9Y2Q=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/864363947481?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961957829805432833?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0855"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Air Force One Supreme4 Colours",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7248552888%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7248552888?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "G",
+  "budget_batch_links": [
+    {
+      "label": "G",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7248552888%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7248552888?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "42$",
+  "budget_price": "28$",
+  "pics_text": "28$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxQ7l_txrjkWC7JlEwtajto86bxw8vt3hWtgGjuXXHq4RP8ezyKG8uB4MwisyEFlirCa_3RrNz0U58tOvdlas49hSbN2ov6j9V2bLSITh1WH7uQlXQBuJA2LFR-idu0YdQ3ZFGLJCjyuVRT=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "10"
+    },
+    "col_1": {
+      "text": "Air Force One Supreme4 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxQ7l_txrjkWC7JlEwtajto86bxw8vt3hWtgGjuXXHq4RP8ezyKG8uB4MwisyEFlirCa_3RrNz0U58tOvdlas49hSbN2ov6j9V2bLSITh1WH7uQlXQBuJA2LFR-idu0YdQ3ZFGLJCjyuVRT=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/weidian/7248552888?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "G",
+      "links": [
+        {
+          "label": "G",
+          "url": "https://oopbuy.com/product/weidian/7248552888?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "42$"
+    },
+    "col_6": {
+      "text": "28$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0003"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "CarharttJ97 Detroit Jacket18 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "LambClub",
+  "best_batch_links": [
+    {
+      "label": "LambClub",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F709715593267%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/709715593267?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F959314682781%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/959314682781?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "37$",
+  "budget_price": "18$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2019007214394626049?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://doppel.fit/item/1688/959314682781"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJmQQ0jWbM5R_Cgar-Li5S3leRVPG14diqrU5lXmc2T6T5hFfCqRxbDpbNcpkSgu-vEXCQKEcGUorm44PXFGN3vK7R90zqD9RUId5q2azOLt8ZPKg_2w_Mj74n2bFBuoobN7BfAlsSmQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1040"
+    },
+    "col_1": {
+      "text": "CarharttJ97 Detroit Jacket18 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJmQQ0jWbM5R_Cgar-Li5S3leRVPG14diqrU5lXmc2T6T5hFfCqRxbDpbNcpkSgu-vEXCQKEcGUorm44PXFGN3vK7R90zqD9RUId5q2azOLt8ZPKg_2w_Mj74n2bFBuoobN7BfAlsSmQ=w143-h110"
+    },
+    "col_3": {
+      "text": "LambClub",
+      "links": [
+        {
+          "label": "LambClub",
+          "url": "https://www.oopbuy.com/product/0/709715593267?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/959314682781?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$"
+    },
+    "col_6": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2019007214394626049?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://doppel.fit/item/1688/959314682781"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1429"
+}

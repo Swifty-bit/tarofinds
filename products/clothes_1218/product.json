@@ -1,0 +1,61 @@
+{
+  "name": "Amiri Caps",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F657741250027%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/657741250027?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "10$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1904323091696791556?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyN-5t3arbTu_zm3cTQorBt1LV8R-X6qIUQJcVNN_GT7nSBqcJSVP1b60hpE4MGvkfCbw-JWo4GPXIEuJg7aNHhh3wc8YwyEvOVMuYSGEp1K15g2wo3lh-Ia8iNcrTcK8-pCyblBwtuICdX=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "791"
+    },
+    "col_1": {
+      "text": "Amiri Caps"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyN-5t3arbTu_zm3cTQorBt1LV8R-X6qIUQJcVNN_GT7nSBqcJSVP1b60hpE4MGvkfCbw-JWo4GPXIEuJg7aNHhh3wc8YwyEvOVMuYSGEp1K15g2wo3lh-Ia8iNcrTcK8-pCyblBwtuICdX=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/1/657741250027?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "10$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1904323091696791556?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1218"
+}

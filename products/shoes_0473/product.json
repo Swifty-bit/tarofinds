@@ -1,0 +1,47 @@
+{
+  "name": "Prax 01",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F865439274591%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/865439274591?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "40$",
+  "pics_text": "40$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4uRmR7HwwRqJkndBNV3ekSqWBozR7dpMTyWenbj-1bO7nSyMg6uR2u4EJ1WxmF4a-Mc1qJFyrvrH1_BR-QNu7irdJtH_QmMOjPjKc8sWbCCPN8zONV8bTRv0Rt_odNeAmGMP5G_xvfg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "540"
+    },
+    "col_1": {
+      "text": "Prax 01"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4uRmR7HwwRqJkndBNV3ekSqWBozR7dpMTyWenbj-1bO7nSyMg6uR2u4EJ1WxmF4a-Mc1qJFyrvrH1_BR-QNu7irdJtH_QmMOjPjKc8sWbCCPN8zONV8bTRv0Rt_odNeAmGMP5G_xvfg=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/865439274591?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "40$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0473"
+}

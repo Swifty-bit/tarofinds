@@ -1,0 +1,61 @@
+{
+  "name": "Takashi MurakamiPlus",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/1/565679177060?&inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "9$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1958813448549797890?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwIqiFgrm1c1eVvLpew65mlekc2P_sYGVlSUVVPziFLM74KvNCDLiuOktNTK0eUNrhxBw2RXJU59iRcqfbwtAFqYxM4RGr70LLjyHSuNYspikouYZnmvG7cj-e-qbSOG5d4eEvCC1OFiNMc=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "50"
+    },
+    "col_1": {
+      "text": "Takashi MurakamiPlus"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwIqiFgrm1c1eVvLpew65mlekc2P_sYGVlSUVVPziFLM74KvNCDLiuOktNTK0eUNrhxBw2RXJU59iRcqfbwtAFqYxM4RGr70LLjyHSuNYspikouYZnmvG7cj-e-qbSOG5d4eEvCC1OFiNMc=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/565679177060?&inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "9$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1958813448549797890?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1834"
+}

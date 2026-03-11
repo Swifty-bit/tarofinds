@@ -1,0 +1,65 @@
+{
+  "name": "blue jorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F991639641336%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "18$",
+  "pics_text": "budget",
+  "pics_links": [
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxfVhS-iJaU6Y8JbeCVeTzvUD-E9nxp02robChoTmDYMAYlfw8eFmWFiMiPuqaTOcMrln466iUCtemtPWQG9fIj40c4ZPd59beyDLyxORvtGAh9sk68IskRP9o_uq-N7uCnMZnIl3RnS3PF=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "406"
+    },
+    "col_1": {
+      "text": "blue jorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxfVhS-iJaU6Y8JbeCVeTzvUD-E9nxp02robChoTmDYMAYlfw8eFmWFiMiPuqaTOcMrln466iUCtemtPWQG9fIj40c4ZPd59beyDLyxORvtGAh9sk68IskRP9o_uq-N7uCnMZnIl3RnS3PF=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMtSYRRC9E4NBdp9zPz-34DWZjj14ZeYx6zPYwZAcuoykrnMj6ncw-K0UluzOc1BXOks06cUOcMIgBxTs4B1WXnIT3xTMkYkPDITfZ8UL0SifShtpiEkGpg3UuzWQvw6VWoq5-loaVKggG=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0889"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Emporio ArmaniT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TopArmani",
+  "best_batch_links": [
+    {
+      "label": "TopArmani",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F916563219652%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/916563219652?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://toparmani.x.yupoo.com/albums/118091963?uid=1&isSubCate=false&referrercate=4172967"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awf_IEfONy41VGwqSUA0U-yHW3cKeeTp1-lPZGsLsFjfpXuUSACe1QEFlz2Qv4QB8Y6epZqR9xTaocO1HVtNNxvPalODouPq44dQZWcGhBUL6RPTfSOH4O3Beoc_jX7koNMk51ILwFzwg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "832"
+    },
+    "col_1": {
+      "text": "Emporio ArmaniT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awf_IEfONy41VGwqSUA0U-yHW3cKeeTp1-lPZGsLsFjfpXuUSACe1QEFlz2Qv4QB8Y6epZqR9xTaocO1HVtNNxvPalODouPq44dQZWcGhBUL6RPTfSOH4O3Beoc_jX7koNMk51ILwFzwg=w143-h110"
+    },
+    "col_3": {
+      "text": "TopArmani",
+      "links": [
+        {
+          "label": "TopArmani",
+          "url": "https://www.oopbuy.com/product/1/916563219652?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://toparmani.x.yupoo.com/albums/118091963?uid=1&isSubCate=false&referrercate=4172967"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1245"
+}

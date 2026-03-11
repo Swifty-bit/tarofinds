@@ -1,0 +1,47 @@
+{
+  "name": "Nike Nocta Socks",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564076367%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564076367?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "3$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyijLfhwDuN4ZUCW19sEF_u753SIw1i4bsdGb_6inuTQhiQZbGR8toam9DRbyrOclTC3GQlC2Zx11KljB94Mo7fLBZhuWJSwcqu_WOiB_m_7oMWFSLeyquwbM5M2dr9-bNG_PZDAaT2bJqN=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "648"
+    },
+    "col_1": {
+      "text": "Nike Nocta Socks"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyijLfhwDuN4ZUCW19sEF_u753SIw1i4bsdGb_6inuTQhiQZbGR8toam9DRbyrOclTC3GQlC2Zx11KljB94Mo7fLBZhuWJSwcqu_WOiB_m_7oMWFSLeyquwbM5M2dr9-bNG_PZDAaT2bJqN=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7564076367?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "3$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0531"
+}

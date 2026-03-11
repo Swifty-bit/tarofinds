@@ -1,0 +1,91 @@
+{
+  "name": "Blossom KnitSweater",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F991452426400%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/991452426400?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F991639641336%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "38$",
+  "budget_price": "19$",
+  "pics_text": "firerep/budget",
+  "pics_links": [
+    {
+      "label": "firerep",
+      "url": "https://hotders.x.yupoo.com/albums/202349970?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aweim3MpOt64IbkJSP-BVXhzsl7cDw_vCc-d3xQXBCsqH7U6MZtLr-4MQY7OFRbCbtl25EPx3yqRU93FRGoNtxyLKqbp-7c6pDNuBAaPpDGautYKukgWarLb8u27W-5lfdCGTeCn75AYi9T=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "394"
+    },
+    "col_1": {
+      "text": "Blossom KnitSweater"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aweim3MpOt64IbkJSP-BVXhzsl7cDw_vCc-d3xQXBCsqH7U6MZtLr-4MQY7OFRbCbtl25EPx3yqRU93FRGoNtxyLKqbp-7c6pDNuBAaPpDGautYKukgWarLb8u27W-5lfdCGTeCn75AYi9T=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/991452426400?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "38$"
+    },
+    "col_6": {
+      "text": "19$"
+    },
+    "col_7": {
+      "text": "firerep/budget",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://hotders.x.yupoo.com/albums/202349970?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWTAQHQFI2YneSZIFnEW0rLmxNSlsl5Ilorbjazs9KalxjiQPT79MBIA6Z_GrZqqtsZgqLx52fMoQ8YEfTCkyroOxR0YazQsaMF3oqm4_TRC7hkh9QqeE_AShgE7l86LDlN0LJOg7GE7oY=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0877"
+}

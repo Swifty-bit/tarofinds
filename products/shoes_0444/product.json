@@ -1,0 +1,47 @@
+{
+  "name": "TrainersPink",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Jelly",
+  "best_batch_links": [
+    {
+      "label": "Jelly",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F976053474914%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/976053474914?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "103$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUu7lEgGsGEat4ZjRY2Yb2PLVlGVpv9rbH3xJsZjPIGjv18D2FwWoMIdIrWGo8O5xLyunRiZkmhBvaJyiNwC3rwPpQYsAYWixbR8rF8O7lDTpnSYAmohj8ldMwG1oMOuCD1jhdIlrVNeUY=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "505"
+    },
+    "col_1": {
+      "text": "TrainersPink"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUu7lEgGsGEat4ZjRY2Yb2PLVlGVpv9rbH3xJsZjPIGjv18D2FwWoMIdIrWGo8O5xLyunRiZkmhBvaJyiNwC3rwPpQYsAYWixbR8rF8O7lDTpnSYAmohj8ldMwG1oMOuCD1jhdIlrVNeUY=w143-h110"
+    },
+    "col_3": {
+      "text": "Jelly",
+      "links": [
+        {
+          "label": "Jelly",
+          "url": "https://oopbuy.com/product/1/976053474914?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "103$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0444"
+}

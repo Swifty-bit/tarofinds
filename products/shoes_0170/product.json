@@ -1,0 +1,47 @@
+{
+  "name": "Fearless",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "NEWXP",
+  "best_batch_links": [
+    {
+      "label": "NEWXP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6084113559%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6084113559?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "51$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax27CG8x2vAK5A_T5JJE2p9BOX33BLOFY2VoJOkutkBXGjnRhu8OuTncNS-jL8HGKfd8qC2yVMqQw-JmxCDaHqL7ROzu67wV0Uvak-wMXGz9VsJg5UPf3_dj67afy378PVuoGX0rIwGbiP_=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "181"
+    },
+    "col_1": {
+      "text": "Fearless"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax27CG8x2vAK5A_T5JJE2p9BOX33BLOFY2VoJOkutkBXGjnRhu8OuTncNS-jL8HGKfd8qC2yVMqQw-JmxCDaHqL7ROzu67wV0Uvak-wMXGz9VsJg5UPf3_dj67afy378PVuoGX0rIwGbiP_=w143-h100"
+    },
+    "col_3": {
+      "text": "NEWXP",
+      "links": [
+        {
+          "label": "NEWXP",
+          "url": "https://oopbuy.com/product/2/6084113559?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "51$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0170"
+}

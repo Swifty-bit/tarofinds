@@ -1,0 +1,64 @@
+{
+  "name": "CDG PlayClassic Long Sleeves T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F976307176734%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/976307176734?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "25$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206698588?uid=1&isSubCate=false&referrercate=4980597"
+    }
+  ],
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyY0fggUwwgz3Tfs0LrJYAsIYLVFlVEwB41NR9izE1croyPyVyR4w58Lpx0aWErbjinDVFrBzbZb2XKlA9b7KAbHxTWWWjuqHAuqWf5-OIc1BH1Efn4KNv2xO8GhzG7QPIUTREh8akUeesK=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "579"
+    },
+    "col_1": {
+      "text": "CDG PlayClassic Long Sleeves T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyY0fggUwwgz3Tfs0LrJYAsIYLVFlVEwB41NR9izE1croyPyVyR4w58Lpx0aWErbjinDVFrBzbZb2XKlA9b7KAbHxTWWWjuqHAuqWf5-OIc1BH1Efn4KNv2xO8GhzG7QPIUTREh8akUeesK=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/976307176734?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "25$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206698588?uid=1&isSubCate=false&referrercate=4980597"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1034"
+}

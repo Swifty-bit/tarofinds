@@ -1,0 +1,56 @@
+{
+  "name": "FS SOCKS2 Colors",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/818485052177?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "0,44$",
+  "pics_text": "0,44$",
+  "pics_links": [],
+  "notes": "QC Pics",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awwx5jC5Xog48o93vanh-FDIlj5Z3F5IIZLu6hWvOT-lYr5Qiblm8Z64ZTCSev6h82LaidzUD9ax9Qg6dV5ogV_abH1OYFiLk3rvxUxj0ZZ6oXcVxAbkOkjOvCVOXMJ7wH5aVEg0SwZyh3H=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "657"
+    },
+    "col_1": {
+      "text": "FS SOCKS2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awwx5jC5Xog48o93vanh-FDIlj5Z3F5IIZLu6hWvOT-lYr5Qiblm8Z64ZTCSev6h82LaidzUD9ax9Qg6dV5ogV_abH1OYFiLk3rvxUxj0ZZ6oXcVxAbkOkjOvCVOXMJ7wH5aVEg0SwZyh3H=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/818485052177?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "0,44$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969950175599878146?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0595"
+}

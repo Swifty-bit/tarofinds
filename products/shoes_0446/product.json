@@ -1,0 +1,92 @@
+{
+  "name": "Skate",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Koala/A+/FS",
+  "best_batch_links": [
+    {
+      "label": "Koala",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F918888917713%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "A+",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6167288771%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FS",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565909066%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget/YOLO TG",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F838219574908%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "YOLO TG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7622551100%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "95$ / 72$ / 72$",
+  "budget_price": "50$ / 32$",
+  "pics_text": "50$ / 32$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwK1dtm21PXJBDuHpkr_PzWxNLvBUrdJ0VLqDdDt7Am9F2Bmw8SWkT7JW16EUZoG1a1kIf6oAWB7IsAFqqPw-PuJy2wehK09meK3UoyIgn-Mfpb9MO5Wbm8HR8lsBlY8SSkDgcet9nSsC6c=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "507"
+    },
+    "col_1": {
+      "text": "Skate"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwK1dtm21PXJBDuHpkr_PzWxNLvBUrdJ0VLqDdDt7Am9F2Bmw8SWkT7JW16EUZoG1a1kIf6oAWB7IsAFqqPw-PuJy2wehK09meK3UoyIgn-Mfpb9MO5Wbm8HR8lsBlY8SSkDgcet9nSsC6c=w143-h110"
+    },
+    "col_3": {
+      "text": "Koala/A+/FS",
+      "links": [
+        {
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "A+",
+          "url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget/YOLO TG",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "YOLO TG",
+          "url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "95$ / 72$ / 72$"
+    },
+    "col_6": {
+      "text": "50$ / 32$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0446"
+}

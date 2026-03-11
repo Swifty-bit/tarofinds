@@ -1,0 +1,47 @@
+{
+  "name": "Supreme Rammellzee",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "TOP/S2",
+  "best_batch_links": [
+    {
+      "label": "TOP/S2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251543921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "43$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwVB6KG_LVFiP6QPNlX4pt1jBkML0KzNlJtimj-klaB8mRcrWfETph0ciFVbicgITEZpERO2MC0RuhmtUMBriWB3C8EMjj0GbmFpvopcQMeowmzINsvV2ZIsnTcYDFsKrwN577VVxlgw9x4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "107"
+    },
+    "col_1": {
+      "text": "Supreme Rammellzee"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwVB6KG_LVFiP6QPNlX4pt1jBkML0KzNlJtimj-klaB8mRcrWfETph0ciFVbicgITEZpERO2MC0RuhmtUMBriWB3C8EMjj0GbmFpvopcQMeowmzINsvV2ZIsnTcYDFsKrwN577VVxlgw9x4=w143-h110"
+    },
+    "col_3": {
+      "text": "TOP/S2",
+      "links": [
+        {
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "43$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0098"
+}

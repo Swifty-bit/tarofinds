@@ -1,0 +1,61 @@
+{
+  "name": "Yeezy Pants8 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F610157874461%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/610157874461?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938576687023308803?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6_NkVN7vQuL1ss4igA6pOtNnN1oiNodHBnCx-tj2i5mzTgx39lfderT7oVJHggHgxoeFuryPznT2PQHVz_sWb6vvVaQHp-h7e7_xbIg2u5G2jqI0ePnNOmex5xLoMdSAWeN6U3_SQnyBx=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "120"
+    },
+    "col_1": {
+      "text": "Yeezy Pants8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6_NkVN7vQuL1ss4igA6pOtNnN1oiNodHBnCx-tj2i5mzTgx39lfderT7oVJHggHgxoeFuryPznT2PQHVz_sWb6vvVaQHp-h7e7_xbIg2u5G2jqI0ePnNOmex5xLoMdSAWeN6U3_SQnyBx=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/610157874461?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938576687023308803?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0647"
+}

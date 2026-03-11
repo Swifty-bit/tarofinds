@@ -1,0 +1,47 @@
+{
+  "name": "Yeezy 700 v2",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LW",
+  "best_batch_links": [
+    {
+      "label": "LW",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565960310%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565960310?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYUqOJ0giuyuwhTQnoBL4eOYINDo1qIgiOhA5TXG9OXsYWUdl8yn23fcW20dZR-skzJCIbM61P92OEvffsEhq_O78WYnSJkfUBCdfvlgS7mIm_R5Oh9bpIFX3DrwYcxFQmH6INawdzavcG=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "373"
+    },
+    "col_1": {
+      "text": "Yeezy 700 v2"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYUqOJ0giuyuwhTQnoBL4eOYINDo1qIgiOhA5TXG9OXsYWUdl8yn23fcW20dZR-skzJCIbM61P92OEvffsEhq_O78WYnSJkfUBCdfvlgS7mIm_R5Oh9bpIFX3DrwYcxFQmH6INawdzavcG=w143-h110"
+    },
+    "col_3": {
+      "text": "LW",
+      "links": [
+        {
+          "label": "LW",
+          "url": "https://oopbuy.com/product/weidian/7565960310?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "59$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0342"
+}

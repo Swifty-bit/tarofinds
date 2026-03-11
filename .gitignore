@@ -33,11 +33,18 @@ env/
 
 # Data files (user data - don't commit!)
 data/
-*.json
-!package.json
-!package-lock.json
-!products.json
-!sellers.json
+
+# Allow all JSON files in the products folder
+!products/
+!products/**/*.json
+
+# Block sensitive JSON files
+bot_staff.json
+verified_users.json
+pending_codes.json
+sniped_messages.json
+warnings.json
+announcements.json
 
 # Logs
 *.log

@@ -1,0 +1,50 @@
+{
+  "name": "Steroid Derby",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GZ",
+  "best_batch_links": [
+    {
+      "label": "GZ",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7435510687%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7435510687?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "74$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "Size down 1 EU size for GZ (shoes are bigger)",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxH29RVykTfemLNxqpBFUJ8118k4YqBmknJ91sYgY5zYHu9ZYoMQ6T9eevh0su8gZviTS12r1dAhqg0Y0ZiBSVJP8WW3kf19PHXOLJE3P7SLcw8qexvB7cT9rNtuPb1XVvYshWRYRFBaFol=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "497"
+    },
+    "col_1": {
+      "text": "Steroid Derby"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxH29RVykTfemLNxqpBFUJ8118k4YqBmknJ91sYgY5zYHu9ZYoMQ6T9eevh0su8gZviTS12r1dAhqg0Y0ZiBSVJP8WW3kf19PHXOLJE3P7SLcw8qexvB7cT9rNtuPb1XVvYshWRYRFBaFol=w143-h110"
+    },
+    "col_3": {
+      "text": "GZ",
+      "links": [
+        {
+          "label": "GZ",
+          "url": "https://oopbuy.com/product/weidian/7435510687?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "74$"
+    },
+    "col_7": {
+      "text": "Size down 1 EU size for GZ (shoes are bigger)"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0438"
+}

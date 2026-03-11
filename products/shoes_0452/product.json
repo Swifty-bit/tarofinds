@@ -1,0 +1,47 @@
+{
+  "name": "Skate (NEW)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Koala",
+  "best_batch_links": [
+    {
+      "label": "Koala",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F833084925693%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/833084925693?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "97$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyiZ_ohk1KMdecA-3DLI388Qk-3YpjdXWOzrxGZUcoAkjqlHax8ZeBVbSEjwUU4EpTFj2_8JoD3VOLlr9SU-_KBrsF57Jh_EuH95Bi5uKvDfxASAENhg-6LIWeGFuQ4GdzE1nSB_XNSQA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "513"
+    },
+    "col_1": {
+      "text": "Skate (NEW)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyiZ_ohk1KMdecA-3DLI388Qk-3YpjdXWOzrxGZUcoAkjqlHax8ZeBVbSEjwUU4EpTFj2_8JoD3VOLlr9SU-_KBrsF57Jh_EuH95Bi5uKvDfxASAENhg-6LIWeGFuQ4GdzE1nSB_XNSQA=w143-h110"
+    },
+    "col_3": {
+      "text": "Koala",
+      "links": [
+        {
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/833084925693?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "97$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0452"
+}

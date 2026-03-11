@@ -1,0 +1,61 @@
+{
+  "name": "GucciMessenger Bag8 Styles",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F751418839273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/751418839273?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "17$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1971400106248331265?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxO_b8HTzwJ_Z-gXQh7Os8OAnNtr6PUuxxqlAWvtT5eYZjW5c5zR0XtqX2q4myMaRj6nbWdY7u73Hp3IBM3z_cq5y_jrvsk68GDFCr3v1UVU2_vBVxlY7usB7jFFP-hBXNOyhdJRD41C2EN=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "38"
+    },
+    "col_1": {
+      "text": "GucciMessenger Bag8 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxO_b8HTzwJ_Z-gXQh7Os8OAnNtr6PUuxxqlAWvtT5eYZjW5c5zR0XtqX2q4myMaRj6nbWdY7u73Hp3IBM3z_cq5y_jrvsk68GDFCr3v1UVU2_vBVxlY7usB7jFFP-hBXNOyhdJRD41C2EN=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/751418839273?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "17$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1971400106248331265?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1532"
+}

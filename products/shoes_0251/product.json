@@ -1,0 +1,65 @@
+{
+  "name": "Vivid Sulfur",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX2.0",
+  "budget_batch_links": [
+    {
+      "label": "KX2.0",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7249836913%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "62$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxkXH5-YAxhkq-IosI-vnG3PEV_SlqHrKdQYN8CtyxacKZlLjunlBU7R-tqlDVEjIF0jbyKLkmo8ZaLMLG9-sgKD5ZX2ej3MsqrmO7UdqLYUt6NcjHfcPM2CCvCysfQ2RCCeBA9kuXt_oPn=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "266"
+    },
+    "col_1": {
+      "text": "Vivid Sulfur"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxkXH5-YAxhkq-IosI-vnG3PEV_SlqHrKdQYN8CtyxacKZlLjunlBU7R-tqlDVEjIF0jbyKLkmo8ZaLMLG9-sgKD5ZX2ej3MsqrmO7UdqLYUt6NcjHfcPM2CCvCysfQ2RCCeBA9kuXt_oPn=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX2.0",
+      "links": [
+        {
+          "label": "KX2.0",
+          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "62$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0251"
+}

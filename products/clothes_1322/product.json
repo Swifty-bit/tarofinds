@@ -1,0 +1,79 @@
+{
+  "name": "WEBSweatpantsSky Blue",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
+    {
+      "label": "PikaPikaGo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F823211177787%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/823211177787?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "12$(sale)",
+  "budget_price": "14$",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/177010739?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzUDsdifPEeCm5GBzxiJrysaTzDTj9JNRgMsm9m-dsMZ2ItVG35XaczvFo5m0voUdC9QCA8aPB-E1-_4F087pbu0xSJ8Pz42OOS47w_w3vVH3ldxS7zxQkUgy0f-ktQ2z0h6ezvZN5n7w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "917"
+    },
+    "col_1": {
+      "text": "WEBSweatpantsSky Blue"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzUDsdifPEeCm5GBzxiJrysaTzDTj9JNRgMsm9m-dsMZ2ItVG35XaczvFo5m0voUdC9QCA8aPB-E1-_4F087pbu0xSJ8Pz42OOS47w_w3vVH3ldxS7zxQkUgy0f-ktQ2z0h6ezvZN5n7w=w143-h110"
+    },
+    "col_3": {
+      "text": "PikaPikaGo",
+      "links": [
+        {
+          "label": "PikaPikaGo",
+          "url": "https://www.oopbuy.com/product/1/823211177787?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "12$(sale)"
+    },
+    "col_6": {
+      "text": "14$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/177010739?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1322"
+}

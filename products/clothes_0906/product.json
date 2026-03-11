@@ -1,0 +1,87 @@
+{
+  "name": "Palm AngelsKillbear T-shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F964323688968%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/964323688968?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F676947774786%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/676947774786?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "29$",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://repsbro.x.yupoo.com/albums/205540233?uid=1&isSubCate=false&referrercate=4971731"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ali1688/676947774786"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzwA4vfQXYN4Jvs3fxbS87drOiSj3fI0ZgNPJwRfLTryTTdvTDSQt6U1DqoIjFEA43fXMSPZaBcMDni8D2E-amt-R2mf-0p2my6E4I4mf_rbImpYkHSvyAYSN9-ySh8gU8f9fE5uuNoycfV=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "431"
+    },
+    "col_1": {
+      "text": "Palm AngelsKillbear T-shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzwA4vfQXYN4Jvs3fxbS87drOiSj3fI0ZgNPJwRfLTryTTdvTDSQt6U1DqoIjFEA43fXMSPZaBcMDni8D2E-amt-R2mf-0p2my6E4I4mf_rbImpYkHSvyAYSN9-ySh8gU8f9fE5uuNoycfV=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/964323688968?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/676947774786?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "29$"
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://repsbro.x.yupoo.com/albums/205540233?uid=1&isSubCate=false&referrercate=4971731"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ali1688/676947774786"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0906"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "HellstarPixelT-Shirt White",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
+    {
+      "label": "PikaPikaGo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805788293277%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805788293277?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "30$",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://pikachushop.x.yupoo.com/albums/163974563?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az5RsyS-86EkvA46G3dhX7SZ0TDVY3eZK3mReC9eM47WcNjuNxCLySGymS27GvcmD4k3OsgNTZF-jsrl_dolXeMMOzVJcja01sBH3ojyXWCs3IRY8P36IcjYoawRMXgxbDp0TO-1MjqhN6X=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "596"
+    },
+    "col_1": {
+      "text": "HellstarPixelT-Shirt White"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az5RsyS-86EkvA46G3dhX7SZ0TDVY3eZK3mReC9eM47WcNjuNxCLySGymS27GvcmD4k3OsgNTZF-jsrl_dolXeMMOzVJcja01sBH3ojyXWCs3IRY8P36IcjYoawRMXgxbDp0TO-1MjqhN6X=w143-h110"
+    },
+    "col_3": {
+      "text": "PikaPikaGo",
+      "links": [
+        {
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/805788293277?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://pikachushop.x.yupoo.com/albums/163974563?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1047"
+}

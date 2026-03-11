@@ -1,0 +1,61 @@
+{
+  "name": "DiorSummer Set",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "Mangobuy",
+  "budget_batch_links": [
+    {
+      "label": "Mangobuy",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7238024762%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7238024762?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "30$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1980100555754803202?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axml3aCzrLc5wrA5dl2InYS0yFVuwvPRG5pPickbg9bCcaAi7N0A9BXY3gATEFPr2gdTLwwZ42ZvN_rTarp_TLKCu_-tnl8QzqvsxYlmjiS0SgLaNIzgGg9f8fBaVqXxC3g4R9MMOx7sRMx=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "337"
+    },
+    "col_1": {
+      "text": "DiorSummer Set"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axml3aCzrLc5wrA5dl2InYS0yFVuwvPRG5pPickbg9bCcaAi7N0A9BXY3gATEFPr2gdTLwwZ42ZvN_rTarp_TLKCu_-tnl8QzqvsxYlmjiS0SgLaNIzgGg9f8fBaVqXxC3g4R9MMOx7sRMx=w143-h110"
+    },
+    "col_4": {
+      "text": "Mangobuy",
+      "links": [
+        {
+          "label": "Mangobuy",
+          "url": "https://oopbuy.com/product/weidian/7238024762?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1980100555754803202?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0838"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Jordan Jumpman JackTravis Scott Sail",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PK",
+  "best_batch_links": [
+    {
+      "label": "PK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7240073576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7240073576?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7212170011%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7212170011?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "69$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcKrqizJTOJpPIVgu46rAiTHngyZmBrmrNpMe-ksvFx12_4hjD0mc_mKOXSDbRcCzDzrfN0ClRmeCTZYT5cqTWTI46YyBlQJijnhUPNeYUUD5cIEFm8qwIWD0g5QSH3kD_462PDyK-Sg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "67"
+    },
+    "col_1": {
+      "text": "Jordan Jumpman JackTravis Scott Sail"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcKrqizJTOJpPIVgu46rAiTHngyZmBrmrNpMe-ksvFx12_4hjD0mc_mKOXSDbRcCzDzrfN0ClRmeCTZYT5cqTWTI46YyBlQJijnhUPNeYUUD5cIEFm8qwIWD0g5QSH3kD_462PDyK-Sg=w143-h110"
+    },
+    "col_3": {
+      "text": "PK",
+      "links": [
+        {
+          "label": "PK",
+          "url": "https://oopbuy.com/product/weidian/7240073576?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/weidian/7212170011?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "69$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0060"
+}

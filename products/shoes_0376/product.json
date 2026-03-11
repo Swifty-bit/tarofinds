@@ -1,0 +1,65 @@
+{
+  "name": "BAPE Sta Low",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "M / Version1",
+  "best_batch_links": [
+    {
+      "label": "M / Version1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563983179%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563983179?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "TJ",
+  "budget_batch_links": [
+    {
+      "label": "TJ",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4608345170%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4608345170?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "53$",
+  "budget_price": "22$",
+  "pics_text": "22$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJX4AD491VVKJdiMwo2k4ZyhOOGJ1P0IH7zLnmi3lWMx7k26tVOIojJ4x2qHKT3N9JpAGz0BHUfBzADsbIxZZxBvOIAWC6_NejseZjJCtHNvkcmfiJZm-RPLHJE_kKkywztz65oRDA_Ejq=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "417"
+    },
+    "col_1": {
+      "text": "BAPE Sta Low"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJX4AD491VVKJdiMwo2k4ZyhOOGJ1P0IH7zLnmi3lWMx7k26tVOIojJ4x2qHKT3N9JpAGz0BHUfBzADsbIxZZxBvOIAWC6_NejseZjJCtHNvkcmfiJZm-RPLHJE_kKkywztz65oRDA_Ejq=w143-h110"
+    },
+    "col_3": {
+      "text": "M / Version1",
+      "links": [
+        {
+          "label": "M / Version1",
+          "url": "https://oopbuy.com/product/weidian/7563983179?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "TJ",
+      "links": [
+        {
+          "label": "TJ",
+          "url": "https://oopbuy.com/product/2/4608345170?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "53$"
+    },
+    "col_6": {
+      "text": "22$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0376"
+}

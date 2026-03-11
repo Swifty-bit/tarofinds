@@ -1,0 +1,74 @@
+{
+  "name": "Runner 7.0",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OK/XA",
+  "best_batch_links": [
+    {
+      "label": "OK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6223355835%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6223355835?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "XA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5782502922%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5782502922?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "YOLO i8",
+  "budget_batch_links": [
+    {
+      "label": "YOLO i8",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7614455198%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614455198?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "68$",
+  "budget_price": "46$",
+  "pics_text": "46$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_4mVe3iTdb-D1W1FJ5gYmnS2hMMmj48GxL8upRhe6eHQaPwJqtnV3ZRIwgepe2g28ppAJNuEgiHQFjIqLTkeHRq6oiJlmzXt-DmSvPQLaI2vBesM-v-fXj_mZkCNTCHpQ_aABzp4D9Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "484"
+    },
+    "col_1": {
+      "text": "Runner 7.0"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_4mVe3iTdb-D1W1FJ5gYmnS2hMMmj48GxL8upRhe6eHQaPwJqtnV3ZRIwgepe2g28ppAJNuEgiHQFjIqLTkeHRq6oiJlmzXt-DmSvPQLaI2vBesM-v-fXj_mZkCNTCHpQ_aABzp4D9Q=w143-h110"
+    },
+    "col_3": {
+      "text": "OK/XA",
+      "links": [
+        {
+          "label": "OK",
+          "url": "https://oopbuy.com/product/2/6223355835?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "XA",
+          "url": "https://oopbuy.com/product/2/5782502922?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "YOLO i8",
+      "links": [
+        {
+          "label": "YOLO i8",
+          "url": "https://oopbuy.com/product/weidian/7614455198?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "68$"
+    },
+    "col_6": {
+      "text": "46$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0425"
+}

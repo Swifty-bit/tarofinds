@@ -1,0 +1,61 @@
+{
+  "name": "Lacoste T-Shirt6 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7309162557%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7309162557?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "12$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://newdp.x.yupoo.com/albums/177003344?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw9blc-ZK2rfTyOH9Qbou-wXWSGuoCeFfT4PuWDqbqPuQHoyTngOjWkLNp3_t0JcOmnOmgqFq4VnZaeMYqLdmb-dX_2IQB_C2fz1JuYGDNXAsA8bYEfQTGRDwLc01vB6sfEuWdCZPW66A=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "880"
+    },
+    "col_1": {
+      "text": "Lacoste T-Shirt6 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw9blc-ZK2rfTyOH9Qbou-wXWSGuoCeFfT4PuWDqbqPuQHoyTngOjWkLNp3_t0JcOmnOmgqFq4VnZaeMYqLdmb-dX_2IQB_C2fz1JuYGDNXAsA8bYEfQTGRDwLc01vB6sfEuWdCZPW66A=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://www.oopbuy.com/product/weidian/7309162557?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "12$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://newdp.x.yupoo.com/albums/177003344?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1289"
+}

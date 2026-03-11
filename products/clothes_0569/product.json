@@ -1,0 +1,61 @@
+{
+  "name": "Nike Windbreaker",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F941585275771%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/941585275771?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "14$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1984447272240357378?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxlACCZwT3kY_AiF3k7MzboZo3CCR2eb8IvAeb-Fb9t2GskJ6ENlMVGRnZdVlkyFcqdMiuu0-YYcT7Pl_xYgWj4tepbjdB8PXE6A0USi3Cn6uBd8KoSPaI9k-bpAVl8-QAgLW_AEEDcSaX4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "34"
+    },
+    "col_1": {
+      "text": "Nike Windbreaker"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxlACCZwT3kY_AiF3k7MzboZo3CCR2eb8IvAeb-Fb9t2GskJ6ENlMVGRnZdVlkyFcqdMiuu0-YYcT7Pl_xYgWj4tepbjdB8PXE6A0USi3Cn6uBd8KoSPaI9k-bpAVl8-QAgLW_AEEDcSaX4=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/941585275771?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "14$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1984447272240357378?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0569"
+}

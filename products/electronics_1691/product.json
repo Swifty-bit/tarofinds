@@ -1,0 +1,87 @@
+{
+  "name": "Airpods Pro",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "V4",
+  "best_batch_links": [
+    {
+      "label": "V4",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7247449195%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7247449195?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
+    {
+      "label": "ThebigY",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7270577821%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7270577821?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "54$",
+  "budget_price": "12$ / 15$",
+  "pics_text": "V4/budget",
+  "pics_links": [
+    {
+      "label": "V4",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287584331722753?action=discord&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952902409044451329?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzdgfMOtDw6D8RAhkbY17offjuM2XkmW8rMjkvJutpzGkYdJ2Cv-7vps1jt5lowMH2e00lAAzAJXx0hAYoAHleewKcmG5D6mKu9zgR37KqC7sexnKeyLsBMH9N0cS2lkeVKRwq074zXL_nx=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "8"
+    },
+    "col_1": {
+      "text": "Airpods Pro"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzdgfMOtDw6D8RAhkbY17offjuM2XkmW8rMjkvJutpzGkYdJ2Cv-7vps1jt5lowMH2e00lAAzAJXx0hAYoAHleewKcmG5D6mKu9zgR37KqC7sexnKeyLsBMH9N0cS2lkeVKRwq074zXL_nx=w143-h110"
+    },
+    "col_3": {
+      "text": "V4",
+      "links": [
+        {
+          "label": "V4",
+          "url": "https://oopbuy.com/product/weidian/7247449195?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "ThebigY",
+      "links": [
+        {
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7270577821?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "54$"
+    },
+    "col_6": {
+      "text": "12$ / 15$"
+    },
+    "col_7": {
+      "text": "V4/budget",
+      "links": [
+        {
+          "label": "V4",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287584331722753?action=discord&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952902409044451329?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "electronics_1691"
+}

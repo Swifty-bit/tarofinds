@@ -1,0 +1,61 @@
+{
+  "name": "Nike x StussyZipped Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7291972127%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7291972127?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "26$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://newdp.x.yupoo.com/albums/177083495?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0yya_rFJmoXLronKbgiFcKqOPQyEUCAqbAnWl5DTRpRzVciMpA-KAE9fuQf2jHZ7RPuUtDjW9aF7pH3QigBqObp7rrst0LF9WSNEr9tIW1Weym46OuZ_o8a4fPA3WzOnr6HcmtKW-bg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "43"
+    },
+    "col_1": {
+      "text": "Nike x StussyZipped Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0yya_rFJmoXLronKbgiFcKqOPQyEUCAqbAnWl5DTRpRzVciMpA-KAE9fuQf2jHZ7RPuUtDjW9aF7pH3QigBqObp7rrst0LF9WSNEr9tIW1Weym46OuZ_o8a4fPA3WzOnr6HcmtKW-bg=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7291972127?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "26$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://newdp.x.yupoo.com/albums/177083495?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0576"
+}

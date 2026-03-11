@@ -1,0 +1,61 @@
+{
+  "name": "DenimJeans Pants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7342570790%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7342570790?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/154304994?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzCMZdTcCD0JVHb9DwNAUF9jEHZMppvNBQMSYW4wG-xM2031ytbkoar11XQLdJ_lE05PHdvXhcFaHpI0UVisc_PQYpodrvwz459WsB88rx4fuaDNSKifcVB5reBI-gNYuMhS4Aov4CEPPYj=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "536"
+    },
+    "col_1": {
+      "text": "DenimJeans Pants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzCMZdTcCD0JVHb9DwNAUF9jEHZMppvNBQMSYW4wG-xM2031ytbkoar11XQLdJ_lE05PHdvXhcFaHpI0UVisc_PQYpodrvwz459WsB88rx4fuaDNSKifcVB5reBI-gNYuMhS4Aov4CEPPYj=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://www.oopbuy.com/product/weidian/7342570790?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "32$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/154304994?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0999"
+}

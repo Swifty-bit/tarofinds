@@ -1,0 +1,87 @@
+{
+  "name": "CB Sweater",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F959986301301%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/959986301301?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F804011799129%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/804011799129?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "38$",
+  "budget_price": "18$",
+  "pics_text": "dragonrep/budget",
+  "pics_links": [
+    {
+      "label": "dragonrep",
+      "url": "https://noghost.x.yupoo.com/albums/205163085?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1991694689751879682?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az6Z4ci4v-q0b00bifuWa3PxKUWsXob4VBrf0muMN6eGYZP_mGaWJFin0MYbnjCH8drkktL6mJV3jtRX2rDirbGgBsDMjCbCb0EeB-H4J0cI-5KnFlka2n6pFyMoVX158vo3sy2P51NcGsM=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "241"
+    },
+    "col_1": {
+      "text": "CB Sweater"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az6Z4ci4v-q0b00bifuWa3PxKUWsXob4VBrf0muMN6eGYZP_mGaWJFin0MYbnjCH8drkktL6mJV3jtRX2rDirbGgBsDMjCbCb0EeB-H4J0cI-5KnFlka2n6pFyMoVX158vo3sy2P51NcGsM=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/1/959986301301?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/804011799129?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "38$"
+    },
+    "col_6": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "dragonrep/budget",
+      "links": [
+        {
+          "label": "dragonrep",
+          "url": "https://noghost.x.yupoo.com/albums/205163085?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1991694689751879682?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0752"
+}

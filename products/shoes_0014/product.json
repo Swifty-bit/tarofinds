@@ -1,0 +1,65 @@
+{
+  "name": "Air Force Onex CDG",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327089607%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327089607?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "WTG",
+  "budget_batch_links": [
+    {
+      "label": "WTG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7461247438%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7461247438?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "42$",
+  "budget_price": "24$",
+  "pics_text": "24$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEmah-hlwK0pwOB-xZGhIIhZMy4hu2WtWVjbgaq0fp680_8KMc5p3Ktjx3rXxU5BXbTEK-a1IaILRjO7i7YSlGQyUi7z7TnOYstpwRzyADyAeSATZ-IyMjLZCu70A8qFJgGtP94PZtkSgr=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "21"
+    },
+    "col_1": {
+      "text": "Air Force Onex CDG"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEmah-hlwK0pwOB-xZGhIIhZMy4hu2WtWVjbgaq0fp680_8KMc5p3Ktjx3rXxU5BXbTEK-a1IaILRjO7i7YSlGQyUi7z7TnOYstpwRzyADyAeSATZ-IyMjLZCu70A8qFJgGtP94PZtkSgr=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7327089607?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "WTG",
+      "links": [
+        {
+          "label": "WTG",
+          "url": "https://oopbuy.com/product/weidian/7461247438?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "42$"
+    },
+    "col_6": {
+      "text": "24$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0014"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "DSQ2 Jeans",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F733970788689%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/733970788689?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azg-py5IBNy9G-bKI_9Cw6hSyfr4v1Mxrt8QFJlTLyIR7WB5OSfSIIpYaPbLy-F3VdLRRqZTn0R7JVUlrjxD20Eby9OXASMEiXps7LRDHmcZ7wKJirZjpRZDND7UteYbmXCo8a94LvTiA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "795"
+    },
+    "col_1": {
+      "text": "DSQ2 Jeans"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azg-py5IBNy9G-bKI_9Cw6hSyfr4v1Mxrt8QFJlTLyIR7WB5OSfSIIpYaPbLy-F3VdLRRqZTn0R7JVUlrjxD20Eby9OXASMEiXps7LRDHmcZ7wKJirZjpRZDND7UteYbmXCo8a94LvTiA=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/1/733970788689?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1220"
+}

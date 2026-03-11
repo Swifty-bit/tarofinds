@@ -1,0 +1,61 @@
+{
+  "name": "CarharttSocks28 Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "1$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1915589868544143362?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWfzEe3xfkLN4BmR2zzIworkoRGBX4I6MwcJWJoJTq6mhuLHk0_7enx1lrtWbBKjx8m-ZKiNJrm2A1ni-Iu_UU9O8QiNShbwrTkLl1rUe92yu2ASyQlX5pZSTvcSYLPTNtLrCsEDxnNlXh=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1048"
+    },
+    "col_1": {
+      "text": "CarharttSocks28 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWfzEe3xfkLN4BmR2zzIworkoRGBX4I6MwcJWJoJTq6mhuLHk0_7enx1lrtWbBKjx8m-ZKiNJrm2A1ni-Iu_UU9O8QiNShbwrTkLl1rUe92yu2ASyQlX5pZSTvcSYLPTNtLrCsEDxnNlXh=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "1$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1915589868544143362?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1569"
+}

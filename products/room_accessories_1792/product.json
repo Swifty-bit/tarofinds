@@ -1,0 +1,28 @@
+{
+  "name": "LEGO",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "LEGO",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "Be aware that boxes aren't 1:1",
+  "image_url": "",
+  "raw_cells": {
+    "col_0": {
+      "text": "7"
+    },
+    "col_3": {
+      "text": "LEGO"
+    },
+    "col_8": {
+      "text": "Be aware that boxes aren't 1:1"
+    }
+  },
+  "local_image": "",
+  "folder": "room_accessories_1792"
+}

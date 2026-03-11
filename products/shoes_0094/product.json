@@ -1,0 +1,47 @@
+{
+  "name": "Supreme Stars Black",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OG",
+  "best_batch_links": [
+    {
+      "label": "OG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245075709%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyVtnKNCd0S-nLGOpXcjEsS1JVy-u2bCN4QSn0lL3KTRx5eaLjaR_idh9Dfkrm_ddxss0kdSSzSZMcxnKToV_OGw96FKWoZrsWwSDjnQNshsr_1XuiqY3-6Kbngdk_OecgpxZs6KEmd_17y=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "103"
+    },
+    "col_1": {
+      "text": "Supreme Stars Black"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyVtnKNCd0S-nLGOpXcjEsS1JVy-u2bCN4QSn0lL3KTRx5eaLjaR_idh9Dfkrm_ddxss0kdSSzSZMcxnKToV_OGw96FKWoZrsWwSDjnQNshsr_1XuiqY3-6Kbngdk_OecgpxZs6KEmd_17y=w143-h110"
+    },
+    "col_3": {
+      "text": "OG",
+      "links": [
+        {
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "59$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0094"
+}

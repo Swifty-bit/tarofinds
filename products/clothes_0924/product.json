@@ -1,0 +1,61 @@
+{
+  "name": "Palm AngelsVarsity Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F679257031030%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/679257031030?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "17$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1910745267547222017?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzHS8THbu_Ttz9eFf0nuhFS9w34EyxR44Q1I364oCYzGZTxnNftay7HnYt-IrNCnzdBren7XrnHKfR4rR00Ay5fIUpukF2FXXxJId02vHTXo9m1eCHqwjugkhO8FiYbwtByn3bA-n-HEDc4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "449"
+    },
+    "col_1": {
+      "text": "Palm AngelsVarsity Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzHS8THbu_Ttz9eFf0nuhFS9w34EyxR44Q1I364oCYzGZTxnNftay7HnYt-IrNCnzdBren7XrnHKfR4rR00Ay5fIUpukF2FXXxJId02vHTXo9m1eCHqwjugkhO8FiYbwtByn3bA-n-HEDc4=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/679257031030?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "17$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1910745267547222017?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0924"
+}

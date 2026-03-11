@@ -1,0 +1,61 @@
+{
+  "name": "ARMSTRONGCrewneck ARMS",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://oopbuy.com/product/1/983089560108?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "27$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/203070415?uid=1&isSubCate=false&referrercate=4543872"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awvvmi2PfHDfhZXsiEAqU1JAdhvqcaPkwYgNBDJNEQdiE2Ag8EbPtATk_J-xOov40xdmkwO7LGWT6kACg-4y3gRLNUUmO72YrVpaJvkBSwit0lfNwpqHYtuC7g0kobNe-BMfdaHQIQFxXVB=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1059"
+    },
+    "col_1": {
+      "text": "ARMSTRONGCrewneck ARMS"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awvvmi2PfHDfhZXsiEAqU1JAdhvqcaPkwYgNBDJNEQdiE2Ag8EbPtATk_J-xOov40xdmkwO7LGWT6kACg-4y3gRLNUUmO72YrVpaJvkBSwit0lfNwpqHYtuC7g0kobNe-BMfdaHQIQFxXVB=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/983089560108?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "27$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/203070415?uid=1&isSubCate=false&referrercate=4543872"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1577"
+}

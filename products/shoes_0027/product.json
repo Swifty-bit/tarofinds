@@ -1,0 +1,47 @@
+{
+  "name": "Air Max Plus Drift",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Shark",
+  "best_batch_links": [
+    {
+      "label": "Shark",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243288574%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7243288574?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "29$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeFgC5fkpqMI4EP0eoXBaJTJeWuc91xU5Z9gvOJylitcpmfyhv6tBHLa0Xd632vCGK-FehUaDBiuhO7ypQlJvQU9qFwBsYWrJv3edAyNiqx9iuM-apaLfAo8in9kmsWJDbmbXOSz88dLkV=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "34"
+    },
+    "col_1": {
+      "text": "Air Max Plus Drift"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeFgC5fkpqMI4EP0eoXBaJTJeWuc91xU5Z9gvOJylitcpmfyhv6tBHLa0Xd632vCGK-FehUaDBiuhO7ypQlJvQU9qFwBsYWrJv3edAyNiqx9iuM-apaLfAo8in9kmsWJDbmbXOSz88dLkV=w143-h110"
+    },
+    "col_3": {
+      "text": "Shark",
+      "links": [
+        {
+          "label": "Shark",
+          "url": "https://oopbuy.com/product/weidian/7243288574?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0027"
+}

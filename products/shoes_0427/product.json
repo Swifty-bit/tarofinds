@@ -1,0 +1,47 @@
+{
+  "name": "3XL",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "QCXC",
+  "best_batch_links": [
+    {
+      "label": "QCXC",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F1997086226522092672233%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/1997086226522092672233?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "87$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axti_kF9r8QB-mLwihsL9MqNyTlqIy7tooZoNg7P0V5GZrANgasx76FPFIFjr8Iuf5qQussCjBOefyztF_kgiJ5OpvxgjgrJjLMwqg9gjJ9rp1WZoRKJp1KZ8YdrRjKTwlLE5CNJ5esF1dN=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "486"
+    },
+    "col_1": {
+      "text": "3XL"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axti_kF9r8QB-mLwihsL9MqNyTlqIy7tooZoNg7P0V5GZrANgasx76FPFIFjr8Iuf5qQussCjBOefyztF_kgiJ5OpvxgjgrJjLMwqg9gjJ9rp1WZoRKJp1KZ8YdrRjKTwlLE5CNJ5esF1dN=w143-h110"
+    },
+    "col_3": {
+      "text": "QCXC",
+      "links": [
+        {
+          "label": "QCXC",
+          "url": "https://oopbuy.com/product/weidian/1997086226522092672233?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "87$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0427"
+}

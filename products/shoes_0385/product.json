@@ -1,0 +1,47 @@
+{
+  "name": "Tread Slick Lace Up Boot",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GZ",
+  "best_batch_links": [
+    {
+      "label": "GZ",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7234428969%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7234428969?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "62$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxVXpdSBEIZMKDNM9I3Lh08gYXoOZsN7Ucdn0sIwKMkwyfhUKD89N-hcwcwoFmtPzGH13OKD0_K7hS3Xow4Qhj8UxTS-BwJ4q_dbkkIl2gLk7P5swVTT85bK_JhLzBrTJyegRDK_MypM5M-=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "428"
+    },
+    "col_1": {
+      "text": "Tread Slick Lace Up Boot"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVXpdSBEIZMKDNM9I3Lh08gYXoOZsN7Ucdn0sIwKMkwyfhUKD89N-hcwcwoFmtPzGH13OKD0_K7hS3Xow4Qhj8UxTS-BwJ4q_dbkkIl2gLk7P5swVTT85bK_JhLzBrTJyegRDK_MypM5M-=w143-h110"
+    },
+    "col_3": {
+      "text": "GZ",
+      "links": [
+        {
+          "label": "GZ",
+          "url": "https://oopbuy.com/product/2/7234428969?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "62$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0385"
+}

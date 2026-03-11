@@ -1,0 +1,61 @@
+{
+  "name": "Essentials Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F624628262180%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/624628262180?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://steven-1989.x.yupoo.com/albums/84491430?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay6_2CIzp6oWLpXnXuiv3B7y9H4As4zFfjMgEv878hiZrLVd3EuAGWmxZEPwsZHjx-8KCbvNiaiF0O9_DPLIdDPSWWPsyF_eVm-2B2-SjIa3dvwiMmGj9sJfQjT8DYjwdUx4xZaziQp1Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "218"
+    },
+    "col_1": {
+      "text": "Essentials Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay6_2CIzp6oWLpXnXuiv3B7y9H4As4zFfjMgEv878hiZrLVd3EuAGWmxZEPwsZHjx-8KCbvNiaiF0O9_DPLIdDPSWWPsyF_eVm-2B2-SjIa3dvwiMmGj9sJfQjT8DYjwdUx4xZaziQp1Q=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/624628262180?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "32$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://steven-1989.x.yupoo.com/albums/84491430?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0733"
+}

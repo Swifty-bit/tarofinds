@@ -1,0 +1,61 @@
+{
+  "name": "CorteizJacket Puffer5 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741081469466%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/741081469466?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "38$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1894997290956984321?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwOyRmyUnrB4ID-JHQqrhkmKBESaOyua2LAfGcwD0DoHZqkYx5svAXhZ78O5y-pufs3TCzrNvKsaOMyZy1wxQWY3EmpUyQE1dbt93p5EFvpLtqQ4zpibqRtxL930fsGhLU1xnOVDwpcRrcm=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "178"
+    },
+    "col_1": {
+      "text": "CorteizJacket Puffer5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwOyRmyUnrB4ID-JHQqrhkmKBESaOyua2LAfGcwD0DoHZqkYx5svAXhZ78O5y-pufs3TCzrNvKsaOMyZy1wxQWY3EmpUyQE1dbt93p5EFvpLtqQ4zpibqRtxL930fsGhLU1xnOVDwpcRrcm=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/1/741081469466?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "38$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1894997290956984321?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0697"
+}

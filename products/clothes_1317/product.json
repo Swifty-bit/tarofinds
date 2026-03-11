@@ -1,0 +1,61 @@
+{
+  "name": "OG WEB V2 TEE",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
+    {
+      "label": "PikaPikaGo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F823211589483%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/823211589483?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "9$(sale)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/177007306?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySL-UqPGx7zQrBJS6KBcOZQFYhuZGqNftiS-fyu_uYpeJOXYdxQDlpAB8oqw2eCNOH6Tj0mDoFqjGVSOH42JP7tlwkCiuR2JZz6c1NEMhExrEYMCMfM6AjHhB0FChNFcFDwzjYI1iC2g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "912"
+    },
+    "col_1": {
+      "text": "OG WEB V2 TEE"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySL-UqPGx7zQrBJS6KBcOZQFYhuZGqNftiS-fyu_uYpeJOXYdxQDlpAB8oqw2eCNOH6Tj0mDoFqjGVSOH42JP7tlwkCiuR2JZz6c1NEMhExrEYMCMfM6AjHhB0FChNFcFDwzjYI1iC2g=w143-h110"
+    },
+    "col_3": {
+      "text": "PikaPikaGo",
+      "links": [
+        {
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/823211589483?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "9$(sale)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/177007306?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1317"
+}

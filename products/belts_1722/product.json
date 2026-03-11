@@ -1,0 +1,87 @@
+{
+  "name": "Christian Dior",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "MissChen",
+  "best_batch_links": [
+    {
+      "label": "MissChen",
+      "url": "https://www.oopbuy.com/product/weidian/3049062970?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/895938691358?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "33$",
+  "budget_price": "3$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969226603050917890?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969949835626373122?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXXBf6aDSn-WHW34fjIWrY_NJjjZiW6ZR8TPiS0t6Ygv0x61B-4Xj12wZfNBPbT8oLlpZgjGB6Y6NrJmkRzlKXq4vpoQgoXxXEfCzExhxLvpoiWIN_k8pPjaF0LqbJRawqn_mDgSkjt_43=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "39"
+    },
+    "col_1": {
+      "text": "Christian Dior"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXXBf6aDSn-WHW34fjIWrY_NJjjZiW6ZR8TPiS0t6Ygv0x61B-4Xj12wZfNBPbT8oLlpZgjGB6Y6NrJmkRzlKXq4vpoQgoXxXEfCzExhxLvpoiWIN_k8pPjaF0LqbJRawqn_mDgSkjt_43=w143-h110"
+    },
+    "col_3": {
+      "text": "MissChen",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/3049062970?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/895938691358?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "33$"
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969226603050917890?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969949835626373122?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1722"
+}

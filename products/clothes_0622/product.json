@@ -1,0 +1,87 @@
+{
+  "name": "Ralph Lauren Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7235900746%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7235900746?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F716955474737%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/716955474737?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "21$",
+  "budget_price": "13$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/161514810?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1852259323902230529?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayd9woWTCMVLt4EStxUFmF5HQStB2qUyqdmVs-MTr1F0sTQXT5qq_c7R28fR57GsH1QEFqUcEFxszS6iX9YU8KmKS71mDC_jKdnauwhrcM1BicORblDBOOM18uFdZF6J868lbuhIddtPw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "93"
+    },
+    "col_1": {
+      "text": "Ralph Lauren Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayd9woWTCMVLt4EStxUFmF5HQStB2qUyqdmVs-MTr1F0sTQXT5qq_c7R28fR57GsH1QEFqUcEFxszS6iX9YU8KmKS71mDC_jKdnauwhrcM1BicORblDBOOM18uFdZF6J868lbuhIddtPw=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/7235900746?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/716955474737?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/161514810?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1852259323902230529?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0622"
+}

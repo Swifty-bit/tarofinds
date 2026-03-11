@@ -1,0 +1,47 @@
+{
+  "name": "Levi's Black",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyhgNCFW77r22tqYwnbdS0DKg9qnruTgqkByaT9Zl3LkfIbMJjqz1SJPuONt8dNZlndYwhgpc5raSB4APuoSZ1coWr1By9pe26mhzFtuSAG1zz-cUQBTylADb4aFz5qUq-4N6LEESC0avHE=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "271"
+    },
+    "col_1": {
+      "text": "Levi's Black"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyhgNCFW77r22tqYwnbdS0DKg9qnruTgqkByaT9Zl3LkfIbMJjqz1SJPuONt8dNZlndYwhgpc5raSB4APuoSZ1coWr1By9pe26mhzFtuSAG1zz-cUQBTylADb4aFz5qUq-4N6LEESC0avHE=w143-h110"
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0256"
+}

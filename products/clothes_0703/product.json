@@ -1,0 +1,61 @@
+{
+  "name": "Gallery DeptxLANVINT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F707417029205%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/707417029205?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "20$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://steven-1989.x.yupoo.com/albums/130949153?uid=1&isSubCate=false&referrercate=3256158"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzB2Uw8VSHWtNVuTWlzCNnpRXcN3AT-pffkAAAQq0uJaNdNxaA8Ly7m3CCUe-ouetOdPuMelblpibfPSfuJJvNajCZelf3I1iw2YAJ626K9FufB9L-K3EhsUoTpY5lqJRuFnZY7d4xx711F=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "186"
+    },
+    "col_1": {
+      "text": "Gallery DeptxLANVINT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzB2Uw8VSHWtNVuTWlzCNnpRXcN3AT-pffkAAAQq0uJaNdNxaA8Ly7m3CCUe-ouetOdPuMelblpibfPSfuJJvNajCZelf3I1iw2YAJ626K9FufB9L-K3EhsUoTpY5lqJRuFnZY7d4xx711F=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/707417029205?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "20$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://steven-1989.x.yupoo.com/albums/130949153?uid=1&isSubCate=false&referrercate=3256158"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0703"
+}

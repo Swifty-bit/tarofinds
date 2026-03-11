@@ -1,0 +1,65 @@
+{
+  "name": "Travis ScottMedium Olive Low",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240131608%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "PK4.0 B GRADE",
+  "budget_batch_links": [
+    {
+      "label": "PK4.0 B GRADE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327454526%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "72$",
+  "budget_price": "34$",
+  "pics_text": "34$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azuee4PM00-tXjEi-ePjCFMHEvSHcoekgPvR1AcE9mSR4sEgsEmD4ER9UH7XXnyO9NS7Rce1h5kaN9K9dQDSfLclfqZJypp8kzXtVFm_8D__hpjC9LFWm5VP9G3iY1_fyjVHD9E-F1XiQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "153"
+    },
+    "col_1": {
+      "text": "Travis ScottMedium Olive Low"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azuee4PM00-tXjEi-ePjCFMHEvSHcoekgPvR1AcE9mSR4sEgsEmD4ER9UH7XXnyO9NS7Rce1h5kaN9K9dQDSfLclfqZJypp8kzXtVFm_8D__hpjC9LFWm5VP9G3iY1_fyjVHD9E-F1XiQ=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "PK4.0 B GRADE",
+      "links": [
+        {
+          "label": "PK4.0 B GRADE",
+          "url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "72$"
+    },
+    "col_6": {
+      "text": "34$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0142"
+}

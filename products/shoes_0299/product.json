@@ -1,0 +1,47 @@
+{
+  "name": "Wings (2025)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PK",
+  "best_batch_links": [
+    {
+      "label": "PK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564001027%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564001027?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "69$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwyI2pAe1qafYobKJWf_zKN1mNVzSLyMyFdBoMsbTP9XAdwr60gjnDlkQ_hnNrY-H11ak3AnxvZgFfEZDzkxYbhT-NHKJp2gJFGiEGGDnJrf09Gm_vbrIMKhhpkLiZu56jbRJUIr7rkfF1A=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "316"
+    },
+    "col_1": {
+      "text": "Wings (2025)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwyI2pAe1qafYobKJWf_zKN1mNVzSLyMyFdBoMsbTP9XAdwr60gjnDlkQ_hnNrY-H11ak3AnxvZgFfEZDzkxYbhT-NHKJp2gJFGiEGGDnJrf09Gm_vbrIMKhhpkLiZu56jbRJUIr7rkfF1A=w143-h110"
+    },
+    "col_3": {
+      "text": "PK",
+      "links": [
+        {
+          "label": "PK",
+          "url": "https://oopbuy.com/product/weidian/7564001027?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "69$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0299"
+}

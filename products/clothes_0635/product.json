@@ -1,0 +1,87 @@
+{
+  "name": "Ralph LaurenBlack ShinyDown Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7623833303%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7623833303?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F974109320834%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/974109320834?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "76$",
+  "budget_price": "21$",
+  "pics_text": "NEWDP/budget",
+  "pics_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://newdp.x.yupoo.com/albums/216562163?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2020706038074920962?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxdJ6so5RIdvJrA9TpW-2R7zSNUTCOG4YK6XchKDrbcSkjxidupPDjCrjBDD7xiQgZHVI1CutVd34-LBxTy1h-RYX5jZtjuhWB5t_WBkCP7sbW7I6CZpD-Jw0pclQdFACFUst35FdMjnACz=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "106"
+    },
+    "col_1": {
+      "text": "Ralph LaurenBlack ShinyDown Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxdJ6so5RIdvJrA9TpW-2R7zSNUTCOG4YK6XchKDrbcSkjxidupPDjCrjBDD7xiQgZHVI1CutVd34-LBxTy1h-RYX5jZtjuhWB5t_WBkCP7sbW7I6CZpD-Jw0pclQdFACFUst35FdMjnACz=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7623833303?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/974109320834?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "76$"
+    },
+    "col_6": {
+      "text": "21$"
+    },
+    "col_7": {
+      "text": "NEWDP/budget",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://newdp.x.yupoo.com/albums/216562163?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2020706038074920962?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0635"
+}

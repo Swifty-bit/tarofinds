@@ -1,0 +1,65 @@
+{
+  "name": "Air Max 95",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7301232626%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7301232626?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Gargamel",
+  "budget_batch_links": [
+    {
+      "label": "Gargamel",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7236346529%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7236346529?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "46$",
+  "budget_price": "24$",
+  "pics_text": "24$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw3cIZsPZEOAlydxOF92YFyBjONog71nc0mP2QEZ6SY2bmjF7D5I-eQ5zb0oZlXiiSCRNEKbPBlJ6eNNc_JmxoSNpQ0wsRvo6ILzbm6b9QshcxK-gdsOirqb8lnar00tU4HPHwVtTeA8tVn=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "40"
+    },
+    "col_1": {
+      "text": "Air Max 95"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw3cIZsPZEOAlydxOF92YFyBjONog71nc0mP2QEZ6SY2bmjF7D5I-eQ5zb0oZlXiiSCRNEKbPBlJ6eNNc_JmxoSNpQ0wsRvo6ILzbm6b9QshcxK-gdsOirqb8lnar00tU4HPHwVtTeA8tVn=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://www.oopbuy.com/product/weidian/7301232626?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Gargamel",
+      "links": [
+        {
+          "label": "Gargamel",
+          "url": "https://oopbuy.com/product/weidian/7236346529?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "46$"
+    },
+    "col_6": {
+      "text": "24$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0033"
+}

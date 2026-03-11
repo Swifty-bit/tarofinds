@@ -1,0 +1,47 @@
+{
+  "name": "Metallic Red",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awb01tyryzMfSzU0o7LqbRIFIGWfgDOjqK4x2QfrXgB25TDjBJn6T_zX4GpE7q0oC4XMNMTnWnBwZ5iFF-fFfovhmfy1LodGT3drSDZ22O9x_0orIKOjPDLEQ5cd70ugKIWNoHMGQqImLaU=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "242"
+    },
+    "col_1": {
+      "text": "Metallic Red"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awb01tyryzMfSzU0o7LqbRIFIGWfgDOjqK4x2QfrXgB25TDjBJn6T_zX4GpE7q0oC4XMNMTnWnBwZ5iFF-fFfovhmfy1LodGT3drSDZ22O9x_0orIKOjPDLEQ5cd70ugKIWNoHMGQqImLaU=w143-h110"
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0227"
+}

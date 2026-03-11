@@ -1,0 +1,61 @@
+{
+  "name": "Montblanc",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "K8",
+  "best_batch_links": [
+    {
+      "label": "K8",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7246043155%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7246043155?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "34$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1913315619548770306?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awf9jt3rYbzxujnOkE1xq-y7NSTMTLFGAy2PmlH02K39d2Be67S1l3rGqpki3DXmYHqHdG74y-HxSzj3eFLj_xGdvWyaaMFSqVQYktkwJhJkvBcad7i_sO6pFkeGpiPj9g7R1ut-iOwGIpx=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "47"
+    },
+    "col_1": {
+      "text": "Montblanc"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awf9jt3rYbzxujnOkE1xq-y7NSTMTLFGAy2PmlH02K39d2Be67S1l3rGqpki3DXmYHqHdG74y-HxSzj3eFLj_xGdvWyaaMFSqVQYktkwJhJkvBcad7i_sO6pFkeGpiPj9g7R1ut-iOwGIpx=w143-h110"
+    },
+    "col_3": {
+      "text": "K8",
+      "links": [
+        {
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7246043155?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1913315619548770306?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1585"
+}

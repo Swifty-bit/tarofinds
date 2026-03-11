@@ -1,0 +1,61 @@
+{
+  "name": "Van Cleef & ArpelsPendant",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/2/7264102233?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1941301293365719041?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axz6UbKZ6lGqcZpUMzaIkcD6ykAeu_zsZYpIUoPHgJsxr3dUPJuaF6SWUt5R2zlGXA2J5_uCORV5_kWZ0M0DJb8Aa5fvC2xnHtcdA85N_PooaQFkHJlv0PAJFiZjemUIZjyYldgdMaaR6V3=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "12"
+    },
+    "col_1": {
+      "text": "Van Cleef & ArpelsPendant"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axz6UbKZ6lGqcZpUMzaIkcD6ykAeu_zsZYpIUoPHgJsxr3dUPJuaF6SWUt5R2zlGXA2J5_uCORV5_kWZ0M0DJb8Aa5fvC2xnHtcdA85N_PooaQFkHJlv0PAJFiZjemUIZjyYldgdMaaR6V3=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/7264102233?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1941301293365719041?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1745"
+}

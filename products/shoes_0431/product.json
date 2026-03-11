@@ -1,0 +1,47 @@
+{
+  "name": "Combat Strike Canvas Boots",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564076267%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564076267?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "82$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax47-jaUHUH3ujoe5JCzfTGLFMF3kctiGN9rVy7i9Mohj9E3sk9oXAx0doCtxE6dRJRk_T0cp0cya3LXI0BBgKt5S409UND1plZICBaYLGJiV_IHZ7xLUaEBV0IQgNZogSVjrQOIfgGpg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "490"
+    },
+    "col_1": {
+      "text": "Combat Strike Canvas Boots"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax47-jaUHUH3ujoe5JCzfTGLFMF3kctiGN9rVy7i9Mohj9E3sk9oXAx0doCtxE6dRJRk_T0cp0cya3LXI0BBgKt5S409UND1plZICBaYLGJiV_IHZ7xLUaEBV0IQgNZogSVjrQOIfgGpg=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7564076267?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "82$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0431"
+}

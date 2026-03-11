@@ -1,0 +1,61 @@
+{
+  "name": "Under ArmourJacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F974438056546%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/974438056546?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "11$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finderqc.com/product/Ali1688/974438056546"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTmUQOs9c74j9loZNX2tOxs4oTKRfkIZWkkEoAIOP2Lw830sIldlbazJsfRjJWnaJ2RUKcXtY5bTmaME13SG6FzeRvGAkFYmrxTq-DkDpc1fZ4U-JN7dx2qn0vwlVvulBeQo9uxAH8S8dy=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "362"
+    },
+    "col_1": {
+      "text": "Under ArmourJacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTmUQOs9c74j9loZNX2tOxs4oTKRfkIZWkkEoAIOP2Lw830sIldlbazJsfRjJWnaJ2RUKcXtY5bTmaME13SG6FzeRvGAkFYmrxTq-DkDpc1fZ4U-JN7dx2qn0vwlVvulBeQo9uxAH8S8dy=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/974438056546?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "11$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finderqc.com/product/Ali1688/974438056546"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0853"
+}

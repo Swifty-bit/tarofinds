@@ -1,0 +1,87 @@
+{
+  "name": "CorteizOG Cargo Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653882413%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653882413?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Mangobuy",
+  "budget_batch_links": [
+    {
+      "label": "Mangobuy",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7237902582%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7237902582?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "30$",
+  "budget_price": "13$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/112201857?uid=1&isSubCate=false&referrercate=3847505"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923906419080347650?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayah3skavRxhVY1S3m-O83CkHNhocu_OGF8Ku_b9ovW2wjAcbQgNwhDmHJIpq7_vRZelQiq8nj9SehuQoS2_lhuq7qqEdYA48bDkULOz67qzuzFcfaRqVN06iIdIR8dNu0DmdrXwLPoV_nr=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "173"
+    },
+    "col_1": {
+      "text": "CorteizOG Cargo Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayah3skavRxhVY1S3m-O83CkHNhocu_OGF8Ku_b9ovW2wjAcbQgNwhDmHJIpq7_vRZelQiq8nj9SehuQoS2_lhuq7qqEdYA48bDkULOz67qzuzFcfaRqVN06iIdIR8dNu0DmdrXwLPoV_nr=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653882413?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Mangobuy",
+      "links": [
+        {
+          "label": "Mangobuy",
+          "url": "https://oopbuy.com/product/2/7237902582?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/112201857?uid=1&isSubCate=false&referrercate=3847505"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923906419080347650?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0692"
+}

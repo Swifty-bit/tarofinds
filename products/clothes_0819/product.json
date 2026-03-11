@@ -1,0 +1,61 @@
+{
+  "name": "LV T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Thunder",
+  "best_batch_links": [
+    {
+      "label": "Thunder",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7414103466%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7414103466?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "34$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://thethunder.x.yupoo.com/albums/151320399?uid=1&isSubCate=false&referrercate=3972375"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwzvNrDH4J5rgqC5jaObD_mr8-sUPnTSjajdMbIm5bbyMO18GD9Vf8lePZyGXd3Pnek2hMdz-LK7K22LtpNJJXTubjL7ZgQvLzKKCpC-JtowpOzgbPz7-CFBUmNVYKbvAFn9grsdk85rA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "316"
+    },
+    "col_1": {
+      "text": "LV T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwzvNrDH4J5rgqC5jaObD_mr8-sUPnTSjajdMbIm5bbyMO18GD9Vf8lePZyGXd3Pnek2hMdz-LK7K22LtpNJJXTubjL7ZgQvLzKKCpC-JtowpOzgbPz7-CFBUmNVYKbvAFn9grsdk85rA=w143-h110"
+    },
+    "col_3": {
+      "text": "Thunder",
+      "links": [
+        {
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/weidian/7414103466?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://thethunder.x.yupoo.com/albums/151320399?uid=1&isSubCate=false&referrercate=3972375"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0819"
+}

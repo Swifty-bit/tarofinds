@@ -1,0 +1,87 @@
+{
+  "name": "CorteizC-Star DenimJeans Jacket",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653888327%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653888327?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F753388270425%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/753388270425?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "39$",
+  "budget_price": "24$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/143652268?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1939489382689009665?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEEXCbAW6Q3d9ceC1o87Wb8BTbs21pjcCXSxm64sPKMiuKylnTiKZw9_PjJ6iscxMC_-D0iasEgZcGTvRC5TwrA1mAg_pz_DWAw1fiBzPJmoFuVlZ4cOGwMgHsKCne6AfU8s-tjVVOStZy=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "166"
+    },
+    "col_1": {
+      "text": "CorteizC-Star DenimJeans Jacket"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEEXCbAW6Q3d9ceC1o87Wb8BTbs21pjcCXSxm64sPKMiuKylnTiKZw9_PjJ6iscxMC_-D0iasEgZcGTvRC5TwrA1mAg_pz_DWAw1fiBzPJmoFuVlZ4cOGwMgHsKCne6AfU8s-tjVVOStZy=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653888327?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/753388270425?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "39$"
+    },
+    "col_6": {
+      "text": "24$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/143652268?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1939489382689009665?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0685"
+}

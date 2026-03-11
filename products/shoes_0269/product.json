@@ -1,0 +1,47 @@
+{
+  "name": "Manila",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7242121077%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242121077?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "86$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay5jzo8mx6N7nS4TDYQ-FwquTevQqMt7ehJA6rtonbiz5qn2Furyw_O0UUzvkpffG9FznHPR1ZbPqL7YuRzzhEbd8MNujux7h-1CwvnE3oW3qYbHLiQW-eyvjbG290K-tYXzrKA5oWJ6DZH=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "284"
+    },
+    "col_1": {
+      "text": "Manila"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay5jzo8mx6N7nS4TDYQ-FwquTevQqMt7ehJA6rtonbiz5qn2Furyw_O0UUzvkpffG9FznHPR1ZbPqL7YuRzzhEbd8MNujux7h-1CwvnE3oW3qYbHLiQW-eyvjbG290K-tYXzrKA5oWJ6DZH=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7242121077?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "86$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0269"
+}

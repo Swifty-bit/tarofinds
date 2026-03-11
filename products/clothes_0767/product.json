@@ -1,0 +1,87 @@
+{
+  "name": "Cotton Goggle Beanie2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F983090948682%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983090948682?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F750986539714%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/750986539714?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "13$",
+  "budget_price": "4$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://cprepscn.x.yupoo.com/albums/161312020?uid=1&isSubCate=false&referrercate=4543871"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2008420818630037505?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSOo6zDs6By3DA9eGVHVz_LfTqXa5NZ_OAsDXXUpADvrL0B-JigyCusif99C4C_pPaDiGFm4tD6CDHmfSe4lChQWNWWLlD4B6a6qwEUnoJoxqNMCSNI5S0L7BDtabZcHll4ys91uEPFR3r=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "258"
+    },
+    "col_1": {
+      "text": "Cotton Goggle Beanie2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSOo6zDs6By3DA9eGVHVz_LfTqXa5NZ_OAsDXXUpADvrL0B-JigyCusif99C4C_pPaDiGFm4tD6CDHmfSe4lChQWNWWLlD4B6a6qwEUnoJoxqNMCSNI5S0L7BDtabZcHll4ys91uEPFR3r=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/983090948682?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/750986539714?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "13$"
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://cprepscn.x.yupoo.com/albums/161312020?uid=1&isSubCate=false&referrercate=4543871"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2008420818630037505?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0767"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "CarharttPuffer Jacket2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CND ISLAND",
+  "budget_batch_links": [
+    {
+      "label": "CND ISLAND",
+      "url": "https://oopbuy.com/product/weidian/7289603809?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://baymaxcloth.x.yupoo.com/albums/178048056?uid=1&isSubCate=false&referrercate=4681789"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNYE3F_-iXpmewmsq1OtLVe1GC3V4yGftKRKIBwCGdI61MRaYkEJgTggYQNbmF8FUijJ4Sqy2vO4QPvdFCl-bIZ5qnAbEbKakVMJU9Nd8kLXB08NdQgEropjI3iH1Wuw0glxAE3w3CHQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1046"
+    },
+    "col_1": {
+      "text": "CarharttPuffer Jacket2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNYE3F_-iXpmewmsq1OtLVe1GC3V4yGftKRKIBwCGdI61MRaYkEJgTggYQNbmF8FUijJ4Sqy2vO4QPvdFCl-bIZ5qnAbEbKakVMJU9Nd8kLXB08NdQgEropjI3iH1Wuw0glxAE3w3CHQ=w143-h110"
+    },
+    "col_4": {
+      "text": "CND ISLAND",
+      "links": [
+        {
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7289603809?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://baymaxcloth.x.yupoo.com/albums/178048056?uid=1&isSubCate=false&referrercate=4681789"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1567"
+}

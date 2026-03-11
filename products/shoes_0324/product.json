@@ -1,0 +1,47 @@
+{
+  "name": "Jordan 12",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "TK",
+  "best_batch_links": [
+    {
+      "label": "TK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7329080788%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7329080788?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "64$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AysMD9dkBEpb5MMsTannDzZXBwiMyxbdret0xZgV9EkgdcgrojGsUB62NfAASmmZsV5EaxIBwRkYnBwynqWqOZRTnzA7AA6zd43BxMgLehHzBgqOUenOuZ_qWX1G4l3j9HjVMdl7D1B_g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "349"
+    },
+    "col_1": {
+      "text": "Jordan 12"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AysMD9dkBEpb5MMsTannDzZXBwiMyxbdret0xZgV9EkgdcgrojGsUB62NfAASmmZsV5EaxIBwRkYnBwynqWqOZRTnzA7AA6zd43BxMgLehHzBgqOUenOuZ_qWX1G4l3j9HjVMdl7D1B_g=w143-h110"
+    },
+    "col_3": {
+      "text": "TK",
+      "links": [
+        {
+          "label": "TK",
+          "url": "https://oopbuy.com/product/2/7329080788?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "64$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0324"
+}

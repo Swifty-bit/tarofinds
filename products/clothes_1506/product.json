@@ -1,0 +1,25 @@
+{
+  "name": "Represent",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Represent",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "",
+  "raw_cells": {
+    "col_0": {
+      "text": "981"
+    },
+    "col_3": {
+      "text": "Represent"
+    }
+  },
+  "local_image": "",
+  "folder": "clothes_1506"
+}

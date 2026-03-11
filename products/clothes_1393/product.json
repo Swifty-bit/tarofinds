@@ -1,0 +1,64 @@
+{
+  "name": "BurberryZipped Hoodie(hood pattern)",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7650105421%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7650105421?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://newdp.x.yupoo.com/albums/222102513?uid=1"
+    }
+  ],
+  "notes": "Hood pattern only",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxoqSmSGYOG04CoNFJb_K6tdv3AgHBQPbbcZmhpY36pDuL355by1SiapKnqn0AxT2OQ3gwyW15u7DIN8N889G23ctcP5gCcAc2Bvu5fuGobuVAulGaAJiK1GFcrgLafReNrFOGbNOBypaQb=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1000"
+    },
+    "col_1": {
+      "text": "BurberryZipped Hoodie(hood pattern)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxoqSmSGYOG04CoNFJb_K6tdv3AgHBQPbbcZmhpY36pDuL355by1SiapKnqn0AxT2OQ3gwyW15u7DIN8N889G23ctcP5gCcAc2Bvu5fuGobuVAulGaAJiK1GFcrgLafReNrFOGbNOBypaQb=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7650105421?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://newdp.x.yupoo.com/albums/222102513?uid=1"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "Hood pattern only"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1393"
+}

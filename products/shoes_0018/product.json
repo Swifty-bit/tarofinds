@@ -1,0 +1,47 @@
+{
+  "name": "Air Force OneRope LacesBlack",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WTG",
+  "best_batch_links": [
+    {
+      "label": "WTG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7365947617%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7365947617?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "25$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayxz0Fv0VqDR7NuwiHFQFvvg_-TjAwePmGDZ_h3Mo4Nf2h1TQch6uAh1-Of9wj49i5N6eYPEuwatdFSD4yGFgwacTackvpy7h_PzEUO6eI5F2iEIhM1roZ5zifuN_cK89JHOj2YWkCudIqZ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "25"
+    },
+    "col_1": {
+      "text": "Air Force OneRope LacesBlack"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayxz0Fv0VqDR7NuwiHFQFvvg_-TjAwePmGDZ_h3Mo4Nf2h1TQch6uAh1-Of9wj49i5N6eYPEuwatdFSD4yGFgwacTackvpy7h_PzEUO6eI5F2iEIhM1roZ5zifuN_cK89JHOj2YWkCudIqZ=w143-h110"
+    },
+    "col_3": {
+      "text": "WTG",
+      "links": [
+        {
+          "label": "WTG",
+          "url": "https://oopbuy.com/product/2/7365947617?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "25$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0018"
+}

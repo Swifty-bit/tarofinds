@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaCut UpJeansBlack and Blue",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F854759119773%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/854759119773?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "78$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/180245258?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDgEhFgMQSSxYQXUBWSNJ6H82ofI_u-I3HQNNYEh8LJ2vgjyK-fOduJ3tDViwXeKX7_QNrt2RdDpEv1p3fun4kBYf2UYvzT-LWGhpdD1gqyYttoT2UM-lO-CJ3Hte9jzXq8FPWSSBTYsnQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "860"
+    },
+    "col_1": {
+      "text": "BalenciagaCut UpJeansBlack and Blue"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDgEhFgMQSSxYQXUBWSNJ6H82ofI_u-I3HQNNYEh8LJ2vgjyK-fOduJ3tDViwXeKX7_QNrt2RdDpEv1p3fun4kBYf2UYvzT-LWGhpdD1gqyYttoT2UM-lO-CJ3Hte9jzXq8FPWSSBTYsnQ=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://www.oopbuy.com/product/1/854759119773?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "78$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/180245258?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1271"
+}

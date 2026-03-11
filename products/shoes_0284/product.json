@@ -1,0 +1,56 @@
+{
+  "name": "Metallic",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR/Y3",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7239346781%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Y3",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "75$ / 65$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxqdBSVxUXZ8SFBaPUNGVssIsHvTNNofv3SghWsTt6yeFiqf8NL8zPiweNar_E1Px3j61QChP0_3QyZAmWxoW5x33AL8pWmQHhOJ__lE70W4xIpU5aM71Kw_yMrlbsjm-7aCMdtRmrevP2x=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "301"
+    },
+    "col_1": {
+      "text": "Metallic"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxqdBSVxUXZ8SFBaPUNGVssIsHvTNNofv3SghWsTt6yeFiqf8NL8zPiweNar_E1Px3j61QChP0_3QyZAmWxoW5x33AL8pWmQHhOJ__lE70W4xIpU5aM71Kw_yMrlbsjm-7aCMdtRmrevP2x=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR/Y3",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Y3",
+          "url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "75$ / 65$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0284"
+}

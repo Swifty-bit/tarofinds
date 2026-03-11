@@ -1,0 +1,79 @@
+{
+  "name": "Essentials1977 T-Shirt3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F985914673288%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Yishan",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F737366982970%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/737366982970?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "18$",
+  "budget_price": "10$",
+  "pics_text": "firerep",
+  "pics_links": [
+    {
+      "label": "firerep",
+      "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_e3Qniot-7GSaBzZHuraN6w79BDbNiZDFo80RJPEyh4ViwAC84lvDniCYnLOreBbz4OlQ_bL9Sx0Wn0AYBO7jPtlN-ho6WLBmyhNisuKLRCoa_cZvt856ij1t9SMl7PUapoWwAz0nDJEy=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "227"
+    },
+    "col_1": {
+      "text": "Essentials1977 T-Shirt3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_e3Qniot-7GSaBzZHuraN6w79BDbNiZDFo80RJPEyh4ViwAC84lvDniCYnLOreBbz4OlQ_bL9Sx0Wn0AYBO7jPtlN-ho6WLBmyhNisuKLRCoa_cZvt856ij1t9SMl7PUapoWwAz0nDJEy=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/737366982970?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_6": {
+      "text": "10$"
+    },
+    "col_7": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0741"
+}

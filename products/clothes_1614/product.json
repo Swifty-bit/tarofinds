@@ -1,0 +1,87 @@
+{
+  "name": "Canada GooseCrofton",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Chaoren",
+  "best_batch_links": [
+    {
+      "label": "Chaoren",
+      "url": "https://oopbuy.com/product/1/846696288977?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/822552249187?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "205$",
+  "budget_price": "85$",
+  "pics_text": "chaoren/budget",
+  "pics_links": [
+    {
+      "label": "chaoren",
+      "url": "https://chaorenqihaodian.x.yupoo.com/categories/697594?isSubCate=true"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967050881318346753?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwgPD29xbhkVYt83rVxufFp3mkh44MyOqiYJ0HgZr7lc4dxy-izdehPOWFxEL17nffpka1AM1hjOePUgYnziKErR2rrGCdw3W0cz-8WHWS7T857xk_-lmCEaMLkElIYJG1l3Ee_cwL_aTeP=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1098"
+    },
+    "col_1": {
+      "text": "Canada GooseCrofton"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwgPD29xbhkVYt83rVxufFp3mkh44MyOqiYJ0HgZr7lc4dxy-izdehPOWFxEL17nffpka1AM1hjOePUgYnziKErR2rrGCdw3W0cz-8WHWS7T857xk_-lmCEaMLkElIYJG1l3Ee_cwL_aTeP=w143-h110"
+    },
+    "col_3": {
+      "text": "Chaoren",
+      "links": [
+        {
+          "label": "Chaoren",
+          "url": "https://oopbuy.com/product/1/846696288977?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/822552249187?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "205$"
+    },
+    "col_6": {
+      "text": "85$"
+    },
+    "col_7": {
+      "text": "chaoren/budget",
+      "links": [
+        {
+          "label": "chaoren",
+          "url": "https://chaorenqihaodian.x.yupoo.com/categories/697594?isSubCate=true"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967050881318346753?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1614"
+}

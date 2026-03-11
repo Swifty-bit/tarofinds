@@ -1,0 +1,104 @@
+{
+  "name": "SpraygroundBackpacks",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "link1/link2",
+  "best_batch_links": [
+    {
+      "label": "link1",
+      "url": "https://oopbuy.com/product/0/882328060174?inviteCode=29TOTHGNH",
+      "original_url": null
+    },
+    {
+      "label": "link2",
+      "url": "https://oopbuy.com/product/1/666588252861?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget(NO LOGO)",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/833104767708?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "58$ / 43$",
+  "budget_price": "5$",
+  "pics_text": "link1/link2/budget",
+  "pics_links": [
+    {
+      "label": "link1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005699622494883842?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "link2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574392350334977?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2000028669760851970?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayo3KwTx1OFH9xfnMN1nx0SayUwF_R8kz-LvnUYS9U-_zDiCxOBzrVIyYrs-sO1z_IdFyMZrHdRA1tYFahDbL7XebeXG-0SvSpuTe5y5sybw-vJ51LEqtyWYHzWUnbbAWzuNi9nq5q8pA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "46"
+    },
+    "col_1": {
+      "text": "SpraygroundBackpacks"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayo3KwTx1OFH9xfnMN1nx0SayUwF_R8kz-LvnUYS9U-_zDiCxOBzrVIyYrs-sO1z_IdFyMZrHdRA1tYFahDbL7XebeXG-0SvSpuTe5y5sybw-vJ51LEqtyWYHzWUnbbAWzuNi9nq5q8pA=w143-h110"
+    },
+    "col_3": {
+      "text": "link1/link2",
+      "links": [
+        {
+          "label": "link1",
+          "url": "https://oopbuy.com/product/0/882328060174?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "link2",
+          "url": "https://oopbuy.com/product/1/666588252861?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget(NO LOGO)",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/833104767708?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "58$ / 43$"
+    },
+    "col_6": {
+      "text": "5$"
+    },
+    "col_7": {
+      "text": "link1/link2/budget",
+      "links": [
+        {
+          "label": "link1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005699622494883842?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "link2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574392350334977?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2000028669760851970?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1683"
+}

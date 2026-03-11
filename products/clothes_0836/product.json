@@ -1,0 +1,61 @@
+{
+  "name": "DiorxStone IslandT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "ZZZTOPXX",
+  "best_batch_links": [
+    {
+      "label": "ZZZTOPXX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7250857818%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7250857818?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1935140517992013826?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-l_px-tCvCcU1o7GZVxqQOOAW5q1uUO0SusE3gQrrh070PDlfE1u5Lmgar5sBi_0L0gpaRqY9QIK_Rc5Cf1QiXk0-BvfHDMslhjLW3Rkq98UtsoK1XioPTJ2cShOfa7L_uHi8dJairK10=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "335"
+    },
+    "col_1": {
+      "text": "DiorxStone IslandT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-l_px-tCvCcU1o7GZVxqQOOAW5q1uUO0SusE3gQrrh070PDlfE1u5Lmgar5sBi_0L0gpaRqY9QIK_Rc5Cf1QiXk0-BvfHDMslhjLW3Rkq98UtsoK1XioPTJ2cShOfa7L_uHi8dJairK10=w143-h110"
+    },
+    "col_3": {
+      "text": "ZZZTOPXX",
+      "links": [
+        {
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/2/7250857818?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1935140517992013826?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0836"
+}

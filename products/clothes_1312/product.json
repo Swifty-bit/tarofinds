@@ -1,0 +1,61 @@
+{
+  "name": "BapeT-Shirts110 Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Lufilo",
+  "best_batch_links": [
+    {
+      "label": "Lufilo",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F975462768804%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "27$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=975462768804"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axzc4p-1BWN5oN3AMjSFbqw-jGzIuu9VtvulOj-ID7Q7jnWGkHP-SerPaS64iHsmhcV4Ar5TU6ssq6UJj0kbcCV3sGsksxPCacdZlqd4C-c6Q8ZQTKlcoxcL2IegIT7lPzkAZU1f1nvLnZJ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "905"
+    },
+    "col_1": {
+      "text": "BapeT-Shirts110 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axzc4p-1BWN5oN3AMjSFbqw-jGzIuu9VtvulOj-ID7Q7jnWGkHP-SerPaS64iHsmhcV4Ar5TU6ssq6UJj0kbcCV3sGsksxPCacdZlqd4C-c6Q8ZQTKlcoxcL2IegIT7lPzkAZU1f1nvLnZJ=w143-h110"
+    },
+    "col_3": {
+      "text": "Lufilo",
+      "links": [
+        {
+          "label": "Lufilo",
+          "url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "27$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=975462768804"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1312"
+}

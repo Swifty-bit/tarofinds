@@ -1,0 +1,65 @@
+{
+  "name": "Skeleton",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Alexander",
+  "best_batch_links": [
+    {
+      "label": "Alexander",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7232607440%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7232607440?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F853596245560%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/853596245560?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "86$",
+  "budget_price": "20$",
+  "pics_text": "20$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCkSEmY8VTEXSFOFea-OHxBdTJtbkrf8LY7vIfIiUNbLRKKnrH3RltGiRQ9nO-YsNljh4c6pazmcV9D15cjAeOTylF_jc4OPe7eGotxSbYIcFjVw4lqHsmceBdPS_znTN1w4m_UpsZlmdw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "523"
+    },
+    "col_1": {
+      "text": "Skeleton"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCkSEmY8VTEXSFOFea-OHxBdTJtbkrf8LY7vIfIiUNbLRKKnrH3RltGiRQ9nO-YsNljh4c6pazmcV9D15cjAeOTylF_jc4OPe7eGotxSbYIcFjVw4lqHsmceBdPS_znTN1w4m_UpsZlmdw=w143-h110"
+    },
+    "col_3": {
+      "text": "Alexander",
+      "links": [
+        {
+          "label": "Alexander",
+          "url": "https://oopbuy.com/product/2/7232607440?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/853596245560?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "86$"
+    },
+    "col_6": {
+      "text": "20$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0460"
+}

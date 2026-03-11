@@ -1,0 +1,90 @@
+{
+  "name": "Ralph LaurenHalf-Zip Sweater",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6989768087%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6989768087?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F829912346081%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/829912346081?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "22$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/151657988?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1890204541917433858?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "90% Wool, 10% Cashmere",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3b_5ikwwGnXopWcv_q418DBWUwvwmc1corO6vQIqnOp2ItdZxwa5NF3hwTlYJ4EakzltaAIexlter37_E2Rt-ihLtu-wG2tE93q2kxE8wbqBXOgSQmlwfZ9SpjFLhv5eJ5QgERTqqhw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "91"
+    },
+    "col_1": {
+      "text": "Ralph LaurenHalf-Zip Sweater"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3b_5ikwwGnXopWcv_q418DBWUwvwmc1corO6vQIqnOp2ItdZxwa5NF3hwTlYJ4EakzltaAIexlter37_E2Rt-ihLtu-wG2tE93q2kxE8wbqBXOgSQmlwfZ9SpjFLhv5eJ5QgERTqqhw=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/6989768087?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://www.oopbuy.com/product/1/829912346081?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/151657988?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1890204541917433858?action=discord&cid=1840597081113280514"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "90% Wool, 10% Cashmere"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0620"
+}

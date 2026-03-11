@@ -1,0 +1,61 @@
+{
+  "name": "Travis ScottT-Shirt12 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F649607013142%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/649607013142?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1941301357723119617?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayvlr-oTu8nSAPn5TBs1Cjj3nbXzmgHlRAJljcb-O-1rx5bv3nj7915pM5Ew9Ct8Ti1MigvbQrAAOzEXSb0Vwm99T1lG9q8lKj-cFgMbs8k0tKIOG2kc2EoneY3qka0Eil6t6xTsjDbPg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "126"
+    },
+    "col_1": {
+      "text": "Travis ScottT-Shirt12 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayvlr-oTu8nSAPn5TBs1Cjj3nbXzmgHlRAJljcb-O-1rx5bv3nj7915pM5Ew9Ct8Ti1MigvbQrAAOzEXSb0Vwm99T1lG9q8lKj-cFgMbs8k0tKIOG2kc2EoneY3qka0Eil6t6xTsjDbPg=w143-h110"
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/649607013142?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1941301357723119617?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0651"
+}

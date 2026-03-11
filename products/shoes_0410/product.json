@@ -1,0 +1,74 @@
+{
+  "name": "Dior B23",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Kevin",
+  "best_batch_links": [
+    {
+      "label": "Kevin",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F631695846847%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "GD/budget",
+  "budget_batch_links": [
+    {
+      "label": "GD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7407567776%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7407567776?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4370246933%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "81$",
+  "budget_price": "51$ / 62$",
+  "pics_text": "51$ / 62$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw4WC5fGwuTJmS2C6DOj-3qsr5GCOSTAKc5W3z-mkTGhZQjk6vug0osWmZTaEZxKm8nm_uXyj5kL_Vytzzdc8XBG0eC1T36OEty-4rr_CUB9bvq-zzofms8dk0dClTf9L28t3rUCseQOMUq=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "467"
+    },
+    "col_1": {
+      "text": "Dior B23"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw4WC5fGwuTJmS2C6DOj-3qsr5GCOSTAKc5W3z-mkTGhZQjk6vug0osWmZTaEZxKm8nm_uXyj5kL_Vytzzdc8XBG0eC1T36OEty-4rr_CUB9bvq-zzofms8dk0dClTf9L28t3rUCseQOMUq=w143-h110"
+    },
+    "col_3": {
+      "text": "Kevin",
+      "links": [
+        {
+          "label": "Kevin",
+          "url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "GD/budget",
+      "links": [
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7407567776?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "81$"
+    },
+    "col_6": {
+      "text": "51$ / 62$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0410"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "DRKSHDW LowJumbo Laces",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "ROG",
+  "best_batch_links": [
+    {
+      "label": "ROG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F669771892203%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "DRK STUDIO",
+  "budget_batch_links": [
+    {
+      "label": "DRK STUDIO",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F673096171707%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "113$",
+  "budget_price": "72$",
+  "pics_text": "72$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwpYuqqUE5J6xOpAeaFziTypqmgYJge8lIxmp75U3i6NoMvnkUmrq-ThInwV3uMgVcSuniMeYQbBmp9AQ4DVHe6f4_Nh1wvol8uvodG5vdZ34QfYoXsemojWsOsbiYWQaEKj7f8doBSusNo=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "453"
+    },
+    "col_1": {
+      "text": "DRKSHDW LowJumbo Laces"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwpYuqqUE5J6xOpAeaFziTypqmgYJge8lIxmp75U3i6NoMvnkUmrq-ThInwV3uMgVcSuniMeYQbBmp9AQ4DVHe6f4_Nh1wvol8uvodG5vdZ34QfYoXsemojWsOsbiYWQaEKj7f8doBSusNo=w143-h110"
+    },
+    "col_3": {
+      "text": "ROG",
+      "links": [
+        {
+          "label": "ROG",
+          "url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DRK STUDIO",
+      "links": [
+        {
+          "label": "DRK STUDIO",
+          "url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "113$"
+    },
+    "col_6": {
+      "text": "72$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0402"
+}

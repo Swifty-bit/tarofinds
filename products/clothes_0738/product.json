@@ -1,0 +1,87 @@
+{
+  "name": "Essentials 22FW Sweatpants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GmanClub",
+  "best_batch_links": [
+    {
+      "label": "GmanClub",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F636178263306%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/636178263306?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "FFOG",
+  "budget_batch_links": [
+    {
+      "label": "FFOG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F630064683945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/630064683945?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "19$",
+  "budget_price": "15$",
+  "pics_text": "gmanclub/FFOG",
+  "pics_links": [
+    {
+      "label": "gmanclub",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1912921016236584961?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631413884239873?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awcv1kmBvDDxigkzERZOTlXmsdyLV40qQNFXNIVCtA1QfoiajQbRkjOYPKva65_qnCLQqSMDX6QZX1y5lHfdu8nbZH1R0j08EPMOY-z-DoIvu5WTg-UNUwtvqXPpglLTDMzfs1quz_O_5Xv=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "223"
+    },
+    "col_1": {
+      "text": "Essentials 22FW Sweatpants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awcv1kmBvDDxigkzERZOTlXmsdyLV40qQNFXNIVCtA1QfoiajQbRkjOYPKva65_qnCLQqSMDX6QZX1y5lHfdu8nbZH1R0j08EPMOY-z-DoIvu5WTg-UNUwtvqXPpglLTDMzfs1quz_O_5Xv=w143-h110"
+    },
+    "col_3": {
+      "text": "GmanClub",
+      "links": [
+        {
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/636178263306?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FFOG",
+      "links": [
+        {
+          "label": "FFOG",
+          "url": "https://oopbuy.com/product/1/630064683945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "19$"
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "gmanclub/FFOG",
+      "links": [
+        {
+          "label": "gmanclub",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1912921016236584961?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631413884239873?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0738"
+}

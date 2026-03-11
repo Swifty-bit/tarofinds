@@ -1,0 +1,74 @@
+{
+  "name": "Air Force One Black",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "RFA",
+  "best_batch_links": [
+    {
+      "label": "RFA",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7347942592%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7347942592?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "WTG/PT",
+  "budget_batch_links": [
+    {
+      "label": "WTG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7359778608%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7359778608?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "PT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7385722667%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7385722667?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "35$",
+  "budget_price": "17$ / 13$",
+  "pics_text": "17$ / 13$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay75wdfI1dv0kViT5parGdl78Fi7Hq_DtUulpdnBRjngNbbxoQSCGprkvvHPF9QHWsl_pDv-5bhs9kBxFIEG0SSbMm_WAbjWaP9LPsSB2Y_z9wZ4LkWDpXltOCK2Gey0kSIrixZQuFvjgrE=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "9"
+    },
+    "col_1": {
+      "text": "Air Force One Black"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay75wdfI1dv0kViT5parGdl78Fi7Hq_DtUulpdnBRjngNbbxoQSCGprkvvHPF9QHWsl_pDv-5bhs9kBxFIEG0SSbMm_WAbjWaP9LPsSB2Y_z9wZ4LkWDpXltOCK2Gey0kSIrixZQuFvjgrE=w143-h110"
+    },
+    "col_3": {
+      "text": "RFA",
+      "links": [
+        {
+          "label": "RFA",
+          "url": "https://oopbuy.com/product/weidian/7347942592?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "WTG/PT",
+      "links": [
+        {
+          "label": "WTG",
+          "url": "https://oopbuy.com/product/weidian/7359778608?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "PT",
+          "url": "https://oopbuy.com/product/weidian/7385722667?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "35$"
+    },
+    "col_6": {
+      "text": "17$ / 13$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0002"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Union LA Bephies Beauty Supply Summer of '96",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LW",
+  "best_batch_links": [
+    {
+      "label": "LW",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328044528%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7328044528?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "64$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPil_yXb1xc2Y_s3eFeG7lmzML1n5OThXrX7WsRfqQx6az_aN-A_x1E3uMrTP7UwmGcenNWLlzNpH4-dHy-xnfvNv9olSy_qzVCgs61X53_uwsKXdwwqVEvYGGJe2CpZX0tAWslw8oSC3_=w143-h100",
+  "raw_cells": {
+    "col_0": {
+      "text": "196"
+    },
+    "col_1": {
+      "text": "Union LA Bephies Beauty Supply Summer of '96"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPil_yXb1xc2Y_s3eFeG7lmzML1n5OThXrX7WsRfqQx6az_aN-A_x1E3uMrTP7UwmGcenNWLlzNpH4-dHy-xnfvNv9olSy_qzVCgs61X53_uwsKXdwwqVEvYGGJe2CpZX0tAWslw8oSC3_=w143-h100"
+    },
+    "col_3": {
+      "text": "LW",
+      "links": [
+        {
+          "label": "LW",
+          "url": "https://oopbuy.com/product/2/7328044528?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "64$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0185"
+}

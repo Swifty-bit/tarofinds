@@ -1,0 +1,61 @@
+{
+  "name": "PradaShort SleeveShirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "1to1",
+  "best_batch_links": [
+    {
+      "label": "1to1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243466519%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7243466519?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "52$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/166660744?uid=1&isSubCate=false&referrercate=4357344"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTZ-6Xs_XIiJKVIbvZoVXf7r5Zm1jpyzOg6E2mu_9f0kRQkbkwOPVhRnpXXNfUdgVaIlZYQOZ2IOIf_IYl5zU8VDWIeSAD8OQWtIJ4Jo3nE1EETfi27sHcgpmsma-JgcixoBVjlRNQMxNw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "378"
+    },
+    "col_1": {
+      "text": "PradaShort SleeveShirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTZ-6Xs_XIiJKVIbvZoVXf7r5Zm1jpyzOg6E2mu_9f0kRQkbkwOPVhRnpXXNfUdgVaIlZYQOZ2IOIf_IYl5zU8VDWIeSAD8OQWtIJ4Jo3nE1EETfi27sHcgpmsma-JgcixoBVjlRNQMxNw=w143-h110"
+    },
+    "col_3": {
+      "text": "1to1",
+      "links": [
+        {
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/2/7243466519?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "52$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/166660744?uid=1&isSubCate=false&referrercate=4357344"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0865"
+}

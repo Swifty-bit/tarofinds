@@ -1,0 +1,61 @@
+{
+  "name": "Gallery DeptCap",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F721614548490%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/721614548490?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1999667521303695361?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZYzorhHzz6lqXiIr5vsNZr8gNFpdxRcZGgf7syYJGkXeXwn0HlpfW-3nqFsNeL3FAHa4MPRWyFxAumS3knfgL3_JcWQjH7tDu4KD8Je65HNggEnc7_9fIqZT-c-6z9YVcQA-gwvk6Ew=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "207"
+    },
+    "col_1": {
+      "text": "Gallery DeptCap"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZYzorhHzz6lqXiIr5vsNZr8gNFpdxRcZGgf7syYJGkXeXwn0HlpfW-3nqFsNeL3FAHa4MPRWyFxAumS3knfgL3_JcWQjH7tDu4KD8Je65HNggEnc7_9fIqZT-c-6z9YVcQA-gwvk6Ew=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/721614548490?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "3$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1999667521303695361?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0724"
+}

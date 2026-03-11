@@ -1,0 +1,61 @@
+{
+  "name": "YSLJacket with back embroidery",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
+    {
+      "label": "tophotfashion",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7271513718%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7271513718?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "92$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/174933891?uid=1&isSubCate=false&referrercate=4680044"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayb0ZZD7kTFQjsHXmhN_6TTu6B1xeYBjiL7pZb2O73zYZKeu-gT2I0XiHTLo4guLoCM8_ZuT3_tS4ICoH9rHCo8K4DRFN6ujqSsyQEsq5weDYlQsrF_PiEI0q85-ALX0wsQxehMVKLVj3MM=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "354"
+    },
+    "col_1": {
+      "text": "YSLJacket with back embroidery"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayb0ZZD7kTFQjsHXmhN_6TTu6B1xeYBjiL7pZb2O73zYZKeu-gT2I0XiHTLo4guLoCM8_ZuT3_tS4ICoH9rHCo8K4DRFN6ujqSsyQEsq5weDYlQsrF_PiEI0q85-ALX0wsQxehMVKLVj3MM=w143-h110"
+    },
+    "col_3": {
+      "text": "tophotfashion",
+      "links": [
+        {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/2/7271513718?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "92$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/174933891?uid=1&isSubCate=false&referrercate=4680044"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0849"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "6PM x True ReligionT-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342574736%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7342574736?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/171264932?uid=1&isSubCate=false&referrercate=4589391"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awb6eEe1PPmQkyF_2JaWPQyIE1S5XF-NDhBxgyYeZbDRzyiak4OxfSjI7jO0fgTCe9RCT7LegvBXkUqSczUF1Z8dtzNEBnQroVbHWsZcuhSPFnZ2OyEZv7OJSHO6kK8wJnncFgQi7h5pyKk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "551"
+    },
+    "col_1": {
+      "text": "6PM x True ReligionT-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awb6eEe1PPmQkyF_2JaWPQyIE1S5XF-NDhBxgyYeZbDRzyiak4OxfSjI7jO0fgTCe9RCT7LegvBXkUqSczUF1Z8dtzNEBnQroVbHWsZcuhSPFnZ2OyEZv7OJSHO6kK8wJnncFgQi7h5pyKk=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://oopbuy.com/product/2/7342574736?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/171264932?uid=1&isSubCate=false&referrercate=4589391"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1010"
+}

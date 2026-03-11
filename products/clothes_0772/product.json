@@ -1,0 +1,61 @@
+{
+  "name": "DD ShellQuilted Google Hooded Down Gilet",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982395841898%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/982395841898?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "67$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/199750804?uid=1&isSubCate=false&referrercate=4543871"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayt4jzclwI4jaBoRToLWiGnknB5m-v67KIlFzygjY5nL0sn41LpsY6g7gkvMRiO_MUy6n-BYRaY4i15mdAoNKIdfjuVuEpM5VN67Zk0q2lLY09YiDcJh-JmRip2ebB3X1xPwEZmL2c_UhYu=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "263"
+    },
+    "col_1": {
+      "text": "DD ShellQuilted Google Hooded Down Gilet"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayt4jzclwI4jaBoRToLWiGnknB5m-v67KIlFzygjY5nL0sn41LpsY6g7gkvMRiO_MUy6n-BYRaY4i15mdAoNKIdfjuVuEpM5VN67Zk0q2lLY09YiDcJh-JmRip2ebB3X1xPwEZmL2c_UhYu=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/982395841898?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "67$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/199750804?uid=1&isSubCate=false&referrercate=4543871"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0772"
+}

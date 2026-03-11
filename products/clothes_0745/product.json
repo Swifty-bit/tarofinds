@@ -1,0 +1,78 @@
+{
+  "name": "Essentials1977 Relaxed Sweatpants8 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "Yishan/FFOG",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F934977613770%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/934977613770?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680299095215%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/680299095215?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "yishan/FFOG",
+  "pics_links": [
+    {
+      "label": "yishan",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2010223384930111489?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1917746075098202113?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aza0sD9wmhzzIV0lipJW5tc9TSKMvLWeyPTfunHstWpEzmnQPQjrz7dxOaSWzAKCb5O1TVWSuYYGG5zLpe2PZikIP1e55qUJzojsol88EA5caSVNC2fVhnBWKay4X90gmKN8x3kSLcJ5Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "231"
+    },
+    "col_1": {
+      "text": "Essentials1977 Relaxed Sweatpants8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aza0sD9wmhzzIV0lipJW5tc9TSKMvLWeyPTfunHstWpEzmnQPQjrz7dxOaSWzAKCb5O1TVWSuYYGG5zLpe2PZikIP1e55qUJzojsol88EA5caSVNC2fVhnBWKay4X90gmKN8x3kSLcJ5Q=w143-h110"
+    },
+    "col_4": {
+      "text": "Yishan/FFOG",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/934977613770?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://oopbuy.com/product/1/680299095215?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "yishan/FFOG",
+      "links": [
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2010223384930111489?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1917746075098202113?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0745"
+}

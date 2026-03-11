@@ -1,0 +1,47 @@
+{
+  "name": "Cacao",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "VT",
+  "budget_batch_links": [
+    {
+      "label": "VT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtEgu0vrPIxZbZbE32URXC2dlHGUnhh3TRr9V3kAZ5QzVQ9OllaFiwKbdn5rbzscquuur9XDEEZ0ulAdj8X-c6lsDDrOWLFlOSPA3-YGEAxbSFVY6Rrk7-7Lymwv-QI8HNjwvQCvs6ejAv=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "75"
+    },
+    "col_1": {
+      "text": "Cacao"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtEgu0vrPIxZbZbE32URXC2dlHGUnhh3TRr9V3kAZ5QzVQ9OllaFiwKbdn5rbzscquuur9XDEEZ0ulAdj8X-c6lsDDrOWLFlOSPA3-YGEAxbSFVY6Rrk7-7Lymwv-QI8HNjwvQCvs6ejAv=w143-h110"
+    },
+    "col_4": {
+      "text": "VT",
+      "links": [
+        {
+          "label": "VT",
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0066"
+}

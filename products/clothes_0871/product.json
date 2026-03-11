@@ -1,0 +1,61 @@
+{
+  "name": "Prada Windbreaker",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F942506740520%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/942506740520?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "22$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2012040786030448642?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az0DKstxmgsWesGHArRKp-GjTqndzTHdoLNwg0Xzp4XyYQq9uAyj3us4_vDqW3scEiT59LiasHpz7wyQGKS1qAMuS0xiAWNL02eU5AYU_-i-rgMzVYpv36Uxd73MhID_w8OpSK6mp3-Iptq=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "384"
+    },
+    "col_1": {
+      "text": "Prada Windbreaker"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0DKstxmgsWesGHArRKp-GjTqndzTHdoLNwg0Xzp4XyYQq9uAyj3us4_vDqW3scEiT59LiasHpz7wyQGKS1qAMuS0xiAWNL02eU5AYU_-i-rgMzVYpv36Uxd73MhID_w8OpSK6mp3-Iptq=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/942506740520?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2012040786030448642?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0871"
+}

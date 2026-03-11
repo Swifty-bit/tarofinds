@@ -1,0 +1,47 @@
+{
+  "name": "Gucci Tennis Treck Low-Top",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/719326771083?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "16$",
+  "pics_text": "16$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyWmAAgTkOFGTrs7ldUHjEvAmKrZnKmusLyxV0iZIBWBqq_iZVfE8KEEuQjW_qUTg6MSfdHb2qPV6rhGeErahlcrOq4ZLMPbijMhVN_2-RDDGmT1KOE6tOatXPQHPM2uf7ol98TvNcvORbJ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "597"
+    },
+    "col_1": {
+      "text": "Gucci Tennis Treck Low-Top"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWmAAgTkOFGTrs7ldUHjEvAmKrZnKmusLyxV0iZIBWBqq_iZVfE8KEEuQjW_qUTg6MSfdHb2qPV6rhGeErahlcrOq4ZLMPbijMhVN_2-RDDGmT1KOE6tOatXPQHPM2uf7ol98TvNcvORbJ=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/719326771083?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "16$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0547"
+}

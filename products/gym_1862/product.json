@@ -1,0 +1,87 @@
+{
+  "name": "GYMSHARKOnyx 5.0 T-Shirt10 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "gymshark70",
+  "best_batch_links": [
+    {
+      "label": "gymshark70",
+      "url": "https://oopbuy.com/product/1/977947525464?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/927820001124?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "24$",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014553282855391234?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2013105438315335681?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwX9zvkvfG-J-6_EbR4NRQjDHx35mgaQw4fKbWw5VLFtJHP0qEKQNaLMPoqNP4taKGCtr25rElAVrwSG9FM-1xqkEOBC5EYUu4-vIkaEelbA8_4ZLZou5gITciiC_8Oies6HvgHYabEvA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "9"
+    },
+    "col_1": {
+      "text": "GYMSHARKOnyx 5.0 T-Shirt10 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwX9zvkvfG-J-6_EbR4NRQjDHx35mgaQw4fKbWw5VLFtJHP0qEKQNaLMPoqNP4taKGCtr25rElAVrwSG9FM-1xqkEOBC5EYUu4-vIkaEelbA8_4ZLZou5gITciiC_8Oies6HvgHYabEvA=w143-h110"
+    },
+    "col_3": {
+      "text": "gymshark70",
+      "links": [
+        {
+          "label": "gymshark70",
+          "url": "https://oopbuy.com/product/1/977947525464?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/927820001124?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "24$"
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014553282855391234?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2013105438315335681?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1862"
+}

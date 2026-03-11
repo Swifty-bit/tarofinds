@@ -1,0 +1,79 @@
+{
+  "name": "Eric EmanuelPaisley Shorts6 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Angelking",
+  "best_batch_links": [
+    {
+      "label": "Angelking",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792691452297%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "UnionKingdom",
+  "budget_batch_links": [
+    {
+      "label": "UnionKingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "23$",
+  "budget_price": "15$",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://angelking47.x.yupoo.com/albums/138210041?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxN-UHYn_mc2zcoq5qBwM6WiAlSXmJdonUaeOb-dMx20BxVjav9ym7Ei-CHGUaqv9i-7G7yXrjH5x_iaqlHDNkSB6VvVxKrl0Zv3xH4o_bOs2ygmVM6P_bNqp1lB4RaEiIQpKbRCZdt7R3g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "967"
+    },
+    "col_1": {
+      "text": "Eric EmanuelPaisley Shorts6 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxN-UHYn_mc2zcoq5qBwM6WiAlSXmJdonUaeOb-dMx20BxVjav9ym7Ei-CHGUaqv9i-7G7yXrjH5x_iaqlHDNkSB6VvVxKrl0Zv3xH4o_bOs2ygmVM6P_bNqp1lB4RaEiIQpKbRCZdt7R3g=w143-h110"
+    },
+    "col_3": {
+      "text": "Angelking",
+      "links": [
+        {
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "UnionKingdom",
+      "links": [
+        {
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "23$"
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://angelking47.x.yupoo.com/albums/138210041?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1366"
+}

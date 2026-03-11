@@ -1,0 +1,87 @@
+{
+  "name": "Nike x StussyCrewneck",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7597034586%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7597034586?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F4525408735%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/4525408735?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "21$",
+  "budget_price": "16$",
+  "pics_text": "NEWDP/budget",
+  "pics_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://newdp.x.yupoo.com/albums/177083369?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923906771351552002?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUvhz7VoAHs7f29J7zcuBTUE7bn1IXuH3LMJHwLgqUVMBaPccfLtHjOcc_Mi2o2gYts9eWMkA1PZey58MOBPZg_5ngwFsvtLdfKEBWvsZy4B27OaLfTv59JjEiiwK-nquC0ZvYl8kh-lFu=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "45"
+    },
+    "col_1": {
+      "text": "Nike x StussyCrewneck"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUvhz7VoAHs7f29J7zcuBTUE7bn1IXuH3LMJHwLgqUVMBaPccfLtHjOcc_Mi2o2gYts9eWMkA1PZey58MOBPZg_5ngwFsvtLdfKEBWvsZy4B27OaLfTv59JjEiiwK-nquC0ZvYl8kh-lFu=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7597034586?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/4525408735?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    },
+    "col_6": {
+      "text": "16$"
+    },
+    "col_7": {
+      "text": "NEWDP/budget",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://newdp.x.yupoo.com/albums/177083369?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923906771351552002?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0578"
+}

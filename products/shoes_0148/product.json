@@ -1,0 +1,56 @@
+{
+  "name": "Air Jordan 1 Mid",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "DT/DT",
+  "best_batch_links": [
+    {
+      "label": "DT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7612408894%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7612408894?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "DT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6377947768%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6377947768?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "34$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxmqpyNowBncJn3oD7sC9DAp6cocxlRL9sJgw_StTtm-fJdg82cdRno9UgFyDuziYTJCG6RNds467yvZnG_nDTvjfLSRRO9tKk9_WlK890mFdFkdvOWL2k3OJvJhtbM1bt3cne-POmBejvc=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "159"
+    },
+    "col_1": {
+      "text": "Air Jordan 1 Mid"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxmqpyNowBncJn3oD7sC9DAp6cocxlRL9sJgw_StTtm-fJdg82cdRno9UgFyDuziYTJCG6RNds467yvZnG_nDTvjfLSRRO9tKk9_WlK890mFdFkdvOWL2k3OJvJhtbM1bt3cne-POmBejvc=w143-h110"
+    },
+    "col_3": {
+      "text": "DT/DT",
+      "links": [
+        {
+          "label": "DT",
+          "url": "https://oopbuy.com/product/weidian/7612408894?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "DT",
+          "url": "https://oopbuy.com/product/weidian/6377947768?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "34$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0148"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Corteiz Alcatraz Mask7 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653842951%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653842951?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F774201732366%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/774201732366?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "6$",
+  "budget_price": "4$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/129364954?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1929342518058102786?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2x0oTO5RV_MoVMtfbr33y-FcINjIlbFzYFW973vcfx3aXgdSgV5oOkdwF3i2puPfMqFpiSJTbP4xjnyqfKOglML8v33c7BvfSJJICgJ33I0IW-d23FeCVMuEzJfxnLXYmRv5LUTEjNdoH=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "141"
+    },
+    "col_1": {
+      "text": "Corteiz Alcatraz Mask7 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2x0oTO5RV_MoVMtfbr33y-FcINjIlbFzYFW973vcfx3aXgdSgV5oOkdwF3i2puPfMqFpiSJTbP4xjnyqfKOglML8v33c7BvfSJJICgJ33I0IW-d23FeCVMuEzJfxnLXYmRv5LUTEjNdoH=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653842951?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://www.oopbuy.com/product/1/774201732366?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "6$"
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/129364954?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1929342518058102786?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0660"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Bottega VenetaOrbit",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "ZZZTOPXX",
+  "best_batch_links": [
+    {
+      "label": "ZZZTOPXX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7235964889%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7235964889?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "85$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxgJYQRRDdjJVNn4opqmG5jTrNgJJPb8hu3oVnQtoMA4-bE74dTOvw1JxxFiTULwySy4nMXfkZ2ICERUqTKTOJ01Hk-tMB2ALk1qySOVEJTvWDY9kt7tOiGjD6kUg_XHGsGpHymZyjeUC0h=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "600"
+    },
+    "col_1": {
+      "text": "Bottega VenetaOrbit"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxgJYQRRDdjJVNn4opqmG5jTrNgJJPb8hu3oVnQtoMA4-bE74dTOvw1JxxFiTULwySy4nMXfkZ2ICERUqTKTOJ01Hk-tMB2ALk1qySOVEJTvWDY9kt7tOiGjD6kUg_XHGsGpHymZyjeUC0h=w143-h110"
+    },
+    "col_3": {
+      "text": "ZZZTOPXX",
+      "links": [
+        {
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/weidian/7235964889?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "85$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0505"
+}

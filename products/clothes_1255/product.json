@@ -1,0 +1,61 @@
+{
+  "name": "Balenciaga 25SS x Under Armour LoopSport T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "SatanMade",
+  "best_batch_links": [
+    {
+      "label": "SatanMade",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7450600960%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7450600960?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "12$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1957970949413888001?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awl6Fd5Y-jaGsE9XfBFSQZRGZhvpPAGb7gTtHbFAc2rvU6z_yUcRlqzV61qS4eIGmv0CXO2eY9oclBzCiJnPNeu9M8BkrzBMPx7rmVu1d1osJXssqYpen5OTyKFfP20kiD5epcKtslOxGsP=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "844"
+    },
+    "col_1": {
+      "text": "Balenciaga 25SS x Under Armour LoopSport T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awl6Fd5Y-jaGsE9XfBFSQZRGZhvpPAGb7gTtHbFAc2rvU6z_yUcRlqzV61qS4eIGmv0CXO2eY9oclBzCiJnPNeu9M8BkrzBMPx7rmVu1d1osJXssqYpen5OTyKFfP20kiD5epcKtslOxGsP=w143-h110"
+    },
+    "col_3": {
+      "text": "SatanMade",
+      "links": [
+        {
+          "label": "SatanMade",
+          "url": "https://oopbuy.com/product/weidian/7450600960?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "12$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1957970949413888001?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1255"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Yeezy Calabasas T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Bound2",
+  "best_batch_links": [
+    {
+      "label": "Bound2",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F811984283203%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/811984283203?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1895944645190955009?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax32kqgW93mIrJD_fxQoUf_JPOIf1Yv9gW3L-4J3CVGZ7zTz8xbanh1iCeb2fVfkX3oZOUd-6Oum2zjgbKDG7C6fZdEB1VSAejoEob9kfRBDgbZ-Z_hciI8jDHqmxnEK732uyNVhneIK6uE=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "116"
+    },
+    "col_1": {
+      "text": "Yeezy Calabasas T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax32kqgW93mIrJD_fxQoUf_JPOIf1Yv9gW3L-4J3CVGZ7zTz8xbanh1iCeb2fVfkX3oZOUd-6Oum2zjgbKDG7C6fZdEB1VSAejoEob9kfRBDgbZ-Z_hciI8jDHqmxnEK732uyNVhneIK6uE=w143-h110"
+    },
+    "col_3": {
+      "text": "Bound2",
+      "links": [
+        {
+          "label": "Bound2",
+          "url": "https://www.oopbuy.com/product/1/811984283203?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1895944645190955009?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0643"
+}

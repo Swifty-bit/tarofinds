@@ -1,0 +1,138 @@
+{
+  "name": "Essentials8th Season22SSHoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "GmanClub/Singor",
+  "best_batch_links": [
+    {
+      "label": "GmanClub",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F685437690874%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/685437690874?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F742109014625%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/742109014625?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Yishan/FFOG/budget",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F858983887218%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/858983887218?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F696743445201%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/696743445201?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F803133867151%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/803133867151?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "43$ / 33$",
+  "budget_price": "20$ / 19$ / 14$",
+  "pics_text": "gmanclub/singor/yishan/FFOG/budget",
+  "pics_links": [
+    {
+      "label": "gmanclub",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1950723971296088066?action=discord&cid=1942512167859859457"
+    },
+    {
+      "label": "singor",
+      "url": "https://www.uufinds.com/exploreMore/1853614688195641345"
+    },
+    {
+      "label": "yishan",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2010201939592171522?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1901801290939338753?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961351613063991300?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxPA_rT-xBmgwT85y815_Q_DfVuuSMqTBVMLA3D2v9jerp1y2NiSiDuohX6TGfq5rVhEqL2b4Il1PuZEtg8xwDi87-QqRfnEl2INU1ewDXrg8Ppny-j7ZbYqYIZzx9QhvoATt7wOW9BEg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "215"
+    },
+    "col_1": {
+      "text": "Essentials8th Season22SSHoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxPA_rT-xBmgwT85y815_Q_DfVuuSMqTBVMLA3D2v9jerp1y2NiSiDuohX6TGfq5rVhEqL2b4Il1PuZEtg8xwDi87-QqRfnEl2INU1ewDXrg8Ppny-j7ZbYqYIZzx9QhvoATt7wOW9BEg=w143-h110"
+    },
+    "col_3": {
+      "text": "GmanClub/Singor",
+      "links": [
+        {
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/685437690874?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/742109014625?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan/FFOG/budget",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/858983887218?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://oopbuy.com/product/1/696743445201?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/803133867151?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "43$ / 33$"
+    },
+    "col_6": {
+      "text": "20$ / 19$ / 14$"
+    },
+    "col_7": {
+      "text": "gmanclub/singor/yishan/FFOG/budget",
+      "links": [
+        {
+          "label": "gmanclub",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1950723971296088066?action=discord&cid=1942512167859859457"
+        },
+        {
+          "label": "singor",
+          "url": "https://www.uufinds.com/exploreMore/1853614688195641345"
+        },
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2010201939592171522?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1901801290939338753?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961351613063991300?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0730"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "KsubiSweatpants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Bigd",
+  "best_batch_links": [
+    {
+      "label": "Bigd",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F738251831542%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/738251831542?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/taobao/738251831542"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZrV18cr6HYPEkHWET4yGlyXLW7_gx3H5ueZt0pVLcJY8rY7FY7GMDXUAoG1TNdPLOvPha0h2DGZfxu58yficyXWi57wNyO1GYfy0SEcdUI3-ngZnpqD2Kzt4SNacZGDrXv-ru6DC04j2b=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "819"
+    },
+    "col_1": {
+      "text": "KsubiSweatpants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZrV18cr6HYPEkHWET4yGlyXLW7_gx3H5ueZt0pVLcJY8rY7FY7GMDXUAoG1TNdPLOvPha0h2DGZfxu58yficyXWi57wNyO1GYfy0SEcdUI3-ngZnpqD2Kzt4SNacZGDrXv-ru6DC04j2b=w143-h110"
+    },
+    "col_3": {
+      "text": "Bigd",
+      "links": [
+        {
+          "label": "Bigd",
+          "url": "https://www.oopbuy.com/product/1/738251831542?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/taobao/738251831542"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1238"
+}

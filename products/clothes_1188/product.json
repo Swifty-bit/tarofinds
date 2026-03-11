@@ -1,0 +1,64 @@
+{
+  "name": "Supreme x UMBROItaly TracksuitBlack/Navy/Grey",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7589599683%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7589599683?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "74$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://noghost.x.yupoo.com/albums/145930777?uid=1"
+    }
+  ],
+  "notes": "set 74$ - jacket 40$ - pants 37$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayji8St4_lUBnLILInm9hVVSmiHyiJ2haSyIiQq5Kv6oHc7oZlijjz0wU33Vp07Mss1uAvHZGy2dOlv7Xir9ZHxKUVrRS3EzHFBwGttV3Gw3-z0A2j4FVhgYOPXOM78IVfRgHq9E9S1AJ6Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "757"
+    },
+    "col_1": {
+      "text": "Supreme x UMBROItaly TracksuitBlack/Navy/Grey"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayji8St4_lUBnLILInm9hVVSmiHyiJ2haSyIiQq5Kv6oHc7oZlijjz0wU33Vp07Mss1uAvHZGy2dOlv7Xir9ZHxKUVrRS3EzHFBwGttV3Gw3-z0A2j4FVhgYOPXOM78IVfRgHq9E9S1AJ6Q=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7589599683?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "74$(SET)"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://noghost.x.yupoo.com/albums/145930777?uid=1"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "set 74$ - jacket 40$ - pants 37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1188"
+}

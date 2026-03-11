@@ -1,0 +1,61 @@
+{
+  "name": "Rick OwensShorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "PinkElephant",
+  "best_batch_links": [
+    {
+      "label": "PinkElephant",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6463487172%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6463487172?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "42$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/5596707916"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxYbV7hiXacpenhyujG2rrRcjSAfUFb8nO5OVHYIex0Bb3ZyJd9iEpEb0qKHYznQ4ycAmZHW3PN_fHjCVBTWxA9bqH4YgxjvZfoVPH5QQ6RbQRNYv4TRA96bJjlOcnthLwn4Rpb9ZwvPAW4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1128"
+    },
+    "col_1": {
+      "text": "Rick OwensShorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxYbV7hiXacpenhyujG2rrRcjSAfUFb8nO5OVHYIex0Bb3ZyJd9iEpEb0qKHYznQ4ycAmZHW3PN_fHjCVBTWxA9bqH4YgxjvZfoVPH5QQ6RbQRNYv4TRA96bJjlOcnthLwn4Rpb9ZwvPAW4=w143-h110"
+    },
+    "col_3": {
+      "text": "PinkElephant",
+      "links": [
+        {
+          "label": "PinkElephant",
+          "url": "https://oopbuy.com/product/2/6463487172?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "42$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/5596707916"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1499"
+}

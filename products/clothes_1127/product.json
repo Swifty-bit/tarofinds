@@ -1,0 +1,61 @@
+{
+  "name": "KENZOHoodie12 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7532778172%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7532778172?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "30$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961958285264904194?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFM8OIiRq0VgPdBnbt5ZmEodIhPIV_bUdJM8raBH6ujzqsI8V2G9Iiip5PVq1ySEhhLNyWZovKVd346bnvQKYBDcm8ZP2NXzAbAWTlIGG1BAX2aIf-Dbzfi62ZD_oA60NJqPTSOsfvpQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "686"
+    },
+    "col_1": {
+      "text": "KENZOHoodie12 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFM8OIiRq0VgPdBnbt5ZmEodIhPIV_bUdJM8raBH6ujzqsI8V2G9Iiip5PVq1ySEhhLNyWZovKVd346bnvQKYBDcm8ZP2NXzAbAWTlIGG1BAX2aIf-Dbzfi62ZD_oA60NJqPTSOsfvpQ=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7532778172?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961958285264904194?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1127"
+}

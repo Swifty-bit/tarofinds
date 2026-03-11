@@ -1,0 +1,61 @@
+{
+  "name": "Travis ScottHoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F651454028707%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/651454028707?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "10$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1909480978899349506?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJCqbYwWyC4y5Pty6bJt53wBKD_AhL-BHxKFHqaamFp28ud-JZ1i616spsbJPpB7pu4knbvWteCxsAiYyjOu4Ik1-MYDhnumAJFhvSI08an2K4Aqx8SNQ3zeQJxgMprCmnqASPfFmG74_e=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "129"
+    },
+    "col_1": {
+      "text": "Travis ScottHoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJCqbYwWyC4y5Pty6bJt53wBKD_AhL-BHxKFHqaamFp28ud-JZ1i616spsbJPpB7pu4knbvWteCxsAiYyjOu4Ik1-MYDhnumAJFhvSI08an2K4Aqx8SNQ3zeQJxgMprCmnqASPfFmG74_e=w143-h110"
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/651454028707?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "10$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1909480978899349506?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0654"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Akimbo Hoodie CHARCOAL",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F989727231614%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/989727231614?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "31$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://firerep.x.yupoo.com/albums/209730556?uid=1&isSubCate=false&referrercate=4666904"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzvIDocifMPUW8QYuAiBZTyjBg0LBsSXSYB2nc8tPc0R50nBWanClMqcJUjK6uK7GWl0hFJKFTMyLH1okvICW1pcLKxDL9uxc-HYBMK10IgDvXFTG5KBbhzPbQiNQxdclvH2W-chXWnfSK2=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "411"
+    },
+    "col_1": {
+      "text": "Akimbo Hoodie CHARCOAL"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzvIDocifMPUW8QYuAiBZTyjBg0LBsSXSYB2nc8tPc0R50nBWanClMqcJUjK6uK7GWl0hFJKFTMyLH1okvICW1pcLKxDL9uxc-HYBMK10IgDvXFTG5KBbhzPbQiNQxdclvH2W-chXWnfSK2=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/989727231614?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "31$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://firerep.x.yupoo.com/albums/209730556?uid=1&isSubCate=false&referrercate=4666904"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0892"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Black Cement",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7297925857%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "63$",
+  "budget_price": "29$",
+  "pics_text": "29$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axs4lB-s7E02V8mIWDAdhadJDBV9vpc27Mdx5hC457zhXzGXXuSitaER3DRC58Hu0PbcTLcu7MOJJrGjXFL-fk9_PWo1ZGhouAmwEJIXGqQDIkp086WuXZ2ADfnqdjKvDMLKippY_aTK_FL=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "199"
+    },
+    "col_1": {
+      "text": "Black Cement"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axs4lB-s7E02V8mIWDAdhadJDBV9vpc27Mdx5hC457zhXzGXXuSitaER3DRC58Hu0PbcTLcu7MOJJrGjXFL-fk9_PWo1ZGhouAmwEJIXGqQDIkp086WuXZ2ADfnqdjKvDMLKippY_aTK_FL=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "63$"
+    },
+    "col_6": {
+      "text": "29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0186"
+}

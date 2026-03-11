@@ -1,0 +1,47 @@
+{
+  "name": "Kobe 6 Darknight7 colours",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "KB",
+  "best_batch_links": [
+    {
+      "label": "KB",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6532155337%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6532155337?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "48$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNIYAkz8aPrxnz_6h_kuBw3mMRMXhRlFJ7-bOt8yLv_--LcLAQ7rOxOPxrYCL08mxn2aoB6XheTCUd19PoCCyYOegZx4HO104ROm9iwVU_ztlAWP4IBqDFTmJtw64zcmm9Knjn3zuIVvie=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "62"
+    },
+    "col_1": {
+      "text": "Kobe 6 Darknight7 colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNIYAkz8aPrxnz_6h_kuBw3mMRMXhRlFJ7-bOt8yLv_--LcLAQ7rOxOPxrYCL08mxn2aoB6XheTCUd19PoCCyYOegZx4HO104ROm9iwVU_ztlAWP4IBqDFTmJtw64zcmm9Knjn3zuIVvie=w143-h110"
+    },
+    "col_3": {
+      "text": "KB",
+      "links": [
+        {
+          "label": "KB",
+          "url": "https://oopbuy.com/product/2/6532155337?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "48$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0055"
+}

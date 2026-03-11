@@ -1,0 +1,65 @@
+{
+  "name": "Palomino",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OG",
+  "best_batch_links": [
+    {
+      "label": "OG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "62$",
+  "budget_price": "29$",
+  "pics_text": "29$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxYVKjzauz1s5FPaPiSKLRnzJMEjOLb07Mn-55SzuVC-6dYRKR-LX7OolXJiBSozoSvu7lwJNqPhfUpCcYpqXH4_jMu_YtgfLDuuyifzS8HrMhcoLi8rDWpf0tkzE3dFvJPkitF12tIekAm=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "206"
+    },
+    "col_1": {
+      "text": "Palomino"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxYVKjzauz1s5FPaPiSKLRnzJMEjOLb07Mn-55SzuVC-6dYRKR-LX7OolXJiBSozoSvu7lwJNqPhfUpCcYpqXH4_jMu_YtgfLDuuyifzS8HrMhcoLi8rDWpf0tkzE3dFvJPkitF12tIekAm=w143-h110"
+    },
+    "col_3": {
+      "text": "OG",
+      "links": [
+        {
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "62$"
+    },
+    "col_6": {
+      "text": "29$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0193"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "LouboutinsHeels",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "RG-NEON",
+  "best_batch_links": [
+    {
+      "label": "RG-NEON",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7234961385%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7234961385?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "98$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzMtITXtqkjgMK4GJvo0CoiOtS7sMYDHOEx4Ah30J1n8VOb91USvwn94C2jGuL6YS9uEGf8LMr3C6pU4PArCfK8QCFEPIvZRlcdyd-VPe5QLyndTYe1HutZZhhnqdaTGZwRpEDyDrZUrXsI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "443"
+    },
+    "col_1": {
+      "text": "LouboutinsHeels"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzMtITXtqkjgMK4GJvo0CoiOtS7sMYDHOEx4Ah30J1n8VOb91USvwn94C2jGuL6YS9uEGf8LMr3C6pU4PArCfK8QCFEPIvZRlcdyd-VPe5QLyndTYe1HutZZhhnqdaTGZwRpEDyDrZUrXsI=w143-h110"
+    },
+    "col_3": {
+      "text": "RG-NEON",
+      "links": [
+        {
+          "label": "RG-NEON",
+          "url": "https://www.oopbuy.com/product/weidian/7234961385?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "98$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0396"
+}

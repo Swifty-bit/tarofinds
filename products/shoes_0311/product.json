@@ -1,0 +1,47 @@
+{
+  "name": "Playoffs (2023)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "DG",
+  "best_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7517028132%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7517028132?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "67$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEEjpYLsdy2-Y_msaMRF-BqdI5R7q54K7BRowmkHPcTNoFNx8L9fHhUE3v_usqWg8fikCECLgzGOh5PE1QqxpXvGiVT0I9ovZoNlw_9B7ySa4-OfNSK0iTbQZXLRsm4kzt-lOxJ6j-Pw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "332"
+    },
+    "col_1": {
+      "text": "Playoffs (2023)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEEjpYLsdy2-Y_msaMRF-BqdI5R7q54K7BRowmkHPcTNoFNx8L9fHhUE3v_usqWg8fikCECLgzGOh5PE1QqxpXvGiVT0I9ovZoNlw_9B7ySa4-OfNSK0iTbQZXLRsm4kzt-lOxJ6j-Pw=w143-h110"
+    },
+    "col_3": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7517028132?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "67$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0311"
+}

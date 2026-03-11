@@ -1,0 +1,65 @@
+{
+  "name": "Dior B30xStone Island",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "ZZZTOPXX",
+  "best_batch_links": [
+    {
+      "label": "ZZZTOPXX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7318762459%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7318762459?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "GD",
+  "budget_batch_links": [
+    {
+      "label": "GD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7428565352%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "100$",
+  "budget_price": "52$",
+  "pics_text": "52$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzvCQ12ahT-6C-YM6lrrXgBQz3EOg8wLydSBiCT-x7WCWJdpt7meILsvoIVIg0ycf76Opka2BAIoKWlRaFxH-jfcmR08O_1rTQndR49ObLhLQ7wR5zJLR7d2TDmRDGNT2swg11z0CHJtuXp=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "472"
+    },
+    "col_1": {
+      "text": "Dior B30xStone Island"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzvCQ12ahT-6C-YM6lrrXgBQz3EOg8wLydSBiCT-x7WCWJdpt7meILsvoIVIg0ycf76Opka2BAIoKWlRaFxH-jfcmR08O_1rTQndR49ObLhLQ7wR5zJLR7d2TDmRDGNT2swg11z0CHJtuXp=w143-h110"
+    },
+    "col_3": {
+      "text": "ZZZTOPXX",
+      "links": [
+        {
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/weidian/7318762459?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "GD",
+      "links": [
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "100$"
+    },
+    "col_6": {
+      "text": "52$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0415"
+}

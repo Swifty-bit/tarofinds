@@ -1,0 +1,104 @@
+{
+  "name": "LV Sweater",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Thunder",
+  "best_batch_links": [
+    {
+      "label": "Thunder",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7261973256%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7261973256?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget/budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F856889415178%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/856889415178?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F6964366504%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/6964366504?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "48$",
+  "budget_price": "20$ / 13$",
+  "pics_text": "best/budget/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://thethunder.x.yupoo.com/albums/172629806?uid=1&isSubCate=false&referrercate=3972375"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1890929410338557954?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/WEIDIAN/6964366504"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxbdiSIHdGmKpT1Wqx6ZVa1i3XiIXtBI4Ilgc4EcLCsM3VlMEMk6GWRL5BtH6pM7r75AOZQ2R-Pv_DzlTSxPmxxooU-qlMUn-ao_CBXQJ7ln8WHiTNkzUDgWOPWzPBFOHjjSko_aku32WPk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "322"
+    },
+    "col_1": {
+      "text": "LV Sweater"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxbdiSIHdGmKpT1Wqx6ZVa1i3XiIXtBI4Ilgc4EcLCsM3VlMEMk6GWRL5BtH6pM7r75AOZQ2R-Pv_DzlTSxPmxxooU-qlMUn-ao_CBXQJ7ln8WHiTNkzUDgWOPWzPBFOHjjSko_aku32WPk=w143-h110"
+    },
+    "col_3": {
+      "text": "Thunder",
+      "links": [
+        {
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/weidian/7261973256?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget/budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/856889415178?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/6964366504?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "48$"
+    },
+    "col_6": {
+      "text": "20$ / 13$"
+    },
+    "col_7": {
+      "text": "best/budget/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://thethunder.x.yupoo.com/albums/172629806?uid=1&isSubCate=false&referrercate=3972375"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1890929410338557954?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/WEIDIAN/6964366504"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0825"
+}

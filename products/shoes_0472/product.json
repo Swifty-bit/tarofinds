@@ -1,0 +1,47 @@
+{
+  "name": "Cloudbust Thunder",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Jelly",
+  "best_batch_links": [
+    {
+      "label": "Jelly",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F765244956945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/765244956945?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "92$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDPMakkOS7dhlNopb8eIRYQUEeWcGU0a_-FElhLevCW8on7LUc8gJnKAUpl-DkGdfT39aoFp8q0Wddn42ExXNbXpGzE8cr1PFLMVTUjkvQYtq8RceI4CfHnehzAcEC6bEURlWjFcWJLhyg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "539"
+    },
+    "col_1": {
+      "text": "Cloudbust Thunder"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDPMakkOS7dhlNopb8eIRYQUEeWcGU0a_-FElhLevCW8on7LUc8gJnKAUpl-DkGdfT39aoFp8q0Wddn42ExXNbXpGzE8cr1PFLMVTUjkvQYtq8RceI4CfHnehzAcEC6bEURlWjFcWJLhyg=w143-h110"
+    },
+    "col_3": {
+      "text": "Jelly",
+      "links": [
+        {
+          "label": "Jelly",
+          "url": "https://oopbuy.com/product/1/765244956945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "92$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0472"
+}

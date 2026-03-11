@@ -1,0 +1,61 @@
+{
+  "name": "EssentialTravel Mini Bag",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F844023126654%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/844023126654?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "5$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1971761888594845698?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay_TSKLEOZkXIBRz14b-yf-FWjX80AHuNj-m_fxJ6MEjB4AvPkL2ro0xfYScTodi0PHpg15QdKpFVmxirx-PeLvxutV0E1UiL1WAOmI-Pf5c9Dh_U4emzfyYh45Tf6zRfKyG_wZ2PRoNu-b=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "50"
+    },
+    "col_1": {
+      "text": "EssentialTravel Mini Bag"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay_TSKLEOZkXIBRz14b-yf-FWjX80AHuNj-m_fxJ6MEjB4AvPkL2ro0xfYScTodi0PHpg15QdKpFVmxirx-PeLvxutV0E1UiL1WAOmI-Pf5c9Dh_U4emzfyYh45Tf6zRfKyG_wZ2PRoNu-b=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/844023126654?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "5$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1971761888594845698?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1544"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Louis VuittonBracelet",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.oopbuy.com/product/weidian/2726744811?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "54$",
+  "budget_price": "8$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1957609064906711041?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwkkB7GIEXO5l4pLgFjnMvK3eBuNB5aE2KPLmCTCb_tZVDHEe4aWJS4xU5L05DKLhKB8DA6e3BT0EmAgyh2OYTjNe73kzvz1Pr04Fp_txzFJdey2CIiDDyfMFw6fWvggTkygkepG89VKQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "20"
+    },
+    "col_1": {
+      "text": "Louis VuittonBracelet"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwkkB7GIEXO5l4pLgFjnMvK3eBuNB5aE2KPLmCTCb_tZVDHEe4aWJS4xU5L05DKLhKB8DA6e3BT0EmAgyh2OYTjNe73kzvz1Pr04Fp_txzFJdey2CIiDDyfMFw6fWvggTkygkepG89VKQ=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/2726744811?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "54$"
+    },
+    "col_6": {
+      "text": "8$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1957609064906711041?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1753"
+}

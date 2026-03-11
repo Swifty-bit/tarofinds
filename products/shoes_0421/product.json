@@ -1,0 +1,68 @@
+{
+  "name": "Track Runners with LED",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "OK/VG",
+  "best_batch_links": [
+    {
+      "label": "OK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6562735441%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6562735441?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "I8 LED",
+  "budget_batch_links": [
+    {
+      "label": "I8 LED",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7611453537%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7611453537?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "77$ / 71$",
+  "budget_price": "46$",
+  "pics_text": "46$",
+  "pics_links": [],
+  "notes": "Size down 0.5 EU size(tracks are bigger)",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AztgftMbVdCsUTZ79XUoxkwSshwFxN-rory131BudbCCltZhrfhKv8MPgQF4nWM3jTi88_6KZjsOOTY0g1GahNPfLyzKcoZUeWyV3EbjPUjVdgFhYsE2RiVUJO2gyBJJwWN1fyMPhBbZIGU=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "480"
+    },
+    "col_1": {
+      "text": "Track Runners with LED"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AztgftMbVdCsUTZ79XUoxkwSshwFxN-rory131BudbCCltZhrfhKv8MPgQF4nWM3jTi88_6KZjsOOTY0g1GahNPfLyzKcoZUeWyV3EbjPUjVdgFhYsE2RiVUJO2gyBJJwWN1fyMPhBbZIGU=w143-h110"
+    },
+    "col_3": {
+      "text": "OK/VG",
+      "links": [
+        {
+          "label": "OK",
+          "url": "https://oopbuy.com/product/2/6562735441?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "I8 LED",
+      "links": [
+        {
+          "label": "I8 LED",
+          "url": "https://oopbuy.com/product/weidian/7611453537?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "77$ / 71$"
+    },
+    "col_6": {
+      "text": "46$"
+    },
+    "col_7": {
+      "text": "Size down 0.5 EU size(tracks are bigger)"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0421"
+}

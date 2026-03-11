@@ -1,0 +1,83 @@
+{
+  "name": "Maison MargielaGATSWhite/Grey",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "H/Version1",
+  "best_batch_links": [
+    {
+      "label": "H",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563973209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Version1",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4689600987%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "FS/budget",
+  "budget_batch_links": [
+    {
+      "label": "FS",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7459302369%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7459302369?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F863569549781%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/863569549781?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "56$ / 65$",
+  "budget_price": "47$ / 20$",
+  "pics_text": "47$ / 20$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtTOtGIEGJzwFIMdNXpaUnWpSC_DMyJyqr4GbtUQpKYE1PhZWRzdlhwilYugellMkarM2F2zI2iAN1DzP1Utgd13ViM_JzwMuEwOjky5-OuDb2Q_Y7TgDMMcAYXs2yjIu5_wgm4twJ-1pA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "557"
+    },
+    "col_1": {
+      "text": "Maison MargielaGATSWhite/Grey"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtTOtGIEGJzwFIMdNXpaUnWpSC_DMyJyqr4GbtUQpKYE1PhZWRzdlhwilYugellMkarM2F2zI2iAN1DzP1Utgd13ViM_JzwMuEwOjky5-OuDb2Q_Y7TgDMMcAYXs2yjIu5_wgm4twJ-1pA=w143-h110"
+    },
+    "col_3": {
+      "text": "H/Version1",
+      "links": [
+        {
+          "label": "H",
+          "url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Version1",
+          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FS/budget",
+      "links": [
+        {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7459302369?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/863569549781?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "56$ / 65$"
+    },
+    "col_6": {
+      "text": "47$ / 20$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0482"
+}

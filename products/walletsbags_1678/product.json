@@ -1,0 +1,61 @@
+{
+  "name": "GucciSupreme Backpack2 Styles",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/765896709658?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "22$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2003290961323577346?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwLV6o8VaP5LiI4P7DEiMMMfbYyiB0vb_6gYq_UDlkt0p_hrSyRnZ5HpIQsCjwSkdI_O_KxFQf2M3xblxbL44V3TL0_ccyB_1bJX_Lr-qHHoONMyLZXIUSxBx6l2e6uqxW3AOMq8lNRbvu8=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "41"
+    },
+    "col_1": {
+      "text": "GucciSupreme Backpack2 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwLV6o8VaP5LiI4P7DEiMMMfbYyiB0vb_6gYq_UDlkt0p_hrSyRnZ5HpIQsCjwSkdI_O_KxFQf2M3xblxbL44V3TL0_ccyB_1bJX_Lr-qHHoONMyLZXIUSxBx6l2e6uqxW3AOMq8lNRbvu8=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/765896709658?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2003290961323577346?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1678"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Ralph LaurenSwim Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F711622556368%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/711622556368?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "7$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1890929406513352706?action=discord&cid=1839578945794654209"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSEoTxl4y5A2NppkHKEnWGHvr9n4oF4OJr8z9G7-rrveQe_Q60cZdbM84ewgOnKqpUwVBvO9pUtNS9nyolymJ0920GND9YQeE2CR1m34eWn9NVzg4tggfOm2k-zAJBwyha1O85S7A8dvbD=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "94"
+    },
+    "col_1": {
+      "text": "Ralph LaurenSwim Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSEoTxl4y5A2NppkHKEnWGHvr9n4oF4OJr8z9G7-rrveQe_Q60cZdbM84ewgOnKqpUwVBvO9pUtNS9nyolymJ0920GND9YQeE2CR1m34eWn9NVzg4tggfOm2k-zAJBwyha1O85S7A8dvbD=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/711622556368?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1890929406513352706?action=discord&cid=1839578945794654209"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0623"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "TNF T-ShirtMany Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F904286366070%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/904286366070?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "5$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924269105349705729?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw2NeJFzy3aN5JgHzHSJ6OXrTd5iN-EknKkdUQXT7UIW6nTpySQBGHryIm7_6MExoIOYw2sgF65tPhWkroJgDtVXEFipKUTpEag_nB_ODX_c4ON_ckj41jyVnKURnvZpKySBvdgvkRp3Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1069"
+    },
+    "col_1": {
+      "text": "TNF T-ShirtMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw2NeJFzy3aN5JgHzHSJ6OXrTd5iN-EknKkdUQXT7UIW6nTpySQBGHryIm7_6MExoIOYw2sgF65tPhWkroJgDtVXEFipKUTpEag_nB_ODX_c4ON_ckj41jyVnKURnvZpKySBvdgvkRp3Q=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/904286366070?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "5$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924269105349705729?action=discord&cid=1840597081113280514"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0g-1on229PKS5_uwxHCCixrMdsn1h_lTJ697eQ-1usNJC5g1Oky0pbMSErQJNte2Hj27IX7HKXivLtxbhFNiZffgpb2_1TfwLqQ6KfdTCTjWgbFDo3XBI76me77D7Vm18V10gp2rhcgcT=w456-h110"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1450"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "MM6 Hoodie35 Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F737744067396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/737744067396?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "18$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://plug4.me/item/737744067396?channel=ali_1688&platformName=oopbuy&discordChannelId=1260131355573092412"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRYaCDOvTJwtOIk4nd4hugxpszW1kf-fSaJLMCTljb2By4jrANYD3GGAx_YdNWbnvKnwaiby4bso6caGdPR_mywwxPJrI8eVtvQTBajgl_gEeSVHaK4Wia0zCqCPYuKQTRj84Bo2CzPIcu=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "730"
+    },
+    "col_1": {
+      "text": "MM6 Hoodie35 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRYaCDOvTJwtOIk4nd4hugxpszW1kf-fSaJLMCTljb2By4jrANYD3GGAx_YdNWbnvKnwaiby4bso6caGdPR_mywwxPJrI8eVtvQTBajgl_gEeSVHaK4Wia0zCqCPYuKQTRj84Bo2CzPIcu=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/737744067396?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://plug4.me/item/737744067396?channel=ali_1688&platformName=oopbuy&discordChannelId=1260131355573092412"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1165"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "MertraJacket Black/RedWater Reactive",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "pengreps",
+  "best_batch_links": [
+    {
+      "label": "pengreps",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7652977082%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7652977082?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "55$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7652977082"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJsv9bx5IF5cakDR0KUAkA6SDgKx40wEBuocrex_O4f_l6KP09Re9qs26Tfd7uV9XZNaScx-yF-t89Osyw7KhQ1m3DyTk4XfI3BMa3AuD8rwu_K7_kzZE_ILTqegeo2guK12KNFYTM_Fvx=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "645"
+    },
+    "col_1": {
+      "text": "MertraJacket Black/RedWater Reactive"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJsv9bx5IF5cakDR0KUAkA6SDgKx40wEBuocrex_O4f_l6KP09Re9qs26Tfd7uV9XZNaScx-yF-t89Osyw7KhQ1m3DyTk4XfI3BMa3AuD8rwu_K7_kzZE_ILTqegeo2guK12KNFYTM_Fvx=w143-h110"
+    },
+    "col_3": {
+      "text": "pengreps",
+      "links": [
+        {
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7652977082?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "55$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7652977082"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1094"
+}

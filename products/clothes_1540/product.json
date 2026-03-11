@@ -1,0 +1,61 @@
+{
+  "name": "BurberryLOVE Cap",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "ogwave",
+  "best_batch_links": [
+    {
+      "label": "ogwave",
+      "url": "https://www.oopbuy.com/product/weidian/7432893629?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "19$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://ogwave.x.yupoo.com/albums/176446466?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzoXfKFQYcDvmrrreF7J9DpGwf-IdS1Q14L6ykBiQ7Pe5KZPuCD3KBTNdYabv5b0tdbFOt6XsoMiWBT7LBycQ-ARR3Lcq37CDnCRtuRV-5Ve7aYvNgWgcrlVf_s0CWWXoHRwia8vrPAEYiU=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1017"
+    },
+    "col_1": {
+      "text": "BurberryLOVE Cap"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzoXfKFQYcDvmrrreF7J9DpGwf-IdS1Q14L6ykBiQ7Pe5KZPuCD3KBTNdYabv5b0tdbFOt6XsoMiWBT7LBycQ-ARR3Lcq37CDnCRtuRV-5Ve7aYvNgWgcrlVf_s0CWWXoHRwia8vrPAEYiU=w143-h110"
+    },
+    "col_3": {
+      "text": "ogwave",
+      "links": [
+        {
+          "label": "ogwave",
+          "url": "https://www.oopbuy.com/product/weidian/7432893629?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "19$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://ogwave.x.yupoo.com/albums/176446466?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1540"
+}

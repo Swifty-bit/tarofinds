@@ -1,0 +1,87 @@
+{
+  "name": "Chrome Hearts Zipped Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
+    {
+      "label": "tophotfashion",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7504551047%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7504551047?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F854990248735%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/854990248735?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "46$",
+  "budget_price": "18$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://tophotfashion.x.yupoo.com/albums/170539183?uid=1&isSubCate=false&referrercate=4644883"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2023223841025773569?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-LKAN5klg3cxc9bevmDS3t6KRQJFlN9gzU7eZP3rlwo8CsyfATLOuXLBLvyHU2-K3xrBSzjMT08GDlQrSp3H8488NJDotDUeL24JjausDCSWDkq_vhOzc3IK5l_pZY4PiFj2PrfjCbpJg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "953"
+    },
+    "col_1": {
+      "text": "Chrome Hearts Zipped Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-LKAN5klg3cxc9bevmDS3t6KRQJFlN9gzU7eZP3rlwo8CsyfATLOuXLBLvyHU2-K3xrBSzjMT08GDlQrSp3H8488NJDotDUeL24JjausDCSWDkq_vhOzc3IK5l_pZY4PiFj2PrfjCbpJg=w143-h110"
+    },
+    "col_3": {
+      "text": "tophotfashion",
+      "links": [
+        {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/weidian/7504551047?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/854990248735?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "46$"
+    },
+    "col_6": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://tophotfashion.x.yupoo.com/albums/170539183?uid=1&isSubCate=false&referrercate=4644883"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2023223841025773569?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1354"
+}

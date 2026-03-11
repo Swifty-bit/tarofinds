@@ -1,0 +1,47 @@
+{
+  "name": "Runner Tatic",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F801256023189%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/801256023189?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "68$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXZWOCfV0UPhe5Lt6d3F342Vg05ZNZsCZm3iBR6DqERGdAhaKs3FRPyw76_biauPzr9OkftrtTS4gnEdGPlYq2LFz3v3EDWM9V2M7LB8dJOvlJoWDIqL26PRolEuiWqpnFT3aIeM5CBgDi=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "516"
+    },
+    "col_1": {
+      "text": "Runner Tatic"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXZWOCfV0UPhe5Lt6d3F342Vg05ZNZsCZm3iBR6DqERGdAhaKs3FRPyw76_biauPzr9OkftrtTS4gnEdGPlYq2LFz3v3EDWM9V2M7LB8dJOvlJoWDIqL26PRolEuiWqpnFT3aIeM5CBgDi=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/0/801256023189?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "68$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0455"
+}

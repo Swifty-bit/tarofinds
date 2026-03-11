@@ -1,0 +1,61 @@
+{
+  "name": "BurberryBucket Hat",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "ogwave",
+  "best_batch_links": [
+    {
+      "label": "ogwave",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7460457532%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7460457532?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "21$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://ogwave.x.yupoo.com/albums/175087254?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayt8khsoev1yOK7HvUwFOubDQXHYz_3WfLKMudW5EGdVNhfPUByKo3GVawAIKrdzBCQM5CsfODLNd6h9Wx22L0yaz68yZMbCZPNDTSrRp202XnV-_ykHmf1m9dtWNufRnceWrEADQ9WFw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1020"
+    },
+    "col_1": {
+      "text": "BurberryBucket Hat"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayt8khsoev1yOK7HvUwFOubDQXHYz_3WfLKMudW5EGdVNhfPUByKo3GVawAIKrdzBCQM5CsfODLNd6h9Wx22L0yaz68yZMbCZPNDTSrRp202XnV-_ykHmf1m9dtWNufRnceWrEADQ9WFw=w143-h110"
+    },
+    "col_3": {
+      "text": "ogwave",
+      "links": [
+        {
+          "label": "ogwave",
+          "url": "https://www.oopbuy.com/product/weidian/7460457532?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://ogwave.x.yupoo.com/albums/175087254?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1413"
+}

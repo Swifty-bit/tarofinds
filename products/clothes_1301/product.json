@@ -1,0 +1,61 @@
+{
+  "name": "LacosteHoodie5 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7309233923%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7309233923?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "21$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://newdp.x.yupoo.com/albums/177084710?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-xU6H4ByveuybtaI1LM9fXZn-tDRLgOhC2X1ejwLUDoweWhBQ7mK8Z7yATkrcklA-VX1gLIXvnxDdgiIq2okE7en36jNQwWTqsfjpFcsdJNJdJ1cvi9xPyDR35V-bBiti5jEd0cSKv-y4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "892"
+    },
+    "col_1": {
+      "text": "LacosteHoodie5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-xU6H4ByveuybtaI1LM9fXZn-tDRLgOhC2X1ejwLUDoweWhBQ7mK8Z7yATkrcklA-VX1gLIXvnxDdgiIq2okE7en36jNQwWTqsfjpFcsdJNJdJ1cvi9xPyDR35V-bBiti5jEd0cSKv-y4=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://www.oopbuy.com/product/weidian/7309233923?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://newdp.x.yupoo.com/albums/177084710?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1301"
+}

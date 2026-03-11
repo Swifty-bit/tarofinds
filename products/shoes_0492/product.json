@@ -1,0 +1,65 @@
+{
+  "name": "HermesBouncing",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Koala",
+  "best_batch_links": [
+    {
+      "label": "Koala",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F913167275103%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/913167275103?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F892297106721%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/892297106721?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "91$",
+  "budget_price": "21$",
+  "pics_text": "21$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4Ps0gT-qroQTxUVQEey_rzCV2ME5i07gHYaGPTzDk6QuTUaE4awFPD5Ma8CUfgR5cAZ9oQKKZbLsR_LiDfR1ININp55fC10uxF_bhyi1b4zG9vc2XSPKVlzP17h8QmaFffFBIoeXj_mN4=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "573"
+    },
+    "col_1": {
+      "text": "HermesBouncing"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4Ps0gT-qroQTxUVQEey_rzCV2ME5i07gHYaGPTzDk6QuTUaE4awFPD5Ma8CUfgR5cAZ9oQKKZbLsR_LiDfR1ININp55fC10uxF_bhyi1b4zG9vc2XSPKVlzP17h8QmaFffFBIoeXj_mN4=w143-h110"
+    },
+    "col_3": {
+      "text": "Koala",
+      "links": [
+        {
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/913167275103?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/892297106721?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "91$"
+    },
+    "col_6": {
+      "text": "21$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0492"
+}

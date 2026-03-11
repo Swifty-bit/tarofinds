@@ -1,0 +1,61 @@
+{
+  "name": "DiorSweatshirt6 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
+    {
+      "label": "tophotfashion",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F931729400047%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/931729400047?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "41$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/175228605?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxosnWOJQgaJ6KXco_jdcRFl_GikpARMWqrydJpYeIcI7XLimKQKTezreY4LUShVZDuPHxEzv1N5gJyakgaHiU0ySkuWiiQ5bmCqvRcYDY_UQeHrktIGiECIyu-voeqlqJaGOBkdtXGjDdG=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "336"
+    },
+    "col_1": {
+      "text": "DiorSweatshirt6 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxosnWOJQgaJ6KXco_jdcRFl_GikpARMWqrydJpYeIcI7XLimKQKTezreY4LUShVZDuPHxEzv1N5gJyakgaHiU0ySkuWiiQ5bmCqvRcYDY_UQeHrktIGiECIyu-voeqlqJaGOBkdtXGjDdG=w143-h110"
+    },
+    "col_3": {
+      "text": "tophotfashion",
+      "links": [
+        {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/1/931729400047?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "41$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/175228605?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0837"
+}

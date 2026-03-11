@@ -1,0 +1,87 @@
+{
+  "name": "MertraGlitch Camouflage Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "pengreps",
+  "best_batch_links": [
+    {
+      "label": "pengreps",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7475243704%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7475243704?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "32$",
+  "budget_price": "23$",
+  "pics_text": "pengreps/budget",
+  "pics_links": [
+    {
+      "label": "pengreps",
+      "url": "https://pengreps.x.yupoo.com/albums/196583906?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBV5fYpoqVKC6_UzrHIu9HU6j8ntvHZp_DielX5mLqMCAo_tGyUsID9QcyM_Ow3ewrcdGeG98WMdjrNp89DXw70Q1ltaWp1LOTo8E1QT2noMI-zjWafAZK84To4923gqzUYn9AFHQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "629"
+    },
+    "col_1": {
+      "text": "MertraGlitch Camouflage Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBV5fYpoqVKC6_UzrHIu9HU6j8ntvHZp_DielX5mLqMCAo_tGyUsID9QcyM_Ow3ewrcdGeG98WMdjrNp89DXw70Q1ltaWp1LOTo8E1QT2noMI-zjWafAZK84To4923gqzUYn9AFHQ=w143-h110"
+    },
+    "col_3": {
+      "text": "pengreps",
+      "links": [
+        {
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7475243704?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "32$"
+    },
+    "col_6": {
+      "text": "23$"
+    },
+    "col_7": {
+      "text": "pengreps/budget",
+      "links": [
+        {
+          "label": "pengreps",
+          "url": "https://pengreps.x.yupoo.com/albums/196583906?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1078"
+}

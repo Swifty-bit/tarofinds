@@ -1,0 +1,87 @@
+{
+  "name": "Ralph Lauren Sweatpants3 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6904512442%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6904512442?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F629608970570%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/629608970570?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "26$",
+  "budget_price": "15$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/150332401?uid=1&isSubCate=true&referrercate=385825"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1911948784021114882?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azwo0-MFT7J8iSAep2n9DHMI8JVJfyUePF1WGjVjUXv7-O6f0D46p46MBEl-RPkPuSaTE3bRzUxwO0KtCgtTULqFRGzjj3pd7znou0iu55mfcebMNKG5X3YBxjgQxgLcG0aP2HQ8kQG7EVk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "97"
+    },
+    "col_1": {
+      "text": "Ralph Lauren Sweatpants3 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azwo0-MFT7J8iSAep2n9DHMI8JVJfyUePF1WGjVjUXv7-O6f0D46p46MBEl-RPkPuSaTE3bRzUxwO0KtCgtTULqFRGzjj3pd7znou0iu55mfcebMNKG5X3YBxjgQxgLcG0aP2HQ8kQG7EVk=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/weidian/6904512442?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/629608970570?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "26$"
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/150332401?uid=1&isSubCate=true&referrercate=385825"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1911948784021114882?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0626"
+}

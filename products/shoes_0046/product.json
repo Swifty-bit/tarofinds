@@ -1,0 +1,47 @@
+{
+  "name": "Shox x Supreme",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4359467005%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4359467005?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "45$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9ZuOUj0Y_DVdjBrCXWM8XV7cer2sepVQJ8_ZzobupkUTjQV0Cty3AomQ94NTWMbxSsEobuE7HOHLHarn4NqLch5JgNkP8SiVmHsG_TE-7tfqULC4vqbeQ7767Ak3OuOttZIckRNzpbw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "53"
+    },
+    "col_1": {
+      "text": "Shox x Supreme"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9ZuOUj0Y_DVdjBrCXWM8XV7cer2sepVQJ8_ZzobupkUTjQV0Cty3AomQ94NTWMbxSsEobuE7HOHLHarn4NqLch5JgNkP8SiVmHsG_TE-7tfqULC4vqbeQ7767Ak3OuOttZIckRNzpbw=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/4359467005?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "45$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0046"
+}

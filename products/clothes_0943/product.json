@@ -1,0 +1,87 @@
+{
+  "name": "Denim TearsT-Shirts7 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Angelking",
+  "best_batch_links": [
+    {
+      "label": "Angelking",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1002599406861%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1002599406861?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "33TRENTE",
+  "budget_batch_links": [
+    {
+      "label": "33TRENTE",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F670071114503%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "12$",
+  "budget_price": "15$",
+  "pics_text": "angelking/33trente",
+  "pics_links": [
+    {
+      "label": "angelking",
+      "url": "https://louisangelking.x.yupoo.com/albums/220077250?uid=1&isSubCate=false&referrercate=5092630"
+    },
+    {
+      "label": "33trente",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1ABmylvoWeH_3pSc6q04lVzN2L_eHzT9D8EiB2XeBk10qCxKxrEgv2wfgzRvp6ZJWMUY_Ytdt9AdRNTJmLf8-HLMhniXRG6whgmMcC2Wx1K7CfsbFIOpAKjvijuTT-yZKBvFMdtKO6iUa=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "472"
+    },
+    "col_1": {
+      "text": "Denim TearsT-Shirts7 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1ABmylvoWeH_3pSc6q04lVzN2L_eHzT9D8EiB2XeBk10qCxKxrEgv2wfgzRvp6ZJWMUY_Ytdt9AdRNTJmLf8-HLMhniXRG6whgmMcC2Wx1K7CfsbFIOpAKjvijuTT-yZKBvFMdtKO6iUa=w143-h110"
+    },
+    "col_3": {
+      "text": "Angelking",
+      "links": [
+        {
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/1002599406861?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "33TRENTE",
+      "links": [
+        {
+          "label": "33TRENTE",
+          "url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "12$"
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "angelking/33trente",
+      "links": [
+        {
+          "label": "angelking",
+          "url": "https://louisangelking.x.yupoo.com/albums/220077250?uid=1&isSubCate=false&referrercate=5092630"
+        },
+        {
+          "label": "33trente",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0943"
+}

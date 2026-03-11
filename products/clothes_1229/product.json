@@ -1,0 +1,56 @@
+{
+  "name": "True ReligionWOMANJeansMany Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TR/TR",
+  "best_batch_links": [
+    {
+      "label": "TR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F835707715938%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/835707715938?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "TR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F842720459113%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/842720459113?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "25$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayu2_15P4jO10DoaztOcVWagjWznLt_iv1i2MicdB_fG3KPZhrgxxWmMaPt703HN_-YKKsBK9abBIVQG7qSdoitgLTxFC3eejw7KVK1w_wqG6eE_T_tuwCIqtqUBbwcvSQW49ytj3410w2n=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "806"
+    },
+    "col_1": {
+      "text": "True ReligionWOMANJeansMany Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayu2_15P4jO10DoaztOcVWagjWznLt_iv1i2MicdB_fG3KPZhrgxxWmMaPt703HN_-YKKsBK9abBIVQG7qSdoitgLTxFC3eejw7KVK1w_wqG6eE_T_tuwCIqtqUBbwcvSQW49ytj3410w2n=w143-h110"
+    },
+    "col_3": {
+      "text": "TR/TR",
+      "links": [
+        {
+          "label": "TR",
+          "url": "https://www.oopbuy.com/product/1/835707715938?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "TR",
+          "url": "https://www.oopbuy.com/product/1/842720459113?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "25$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1229"
+}

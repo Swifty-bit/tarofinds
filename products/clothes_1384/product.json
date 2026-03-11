@@ -1,0 +1,61 @@
+{
+  "name": "RepresentJaws T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "UnionKingdom",
+  "best_batch_links": [
+    {
+      "label": "UnionKingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F750881845094%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/750881845094?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "17$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://unionkingdom.x.yupoo.com/albums/145221308?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzGfhcytFRSzczKwl1Ocj2MUSbnvC_xCgVUluKt9rNPeW1PdsIo5c2sdQQ_-SVFlyLGJSF2dKl_brPSc1k009mHQpLZ0NaYPBCbKX2OIVK4TDY4-eJrRh3xuVbBApeKmd6e6c1WdptVZJ6O=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "987"
+    },
+    "col_1": {
+      "text": "RepresentJaws T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzGfhcytFRSzczKwl1Ocj2MUSbnvC_xCgVUluKt9rNPeW1PdsIo5c2sdQQ_-SVFlyLGJSF2dKl_brPSc1k009mHQpLZ0NaYPBCbKX2OIVK4TDY4-eJrRh3xuVbBApeKmd6e6c1WdptVZJ6O=w143-h110"
+    },
+    "col_3": {
+      "text": "UnionKingdom",
+      "links": [
+        {
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/750881845094?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "17$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://unionkingdom.x.yupoo.com/albums/145221308?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1384"
+}

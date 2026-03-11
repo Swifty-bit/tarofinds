@@ -1,0 +1,61 @@
+{
+  "name": "Cartierwith packaging7 Styles",
+  "category": "Glasses",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/1/669173517215?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2006191055270137858?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9f64OvTsP5I7vkBZXarJea3itsicPAM7ZuW6u68TYx2YYZS4Y4qX9zHFFG4M02g9vQ0lOsIos1Wzp7a1s2-3sRsHOg1hgvnTN8yZZZywgfFtzgB8AqKcmjAxEqnd5AIC79eAuJr8bdpFI=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "11"
+    },
+    "col_1": {
+      "text": "Cartierwith packaging7 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9f64OvTsP5I7vkBZXarJea3itsicPAM7ZuW6u68TYx2YYZS4Y4qX9zHFFG4M02g9vQ0lOsIos1Wzp7a1s2-3sRsHOg1hgvnTN8yZZZywgfFtzgB8AqKcmjAxEqnd5AIC79eAuJr8bdpFI=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/669173517215?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006191055270137858?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "glasses_1893"
+}

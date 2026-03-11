@@ -1,0 +1,61 @@
+{
+  "name": "Stussy Fuzzy Dice T-Shirt",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Chaosmade",
+  "best_batch_links": [
+    {
+      "label": "Chaosmade",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F671098235246%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/671098235246?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "15$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://chaosmade.x.yupoo.com/albums/111310483?uid=1&isSubCate=false&referrercate=3536981"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJGPf4DazM81z7nfr7Jf2ZXUs4QKYwz6SftNMoqjXT0RLal4b4X9DjMB3MCJN9dRedq_gAhS0TEdFy2qqWnyj9i2T7oqI1d8j3Yr6Zctth-NbK9Ro5XaLem6dlKW09SlqA_u3VIOEfokMb=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "55"
+    },
+    "col_1": {
+      "text": "Stussy Fuzzy Dice T-Shirt"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJGPf4DazM81z7nfr7Jf2ZXUs4QKYwz6SftNMoqjXT0RLal4b4X9DjMB3MCJN9dRedq_gAhS0TEdFy2qqWnyj9i2T7oqI1d8j3Yr6Zctth-NbK9Ro5XaLem6dlKW09SlqA_u3VIOEfokMb=w143-h110"
+    },
+    "col_3": {
+      "text": "Chaosmade",
+      "links": [
+        {
+          "label": "Chaosmade",
+          "url": "https://oopbuy.com/product/1/671098235246?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://chaosmade.x.yupoo.com/albums/111310483?uid=1&isSubCate=false&referrercate=3536981"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0586"
+}

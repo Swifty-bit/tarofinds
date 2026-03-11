@@ -1,0 +1,47 @@
+{
+  "name": "OnCloudtilt 2.0",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "WWTOP",
+  "best_batch_links": [
+    {
+      "label": "WWTOP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564050515%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564050515?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "35$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2V6sQ-aiV1MBNBWQ5EzLTbv3lZlMvnsKhWbo_uAWfpCuzNYSGCFKjmyt7LZawTdj26d59duTFf8uUCtE1fOYueHuysSQLbGSeOhkTxPQOXvKJ64vZxueuTV2SDICwH_C5gMNMW3h-uhjd=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "584"
+    },
+    "col_1": {
+      "text": "OnCloudtilt 2.0"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2V6sQ-aiV1MBNBWQ5EzLTbv3lZlMvnsKhWbo_uAWfpCuzNYSGCFKjmyt7LZawTdj26d59duTFf8uUCtE1fOYueHuysSQLbGSeOhkTxPQOXvKJ64vZxueuTV2SDICwH_C5gMNMW3h-uhjd=w143-h110"
+    },
+    "col_3": {
+      "text": "WWTOP",
+      "links": [
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7564050515?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "35$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0497"
+}

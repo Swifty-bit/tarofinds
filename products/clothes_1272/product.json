@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaCut UpCargo Pants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F908442184728%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/908442184728?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "75$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/191274467?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDrc5bwnt8NDU1MfPV2q-g1QzWzRkogbAaVmVCX7A00IE-14mofbq-XF_jks1o7lxYwtfbAOz1AulphSbNzNZ0Z0sRb9jh2-K_zwW4CL8Xy8hxxdM3InQO-XXn4OODYSxbZUh7wnDWYw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "861"
+    },
+    "col_1": {
+      "text": "BalenciagaCut UpCargo Pants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDrc5bwnt8NDU1MfPV2q-g1QzWzRkogbAaVmVCX7A00IE-14mofbq-XF_jks1o7lxYwtfbAOz1AulphSbNzNZ0Z0sRb9jh2-K_zwW4CL8Xy8hxxdM3InQO-XXn4OODYSxbZUh7wnDWYw=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/908442184728?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "75$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/191274467?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1272"
+}

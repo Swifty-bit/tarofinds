@@ -1,0 +1,61 @@
+{
+  "name": "Yeezy Gap Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F5357460006%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/5357460006?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "21$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1917021081321914369?action=discord&cid=1840597081113280514"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLRSyIXNBVo-pycxGwf77n-OOXuqegNw8EmH6UHGh224732LMY3q4qFwB3hnlKlvfSEJ5zWVvWpxqtOYqRchrtbSqfnq1CFUo-4NEbWm64yOVbaicgNAxFAQ_JfFwYy3zumko1GyUGZfYk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "118"
+    },
+    "col_1": {
+      "text": "Yeezy Gap Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLRSyIXNBVo-pycxGwf77n-OOXuqegNw8EmH6UHGh224732LMY3q4qFwB3hnlKlvfSEJ5zWVvWpxqtOYqRchrtbSqfnq1CFUo-4NEbWm64yOVbaicgNAxFAQ_JfFwYy3zumko1GyUGZfYk=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/weidian/5357460006?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "21$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1917021081321914369?action=discord&cid=1840597081113280514"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0645"
+}

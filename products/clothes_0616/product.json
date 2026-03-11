@@ -1,0 +1,61 @@
+{
+  "name": "Ralph Lauren FW24Zipped Hoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7289304864%3F%26inviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7289304864?&inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/177687898?uid=1&isSubCate=false&referrercate=4373091"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwKA3X1CuME1Ulg6MFN9V3aFmQSjaK5BNu4kwOqJfLjrDM8OAVnR2pU4b56BYNcf4c0uRgUl6tYVmYd6IO-yCvJZ7VeJdcs0yjlX3GcuH179rQoV061PXZweQfpcYZbRrvLYsLUM7GTWapg=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "87"
+    },
+    "col_1": {
+      "text": "Ralph Lauren FW24Zipped Hoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwKA3X1CuME1Ulg6MFN9V3aFmQSjaK5BNu4kwOqJfLjrDM8OAVnR2pU4b56BYNcf4c0uRgUl6tYVmYd6IO-yCvJZ7VeJdcs0yjlX3GcuH179rQoV061PXZweQfpcYZbRrvLYsLUM7GTWapg=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://www.oopbuy.com/product/weidian/7289304864?&inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "37$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/177687898?uid=1&isSubCate=false&referrercate=4373091"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0616"
+}

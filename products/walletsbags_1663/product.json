@@ -1,0 +1,61 @@
+{
+  "name": "GoyardCosmetic Bag5 Colors",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://oopbuy.com/product/0/783066456534?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973575595188641794?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7ZfFUrWEHMwUzvd24NdJEPwrx0cfZyrybXmCSog9ybElw0mE92-TdNrzB9F5BmDKCAl_DOAgjwSOXpVxUFq_9YRWfmySv9lIfhRfku7kSK10r9YextpRT5qOIOiyQ0IXPt7dxkd5Z_Blh=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "26"
+    },
+    "col_1": {
+      "text": "GoyardCosmetic Bag5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7ZfFUrWEHMwUzvd24NdJEPwrx0cfZyrybXmCSog9ybElw0mE92-TdNrzB9F5BmDKCAl_DOAgjwSOXpVxUFq_9YRWfmySv9lIfhRfku7kSK10r9YextpRT5qOIOiyQ0IXPt7dxkd5Z_Blh=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/783066456534?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973575595188641794?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1663"
+}

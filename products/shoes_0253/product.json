@@ -1,0 +1,65 @@
+{
+  "name": "AMM(A Ma Maniere)",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "71$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyYwvMQWgsi0JH5pl55Bfj1P427Y-YdOb0x9MIVjGU2idJhnlWGdIPBaKeZIfnBPu6ptx1yWj7y3uVp3jWcNnI2tcRjmbXoTdqrebQj20_o67Q9FK1XNDs_9pJc2B_t9QLx4BekR89t9iTi=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "268"
+    },
+    "col_1": {
+      "text": "AMM(A Ma Maniere)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyYwvMQWgsi0JH5pl55Bfj1P427Y-YdOb0x9MIVjGU2idJhnlWGdIPBaKeZIfnBPu6ptx1yWj7y3uVp3jWcNnI2tcRjmbXoTdqrebQj20_o67Q9FK1XNDs_9pJc2B_t9QLx4BekR89t9iTi=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "71$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0253"
+}

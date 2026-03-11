@@ -1,0 +1,61 @@
+{
+  "name": "FendiWater ReactiveSwim Shorts",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "3MadMan",
+  "best_batch_links": [
+    {
+      "label": "3MadMan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F794358842246%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/794358842246?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "35$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://3madman.x.yupoo.com/albums/157155318?uid=1&isSubCate=false&referrercate=4506227"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzqCcEvQBOaU1U0yU9jK1luL6i1KwPCzpQgYM2ZeOCypcaQetiGJ4LF9_zI-zTFZ5WFvj2ruWXBo9_M76H_HeeuQqXGSqTuWphhPOOKUuIky_h_hJLnbPEybq4fmT90C11-MQM_JMNTZQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "341"
+    },
+    "col_1": {
+      "text": "FendiWater ReactiveSwim Shorts"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzqCcEvQBOaU1U0yU9jK1luL6i1KwPCzpQgYM2ZeOCypcaQetiGJ4LF9_zI-zTFZ5WFvj2ruWXBo9_M76H_HeeuQqXGSqTuWphhPOOKUuIky_h_hJLnbPEybq4fmT90C11-MQM_JMNTZQ=w143-h110"
+    },
+    "col_3": {
+      "text": "3MadMan",
+      "links": [
+        {
+          "label": "3MadMan",
+          "url": "https://oopbuy.com/product/1/794358842246?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "35$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://3madman.x.yupoo.com/albums/157155318?uid=1&isSubCate=false&referrercate=4506227"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0840"
+}

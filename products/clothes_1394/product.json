@@ -1,0 +1,64 @@
+{
+  "name": "BurberryZipped Hoodie(hood pattern and NO front logo)",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F734027491649%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/734027491649?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287421471092738?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "Hood pattern onlyNo front logo",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzyNsvNyIdvG4B8GBdThOULm8oJ3-Mh9uj9nQ6Yo8nTgei5VMZ4QrFPPG9EbtwSgUKvcfvexxuh8DdZ_lldBZZnOyqB0yID1N5SFiFKE7KgrgvvA-izVw9Jy2PKe4JUdLLXjfK3uFJ52g=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1001"
+    },
+    "col_1": {
+      "text": "BurberryZipped Hoodie(hood pattern and NO front logo)"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzyNsvNyIdvG4B8GBdThOULm8oJ3-Mh9uj9nQ6Yo8nTgei5VMZ4QrFPPG9EbtwSgUKvcfvexxuh8DdZ_lldBZZnOyqB0yID1N5SFiFKE7KgrgvvA-izVw9Jy2PKe4JUdLLXjfK3uFJ52g=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/734027491649?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287421471092738?action=discord&cid=1942512167859859457"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "Hood pattern onlyNo front logo"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1394"
+}

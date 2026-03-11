@@ -1,0 +1,61 @@
+{
+  "name": "BalenciagaTribal Jeans",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
+    {
+      "label": "mvt-shop01",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F968703500050%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/968703500050?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "81$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/184858261?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzrdlMRwdexgoJaOoz4MCojOwd2TcRLLJaIvoGvTh6ARaqtO6N_hhGTg6Tbi8-an42pw1iHV7bf769KfJrO2cubneeRymAn0VEiAQ4MFRJ3ExdBawKjIE-DOfSEwHqHtNO2zcnADFBczETC=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "864"
+    },
+    "col_1": {
+      "text": "BalenciagaTribal Jeans"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzrdlMRwdexgoJaOoz4MCojOwd2TcRLLJaIvoGvTh6ARaqtO6N_hhGTg6Tbi8-an42pw1iHV7bf769KfJrO2cubneeRymAn0VEiAQ4MFRJ3ExdBawKjIE-DOfSEwHqHtNO2zcnADFBczETC=w143-h110"
+    },
+    "col_3": {
+      "text": "mvt-shop01",
+      "links": [
+        {
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/968703500050?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "81$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/184858261?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1275"
+}

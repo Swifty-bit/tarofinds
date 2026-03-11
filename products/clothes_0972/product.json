@@ -1,0 +1,61 @@
+{
+  "name": "Trapstar x NOFSHoodie Black",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "elephant",
+  "best_batch_links": [
+    {
+      "label": "elephant",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7326762018%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7326762018?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://elephant-factory.x.yupoo.com/albums/182662062?uid=1&isSubCate=false&referrercate=3770851"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwczQ-wfwp_6Iqc8GzZieCOwZ44Q7aSvRc2_PEiStkfM61oTCtYamMLnj4baUZrz9yYjXkO6qX2D37lN7v_NDX-rkspHR08AqwqmVwjwGFFYTAtu-fjGUKC6ke0P7XxM5_2p4wHx3z6zq1-=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "505"
+    },
+    "col_1": {
+      "text": "Trapstar x NOFSHoodie Black"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwczQ-wfwp_6Iqc8GzZieCOwZ44Q7aSvRc2_PEiStkfM61oTCtYamMLnj4baUZrz9yYjXkO6qX2D37lN7v_NDX-rkspHR08AqwqmVwjwGFFYTAtu-fjGUKC6ke0P7XxM5_2p4wHx3z6zq1-=w143-h110"
+    },
+    "col_3": {
+      "text": "elephant",
+      "links": [
+        {
+          "label": "elephant",
+          "url": "https://www.oopbuy.com/product/weidian/7326762018?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://elephant-factory.x.yupoo.com/albums/182662062?uid=1&isSubCate=false&referrercate=3770851"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0972"
+}

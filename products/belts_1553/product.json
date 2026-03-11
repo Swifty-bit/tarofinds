@@ -1,0 +1,78 @@
+{
+  "name": "Diesel",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget/budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F691288783273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/691288783273?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F684515169000%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/684515169000?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "4$ / 1$",
+  "pics_text": "budget/budget",
+  "pics_links": [
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969589344131440641?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969950945200136194?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyytHfSQMQ_2qNdfMX6RCBbhvBbtLoJ-Y81v5JSuwnDVXGO-6zQt1_IkTpQY36eidAZjYgMsdH3PL2SEvC0QVSHOxH5_VUqWn_J5fw5gpkLgqFM4plLooL4uHF_stKWCRL_enlgodIWVIR=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "15"
+    },
+    "col_1": {
+      "text": "Diesel"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyytHfSQMQ_2qNdfMX6RCBbhvBbtLoJ-Y81v5JSuwnDVXGO-6zQt1_IkTpQY36eidAZjYgMsdH3PL2SEvC0QVSHOxH5_VUqWn_J5fw5gpkLgqFM4plLooL4uHF_stKWCRL_enlgodIWVIR=w143-h110"
+    },
+    "col_4": {
+      "text": "budget/budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/691288783273?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/684515169000?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "4$ / 1$"
+    },
+    "col_7": {
+      "text": "budget/budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969589344131440641?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969950945200136194?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1553"
+}

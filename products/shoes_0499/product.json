@@ -1,0 +1,47 @@
+{
+  "name": "Alo Yoga Sunset",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "Repsun",
+  "best_batch_links": [
+    {
+      "label": "Repsun",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7600121215%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7600121215?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8hngF1cCXeGEK0KpqXwGkSflnCxbP3Pp1Nt56hvBrXIs28ns_K4PVvgcgvuyXA4AzC6r4kLtOt8ZsilY9NGL9NVT0wdTCbHP8VSlA94CrVksO1F39NzRGoL21KDB_3fznbbYVHmym4Bhw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "588"
+    },
+    "col_1": {
+      "text": "Alo Yoga Sunset"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8hngF1cCXeGEK0KpqXwGkSflnCxbP3Pp1Nt56hvBrXIs28ns_K4PVvgcgvuyXA4AzC6r4kLtOt8ZsilY9NGL9NVT0wdTCbHP8VSlA94CrVksO1F39NzRGoL21KDB_3fznbbYVHmym4Bhw=w143-h110"
+    },
+    "col_3": {
+      "text": "Repsun",
+      "links": [
+        {
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/weidian/7600121215?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0499"
+}

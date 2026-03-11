@@ -1,0 +1,87 @@
+{
+  "name": "Ralph LaurenOld SeasonSweatpants",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595166141%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7595166141?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F736466121645%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/736466121645?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "24$",
+  "budget_price": "17$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://newdp.x.yupoo.com/albums/176447967?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952173298392584193?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwGFM4NoFDaB4_6QFvFCv0Cd0K8G1lmnvRIU-URKs87dTdYYmmC67Mo5mPSR2zD1EAH50NTj5dnxq5y-e83KSjcN9P5YAuV1vkRolYLnpsSSA7yMd2rgKUMiJnbLuX1fXTedfx2LP35MzHM=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "95"
+    },
+    "col_1": {
+      "text": "Ralph LaurenOld SeasonSweatpants"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwGFM4NoFDaB4_6QFvFCv0Cd0K8G1lmnvRIU-URKs87dTdYYmmC67Mo5mPSR2zD1EAH50NTj5dnxq5y-e83KSjcN9P5YAuV1vkRolYLnpsSSA7yMd2rgKUMiJnbLuX1fXTedfx2LP35MzHM=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7595166141?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/736466121645?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "24$"
+    },
+    "col_6": {
+      "text": "17$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://newdp.x.yupoo.com/albums/176447967?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952173298392584193?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0624"
+}

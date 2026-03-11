@@ -1,0 +1,47 @@
+{
+  "name": "S24 Ultra",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
+    {
+      "label": "ThebigY",
+      "url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "139$ / 154$",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwnPqLkpkHOiysbFF-2licpXn380t4-z3VIpSM4-9H_j1DiBERXhTqA37uOs3b0uP7a3ZArst3g0H_w04mxGcm2nKfPdQaS4cn3ZQOzfmImzDPoWKfMqKeymC3_t2EspAsXrC6YkqEIJrro=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "19"
+    },
+    "col_1": {
+      "text": "S24 Ultra"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwnPqLkpkHOiysbFF-2licpXn380t4-z3VIpSM4-9H_j1DiBERXhTqA37uOs3b0uP7a3ZArst3g0H_w04mxGcm2nKfPdQaS4cn3ZQOzfmImzDPoWKfMqKeymC3_t2EspAsXrC6YkqEIJrro=w143-h110"
+    },
+    "col_4": {
+      "text": "ThebigY",
+      "links": [
+        {
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "139$ / 154$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "electronics_1854"
+}

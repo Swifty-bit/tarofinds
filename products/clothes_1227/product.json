@@ -1,0 +1,47 @@
+{
+  "name": "True ReligionDenim Jeans Jacket2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "TR",
+  "best_batch_links": [
+    {
+      "label": "TR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F862527874499%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/862527874499?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "42$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZtoQ2P-Icd209wZIxrYTdc6VFUHYF0GUTCNBE7JhvSe1vG-solBwpz0cKWZyns4pvE8LRwRwpLLtUml7joC_NIuTTk6t1OgAYZ5V6A_7JcXLRbp9OfF_xLDrlU4_Fv2RBRwRhY3yiNjxE=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "804"
+    },
+    "col_1": {
+      "text": "True ReligionDenim Jeans Jacket2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZtoQ2P-Icd209wZIxrYTdc6VFUHYF0GUTCNBE7JhvSe1vG-solBwpz0cKWZyns4pvE8LRwRwpLLtUml7joC_NIuTTk6t1OgAYZ5V6A_7JcXLRbp9OfF_xLDrlU4_Fv2RBRwRhY3yiNjxE=w143-h110"
+    },
+    "col_3": {
+      "text": "TR",
+      "links": [
+        {
+          "label": "TR",
+          "url": "https://www.oopbuy.com/product/1/862527874499?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "42$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1227"
+}

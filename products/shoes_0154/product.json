@@ -1,0 +1,47 @@
+{
+  "name": "Travis Scott Fragment High",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "LJR",
+  "best_batch_links": [
+    {
+      "label": "LJR",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240131608%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "80$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcjcchQaJIggy5bPrZlKYxrhiATB6GdkqKjA-8Lc9hyvpLm1fCPnYORUUSrCjhWbsVC7RWBckIbc-6O5LNCqZhwxVp6XeQwc8yZSB1iWsn3Y8cXsOgqFT_h7sJGsmgv0a4lXnXnIcOVOuR=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "165"
+    },
+    "col_1": {
+      "text": "Travis Scott Fragment High"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcjcchQaJIggy5bPrZlKYxrhiATB6GdkqKjA-8Lc9hyvpLm1fCPnYORUUSrCjhWbsVC7RWBckIbc-6O5LNCqZhwxVp6XeQwc8yZSB1iWsn3Y8cXsOgqFT_h7sJGsmgv0a4lXnXnIcOVOuR=w143-h110"
+    },
+    "col_3": {
+      "text": "LJR",
+      "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "80$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0154"
+}

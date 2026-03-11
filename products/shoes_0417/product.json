@@ -1,0 +1,47 @@
+{
+  "name": "Dior B33",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "GD",
+  "budget_batch_links": [
+    {
+      "label": "GD",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7458109150%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7458109150?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "61$",
+  "pics_text": "61$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRHPz3suarjcFJDmPyH_djbIsykjkoCFYrIQuX6kiSo9bnCHn4LD7YLWV0UTYNMjEOfJGnGS5peaOsby2qY_zo-5mrUnRqQY0Z4ma-a-Ra5GqcMAmsMez3R5S8BLmuKAbjoBt0TxKqzka_=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "474"
+    },
+    "col_1": {
+      "text": "Dior B33"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRHPz3suarjcFJDmPyH_djbIsykjkoCFYrIQuX6kiSo9bnCHn4LD7YLWV0UTYNMjEOfJGnGS5peaOsby2qY_zo-5mrUnRqQY0Z4ma-a-Ra5GqcMAmsMez3R5S8BLmuKAbjoBt0TxKqzka_=w143-h110"
+    },
+    "col_4": {
+      "text": "GD",
+      "links": [
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7458109150?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "61$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0417"
+}

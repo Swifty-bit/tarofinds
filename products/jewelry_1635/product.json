@@ -1,0 +1,61 @@
+{
+  "name": "Gucci Ring",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7266547265%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7266547265?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw13QanHYyKvOqY6FI5wtU-dAvArVHBPjUN68Z6o1sb7clnggv0K09JIOZMLfQ0u7_Nvzi9n28i4WcKReMGDKLBqj4jVpU_MoI4wD4Q6aC5DD0dTnYhVAKcXlHiJ6Is9FosSdBaJkkhOw=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "49"
+    },
+    "col_1": {
+      "text": "Gucci Ring"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw13QanHYyKvOqY6FI5wtU-dAvArVHBPjUN68Z6o1sb7clnggv0K09JIOZMLfQ0u7_Nvzi9n28i4WcKReMGDKLBqj4jVpU_MoI4wD4Q6aC5DD0dTnYhVAKcXlHiJ6Is9FosSdBaJkkhOw=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7266547265?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1635"
+}

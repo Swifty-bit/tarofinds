@@ -1,0 +1,62 @@
+{
+  "name": "VLONE Tee110 Colours",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F746290362970%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/746290362970?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://imgur.com/a/IUZ05rk"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AywHiuj4RdXy20hkZMSm1n535qMsz8i0OGhAtw0V2WnUtwKo7Q2_nqHyaiMwRLiMFIKBYc3gazAbBmFB2G7aIvBrmQkW5oCAj_rNKTOzQVvDNwXA3YIaX59IHgUjE3r0vlTY7WGqeUn1w=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "420"
+    },
+    "col_1": {
+      "text": "VLONE Tee110 Colours"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AywHiuj4RdXy20hkZMSm1n535qMsz8i0OGhAtw0V2WnUtwKo7Q2_nqHyaiMwRLiMFIKBYc3gazAbBmFB2G7aIvBrmQkW5oCAj_rNKTOzQVvDNwXA3YIaX59IHgUjE3r0vlTY7WGqeUn1w=w143-h110"
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/746290362970?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://imgur.com/a/IUZ05rk"
+        }
+      ],
+      "image": "https://imgur.com/a/IUZ05rk"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0899"
+}

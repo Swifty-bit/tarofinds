@@ -1,0 +1,61 @@
+{
+  "name": "Piquet Striped Collar Polo3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
+    {
+      "label": "CPRepsCN",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982421821266%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/982421821266?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/167557844?uid=1&isSubCate=false&referrercate=4543871"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-t_fDGiAAyQ362BwLCgutjw-VAOb1Fu3N-jZssxcPLQ4XFr94-Cah3Fd_2uqdYeai2r6ODe0allVGpA9Sv0W3m_o5bcp8MXdZ-4GSacq3lA9Hw9TPotpycRaiepfZOpO_gLSldEMuclWB=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "248"
+    },
+    "col_1": {
+      "text": "Piquet Striped Collar Polo3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-t_fDGiAAyQ362BwLCgutjw-VAOb1Fu3N-jZssxcPLQ4XFr94-Cah3Fd_2uqdYeai2r6ODe0allVGpA9Sv0W3m_o5bcp8MXdZ-4GSacq3lA9Hw9TPotpycRaiepfZOpO_gLSldEMuclWB=w143-h110"
+    },
+    "col_3": {
+      "text": "CPRepsCN",
+      "links": [
+        {
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/982421821266?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/167557844?uid=1&isSubCate=false&referrercate=4543871"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0757"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Louis Vuitton",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "MissChen/K8",
+  "best_batch_links": [
+    {
+      "label": "MissChen",
+      "url": "https://www.oopbuy.com/product/weidian/7382199063?inviteCode=29TOTHGNH",
+      "original_url": null
+    },
+    {
+      "label": "K8",
+      "url": "https://oopbuy.com/product/weidian/7563569773?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$ / 34$",
+  "budget_price": "",
+  "pics_text": "MissChen/K8",
+  "pics_links": [
+    {
+      "label": "MissChen",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969589345268097026?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "K8",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1966327753101369346?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPoCGYm8Vr4KEgpLYkSn76pG16_lF5_5rxMUIohGHfFSCiFPVFLWFdyqqq0XGrAVSGL7YUZnvy6SEPP9cUD1KGumT9lDdmRgF7RK8Lc6cgQNDtBayHTrLvwsBjl_2gFPgyoFveZQ9LsEuR=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "12"
+    },
+    "col_1": {
+      "text": "Louis Vuitton"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPoCGYm8Vr4KEgpLYkSn76pG16_lF5_5rxMUIohGHfFSCiFPVFLWFdyqqq0XGrAVSGL7YUZnvy6SEPP9cUD1KGumT9lDdmRgF7RK8Lc6cgQNDtBayHTrLvwsBjl_2gFPgyoFveZQ9LsEuR=w143-h110"
+    },
+    "col_3": {
+      "text": "MissChen/K8",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/7382199063?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "K8",
+          "url": "https://oopbuy.com/product/weidian/7563569773?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "36$ / 34$"
+    },
+    "col_7": {
+      "text": "MissChen/K8",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969589345268097026?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "K8",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1966327753101369346?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1695"
+}

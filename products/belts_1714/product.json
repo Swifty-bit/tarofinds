@@ -1,0 +1,61 @@
+{
+  "name": "Burberry",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "K8",
+  "best_batch_links": [
+    {
+      "label": "K8",
+      "url": "https://www.oopbuy.com/product/weidian/7238663898?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "35$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952186243732799490?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwT6YW4mItLhM6Ic6TyHG3ENWKce2p7c2OcEz_m2LxcWvYhenH_i6OPZC9R3Y_N70G_MQSAOlDK2KhpR6yqcc_L2UYp99e2KQE8JO-_aJM0RzZ8IirPMA7TyWLmYGL3-gT1hvEce-dj_Q=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "31"
+    },
+    "col_1": {
+      "text": "Burberry"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwT6YW4mItLhM6Ic6TyHG3ENWKce2p7c2OcEz_m2LxcWvYhenH_i6OPZC9R3Y_N70G_MQSAOlDK2KhpR6yqcc_L2UYp99e2KQE8JO-_aJM0RzZ8IirPMA7TyWLmYGL3-gT1hvEce-dj_Q=w143-h110"
+    },
+    "col_3": {
+      "text": "K8",
+      "links": [
+        {
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7238663898?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "35$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952186243732799490?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "belts_1714"
+}

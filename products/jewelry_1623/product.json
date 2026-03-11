@@ -1,0 +1,61 @@
+{
+  "name": "Chrome HeartsRing",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7261681454%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7261681454?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "29$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1954602911003676673?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2uamQMAQC_gkl1XeSNIetvAgE1O6cGO2AbFvfCM01TqsfdLCDmTH4Cdk22f0-4xJWxH18CJVpMGK6ucyiELECWcSIeUC4DLO9v02lvzaAhqegPOuiUUSEDRTcAixHWtmCgfG0qVNFz0kk=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "37"
+    },
+    "col_1": {
+      "text": "Chrome HeartsRing"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2uamQMAQC_gkl1XeSNIetvAgE1O6cGO2AbFvfCM01TqsfdLCDmTH4Cdk22f0-4xJWxH18CJVpMGK6ucyiELECWcSIeUC4DLO9v02lvzaAhqegPOuiUUSEDRTcAixHWtmCgfG0qVNFz0kk=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7261681454?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "29$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1954602911003676673?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "jewelry_1623"
+}

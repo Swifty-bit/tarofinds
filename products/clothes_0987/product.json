@@ -1,0 +1,61 @@
+{
+  "name": "Out of the ShadowsHoodie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
+    {
+      "label": "hotdog-official",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342530434%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7342530434?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/138685201?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPxf4_pr1-N1fNNv-GkosGny1G-U6rgR7Kapl8hHho2z4qgRzVdvBzF6bx4FirNVVKNF1qqeyjJYA9czblLfb7uqAHkU_EtpJrcNKCOSIsUKb6qEUaA3LVvvmx3JZRRgg7NlIJQ7dtFB4e=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "524"
+    },
+    "col_1": {
+      "text": "Out of the ShadowsHoodie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPxf4_pr1-N1fNNv-GkosGny1G-U6rgR7Kapl8hHho2z4qgRzVdvBzF6bx4FirNVVKNF1qqeyjJYA9czblLfb7uqAHkU_EtpJrcNKCOSIsUKb6qEUaA3LVvvmx3JZRRgg7NlIJQ7dtFB4e=w143-h110"
+    },
+    "col_3": {
+      "text": "hotdog-official",
+      "links": [
+        {
+          "label": "hotdog-official",
+          "url": "https://oopbuy.com/product/2/7342530434?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/138685201?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0987"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "ACW T-Shirt10 Styles",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH",
+      "original_url": null
+    }
+  ],
+  "best_price": "",
+  "budget_price": "8$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/668964833777"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axv3jf3lL58CxuOke_T6j3BiiLZ-pTJwejtEdRbbwYois_QbSEdNmYihFVEYe1qgO4EzGcTZuJ-SPlwyWzFKgKuag9LSMzPL7Hv2DnRQFmWCftljTiAVHnfn4SvW-beK26BMECMxgkHXlFX=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1051"
+    },
+    "col_1": {
+      "text": "ACW T-Shirt10 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axv3jf3lL58CxuOke_T6j3BiiLZ-pTJwejtEdRbbwYois_QbSEdNmYihFVEYe1qgO4EzGcTZuJ-SPlwyWzFKgKuag9LSMzPL7Hv2DnRQFmWCftljTiAVHnfn4SvW-beK26BMECMxgkHXlFX=w143-h110"
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "8$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/668964833777"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1571"
+}

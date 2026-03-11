@@ -1,0 +1,61 @@
+{
+  "name": "CP Company Extrafine Wool Goggle Balaclava Beanie",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
+    {
+      "label": "DRAGONREP",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F964834770634%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/964834770634?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://noghost.x.yupoo.com/albums/176536729?uid=1"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxGuBeOtaWvFdaeCsnwP4xk5Dt2t60hAUGNgddqMzzpNC-2WOBkjjZ-tLbj39nTFrwQAO0AFTlWt8GDr7kNt2JX2RclmM0aWRwE64wiqViGm1-ACOm_touuo6yquIzgGymd6Y7nTVIWWg9v=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "259"
+    },
+    "col_1": {
+      "text": "CP Company Extrafine Wool Goggle Balaclava Beanie"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxGuBeOtaWvFdaeCsnwP4xk5Dt2t60hAUGNgddqMzzpNC-2WOBkjjZ-tLbj39nTFrwQAO0AFTlWt8GDr7kNt2JX2RclmM0aWRwE64wiqViGm1-ACOm_touuo6yquIzgGymd6Y7nTVIWWg9v=w143-h110"
+    },
+    "col_3": {
+      "text": "DRAGONREP",
+      "links": [
+        {
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/1/964834770634?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://noghost.x.yupoo.com/albums/176536729?uid=1"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0768"
+}

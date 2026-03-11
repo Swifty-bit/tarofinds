@@ -1,0 +1,61 @@
+{
+  "name": "UnbrandedLong Sleeves3 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F653983835239%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/653983835239?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1931434499926757378?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyESJ2JcYF1BCPRcqcc87MBmaTwy1u_1SwIR578aAG5zLZ4oXOWhKo3g2JTOXZf8AZ8CHg11yQBMg5S2VE8YCDN3doV1_CN0_X3sj82Db6FN8JgidHl8XVKHZn0EWmQQv-hxcd4geaDY1Y2=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "37"
+    },
+    "col_1": {
+      "text": "UnbrandedLong Sleeves3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyESJ2JcYF1BCPRcqcc87MBmaTwy1u_1SwIR578aAG5zLZ4oXOWhKo3g2JTOXZf8AZ8CHg11yQBMg5S2VE8YCDN3doV1_CN0_X3sj82Db6FN8JgidHl8XVKHZn0EWmQQv-hxcd4geaDY1Y2=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/653983835239?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1931434499926757378?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "gym_1730"
+}

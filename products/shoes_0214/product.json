@@ -1,0 +1,65 @@
+{
+  "name": "Off White Sail",
+  "category": "Shoes",
+  "subcategory": "",
+  "best_batch": "PK",
+  "best_batch_links": [
+    {
+      "label": "PK",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5802305038%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5802305038?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "63$",
+  "budget_price": "37$",
+  "pics_text": "37$",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxFz8ZH1EUTLubxWs2AVsUU3XZY1cGRWvXvI6jd1-rWRVftQRyADjM-XtpREHYTpj5JTz9qs4gWPU9BERN9m2NWC_ZuNvdwBW6_F7-Mf_K6_pEqe8bewOkqz0hoU49BZAukmML6MHVcwQ=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "229"
+    },
+    "col_1": {
+      "text": "Off White Sail"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxFz8ZH1EUTLubxWs2AVsUU3XZY1cGRWvXvI6jd1-rWRVftQRyADjM-XtpREHYTpj5JTz9qs4gWPU9BERN9m2NWC_ZuNvdwBW6_F7-Mf_K6_pEqe8bewOkqz0hoU49BZAukmML6MHVcwQ=w143-h110"
+    },
+    "col_3": {
+      "text": "PK",
+      "links": [
+        {
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/5802305038?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "63$"
+    },
+    "col_6": {
+      "text": "37$"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "shoes_0214"
+}

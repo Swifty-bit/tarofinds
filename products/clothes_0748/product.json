@@ -1,0 +1,87 @@
+{
+  "name": "Essentials x NBAFW24 Shorts2 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "Singor",
+  "best_batch_links": [
+    {
+      "label": "Singor",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F897754401789%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/897754401789?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Yishan",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F983502446561%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/983502446561?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "27$",
+  "budget_price": "14$",
+  "pics_text": "singor/yishan",
+  "pics_links": [
+    {
+      "label": "singor",
+      "url": "https://steven-1989.x.yupoo.com/albums/188239040?uid=1&isSubCate=false&referrercate=3018541"
+    },
+    {
+      "label": "yishan",
+      "url": "https://doppel.fit/item/1688/983502446561"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwvLqpi9sM7Fy0kLSvuw7ecFgvuqA2wtHfDTYpyq1LbyGMpfLcwvm5BjLDvVEQWYLqkIItaR4O6Yqtqai-6Y8-joxS-POhl90aufROLyAoc2CTj7DSqFRZMwWgI4o2bOqDVJBRoIYVQdA=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "235"
+    },
+    "col_1": {
+      "text": "Essentials x NBAFW24 Shorts2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwvLqpi9sM7Fy0kLSvuw7ecFgvuqA2wtHfDTYpyq1LbyGMpfLcwvm5BjLDvVEQWYLqkIItaR4O6Yqtqai-6Y8-joxS-POhl90aufROLyAoc2CTj7DSqFRZMwWgI4o2bOqDVJBRoIYVQdA=w143-h110"
+    },
+    "col_3": {
+      "text": "Singor",
+      "links": [
+        {
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/897754401789?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/983502446561?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "27$"
+    },
+    "col_6": {
+      "text": "14$"
+    },
+    "col_7": {
+      "text": "singor/yishan",
+      "links": [
+        {
+          "label": "singor",
+          "url": "https://steven-1989.x.yupoo.com/albums/188239040?uid=1&isSubCate=false&referrercate=3018541"
+        },
+        {
+          "label": "yishan",
+          "url": "https://doppel.fit/item/1688/983502446561"
+        }
+      ]
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_0748"
+}

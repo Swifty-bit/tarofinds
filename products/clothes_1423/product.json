@@ -1,0 +1,38 @@
+{
+  "name": "CarharttT-Shirt3 Colors",
+  "category": "Clothes",
+  "subcategory": "",
+  "best_batch": "/",
+  "best_batch_links": [],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "/",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az6a3-e6q-29Wd3EdT6vt_tHP2B7moGwysMIiltN79sEgri-MTWzOEXxaQesksPjBqNDXl76p86rmYWiN6jU8RkrJck3S-vSoGom8nWqmPI3WQ70dGHRW75EJGm94xu-5-3ZlfD23NTXv-N=w143-h110",
+  "raw_cells": {
+    "col_0": {
+      "text": "1034"
+    },
+    "col_1": {
+      "text": "CarharttT-Shirt3 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az6a3-e6q-29Wd3EdT6vt_tHP2B7moGwysMIiltN79sEgri-MTWzOEXxaQesksPjBqNDXl76p86rmYWiN6jU8RkrJck3S-vSoGom8nWqmPI3WQ70dGHRW75EJGm94xu-5-3ZlfD23NTXv-N=w143-h110"
+    },
+    "col_3": {
+      "text": "/"
+    },
+    "col_5": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "/"
+    }
+  },
+  "local_image": "image.jpg",
+  "folder": "clothes_1423"
+}
