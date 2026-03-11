@@ -196,7 +196,7 @@ async function loadData() {
             : '';
 
           const rawName = (p.name || '').trim().replace(/\n/g, ' ');
-          let cat = (p.category || '').toLowerCase().trim();
+          let cat = (p.subcategory || p.category || '').toLowerCase().trim();
           if (!cat) {
             const n = rawName.toLowerCase();
             if (/shoe|jordan|dunk|force|yeezy|trainer|sneaker|boot/i.test(n)) cat = 'shoes';
@@ -209,21 +209,32 @@ async function loadData() {
             else cat = 'clothes';
           }
 
-          const priceText = String(p.best_price || p.budget_price || '').match(/[\d.]+/);
-          const price = priceText ? parseFloat(priceText[0]) || 0 : 0;
+          const bestPriceMatch = String(p.best_price || '').match(/[\d.]+/);
+          const budgetPriceMatch = String(p.budget_price || '').match(/[\d.]+/);
+          const bestPriceUsd = bestPriceMatch ? parseFloat(bestPriceMatch[0]) || 0 : 0;
+          const budgetPriceUsd = budgetPriceMatch ? parseFloat(budgetPriceMatch[0]) || 0 : 0;
+          // Our conversion helper fmt() assumes the stored price is in CNY.
+          // Prices in the sheet are in USD, so convert them back to a CNY base.
+          const baseRateUsd = RATES.USD || 1;
+          const chosenUsd = bestPriceUsd || budgetPriceUsd || 0;
+          const priceCny = chosenUsd && baseRateUsd ? chosenUsd / baseRateUsd : 0;
 
           return {
             id: p.id || folder || 'p' + i,
             name: rawName,
             category: cat,
             seller: p.best_batch || p.budget_batch || 'Multiple batches',
-            price,
+            price: priceCny,
             featured: p.featured === true || i < 12,
             image: img,
             link: cleanPrimaryUrl || '#',
             qc: false,
             qcImages: [],
             // extra rich data for detail view
+            bestPrice: p.best_price || '',
+            budgetPrice: p.budget_price || '',
+            bestPriceValue: bestPriceUsd,
+            budgetPriceValue: budgetPriceUsd,
             bestBatch: p.best_batch || '',
             bestBatchLinks: Array.isArray(p.best_batch_links) ? p.best_batch_links : [],
             budgetBatch: p.budget_batch || '',
@@ -408,11 +419,12 @@ function openProductModal(product) {
   const budgetLinks = Array.isArray(product.budgetBatchLinks) ? product.budgetBatchLinks : [];
   const extraLinks = Array.isArray(product.picsLinks) ? product.picsLinks : [];
 
-  const bestSection = (product.bestBatch || bestLinks.length) ? `
+  const bestSection = (product.bestBatch || bestLinks.length || product.bestPrice) ? `
     <div style="margin-top:20px;">
       <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;">
         Best batch ${product.bestBatch ? `· ${esc(product.bestBatch)}` : ''}
       </div>
+      ${product.bestPrice ? `<div style="font-size:13px;color:var(--muted);margin-bottom:6px;">Best price: ${esc(product.bestPrice)}</div>` : ''}
       <div style="display:flex;flex-wrap:wrap;gap:8px;">
         ${bestLinks.map(l => `
           <a href="${esc(l.url || l.original_url || '#')}" target="_blank" rel="noopener" class="btn btn-ghost"
@@ -424,11 +436,12 @@ function openProductModal(product) {
     </div>
   ` : '';
 
-  const budgetSection = (product.budgetBatch || budgetLinks.length) ? `
+  const budgetSection = (product.budgetBatch || budgetLinks.length || product.budgetPrice) ? `
     <div style="margin-top:16px;">
       <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;">
         Budget batch ${product.budgetBatch ? `· ${esc(product.budgetBatch)}` : ''}
       </div>
+      ${product.budgetPrice ? `<div style="font-size:13px;color:var(--muted);margin-bottom:6px;">Budget price: ${esc(product.budgetPrice)}</div>` : ''}
       <div style="display:flex;flex-wrap:wrap;gap:8px;">
         ${budgetLinks.map(l => `
           <a href="${esc(l.url || l.original_url || '#')}" target="_blank" rel="noopener" class="btn btn-ghost"
@@ -443,7 +456,7 @@ function openProductModal(product) {
   const extraLinksSection = extraLinks.length ? `
     <div style="margin-top:16px;">
       <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;">
-        Extra links & pics
+        QC & extra links
       </div>
       <div style="display:flex;flex-wrap:wrap;gap:8px;">
         ${extraLinks.map(l => `
