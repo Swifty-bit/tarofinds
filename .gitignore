@@ -71,7 +71,3 @@ announcements.json
 
 # Discord bot folder (keep separate from main site)
 bot/
-
-# Node
-node_modules/
-package-lock.json
