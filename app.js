@@ -63,10 +63,10 @@ const CATEGORY_DEFS = {
 };
 
 function getCategoryCounts() {
-  const counts = Object.fromEntries(Object.keys(CATEGORY_DEFS).map(k => [k, 0]));
+  const counts = {};
   PRODUCTS.forEach(p => {
-    const cat = (p.category || '').toLowerCase();
-    if (counts[cat] != null) counts[cat] += 1;
+    const cat = (p.category || '').toLowerCase().trim() || 'other';
+    counts[cat] = (counts[cat] || 0) + 1;
   });
   return counts;
 }
@@ -75,25 +75,33 @@ function buildFloatingCategories(targetId, activeCat = '') {
   const el = document.getElementById(targetId);
   if (!el) return;
   const counts = getCategoryCounts();
-  const cards = Object.entries(CATEGORY_DEFS)
-    .filter(([key]) => counts[key] > 0)
-    .map(([key, meta]) => `
+  const total = PRODUCTS.length;
+  const entries = Object.entries(counts).sort((a,b) => b[1] - a[1]);
+  const renderLabel = key => key.replace(/[_-]/g,' ').toUpperCase();
+  const cards = [
+    `
+    <button class="floating-category-pill ${!activeCat || activeCat === 'all' ? 'active' : ''}" data-category="all" type="button">
+      <span class="fcp-icon">🔥</span>
+      <span class="fcp-meta">
+        <span class="fcp-name">ALL PRODUCTS</span>
+        <span class="fcp-count">${total} item${total !== 1 ? 's' : ''}</span>
+      </span>
+      <span class="fcp-arrow">→</span>
+    </button>`
+  ].concat(entries.map(([key, count]) => {
+    const emoji = CAT_EMOJI[key] || '📦';
+    return `
       <button class="floating-category-pill ${activeCat === key ? 'active' : ''}" data-category="${key}" type="button">
-        <span class="fcp-icon">${meta.icon}</span>
+        <span class="fcp-icon">${emoji}</span>
         <span class="fcp-meta">
-          <span class="fcp-name">${meta.name}</span>
-          <span class="fcp-count">${counts[key]} item${counts[key] !== 1 ? 's' : ''}</span>
+          <span class="fcp-name">${renderLabel(key)}</span>
+          <span class="fcp-count">${count} item${count !== 1 ? 's' : ''}</span>
         </span>
         <span class="fcp-arrow">→</span>
       </button>
-    `).join('');
+    `;
+  })).join('');
   el.innerHTML = cards;
-  el.querySelectorAll('.floating-category-pill').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const category = btn.dataset.category;
-      window.location.href = 'catalogue.html?category=' + encodeURIComponent(category);
-    });
-  });
 }
 
 function animateSearchMorphFromHero(query) {
@@ -574,24 +582,19 @@ function initCataloguePage() {
   if(searchBtn) searchBtn.addEventListener('click',()=>renderCatalogueCards());
   const sortSel=$('#sortSelect');
   if(sortSel) sortSel.addEventListener('change',()=>{catState.sort=sortSel.value;renderCatalogueCards();});
-  document.querySelectorAll('.filter-chip[data-cat]').forEach(c=>{
-    c.addEventListener('click',()=>{
-      catState.cat=c.dataset.cat;
-      document.querySelectorAll('.filter-chip[data-cat]').forEach(x=>x.classList.toggle('active',x===c));
-      renderCatalogueCards();
-    });
-  });
-  buildFloatingCategories('catalogueFloatingCategories', catState.cat);
+  buildFloatingCategories('catalogueSidebarCategories', catState.cat);
   renderCatalogueCards();
 }
 
 function renderCatalogueCards() {
   const grid = document.getElementById('productGrid');
   if(!grid) return;
-  const catMap = { clothes:['clothes','shirt','t-shirts','t-shirts & shorts'], shoes:['shoes','shoe'], accessories:['accessories','accessory'], electronics:['electronics'], hoodies:['hoodies','hoodie'], jackets:['jacket','puffer','coat'] };
   let filtered = PRODUCTS.filter(p => {
     let catMatch = catState.cat === 'all';
-    if(!catMatch){ const terms=catMap[catState.cat]||[catState.cat]; catMatch=terms.some(t=>p.category.includes(t)); }
+    if(!catMatch){
+      const pCat = (p.category || '').toLowerCase();
+      catMatch = pCat === catState.cat;
+    }
     const qMatch = !catState.q || (p.name+p.seller+p.category).toLowerCase().includes(catState.q.toLowerCase());
     return catMatch && qMatch;
   });
@@ -600,7 +603,7 @@ function renderCatalogueCards() {
   else if(catState.sort==='name') filtered.sort((a,b)=>a.name.localeCompare(b.name));
   const count=document.getElementById('catalogueCount');
   if(count) count.textContent=`${filtered.length} product${filtered.length!==1?'s':''}`;
-  document.querySelectorAll('#catalogueFloatingCategories .floating-category-pill').forEach(c=>c.classList.toggle('active', c.dataset.category===catState.cat));
+  buildFloatingCategories('catalogueSidebarCategories', catState.cat);
   if(!filtered.length){ grid.innerHTML=`<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-text">No products found</div><button class="btn btn-ghost" onclick="catState.q='';catState.cat='all';renderCatalogueCards()">Clear filters</button></div>`; return; }
   grid.innerHTML = filtered.map(p=>{
     const cat=(p.category||'').toLowerCase();

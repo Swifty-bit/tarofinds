@@ -47,35 +47,40 @@
       <span class="badge badge-blue" id="catalogueCount">—</span>
     </div>
 
-    <div class="catalogue-header-wrap">
-      <div class="cat-search-bar">
-        <input id="catalogueSearch" type="search" placeholder="Search the catalogue…" autocomplete="off" />
-        <button id="catalogueSearchBtn">Search</button>
-      </div>
-
-      <div class="floating-categories-wrap catalogue-categories reveal">
-        <div id="catalogueFloatingCategories" class="floating-categories">
-          <div class="floating-category-skeleton"></div>
-          <div class="floating-category-skeleton"></div>
-          <div class="floating-category-skeleton"></div>
-          <div class="floating-category-skeleton"></div>
+    <div class="catalogue-layout">
+      <aside class="catalogue-sidebar">
+        <div class="catalogue-sidebar-inner reveal">
+          <div class="catalogue-sidebar-header">
+            <h3>Categories</h3>
+            <p>Tap a category to filter the live catalogue.</p>
+          </div>
+          <div id="catalogueSidebarCategories" class="floating-categories"></div>
         </div>
-      </div>
+      </aside>
 
-      <div class="catalogue-meta">
-        <div class="catalogue-count">Live product list from your catalogue data</div>
-        <select id="sortSelect">
-          <option value="featured">Featured first</option>
-          <option value="price-asc">Price: Low to high</option>
-          <option value="price-desc">Price: High to low</option>
-          <option value="name">Name</option>
-          <option value="seller">Seller</option>
-        </select>
+      <div class="catalogue-main">
+        <div class="catalogue-header-wrap">
+          <div class="cat-search-bar">
+            <input id="catalogueSearch" type="search" placeholder="Search the catalogue…" autocomplete="off" />
+            <button id="catalogueSearchBtn">Search</button>
+          </div>
+
+          <div class="catalogue-meta">
+            <div class="catalogue-count">Live product list from your catalogue data</div>
+            <select id="sortSelect">
+              <option value="featured">Featured first</option>
+              <option value="price-asc">Price: Low to high</option>
+              <option value="price-desc">Price: High to low</option>
+              <option value="name">Name</option>
+              <option value="seller">Seller</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="sellerResultsSection" style="display:none;margin-bottom:18px"></div>
+        <div id="productGrid"></div>
       </div>
     </div>
-
-    <div id="sellerResultsSection" style="display:none;margin-bottom:18px"></div>
-    <div id="productGrid"></div>
   </div>
 
   <nav class="bottom-nav"></nav>
