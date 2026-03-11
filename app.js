@@ -373,12 +373,12 @@ function buildAnnouncements() {
   }
   el.innerHTML = ANNOUNCEMENTS.slice(0, 3).map(a => `
     <a class="announce-item" href="announcements.html">
-      <div class="a-icon">${a.icon}</div>
+      <div class="a-icon">${a.icon||'📣'}</div>
       <div class="a-body">
         <div class="a-title">${esc(a.title)}</div>
-        <div class="a-time">${esc(a.time)}</div>
+        <div class="a-time">${esc(a.time||new Date().toLocaleDateString())}</div>
       </div>
-      <span class="a-tag">${esc(a.tag)}</span>
+      <span class="a-tag">${esc(a.tag||'update')}</span>
     </a>`).join('');
 }
 
@@ -777,12 +777,13 @@ function initAnnouncementsPage() {
     return;
   }
   list.innerHTML=ANNOUNCEMENTS.map(a=>`
-    <div class="ann-card ann-level-${a.tag.toLowerCase()}">
-      <div class="ann-icon">${a.icon}</div>
+    <div class="ann-card ann-level-${(a.tag||'update').toLowerCase()}">
+      <div class="ann-icon">${a.icon||'📣'}</div>
       <div class="ann-body">
-        <div class="ann-head"><span class="ann-title">${esc(a.title)}</span><span class="ann-badge ann-badge-${a.tag.toLowerCase()}">${esc(a.tag)}</span></div>
-        <p class="ann-text">${esc(a.body)}</p>
-        <div class="ann-time">🕒 ${esc(a.time)}</div>
+        <div class="ann-head"><span class="ann-title">${esc(a.title)}</span><span class="ann-badge ann-badge-${(a.tag||'update').toLowerCase()}">${esc(a.tag||'update')}</span></div>
+        <p class="ann-text">${esc(a.text||a.body||'')}</p>
+        ${a.buttonName&&a.buttonLink?`<a class="btn btn-ghost btn-sm" href="${esc(a.buttonLink)}" style="margin-top:8px;display:inline-flex;">${esc(a.buttonName)}</a>`:''}
+        <div class="ann-time">🕒 ${esc(a.time||a.created_at||new Date().toLocaleDateString())}</div>
       </div>
     </div>`).join('');
 }
@@ -1012,13 +1013,11 @@ function initCoupon() {
           </div>
           <div class="coupon-actions">
             <button class="c-btn-white" id="couponGo">${btnText}</button>
-            <button class="c-btn-outline" id="couponDismiss">${t('dismiss')}</button>
           </div>
         </div>`;
       box.querySelector('#cpX').onclick = closeCoupon;
       box.querySelector('#copyCodeBtn').onclick = () => navigator.clipboard?.writeText(code).then(() => toast('Code copied!')).catch(() => {});
       box.querySelector('#couponGo').onclick = () => { window.open(btnUrl, '_blank'); closeCoupon(); };
-      box.querySelector('#couponDismiss').onclick = () => { localStorage.setItem('rt_welcomed', '1'); closeCoupon(); };
     }
   }
 
@@ -1246,8 +1245,7 @@ function buildFeaturedGrid() {
 
 /* ── Maintenance Mode ── */
 function checkMaintenanceMode() {
-  const settings = JSON.parse(localStorage.getItem('rt_settings') || '{}');
-  if (!settings.maintenance) return;
+  if (localStorage.getItem('rt_setting_maintenance') !== '1') return;
   if (document.body.dataset.page === 'admin') return;
   // Show maintenance overlay
   const banner = document.createElement('div');
@@ -1330,6 +1328,13 @@ document.addEventListener('DOMContentLoaded', async ()=>{
   startProgress();
   await loadData();
   finishProgress();
+
+  // Load admin-created announcements from localStorage
+  try {
+    const stored = JSON.parse(localStorage.getItem('rt_announcements') || '[]');
+    stored.filter(a => a.enabled !== false).forEach(a => ANNOUNCEMENTS.push(a));
+  } catch(e) {}
+
   checkMaintenanceMode();
   updateStats();
   buildFeaturedGrid();
