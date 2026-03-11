@@ -703,7 +703,15 @@ body{padding-left:72px;}
   background-repeat:no-repeat;background-position:right 10px center;
 }
 #sortSelect option{background:#0d1a3f;color:var(--ink);}
-#productGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px;}
+#productGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px;}
+@media(max-width:600px){
+  #productGrid{grid-template-columns:repeat(3,1fr);gap:8px;}
+  .cat-card-info{padding:7px 8px;}
+  .cat-card-name{font-size:11px;}
+  .cat-card-seller{display:none;}
+  .cat-card-price{font-size:12px;}
+  .cat-card-meta .btn{font-size:10px;padding:3px 7px;}
+}
 .cat-card{
   background:rgba(255,255,255,0.07);
   backdrop-filter:blur(16px);

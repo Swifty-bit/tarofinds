@@ -28,11 +28,13 @@ let activeLang = localStorage.getItem('rt_lang') || 'en';
 function t(key) { return (LANGS[activeLang] || LANGS.en)[key] || LANGS.en[key] || key; }
 function setLang(code) { activeLang = code; localStorage.setItem('rt_lang', code); }
 
-/* ── Currency rates (CNY base — all Weidian prices are in CNY) ── */
-const RATES = { CNY:1, USD:0.138, GBP:0.109, EUR:0.127, AUD:0.214, CAD:0.188, JPY:20.9, SGD:0.185 };
+/* ── Currency rates (USD base — products prices are in USD) ── */
+const RATES_FROM_USD = { USD:1, CNY:7.25, GBP:0.79, EUR:0.92, AUD:1.55, CAD:1.36, JPY:151, SGD:1.34 };
 const SYMBOLS = { CNY:'¥', USD:'$', GBP:'£', EUR:'€', AUD:'A$', CAD:'C$', JPY:'¥', SGD:'S$' };
+// Keep RATES for backward compat (used in admin.js)
+const RATES = { CNY:1, USD:0.138, GBP:0.109, EUR:0.127, AUD:0.214, CAD:0.188, JPY:20.9, SGD:0.185 };
 
-let activeCurrency = localStorage.getItem('rt_currency') || 'CNY';
+let activeCurrency = localStorage.getItem('rt_currency') || 'USD';
 
 function setActiveCurrency(code) {
   activeCurrency = code;
@@ -41,9 +43,13 @@ function setActiveCurrency(code) {
   document.querySelectorAll('.curr-opt').forEach(o => o.classList.toggle('active', o.dataset.code === code));
   refreshPrices();
 }
-function fmt(priceCNY) {
-  const v = priceCNY * (RATES[activeCurrency] || 1);
-  return `${SYMBOLS[activeCurrency] || '¥'}${v.toFixed(2)}`;
+// price is stored as USD value
+function fmt(priceUSD) {
+  if (!priceUSD) return '';
+  const rate = RATES_FROM_USD[activeCurrency] || 1;
+  const v = priceUSD * rate;
+  const sym = SYMBOLS[activeCurrency] || '$';
+  return `${sym}${v.toFixed(2)}`;
 }
 function refreshPrices() {
   if (document.body.dataset.page === 'catalogue') renderCatalogueCards();
@@ -249,18 +255,15 @@ async function loadData() {
           const budgetPriceMatch = String(p.budget_price || '').match(/[\d.]+/);
           const bestPriceUsd = bestPriceMatch ? parseFloat(bestPriceMatch[0]) || 0 : 0;
           const budgetPriceUsd = budgetPriceMatch ? parseFloat(budgetPriceMatch[0]) || 0 : 0;
-          // Our conversion helper fmt() assumes the stored price is in CNY.
-          // Prices in the sheet are in USD, so convert them back to a CNY base.
-          const baseRateUsd = RATES.USD || 1;
+          // fmt() now expects USD directly — no conversion needed
           const chosenUsd = bestPriceUsd || budgetPriceUsd || 0;
-          const priceCny = chosenUsd && baseRateUsd ? chosenUsd / baseRateUsd : 0;
 
           return {
             id: p.id || folder || 'p' + i,
             name: rawName,
             category: cat,
             seller: p.best_batch || p.budget_batch || 'Multiple batches',
-            price: priceCny,
+            price: chosenUsd,
             featured: p.featured === true || i < 12,
             image: img,
             link: cleanPrimaryUrl || '#',
@@ -382,6 +385,11 @@ function buildAnnouncements() {
 /* ── Product Detail Modal ── */
 let currentProduct = null;
 
+function openProductModalById(id) {
+  const product = PRODUCTS.find(p => String(p.id) === String(id));
+  if (product) openProductModal(product);
+}
+
 function openProductModal(product) {
   currentProduct = product;
   let existing = document.getElementById('productModal');
@@ -500,17 +508,50 @@ function openProductModal(product) {
         ${extraLinksSection}
         ${notesSection}
         ${qcGalleryHtml}
-        <div style="margin-top:20px;display:flex;gap:10px;flex-wrap:wrap;">
-          ${product.link && product.link !== '#' ? `<a href="${esc(product.link)}" target="_blank" rel="noopener" class="btn btn-primary" style="flex:1;justify-content:center;min-width:140px;">Open main link →</a>` : ''}
-          <button class="btn btn-ghost" onclick="saveProduct()" style="min-width:90px;">💾 Save</button>
-          ${product.link && product.link !== '#' ? `<button class="btn btn-ghost" onclick="copyProductLink('${esc(product.link)}')" style="min-width:110px;">Copy main link</button>` : ''}
-        </div>
+        <div style="margin-top:20px;display:flex;gap:8px;flex-wrap:wrap;" id="productModalBtns"></div>
       </div>
     </div>
   `;
   
   document.body.appendChild(modal);
   modal.addEventListener('click', e => { if (e.target === modal) closeProductModal(); });
+
+  // Build action buttons after DOM insertion
+  const btnsDiv = document.getElementById('productModalBtns');
+  if (btnsDiv) {
+    const allLinks = [...(product.bestBatchLinks||[]), ...(product.budgetBatchLinks||[])];
+    const litbuyLink = allLinks.find(l => (l.url||'').includes('litbuy.com'));
+    const directLink = allLinks.find(l => l.original_url || (!(l.url||'').includes('litbuy.com') && (l.url||'') !== ''));
+    const litbuyUrl = litbuyLink ? litbuyLink.url : (product.link && product.link.includes('litbuy') ? product.link : '');
+    const directUrl = directLink ? (directLink.original_url || directLink.url) : '';
+
+    if (litbuyUrl) {
+      const a = document.createElement('a');
+      a.href = litbuyUrl; a.target = '_blank'; a.rel = 'noopener';
+      a.className = 'btn btn-primary'; a.style = 'flex:1;justify-content:center;min-width:120px;';
+      a.textContent = '🛍️ LitBuy';
+      btnsDiv.appendChild(a);
+    }
+    if (directUrl) {
+      const a = document.createElement('a');
+      a.href = directUrl; a.target = '_blank'; a.rel = 'noopener';
+      a.className = 'btn btn-ghost'; a.style = 'min-width:120px;';
+      a.textContent = '🔗 Direct link';
+      btnsDiv.appendChild(a);
+    }
+    if (!litbuyUrl && !directUrl && product.link && product.link !== '#') {
+      const a = document.createElement('a');
+      a.href = product.link; a.target = '_blank'; a.rel = 'noopener';
+      a.className = 'btn btn-primary'; a.style = 'flex:1;justify-content:center;min-width:120px;';
+      a.textContent = 'Open link →';
+      btnsDiv.appendChild(a);
+    }
+    const saveBtn = document.createElement('button');
+    saveBtn.className = 'btn btn-ghost'; saveBtn.style = 'min-width:80px;';
+    saveBtn.textContent = '💾 Save';
+    saveBtn.onclick = () => saveProduct();
+    btnsDiv.appendChild(saveBtn);
+  }
 }
 
 function closeProductModal() {
@@ -672,7 +713,7 @@ function renderCatalogueCards() {
         <div class="cat-card-meta">
           <span class="cat-card-price">${fmt(p.price)}</span>
           <div style="display:flex;gap:4px;align-items:center">
-            <a href="${esc(p.link)}" target="_blank" onclick="event.stopPropagation()" class="btn btn-primary" style="font-size:11px;padding:4px 10px;height:auto">View →</a>
+            <button onclick="event.stopPropagation();openProductModalById('${esc(p.id)}')" class="btn btn-primary" style="font-size:11px;padding:4px 10px;height:auto">View →</button>
           </div>
         </div>
       </div>
@@ -769,13 +810,32 @@ function initAlertsPage() {
 
 /* ── NAV ── */
 function initNav() {
-  const page=document.body?.dataset?.page||'home';
-  const map={home:'index.html',catalogue:'catalogue.html',sellers:'sellers.html',guides:'guides.html',tools:'tools.html',profile:'profile.html',admin:'admin.html',forums:'forums.html',announcements:'announcements.html',alerts:'alerts.html'};
-  document.querySelectorAll('.bnav-item, .snav-item').forEach(a=>{
-    const href=a.getAttribute('href')||'';
-    a.classList.toggle('active',href.includes(map[page]||'__none__'));
+  const page = document.body?.dataset?.page || 'home';
+  const map = {home:'index.html',catalogue:'catalogue.html',sellers:'sellers.html',guides:'guides.html',tools:'tools.html',profile:'profile.html',admin:'admin.html',forums:'forums.html',announcements:'announcements.html',alerts:'alerts.html'};
+
+  // Inject sidebar into every page if not already present
+  if (!document.querySelector('.side-nav')) {
+    const nav = document.createElement('nav');
+    nav.className = 'side-nav';
+    nav.innerHTML = `
+      <div class="snav-logo"><img src="assets/reptaro-logo.png" alt="TAROFINDS"></div>
+      <div class="snav-divider"></div>
+      <a class="snav-item" href="index.html"><span class="snav-icon">🏠</span><span>Home</span></a>
+      <a class="snav-item" href="catalogue.html"><span class="snav-icon">📋</span><span>Catalog</span></a>
+      <a class="snav-item" href="sellers.html"><span class="snav-icon">🏆</span><span>Sellers</span></a>
+      <a class="snav-item" href="guides.html"><span class="snav-icon">📖</span><span>Guides</span></a>
+      <a class="snav-item" href="announcements.html"><span class="snav-icon">📣</span><span>News</span></a>
+      <a class="snav-item" href="tools.html"><span class="snav-icon">🔧</span><span>Tools</span></a>
+      <a class="snav-item" href="admin.html"><span class="snav-icon">⚙️</span><span>Admin</span></a>
+    `;
+    document.body.prepend(nav);
+  }
+
+  document.querySelectorAll('.bnav-item, .snav-item').forEach(a => {
+    const href = a.getAttribute('href') || '';
+    a.classList.toggle('active', href.includes(map[page] || '__none__'));
   });
-  document.querySelectorAll('#currencyLabel').forEach(el=>el.textContent=activeCurrency);
+  document.querySelectorAll('#currencyLabel').forEach(el => el.textContent = activeCurrency);
 }
 
 /* ── Update Stats (animated count-up) ── */
@@ -871,14 +931,23 @@ function initPlatformPopup() {
 
 /* ── Welcome Popup (lang → currency → coupon, platform is now separate) ── */
 function initCoupon() {
-  const modal = $('#couponModal');
-  if (!modal) return;
-  if (!SITE.coupon.enabled) return;
+  // Only show on home page
+  if (document.body.dataset.page !== 'home') return;
   const dismissed = localStorage.getItem('rt_coupon_dismissed');
   if (dismissed) return;
+
+  // Inject modal into DOM if not present
+  let modal = $('#couponModal');
+  if (!modal) {
+    modal = document.createElement('div');
+    modal.id = 'couponModal';
+    modal.className = 'modal-backdrop';
+    modal.innerHTML = '<div class="coupon-box"><div class="coupon-bg"></div><div class="coupon-inner"></div></div>';
+    document.body.appendChild(modal);
+  }
+
   const coupons = getActiveCoupons().filter(c => c.enabled);
-  if (!coupons.length) return;
-  const coupon = coupons[0];
+  const coupon = coupons[0] || null;
 
   let step = 1; // 1=lang, 2=currency, 3=coupon
 
@@ -925,25 +994,30 @@ function initCoupon() {
       box.querySelector('#currNext').onclick = () => { step = 3; renderStep(); };
 
     } else {
+      const code = coupon?.code || SITE.inviteCode;
+      const title = coupon?.title || t('welcome');
+      const message = coupon?.message || t('couponMsg');
+      const btnText = coupon?.button || t('register');
+      const btnUrl = coupon?.url || SITE.coupon.url;
       box.innerHTML = `
         <div class="coupon-bg"></div>
         <div class="coupon-close-row"><button class="coupon-x" id="cpX">✕</button></div>
         <div class="coupon-inner" style="padding-top:4px">
           <div class="coupon-tag">🎁 Special Offer</div>
-          <h3>${coupon.title || t('welcome')}</h3>
-          <p>${coupon.message || t('couponMsg')}</p>
+          <h3>${title}</h3>
+          <p>${message}</p>
           <div class="coupon-code-box">
-            <span>${coupon.code || SITE.inviteCode}</span>
+            <span>${code}</span>
             <button class="copy-btn" id="copyCodeBtn">${t('copy')}</button>
           </div>
           <div class="coupon-actions">
-            <button class="c-btn-white" id="couponGo">${coupon.button || t('register')}</button>
+            <button class="c-btn-white" id="couponGo">${btnText}</button>
             <button class="c-btn-outline" id="couponDismiss">${t('dismiss')}</button>
           </div>
         </div>`;
       box.querySelector('#cpX').onclick = closeCoupon;
-      box.querySelector('#copyCodeBtn').onclick = () => navigator.clipboard?.writeText(coupon.code || SITE.inviteCode).then(() => toast('Code copied!')).catch(() => {});
-      box.querySelector('#couponGo').onclick = () => { window.open(coupon.url || SITE.coupon.url, '_blank'); closeCoupon(); };
+      box.querySelector('#copyCodeBtn').onclick = () => navigator.clipboard?.writeText(code).then(() => toast('Code copied!')).catch(() => {});
+      box.querySelector('#couponGo').onclick = () => { window.open(btnUrl, '_blank'); closeCoupon(); };
       box.querySelector('#couponDismiss').onclick = () => { localStorage.setItem('rt_coupon_dismissed', '1'); closeCoupon(); };
     }
   }
