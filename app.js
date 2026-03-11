@@ -71,7 +71,7 @@ function getCategoryCounts() {
   return counts;
 }
 
-function buildFloatingCategories(targetId, activeCat = '') {
+function buildFloatingCategories(targetId, activeCat = '', onClick) {
   const el = document.getElementById(targetId);
   if (!el) return;
   const counts = getCategoryCounts();
@@ -79,8 +79,7 @@ function buildFloatingCategories(targetId, activeCat = '') {
   const entries = Object.entries(counts).sort((a,b) => b[1] - a[1]);
   const renderLabel = key => key.replace(/[_-]/g,' ').toUpperCase();
   const cards = [
-    `
-    <button class="floating-category-pill ${!activeCat || activeCat === 'all' ? 'active' : ''}" data-category="all" type="button">
+    `<button class="floating-category-pill ${!activeCat || activeCat === 'all' ? 'active' : ''}" data-category="all" type="button">
       <span class="fcp-icon">🔥</span>
       <span class="fcp-meta">
         <span class="fcp-name">ALL PRODUCTS</span>
@@ -90,18 +89,26 @@ function buildFloatingCategories(targetId, activeCat = '') {
     </button>`
   ].concat(entries.map(([key, count]) => {
     const emoji = CAT_EMOJI[key] || '📦';
-    return `
-      <button class="floating-category-pill ${activeCat === key ? 'active' : ''}" data-category="${key}" type="button">
+    return `<button class="floating-category-pill ${activeCat === key ? 'active' : ''}" data-category="${key}" type="button">
         <span class="fcp-icon">${emoji}</span>
         <span class="fcp-meta">
           <span class="fcp-name">${renderLabel(key)}</span>
           <span class="fcp-count">${count} item${count !== 1 ? 's' : ''}</span>
         </span>
         <span class="fcp-arrow">→</span>
-      </button>
-    `;
+      </button>`;
   })).join('');
   el.innerHTML = cards;
+  el.querySelectorAll('.floating-category-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const cat = btn.dataset.category;
+      if (typeof onClick === 'function') {
+        onClick(cat);
+      } else {
+        window.location.href = 'catalogue.html?category=' + encodeURIComponent(cat);
+      }
+    });
+  });
 }
 
 function animateSearchMorphFromHero(query) {
@@ -569,53 +576,72 @@ function saveProduct() {
 }
 
 /* ── CATALOGUE PAGE ── */
-let catState = { cat:'all', q:'', sort:'default' };
+let catState = { cat:'all', q:'', sort:'default', page:1, pageSize:36 };
 
 function initCataloguePage() {
   if(document.body.dataset.page !== 'catalogue') return;
   const urlQ = new URLSearchParams(window.location.search);
   catState.cat = (urlQ.get('category')||'all').toLowerCase();
   catState.q = urlQ.get('q')||'';
+  catState.page = 1;
   const si=$('#catalogueSearch');
-  if(si){ si.value=catState.q; si.addEventListener('input',()=>{catState.q=si.value;renderCatalogueCards();}); }
+  if(si){ si.value=catState.q; si.addEventListener('input',()=>{catState.q=si.value;catState.page=1;renderCatalogueCards();}); }
   const searchBtn=$('#catalogueSearchBtn');
-  if(searchBtn) searchBtn.addEventListener('click',()=>renderCatalogueCards());
+  if(searchBtn) searchBtn.addEventListener('click',()=>{catState.page=1;renderCatalogueCards();});
   const sortSel=$('#sortSelect');
-  if(sortSel) sortSel.addEventListener('change',()=>{catState.sort=sortSel.value;renderCatalogueCards();});
-  buildFloatingCategories('catalogueSidebarCategories', catState.cat);
+  if(sortSel) sortSel.addEventListener('change',()=>{catState.sort=sortSel.value;catState.page=1;renderCatalogueCards();});
+  buildFloatingCategories('catalogueSidebarCategories', catState.cat, (cat) => {
+    catState.cat = cat;
+    catState.page = 1;
+    renderCatalogueCards();
+  });
   renderCatalogueCards();
 }
 
-function renderCatalogueCards() {
-  const grid = document.getElementById('productGrid');
-  if(!grid) return;
-  let filtered = PRODUCTS.filter(p => {
+function getFilteredProducts() {
+  return PRODUCTS.filter(p => {
     let catMatch = catState.cat === 'all';
-    if(!catMatch){
+    if (!catMatch) {
       const pCat = (p.category || '').toLowerCase();
       catMatch = pCat === catState.cat;
     }
     const qMatch = !catState.q || (p.name+p.seller+p.category).toLowerCase().includes(catState.q.toLowerCase());
     return catMatch && qMatch;
   });
+}
+
+function renderCatalogueCards() {
+  const grid = document.getElementById('productGrid');
+  if(!grid) return;
+  let filtered = getFilteredProducts();
   if(catState.sort==='price-asc') filtered.sort((a,b)=>a.price-b.price);
   else if(catState.sort==='price-desc') filtered.sort((a,b)=>b.price-a.price);
   else if(catState.sort==='name') filtered.sort((a,b)=>a.name.localeCompare(b.name));
+  else if(catState.sort==='seller') filtered.sort((a,b)=>(a.seller||'').localeCompare(b.seller||''));
+
+  const totalPages = Math.max(1, Math.ceil(filtered.length / catState.pageSize));
+  catState.page = Math.min(catState.page, totalPages);
+  const start = (catState.page - 1) * catState.pageSize;
+  const pageItems = filtered.slice(start, start + catState.pageSize);
+
   const count=document.getElementById('catalogueCount');
   if(count) count.textContent=`${filtered.length} product${filtered.length!==1?'s':''}`;
-  buildFloatingCategories('catalogueSidebarCategories', catState.cat);
-  if(!filtered.length){ grid.innerHTML=`<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-text">No products found</div><button class="btn btn-ghost" onclick="catState.q='';catState.cat='all';renderCatalogueCards()">Clear filters</button></div>`; return; }
-  grid.innerHTML = filtered.map(p=>{
+  buildFloatingCategories('catalogueSidebarCategories', catState.cat, (cat) => {
+    catState.cat = cat;
+    catState.page = 1;
+    renderCatalogueCards();
+  });
+  if(!filtered.length){ grid.innerHTML=`<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-text">No products found</div><button class="btn btn-ghost" onclick="catState.q='';catState.cat='all';catState.page=1;renderCatalogueCards()">Clear filters</button></div>`; return; }
+
+  const cardsHtml = pageItems.map(p=>{
     const cat=(p.category||'').toLowerCase();
     const bg=CAT_BG[cat]||'linear-gradient(135deg,#e2e8f0,#cbd5e1)';
     const emoji=CAT_EMOJI[cat]||'📦';
     const hasQC = p.qc && p.qcImages && p.qcImages.length > 0;
-    
     let imgHtml = '';
     if (p.image) {
       imgHtml = `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.querySelector('.img-fallback').style.display='flex'">`;
     }
-    
     return `<div class="cat-card" onclick="openProductModal(${JSON.stringify(p).replace(/"/g, '&quot;')})">
       <div class="cat-card-thumb" style="background:${bg};position:relative;overflow:hidden;">
         ${imgHtml}
@@ -634,6 +660,21 @@ function renderCatalogueCards() {
       </div>
     </div>`;
   }).join('');
+
+  const pagerHtml = totalPages > 1 ? `
+    <div class="catalogue-pager">
+      <button class="btn btn-ghost" ${catState.page <= 1 ? 'disabled' : ''} onclick="changeCatPage(-1)">← Previous</button>
+      <span class="pager-label">Page ${catState.page} of ${totalPages}</span>
+      <button class="btn btn-ghost" ${catState.page >= totalPages ? 'disabled' : ''} onclick="changeCatPage(1)">Next →</button>
+    </div>` : '';
+
+  grid.innerHTML = cardsHtml + pagerHtml;
+}
+
+function changeCatPage(delta) {
+  catState.page = Math.max(1, catState.page + delta);
+  renderCatalogueCards();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 /* ── SELLERS PAGE ── */
@@ -926,7 +967,7 @@ function initProfile() {
 /* ── Search ── */
 function initSearch() {
   const navInput = $('#searchInput');
-  const navBtn = document.querySelector('.nav-search-btn');
+  const navBtn = document.querySelector('.nav-search-btn') || document.querySelector('.nav-search button');
   const heroInput = $('#heroSearchInput');
   const heroBtn = $('#heroSearchBtn');
 
@@ -961,28 +1002,24 @@ function initSearch() {
   }
 }
 
-/* ── Scrolling Category Marquee ── */
 /* ── Category Marquee ── */
 function buildCategoryMarquee() {
   const el = $('#categoryMarquee');
   if (!el) return;
   
-  const categoryGroups = {
-    'shoes': { name: 'SHOES', icon: '👟', products: [] },
-    'hoodies': { name: 'HOODIES', icon: '🧥', products: [] },
-    'jackets': { name: 'JACKETS', icon: '🧥', products: [] },
-    'accessories': { name: 'ACCESSORIES', icon: '⌚', products: [] },
-    'clothes': { name: 'CLOTHES', icon: '👕', products: [] },
-    'electronics': { name: 'ELECTRONICS', icon: '🎧', products: [] }
-  };
-  
+  const categoryGroups = {};
   PRODUCTS.forEach(p => {
-    const cat = (p.category || '').toLowerCase();
-    if (categoryGroups[cat]) categoryGroups[cat].products.push(p);
+    const cat = (p.category || '').toLowerCase().trim() || 'other';
+    if (!categoryGroups[cat]) {
+      const label = cat.replace(/[_-]/g,' ').toUpperCase();
+      categoryGroups[cat] = { name: label, icon: CAT_EMOJI[cat] || '📦', products: [] };
+    }
+    categoryGroups[cat].products.push(p);
   });
   
   const rows = Object.entries(categoryGroups)
     .filter(([_, data]) => data.products.length > 0)
+    .sort((a,b) => b[1].products.length - a[1].products.length)
     .map(([cat, data]) => {
       const items = [...data.products.slice(0, 12), ...data.products.slice(0, 12)];
       return `
@@ -1063,7 +1100,19 @@ function toggleSave(e, p) {
 function buildFeaturedGrid() {
   const grid = document.getElementById('featuredGrid');
   if (!grid) return;
-  const featured = PRODUCTS.filter(p => p.featured).slice(0, 12);
+  const counts = getCategoryCounts();
+  const cats = Object.keys(counts);
+  const picked = [];
+  if (cats.length) {
+    const perCat = Math.max(1, Math.ceil(12 / cats.length));
+    cats.forEach(cat => {
+      const pool = PRODUCTS.filter(p => (p.category || '').toLowerCase() === cat);
+      for (let i = pool.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [pool[i], pool[j]] = [pool[j], pool[i]]; }
+      picked.push(...pool.slice(0, perCat));
+    });
+    for (let i = picked.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [picked[i], picked[j]] = [picked[j], picked[i]]; }
+  }
+  const featured = picked.slice(0, 12);
   if (!featured.length) { grid.innerHTML = '<div style="padding:24px;text-align:center;color:var(--muted);font-size:13px;">No featured products yet.</div>'; return; }
   grid.innerHTML = featured.map(p => {
     const cat = (p.category || '').toLowerCase();

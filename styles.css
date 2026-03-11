@@ -613,6 +613,23 @@ body[data-page="home"] .nav-search{opacity:0;pointer-events:none;transform:trans
     width:100%;
   }
 }
+.catalogue-pager{
+  grid-column:1/-1;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:16px;
+  padding:20px 0 8px;
+}
+.catalogue-pager .pager-label{
+  font-size:13px;
+  font-weight:600;
+  color:var(--muted);
+}
+.catalogue-pager .btn[disabled]{
+  opacity:0.3;
+  pointer-events:none;
+}
 .cat-search-bar{
   display:flex;align-items:center;gap:10px;
   background:rgba(255,255,255,0.07);
