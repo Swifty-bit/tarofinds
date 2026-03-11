@@ -29,7 +29,7 @@
         <div class="card-header" style="padding:0 0 12px"><h2>Staff login</h2></div>
         <div class="form-group"><label>Username</label><input id="loginUsername" class="input-field" autocomplete="username"></div>
         <div class="form-group"><label>Password</label><input id="loginPassword" class="input-field" type="password" autocomplete="current-password"></div>
-        <div id="loginError" style="display:none;color:var(--red);font-size:13px;margin:4px 0 12px"></div>
+        <div id="loginError" style="display:none;background:rgba(255,107,107,0.12);border:1px solid var(--red);border-radius:10px;color:var(--red);font-size:13px;padding:10px 14px;margin:4px 0 12px"></div>
         <button id="loginBtn" class="btn btn-primary" type="button" style="width:100%;justify-content:center">Sign in</button>
       </form>
     </section>
@@ -109,7 +109,26 @@
           </div></div>
 
           <div class="card"><div class="card-header"><h2>Sellers snapshot</h2></div><div class="card-body"><div id="adminSellerList"></div></div></div>
-          <div class="card"><div class="card-header"><h2>Staff</h2></div><div class="card-body"><div id="staffList"></div></div></div>
+          <div class="card"><div class="card-header"><h2>Staff</h2></div><div class="card-body">
+            <div id="staffList" style="margin-bottom:18px"></div>
+            <div style="border-top:1px solid var(--line);padding-top:16px">
+              <div style="font-size:13px;font-weight:700;margin-bottom:12px">Create account</div>
+              <div class="form-grid">
+                <div class="form-group"><label>Username</label><input id="newStaffUsername" class="input-field" placeholder="username" autocomplete="off"></div>
+                <div class="form-group"><label>Password</label><input id="newStaffPassword" class="input-field" type="password" placeholder="min 6 chars" autocomplete="new-password"></div>
+                <div class="form-group"><label>Role</label>
+                  <select id="newStaffRole" class="input-field">
+                    <option value="staff">staff</option>
+                    <option value="mod">mod</option>
+                    <option value="dev">dev</option>
+                    <option value="owner">owner</option>
+                  </select>
+                </div>
+              </div>
+              <div id="staffCreateError" style="display:none;background:rgba(255,107,107,0.12);border:1px solid var(--red);border-radius:10px;color:var(--red);font-size:13px;padding:8px 12px;margin:6px 0 10px"></div>
+              <button class="btn btn-primary btn-sm" type="button" onclick="createStaff()">Create account</button>
+            </div>
+          </div></div>
         </div>
       </div>
     </section>

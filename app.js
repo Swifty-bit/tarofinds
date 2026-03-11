@@ -743,8 +743,7 @@ function initSellersPage() {
   if(!grid) return;
   function render(term='') {
     const list=SELLERS.filter(s=>!term||(s.name+s.description).toLowerCase().includes(term));
-    const count=document.getElementById('sellersCount');
-    if(count) count.textContent=list.length;
+    ['badgeSellers','badgeSellers2','sellersCount'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=list.length;});
     grid.innerHTML=list.map(s=>{
       return `<div class="seller-card">
         <div class="sc-avatar">${sellerAvatarHtml(s)}</div>
@@ -933,8 +932,9 @@ function initPlatformPopup() {
 function initCoupon() {
   // Only show on home page
   if (document.body.dataset.page !== 'home') return;
-  const dismissed = localStorage.getItem('rt_coupon_dismissed');
-  if (dismissed) return;
+  // Use 'rt_welcomed' so changing coupons can re-trigger for new users
+  const welcomed = localStorage.getItem('rt_welcomed');
+  if (welcomed) return;
 
   // Inject modal into DOM if not present
   let modal = $('#couponModal');
@@ -951,7 +951,7 @@ function initCoupon() {
 
   let step = 1; // 1=lang, 2=currency, 3=coupon
 
-  function closeCoupon() { modal.classList.remove('active'); }
+  function closeCoupon() { modal.classList.remove('active'); localStorage.setItem('rt_welcomed','1'); }
 
   function renderStep() {
     const box = modal.querySelector('.coupon-box');
@@ -1018,7 +1018,7 @@ function initCoupon() {
       box.querySelector('#cpX').onclick = closeCoupon;
       box.querySelector('#copyCodeBtn').onclick = () => navigator.clipboard?.writeText(code).then(() => toast('Code copied!')).catch(() => {});
       box.querySelector('#couponGo').onclick = () => { window.open(btnUrl, '_blank'); closeCoupon(); };
-      box.querySelector('#couponDismiss').onclick = () => { localStorage.setItem('rt_coupon_dismissed', '1'); closeCoupon(); };
+      box.querySelector('#couponDismiss').onclick = () => { localStorage.setItem('rt_welcomed', '1'); closeCoupon(); };
     }
   }
 
