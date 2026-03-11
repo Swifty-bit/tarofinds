@@ -170,19 +170,33 @@ const CAT_BG = {
 
 /* ── Load JSON data ── */
 async function loadData() {
-  try {
-    const [pr, sr] = await Promise.allSettled([
-      fetch('products.json').then(r => r.json()),
-      fetch('sellers.json').then(r => r.json()),
-    ]);
-    if (pr.status === 'fulfilled' && Array.isArray(pr.value)) {
-      PRODUCTS = pr.value
+  async function loadProductsFromFolder() {
+    try {
+      const res = await fetch('products/index.json', { cache: 'no-store' });
+      const raw = await res.json();
+      if (!Array.isArray(raw)) return [];
+      return raw
         .map((p, i) => {
-          const img = p.image || p.imageUrl || p.photo || '';
-          const link = (p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#')
-            .replace(/inviteCode=SWIFTY/gi, 'inviteCode=REPTARO');
+          const folder = (p.folder || '').trim();
+          const localImage = (p.local_image || 'image.jpg').trim();
+          const localPath = folder ? `products/${folder}/${localImage}` : '';
+          const fallbackImg = p.image_url || (p.raw_cells && p.raw_cells.col_2 && p.raw_cells.col_2.image) || '';
+          const img = localPath || fallbackImg || '';
+
+          const firstBest = Array.isArray(p.best_batch_links) && p.best_batch_links.length ? p.best_batch_links[0] : null;
+          const firstBudget = Array.isArray(p.budget_batch_links) && p.budget_batch_links.length ? p.budget_batch_links[0] : null;
+
+          const primaryUrl =
+            (firstBest && firstBest.url) ||
+            (firstBudget && firstBudget.url) ||
+            '';
+
+          const cleanPrimaryUrl = primaryUrl
+            ? primaryUrl.replace(/inviteCode=SWIFTY/gi, 'inviteCode=REPTARO')
+            : '';
+
           const rawName = (p.name || '').trim().replace(/\n/g, ' ');
-          let cat = (p.category || p.tag || '').toLowerCase().trim();
+          let cat = (p.category || '').toLowerCase().trim();
           if (!cat) {
             const n = rawName.toLowerCase();
             if (/shoe|jordan|dunk|force|yeezy|trainer|sneaker|boot/i.test(n)) cat = 'shoes';
@@ -194,20 +208,85 @@ async function loadData() {
             else if (/shirt|trouser|pant|jean|sweat|track/i.test(n)) cat = 'clothes';
             else cat = 'clothes';
           }
+
+          const priceText = String(p.best_price || p.budget_price || '').match(/[\d.]+/);
+          const price = priceText ? parseFloat(priceText[0]) || 0 : 0;
+
           return {
-            id: p.id || 'p' + i,
+            id: p.id || folder || 'p' + i,
             name: rawName,
             category: cat,
-            seller: p.seller || p.agentName || '',
-            price: parseFloat(p.price || p.sellPrice) || 0,
+            seller: p.best_batch || p.budget_batch || 'Multiple batches',
+            price,
             featured: p.featured === true || i < 12,
             image: img,
-            link: link,
-            qc: p.qc_available || p.qc || false,
-            qcImages: p.qc_images || p.qcImages || [],
+            link: cleanPrimaryUrl || '#',
+            qc: false,
+            qcImages: [],
+            // extra rich data for detail view
+            bestBatch: p.best_batch || '',
+            bestBatchLinks: Array.isArray(p.best_batch_links) ? p.best_batch_links : [],
+            budgetBatch: p.budget_batch || '',
+            budgetBatchLinks: Array.isArray(p.budget_batch_links) ? p.budget_batch_links : [],
+            picsText: p.pics_text || '',
+            picsLinks: Array.isArray(p.pics_links) ? p.pics_links : [],
+            notes: p.notes || '',
+            imageUrl: p.image_url || '',
+            folder,
+            localImage,
           };
         })
         .filter(p => p.image && p.name);
+    } catch (e) {
+      console.warn('loadProductsFromFolder error:', e);
+      return [];
+    }
+  }
+
+  try {
+    const [folderProducts, sr] = await Promise.allSettled([
+      loadProductsFromFolder(),
+      fetch('sellers.json').then(r => r.json()),
+    ]);
+
+    if (folderProducts.status === 'fulfilled' && Array.isArray(folderProducts.value) && folderProducts.value.length) {
+      PRODUCTS = folderProducts.value;
+    } else {
+      const prFallback = await fetch('products.json').then(r => r.json()).catch(() => null);
+      if (Array.isArray(prFallback)) {
+        PRODUCTS = prFallback
+          .map((p, i) => {
+            const img = p.image || p.imageUrl || p.photo || '';
+            const link = (p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#')
+              .replace(/inviteCode=SWIFTY/gi, 'inviteCode=REPTARO');
+            const rawName = (p.name || '').trim().replace(/\n/g, ' ');
+            let cat = (p.category || p.tag || '').toLowerCase().trim();
+            if (!cat) {
+              const n = rawName.toLowerCase();
+              if (/shoe|jordan|dunk|force|yeezy|trainer|sneaker|boot/i.test(n)) cat = 'shoes';
+              else if (/hoodie|hoody/i.test(n)) cat = 'hoodies';
+              else if (/jacket|puffer|coat|down\b|goose|nuptse|moncler/i.test(n)) cat = 'jackets';
+              else if (/watch|bag|belt|hat|cap|sunglasse|wallet|chain|ring|bracelet|necklace|beanie/i.test(n)) cat = 'accessories';
+              else if (/headphone|earphone|airpod|speaker|charger|phone/i.test(n)) cat = 'electronics';
+              else if (/t-shirt|tee|short|polo/i.test(n)) cat = 'clothes';
+              else if (/shirt|trouser|pant|jean|sweat|track/i.test(n)) cat = 'clothes';
+              else cat = 'clothes';
+            }
+            return {
+              id: p.id || 'p' + i,
+              name: rawName,
+              category: cat,
+              seller: p.seller || p.agentName || '',
+              price: parseFloat(p.price || p.sellPrice) || 0,
+              featured: p.featured === true || i < 12,
+              image: img,
+              link: link,
+              qc: p.qc_available || p.qc || false,
+              qcImages: p.qc_images || p.qcImages || [],
+            };
+          })
+          .filter(p => p.image && p.name);
+      }
     }
     if (sr.status === 'fulfilled' && Array.isArray(sr.value)) {
       SELLERS = sr.value.map(s => ({
@@ -301,7 +380,11 @@ function openProductModal(product) {
   modal.className = 'modal-backdrop active';
   
   const hasQC = product.qc && product.qcImages && product.qcImages.length > 0;
-  const mainImage = product.image;
+
+  const localImgPath = (product.folder && product.localImage)
+    ? `products/${product.folder}/${product.localImage}`
+    : '';
+  const mainImage = localImgPath || product.image || product.imageUrl || '';
   
   let qcGalleryHtml = '';
   if (hasQC) {
@@ -320,6 +403,64 @@ function openProductModal(product) {
       </div>
     `;
   }
+
+  const bestLinks = Array.isArray(product.bestBatchLinks) ? product.bestBatchLinks : [];
+  const budgetLinks = Array.isArray(product.budgetBatchLinks) ? product.budgetBatchLinks : [];
+  const extraLinks = Array.isArray(product.picsLinks) ? product.picsLinks : [];
+
+  const bestSection = (product.bestBatch || bestLinks.length) ? `
+    <div style="margin-top:20px;">
+      <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;">
+        Best batch ${product.bestBatch ? `· ${esc(product.bestBatch)}` : ''}
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:8px;">
+        ${bestLinks.map(l => `
+          <a href="${esc(l.url || l.original_url || '#')}" target="_blank" rel="noopener" class="btn btn-ghost"
+             style="font-size:12px;padding:6px 10px;height:auto;">
+            ${esc(l.label || 'Link')}
+          </a>
+        `).join('')}
+      </div>
+    </div>
+  ` : '';
+
+  const budgetSection = (product.budgetBatch || budgetLinks.length) ? `
+    <div style="margin-top:16px;">
+      <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;">
+        Budget batch ${product.budgetBatch ? `· ${esc(product.budgetBatch)}` : ''}
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:8px;">
+        ${budgetLinks.map(l => `
+          <a href="${esc(l.url || l.original_url || '#')}" target="_blank" rel="noopener" class="btn btn-ghost"
+             style="font-size:12px;padding:6px 10px;height:auto;">
+            ${esc(l.label || 'Link')}
+          </a>
+        `).join('')}
+      </div>
+    </div>
+  ` : '';
+
+  const extraLinksSection = extraLinks.length ? `
+    <div style="margin-top:16px;">
+      <div style="font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;">
+        Extra links & pics
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:8px;">
+        ${extraLinks.map(l => `
+          <a href="${esc(l.url || '#')}" target="_blank" rel="noopener" class="btn btn-ghost"
+             style="font-size:12px;padding:6px 10px;height:auto;">
+            ${esc(l.label || 'View')}
+          </a>
+        `).join('')}
+      </div>
+    </div>
+  ` : '';
+
+  const notesSection = product.notes ? `
+    <div style="margin-top:16px;font-size:13px;color:var(--muted);white-space:pre-wrap;">
+      ${esc(product.notes)}
+    </div>
+  ` : '';
   
   modal.innerHTML = `
     <div class="modal-box" style="max-width:600px;max-height:90vh;overflow:auto;">
@@ -335,15 +476,20 @@ function openProductModal(product) {
           <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:12px;">
             <span class="badge badge-blue">${esc(product.category)}</span>
             ${hasQC ? '<span class="badge badge-green">QC ✓</span>' : ''}
-            <span style="margin-left:auto;font-size:24px;font-weight:800;color:var(--blue);">${fmt(product.price)}</span>
+            ${product.price ? `<span style="margin-left:auto;font-size:24px;font-weight:800;color:var(--blue);">${fmt(product.price)}</span>` : ''}
           </div>
-          <div style="font-size:14px;color:var(--muted);margin-bottom:8px;">Seller: <strong style="color:var(--text);">${esc(product.seller)}</strong></div>
+          ${product.seller ? `<div style="font-size:14px;color:var(--muted);margin-bottom:8px;">Batch / seller: <strong style="color:var(--text);">${esc(product.seller)}</strong></div>` : ''}
+          ${product.picsText ? `<div style="font-size:12px;color:var(--muted);">Pics: ${esc(product.picsText)}</div>` : ''}
         </div>
+        ${bestSection}
+        ${budgetSection}
+        ${extraLinksSection}
+        ${notesSection}
         ${qcGalleryHtml}
-        <div style="margin-top:20px;display:flex;gap:10px;">
-          <a href="${esc(product.link)}" target="_blank" rel="noopener" class="btn btn-primary" style="flex:1;justify-content:center;">View Product →</a>
-          <button class="btn btn-ghost" onclick="saveProduct()">💾 Save</button>
-          <button class="btn btn-ghost" onclick="copyProductLink('${esc(product.link)}')">Copy Link</button>
+        <div style="margin-top:20px;display:flex;gap:10px;flex-wrap:wrap;">
+          ${product.link && product.link !== '#' ? `<a href="${esc(product.link)}" target="_blank" rel="noopener" class="btn btn-primary" style="flex:1;justify-content:center;min-width:140px;">Open main link →</a>` : ''}
+          <button class="btn btn-ghost" onclick="saveProduct()" style="min-width:90px;">💾 Save</button>
+          ${product.link && product.link !== '#' ? `<button class="btn btn-ghost" onclick="copyProductLink('${esc(product.link)}')" style="min-width:110px;">Copy main link</button>` : ''}
         </div>
       </div>
     </div>
