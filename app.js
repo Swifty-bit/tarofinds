@@ -156,7 +156,22 @@ function toast(msg, dur = 2400) {
   toastTimer = setTimeout(() => { el.style.opacity = '0'; el.style.transform = 'translateX(-50%) translateY(8px)'; }, dur);
 }
 
-const CAT_EMOJI = { 'clothes':'👕','t-shirts & shorts':'👕','shoes':'👟','accessories':'⌚','electronics':'🎧','hoodies':'🧥','puffer jackets and coats':'🧥','puffer jackets':'🧥' };
+const CAT_EMOJI = {
+  'clothes':'👕',
+  't-shirts & shorts':'👕',
+  'shoes':'👟',
+  'accessories':'⌚',
+  'electronics':'🎧',
+  'hoodies':'🧥',
+  'puffer jackets and coats':'🧥',
+  'puffer jackets':'🧥',
+  'belts':'⌚',
+  'jewelry':'💍',
+  'glasses':'🕶️',
+  'room accessories':'🛋️',
+  'room_accessories':'🛋️',
+  'gym':'🏋️',
+};
 const CAT_BG = {
   'clothes':'linear-gradient(135deg,#dbeafe,#bfdbfe)',
   't-shirts & shorts':'linear-gradient(135deg,#dbeafe,#bfdbfe)',
@@ -166,6 +181,12 @@ const CAT_BG = {
   'hoodies':'linear-gradient(135deg,#fef3c7,#fde68a)',
   'puffer jackets and coats':'linear-gradient(135deg,#e0f2fe,#bae6fd)',
   'puffer jackets':'linear-gradient(135deg,#e0f2fe,#bae6fd)',
+  'belts':'linear-gradient(135deg,#fee2e2,#fecaca)',
+  'jewelry':'linear-gradient(135deg,#fef3c7,#fde68a)',
+  'glasses':'linear-gradient(135deg,#e0f2fe,#bae6fd)',
+  'room accessories':'linear-gradient(135deg,#e5e7eb,#d1d5db)',
+  'room_accessories':'linear-gradient(135deg,#e5e7eb,#d1d5db)',
+  'gym':'linear-gradient(135deg,#dcfce7,#bbf7d0)',
 };
 
 /* ── Load JSON data ── */
@@ -260,45 +281,10 @@ async function loadData() {
       fetch('sellers.json').then(r => r.json()),
     ]);
 
-    if (folderProducts.status === 'fulfilled' && Array.isArray(folderProducts.value) && folderProducts.value.length) {
-      PRODUCTS = folderProducts.value;
-    } else {
-      const prFallback = await fetch('products.json').then(r => r.json()).catch(() => null);
-      if (Array.isArray(prFallback)) {
-        PRODUCTS = prFallback
-          .map((p, i) => {
-            const img = p.image || p.imageUrl || p.photo || '';
-            const link = (p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#')
-              .replace(/inviteCode=SWIFTY/gi, 'inviteCode=REPTARO');
-            const rawName = (p.name || '').trim().replace(/\n/g, ' ');
-            let cat = (p.category || p.tag || '').toLowerCase().trim();
-            if (!cat) {
-              const n = rawName.toLowerCase();
-              if (/shoe|jordan|dunk|force|yeezy|trainer|sneaker|boot/i.test(n)) cat = 'shoes';
-              else if (/hoodie|hoody/i.test(n)) cat = 'hoodies';
-              else if (/jacket|puffer|coat|down\b|goose|nuptse|moncler/i.test(n)) cat = 'jackets';
-              else if (/watch|bag|belt|hat|cap|sunglasse|wallet|chain|ring|bracelet|necklace|beanie/i.test(n)) cat = 'accessories';
-              else if (/headphone|earphone|airpod|speaker|charger|phone/i.test(n)) cat = 'electronics';
-              else if (/t-shirt|tee|short|polo/i.test(n)) cat = 'clothes';
-              else if (/shirt|trouser|pant|jean|sweat|track/i.test(n)) cat = 'clothes';
-              else cat = 'clothes';
-            }
-            return {
-              id: p.id || 'p' + i,
-              name: rawName,
-              category: cat,
-              seller: p.seller || p.agentName || '',
-              price: parseFloat(p.price || p.sellPrice) || 0,
-              featured: p.featured === true || i < 12,
-              image: img,
-              link: link,
-              qc: p.qc_available || p.qc || false,
-              qcImages: p.qc_images || p.qcImages || [],
-            };
-          })
-          .filter(p => p.image && p.name);
-      }
-    }
+    PRODUCTS = folderProducts.status === 'fulfilled' && Array.isArray(folderProducts.value)
+      ? folderProducts.value
+      : [];
+
     if (sr.status === 'fulfilled' && Array.isArray(sr.value)) {
       SELLERS = sr.value.map(s => ({
         id: s.id,

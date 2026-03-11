@@ -23,8 +23,38 @@ function saveCoupons() { localStorage.setItem('rt_coupons', JSON.stringify(admin
 function saveProducts() { localStorage.setItem('rt_products_override', JSON.stringify(adminState.products)); }
 function saveSellers() { localStorage.setItem('rt_sellers_override', JSON.stringify(adminState.sellers)); }
 function saveAnnouncements() { localStorage.setItem('rt_announcements', JSON.stringify(adminState.announcements)); }
-function seedDefaultCredentials() { return [{ id:'staff_dev_swifty', username:'dev-swifty', password:'Kacperek2010', role:'dev', hashed:false, created_at:new Date().toISOString() }, { id:'staff_tony1', username:'tony1', password:'Pfannkuchen10', role:'owner', hashed:false, created_at:new Date().toISOString() }]; }
-async function loadOrBootstrapStaff() { let savedStaff = localStorage.getItem('rt_staff'); if (!savedStaff) { adminState.staff = seedDefaultCredentials(); saveStaff(); savedStaff = localStorage.getItem('rt_staff'); } try { adminState.staff = JSON.parse(savedStaff || '[]'); } catch { adminState.staff = seedDefaultCredentials(); } let changed = false; for (const s of adminState.staff) { if (!s.hashed && s.password) { s.password = await hashPassword(s.password); s.hashed = true; changed = true; } s.username = String(s.username || '').trim().toLowerCase(); } if (changed) saveStaff(); }
+function seedDefaultCredentials() {
+  return [
+    { id:'staff_dev_swifty', username:'dev-swifty', password:'Kacperek##2010', role:'dev', hashed:false, created_at:new Date().toISOString() },
+    { id:'staff_tony1', username:'owner-tony1', password:'Pfannkuchen10', role:'owner', hashed:false, created_at:new Date().toISOString() },
+  ];
+}
+async function loadOrBootstrapStaff() {
+  let savedStaff = localStorage.getItem('rt_staff');
+  if (!savedStaff) {
+    adminState.staff = seedDefaultCredentials();
+    saveStaff();
+    savedStaff = localStorage.getItem('rt_staff');
+  }
+  try {
+    adminState.staff = JSON.parse(savedStaff || '[]');
+  } catch {
+    adminState.staff = seedDefaultCredentials();
+  }
+  if (!Array.isArray(adminState.staff) || !adminState.staff.length) {
+    adminState.staff = seedDefaultCredentials();
+  }
+  let changed = false;
+  for (const s of adminState.staff) {
+    if (!s.hashed && s.password) {
+      s.password = await hashPassword(s.password);
+      s.hashed = true;
+      changed = true;
+    }
+    s.username = String(s.username || '').trim().toLowerCase();
+  }
+  if (changed) saveStaff();
+}
 function normalizeAdminProduct(p, i) { const raw = String(p.category || p.tag || '').trim().toLowerCase(); return { id: p.id || ('p' + i), name: String(p.name || '').trim(), category: (!raw || raw === 'other') ? inferCategory(p.name || '') : raw, seller: String(p.seller || p.agentName || 'Unknown').trim(), price: parseFloat(p.price || p.sellPrice || 0) || 0, featured: Boolean(p.featured), image: p.image || p.imageUrl || p.photo || '', link: p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#', qc_available: Boolean(p.qc_available || p.qc), qc_images: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []), dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10) }; }
 async function loadAdminData() { const savedProducts = localStorage.getItem('rt_products_override'); const savedSellers = localStorage.getItem('rt_sellers_override'); if (savedProducts) { try { adminState.products = JSON.parse(savedProducts).map(normalizeAdminProduct); } catch {} } if (!adminState.products.length) { try { const pr = await fetch('products.json', { cache:'no-store' }).then(r => r.json()); adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct) : []; } catch {} } if (savedSellers) { try { adminState.sellers = JSON.parse(savedSellers); } catch {} } if (!adminState.sellers.length) { try { const sr = await fetch('sellers.json', { cache:'no-store' }).then(r => r.json()); adminState.sellers = Array.isArray(sr) ? sr : []; } catch {} } }
 function loadCoupons() { try { adminState.coupons = JSON.parse(localStorage.getItem('rt_coupons') || '[]'); } catch { adminState.coupons = []; } }
