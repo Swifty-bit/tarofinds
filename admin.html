@@ -46,14 +46,18 @@
         <div class="admin-stack">
           <div class="card"><div class="card-header"><h2 id="productFormTitle">Add product</h2></div><div class="card-body">
             <div class="form-grid">
-              <div class="form-group"><label>Name</label><input id="addProdName" class="input-field"></div>
-              <div class="form-group"><label>Category</label><input id="addProdCategory" class="input-field" value="shoes"></div>
-              <div class="form-group"><label>Price (CNY)</label><input id="addProdPrice" class="input-field" type="number" step="0.01"></div>
-              <div class="form-group"><label>Seller</label><input id="addProdSeller" class="input-field"></div>
-              <div class="form-group"><label>Product link</label><input id="addProdLink" class="input-field"></div>
-              <div class="form-group"><label>Image link</label><input id="addProdImage" class="input-field"></div>
-              <div class="form-group" style="grid-column:1/-1"><label>QC image links (comma separated)</label><input id="addProdQC" class="input-field"></div>
-              <label style="display:flex;align-items:center;gap:10px;font-size:13px"><input id="addProdFeatured" type="checkbox"> Featured product</label>
+              <div class="form-group" style="grid-column:1/-1"><label>Name</label><input id="addProdName" class="input-field"></div>
+              <div class="form-group"><label>Category</label><input id="addProdCategory" class="input-field" placeholder="shoes, clothes, belts…"></div>
+              <div class="form-group"><label>Image URL</label><input id="addProdImage" class="input-field" placeholder="https://…"></div>
+              <div class="form-group"><label>Best batch name</label><input id="addProdBestBatch" class="input-field" placeholder="GX/RFA"></div>
+              <div class="form-group"><label>Best price (USD)</label><input id="addProdBestPrice" class="input-field" placeholder="35$"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Best batch links (JSON array or comma-separated URLs)</label><textarea id="addProdBestLinks" class="input-field" rows="2" placeholder='[{"label":"GX","url":"https://…"}] or just URLs'></textarea></div>
+              <div class="form-group"><label>Budget batch name</label><input id="addProdBudgetBatch" class="input-field" placeholder="WTG/PT"></div>
+              <div class="form-group"><label>Budget price (USD)</label><input id="addProdBudgetPrice" class="input-field" placeholder="17$"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Budget batch links (JSON array or comma-separated URLs)</label><textarea id="addProdBudgetLinks" class="input-field" rows="2" placeholder='[{"label":"WTG","url":"https://…"}]'></textarea></div>
+              <div class="form-group" style="grid-column:1/-1"><label>QC / extra links (JSON array or comma-separated URLs)</label><textarea id="addProdQC" class="input-field" rows="2" placeholder='[{"label":"QC","url":"https://…"}]'></textarea></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Notes</label><input id="addProdNotes" class="input-field" placeholder="Any extra info…"></div>
+              <label style="display:flex;align-items:center;gap:10px;font-size:13px;grid-column:1/-1"><input id="addProdFeatured" type="checkbox"> Featured product</label>
             </div>
             <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><button id="productSubmitBtn" class="btn btn-primary btn-sm" type="button" onclick="upsertProduct()">Add product</button><button class="btn btn-ghost btn-sm" type="button" onclick="clearProductForm()">Clear</button></div>
           </div></div>

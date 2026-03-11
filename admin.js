@@ -30,28 +30,32 @@ function seedDefaultCredentials() {
   ];
 }
 async function loadOrBootstrapStaff() {
+  const defaults = seedDefaultCredentials();
+  const defaultUsernames = defaults.map(d => d.username.toLowerCase());
   let savedStaff = localStorage.getItem('rt_staff');
-  if (!savedStaff) {
-    adminState.staff = seedDefaultCredentials();
-    saveStaff();
-    savedStaff = localStorage.getItem('rt_staff');
+  let parsed = [];
+  try { parsed = JSON.parse(savedStaff || '[]'); } catch { parsed = []; }
+  if (!Array.isArray(parsed) || !parsed.length) {
+    parsed = defaults;
   }
-  try {
-    adminState.staff = JSON.parse(savedStaff || '[]');
-  } catch {
-    adminState.staff = seedDefaultCredentials();
+  // Ensure default accounts always exist and have correct passwords (reseed if missing)
+  for (const def of defaults) {
+    const existing = parsed.find(s => s.username.toLowerCase() === def.username.toLowerCase());
+    if (!existing) {
+      parsed.push({ ...def });
+    } else if (existing.username.toLowerCase() !== existing.username) {
+      existing.username = existing.username.toLowerCase();
+    }
   }
-  if (!Array.isArray(adminState.staff) || !adminState.staff.length) {
-    adminState.staff = seedDefaultCredentials();
-  }
+  adminState.staff = parsed;
   let changed = false;
   for (const s of adminState.staff) {
+    s.username = String(s.username || '').trim().toLowerCase();
     if (!s.hashed && s.password) {
       s.password = await hashPassword(s.password);
       s.hashed = true;
       changed = true;
     }
-    s.username = String(s.username || '').trim().toLowerCase();
   }
   if (changed) saveStaff();
 }
@@ -66,9 +70,76 @@ function showLogin() { if ($('adminLogin')) $('adminLogin').style.display = 'gri
 function roleCanManageStaff() { return ['owner','dev'].includes(adminState.user?.role); }
 function showDashboard() { if ($('adminLogin')) $('adminLogin').style.display = 'none'; if ($('adminDashboard')) $('adminDashboard').style.display = 'block'; const badge = $('adminRoleBadge'); if (badge) { const role = adminState.user?.role || 'staff'; badge.textContent = role.toUpperCase(); badge.className = 'role-badge role-' + role; } updateKPIs(); renderAdminProductList(); renderSellerList(); renderStaffList(); renderCouponList(); renderAnnouncementList(); loadSettingToggles(); syncNav(); }
 function updateKPIs() { if ($('adminProducts')) $('adminProducts').textContent = adminState.products.length.toLocaleString(); if ($('adminSellers')) $('adminSellers').textContent = adminState.sellers.length.toLocaleString(); if ($('adminStaff')) $('adminStaff').textContent = adminState.staff.length.toLocaleString(); if ($('adminCoupons')) $('adminCoupons').textContent = adminState.coupons.length.toLocaleString(); }
-function fillProductForm(p = null) { adminState.editingProductId = p?.id || null; $('productFormTitle').textContent = p ? 'Edit product' : 'Add product'; $('productSubmitBtn').textContent = p ? 'Save product' : 'Add product'; $('addProdName').value = p?.name || ''; $('addProdCategory').value = p?.category || 'shoes'; $('addProdPrice').value = p?.price || ''; $('addProdSeller').value = p?.seller || ''; $('addProdLink').value = p?.link || ''; $('addProdImage').value = p?.image || ''; $('addProdQC').value = Array.isArray(p?.qc_images) ? p.qc_images.join(', ') : ''; $('addProdFeatured').checked = Boolean(p?.featured); }
+function linksToString(arr) {
+  if (!Array.isArray(arr) || !arr.length) return '';
+  try { return JSON.stringify(arr); } catch { return ''; }
+}
+function parseLinks(val) {
+  val = (val || '').trim();
+  if (!val) return [];
+  try {
+    const parsed = JSON.parse(val);
+    if (Array.isArray(parsed)) return parsed;
+  } catch {}
+  // fallback: comma-separated URLs
+  return val.split(',').map(u => u.trim()).filter(Boolean).map((u, i) => ({ label: 'Link ' + (i+1), url: u }));
+}
+function fillProductForm(p = null) {
+  adminState.editingProductId = p?.id || null;
+  $('productFormTitle').textContent = p ? 'Edit product' : 'Add product';
+  $('productSubmitBtn').textContent = p ? 'Save product' : 'Add product';
+  $('addProdName').value = p?.name || '';
+  $('addProdCategory').value = p?.category || '';
+  $('addProdImage').value = p?.image || p?.imageUrl || '';
+  $('addProdBestBatch').value = p?.bestBatch || p?.best_batch || '';
+  $('addProdBestPrice').value = p?.bestPrice || p?.best_price || '';
+  $('addProdBestLinks').value = linksToString(p?.bestBatchLinks || p?.best_batch_links || []);
+  $('addProdBudgetBatch').value = p?.budgetBatch || p?.budget_batch || '';
+  $('addProdBudgetPrice').value = p?.budgetPrice || p?.budget_price || '';
+  $('addProdBudgetLinks').value = linksToString(p?.budgetBatchLinks || p?.budget_batch_links || []);
+  $('addProdQC').value = linksToString(p?.picsLinks || p?.qc_images || []);
+  $('addProdNotes').value = p?.notes || '';
+  $('addProdFeatured').checked = Boolean(p?.featured);
+}
 function clearProductForm() { fillProductForm(null); }
-function upsertProduct() { const name = $('addProdName')?.value.trim(); const category = ($('addProdCategory')?.value || '').trim().toLowerCase() || inferCategory(name); const price = parseFloat($('addProdPrice')?.value || '0') || 0; const seller = $('addProdSeller')?.value.trim() || 'Unknown'; const link = $('addProdLink')?.value.trim() || '#'; const image = $('addProdImage')?.value.trim() || ''; const qc_images = ($('addProdQC')?.value || '').split(',').map(s => s.trim()).filter(Boolean); const featured = Boolean($('addProdFeatured')?.checked); if (!name || !price) return toast('Add a product name and price'); const record = { id: adminState.editingProductId || ('p' + Date.now()), name, category, price, seller, link, image, featured, qc_available: qc_images.length > 0, qc_images, dateAdded: new Date().toISOString().slice(0, 10) }; if (adminState.editingProductId) { adminState.products = adminState.products.map(p => p.id === record.id ? record : p); toast('Product updated'); } else { adminState.products.unshift(record); toast('Product added'); } saveProducts(); updateKPIs(); renderAdminProductList(); clearProductForm(); }
+function upsertProduct() {
+  const name = $('addProdName')?.value.trim();
+  if (!name) return toast('Add a product name');
+  const category = ($('addProdCategory')?.value || '').trim().toLowerCase() || inferCategory(name);
+  const image = $('addProdImage')?.value.trim() || '';
+  const bestBatch = $('addProdBestBatch')?.value.trim() || '';
+  const bestPrice = $('addProdBestPrice')?.value.trim() || '';
+  const bestBatchLinks = parseLinks($('addProdBestLinks')?.value || '');
+  const budgetBatch = $('addProdBudgetBatch')?.value.trim() || '';
+  const budgetPrice = $('addProdBudgetPrice')?.value.trim() || '';
+  const budgetBatchLinks = parseLinks($('addProdBudgetLinks')?.value || '');
+  const picsLinks = parseLinks($('addProdQC')?.value || '');
+  const notes = $('addProdNotes')?.value.trim() || '';
+  const featured = Boolean($('addProdFeatured')?.checked);
+  const primaryLink = (bestBatchLinks[0]?.url || budgetBatchLinks[0]?.url || '#');
+  const priceMatch = String(bestPrice || budgetPrice || '').match(/[\d.]+/);
+  const priceUsd = priceMatch ? parseFloat(priceMatch[0]) : 0;
+  const priceCny = priceUsd ? priceUsd / (window.RATES?.USD || 0.138) : 0;
+  const record = {
+    id: adminState.editingProductId || ('p' + Date.now()),
+    name, category, image,
+    price: priceCny,
+    bestBatch, bestPrice, bestBatchLinks,
+    budgetBatch, budgetPrice, budgetBatchLinks,
+    picsLinks, notes, featured,
+    seller: bestBatch || budgetBatch || '',
+    link: primaryLink,
+    dateAdded: new Date().toISOString().slice(0, 10)
+  };
+  if (adminState.editingProductId) {
+    adminState.products = adminState.products.map(p => p.id === record.id ? record : p);
+    toast('Product updated');
+  } else {
+    adminState.products.unshift(record);
+    toast('Product added');
+  }
+  saveProducts(); updateKPIs(); renderAdminProductList(); clearProductForm();
+}
 function editProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; fillProductForm(product); window.scrollTo({ top:0, behavior:'smooth' }); }
 function deleteProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; if (!confirm(`Delete ${product.name}?`)) return; adminState.products = adminState.products.filter(p => String(p.id) !== String(id)); saveProducts(); updateKPIs(); renderAdminProductList(); toast('Product deleted'); }
 function renderAdminProductList() { const list = $('adminProductList'); if (!list) return; const q = ($('prodSearch')?.value || '').toLowerCase(); const filtered = adminState.products.filter(p => !q || `${p.name} ${p.seller} ${p.category}`.toLowerCase().includes(q)); const totalPages = Math.max(1, Math.ceil(filtered.length / adminState.productPageSize)); adminState.productPage = Math.min(adminState.productPage, totalPages); const start = (adminState.productPage - 1) * adminState.productPageSize; const items = filtered.slice(start, start + adminState.productPageSize); list.innerHTML = !items.length ? `<div style="padding:18px;color:var(--muted)">No products found.</div>` : items.map(p => `<div class="admin-row"><div class="admin-row-thumb">${p.image ? `<img src="${escapeHtml(p.image)}" style="width:100%;height:100%;object-fit:cover;">` : '📦'}</div><div style="flex:1;min-width:0;"><div style="font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeHtml(p.name)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(p.category)} · ${escapeHtml(p.seller)} · ${escapeHtml(p.dateAdded || '')}</div></div><div style="font-weight:800;color:var(--blue);">¥${Number(p.price || 0).toFixed(2)}</div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editProduct('${escapeHtml(p.id)}')">Edit</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteProduct('${escapeHtml(p.id)}')">Delete</button></div></div>`).join(''); const pager = $('productPager'); if (pager) pager.innerHTML = `<button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage <= 1 ? 'disabled' : ''} onclick="changeProductPage(-1)">← Prev</button><span class="pager-label">Page ${adminState.productPage} of ${totalPages} · ${filtered.length.toLocaleString()} products</span><button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage >= totalPages ? 'disabled' : ''} onclick="changeProductPage(1)">Next →</button>`; }

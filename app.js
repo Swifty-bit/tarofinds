@@ -598,6 +598,9 @@ function initCataloguePage() {
   renderCatalogueCards();
 }
 
+let _catalogueShuffleCache = null;
+let _catalogueShuffleSeed = '';
+
 function getFilteredProducts() {
   return PRODUCTS.filter(p => {
     let catMatch = catState.cat === 'all';
@@ -610,10 +613,25 @@ function getFilteredProducts() {
   });
 }
 
+function getShuffledCatalogueProducts() {
+  const seed = catState.cat + '|' + catState.q;
+  if (!_catalogueShuffleCache || _catalogueShuffleSeed !== seed) {
+    const pool = getFilteredProducts();
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
+    _catalogueShuffleCache = pool;
+    _catalogueShuffleSeed = seed;
+  }
+  return _catalogueShuffleCache;
+}
+
 function renderCatalogueCards() {
   const grid = document.getElementById('productGrid');
   if(!grid) return;
-  let filtered = getFilteredProducts();
+  const isDefaultSort = catState.sort === 'default' || catState.sort === 'featured';
+  let filtered = isDefaultSort ? getShuffledCatalogueProducts() : getFilteredProducts();
   if(catState.sort==='price-asc') filtered.sort((a,b)=>a.price-b.price);
   else if(catState.sort==='price-desc') filtered.sort((a,b)=>b.price-a.price);
   else if(catState.sort==='name') filtered.sort((a,b)=>a.name.localeCompare(b.name));
@@ -753,7 +771,7 @@ function initAlertsPage() {
 function initNav() {
   const page=document.body?.dataset?.page||'home';
   const map={home:'index.html',catalogue:'catalogue.html',sellers:'sellers.html',guides:'guides.html',tools:'tools.html',profile:'profile.html',admin:'admin.html',forums:'forums.html',announcements:'announcements.html',alerts:'alerts.html'};
-  document.querySelectorAll('.bnav-item').forEach(a=>{
+  document.querySelectorAll('.bnav-item, .snav-item').forEach(a=>{
     const href=a.getAttribute('href')||'';
     a.classList.toggle('active',href.includes(map[page]||'__none__'));
   });
@@ -970,6 +988,22 @@ function initSearch() {
   const navBtn = document.querySelector('.nav-search-btn') || document.querySelector('.nav-search button');
   const heroInput = $('#heroSearchInput');
   const heroBtn = $('#heroSearchBtn');
+  const isCatalogue = document.body.dataset.page === 'catalogue';
+
+  const doSearch = (q) => {
+    const query = (q || '').trim();
+    if (!query) return;
+    if (isCatalogue) {
+      catState.q = query;
+      catState.page = 1;
+      _catalogueShuffleCache = null;
+      renderCatalogueCards();
+      const si = $('#catalogueSearch');
+      if (si) si.value = query;
+    } else {
+      window.location.href = 'catalogue.html?q=' + encodeURIComponent(query);
+    }
+  };
 
   const goToCatalogue = (q, fromHero = false) => {
     const query = (q || '').trim();
@@ -988,8 +1022,8 @@ function initSearch() {
   };
 
   if (navInput) {
-    navInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') goToCatalogue(navInput.value); });
-    if (navBtn) navBtn.addEventListener('click', () => goToCatalogue(navInput.value));
+    navInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') doSearch(navInput.value); });
+    if (navBtn) navBtn.addEventListener('click', () => doSearch(navInput.value));
   }
 
   if (heroInput) {
