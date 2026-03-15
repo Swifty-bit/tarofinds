@@ -1,47 +1,47 @@
 {
-  "name": "Crib Crep",
+  "name": "Marni Slides",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F787969095526%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/787969095526?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/682113946236?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/682113946236?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "74$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtBvdGvh8L9ZApiWX6LcjerUTjpk_pD5xSP5GSMnYNSfh2ZuFJTcWe-kFeCTma0UkEIMUX85Azk2uXvF9QiuVXkUvFzau963KwCKrTvTIvwsIF-t0cRG2b27Au5-wu2dghlpnOY0j6M4aJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awy1cB9a4v7bawu43i_zzn3bB4nx-Q1nnC3vb4Ee__AnNUBXmFVrDQpcxfYT7_tVfszbkKB9Z4AcPGoFbwZzVYFY-8DVEnJmtKtm8q-k1sNn2EwmWFeIYkuShCoOdmi7paMhXYakxCetw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0528",
   "raw_cells": {
     "col_0": {
-      "text": "643"
+      "text": "639"
     },
     "col_1": {
-      "text": "Crib Crep"
+      "text": "Marni Slides"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtBvdGvh8L9ZApiWX6LcjerUTjpk_pD5xSP5GSMnYNSfh2ZuFJTcWe-kFeCTma0UkEIMUX85Azk2uXvF9QiuVXkUvFzau963KwCKrTvTIvwsIF-t0cRG2b27Au5-wu2dghlpnOY0j6M4aJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awy1cB9a4v7bawu43i_zzn3bB4nx-Q1nnC3vb4Ee__AnNUBXmFVrDQpcxfYT7_tVfszbkKB9Z4AcPGoFbwZzVYFY-8DVEnJmtKtm8q-k1sNn2EwmWFeIYkuShCoOdmi7paMhXYakxCetw=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://www.oopbuy.com/product/1/787969095526?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/682113946236?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "74$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0528"
+  }
 }

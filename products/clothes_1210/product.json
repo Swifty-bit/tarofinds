@@ -1,61 +1,61 @@
 {
-  "name": "Amiri Jeans",
+  "name": "AmiriHoodie2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Pingu7",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "Pingu7",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7028472990%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7028472990?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/678246792156?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/678246792156?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "44$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://pingu7.x.yupoo.com/albums/152099469?uid=1&isSubCate=false&referrercate=4083969"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1910655655982215170?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXGeZvq28Inn4Th5iSY8NzkIBUdEBLxrFJJHZTwQQechtfSKS8alOIvMLVJnbeRCUT1AjF_rZSZfTP2bMDcTE2TTJsfmQZ0C4SXI-SxIvdPtQKOlXfNP-SO0LpNZaczclbnDmH0U_AxMKd=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyWB7IXRM4F8_hVyUUy3lvEoUOX6Urqz5Uhm3kIGV-EcexdxNcp6OhzAryOoVzPTrWIk5-2UIdcEVIvLMIi6bHdiowpjjxyGYWElmi2-rhBZKfqT-m0BXovxsgRGMfwAVanYU-fZoBq9A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1210",
   "raw_cells": {
     "col_0": {
-      "text": "783"
+      "text": "779"
     },
     "col_1": {
-      "text": "Amiri Jeans"
+      "text": "AmiriHoodie2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXGeZvq28Inn4Th5iSY8NzkIBUdEBLxrFJJHZTwQQechtfSKS8alOIvMLVJnbeRCUT1AjF_rZSZfTP2bMDcTE2TTJsfmQZ0C4SXI-SxIvdPtQKOlXfNP-SO0LpNZaczclbnDmH0U_AxMKd=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWB7IXRM4F8_hVyUUy3lvEoUOX6Urqz5Uhm3kIGV-EcexdxNcp6OhzAryOoVzPTrWIk5-2UIdcEVIvLMIi6bHdiowpjjxyGYWElmi2-rhBZKfqT-m0BXovxsgRGMfwAVanYU-fZoBq9A=w143-h110"
     },
-    "col_3": {
-      "text": "Pingu7",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "Pingu7",
-          "url": "https://oopbuy.com/product/weidian/7028472990?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/678246792156?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "44$"
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://pingu7.x.yupoo.com/albums/152099469?uid=1&isSubCate=false&referrercate=4083969"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1910655655982215170?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1210"
+  }
 }

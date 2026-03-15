@@ -1,65 +1,47 @@
 {
-  "name": "Jordan Jumpman JackTravis Scott Sail",
+  "name": "GT Cuts",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "PasserBy",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7240073576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7240073576?inviteCode=29TOTHGNH"
+      "label": "PasserBy",
+      "url": "https://litbuy.com/product/taobao/7326134019?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7326134019?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "PB",
-  "budget_batch_links": [
-    {
-      "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7212170011%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7212170011?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "69$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcKrqizJTOJpPIVgu46rAiTHngyZmBrmrNpMe-ksvFx12_4hjD0mc_mKOXSDbRcCzDzrfN0ClRmeCTZYT5cqTWTI46YyBlQJijnhUPNeYUUD5cIEFm8qwIWD0g5QSH3kD_462PDyK-Sg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyV_B015PMnGj45AE4wyOyzB9cjfOFccnoxSJxvKfw1LtE-G9aOLvxipOTP5wCHiUO32wW3vqXxy21bTA0dQ101YV5xTbKTudWPJzVeQvRUJkbLA_6byAggtIQd0L7zozm-MoKqI-Hjtlr8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0060",
   "raw_cells": {
     "col_0": {
       "text": "67"
     },
     "col_1": {
-      "text": "Jordan Jumpman JackTravis Scott Sail"
+      "text": "GT Cuts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcKrqizJTOJpPIVgu46rAiTHngyZmBrmrNpMe-ksvFx12_4hjD0mc_mKOXSDbRcCzDzrfN0ClRmeCTZYT5cqTWTI46YyBlQJijnhUPNeYUUD5cIEFm8qwIWD0g5QSH3kD_462PDyK-Sg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyV_B015PMnGj45AE4wyOyzB9cjfOFccnoxSJxvKfw1LtE-G9aOLvxipOTP5wCHiUO32wW3vqXxy21bTA0dQ101YV5xTbKTudWPJzVeQvRUJkbLA_6byAggtIQd0L7zozm-MoKqI-Hjtlr8=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "PasserBy",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/weidian/7240073576?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "PB",
-      "links": [
-        {
-          "label": "PB",
-          "url": "https://oopbuy.com/product/weidian/7212170011?inviteCode=29TOTHGNH"
+          "label": "PasserBy",
+          "url": "https://oopbuy.com/product/2/7326134019?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "69$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "38$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0060"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosLong sleeve T-shirt",
+  "name": "Acne StudiosT-shirtStockholm 1996",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
       "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F931761272684%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/931761272684?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/945804203788?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/945804203788?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "33$",
+  "best_price": "23$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/190025050?uid=1"
+      "url": "https://mvt-shop01.x.yupoo.com/albums/201359748?uid=1&isSubCate=false&referrercate=4963104"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzsYgvmTdGlLAiBfwjWo-lAvdcgI2CAAdUeejTxHdkKpTtU8OuA-aC-3w_yKo7CI1SOY4X0Jgmr8cp45tXGHqlei1Fq3aGf2Xz4k0NZOTcmN1IdvRoycnsowNIMEb9jh4VKh3EylGaWMoXX=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw_4PtaYX9ev2jrhthWks_SJha3j32iQs76b20E8Mb5sWvnkMHyrPLK32fUjrLJO7oljiKw6KiqoHYafQ1_6JC4LNNPPZfawkTC5j_N0LFicB7XjK-pjj7NeuHWcMBRgEHn76udC3sG4w=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1137",
   "raw_cells": {
     "col_0": {
-      "text": "700"
+      "text": "696"
     },
     "col_1": {
-      "text": "Acne StudiosLong sleeve T-shirt"
+      "text": "Acne StudiosT-shirtStockholm 1996"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzsYgvmTdGlLAiBfwjWo-lAvdcgI2CAAdUeejTxHdkKpTtU8OuA-aC-3w_yKo7CI1SOY4X0Jgmr8cp45tXGHqlei1Fq3aGf2Xz4k0NZOTcmN1IdvRoycnsowNIMEb9jh4VKh3EylGaWMoXX=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw_4PtaYX9ev2jrhthWks_SJha3j32iQs76b20E8Mb5sWvnkMHyrPLK32fUjrLJO7oljiKw6KiqoHYafQ1_6JC4LNNPPZfawkTC5j_N0LFicB7XjK-pjj7NeuHWcMBRgEHn76udC3sG4w=w143-h110"
     },
     "col_3": {
       "text": "mvt-shop01",
       "links": [
         {
           "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/931761272684?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/945804203788?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "33$"
+      "text": "23$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/190025050?uid=1"
+          "url": "https://mvt-shop01.x.yupoo.com/albums/201359748?uid=1&isSubCate=false&referrercate=4963104"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1137"
+  }
 }

@@ -1,61 +1,69 @@
 {
-  "name": "Moncler Beanie4 Colors",
+  "name": "Short Wool HatBeanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "RepsKing",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F831380251166%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/831380251166?inviteCode=29TOTHGNH"
+      "label": "RepsKing",
+      "url": "https://litbuy.com/product/weidian/950803034806?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/950803034806?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://plug4.me/item/831380251166?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1992057372586102785?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/163419566?uid=1&isSubCate=false&referrercate=4544590"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrCUvOKz-zGPsEqtyceRSCRtex1y10zns14nHXWwlOwdI_z9wJH4DaPvJ1Mi_8HrCyy6OQZkjw-Ujjwjk_WeqtJFNzBDaFkSM9AvX-ndTx20yIjfgI1-Dz2NQXTSN0VY5sY3ptAzGF31FQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxHISjgfl79w0STi930wnDsz1sMEtBwKN2QP8atHf2_P61rb-XXYSzu30PViZvWFN10RCJyAneOh_7mdPb0fDQDohC6pjeLu-HT5n5n8ZLc4dED7xdyWTr5KfwpV0g4eMSIzHdmgcJQsE0k=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0815",
   "raw_cells": {
     "col_0": {
-      "text": "310"
+      "text": "306"
     },
     "col_1": {
-      "text": "Moncler Beanie4 Colors"
+      "text": "Short Wool HatBeanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrCUvOKz-zGPsEqtyceRSCRtex1y10zns14nHXWwlOwdI_z9wJH4DaPvJ1Mi_8HrCyy6OQZkjw-Ujjwjk_WeqtJFNzBDaFkSM9AvX-ndTx20yIjfgI1-Dz2NQXTSN0VY5sY3ptAzGF31FQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxHISjgfl79w0STi930wnDsz1sMEtBwKN2QP8atHf2_P61rb-XXYSzu30PViZvWFN10RCJyAneOh_7mdPb0fDQDohC6pjeLu-HT5n5n8ZLc4dED7xdyWTr5KfwpV0g4eMSIzHdmgcJQsE0k=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "RepsKing",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/831380251166?inviteCode=29TOTHGNH"
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/1/950803034806?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$"
+    "col_5": {
+      "text": "13$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "QC Pics/pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://plug4.me/item/831380251166?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1992057372586102785?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/163419566?uid=1&isSubCate=false&referrercate=4544590"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0815"
+  }
 }

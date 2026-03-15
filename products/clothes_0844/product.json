@@ -1,61 +1,61 @@
 {
-  "name": "Fendi CapMany Styles",
+  "name": "FendiWater ReactiveSwim Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "3MadMan",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F925219590971%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/925219590971?inviteCode=29TOTHGNH"
+      "label": "3MadMan",
+      "url": "https://litbuy.com/product/weidian/794358842246?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/794358842246?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "35$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1992418650705973250?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://3madman.x.yupoo.com/albums/157155318?uid=1&isSubCate=false&referrercate=4506227"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRgoX8LUEyvMjYYOZLbYlV-ts6eKzOow8qSTEQxHcLBxsUl27nx7-ffsTezxmI6uMjnI4YUsZlGYuq5QL41-VT1u3mvKiDkV-v19CRtVF5Z73QxhkstUb91pFDzjnUhG4wXdDU-Ie4cr6-=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyvPrahsXK3ZvfTfscLcaDYiXJVPsHaHrYBNMaaXhqeIN7Bb1wa-vyzoUYNhpSWY913LsHyip3JNA1E0jJa7PAONqSukt5OTNFHyHhAWgPJch0eln3LfCrGpMyo1ZkTFvlHs6bQvB-7rg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0844",
   "raw_cells": {
     "col_0": {
-      "text": "345"
+      "text": "341"
     },
     "col_1": {
-      "text": "Fendi CapMany Styles"
+      "text": "FendiWater ReactiveSwim Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRgoX8LUEyvMjYYOZLbYlV-ts6eKzOow8qSTEQxHcLBxsUl27nx7-ffsTezxmI6uMjnI4YUsZlGYuq5QL41-VT1u3mvKiDkV-v19CRtVF5Z73QxhkstUb91pFDzjnUhG4wXdDU-Ie4cr6-=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyvPrahsXK3ZvfTfscLcaDYiXJVPsHaHrYBNMaaXhqeIN7Bb1wa-vyzoUYNhpSWY913LsHyip3JNA1E0jJa7PAONqSukt5OTNFHyHhAWgPJch0eln3LfCrGpMyo1ZkTFvlHs6bQvB-7rg=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "3MadMan",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/925219590971?inviteCode=29TOTHGNH"
+          "label": "3MadMan",
+          "url": "https://oopbuy.com/product/1/794358842246?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "15$"
+    "col_5": {
+      "text": "35$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1992418650705973250?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://3madman.x.yupoo.com/albums/157155318?uid=1&isSubCate=false&referrercate=4506227"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0844"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "LV Denim CarpenterPants Jeans",
+  "name": "LV T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
+  "best_batch": "1to1",
   "best_batch_links": [
     {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7411946035%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7411946035?inviteCode=29TOTHGNH"
+      "label": "1to1",
+      "url": "https://litbuy.com/product/weidian/6434241950?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6434241950?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "64$",
+  "best_price": "34$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://thethunder.x.yupoo.com/albums/150197789?uid=1"
+      "url": "https://1to1.x.yupoo.com/albums/138540150?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyVC1c2veit0J_EliPLA5QvnTyoONgL6BoQwOKRLwu2OnEC4uHy-IUNihwtEfKMUD061J0DFAj-YiSWtOjjFh_w6892jPpbAghFX64kV1AMVuS19HgV8lPIm9Uc7v0r0gyTj5feFwR6bV2M=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxssVd1_H5ujkgaEBJFoMqqt5pwDT7-o8-4f-hpaYhXMFD3uNmRKQbKovnmmYDJnt9lDEE8V94VuYcLO-lLzSoItpw5vE7MaGih7ePBl64QC-MCQhkbgoAk2a40WbW7rxBq3hFcmmvrkmMS=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0826",
   "raw_cells": {
     "col_0": {
-      "text": "323"
+      "text": "319"
     },
     "col_1": {
-      "text": "LV Denim CarpenterPants Jeans"
+      "text": "LV T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyVC1c2veit0J_EliPLA5QvnTyoONgL6BoQwOKRLwu2OnEC4uHy-IUNihwtEfKMUD061J0DFAj-YiSWtOjjFh_w6892jPpbAghFX64kV1AMVuS19HgV8lPIm9Uc7v0r0gyTj5feFwR6bV2M=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxssVd1_H5ujkgaEBJFoMqqt5pwDT7-o8-4f-hpaYhXMFD3uNmRKQbKovnmmYDJnt9lDEE8V94VuYcLO-lLzSoItpw5vE7MaGih7ePBl64QC-MCQhkbgoAk2a40WbW7rxBq3hFcmmvrkmMS=w143-h110"
     },
     "col_3": {
-      "text": "Thunder",
+      "text": "1to1",
       "links": [
         {
-          "label": "Thunder",
-          "url": "https://www.oopbuy.com/product/weidian/7411946035?inviteCode=29TOTHGNH"
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/weidian/6434241950?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "64$"
+      "text": "34$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://thethunder.x.yupoo.com/albums/150197789?uid=1"
+          "url": "https://1to1.x.yupoo.com/albums/138540150?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0826"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "LightSmoke Grey",
+  "name": "Championship Court Purple",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "",
@@ -8,7 +8,7 @@
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axtb7z6KjOYV_gAi5riEOvumRxtp5gX_1tAXlOY61fRMEswveFAhIPkUA1glmp2UuqkTdhiMBL1W-UlrB-VR99XFa185BPJ3dYN6y--mqBtBu5F-MFM7ebLBRHr-TmBnwuL-v67moBylQdW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzdJ3J62xbw6YAnnxA0JQ0L-MInaAfP6zKLrDUv6nyXWzSJs-gjI_po-xvVcoqk3WFgY5T_rmbJ6oaHTKIwfNsNvSdADX5BCLQrjwXavyc66YBYS3-vjTuDyDHqYKv4vtrg0GL2UEKFYw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0072",
   "raw_cells": {
     "col_0": {
       "text": "81"
     },
     "col_1": {
-      "text": "LightSmoke Grey"
+      "text": "Championship Court Purple"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axtb7z6KjOYV_gAi5riEOvumRxtp5gX_1tAXlOY61fRMEswveFAhIPkUA1glmp2UuqkTdhiMBL1W-UlrB-VR99XFa185BPJ3dYN6y--mqBtBu5F-MFM7ebLBRHr-TmBnwuL-v67moBylQdW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzdJ3J62xbw6YAnnxA0JQ0L-MInaAfP6zKLrDUv6nyXWzSJs-gjI_po-xvVcoqk3WFgY5T_rmbJ6oaHTKIwfNsNvSdADX5BCLQrjwXavyc66YBYS3-vjTuDyDHqYKv4vtrg0GL2UEKFYw=w143-h110"
     },
     "col_4": {
       "text": "VT",
@@ -41,7 +43,5 @@
     "col_6": {
       "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0072"
+  }
 }

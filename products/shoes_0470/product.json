@@ -1,47 +1,86 @@
 {
-  "name": "Onitsuka Tiger Mexico 6633 Colours",
+  "name": "Gel-NYC24 Colors",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWTOP",
+  "best_batch": "ZC/FC/Tony",
   "best_batch_links": [
     {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565909052%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565909052?inviteCode=29TOTHGNH"
+      "label": "ZC",
+      "url": "https://litbuy.com/product/weidian/7522105691?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7522105691?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FC",
+      "url": "https://litbuy.com/product/taobao/7283070059?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7283070059?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Tony",
+      "url": "https://litbuy.com/product/taobao/7227437149?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7227437149?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "28$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/853411634146?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/853411634146?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "38$ / 30$ / 35$",
+  "budget_price": "25$",
+  "pics_text": "25$",
   "pics_links": [],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4NjgmUrdO4gyRtHLrYYj5_cKsX2IzLgO0mK8h9ktiIjOEsQu3l1-Yf6K7c1KierPuDCxOiZZgFxWyCo_XNS2PP1eY4AM4IySl9e3iq0M0uFnsa0jiI_cpRryOp6OasKWkXuvN4oGAk9Ju=w143-h110",
+  "notes": "ZC for best, other batches for more colors",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axgq6SoCtWH15JUW8ggv0AhphUVbysoFrkMkS2QZXZhEPYQwpL2N0JLfeAWF4bEgl1F5tHvk8RtvZ7fiuKkGpFnHeyAsaBrX-HArer3njTvtgU7Jn9oDRfVeTADePsOHrm6nRhxYEj5nUUB=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0470",
   "raw_cells": {
     "col_0": {
       "text": "535"
     },
     "col_1": {
-      "text": "Onitsuka Tiger Mexico 6633 Colours"
+      "text": "Gel-NYC24 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4NjgmUrdO4gyRtHLrYYj5_cKsX2IzLgO0mK8h9ktiIjOEsQu3l1-Yf6K7c1KierPuDCxOiZZgFxWyCo_XNS2PP1eY4AM4IySl9e3iq0M0uFnsa0jiI_cpRryOp6OasKWkXuvN4oGAk9Ju=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axgq6SoCtWH15JUW8ggv0AhphUVbysoFrkMkS2QZXZhEPYQwpL2N0JLfeAWF4bEgl1F5tHvk8RtvZ7fiuKkGpFnHeyAsaBrX-HArer3njTvtgU7Jn9oDRfVeTADePsOHrm6nRhxYEj5nUUB=w143-h110"
     },
     "col_3": {
-      "text": "WWTOP",
+      "text": "ZC/FC/Tony",
       "links": [
         {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7565909052?inviteCode=29TOTHGNH"
+          "label": "ZC",
+          "url": "https://oopbuy.com/product/weidian/7522105691?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FC",
+          "url": "https://oopbuy.com/product/2/7283070059?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Tony",
+          "url": "https://oopbuy.com/product/2/7227437149?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/853411634146?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
+      "text": "38$ / 30$ / 35$"
+    },
+    "col_6": {
+      "text": "25$"
+    },
+    "col_7": {
+      "text": "ZC for best, other batches for more colors"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0470"
+  }
 }

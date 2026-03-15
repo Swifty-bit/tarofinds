@@ -1,61 +1,104 @@
 {
-  "name": "BalenciagaCut UpJeansBlack and Blue",
+  "name": "BalenciagaTrompe L'oeilBoxer Sweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "mvt-shop01/2Three",
   "best_batch_links": [
     {
       "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F854759119773%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/854759119773?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/1009307628825?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1009307628825?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "2Three",
+      "url": "https://litbuy.com/product/weidian/788109279156?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/788109279156?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "78$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/908581249801?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/908581249801?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "57$ / 54$",
+  "budget_price": "31$",
+  "pics_text": "mvt/2Three/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/180245258?uid=1"
+      "label": "mvt",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/210269652?uid=1"
+    },
+    {
+      "label": "2Three",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1889875552720961544?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2006222297835327489?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDgEhFgMQSSxYQXUBWSNJ6H82ofI_u-I3HQNNYEh8LJ2vgjyK-fOduJ3tDViwXeKX7_QNrt2RdDpEv1p3fun4kBYf2UYvzT-LWGhpdD1gqyYttoT2UM-lO-CJ3Hte9jzXq8FPWSSBTYsnQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzczL7vwixoKjnR6AN47_qRd9LCVPUywRJFb3hGonT_YRBcnVmuh9qZ138piGmgl0rRrotPw9Dx9HUp6ZKq6Y7wc07R9NNWxlR1aq3RYmiXS9vrjQpQCEesUnJpyAKYkDlSrh27UyD-ag=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1271",
   "raw_cells": {
     "col_0": {
-      "text": "860"
+      "text": "856"
     },
     "col_1": {
-      "text": "BalenciagaCut UpJeansBlack and Blue"
+      "text": "BalenciagaTrompe L'oeilBoxer Sweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDgEhFgMQSSxYQXUBWSNJ6H82ofI_u-I3HQNNYEh8LJ2vgjyK-fOduJ3tDViwXeKX7_QNrt2RdDpEv1p3fun4kBYf2UYvzT-LWGhpdD1gqyYttoT2UM-lO-CJ3Hte9jzXq8FPWSSBTYsnQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzczL7vwixoKjnR6AN47_qRd9LCVPUywRJFb3hGonT_YRBcnVmuh9qZ138piGmgl0rRrotPw9Dx9HUp6ZKq6Y7wc07R9NNWxlR1aq3RYmiXS9vrjQpQCEesUnJpyAKYkDlSrh27UyD-ag=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "mvt-shop01/2Three",
       "links": [
         {
           "label": "mvt-shop01",
-          "url": "https://www.oopbuy.com/product/1/854759119773?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/1009307628825?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "2Three",
+          "url": "https://www.oopbuy.com/product/1/788109279156?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/908581249801?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "78$"
+      "text": "57$ / 54$"
+    },
+    "col_6": {
+      "text": "31$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "mvt/2Three/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/180245258?uid=1"
+          "label": "mvt",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/210269652?uid=1"
+        },
+        {
+          "label": "2Three",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1889875552720961544?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006222297835327489?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1271"
+  }
 }

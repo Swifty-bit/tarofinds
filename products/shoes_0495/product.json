@@ -1,47 +1,65 @@
 {
-  "name": "LoeweBallet Runner",
+  "name": "Super Star16 colours",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Repsun",
+  "best_batch": "DGC",
   "best_batch_links": [
     {
-      "label": "Repsun",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7432162309%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7432162309?inviteCode=29TOTHGNH"
+      "label": "DGC",
+      "url": "https://litbuy.com/product/weidian/7614170131?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614170131?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "57$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/830812365240?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/830812365240?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "56$",
+  "budget_price": "24$",
+  "pics_text": "24$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyPIb9QlcWk8-ExialGPN9hoFUvGhm-9nburBpRLs02y3UvHsTJ18r8prqriot2cwDR_MrZ5FYlPHsld4b7GLxXybLmtoeZNVxoHZmgJ9SzQwEAttvbCgzoCTIa_PtLjqT48AOB-tBTFA-R=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTJKsfV3y2WNB8edZPh_Lrh_L_H5k7_tFZ-D0p_iNqROYp2NE0gxSnPzbIyZFq8lR9HmGfHkYxc0HwNbHUMnPrAaJSSklSs0c3zaEoEFI0qc_tgg8kMVjJUdJeWSLT1iLZjFIWSpuKXbnK=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0495",
   "raw_cells": {
     "col_0": {
-      "text": "580"
+      "text": "574"
     },
     "col_1": {
-      "text": "LoeweBallet Runner"
+      "text": "Super Star16 colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyPIb9QlcWk8-ExialGPN9hoFUvGhm-9nburBpRLs02y3UvHsTJ18r8prqriot2cwDR_MrZ5FYlPHsld4b7GLxXybLmtoeZNVxoHZmgJ9SzQwEAttvbCgzoCTIa_PtLjqT48AOB-tBTFA-R=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTJKsfV3y2WNB8edZPh_Lrh_L_H5k7_tFZ-D0p_iNqROYp2NE0gxSnPzbIyZFq8lR9HmGfHkYxc0HwNbHUMnPrAaJSSklSs0c3zaEoEFI0qc_tgg8kMVjJUdJeWSLT1iLZjFIWSpuKXbnK=w143-h110"
     },
     "col_3": {
-      "text": "Repsun",
+      "text": "DGC",
       "links": [
         {
-          "label": "Repsun",
-          "url": "https://oopbuy.com/product/weidian/7432162309?inviteCode=29TOTHGNH"
+          "label": "DGC",
+          "url": "https://oopbuy.com/product/weidian/7614170131?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/830812365240?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "57$"
+      "text": "56$"
+    },
+    "col_6": {
+      "text": "24$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0495"
+  }
 }

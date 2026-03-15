@@ -1,47 +1,47 @@
 {
-  "name": "LoeweOn Running Cloudtilt",
+  "name": "Isabel MarantBekett Sneakers",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Repsun",
+  "best_batch": "GD",
   "best_batch_links": [
     {
-      "label": "Repsun",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7284077836%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7284077836?inviteCode=29TOTHGNH"
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7625042457?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7625042457?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "77$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzS4_s2CSGTO-uH_Cz09m-gGSezlWbEQWZbhO-yt6fY3zBcRyw-F3w8tjVOFWgrT8ihNd0ScI03VuwhfMocXKRP98K2KbtWYOJ_cDvczu0DeakCuk7rO2DNcGvH-p-0-iHI387ut5ESs3Cx=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw-xdbNHqbDW6P_6Nv7QGkQqJs-dP5f08jeyVd_0dEIZtMXd_OhKun8QmDtepv1jgT6HQz859JcMKGp3b1cFlrdNp0h7egSWDjKzT3QGQA4bQb-CSG8K8P-vabbJg3PWXys95UBsQFk-QcM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0494",
   "raw_cells": {
     "col_0": {
-      "text": "579"
+      "text": "571"
     },
     "col_1": {
-      "text": "LoeweOn Running Cloudtilt"
+      "text": "Isabel MarantBekett Sneakers"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzS4_s2CSGTO-uH_Cz09m-gGSezlWbEQWZbhO-yt6fY3zBcRyw-F3w8tjVOFWgrT8ihNd0ScI03VuwhfMocXKRP98K2KbtWYOJ_cDvczu0DeakCuk7rO2DNcGvH-p-0-iHI387ut5ESs3Cx=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw-xdbNHqbDW6P_6Nv7QGkQqJs-dP5f08jeyVd_0dEIZtMXd_OhKun8QmDtepv1jgT6HQz859JcMKGp3b1cFlrdNp0h7egSWDjKzT3QGQA4bQb-CSG8K8P-vabbJg3PWXys95UBsQFk-QcM=w143-h110"
     },
     "col_3": {
-      "text": "Repsun",
+      "text": "GD",
       "links": [
         {
-          "label": "Repsun",
-          "url": "https://oopbuy.com/product/weidian/7284077836?inviteCode=29TOTHGNH"
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7625042457?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "77$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0494"
+  }
 }

@@ -1,74 +1,47 @@
 {
-  "name": "MMY PetersonLow",
+  "name": "Prax 01",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "A1",
-  "best_batch_links": [
-    {
-      "label": "A1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4479620523%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4479620523?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "GOTA/budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "GOTA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7405205441%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7405205441?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7409269418%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7409269418?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/865439274591?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/865439274591?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "56$",
-  "budget_price": "39$ / 29$",
-  "pics_text": "39$ / 29$",
+  "best_price": "",
+  "budget_price": "40$",
+  "pics_text": "40$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzIDeGKZiZPtBDsWWb-WuBP9MLN3epEAVmfEt-c7392bUcxsWuW4W9oWHwP48qEHo7z2MawdScfjQIxSbad3wnymrySEm-tMuAWWB2N6vs1GUJr83FeUQe6TbGamiVF6xzxLZw8TbXp7Do8=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwN-6U7uPQW5BED-PTSpT-7KUw6dueNxv34vCf1l5zJJeNq6qyTkER2SSbmREKlLe7r25KxOt5STDuNBuOHzNjrWaZrW23_3QZAlmhLiAZNWCRpGT-PJHs5_WWmQRFLqd4OzW61pcWtJQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0476",
   "raw_cells": {
     "col_0": {
-      "text": "549"
+      "text": "543"
     },
     "col_1": {
-      "text": "MMY PetersonLow"
+      "text": "Prax 01"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzIDeGKZiZPtBDsWWb-WuBP9MLN3epEAVmfEt-c7392bUcxsWuW4W9oWHwP48qEHo7z2MawdScfjQIxSbad3wnymrySEm-tMuAWWB2N6vs1GUJr83FeUQe6TbGamiVF6xzxLZw8TbXp7Do8=w143-h110"
-    },
-    "col_3": {
-      "text": "A1",
-      "links": [
-        {
-          "label": "A1",
-          "url": "https://oopbuy.com/product/2/4479620523?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwN-6U7uPQW5BED-PTSpT-7KUw6dueNxv34vCf1l5zJJeNq6qyTkER2SSbmREKlLe7r25KxOt5STDuNBuOHzNjrWaZrW23_3QZAlmhLiAZNWCRpGT-PJHs5_WWmQRFLqd4OzW61pcWtJQ=w143-h110"
     },
     "col_4": {
-      "text": "GOTA/budget",
+      "text": "budget",
       "links": [
         {
-          "label": "GOTA",
-          "url": "https://oopbuy.com/product/weidian/7405205441?inviteCode=29TOTHGNH"
-        },
-        {
           "label": "budget",
-          "url": "https://oopbuy.com/product/2/7409269418?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/865439274591?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "56$"
-    },
     "col_6": {
-      "text": "39$ / 29$"
+      "text": "40$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0476"
+  }
 }

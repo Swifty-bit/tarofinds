@@ -1,0 +1,61 @@
+{
+  "name": "Supreme Backpacks",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/981788046593?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/981788046593?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "31$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2032323726756892673?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax0jJxCf-5sfh8r5ANdDc89Nde7oVg0H0lUpMqP14L8BRBFfTa6_Ss7gBoQDlyPJBzWi9gWQutAyasgSQWldHeByOCyv4Dbow17L-LOK213-pMbAG9fkbFmtM4DOzu5_0oZCLTDtg5yww=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1547",
+  "raw_cells": {
+    "col_0": {
+      "text": "49"
+    },
+    "col_1": {
+      "text": "Supreme Backpacks"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax0jJxCf-5sfh8r5ANdDc89Nde7oVg0H0lUpMqP14L8BRBFfTa6_Ss7gBoQDlyPJBzWi9gWQutAyasgSQWldHeByOCyv4Dbow17L-LOK213-pMbAG9fkbFmtM4DOzu5_0oZCLTDtg5yww=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/981788046593?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "31$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2032323726756892673?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

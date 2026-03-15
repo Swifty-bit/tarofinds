@@ -1,61 +1,87 @@
 {
-  "name": "Flip 6Pulse 5",
+  "name": "Airpods 3",
   "category": "Electronics",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "V1E",
+  "best_batch_links": [
+    {
+      "label": "V1E",
+      "url": "https://litbuy.com/product/weidian/7247449195?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7247449195?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "ThebigY",
   "budget_batch_links": [
     {
       "label": "ThebigY",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7271978872%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7271978872?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7270577821?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7270577821?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "17$",
-  "pics_text": "QC Pics",
+  "best_price": "38$",
+  "budget_price": "12$",
+  "pics_text": "V1E/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1949273740402577409?action=discord&cid=1942512167859859457"
+      "label": "V1E",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287584331722753?action=discord&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952902409044451329?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7Nmg020PbGnUZPHndTuTQ8-BeXqU9fGIkJwjtmXLqJt0ajzNyYZ1ZAB-xZGUYIkbq4Vq9dSRD4c4mO0kcBMthvrSiKRt-10jnlLMGykaHK34LvooMd1To_c7zma_wEIYjYN4qciD1Ag=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay6ZMIi4TWKcpOgF1TYUmIZe07dzBX6Cz2d_f5e4I_WDneXQ_cPVnlEVlAPyVzg562TNgLMoz_sCHWreiDwLwwzr1-RMrBrz-VpjNIdw-eVIjb-hOdh_yF-66fqv5BH3VeGwlqOIBQC_BbJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "electronics_1703",
   "raw_cells": {
     "col_0": {
-      "text": "20"
+      "text": "12"
     },
     "col_1": {
-      "text": "Flip 6Pulse 5"
+      "text": "Airpods 3"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7Nmg020PbGnUZPHndTuTQ8-BeXqU9fGIkJwjtmXLqJt0ajzNyYZ1ZAB-xZGUYIkbq4Vq9dSRD4c4mO0kcBMthvrSiKRt-10jnlLMGykaHK34LvooMd1To_c7zma_wEIYjYN4qciD1Ag=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay6ZMIi4TWKcpOgF1TYUmIZe07dzBX6Cz2d_f5e4I_WDneXQ_cPVnlEVlAPyVzg562TNgLMoz_sCHWreiDwLwwzr1-RMrBrz-VpjNIdw-eVIjb-hOdh_yF-66fqv5BH3VeGwlqOIBQC_BbJ=w143-h110"
+    },
+    "col_3": {
+      "text": "V1E",
+      "links": [
+        {
+          "label": "V1E",
+          "url": "https://oopbuy.com/product/weidian/7247449195?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "ThebigY",
       "links": [
         {
           "label": "ThebigY",
-          "url": "https://www.oopbuy.com/product/weidian/7271978872?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7270577821?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "38$"
+    },
     "col_6": {
-      "text": "17$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "V1E/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1949273740402577409?action=discord&cid=1942512167859859457"
+          "label": "V1E",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287584331722753?action=discord&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952902409044451329?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "electronics_1703"
+  }
 }

@@ -1,61 +1,87 @@
 {
-  "name": "Syna Trucker CapWhite",
+  "name": "Syna TracksuitHoodie & PantsBlack/Black",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "elephant",
   "best_batch_links": [
     {
       "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7300035287%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7300035287?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7243584407?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7243584407?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "12$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/736632475800?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "46$(SET)",
+  "budget_price": "10$(SET)",
+  "pics_text": "elephant/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/179784534?uid=1&isSubCate=false&referrercate=4564614"
+      "label": "elephant",
+      "url": "https://elephant-factory.x.yupoo.com/albums/166776176?uid=1&isSubCate=false&referrercate=4564614"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxfET4bSkTNP_B_UvuhCWmh0AR-NYOagMlVtkPdHE-dWB5cfHfCcmdCyUs9Wcb9dWbV3wEhHRogV044UxKWhDGWwj06W7ioQxC50j1fNQRIbqXBXdKDNG8APcMhOLrj0mBJsDct3hz35Sz1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyR_jzjzHG3xi_y9trWtagRts6-PuswjN7g4jU8gFCzxRlzzTZPgemmQr-acBr83TiACpJiAGaualsJIUtp6jL6K83n7UsQRgB28SN1RY2b56Jc-iBCWBgXkNpTXwCO_WpvP7TzCqcnh2Zb=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0937",
   "raw_cells": {
     "col_0": {
-      "text": "464"
+      "text": "460"
     },
     "col_1": {
-      "text": "Syna Trucker CapWhite"
+      "text": "Syna TracksuitHoodie & PantsBlack/Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxfET4bSkTNP_B_UvuhCWmh0AR-NYOagMlVtkPdHE-dWB5cfHfCcmdCyUs9Wcb9dWbV3wEhHRogV044UxKWhDGWwj06W7ioQxC50j1fNQRIbqXBXdKDNG8APcMhOLrj0mBJsDct3hz35Sz1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyR_jzjzHG3xi_y9trWtagRts6-PuswjN7g4jU8gFCzxRlzzTZPgemmQr-acBr83TiACpJiAGaualsJIUtp6jL6K83n7UsQRgB28SN1RY2b56Jc-iBCWBgXkNpTXwCO_WpvP7TzCqcnh2Zb=w143-h110"
     },
     "col_3": {
       "text": "elephant",
       "links": [
         {
           "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7300035287?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7243584407?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "12$"
+      "text": "46$(SET)"
+    },
+    "col_6": {
+      "text": "10$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "elephant/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/179784534?uid=1&isSubCate=false&referrercate=4564614"
+          "label": "elephant",
+          "url": "https://elephant-factory.x.yupoo.com/albums/166776176?uid=1&isSubCate=false&referrercate=4564614"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0937"
+  }
 }

@@ -1,61 +1,87 @@
 {
-  "name": "Louis VuittonKeepall 50",
+  "name": "Luois VuittonWallet, Passport,Cardholder",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "MissChen",
+  "best_batch_links": [
+    {
+      "label": "MissChen",
+      "url": "https://litbuy.com/product/weidian/7487692568?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7487692568?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F950742576043%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/950742576043?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/952198149267?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/952198149267?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "24$",
-  "pics_text": "QC Pics",
+  "best_price": "50$",
+  "budget_price": "14$",
+  "pics_text": "misschen/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1975387670605029377?action=discord&type=1&cid=1942512167859859457"
+      "label": "misschen",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1962627072817455106?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1983721359986991106?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcrrLi0pS__aK482FUOPnhdyN1-gpgbaNbzmWovVZeOP5qGYfnwEbcaYo8tvhCJvh2aSq0MT3JpjW5GSO9hzyFXCF_pi5AWodw9VFKi2sJatQBl10uXzYZWG3ZjTLv1EaEOsy6joqozg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxFYpA4gcEK6AN0g0zrCaR_dguuDy0gPUvZSSDK6ZfN2Be1e-_bQrW0xbsMQtaGuYeZ6JKpWmjR0ss-nZJ91ELUUTz6bjOJM-_4L97sJX84x-Ie_GkO0hvcUj25pGC8v8jvFZiiqBmw5il5=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1511",
   "raw_cells": {
     "col_0": {
-      "text": "17"
+      "text": "13"
     },
     "col_1": {
-      "text": "Louis VuittonKeepall 50"
+      "text": "Luois VuittonWallet, Passport,Cardholder"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcrrLi0pS__aK482FUOPnhdyN1-gpgbaNbzmWovVZeOP5qGYfnwEbcaYo8tvhCJvh2aSq0MT3JpjW5GSO9hzyFXCF_pi5AWodw9VFKi2sJatQBl10uXzYZWG3ZjTLv1EaEOsy6joqozg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxFYpA4gcEK6AN0g0zrCaR_dguuDy0gPUvZSSDK6ZfN2Be1e-_bQrW0xbsMQtaGuYeZ6JKpWmjR0ss-nZJ91ELUUTz6bjOJM-_4L97sJX84x-Ie_GkO0hvcUj25pGC8v8jvFZiiqBmw5il5=w143-h110"
+    },
+    "col_3": {
+      "text": "MissChen",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/7487692568?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/950742576043?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/952198149267?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "50$"
+    },
     "col_6": {
-      "text": "24$"
+      "text": "14$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "misschen/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1975387670605029377?action=discord&type=1&cid=1942512167859859457"
+          "label": "misschen",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1962627072817455106?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1983721359986991106?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1511"
+  }
 }

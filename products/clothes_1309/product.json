@@ -1,61 +1,61 @@
 {
-  "name": "LacostePants5 Colors",
+  "name": "LacosteShorts5 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
+  "best_batch": "FrenchFish",
   "best_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7309182331%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7309182331?inviteCode=29TOTHGNH"
+      "label": "FrenchFish",
+      "url": "https://litbuy.com/product/weidian/7262804024?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7262804024?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "24$",
+  "best_price": "26$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://newdp.x.yupoo.com/albums/176447982?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1958333446780182529?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0H3hPDwMvkeMFJrQeVRy4gdynL25pGzxjGgIqoW4YDrjV2IoQ-8L9l6H5K3qEkP1h-t0J6fGpq_xdp_Mtu391sTWYo-G5QFhmJi5XbxkqdBkgrtoDrQGRXHwS3GJAWZqv22HZ8xf-tAYB=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyPieT1wAligOgooBvKC0PicH1HHcv4pnrEZ0k9cyYuhtOjuzitlbJISr0Ma867Tf4wf-TGXwkk2AQPMclXwZxF6t7X216HUNEHJa_VcflstRiSG98bIX7eeSnafMTF1kDKbv01OoN63PUt=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1309",
   "raw_cells": {
     "col_0": {
-      "text": "900"
+      "text": "896"
     },
     "col_1": {
-      "text": "LacostePants5 Colors"
+      "text": "LacosteShorts5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0H3hPDwMvkeMFJrQeVRy4gdynL25pGzxjGgIqoW4YDrjV2IoQ-8L9l6H5K3qEkP1h-t0J6fGpq_xdp_Mtu391sTWYo-G5QFhmJi5XbxkqdBkgrtoDrQGRXHwS3GJAWZqv22HZ8xf-tAYB=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyPieT1wAligOgooBvKC0PicH1HHcv4pnrEZ0k9cyYuhtOjuzitlbJISr0Ma867Tf4wf-TGXwkk2AQPMclXwZxF6t7X216HUNEHJa_VcflstRiSG98bIX7eeSnafMTF1kDKbv01OoN63PUt=w143-h110"
     },
     "col_3": {
-      "text": "NEWDP",
+      "text": "FrenchFish",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://www.oopbuy.com/product/weidian/7309182331?inviteCode=29TOTHGNH"
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7262804024?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "24$"
+      "text": "26$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://newdp.x.yupoo.com/albums/176447982?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1958333446780182529?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1309"
+  }
 }

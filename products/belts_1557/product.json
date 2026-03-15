@@ -1,104 +1,78 @@
 {
-  "name": "Hermes",
+  "name": "Amiri",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "MissChen/K8",
-  "best_batch_links": [
-    {
-      "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F2779791292%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/2779791292?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "K8",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7238705718%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7238705718?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget/budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F557811120075%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/557811120075?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "30$ / 34$",
-  "budget_price": "4$",
-  "pics_text": "MissChen/K8/budget",
-  "pics_links": [
-    {
-      "label": "MissChen",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1968139225972432898?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "K8",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1958696289811652609?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://litbuy.com/product/weidian/744648551366?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/744648551366?inviteCode=29TOTHGNH"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1969952042518142978?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://litbuy.com/product/weidian/855838038164?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/855838038164?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics/QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967777049600417793?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969588040092966914?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzKKF0CZ1LpoeG71Bx8JfvD4D2dpWajh_HOtZAT8uOeO7oolD3WTiN4ewejObxKfvlxtUenUSRi3awdthPrBnL4QnmxNYbPfGXzu5TCu_RrIyOqgxCj2akANZwYZ2epIXQOesvqBWxi-w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxS-anA1tMqDsmAlFAnN_cOo6m8AC8RrOkBoKNzHa6q5jwoZcBZJNluiXt1oJq4J7Pvanp1ZMD9i_e6KHm3F6KrZ4d7t7gUD8G4agu7PKgiC673PcbvzIYuelNyzO3t1xvo3gpoWk9CiF2g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1557",
   "raw_cells": {
     "col_0": {
-      "text": "19"
+      "text": "14"
     },
     "col_1": {
-      "text": "Hermes"
+      "text": "Amiri"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzKKF0CZ1LpoeG71Bx8JfvD4D2dpWajh_HOtZAT8uOeO7oolD3WTiN4ewejObxKfvlxtUenUSRi3awdthPrBnL4QnmxNYbPfGXzu5TCu_RrIyOqgxCj2akANZwYZ2epIXQOesvqBWxi-w=w143-h110"
-    },
-    "col_3": {
-      "text": "MissChen/K8",
-      "links": [
-        {
-          "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/2779791292?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "K8",
-          "url": "https://www.oopbuy.com/product/weidian/7238705718?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxS-anA1tMqDsmAlFAnN_cOo6m8AC8RrOkBoKNzHa6q5jwoZcBZJNluiXt1oJq4J7Pvanp1ZMD9i_e6KHm3F6KrZ4d7t7gUD8G4agu7PKgiC673PcbvzIYuelNyzO3t1xvo3gpoWk9CiF2g=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "budget/budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/1/557811120075?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/744648551366?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/855838038164?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "30$ / 34$"
-    },
     "col_6": {
-      "text": "4$"
+      "text": "3$"
     },
     "col_7": {
-      "text": "MissChen/K8/budget",
+      "text": "QC Pics/QC Pics",
       "links": [
         {
-          "label": "MissChen",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1968139225972432898?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967777049600417793?action=discord&type=1&cid=1942512167859859457"
         },
         {
-          "label": "K8",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1958696289811652609?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1969952042518142978?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969588040092966914?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1557"
+  }
 }

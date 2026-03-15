@@ -1,35 +1,47 @@
 {
-  "name": "Birkenstock Gizeh",
+  "name": "Philipp PleinPredator",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/662512282968?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/662512282968?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "55$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzNSFzS5IYnmA4nCcqrcOyitntbo2g3xMbVilh8rMwtI9U2MmElZPE5aUQ6RVoT_Se47OOeUiojdRkkHfcaJeerY_QEAvrWwXfWye6iHmK4hiXpH_rCMHBPEAaTwZmKcB7ZRjP0nSe8jXYM=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxFBoG7ErqNLs-YY_xtDa8gkxRCzBr8MRB76dmK-FKKqIJBRfKbHNnktfyy2WcnsfyVNYDe1As0xCHDCKMX1rlxn3L1TX0XczF_2GPYr6EWajJFo88-uAYEJJ-ElNEcVrI3urBehAxiQGRI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0515",
   "raw_cells": {
     "col_0": {
-      "text": "622"
+      "text": "618"
     },
     "col_1": {
-      "text": "Birkenstock Gizeh"
+      "text": "Philipp PleinPredator"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzNSFzS5IYnmA4nCcqrcOyitntbo2g3xMbVilh8rMwtI9U2MmElZPE5aUQ6RVoT_Se47OOeUiojdRkkHfcaJeerY_QEAvrWwXfWye6iHmK4hiXpH_rCMHBPEAaTwZmKcB7ZRjP0nSe8jXYM=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxFBoG7ErqNLs-YY_xtDa8gkxRCzBr8MRB76dmK-FKKqIJBRfKbHNnktfyy2WcnsfyVNYDe1As0xCHDCKMX1rlxn3L1TX0XczF_2GPYr6EWajJFo88-uAYEJJ-ElNEcVrI3urBehAxiQGRI=w143-h110"
     },
     "col_3": {
-      "text": "/"
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/662512282968?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "55$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0515"
+  }
 }

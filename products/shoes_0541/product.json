@@ -1,47 +1,56 @@
 {
-  "name": "Supreme Laces",
+  "name": "Syna Socks2 Pairs",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "GOAT",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F39656812576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/39656812576?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/6671749353?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6671749353?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "2$",
+  "best_price": "10$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awu6O7ImSQG-PX1Rqv9IhkjDQZJNgZnlVWPYkG_sVopMg9hyjNQBX1Ko-g2J34s_NMs7tzaLR6MfE9jI29m5iH5BZCora-CuuO7eIsPW5sckcWAT9-jrkQIWApkk55oyhVFnffF5qfrmxi9=w143-h110",
+  "notes": "pics",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygxCR7h3p13GZT5wRWk0YGsasB6lch13KdNkTfZATRt1FhKXCEIKO7hLNUvwfEYz-9v2F82Ju6ZEDs55G3Y1ogMsYiwayRT0pdk0rgI6Lb0p_Ws71j0ufw3SCUIg0jX-S-WVCXVwJQ7rCU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0541",
   "raw_cells": {
     "col_0": {
-      "text": "660"
+      "text": "658"
     },
     "col_1": {
-      "text": "Supreme Laces"
+      "text": "Syna Socks2 Pairs"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awu6O7ImSQG-PX1Rqv9IhkjDQZJNgZnlVWPYkG_sVopMg9hyjNQBX1Ko-g2J34s_NMs7tzaLR6MfE9jI29m5iH5BZCora-CuuO7eIsPW5sckcWAT9-jrkQIWApkk55oyhVFnffF5qfrmxi9=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygxCR7h3p13GZT5wRWk0YGsasB6lch13KdNkTfZATRt1FhKXCEIKO7hLNUvwfEYz-9v2F82Ju6ZEDs55G3Y1ogMsYiwayRT0pdk0rgI6Lb0p_Ws71j0ufw3SCUIg0jX-S-WVCXVwJQ7rCU=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "GOAT",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/1/39656812576?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/6671749353?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "2$"
+      "text": "10$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/145951861?uid=1&isSubCate=false&referrercate=4215138"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0541"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Acne Studio1981 JeansMany Styles",
+  "name": "Acne StudiosHoodieStockholm 1996",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "Topacney",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F876474890181%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/876474890181?inviteCode=29TOTHGNH"
+      "label": "Topacney",
+      "url": "https://litbuy.com/product/weidian/983758361101?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983758361101?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "52$",
+  "best_price": "46$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/categories/4963095"
+      "url": "https://topacney.x.yupoo.com/albums/163177997?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyK1WfxbFkyOk0D5HTjBcHtlLtug9CkKqpuIC1zkOK3_Qfz_mPPBopdZmG8lggJe9r5dOloBvF1-GPcMHtw4mRkJAIi_WLmzPU8I52Pn1UfJfwa4yIZ00mvqLO28Hz95EPg7MeMQ_hPng=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPUuqdCMzaHoApcKGjGb5KzcTAgvl3m0VIKTHA6LUb2zKyfwHtjbZBp6F-a3gMdjjUkvMn0zdvhmMIAnN7Hd7vlxM3BmolcduuqEUlTJJwGvmwksq0svbZr3-v5SNScmCw4i8FU2EKMI6_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1152",
   "raw_cells": {
     "col_0": {
-      "text": "715"
+      "text": "711"
     },
     "col_1": {
-      "text": "Acne Studio1981 JeansMany Styles"
+      "text": "Acne StudiosHoodieStockholm 1996"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyK1WfxbFkyOk0D5HTjBcHtlLtug9CkKqpuIC1zkOK3_Qfz_mPPBopdZmG8lggJe9r5dOloBvF1-GPcMHtw4mRkJAIi_WLmzPU8I52Pn1UfJfwa4yIZ00mvqLO28Hz95EPg7MeMQ_hPng=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPUuqdCMzaHoApcKGjGb5KzcTAgvl3m0VIKTHA6LUb2zKyfwHtjbZBp6F-a3gMdjjUkvMn0zdvhmMIAnN7Hd7vlxM3BmolcduuqEUlTJJwGvmwksq0svbZr3-v5SNScmCw4i8FU2EKMI6_=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "Topacney",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/876474890181?inviteCode=29TOTHGNH"
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/983758361101?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "52$"
+      "text": "46$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/categories/4963095"
+          "url": "https://topacney.x.yupoo.com/albums/163177997?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1152"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "KsubiSweatpants",
+  "name": "EvisuxPALACEBaseball Cap",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Bigd",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "Bigd",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F738251831542%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/738251831542?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7496085639?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7496085639?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "22$",
+  "best_price": "14$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/taobao/738251831542"
+      "label": "pics",
+      "url": "https://dragonrep333.x.yupoo.com/albums/207846611?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZrV18cr6HYPEkHWET4yGlyXLW7_gx3H5ueZt0pVLcJY8rY7FY7GMDXUAoG1TNdPLOvPha0h2DGZfxu58yficyXWi57wNyO1GYfy0SEcdUI3-ngZnpqD2Kzt4SNacZGDrXv-ru6DC04j2b=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxkYmG9vLAUnL7FkOWtpOxJsYArnP1F-B7LWdgj4-T-mztsrW-gx_T6HjyvqdDXZ1ODCSfyGPOjN2GXcQV5jtsCQbB405DuCQ54DNjuj7d3zZSCxUmoR-dK4P9ClV9cPfgTs-3Wb1R_qEoV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1238",
   "raw_cells": {
     "col_0": {
-      "text": "819"
+      "text": "813"
     },
     "col_1": {
-      "text": "KsubiSweatpants"
+      "text": "EvisuxPALACEBaseball Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZrV18cr6HYPEkHWET4yGlyXLW7_gx3H5ueZt0pVLcJY8rY7FY7GMDXUAoG1TNdPLOvPha0h2DGZfxu58yficyXWi57wNyO1GYfy0SEcdUI3-ngZnpqD2Kzt4SNacZGDrXv-ru6DC04j2b=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxkYmG9vLAUnL7FkOWtpOxJsYArnP1F-B7LWdgj4-T-mztsrW-gx_T6HjyvqdDXZ1ODCSfyGPOjN2GXcQV5jtsCQbB405DuCQ54DNjuj7d3zZSCxUmoR-dK4P9ClV9cPfgTs-3Wb1R_qEoV=w143-h110"
     },
     "col_3": {
-      "text": "Bigd",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "Bigd",
-          "url": "https://www.oopbuy.com/product/1/738251831542?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7496085639?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "14$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/taobao/738251831542"
+          "label": "pics",
+          "url": "https://dragonrep333.x.yupoo.com/albums/207846611?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1238"
+  }
 }

@@ -1,61 +1,87 @@
 {
-  "name": "Pro-Tek Logo Plaque Hooded Jacket3 Colors",
+  "name": "Mars Diagonal Zipper Sweatshirt4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "CPRepsCN",
   "best_batch_links": [
     {
       "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982413157009%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/982413157009?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/981146467993?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/981146467993?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "46$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/756743794908?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "43$",
+  "budget_price": "12$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://cprepscn.x.yupoo.com/albums/161312602?uid=1&isSubCate=false&referrercate=4543871"
+      "label": "best",
+      "url": "https://cprepscn.x.yupoo.com/albums/161314761?uid=1&isSubCate=false&referrercate=4543871"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxuNuSOWLnh4JQcGhjqgmV18k85KR4wECNRiKVFSfB9HsVR94WW9vQZJT8yGZeoXNAcayCL7ca3Qfr0Ee2snmw68qzxEvHym1AiZd_OCjbpB6iwN-4ux-EWXVQ6hoaD7YXSPnv8dOP5JVpB=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyuOItw-5XZwc-y6BozOlSm4E0j6RNA7vA2poAyEB_-i8Ho-FRWEKv8s97YAwN1p74AgBafOqX0u_5TORnfCILrn0PZP8JsiVwXZ_bsQf073oRrTMTyX0ajtkHbq2GhRPHEzMgfOFwNGGoy=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0763",
   "raw_cells": {
     "col_0": {
-      "text": "254"
+      "text": "250"
     },
     "col_1": {
-      "text": "Pro-Tek Logo Plaque Hooded Jacket3 Colors"
+      "text": "Mars Diagonal Zipper Sweatshirt4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxuNuSOWLnh4JQcGhjqgmV18k85KR4wECNRiKVFSfB9HsVR94WW9vQZJT8yGZeoXNAcayCL7ca3Qfr0Ee2snmw68qzxEvHym1AiZd_OCjbpB6iwN-4ux-EWXVQ6hoaD7YXSPnv8dOP5JVpB=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyuOItw-5XZwc-y6BozOlSm4E0j6RNA7vA2poAyEB_-i8Ho-FRWEKv8s97YAwN1p74AgBafOqX0u_5TORnfCILrn0PZP8JsiVwXZ_bsQf073oRrTMTyX0ajtkHbq2GhRPHEzMgfOFwNGGoy=w143-h110"
     },
     "col_3": {
       "text": "CPRepsCN",
       "links": [
         {
           "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/982413157009?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/981146467993?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "43$"
+    },
+    "col_6": {
+      "text": "12$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://cprepscn.x.yupoo.com/albums/161312602?uid=1&isSubCate=false&referrercate=4543871"
+          "label": "best",
+          "url": "https://cprepscn.x.yupoo.com/albums/161314761?uid=1&isSubCate=false&referrercate=4543871"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0763"
+  }
 }

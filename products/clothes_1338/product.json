@@ -1,61 +1,61 @@
 {
-  "name": "Palace PufferDown Jacket",
+  "name": "Palace x Umbro Warm Up Crewneck3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F856825352530%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/856825352530?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7496015395?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7496015395?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "22$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "40$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2001840609248235522?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://dragonrep333.x.yupoo.com/albums/207870915?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awd64lIsdekVe82uJAoyE82wwKHQ7LdJQT8fR-5gqq-gtN7hYbrcR6eiv-zxOPTsum8NpuPkDPSse6CEx_6npi0WhZGs-y3oGy6p9DLXM_zm1-UZMLAPEtb5ZPV5GUlnda0vN3RqJiWieL7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEhOn66-sDWXlGbFO9TyQRec2j4GG5Woav-09bHkjiGfL1l9Hcqi_D1m4S3lGX1hcyZyThZ33xdkpoWJCq-f5V36EcYCdTyJbDdOsZzJV2jeFEhNIK3ui3JtM92HVxQcbgwba_2RGa_ZbP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1338",
   "raw_cells": {
     "col_0": {
-      "text": "935"
+      "text": "931"
     },
     "col_1": {
-      "text": "Palace PufferDown Jacket"
+      "text": "Palace x Umbro Warm Up Crewneck3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awd64lIsdekVe82uJAoyE82wwKHQ7LdJQT8fR-5gqq-gtN7hYbrcR6eiv-zxOPTsum8NpuPkDPSse6CEx_6npi0WhZGs-y3oGy6p9DLXM_zm1-UZMLAPEtb5ZPV5GUlnda0vN3RqJiWieL7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEhOn66-sDWXlGbFO9TyQRec2j4GG5Woav-09bHkjiGfL1l9Hcqi_D1m4S3lGX1hcyZyThZ33xdkpoWJCq-f5V36EcYCdTyJbDdOsZzJV2jeFEhNIK3ui3JtM92HVxQcbgwba_2RGa_ZbP=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/856825352530?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7496015395?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "22$"
+    "col_5": {
+      "text": "40$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2001840609248235522?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://dragonrep333.x.yupoo.com/albums/207870915?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1338"
+  }
 }

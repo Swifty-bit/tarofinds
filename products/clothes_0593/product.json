@@ -1,61 +1,61 @@
 {
-  "name": "StussyCALIFORNIAHoodie",
+  "name": "StussyxCPFMHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Chaosmade",
+  "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
-      "label": "Chaosmade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7282463935%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7282463935?inviteCode=29TOTHGNH"
+      "label": "PikaPikaGo",
+      "url": "https://litbuy.com/product/weidian/823340876705?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/823340876705?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "23$",
+  "best_price": "22$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://chaosmade.x.yupoo.com/albums/176655704?uid=1&isSubCate=false&referrercate=3536981"
+      "url": "https://pikachushop.x.yupoo.com/albums/156255838?uid=1&isSubCate=false&referrercate=4066351"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzOBHFSOMkC9bWcMHifE0fbhoKFjHywR7bZJiynw4wjNMJRh5GY5sbCdxqRRxQQX3U0BtOo1h1JV6fKCqfZ37WtK-ZFC__aVg7ThmUE8-mcnZYieRV9WyPOYr9qJk4zrrdkijMxRpeCxVKD=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxEEEjrlMaYpOi6_Q8mr-6AfqyowB17-glyNB7o2e-EAtxi7EfaOIhq0S7o-w3JdNXkzWjTIAs2oVkf-LRrz2qbGkFGZVO2XTQvK6m1vvu_bQA2m3O5TBfb1ik5EqlO4AxJQNZtvw7UfwHP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0593",
   "raw_cells": {
     "col_0": {
-      "text": "62"
+      "text": "58"
     },
     "col_1": {
-      "text": "StussyCALIFORNIAHoodie"
+      "text": "StussyxCPFMHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzOBHFSOMkC9bWcMHifE0fbhoKFjHywR7bZJiynw4wjNMJRh5GY5sbCdxqRRxQQX3U0BtOo1h1JV6fKCqfZ37WtK-ZFC__aVg7ThmUE8-mcnZYieRV9WyPOYr9qJk4zrrdkijMxRpeCxVKD=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxEEEjrlMaYpOi6_Q8mr-6AfqyowB17-glyNB7o2e-EAtxi7EfaOIhq0S7o-w3JdNXkzWjTIAs2oVkf-LRrz2qbGkFGZVO2XTQvK6m1vvu_bQA2m3O5TBfb1ik5EqlO4AxJQNZtvw7UfwHP=w143-h110"
     },
     "col_3": {
-      "text": "Chaosmade",
+      "text": "PikaPikaGo",
       "links": [
         {
-          "label": "Chaosmade",
-          "url": "https://www.oopbuy.com/product/weidian/7282463935?inviteCode=29TOTHGNH"
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/823340876705?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "22$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://chaosmade.x.yupoo.com/albums/176655704?uid=1&isSubCate=false&referrercate=3536981"
+          "url": "https://pikachushop.x.yupoo.com/albums/156255838?uid=1&isSubCate=false&referrercate=4066351"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0593"
+  }
 }

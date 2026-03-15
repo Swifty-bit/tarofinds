@@ -1,61 +1,78 @@
 {
-  "name": "Gallery DeptShorts",
+  "name": "Gallery DeptBoxing MerchZip Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "tophotfashion/Singor",
   "best_batch_links": [
     {
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/821849748129?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/821849748129?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F674978726047%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/674978726047?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/829687869058?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/829687869058?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "22$",
+  "best_price": "36$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "tophot/singor",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1927094650034765825?action=discord&cid=1942512167859859457"
+      "label": "tophot",
+      "url": "https://tophotfashion.x.yupoo.com/search/album?uid=1&sort=&q=821849748129"
+    },
+    {
+      "label": "singor",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1925922182125371394?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwzHEsCIfrS1OfEim-CspmDB-XzgzTGwGQhVLYppOj-9YxCOaMl0k4xN2hpeeYKyiY0TtieNAUtuIsA6-AcCTdZ9XRbOrR1tv9AIkH_RGcIuTYsF1KG-NeBp5__1KxdjfYvA0d5-M7gCKoA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayd0AEN7lujimLu1YONBIe3uxHkDS1BaqWpzZZxTh41QlWb2r-8yUNNDfsQ7dfNN3eHFHaKqu8za9vaxf7MJvd3EsWFWtBs5KW9nMZkK6DmaGf8CGqVPNezRIlIEz28j8dCOAuCRIMvlQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0717",
   "raw_cells": {
     "col_0": {
-      "text": "200"
+      "text": "196"
     },
     "col_1": {
-      "text": "Gallery DeptShorts"
+      "text": "Gallery DeptBoxing MerchZip Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwzHEsCIfrS1OfEim-CspmDB-XzgzTGwGQhVLYppOj-9YxCOaMl0k4xN2hpeeYKyiY0TtieNAUtuIsA6-AcCTdZ9XRbOrR1tv9AIkH_RGcIuTYsF1KG-NeBp5__1KxdjfYvA0d5-M7gCKoA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayd0AEN7lujimLu1YONBIe3uxHkDS1BaqWpzZZxTh41QlWb2r-8yUNNDfsQ7dfNN3eHFHaKqu8za9vaxf7MJvd3EsWFWtBs5KW9nMZkK6DmaGf8CGqVPNezRIlIEz28j8dCOAuCRIMvlQ=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "tophotfashion/Singor",
       "links": [
         {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/1/821849748129?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/674978726047?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/829687869058?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "36$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "tophot/singor",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1927094650034765825?action=discord&cid=1942512167859859457"
+          "label": "tophot",
+          "url": "https://tophotfashion.x.yupoo.com/search/album?uid=1&sort=&q=821849748129"
+        },
+        {
+          "label": "singor",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1925922182125371394?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0717"
+  }
 }

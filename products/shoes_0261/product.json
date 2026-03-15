@@ -1,12 +1,12 @@
 {
-  "name": "Taupe Haze",
+  "name": "Craft Photon Dust",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyIdjJonCk-xCX3hfdrpsKf89NXU0VnAL3uSZZQoofjUNlGuc0P1W9zuD8MlD61Gu-hdwMKJsXGTEgQhCUj5hy_cVAFxrPWN6FNuH7_sLLSND--1iFxuY_EEIlK3k4g8LQrXUi7bxfW9pru=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay0tsQOnsAGmle0BT0IZCwIFqAQ8fR2MzUBCk_H2BBD9npiz-YfMCcP-wNZTTT9WP1pyL1ieFRpKcSuJ5aDp5ghsHI7je4Qbu_-YsL2LkAdjnIHLSYe3vxpsZuKJq5f5lMh0YNbxCdXtgGM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0261",
   "raw_cells": {
     "col_0": {
       "text": "276"
     },
     "col_1": {
-      "text": "Taupe Haze"
+      "text": "Craft Photon Dust"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyIdjJonCk-xCX3hfdrpsKf89NXU0VnAL3uSZZQoofjUNlGuc0P1W9zuD8MlD61Gu-hdwMKJsXGTEgQhCUj5hy_cVAFxrPWN6FNuH7_sLLSND--1iFxuY_EEIlK3k4g8LQrXUi7bxfW9pru=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay0tsQOnsAGmle0BT0IZCwIFqAQ8fR2MzUBCk_H2BBD9npiz-YfMCcP-wNZTTT9WP1pyL1ieFRpKcSuJ5aDp5ghsHI7je4Qbu_-YsL2LkAdjnIHLSYe3vxpsZuKJq5f5lMh0YNbxCdXtgGM=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0261"
+  }
 }

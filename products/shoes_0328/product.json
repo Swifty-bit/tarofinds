@@ -1,47 +1,47 @@
 {
-  "name": "Forum / CampusBad Bunny(Many styles)",
+  "name": "Forum",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWTOP",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564040795%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564040795?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/taobao/4708861039?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4708861039?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "38$",
+  "best_price": "33$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxGTYxpbMdhnT0dmquq4mOChZPXd93bcXYepDSs8XmR_XX5rNVEYx2Ljw8GmlvscVqrrZGUQVJa4eYAyUn2QZV7vYbVQfh-hJdByhuQ1YDxKy3UKNaGvdFlwjyFW5zWpg5IbZw1Kcwk0g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzluKSNqiohpb2ixQfee-c9ZoKa9dV7hy51JTnziLXoVQfWTK7sqiESr_CGnwoG9gieJLmQe-dpcgga_16Bonh9QhTmmODymPiN1fngOUoXwag9VLXuqQpL36-YOOdVdtkC6YDqTJrZu2sB=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0328",
   "raw_cells": {
     "col_0": {
       "text": "357"
     },
     "col_1": {
-      "text": "Forum / CampusBad Bunny(Many styles)"
+      "text": "Forum"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxGTYxpbMdhnT0dmquq4mOChZPXd93bcXYepDSs8XmR_XX5rNVEYx2Ljw8GmlvscVqrrZGUQVJa4eYAyUn2QZV7vYbVQfh-hJdByhuQ1YDxKy3UKNaGvdFlwjyFW5zWpg5IbZw1Kcwk0g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzluKSNqiohpb2ixQfee-c9ZoKa9dV7hy51JTnziLXoVQfWTK7sqiESr_CGnwoG9gieJLmQe-dpcgga_16Bonh9QhTmmODymPiN1fngOUoXwag9VLXuqQpL36-YOOdVdtkC6YDqTJrZu2sB=w143-h110"
     },
     "col_3": {
-      "text": "WWTOP",
+      "text": "here",
       "links": [
         {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7564040795?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/4708861039?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "33$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0328"
+  }
 }

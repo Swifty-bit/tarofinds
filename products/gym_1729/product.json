@@ -1,61 +1,49 @@
 {
-  "name": "UnbrandedT-Shirt8 Colors",
+  "name": "GYMSHARKShorts2 Colors",
   "category": "Gym",
   "subcategory": "",
-  "best_batch": "",
+  "best_batch": "/",
   "best_batch_links": [],
-  "budget_batch": "here",
-  "budget_batch_links": [
-    {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F714110143125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/714110143125?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "",
-  "budget_price": "6$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "24$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287538890633217?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924551454985601025?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzY4K89VArwzAJkrgx-HX5tHDdUw0wEPe4xHNfteGphIUsqPY9ACvaETnUxWqptaOjXyRiO7bYAQHj8pkpRSxB53WhgcTFkPz5XCBWKX87vjyGC_NoSeGpv2D_2OYaI5ckYKBok_6v7uWbI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxpOMnHOmFmaTGQPj6rhAVgjlWFgWxGKFo19SnkB9eUJyvng1q83rKLaRZ2mjpGQL4lfnb04oLVNhR6M9Mg12ws4sPbK0w9R-eVoW89mgLg6-bW0FdI4kBeCDmhkq94u0cxWvTY8VqvR10Z=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1729",
   "raw_cells": {
     "col_0": {
-      "text": "36"
+      "text": "22"
     },
     "col_1": {
-      "text": "UnbrandedT-Shirt8 Colors"
+      "text": "GYMSHARKShorts2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzY4K89VArwzAJkrgx-HX5tHDdUw0wEPe4xHNfteGphIUsqPY9ACvaETnUxWqptaOjXyRiO7bYAQHj8pkpRSxB53WhgcTFkPz5XCBWKX87vjyGC_NoSeGpv2D_2OYaI5ckYKBok_6v7uWbI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxpOMnHOmFmaTGQPj6rhAVgjlWFgWxGKFo19SnkB9eUJyvng1q83rKLaRZ2mjpGQL4lfnb04oLVNhR6M9Mg12ws4sPbK0w9R-eVoW89mgLg6-bW0FdI4kBeCDmhkq94u0cxWvTY8VqvR10Z=w143-h110"
     },
-    "col_4": {
-      "text": "here",
-      "links": [
-        {
-          "label": "here",
-          "url": "https://oopbuy.com/product/1/714110143125?inviteCode=29TOTHGNH"
-        }
-      ]
+    "col_3": {
+      "text": "/"
     },
-    "col_6": {
-      "text": "6$"
+    "col_5": {
+      "text": "24$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287538890633217?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924551454985601025?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1729"
+  }
 }

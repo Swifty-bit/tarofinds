@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaCut UpCargo Pants",
+  "name": "Balenciaga 25SS Double Waisted Loopsport Sweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "SatanMade",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F908442184728%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/908442184728?inviteCode=29TOTHGNH"
+      "label": "SatanMade",
+      "url": "https://litbuy.com/product/weidian/7435761883?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7435761883?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "75$",
+  "best_price": "44$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/191274467?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2021054502625431553?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDrc5bwnt8NDU1MfPV2q-g1QzWzRkogbAaVmVCX7A00IE-14mofbq-XF_jks1o7lxYwtfbAOz1AulphSbNzNZ0Z0sRb9jh2-K_zwW4CL8Xy8hxxdM3InQO-XXn4OODYSxbZUh7wnDWYw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQ3ASkpNZky2ZUTEQS9U9DM0G_bhDLJbk9TBxnCZvC600R3DLfrLDTRqUhXLcA-oBw3R4ldr6DYYvsUQp8ZwFSDC9HFX1a72zixxlvMxPgklJwZChluPf6nBZb9J68_wGR8nRSibnt7g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1272",
   "raw_cells": {
     "col_0": {
-      "text": "861"
+      "text": "857"
     },
     "col_1": {
-      "text": "BalenciagaCut UpCargo Pants"
+      "text": "Balenciaga 25SS Double Waisted Loopsport Sweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDrc5bwnt8NDU1MfPV2q-g1QzWzRkogbAaVmVCX7A00IE-14mofbq-XF_jks1o7lxYwtfbAOz1AulphSbNzNZ0Z0sRb9jh2-K_zwW4CL8Xy8hxxdM3InQO-XXn4OODYSxbZUh7wnDWYw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQ3ASkpNZky2ZUTEQS9U9DM0G_bhDLJbk9TBxnCZvC600R3DLfrLDTRqUhXLcA-oBw3R4ldr6DYYvsUQp8ZwFSDC9HFX1a72zixxlvMxPgklJwZChluPf6nBZb9J68_wGR8nRSibnt7g=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "SatanMade",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/908442184728?inviteCode=29TOTHGNH"
+          "label": "SatanMade",
+          "url": "https://oopbuy.com/product/weidian/7435761883?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "75$"
+      "text": "44$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/191274467?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2021054502625431553?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1272"
+  }
 }

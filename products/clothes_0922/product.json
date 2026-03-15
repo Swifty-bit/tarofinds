@@ -1,55 +1,57 @@
 {
-  "name": "Palm AngelsShorts",
+  "name": "Palm AngelsKillbear Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F963769133296%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/963769133296?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/962618751944?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/962618751944?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F654451461969%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/654451461969?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/657691711703?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/657691711703?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "29$",
-  "budget_price": "6$",
+  "best_price": "50$",
+  "budget_price": "12$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=963769133296"
+      "url": "https://repsbro.x.yupoo.com/albums/205539131?uid=1&isSubCate=false&referrercate=4971731"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924268959060770817?action=discord&cid=1840597081113280514"
+      "url": "https://finds.ly/product/ali1688/657691711703"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2GrezGLzF6B87BJmorPlxnn2njKYPcSxElCoXk0mUw90qibyEMJNoHc6p7p08CuKVBGxWE_IQEejpiLDdqth8J88xMFwGsJPqX77TYJNmewMClfwye7lQhyZMMiks9abBjAokRtX6jw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyfxS5hTpEH111DiFdenT4z-q-mcAlrbtDSKChI4dlL-kp7oW9zrsAuhpZ9ki_gvpBn5qyfMg31ZUFEBgQ2hNobGhbA9o7cKrzqdBLpRYGiKs0ePX_pv1vh_ZzlovNZQL3Zn0B9G2YWgTZN=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0922",
   "raw_cells": {
     "col_0": {
-      "text": "447"
+      "text": "443"
     },
     "col_1": {
-      "text": "Palm AngelsShorts"
+      "text": "Palm AngelsKillbear Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2GrezGLzF6B87BJmorPlxnn2njKYPcSxElCoXk0mUw90qibyEMJNoHc6p7p08CuKVBGxWE_IQEejpiLDdqth8J88xMFwGsJPqX77TYJNmewMClfwye7lQhyZMMiks9abBjAokRtX6jw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyfxS5hTpEH111DiFdenT4z-q-mcAlrbtDSKChI4dlL-kp7oW9zrsAuhpZ9ki_gvpBn5qyfMg31ZUFEBgQ2hNobGhbA9o7cKrzqdBLpRYGiKs0ePX_pv1vh_ZzlovNZQL3Zn0B9G2YWgTZN=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/963769133296?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/962618751944?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -58,30 +60,28 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/654451461969?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/657691711703?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "29$"
+      "text": "50$"
     },
     "col_6": {
-      "text": "6$"
+      "text": "12$"
     },
     "col_7": {
       "text": "best/budget",
       "links": [
         {
           "label": "best",
-          "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=963769133296"
+          "url": "https://repsbro.x.yupoo.com/albums/205539131?uid=1&isSubCate=false&referrercate=4971731"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924268959060770817?action=discord&cid=1840597081113280514"
+          "url": "https://finds.ly/product/ali1688/657691711703"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0922"
+  }
 }

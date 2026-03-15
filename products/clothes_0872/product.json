@@ -1,95 +1,61 @@
 {
-  "name": "New EraCap56 Styles",
+  "name": "Prada Beanie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "budget/budget2/budget3",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F765247226987%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/765247226987?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F759951266357%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/759951266357?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F810376046377%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/810376046377?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7234458934?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "budget/budget2/budget3",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1907962504484589569?action=discord&cid=1840597081113280514"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973213149307428866?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget3",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1975023894328336385?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1950361440761237506?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyI9BPLzvPRufM07ZSBRuZ0sOAddBvhmsiWPHh4MDi6DAQa4Tuqxwry9QmSedJXWKvuj7J1_VEdqpaEQFQcM-YLmNV9X0vEnQir6N6g8bCYiiLXOLGmKG4hCiXntCBeMKaZT2_NeLLmoRIx=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxAtGaaOGriZJXlapt7_rLBLDJODT_u3rVyJpb2acqvv6Bqz9hv5xb_KwEQmvEeS_pCaNQiPDW59jorIEy_O3ttLG5khsyphfnfJ3qLsCxjTyfAbuTIJ2jKxx6HdVz_U6tTroJpg4nX9e4Y=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0872",
   "raw_cells": {
     "col_0": {
-      "text": "387"
+      "text": "381"
     },
     "col_1": {
-      "text": "New EraCap56 Styles"
+      "text": "Prada Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyI9BPLzvPRufM07ZSBRuZ0sOAddBvhmsiWPHh4MDi6DAQa4Tuqxwry9QmSedJXWKvuj7J1_VEdqpaEQFQcM-YLmNV9X0vEnQir6N6g8bCYiiLXOLGmKG4hCiXntCBeMKaZT2_NeLLmoRIx=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxAtGaaOGriZJXlapt7_rLBLDJODT_u3rVyJpb2acqvv6Bqz9hv5xb_KwEQmvEeS_pCaNQiPDW59jorIEy_O3ttLG5khsyphfnfJ3qLsCxjTyfAbuTIJ2jKxx6HdVz_U6tTroJpg4nX9e4Y=w143-h110"
     },
     "col_4": {
-      "text": "budget/budget2/budget3",
+      "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/1/765247226987?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget2",
-          "url": "https://oopbuy.com/product/0/759951266357?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget3",
-          "url": "https://oopbuy.com/product/0/810376046377?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "3$"
+      "text": "4$"
     },
     "col_7": {
-      "text": "budget/budget2/budget3",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1907962504484589569?action=discord&cid=1840597081113280514"
-        },
-        {
-          "label": "budget2",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973213149307428866?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget3",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1975023894328336385?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1950361440761237506?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0872"
+  }
 }

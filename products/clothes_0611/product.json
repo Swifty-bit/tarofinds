@@ -1,61 +1,87 @@
 {
-  "name": "Ralph LaurenHalf-Zip Sweatshirt",
+  "name": "Ralph Lauren Classic POLO",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CloudShop",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "CloudShop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F576627998006%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/576627998006?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/taobao/7221752639?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7221752639?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "22$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/710444688840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/710444688840?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "23$",
+  "budget_price": "13$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631396255580162?action=discord&cid=1840597081113280514"
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/154782009?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1893466229055787009?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw6j2fSajTuiCJN5ie_kKFBzVA5TvFQgAhDG7VGEc9gn78kmlWyAjFQI4DpzuDN6KUAnwt67o1EFse058b1WJ325iVcRVdpW6hwGuDGxbpyN54yM_xKxKP_VWcvBqlcOi4s0cji1KkN8Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYSyzopFdaUqHcKlr1F18h8Xll0HIPgLykmMlsVGGWwyvHdr5ClVW5cpAnrJxCeEygS0ltXJzbXJ2dhIiX5ZOYj4nQmdepfM1lNBp1vNXqpJVxg3Qd-Vva_UHqnPbKcR0_6SkXa2zvQg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0611",
   "raw_cells": {
     "col_0": {
-      "text": "82"
+      "text": "78"
     },
     "col_1": {
-      "text": "Ralph LaurenHalf-Zip Sweatshirt"
+      "text": "Ralph Lauren Classic POLO"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw6j2fSajTuiCJN5ie_kKFBzVA5TvFQgAhDG7VGEc9gn78kmlWyAjFQI4DpzuDN6KUAnwt67o1EFse058b1WJ325iVcRVdpW6hwGuDGxbpyN54yM_xKxKP_VWcvBqlcOi4s0cji1KkN8Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYSyzopFdaUqHcKlr1F18h8Xll0HIPgLykmMlsVGGWwyvHdr5ClVW5cpAnrJxCeEygS0ltXJzbXJ2dhIiX5ZOYj4nQmdepfM1lNBp1vNXqpJVxg3Qd-Vva_UHqnPbKcR0_6SkXa2zvQg=w143-h110"
     },
     "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/7221752639?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
       "text": "CloudShop",
       "links": [
         {
           "label": "CloudShop",
-          "url": "https://oopbuy.com/product/1/576627998006?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/710444688840?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "23$"
+    },
+    "col_6": {
+      "text": "13$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631396255580162?action=discord&cid=1840597081113280514"
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/154782009?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1893466229055787009?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0611"
+  }
 }

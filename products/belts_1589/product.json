@@ -1,61 +1,61 @@
 {
-  "name": "Mertra",
+  "name": "Ralph Lauren",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "GOAT",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F1953253569860135025592%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/1953253569860135025592?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/857620796415?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/857620796415?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "30$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official222.x.yupoo.com/albums/208871567?uid=1&isSubCate=false&referrercate=4906533"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyMbwzViW9lI_pVwaL7EatH-CDhC28mBsQckTqWsSteLC81QdBdKWp38l4AqnUo6KPh8SWbiNkNktlt4hCWuGFgxT9mq_eznwdyftSUBZf0BPktn5ti5s_bQ_9fFS-yJGARdtdQIg8r8w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw6OMZjiQqM13bzttQHiz8OHXjOxkngKmF66NNA1MuaJM3u-to0z-Yrm8EE_US0TpokimZUDcp0Bi1E_9inDDYCmFztY1GyZjNb_Uf-wyzeO-g0AcXGIdjOawDGQ1hvNp2NzUxG7C5XeNlY=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1589",
   "raw_cells": {
     "col_0": {
-      "text": "51"
+      "text": "46"
     },
     "col_1": {
-      "text": "Mertra"
+      "text": "Ralph Lauren"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyMbwzViW9lI_pVwaL7EatH-CDhC28mBsQckTqWsSteLC81QdBdKWp38l4AqnUo6KPh8SWbiNkNktlt4hCWuGFgxT9mq_eznwdyftSUBZf0BPktn5ti5s_bQ_9fFS-yJGARdtdQIg8r8w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw6OMZjiQqM13bzttQHiz8OHXjOxkngKmF66NNA1MuaJM3u-to0z-Yrm8EE_US0TpokimZUDcp0Bi1E_9inDDYCmFztY1GyZjNb_Uf-wyzeO-g0AcXGIdjOawDGQ1hvNp2NzUxG7C5XeNlY=w143-h110"
     },
-    "col_3": {
-      "text": "GOAT",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/1953253569860135025592?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/857620796415?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "30$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official222.x.yupoo.com/albums/208871567?uid=1&isSubCate=false&referrercate=4906533"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1589"
+  }
 }

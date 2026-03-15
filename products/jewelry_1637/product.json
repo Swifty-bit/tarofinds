@@ -1,47 +1,61 @@
 {
-  "name": "Gucci Bracelet",
+  "name": "Chrome HeartsBraceletsMany Styles",
   "category": "Jewelry",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7267583946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7267583946?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/688462436447?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/688462436447?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "53$",
-  "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1955079061133938689?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyS6tpnk6mwN7ibTgfVVFRVHlGeU3BwjcipA5QIY3vcFk_Zjs_Sg5QK5h8gvO8BH1VLbswYw3NhVzMM98VXH8-MkywdjzfK2ZtUEGB4ppfVY3j_4D_-vgjzRRrPJT2X5vxFJ2wkuUBln4IC=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxFjJyKu8JGqyaQzsf3T06GUjU-fJB5QhWjDWQDGU9AGJrO3PohhS5oYC3WIGpjz95eNabIsBy5B6csfBgYPpKN-_arJ2P7J7b2N1TrDG7lozhF59JQWbcCSFhftcrF866HMIK2heewc_dV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1637",
   "raw_cells": {
     "col_0": {
-      "text": "51"
+      "text": "46"
     },
     "col_1": {
-      "text": "Gucci Bracelet"
+      "text": "Chrome HeartsBraceletsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyS6tpnk6mwN7ibTgfVVFRVHlGeU3BwjcipA5QIY3vcFk_Zjs_Sg5QK5h8gvO8BH1VLbswYw3NhVzMM98VXH8-MkywdjzfK2ZtUEGB4ppfVY3j_4D_-vgjzRRrPJT2X5vxFJ2wkuUBln4IC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxFjJyKu8JGqyaQzsf3T06GUjU-fJB5QhWjDWQDGU9AGJrO3PohhS5oYC3WIGpjz95eNabIsBy5B6csfBgYPpKN-_arJ2P7J7b2N1TrDG7lozhF59JQWbcCSFhftcrF866HMIK2heewc_dV=w143-h110"
     },
-    "col_3": {
-      "text": "here",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7267583946?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/688462436447?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "53$"
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1955079061133938689?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1637"
+  }
 }

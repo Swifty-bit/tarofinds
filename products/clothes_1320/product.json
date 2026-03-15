@@ -1,79 +1,61 @@
 {
-  "name": "OG WEBSweatpantsBlack",
+  "name": "Bape Shark Head CamouflageBeach Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PikaPikaGo",
+  "best_batch": "Lufilo",
   "best_batch_links": [
     {
-      "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F823211069785%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/823211069785?inviteCode=29TOTHGNH"
+      "label": "Lufilo",
+      "url": "https://litbuy.com/product/weidian/831089203557?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/831089203557?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "18$(sale)",
-  "budget_price": "14$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/177006955?uid=1"
+      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831089203557"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AypwoMgfS30kCuWSuPBojFE9si2nTjOg0VzmTZ3oJUYUya4K9Q98pzwiXCcnwm1sW93qjwnRBLfyAda47ZsunmghOoh1A5JX62afhpVTLPJ_MKFMNRnFAj7tnD6qoosUS4Z2vE0iJly3sIH=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az04yayyj5cLWQvFBDGS5pt4WCmNr-rJcJ1DOwbcb39GhmUSsCkmppF0XQT-2XiTWc-39edAnw-HY7B4RY-D7UtaTgEtYPZvtNl97DbmtDXO6G6FW-BwjT4MxDGc2-gnR74iPkMTtTpEw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1320",
   "raw_cells": {
     "col_0": {
-      "text": "915"
+      "text": "909"
     },
     "col_1": {
-      "text": "OG WEBSweatpantsBlack"
+      "text": "Bape Shark Head CamouflageBeach Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AypwoMgfS30kCuWSuPBojFE9si2nTjOg0VzmTZ3oJUYUya4K9Q98pzwiXCcnwm1sW93qjwnRBLfyAda47ZsunmghOoh1A5JX62afhpVTLPJ_MKFMNRnFAj7tnD6qoosUS4Z2vE0iJly3sIH=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az04yayyj5cLWQvFBDGS5pt4WCmNr-rJcJ1DOwbcb39GhmUSsCkmppF0XQT-2XiTWc-39edAnw-HY7B4RY-D7UtaTgEtYPZvtNl97DbmtDXO6G6FW-BwjT4MxDGc2-gnR74iPkMTtTpEw=w143-h110"
     },
     "col_3": {
-      "text": "PikaPikaGo",
+      "text": "Lufilo",
       "links": [
         {
-          "label": "PikaPikaGo",
-          "url": "https://www.oopbuy.com/product/1/823211069785?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+          "label": "Lufilo",
+          "url": "https://oopbuy.com/product/1/831089203557?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$(sale)"
-    },
-    "col_6": {
-      "text": "14$"
+      "text": "44$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/177006955?uid=1"
+          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831089203557"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1320"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Maison MargielaMM6",
+  "name": "Montblanc",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "K8",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F742016452167%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/742016452167?inviteCode=29TOTHGNH"
+      "label": "K8",
+      "url": "https://litbuy.com/product/weidian/7246043155?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7246043155?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "7$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "34$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1968863316161421314?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1913315619548770306?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyL6aQmK700GKo3-9eyotmXqzbzCf3RpGo3fBCApruuZuIbZw5OeGDkGEWtbaEv2B7uslilNLk4jEECQFvdnMy_4xzCUmkLthN9hgcPfiUBnxZUOBJASZngTXZ8Xij4zV_HKqc-oAiJ2n03=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzB2zZhDyvBrOsK3ZqoirLErFWwVLI0upH1P8GN1ZkLcZfw-qSYfs6ei8kMQuGziPPgsy4pwZNSrlM91BK8DYYnYRtFHO4wQBGZsHD-6W8Ow9qzR573yjs3_S0xS5vNUEAw1P-HAaYxgwKl=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1590",
   "raw_cells": {
     "col_0": {
-      "text": "52"
+      "text": "47"
     },
     "col_1": {
-      "text": "Maison MargielaMM6"
+      "text": "Montblanc"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyL6aQmK700GKo3-9eyotmXqzbzCf3RpGo3fBCApruuZuIbZw5OeGDkGEWtbaEv2B7uslilNLk4jEECQFvdnMy_4xzCUmkLthN9hgcPfiUBnxZUOBJASZngTXZ8Xij4zV_HKqc-oAiJ2n03=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzB2zZhDyvBrOsK3ZqoirLErFWwVLI0upH1P8GN1ZkLcZfw-qSYfs6ei8kMQuGziPPgsy4pwZNSrlM91BK8DYYnYRtFHO4wQBGZsHD-6W8Ow9qzR573yjs3_S0xS5vNUEAw1P-HAaYxgwKl=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "K8",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/742016452167?inviteCode=29TOTHGNH"
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7246043155?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "7$"
+    "col_5": {
+      "text": "34$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1968863316161421314?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1913315619548770306?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1590"
+  }
 }

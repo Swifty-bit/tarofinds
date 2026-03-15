@@ -1,65 +1,74 @@
 {
-  "name": "Dior B30xStone Island",
+  "name": "Dior B25",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZZZTOPXX",
+  "best_batch": "Ice Cream/Alexander",
   "best_batch_links": [
     {
-      "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7318762459%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7318762459?inviteCode=29TOTHGNH"
+      "label": "Ice Cream",
+      "url": "https://litbuy.com/product/weidian/7496052070?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7496052070?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Alexander",
+      "url": "https://litbuy.com/product/taobao/6883444254?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6883444254?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "GD",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "GD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7428565352%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/742309176501?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/742309176501?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "100$",
-  "budget_price": "52$",
-  "pics_text": "52$",
+  "best_price": "89$",
+  "budget_price": "36$",
+  "pics_text": "36$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzvCQ12ahT-6C-YM6lrrXgBQz3EOg8wLydSBiCT-x7WCWJdpt7meILsvoIVIg0ycf76Opka2BAIoKWlRaFxH-jfcmR08O_1rTQndR49ObLhLQ7wR5zJLR7d2TDmRDGNT2swg11z0CHJtuXp=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwuvbJlkgT19xswec3S1FGdbdDHf92nM3UuZKLAU6hKpkTjaK_M9N5NsO7I1YEbTdLPqgm7yrmuM0MK3jkd6NtPzjQ1oLazy1K_MHBvlx8ezcy15H5cfeOcgtYvc-vUWQx2OjPuD22-m8Gs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0415",
   "raw_cells": {
     "col_0": {
       "text": "472"
     },
     "col_1": {
-      "text": "Dior B30xStone Island"
+      "text": "Dior B25"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzvCQ12ahT-6C-YM6lrrXgBQz3EOg8wLydSBiCT-x7WCWJdpt7meILsvoIVIg0ycf76Opka2BAIoKWlRaFxH-jfcmR08O_1rTQndR49ObLhLQ7wR5zJLR7d2TDmRDGNT2swg11z0CHJtuXp=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwuvbJlkgT19xswec3S1FGdbdDHf92nM3UuZKLAU6hKpkTjaK_M9N5NsO7I1YEbTdLPqgm7yrmuM0MK3jkd6NtPzjQ1oLazy1K_MHBvlx8ezcy15H5cfeOcgtYvc-vUWQx2OjPuD22-m8Gs=w143-h110"
     },
     "col_3": {
-      "text": "ZZZTOPXX",
+      "text": "Ice Cream/Alexander",
       "links": [
         {
-          "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/weidian/7318762459?inviteCode=29TOTHGNH"
+          "label": "Ice Cream",
+          "url": "https://oopbuy.com/product/weidian/7496052070?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Alexander",
+          "url": "https://oopbuy.com/product/2/6883444254?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "GD",
+      "text": "budget",
       "links": [
         {
-          "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/742309176501?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "100$"
+      "text": "89$"
     },
     "col_6": {
-      "text": "52$"
+      "text": "36$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0415"
+  }
 }

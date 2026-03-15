@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaDistressedJeans Pants",
+  "name": "BalenciagaCut UpCargo Pants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "2Three",
+  "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
-      "label": "2Three",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F860963814953%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/860963814953?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/908442184728?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/908442184728?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "39$",
+  "best_price": "75$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1922601288656326658?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/191274467?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aypcr_JANI0tTGID4rY506oyXiBpL0OWOwVHgslmleOipREtdFxfbvuSAmdZtpfckygRXYMFsCk125XDTzWNSuuWz1qky-ikcgiCxlruWSe_Y7TuetQWtK7n0AV6z9t-dOtm4SrMN9ODRoF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxO8O08UDSwWOlFY2_jwSlpX_ZrQDKJHA4NTPlPa4WnWKapVguEABo8dNDvjCzyUsuRDyyDiVDCqo4XnhIHYYg_sc27WFqaTXQGkELXWmBjwQoEKhCOo6efqQhWXMgji6MKdmugIHCnZg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1276",
   "raw_cells": {
     "col_0": {
-      "text": "865"
+      "text": "861"
     },
     "col_1": {
-      "text": "BalenciagaDistressedJeans Pants"
+      "text": "BalenciagaCut UpCargo Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aypcr_JANI0tTGID4rY506oyXiBpL0OWOwVHgslmleOipREtdFxfbvuSAmdZtpfckygRXYMFsCk125XDTzWNSuuWz1qky-ikcgiCxlruWSe_Y7TuetQWtK7n0AV6z9t-dOtm4SrMN9ODRoF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxO8O08UDSwWOlFY2_jwSlpX_ZrQDKJHA4NTPlPa4WnWKapVguEABo8dNDvjCzyUsuRDyyDiVDCqo4XnhIHYYg_sc27WFqaTXQGkELXWmBjwQoEKhCOo6efqQhWXMgji6MKdmugIHCnZg=w143-h110"
     },
     "col_3": {
-      "text": "2Three",
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "2Three",
-          "url": "https://www.oopbuy.com/product/1/860963814953?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/908442184728?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "39$"
+      "text": "75$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1922601288656326658?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/191274467?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1276"
+  }
 }

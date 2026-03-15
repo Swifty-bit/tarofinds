@@ -1,47 +1,92 @@
 {
-  "name": "SkateSuede Blackw/ Pearls",
+  "name": "Skate",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Alexander",
+  "best_batch": "Koala/A+/FS",
   "best_batch_links": [
     {
-      "label": "Alexander",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6930217570%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6930217570?inviteCode=29TOTHGNH"
+      "label": "Koala",
+      "url": "https://litbuy.com/product/weidian/918888917713?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "A+",
+      "url": "https://litbuy.com/product/taobao/6167288771?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7565909066?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "132$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget/YOLO TG",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/838219574908?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "YOLO TG",
+      "url": "https://litbuy.com/product/weidian/7622551100?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "95$ / 72$ / 72$",
+  "budget_price": "50$ / 32$",
+  "pics_text": "50$ / 32$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azq_cbjKaVZclbnK9ZfISoE9zQ2kSBBPOjzcWlsLY-Ll1HmwCNmqShPxMmLaSNBzGG0c3PNam1QNuuXK_4Q5Kwnm7TkRuO7U6_YhqbNdN1V95O7APQytJP88Sp-slLefPuEKdwJ0rT89jCC=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay0ka-GaL9SiThG3eCRPj4RcU8FXHZ5AelIYpVxhZ9s9gtdVJw1QZMzeHjAEgJdjLWykNmVITy74waYE1HOJY_MTCx20iUQP1s2Y-BccWAeHBdcIQ491mP7o2rUXbpCENYDP-srQhzbaQgN=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0449",
   "raw_cells": {
     "col_0": {
       "text": "510"
     },
     "col_1": {
-      "text": "SkateSuede Blackw/ Pearls"
+      "text": "Skate"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azq_cbjKaVZclbnK9ZfISoE9zQ2kSBBPOjzcWlsLY-Ll1HmwCNmqShPxMmLaSNBzGG0c3PNam1QNuuXK_4Q5Kwnm7TkRuO7U6_YhqbNdN1V95O7APQytJP88Sp-slLefPuEKdwJ0rT89jCC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay0ka-GaL9SiThG3eCRPj4RcU8FXHZ5AelIYpVxhZ9s9gtdVJw1QZMzeHjAEgJdjLWykNmVITy74waYE1HOJY_MTCx20iUQP1s2Y-BccWAeHBdcIQ491mP7o2rUXbpCENYDP-srQhzbaQgN=w143-h110"
     },
     "col_3": {
-      "text": "Alexander",
+      "text": "Koala/A+/FS",
       "links": [
         {
-          "label": "Alexander",
-          "url": "https://oopbuy.com/product/weidian/6930217570?inviteCode=29TOTHGNH"
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "A+",
+          "url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget/YOLO TG",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "YOLO TG",
+          "url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "132$"
+      "text": "95$ / 72$ / 72$"
+    },
+    "col_6": {
+      "text": "50$ / 32$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0449"
+  }
 }

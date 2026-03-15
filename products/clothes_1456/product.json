@@ -1,61 +1,61 @@
 {
-  "name": "TNF X KAWSBeanie3 Colors",
+  "name": "TNF x KAWSPuffer2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CND ISLAND",
+  "best_batch": "BAT SHOP",
   "best_batch_links": [
     {
-      "label": "CND ISLAND",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7447185361%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7447185361?inviteCode=29TOTHGNH"
+      "label": "BAT SHOP",
+      "url": "https://litbuy.com/product/taobao/6007495564?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6007495564?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "12$",
+  "best_price": "58$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://baymaxsocks.x.yupoo.com/albums/172807175?uid=1&isSubCate=true&referrercate=255779"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1915756390277263364?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCI3hRzBDSWmcyosYTziSy3qYc-IzLljtVpGfjvw7IzH8kekNB6_DvSWvYSQINT4oI8bC4iRVedSSX4XFOHNCpGowElrhul7EO1dOGtvUHDxFpKoEMMYMIuP48bLPehINUacilpVVD6w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzUVhG3E4B-i6JtMmzJcW1e6gh2QRQxc2MighxSSnW-mLBDlBpXh4X7n6e-de-6sysdF6g3Mmh5bEGs4PxCesCn2Bi5Z5osbMZIMxqzKtngM_ClEyFgddPSoiWKZY46JuKI5kH2ITyZ-w=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1456",
   "raw_cells": {
     "col_0": {
-      "text": "1075"
+      "text": "1071"
     },
     "col_1": {
-      "text": "TNF X KAWSBeanie3 Colors"
+      "text": "TNF x KAWSPuffer2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCI3hRzBDSWmcyosYTziSy3qYc-IzLljtVpGfjvw7IzH8kekNB6_DvSWvYSQINT4oI8bC4iRVedSSX4XFOHNCpGowElrhul7EO1dOGtvUHDxFpKoEMMYMIuP48bLPehINUacilpVVD6w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzUVhG3E4B-i6JtMmzJcW1e6gh2QRQxc2MighxSSnW-mLBDlBpXh4X7n6e-de-6sysdF6g3Mmh5bEGs4PxCesCn2Bi5Z5osbMZIMxqzKtngM_ClEyFgddPSoiWKZY46JuKI5kH2ITyZ-w=w143-h110"
     },
     "col_3": {
-      "text": "CND ISLAND",
+      "text": "BAT SHOP",
       "links": [
         {
-          "label": "CND ISLAND",
-          "url": "https://oopbuy.com/product/weidian/7447185361?inviteCode=29TOTHGNH"
+          "label": "BAT SHOP",
+          "url": "https://oopbuy.com/product/2/6007495564?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "12$"
+      "text": "58$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://baymaxsocks.x.yupoo.com/albums/172807175?uid=1&isSubCate=true&referrercate=255779"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1915756390277263364?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1456"
+  }
 }

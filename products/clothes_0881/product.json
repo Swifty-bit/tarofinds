@@ -1,65 +1,91 @@
 {
-  "name": "on air Jeans",
+  "name": "Blossom KnitSweater",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "firerep",
   "best_batch_links": [
     {
       "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F996328897857%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/996328897857?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/991452426400?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/991452426400?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "46$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/991639641336?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "38$",
+  "budget_price": "19$",
+  "pics_text": "firerep/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotders.x.yupoo.com/albums/202429508?uid=1"
+      "label": "firerep",
+      "url": "https://hotders.x.yupoo.com/albums/202349970?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQ7A4thKD_LitR4Bwe-l4i5A9szZeEag43oMYe3_ZmDWzrSsu0vPiBM3aqbDMVp7x01qLBzU_WoCdGkGIq9MA3UglYcvTyNTc-4-ZWvE9bephyw_NSMNDW-cClUhUWjWhAOhoMtSFyVw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1KsyMVA9JLhE5UBuUp1ePF2xcEwGQZzc6Jb5giMEnzDpEknEhvkBskikkRD0fMaZugHM-YjF5Zol8U4TjZQtz3n4YsLPHWnOq9pmo6yxB-_Z5nJswMMOtn2JWPGk2YEb5GLmeGUwDg1lN=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0881",
   "raw_cells": {
     "col_0": {
-      "text": "398"
+      "text": "394"
     },
     "col_1": {
-      "text": "on air Jeans"
+      "text": "Blossom KnitSweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQ7A4thKD_LitR4Bwe-l4i5A9szZeEag43oMYe3_ZmDWzrSsu0vPiBM3aqbDMVp7x01qLBzU_WoCdGkGIq9MA3UglYcvTyNTc-4-ZWvE9bephyw_NSMNDW-cClUhUWjWhAOhoMtSFyVw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1KsyMVA9JLhE5UBuUp1ePF2xcEwGQZzc6Jb5giMEnzDpEknEhvkBskikkRD0fMaZugHM-YjF5Zol8U4TjZQtz3n4YsLPHWnOq9pmo6yxB-_Z5nJswMMOtn2JWPGk2YEb5GLmeGUwDg1lN=w143-h110"
     },
     "col_3": {
       "text": "firerep",
       "links": [
         {
           "label": "firerep",
-          "url": "https://oopbuy.com/product/1/996328897857?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/991452426400?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "38$"
+    },
+    "col_6": {
+      "text": "19$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "firerep/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotders.x.yupoo.com/albums/202429508?uid=1"
+          "label": "firerep",
+          "url": "https://hotders.x.yupoo.com/albums/202349970?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwhImffQJpqG3HFhiEAFJv332imVTCYgpAkyXkf8dA-xwxWTY9FDkZFtTXUUzcSh3GDdIohHVmzXOzFYMMMUW1tFEKfUSwHsJmAjtOnnxLUSS5pliYm7dzvPiWq1-xmXpww1_ICEyq4a3xl=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxaD1x1wBYsRv6a38GxfVoAl93ZBtVTLBHm0cKMsd45RJU6C_njHLW3ODKNQt2cqmBEUThIG3GCw19_A0A3H0VNDHxRm9fWE-Lj_EHPXIoKBRJlUuzYt2R40pMloDZN1miB3b0qFffgjHa3=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0881"
+  }
 }

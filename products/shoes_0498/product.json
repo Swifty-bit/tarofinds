@@ -1,47 +1,47 @@
 {
-  "name": "OnCloudswift 3 AD",
+  "name": "LoeweOn Running Cloudtilt",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Repsun",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F808318845734%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/808318845734?inviteCode=29TOTHGNH"
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/weidian/7284077836?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7284077836?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "22$",
-  "pics_text": "22$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwH__LNhLclCLIfnlRXXef57bF-lumWmSwFiDI-NJvJlaVPhmaik3CSysOe_MXdomxDI1t4TYVy--_H2YLoCJREOEWXPhBlrjKkIYm3KAC8YkTzTpl6Pt9yOwjGhUMupNhuz2qEi5XjptkA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzpwweBevajeQcOJ4RiRjWkarDvOfYLgyc0TnVSZp-FqUGl6ypIkPnuZ-aiC2kWliTJlCH-4kJ6gmol3pFwsNIAZqj1clFsV4HPzJ-JlCmsUX32KbFzYqPM3e9NZRPHIhMtnXn82TR0oiwR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0498",
   "raw_cells": {
     "col_0": {
-      "text": "585"
+      "text": "583"
     },
     "col_1": {
-      "text": "OnCloudswift 3 AD"
+      "text": "LoeweOn Running Cloudtilt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwH__LNhLclCLIfnlRXXef57bF-lumWmSwFiDI-NJvJlaVPhmaik3CSysOe_MXdomxDI1t4TYVy--_H2YLoCJREOEWXPhBlrjKkIYm3KAC8YkTzTpl6Pt9yOwjGhUMupNhuz2qEi5XjptkA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzpwweBevajeQcOJ4RiRjWkarDvOfYLgyc0TnVSZp-FqUGl6ypIkPnuZ-aiC2kWliTJlCH-4kJ6gmol3pFwsNIAZqj1clFsV4HPzJ-JlCmsUX32KbFzYqPM3e9NZRPHIhMtnXn82TR0oiwR=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Repsun",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/808318845734?inviteCode=29TOTHGNH"
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/weidian/7284077836?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "22$"
+    "col_5": {
+      "text": "30$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0498"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Detachable Hood Wool Cardigan",
+  "name": "Reppe Jacket",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564548065%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564548065?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7474648215?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7474648215?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "77$",
+  "best_price": "43$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/163327220?uid=1&isSubCate=false&referrercate=4544590"
+      "url": "https://repsking.x.yupoo.com/albums/161893635?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtHflfmy28Ikfqqje50VgGwN3Crm916St5Si5VFHWVDctvLBsT8_QWcN_OUDkAZeB-hS7htZXJHTl49a6BrIHMNOd1Yy13QFKQveNerBuZhx77Bq17ZFeJ0mXJcwS1eOvoP2xAdXRXulM3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySK8qlHeT2y9Yi0BeziNHG6Nu7U2_Y2hfggOlJCcbCPYCswv7VNgnCOg0k-bluYIUq9zZAJ2-EZBS6lAHrJjYYVWWQ4tOxEKvm0u0OV5Hv-WZgTspodD2WA2Czm1KFAazMk_LyvmyXHg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0798",
   "raw_cells": {
     "col_0": {
-      "text": "293"
+      "text": "289"
     },
     "col_1": {
-      "text": "Detachable Hood Wool Cardigan"
+      "text": "Reppe Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtHflfmy28Ikfqqje50VgGwN3Crm916St5Si5VFHWVDctvLBsT8_QWcN_OUDkAZeB-hS7htZXJHTl49a6BrIHMNOd1Yy13QFKQveNerBuZhx77Bq17ZFeJ0mXJcwS1eOvoP2xAdXRXulM3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySK8qlHeT2y9Yi0BeziNHG6Nu7U2_Y2hfggOlJCcbCPYCswv7VNgnCOg0k-bluYIUq9zZAJ2-EZBS6lAHrJjYYVWWQ4tOxEKvm0u0OV5Hv-WZgTspodD2WA2Czm1KFAazMk_LyvmyXHg=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7564548065?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7474648215?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "77$"
+      "text": "43$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/163327220?uid=1&isSubCate=false&referrercate=4544590"
+          "url": "https://repsking.x.yupoo.com/albums/161893635?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0798"
+  }
 }

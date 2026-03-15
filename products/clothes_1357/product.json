@@ -1,61 +1,61 @@
 {
-  "name": "Chrome Hearts Zipped Hoodie100 Styles",
+  "name": "Chrome HeartsMatty BoySex Records Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F854990248735%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/854990248735?inviteCode=29TOTHGNH"
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/7572067860?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7572067860?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "18$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2023223841025773569?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/212718667?uid=1&isSubCate=false&referrercate=4644883"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDnS8IYAVAgpj9CR4KojAkWfEbO6PFsWD0HN6nHN3WW50Po6couLSLCgvXFkT-kzb6-xMOG9r1-gB5OkvwxMPIUKPv6T87ldXZFeFQLXC7Lb7pwK83ObuIprwoBu-amSZSqRZqysaJai7F=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyComc5RC3zasASAD4495DiQdRFiqNzLJowaZTfhu4SR8tGCNeJQu1Ir5euInq8kfD90tfO_jZRFcbYYLZGmZS59vGCDuu8_S83_lCu3WWHtkYrNd0vCnR9C4P0IigmHpKj3ji0wR2GcEfR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1357",
   "raw_cells": {
     "col_0": {
-      "text": "956"
+      "text": "952"
     },
     "col_1": {
-      "text": "Chrome Hearts Zipped Hoodie100 Styles"
+      "text": "Chrome HeartsMatty BoySex Records Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDnS8IYAVAgpj9CR4KojAkWfEbO6PFsWD0HN6nHN3WW50Po6couLSLCgvXFkT-kzb6-xMOG9r1-gB5OkvwxMPIUKPv6T87ldXZFeFQLXC7Lb7pwK83ObuIprwoBu-amSZSqRZqysaJai7F=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyComc5RC3zasASAD4495DiQdRFiqNzLJowaZTfhu4SR8tGCNeJQu1Ir5euInq8kfD90tfO_jZRFcbYYLZGmZS59vGCDuu8_S83_lCu3WWHtkYrNd0vCnR9C4P0IigmHpKj3ji0wR2GcEfR=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "tophotfashion",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/854990248735?inviteCode=29TOTHGNH"
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/weidian/7572067860?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "18$"
+    "col_5": {
+      "text": "32$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2023223841025773569?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/212718667?uid=1&isSubCate=false&referrercate=4644883"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1357"
+  }
 }

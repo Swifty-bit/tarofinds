@@ -6,12 +6,12 @@
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327089607%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7327089607?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7327089607?inviteCode=29TOTHGNH"
     },
     {
       "label": "RFA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7347942592%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7347942592?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7347942592?inviteCode=29TOTHGNH"
     }
   ],
@@ -19,12 +19,12 @@
   "budget_batch_links": [
     {
       "label": "WTG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4438430445%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/4438430445?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/4438430445?inviteCode=29TOTHGNH"
     },
     {
       "label": "PT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7385722667%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7385722667?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7385722667?inviteCode=29TOTHGNH"
     }
   ],
@@ -33,7 +33,9 @@
   "pics_text": "17$ / 13$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axb2ObS3SzXSJNtp0X1ao1ebcou6SI1yoV3gRw8KNyeqGq7Ccf_VraQjYcSvQSmNOWin9f9xBE86PbMgy5DQmCTUk07GP7OG6nSQWrl8Wbc_rWdWLBwSgUgyzY5F3FJd8GXe4o5dBkxTnUP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyuD0JfSsUH7wKjx-wmknvCsLQFE8VGehsQTqAOII9Bx7raRAjxpnbsDcDAWleQkifVFQ6rkWVr7udKSzbqwNK63FLtg0YRHl2skPQh-16hos2TQ32PXcNZ3rTFa-7QeI_tU0VuAwjqu6iR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0001",
   "raw_cells": {
     "col_0": {
       "text": "8"
@@ -43,7 +45,7 @@
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axb2ObS3SzXSJNtp0X1ao1ebcou6SI1yoV3gRw8KNyeqGq7Ccf_VraQjYcSvQSmNOWin9f9xBE86PbMgy5DQmCTUk07GP7OG6nSQWrl8Wbc_rWdWLBwSgUgyzY5F3FJd8GXe4o5dBkxTnUP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyuD0JfSsUH7wKjx-wmknvCsLQFE8VGehsQTqAOII9Bx7raRAjxpnbsDcDAWleQkifVFQ6rkWVr7udKSzbqwNK63FLtg0YRHl2skPQh-16hos2TQ32PXcNZ3rTFa-7QeI_tU0VuAwjqu6iR=w143-h110"
     },
     "col_3": {
       "text": "GX/RFA",
@@ -77,7 +79,5 @@
     "col_6": {
       "text": "17$ / 13$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0001"
+  }
 }

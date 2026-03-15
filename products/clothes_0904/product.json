@@ -1,87 +1,61 @@
 {
-  "name": "Palm AngelsSprayed T-shirt",
+  "name": "VLONE Tee20 Colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "repsbrothers",
-  "best_batch_links": [
-    {
-      "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F963776817481%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/963776817481?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F667967725278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/667967725278?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/649141652801?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/649141652801?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "29$",
+  "best_price": "",
   "budget_price": "6$",
-  "pics_text": "best/budget",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://repsbro.x.yupoo.com/albums/205538924?uid=1&isSubCate=false&referrercate=4971731"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1920283786401071106?action=discord&cid=1840597081113280514"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/649141652801"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awzetuo61M60lsF436UiR3GIk1j1lPZR9zSh9rB0BvOWKrF6WxpLx_AqhCawGRqFtT29cWn1a_ToHHL0m0wjM695n1cWmjyZn439oLhs9Z1tyUZa6-KpuvZGapCEY6914knS25Q_3xctzmE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXsntlBsnoT8tstnA6otNGhLJUvrWjK2CTKcms-3KdT6INc23jsBNENP3s53FL5peTOZNk2n9R25k59Ujyo8duNfn46lzOmKCLjsQDUCfSAXmEdCOBGpa6MojMRUNObOkMIs3Pn6PD4IbV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0904",
   "raw_cells": {
     "col_0": {
-      "text": "429"
+      "text": "421"
     },
     "col_1": {
-      "text": "Palm AngelsSprayed T-shirt"
+      "text": "VLONE Tee20 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awzetuo61M60lsF436UiR3GIk1j1lPZR9zSh9rB0BvOWKrF6WxpLx_AqhCawGRqFtT29cWn1a_ToHHL0m0wjM695n1cWmjyZn439oLhs9Z1tyUZa6-KpuvZGapCEY6914knS25Q_3xctzmE=w143-h110"
-    },
-    "col_3": {
-      "text": "repsbrothers",
-      "links": [
-        {
-          "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/963776817481?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXsntlBsnoT8tstnA6otNGhLJUvrWjK2CTKcms-3KdT6INc23jsBNENP3s53FL5peTOZNk2n9R25k59Ujyo8duNfn46lzOmKCLjsQDUCfSAXmEdCOBGpa6MojMRUNObOkMIs3Pn6PD4IbV=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "FFCP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/667967725278?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/649141652801?inviteCode=29TOTHGNH"
         }
       ]
-    },
-    "col_5": {
-      "text": "29$"
     },
     "col_6": {
       "text": "6$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://repsbro.x.yupoo.com/albums/205538924?uid=1&isSubCate=false&referrercate=4971731"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1920283786401071106?action=discord&cid=1840597081113280514"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/649141652801"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0904"
+  }
 }

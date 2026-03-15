@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga 25SS Corner Missing Campaign Baseball Cap",
+  "name": "Balenciaga Denim Bomber",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "JennyTurtle",
+  "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
-      "label": "JennyTurtle",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7403374439%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7403374439?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/860308248005?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/860308248005?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "17$",
+  "best_price": "106$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1969367691394347010?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/173402855?uid=1&isSubCate=false&referrercate=4670550"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awft5n2hN8iOlUcEIauAG_G0Rf9gWxd727FvvRSBad10P7QI7hj2ZdOXpwxWts9aTMG23EhL1pR7-PgdHxf5NvVns8o7WCaX96hli5-RLq1Ot0iMJOafI52kkQfqE7v3qf6bqoyWwdy7w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3b3UBQtfEPysZlxxStro0gc1jUQ2UW2CEeNq8Ee38C2wicPqoeTdEjfTRZb3y1_VJ35RYDD09lPkWAhiQOqQ6ZfgSiYaZME14Ph75ff1zwTjD-milFV-Ghu_kHaiYcGxq-vnYo1UZbmpV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1285",
   "raw_cells": {
     "col_0": {
-      "text": "874"
+      "text": "870"
     },
     "col_1": {
-      "text": "Balenciaga 25SS Corner Missing Campaign Baseball Cap"
+      "text": "Balenciaga Denim Bomber"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awft5n2hN8iOlUcEIauAG_G0Rf9gWxd727FvvRSBad10P7QI7hj2ZdOXpwxWts9aTMG23EhL1pR7-PgdHxf5NvVns8o7WCaX96hli5-RLq1Ot0iMJOafI52kkQfqE7v3qf6bqoyWwdy7w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3b3UBQtfEPysZlxxStro0gc1jUQ2UW2CEeNq8Ee38C2wicPqoeTdEjfTRZb3y1_VJ35RYDD09lPkWAhiQOqQ6ZfgSiYaZME14Ph75ff1zwTjD-milFV-Ghu_kHaiYcGxq-vnYo1UZbmpV=w143-h110"
     },
     "col_3": {
-      "text": "JennyTurtle",
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "JennyTurtle",
-          "url": "https://oopbuy.com/product/weidian/7403374439?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/860308248005?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "17$"
+      "text": "106$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1969367691394347010?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/173402855?uid=1&isSubCate=false&referrercate=4670550"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1285"
+  }
 }

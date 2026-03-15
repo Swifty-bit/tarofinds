@@ -1,12 +1,12 @@
 {
-  "name": "Alternate Grape",
+  "name": "Georgetown",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "Version1",
   "best_batch_links": [
     {
       "label": "Version1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F4480462048%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/4480462048?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/weidian/4480462048?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcbOlDtLBxgg6EZDQmxo8j5vqvHiorKjFrAY5ci84glT3E6PbM9LZKrBiseVLm7CtWVDfu_dUsZBzKQ7xln_ZuLlYX-dTz9UXg6LXlheVOJztadtZra9WUfsCkfNHL6-LCa6TNtAQ8Nxhh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-ja1Wh_qkrdgfFVNq2jnyfHoZAzF2uINc44fZ6CVzbNWDSj3H36rS8v95MJeTD1mejEQNf_1w-cy3zeyyzm3vncLrWpLsgdGt47rohkCWZOE4zjMG4ZwrmP7d9IRbq4RO_Ysz5WbWLw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0293",
   "raw_cells": {
     "col_0": {
       "text": "310"
     },
     "col_1": {
-      "text": "Alternate Grape"
+      "text": "Georgetown"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcbOlDtLBxgg6EZDQmxo8j5vqvHiorKjFrAY5ci84glT3E6PbM9LZKrBiseVLm7CtWVDfu_dUsZBzKQ7xln_ZuLlYX-dTz9UXg6LXlheVOJztadtZra9WUfsCkfNHL6-LCa6TNtAQ8Nxhh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-ja1Wh_qkrdgfFVNq2jnyfHoZAzF2uINc44fZ6CVzbNWDSj3H36rS8v95MJeTD1mejEQNf_1w-cy3zeyyzm3vncLrWpLsgdGt47rohkCWZOE4zjMG4ZwrmP7d9IRbq4RO_Ysz5WbWLw=w143-h110"
     },
     "col_3": {
       "text": "Version1",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0293"
+  }
 }

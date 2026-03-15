@@ -1,47 +1,74 @@
 {
-  "name": "Skeleton High",
+  "name": "MA-1",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZZZTOPXX",
+  "best_batch": "Alison/ZZZTOPXX",
   "best_batch_links": [
     {
+      "label": "Alison",
+      "url": "https://litbuy.com/product/weidian/738818524838?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/738818524838?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6686392320%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6686392320?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/6274457628?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6274457628?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "92$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/808191692139?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/808191692139?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "87$",
+  "budget_price": "53$",
+  "pics_text": "53$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax_leSvQSgOZII8nDwQqUTpztZZtjMzO37HZjw0J2k7o2hwOCwBYGbeQDeSXy9LhHGIV5vFUB0dznSetexQ9AKLWMp1nPvfvmRNEQSkrC9lGzwtqNPq4Uo3YKt7lNaoVfnE2AKw6izVF9fn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayeyb3zMRbeNxGo7wGO08jq0XNeUuh7vhABOb5roUvzOXbLdYR5zvCVQ569HsnSJGjInG3TYp6FzZKOk9srzH7pJZ2B-l1y3dCSqEHauryy5tC_qNOiTYW59PNuvfHPBK5LoAb_vt1PRYqj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0461",
   "raw_cells": {
     "col_0": {
       "text": "524"
     },
     "col_1": {
-      "text": "Skeleton High"
+      "text": "MA-1"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax_leSvQSgOZII8nDwQqUTpztZZtjMzO37HZjw0J2k7o2hwOCwBYGbeQDeSXy9LhHGIV5vFUB0dznSetexQ9AKLWMp1nPvfvmRNEQSkrC9lGzwtqNPq4Uo3YKt7lNaoVfnE2AKw6izVF9fn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayeyb3zMRbeNxGo7wGO08jq0XNeUuh7vhABOb5roUvzOXbLdYR5zvCVQ569HsnSJGjInG3TYp6FzZKOk9srzH7pJZ2B-l1y3dCSqEHauryy5tC_qNOiTYW59PNuvfHPBK5LoAb_vt1PRYqj=w143-h110"
     },
     "col_3": {
-      "text": "ZZZTOPXX",
+      "text": "Alison/ZZZTOPXX",
       "links": [
         {
+          "label": "Alison",
+          "url": "https://oopbuy.com/product/1/738818524838?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/2/6686392320?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/6274457628?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/808191692139?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "92$"
+      "text": "87$"
+    },
+    "col_6": {
+      "text": "53$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0461"
+  }
 }

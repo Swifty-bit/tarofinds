@@ -1,87 +1,64 @@
 {
-  "name": "Burberry Check Shorts",
+  "name": "BurberryZipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Thunder",
   "best_batch_links": [
     {
       "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7469225308%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7469225308?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7473795376?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7473795376?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7243271599%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7243271599?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "36$",
-  "budget_price": "15$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "50$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://thethunder.x.yupoo.com/albums/137893051?uid=1&isSubCate=false&referrercate=3972377"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631228877684738?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://thethunder.x.yupoo.com/albums/120633052?uid=1&isSubCate=false&referrercate=3972377"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4n1svLQnQMB9F08DKH8xklfw1b7Czbxwi0uxcJTK1pt8a6PJQyTkKaByRmD5oPI7ER6M22dcMtyDFrhrNg09RNOvvNqt8QmBk6Lf45SoTwEW4-cEHmAl1ylPYBybBY7PJ_f6pEGSQLxqm=w143-h110",
+  "notes": "Full inside pattern",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxYX9uz6pFgJ2CPABo7f31n1RhctZTBZRVqgSyVSUIre8iIeOJ5CdW2pPO0KdVQNICwXqxB8vM-FsEPVlO3VZgZhOmu8x3am1DzSC9OA2W0fKL79FKq6CgiFm7PZOB5hnfFC66Q8SKqEA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1399",
   "raw_cells": {
     "col_0": {
-      "text": "1006"
+      "text": "1002"
     },
     "col_1": {
-      "text": "Burberry Check Shorts"
+      "text": "BurberryZipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4n1svLQnQMB9F08DKH8xklfw1b7Czbxwi0uxcJTK1pt8a6PJQyTkKaByRmD5oPI7ER6M22dcMtyDFrhrNg09RNOvvNqt8QmBk6Lf45SoTwEW4-cEHmAl1ylPYBybBY7PJ_f6pEGSQLxqm=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxYX9uz6pFgJ2CPABo7f31n1RhctZTBZRVqgSyVSUIre8iIeOJ5CdW2pPO0KdVQNICwXqxB8vM-FsEPVlO3VZgZhOmu8x3am1DzSC9OA2W0fKL79FKq6CgiFm7PZOB5hnfFC66Q8SKqEA=w143-h110"
     },
     "col_3": {
       "text": "Thunder",
       "links": [
         {
           "label": "Thunder",
-          "url": "https://oopbuy.com/product/2/7469225308?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/weidian/7243271599?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7473795376?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "36$"
-    },
-    "col_6": {
-      "text": "15$"
+      "text": "50$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://thethunder.x.yupoo.com/albums/137893051?uid=1&isSubCate=false&referrercate=3972377"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631228877684738?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://thethunder.x.yupoo.com/albums/120633052?uid=1&isSubCate=false&referrercate=3972377"
         }
       ]
+    },
+    "col_8": {
+      "text": "Full inside pattern"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1399"
+  }
 }

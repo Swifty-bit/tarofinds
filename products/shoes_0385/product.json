@@ -1,47 +1,47 @@
 {
-  "name": "Tread Slick Lace Up Boot",
+  "name": "BAPE SK8 Sta",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GZ",
+  "best_batch": "Version1",
   "best_batch_links": [
     {
-      "label": "GZ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7234428969%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7234428969?inviteCode=29TOTHGNH"
+      "label": "Version1",
+      "url": "https://litbuy.com/product/weidian/7563983179?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563983179?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "62$",
+  "best_price": "53$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxVXpdSBEIZMKDNM9I3Lh08gYXoOZsN7Ucdn0sIwKMkwyfhUKD89N-hcwcwoFmtPzGH13OKD0_K7hS3Xow4Qhj8UxTS-BwJ4q_dbkkIl2gLk7P5swVTT85bK_JhLzBrTJyegRDK_MypM5M-=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aze-jzMSkxfZYH5HGPKOcsGLgWGhFmIxd3mTYlfazqXwwCPxZkSszb0gsxYjvNNVi1-ET9NpczwmJrLfGyy8ZxvQ4ejorklOzaTBa4UWNALtkRFdtNEmgU5I0C2LaCfksXiLNfnfzbywf7J=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0385",
   "raw_cells": {
     "col_0": {
-      "text": "428"
+      "text": "426"
     },
     "col_1": {
-      "text": "Tread Slick Lace Up Boot"
+      "text": "BAPE SK8 Sta"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVXpdSBEIZMKDNM9I3Lh08gYXoOZsN7Ucdn0sIwKMkwyfhUKD89N-hcwcwoFmtPzGH13OKD0_K7hS3Xow4Qhj8UxTS-BwJ4q_dbkkIl2gLk7P5swVTT85bK_JhLzBrTJyegRDK_MypM5M-=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aze-jzMSkxfZYH5HGPKOcsGLgWGhFmIxd3mTYlfazqXwwCPxZkSszb0gsxYjvNNVi1-ET9NpczwmJrLfGyy8ZxvQ4ejorklOzaTBa4UWNALtkRFdtNEmgU5I0C2LaCfksXiLNfnfzbywf7J=w143-h110"
     },
     "col_3": {
-      "text": "GZ",
+      "text": "Version1",
       "links": [
         {
-          "label": "GZ",
-          "url": "https://oopbuy.com/product/2/7234428969?inviteCode=29TOTHGNH"
+          "label": "Version1",
+          "url": "https://oopbuy.com/product/weidian/7563983179?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "62$"
+      "text": "53$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0385"
+  }
 }

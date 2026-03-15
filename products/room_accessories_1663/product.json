@@ -1,49 +1,61 @@
 {
-  "name": "The Simpsons House",
+  "name": "Ferrari 488 GTENo Lights / Lights",
   "category": "Room Accessories",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
+  "best_batch": "Qingwen",
+  "best_batch_links": [
+    {
+      "label": "Qingwen",
+      "url": "https://litbuy.com/product/weidian/637950499456?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/637950499456?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "55$",
+  "best_price": "16$ / 30$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1956159893219135490?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1958333354161561602?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AycxGaSTFmyjm_w5kLuLi225Aa3OkOtd4I3dmXBMldJPkH9VDOlP_rWP4A76jRgDCW4LTNtfdOFvFgLfSMTKhNnJq_wUe02cNudOZNZB7h92Wj79w31YsnE3zfR-GZfDPDIsZYyNXCnGqat=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzI5AUtxZ9RL4tJKljiZyPkhBOUPtvLgISjF2eQAn6QlF0dJ9HppgpimKhGbNZ4E3Hj4UK-biesOuiGoeYDsIfQ-7GoayPDX4AXb47EeX0BgWtIpMpc23fc0GZhSUw4JhGQFNPu0ZVZhkTg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1663",
   "raw_cells": {
     "col_0": {
-      "text": "27"
+      "text": "19"
     },
     "col_1": {
-      "text": "The Simpsons House"
+      "text": "Ferrari 488 GTENo Lights / Lights"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AycxGaSTFmyjm_w5kLuLi225Aa3OkOtd4I3dmXBMldJPkH9VDOlP_rWP4A76jRgDCW4LTNtfdOFvFgLfSMTKhNnJq_wUe02cNudOZNZB7h92Wj79w31YsnE3zfR-GZfDPDIsZYyNXCnGqat=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzI5AUtxZ9RL4tJKljiZyPkhBOUPtvLgISjF2eQAn6QlF0dJ9HppgpimKhGbNZ4E3Hj4UK-biesOuiGoeYDsIfQ-7GoayPDX4AXb47EeX0BgWtIpMpc23fc0GZhSUw4JhGQFNPu0ZVZhkTg=w143-h110"
     },
     "col_3": {
-      "text": "/"
+      "text": "Qingwen",
+      "links": [
+        {
+          "label": "Qingwen",
+          "url": "https://www.oopbuy.com/product/1/637950499456?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "55$"
+      "text": "16$ / 30$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1956159893219135490?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1958333354161561602?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1663"
+  }
 }

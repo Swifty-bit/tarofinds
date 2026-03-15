@@ -1,56 +1,35 @@
 {
-  "name": "Air Jordan 1 Low",
+  "name": "Genesis LowRTFKTMany Styles",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "DT/DT",
-  "best_batch_links": [
-    {
-      "label": "DT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563997069%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7563997069?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "DT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327983224%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7327983224?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "/",
+  "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "60$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbZLFm6ipIkBH6NUPgpUBA7dLpdDAB_I5B8LpqRnRog6_QYP3U_4nZ-DYd2q5_5ovctkp-YIdiqLTrR0M5Eoz5oTWytrzoM1tdKGaOLfpYTkp5CCPKCjkGcKClc27Z7sodFNxBDojd_Fnd=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwokRrdcIxo4nQ6lT7b-G7zG56yrtUx3-QN91nwswYmAeI3UZD7aDO47pEV7qv4fQbHHMmP2NQOcn7opHh0gwcrkqfTiQMSJQUlxXE5HNSAn_1m86uOLFNBM1RFcwzK3fC7FRD9g3Kw3hdI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0136",
   "raw_cells": {
     "col_0": {
-      "text": "147"
+      "text": "145"
     },
     "col_1": {
-      "text": "Air Jordan 1 Low"
+      "text": "Genesis LowRTFKTMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbZLFm6ipIkBH6NUPgpUBA7dLpdDAB_I5B8LpqRnRog6_QYP3U_4nZ-DYd2q5_5ovctkp-YIdiqLTrR0M5Eoz5oTWytrzoM1tdKGaOLfpYTkp5CCPKCjkGcKClc27Z7sodFNxBDojd_Fnd=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwokRrdcIxo4nQ6lT7b-G7zG56yrtUx3-QN91nwswYmAeI3UZD7aDO47pEV7qv4fQbHHMmP2NQOcn7opHh0gwcrkqfTiQMSJQUlxXE5HNSAn_1m86uOLFNBM1RFcwzK3fC7FRD9g3Kw3hdI=w143-h110"
     },
     "col_3": {
-      "text": "DT/DT",
-      "links": [
-        {
-          "label": "DT",
-          "url": "https://oopbuy.com/product/weidian/7563997069?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "DT",
-          "url": "https://oopbuy.com/product/2/7327983224?inviteCode=29TOTHGNH"
-        }
-      ]
+      "text": "/"
     },
     "col_5": {
-      "text": "32$"
+      "text": "60$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0136"
+  }
 }

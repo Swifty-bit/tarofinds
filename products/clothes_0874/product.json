@@ -1,5 +1,5 @@
 {
-  "name": "New EraBeanie9 Styles",
+  "name": "Prada Windbreaker",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F754051118067%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/754051118067?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/766497868444?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/766497868444?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "2$",
+  "budget_price": "20$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1965498710698815489?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973575972667613185?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwI2tXdU-CHjrISml0URbZyQo8vT5gBrPnUOPjsYUU-m-BlSIlAUIed2NgY3GRnswsPF1PJ39Qfxswqg28zWvYRJ2qWh2biXd_uGgg-gAnsBqvpxDD3f_9IATe0Kn3__dRP0wnfCBkfNACc=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw3ox1kcjrC9rwxqqCffsp7EuMt8Qe952i9CdEep8pqTuk9nqxdUs6BuUPPCFaCmTfE2nkSxxtIH6Ylk41HFivlnbLBPAcYfO8W3JbTlsk6nXzXSAvgIqb4biTN9pqGtZXCq-k8TF3dxAp1=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0874",
   "raw_cells": {
     "col_0": {
-      "text": "389"
+      "text": "383"
     },
     "col_1": {
-      "text": "New EraBeanie9 Styles"
+      "text": "Prada Windbreaker"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwI2tXdU-CHjrISml0URbZyQo8vT5gBrPnUOPjsYUU-m-BlSIlAUIed2NgY3GRnswsPF1PJ39Qfxswqg28zWvYRJ2qWh2biXd_uGgg-gAnsBqvpxDD3f_9IATe0Kn3__dRP0wnfCBkfNACc=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw3ox1kcjrC9rwxqqCffsp7EuMt8Qe952i9CdEep8pqTuk9nqxdUs6BuUPPCFaCmTfE2nkSxxtIH6Ylk41HFivlnbLBPAcYfO8W3JbTlsk6nXzXSAvgIqb4biTN9pqGtZXCq-k8TF3dxAp1=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/754051118067?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/766497868444?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "2$"
+      "text": "20$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1965498710698815489?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973575972667613185?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0874"
+  }
 }

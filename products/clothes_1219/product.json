@@ -1,61 +1,61 @@
 {
-  "name": "DSQ2 Jeans",
+  "name": "Amiri Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "Pingu7",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F719846929622%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/719846929622?inviteCode=29TOTHGNH"
+      "label": "Pingu7",
+      "url": "https://litbuy.com/product/weidian/6540586424?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6540586424?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "40$",
+  "best_price": "44$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/719846929622"
+      "label": "pics",
+      "url": "https://pingu7.x.yupoo.com/albums/141735459?uid=1&isSubCate=false&referrercate=4083969"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEOVhpfeUo-aG_awAX4LoslLLZ_WtgfL6O7Wkml_W042xqxu8EMIjSx0-5I4ogEpZUguAYzYZexCowuLQwzoJ6YfWdjwRG-reeaqvHWYZbULjl0JcGfXo6-ZpFdEizUAT5BhOIweoCDQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxC6_Ve9Mus0MoBrWChUUaQeQocsaSOhdv_aKfXl1hcRJfPq8q_FUZw1od4XWvdKfRjSAixPmPoaeHm8Iv2mwMDF-9kBWS-aKqG3yG5vs5J7tVNNqcVApy0Wb_Gk4JS4cGzjHh9zOd6OGzQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1219",
   "raw_cells": {
     "col_0": {
-      "text": "794"
+      "text": "788"
     },
     "col_1": {
-      "text": "DSQ2 Jeans"
+      "text": "Amiri Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEOVhpfeUo-aG_awAX4LoslLLZ_WtgfL6O7Wkml_W042xqxu8EMIjSx0-5I4ogEpZUguAYzYZexCowuLQwzoJ6YfWdjwRG-reeaqvHWYZbULjl0JcGfXo6-ZpFdEizUAT5BhOIweoCDQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxC6_Ve9Mus0MoBrWChUUaQeQocsaSOhdv_aKfXl1hcRJfPq8q_FUZw1od4XWvdKfRjSAixPmPoaeHm8Iv2mwMDF-9kBWS-aKqG3yG5vs5J7tVNNqcVApy0Wb_Gk4JS4cGzjHh9zOd6OGzQ=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "Pingu7",
       "links": [
         {
-          "label": "here",
-          "url": "https://www.oopbuy.com/product/1/719846929622?inviteCode=29TOTHGNH"
+          "label": "Pingu7",
+          "url": "https://oopbuy.com/product/weidian/6540586424?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "40$"
+      "text": "44$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/719846929622"
+          "label": "pics",
+          "url": "https://pingu7.x.yupoo.com/albums/141735459?uid=1&isSubCate=false&referrercate=4083969"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1219"
+  }
 }

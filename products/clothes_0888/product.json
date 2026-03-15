@@ -1,91 +1,65 @@
 {
-  "name": "Ders-\"on air\" Jorts",
+  "name": "\"awakening v2\" denim black",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "elephant",
   "best_batch_links": [
     {
       "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7601610592%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7601610592?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7558199344?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7558199344?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F991639641336%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "38$",
-  "budget_price": "18$",
-  "pics_text": "pics/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/211117725?uid=1&isSubCate=false&referrercate=5006226"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://elephant-factory.x.yupoo.com/albums/211116784?uid=1&isSubCate=false&referrercate=5006226"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aya4VPj4uZjUE3PykrIIzbuOhwACfLNVp7Lr5q1F7UINWm8Xbu_1qmRCBPBaM85_JQsfBFsey7O03LMuhfGwKxwvAQ8Pu-2spiYPW6auHO7IMC2ENjLJFtEC7o1jh5ZNQ4hsG2c8mtZipY3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_Uy4t09U7c84HhB-zhuXuzEYC1bY9AdlodsGHt41lHdowf_KZFK8kbYmYKo5CEMoKXHM4wtf_DX6oelPWIEuAMgP8zO-KR60RnFqZnvDKlshYggwGV6VxW4Z10L8KfMRH-620Exyxcg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0888",
   "raw_cells": {
     "col_0": {
-      "text": "405"
+      "text": "401"
     },
     "col_1": {
-      "text": "Ders-\"on air\" Jorts"
+      "text": "\"awakening v2\" denim black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aya4VPj4uZjUE3PykrIIzbuOhwACfLNVp7Lr5q1F7UINWm8Xbu_1qmRCBPBaM85_JQsfBFsey7O03LMuhfGwKxwvAQ8Pu-2spiYPW6auHO7IMC2ENjLJFtEC7o1jh5ZNQ4hsG2c8mtZipY3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_Uy4t09U7c84HhB-zhuXuzEYC1bY9AdlodsGHt41lHdowf_KZFK8kbYmYKo5CEMoKXHM4wtf_DX6oelPWIEuAMgP8zO-KR60RnFqZnvDKlshYggwGV6VxW4Z10L8KfMRH-620Exyxcg=w143-h110"
     },
     "col_3": {
       "text": "elephant",
       "links": [
         {
           "label": "elephant",
-          "url": "https://oopbuy.com/product/2/7601610592?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7558199344?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
-    },
-    "col_6": {
-      "text": "18$"
+      "text": "30$"
     },
     "col_7": {
-      "text": "pics/budget",
+      "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/211117725?uid=1&isSubCate=false&referrercate=5006226"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://elephant-factory.x.yupoo.com/albums/211116784?uid=1&isSubCate=false&referrercate=5006226"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzL6ToBWQek0l1adtUNdyChYEqepjFZM5w_Ys8A7DI2t1OU6TZPolh_eTYr4xcl-S0ab0KTQ-wVvxaE8LetYAomZPtF2bYaawDczneUE_T1CBzI9n7Id9MpBMNob2FSfKoc3jV6pQeq1Qd6=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw_tKtQSORp9YXArCRQNiD43Yz0UhBh5OooNyAFgH_g6vqSjvO3WDs7MjAMQGONMce9xANm4lkfxAEwwKYmagvWciLUCi6OGwwJgLXdWEU0ctWySEGUFR9pKbEmS_9YTFp-CGwvR66tHCF8=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0888"
+  }
 }

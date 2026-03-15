@@ -1,61 +1,61 @@
 {
-  "name": "Travis ScottT-Shirt110 Colors",
+  "name": "Yeezy GapRound Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "FFCP",
-  "budget_batch_links": [
+  "best_batch": "Bound2",
+  "best_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F650330707151%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/650330707151?inviteCode=29TOTHGNH"
+      "label": "Bound2",
+      "url": "https://litbuy.com/product/weidian/666685287497?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/666685287497?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "7$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "67$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1942750611058585601?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1933510698871631874?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwNbf_0f_d-9P-HB_5vAkfZQrLTbrKrVg2kQ7zkiSPq4Ji7XUl7yQsKqRCCkrluXYWl7KieyBYYYRSVE-jCZT4-zUCJvK1MR0WMbyrdpKFkw9E1zmAYfwOxxPNsEfVQA1PpuehcnTU=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwaFNkrdDX99mLSzEVCjFmjG2n0-eN2vNd64KvkExypV6lUUlZAWv65HBel2EEB0mxUgmASJfRAjo6lJAhCfcqerlIpqDzfIfsvZ_Fz_p2D371-2FddYPcDwSXtCBb80iIn_nAvXY_ZwGg-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0650",
   "raw_cells": {
     "col_0": {
-      "text": "125"
+      "text": "119"
     },
     "col_1": {
-      "text": "Travis ScottT-Shirt110 Colors"
+      "text": "Yeezy GapRound Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwNbf_0f_d-9P-HB_5vAkfZQrLTbrKrVg2kQ7zkiSPq4Ji7XUl7yQsKqRCCkrluXYWl7KieyBYYYRSVE-jCZT4-zUCJvK1MR0WMbyrdpKFkw9E1zmAYfwOxxPNsEfVQA1PpuehcnTU=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwaFNkrdDX99mLSzEVCjFmjG2n0-eN2vNd64KvkExypV6lUUlZAWv65HBel2EEB0mxUgmASJfRAjo6lJAhCfcqerlIpqDzfIfsvZ_Fz_p2D371-2FddYPcDwSXtCBb80iIn_nAvXY_ZwGg-=w143-h110"
     },
-    "col_4": {
-      "text": "FFCP",
+    "col_3": {
+      "text": "Bound2",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/650330707151?inviteCode=29TOTHGNH"
+          "label": "Bound2",
+          "url": "https://oopbuy.com/product/1/666685287497?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "7$"
+    "col_5": {
+      "text": "67$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1942750611058585601?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1933510698871631874?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0650"
+  }
 }

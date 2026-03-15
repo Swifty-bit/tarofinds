@@ -1,47 +1,47 @@
 {
-  "name": "Aqua (2025)",
+  "name": "Travis Scott Olive",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "DG",
+  "best_batch": "PK",
   "best_batch_links": [
     {
-      "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7517028132%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7517028132?inviteCode=29TOTHGNH"
+      "label": "PK",
+      "url": "https://litbuy.com/product/taobao/7326229335?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7326229335?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "67$",
+  "best_price": "40$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygIEf4_Rdx2gx2_JIvzYvlsAtRSYk2zf1yQopG1SmRgiTC0epGctsuqyFkl9GQjOpnHpvv5ddjZaB7SbOdq1UC7b3m2vBYgGNTmrUCrBoRMTjace-695URW9BzoOtZGQ_Mp-qt1LQ7Hw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzrYbPavzg1XW23qtK4D3sZ7Z69E_RdEerDXpSP5u1ZCxN6-ITOAJFvgo_svW9r6-MaoT4tkhsQAhC037mIVWz5z_actRe2b6ChoTpbZmtuxsv2-TkiK_zuaZIh7Xl60F1eG6P-hgccj-En=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0310",
   "raw_cells": {
     "col_0": {
-      "text": "331"
+      "text": "329"
     },
     "col_1": {
-      "text": "Aqua (2025)"
+      "text": "Travis Scott Olive"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygIEf4_Rdx2gx2_JIvzYvlsAtRSYk2zf1yQopG1SmRgiTC0epGctsuqyFkl9GQjOpnHpvv5ddjZaB7SbOdq1UC7b3m2vBYgGNTmrUCrBoRMTjace-695URW9BzoOtZGQ_Mp-qt1LQ7Hw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzrYbPavzg1XW23qtK4D3sZ7Z69E_RdEerDXpSP5u1ZCxN6-ITOAJFvgo_svW9r6-MaoT4tkhsQAhC037mIVWz5z_actRe2b6ChoTpbZmtuxsv2-TkiK_zuaZIh7Xl60F1eG6P-hgccj-En=w143-h110"
     },
     "col_3": {
-      "text": "DG",
+      "text": "PK",
       "links": [
         {
-          "label": "DG",
-          "url": "https://oopbuy.com/product/weidian/7517028132?inviteCode=29TOTHGNH"
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/7326229335?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "67$"
+      "text": "40$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0310"
+  }
 }

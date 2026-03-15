@@ -1,53 +1,91 @@
 {
-  "name": "\"blossom v2\" Denim blackJeans",
+  "name": "\"blossom\" waffle Longsleeve white",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "-",
-  "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "50$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_batch": "elephant",
+  "best_batch_links": [
+    {
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7545127314?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7545127314?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/991639641336?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "16$",
+  "budget_price": "12$",
+  "pics_text": "firerep/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotders.x.yupoo.com/albums/203164134?uid=1"
+      "label": "firerep",
+      "url": "https://elephant-factory.x.yupoo.com/albums/209302516?uid=1&isSubCate=false&referrercate=5006226"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyMMuM7Z-KOYljmJyCJOo1lauZLYAQolha5nJ3OL_TpWnJk_mqN52zaqjgfBkJ5MY1KOdVZsGKtGnNa-lwqfKA6wxIJOTWlyioBVQSjgmKdd2wD3uHrSq7WNWqvJt6HQQWFuWyC44abiA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyqFm5mQV7mxqnQr9NlHyVIGrw06gDX5zeH1L17csmeLDE3iyOqL1JXnPfKVsRwNmr-qS1j8Lc2x28irIXzwJl1-C_6swlOh6x12p5szMb1EZmQ1fqwQ5txILauUc0uVW_CIQVYj43SSg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0879",
   "raw_cells": {
     "col_0": {
-      "text": "396"
+      "text": "392"
     },
     "col_1": {
-      "text": "\"blossom v2\" Denim blackJeans"
+      "text": "\"blossom\" waffle Longsleeve white"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyMMuM7Z-KOYljmJyCJOo1lauZLYAQolha5nJ3OL_TpWnJk_mqN52zaqjgfBkJ5MY1KOdVZsGKtGnNa-lwqfKA6wxIJOTWlyioBVQSjgmKdd2wD3uHrSq7WNWqvJt6HQQWFuWyC44abiA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyqFm5mQV7mxqnQr9NlHyVIGrw06gDX5zeH1L17csmeLDE3iyOqL1JXnPfKVsRwNmr-qS1j8Lc2x28irIXzwJl1-C_6swlOh6x12p5szMb1EZmQ1fqwQ5txILauUc0uVW_CIQVYj43SSg=w143-h110"
     },
     "col_3": {
-      "text": "-"
-    },
-    "col_5": {
-      "text": "50$"
-    },
-    "col_7": {
-      "text": "pics",
+      "text": "elephant",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotders.x.yupoo.com/albums/203164134?uid=1"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7545127314?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "16$"
+    },
+    "col_6": {
+      "text": "12$"
+    },
+    "col_7": {
+      "text": "firerep/budget",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://elephant-factory.x.yupoo.com/albums/209302516?uid=1&isSubCate=false&referrercate=5006226"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8RmyetMy7mxpoD0w75i8uuAmztrwMLJp7KcxVS8e0IV4_0ba2uzC04Cw3b2i5xDtM7Nh51H8UlO018cTolVWAsVTXe3dmCLTI_hmIddvnZng89hafsJpXayaIYw_uGjPvMJBH5uW2R09p=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azsu7rm5AoIRqC-d6PAcSW8GAUHYl-3COYAB1qBl24Emqh2rFQyRTT9lmrEIZK2b3ppRzzhEb_k4gHQMElzQjPWml1pgnA-o2fEw0eRbVN2NgqbYDV-qSoRlDa6jx0_F3NLHpHJx-Xryql1=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0879"
+  }
 }

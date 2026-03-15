@@ -1,55 +1,57 @@
 {
-  "name": "Nike x DRAKE Nocta Down Jacket",
+  "name": "Nocta TechTF2023 Baby Blue",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F837026568179%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/837026568179?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7531193005?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F821490512982%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/821490512982?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/772266800659?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/772266800659?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "53$",
-  "budget_price": "16$",
-  "pics_text": "best/budget",
+  "best_price": "67$(SET)",
+  "budget_price": "29$(SET)",
+  "pics_text": "DRAGON/budget",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2000391065348165634?action=discord&type=1&cid=1942512167859859457"
+      "label": "DRAGON",
+      "url": "https://noghost.x.yupoo.com/albums/150325025?uid=1&isSubCate=false&referrercate=4733109"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2000029666902102018?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631475137855489?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az9rnbIEsUiL3jSXzhvXcUdGe0leFaiPEbHA2hMU5tZB7zaIQW7tXS2s_G2d0aYZ050c7vhMP_ebon_v8u8Ea-RB9IG4TEAo610HV8BDLSOXAg_iXKn1gE84gHJft97P1P0tiWt8OMSC2GX=w143-h110",
+  "notes": "set 67$ - hoodie 35$ - pants 32$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnEDZ-mShMj1ZKN6m9kWVKUEqsGmUZqTktOw0dikBGsmCNdJ7WJs34Og6SAzqFJjdswuNIKEpql45J4oOCMh-ZTd97GV6TfS3i40pJ0UAi6hdXVSsHhs5DcdaWU7Em2yjwHy6b7IZBhFBU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0568",
   "raw_cells": {
     "col_0": {
-      "text": "33"
+      "text": "29"
     },
     "col_1": {
-      "text": "Nike x DRAKE Nocta Down Jacket"
+      "text": "Nocta TechTF2023 Baby Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az9rnbIEsUiL3jSXzhvXcUdGe0leFaiPEbHA2hMU5tZB7zaIQW7tXS2s_G2d0aYZ050c7vhMP_ebon_v8u8Ea-RB9IG4TEAo610HV8BDLSOXAg_iXKn1gE84gHJft97P1P0tiWt8OMSC2GX=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnEDZ-mShMj1ZKN6m9kWVKUEqsGmUZqTktOw0dikBGsmCNdJ7WJs34Og6SAzqFJjdswuNIKEpql45J4oOCMh-ZTd97GV6TfS3i40pJ0UAi6hdXVSsHhs5DcdaWU7Em2yjwHy6b7IZBhFBU=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/837026568179?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -58,30 +60,31 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/821490512982?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/772266800659?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "53$"
+      "text": "67$(SET)"
     },
     "col_6": {
-      "text": "16$"
+      "text": "29$(SET)"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "DRAGON/budget",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2000391065348165634?action=discord&type=1&cid=1942512167859859457"
+          "label": "DRAGON",
+          "url": "https://noghost.x.yupoo.com/albums/150325025?uid=1&isSubCate=false&referrercate=4733109"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2000029666902102018?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631475137855489?action=discord&cid=1840597081113280514"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 67$ - hoodie 35$ - pants 32$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0568"
+  }
 }

@@ -1,46 +1,48 @@
 {
-  "name": "UnionLos AngelesBlack Toe",
+  "name": "Royal Reimagined",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "TOPY",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "TOPY",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4030122428%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4030122428?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/7286260742?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7286260742?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "DG",
   "budget_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "85$",
+  "best_price": "72$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnAFzJuWMtkazWsKt8P2Dsr1qOj9XHwfh-dQCX4L_dc9Yt7_IL8gtv7fVOeHkOZWxlMo6aSduKtyrnXLe2Iq3U1_cbQoLM3_xFkFFZspqnsv4ZyupFMiaFCOOobNzKlZU69ceTZc1SUYfh=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzigUrddOS4Pq_w5u0xT74HavSI23YZtVcVZNAYVvvzjPYyIQKxJurwPDFI4UzeiEii2t-IuVVjASuMro1k44pGSPvRSJYCDugPraCG56lE3AwkJ4uwR8Cr-MfjtJMZ69onLQa7_wi2ag=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0182",
   "raw_cells": {
     "col_0": {
       "text": "193"
     },
     "col_1": {
-      "text": "UnionLos AngelesBlack Toe"
+      "text": "Royal Reimagined"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnAFzJuWMtkazWsKt8P2Dsr1qOj9XHwfh-dQCX4L_dc9Yt7_IL8gtv7fVOeHkOZWxlMo6aSduKtyrnXLe2Iq3U1_cbQoLM3_xFkFFZspqnsv4ZyupFMiaFCOOobNzKlZU69ceTZc1SUYfh=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzigUrddOS4Pq_w5u0xT74HavSI23YZtVcVZNAYVvvzjPYyIQKxJurwPDFI4UzeiEii2t-IuVVjASuMro1k44pGSPvRSJYCDugPraCG56lE3AwkJ4uwR8Cr-MfjtJMZ69onLQa7_wi2ag=w143-h100"
     },
     "col_3": {
-      "text": "TOPY",
+      "text": "LJR",
       "links": [
         {
-          "label": "TOPY",
-          "url": "https://oopbuy.com/product/2/4030122428?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7286260742?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "85$"
+      "text": "72$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0182"
+  }
 }

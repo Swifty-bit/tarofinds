@@ -1,0 +1,61 @@
+{
+  "name": "UnbrandedT-Shirt8 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/714110143125?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/714110143125?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287538890633217?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az0fO63kss3tF1enV-m01BlfGzmfxAvMWMPmrXL3PpCYnS4RN1Co5whsRU_bKDwgc6HxKWRgiLB0yo7f_g7l0FLr0q7_Pgcbp7izlz5Wd3bOZ60IEI1q6uvhliXTAXnk2ko64ZGvyyDF4BD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1737",
+  "raw_cells": {
+    "col_0": {
+      "text": "36"
+    },
+    "col_1": {
+      "text": "UnbrandedT-Shirt8 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0fO63kss3tF1enV-m01BlfGzmfxAvMWMPmrXL3PpCYnS4RN1Co5whsRU_bKDwgc6HxKWRgiLB0yo7f_g7l0FLr0q7_Pgcbp7izlz5Wd3bOZ60IEI1q6uvhliXTAXnk2ko64ZGvyyDF4BD=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/714110143125?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287538890633217?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

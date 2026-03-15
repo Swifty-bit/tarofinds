@@ -1,13 +1,13 @@
 {
-  "name": "Eric Emanuel x NASCARCheckered FlagShorts",
+  "name": "Eric EmanuelFlame Shorts2 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.cc%2FvQHJxhza&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.cc/vQHJxhza"
+      "url": "https://litbuy.com/product/weidian/792718020125?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/110882510?uid=1&isSubCate=false&referrercate=3848500"
+      "url": "https://angelking47.x.yupoo.com/albums/135571142?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyP3EIrynE8TYILn63QdXho4iiehzM_iYmCVX6zR-1Y5owXtZSEGqPltEUf4E7Cq22FTZFY8_9zy52jVaUmlYtw1gF9tW4KxE854iFrs0fWUiIzUDWnmLWC_lqB1GYvv9WA_VXrG6jfthBa=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AybyyrGaVQin1nxJRlaMRGIGGItYj0j0ZXsA3QfGO1DjnHrLI6A330yrnqT-ye_AWvsTL84KeArWhjug41QgtWTieyzHJsoW0MZHOpcO_hloNrHgXYtJpEbSKeobP1QD_JSJqFAZ3JgXTt0=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1377",
   "raw_cells": {
     "col_0": {
-      "text": "978"
+      "text": "974"
     },
     "col_1": {
-      "text": "Eric Emanuel x NASCARCheckered FlagShorts"
+      "text": "Eric EmanuelFlame Shorts2 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyP3EIrynE8TYILn63QdXho4iiehzM_iYmCVX6zR-1Y5owXtZSEGqPltEUf4E7Cq22FTZFY8_9zy52jVaUmlYtw1gF9tW4KxE854iFrs0fWUiIzUDWnmLWC_lqB1GYvv9WA_VXrG6jfthBa=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AybyyrGaVQin1nxJRlaMRGIGGItYj0j0ZXsA3QfGO1DjnHrLI6A330yrnqT-ye_AWvsTL84KeArWhjug41QgtWTieyzHJsoW0MZHOpcO_hloNrHgXYtJpEbSKeobP1QD_JSJqFAZ3JgXTt0=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.cc/vQHJxhza"
+          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/110882510?uid=1&isSubCate=false&referrercate=3848500"
+          "url": "https://angelking47.x.yupoo.com/albums/135571142?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1377"
+  }
 }

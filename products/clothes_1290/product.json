@@ -1,61 +1,61 @@
 {
-  "name": "Lacoste T-ShirtTinted Logo2 Colors",
+  "name": "Balenciagax PS5Baseball Cap3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "FrenchFish",
+  "best_batch": "ogwave",
   "best_batch_links": [
     {
-      "label": "FrenchFish",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7427955683%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7427955683?inviteCode=29TOTHGNH"
+      "label": "ogwave",
+      "url": "https://litbuy.com/product/taobao/7432854257?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7432854257?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "25$",
+  "best_price": "15$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1927167888513904641?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://ogwave.x.yupoo.com/albums/179320326?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMYgCBkPM2Bddr54QiB4koFS4A6jxukPjFcOAJZI0DY62T9nQGrHG37Es9Z4lRbWlvyYnj7X18xazto7xAZxq16DOGpNlkiB9zPOpuECWnl08-92qssf8MOWRyI676OqQr8SNaCo8g2L5u=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwP8jrvcvQovDqD1GJe2uY2ij2SFCvmfkURkKgvqiiEFegBVkdDurFWRbB3gcPs5bIkyimnVfd3PiYOJnJAOiK6o0_Ythn9jsDHK6LvgOVq1ts6ltIfA4Qy926gPxKiznAina2g0Z2RrXmi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1290",
   "raw_cells": {
     "col_0": {
-      "text": "881"
+      "text": "875"
     },
     "col_1": {
-      "text": "Lacoste T-ShirtTinted Logo2 Colors"
+      "text": "Balenciagax PS5Baseball Cap3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMYgCBkPM2Bddr54QiB4koFS4A6jxukPjFcOAJZI0DY62T9nQGrHG37Es9Z4lRbWlvyYnj7X18xazto7xAZxq16DOGpNlkiB9zPOpuECWnl08-92qssf8MOWRyI676OqQr8SNaCo8g2L5u=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwP8jrvcvQovDqD1GJe2uY2ij2SFCvmfkURkKgvqiiEFegBVkdDurFWRbB3gcPs5bIkyimnVfd3PiYOJnJAOiK6o0_Ythn9jsDHK6LvgOVq1ts6ltIfA4Qy926gPxKiznAina2g0Z2RrXmi=w143-h110"
     },
     "col_3": {
-      "text": "FrenchFish",
+      "text": "ogwave",
       "links": [
         {
-          "label": "FrenchFish",
-          "url": "https://oopbuy.com/product/weidian/7427955683?inviteCode=29TOTHGNH"
+          "label": "ogwave",
+          "url": "https://oopbuy.com/product/2/7432854257?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "25$"
+      "text": "15$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1927167888513904641?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://ogwave.x.yupoo.com/albums/179320326?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1290"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Heartless Love T-shirt",
+  "name": "Stone IslandBeanie5 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "hotdog-official",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7342568978%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7342568978?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/707605637096?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/707605637096?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "15$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/159100342?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1980097160675942401?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-EPQnc6FRCM02sJTfuPx1cPJgYXRQBMhV0XdJnU_q5c9Q6inQ6GlGTUEAFwErrwkViaE1tXrWJvj54rbx3Vt2aXEGVsPsh29GyD8gUe4F4ZfsAK-DC86xTsBpS2sVyaaHRAf6BpIoNJUy=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRAzXhAQu3l24-GAioXZ2V7eEVGqzSDdXh2ON_Q0rnH3H7WyT23cnydTdjxC8Vsmk8zvosxemKoqZzrKt_hMxzY4xej5rcZrJY28sioBZaa-bf35t61xYx8rTPDxPsqM6DDC8lTpfLoQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0984",
   "raw_cells": {
     "col_0": {
-      "text": "521"
+      "text": "515"
     },
     "col_1": {
-      "text": "Heartless Love T-shirt"
+      "text": "Stone IslandBeanie5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-EPQnc6FRCM02sJTfuPx1cPJgYXRQBMhV0XdJnU_q5c9Q6inQ6GlGTUEAFwErrwkViaE1tXrWJvj54rbx3Vt2aXEGVsPsh29GyD8gUe4F4ZfsAK-DC86xTsBpS2sVyaaHRAf6BpIoNJUy=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRAzXhAQu3l24-GAioXZ2V7eEVGqzSDdXh2ON_Q0rnH3H7WyT23cnydTdjxC8Vsmk8zvosxemKoqZzrKt_hMxzY4xej5rcZrJY28sioBZaa-bf35t61xYx8rTPDxPsqM6DDC8lTpfLoQ=w143-h110"
     },
-    "col_3": {
-      "text": "hotdog-official",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "hotdog-official",
-          "url": "https://www.oopbuy.com/product/weidian/7342568978?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/707605637096?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "15$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/159100342?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1980097160675942401?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0984"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "PURPLE BRANDJeans",
+  "name": "SupremeThrasherBeanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Pingu7",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "Pingu7",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7243793597%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7243793597?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7589573963?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7589573963?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "38$",
+  "best_price": "9$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pingu7.x.yupoo.com/albums/166850708?uid=1"
+      "url": "https://noghost.x.yupoo.com/albums/179537843?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzM8d_akyf7vO04l5Drh4OK26PqImvu_oqsaMxxRAqQPCap4PWKniVrgPBOsymWCELKBvB-Nbzkxpf_AUBi5wytcULewVATQZ0xEmNl4DQH8faNZDCOk8t5NOKcXECjTP8hHO3oozk9n2Cj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awza7WSC76tvsHrZhIyE2RV_Wpttropo9AnPdI1bzXkf2_0OwMEwzAPf6tAXTTK5nPBDSZSw-pI84eT35EHuXqxie1Drh9Pnv-DNN6w2Etb_PkuXryKgvoPEink09lD8eeCFiQcTH6fFA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1198",
   "raw_cells": {
     "col_0": {
-      "text": "769"
+      "text": "763"
     },
     "col_1": {
-      "text": "PURPLE BRANDJeans"
+      "text": "SupremeThrasherBeanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzM8d_akyf7vO04l5Drh4OK26PqImvu_oqsaMxxRAqQPCap4PWKniVrgPBOsymWCELKBvB-Nbzkxpf_AUBi5wytcULewVATQZ0xEmNl4DQH8faNZDCOk8t5NOKcXECjTP8hHO3oozk9n2Cj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awza7WSC76tvsHrZhIyE2RV_Wpttropo9AnPdI1bzXkf2_0OwMEwzAPf6tAXTTK5nPBDSZSw-pI84eT35EHuXqxie1Drh9Pnv-DNN6w2Etb_PkuXryKgvoPEink09lD8eeCFiQcTH6fFA=w143-h110"
     },
     "col_3": {
-      "text": "Pingu7",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "Pingu7",
-          "url": "https://www.oopbuy.com/product/weidian/7243793597?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7589573963?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "9$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://pingu7.x.yupoo.com/albums/166850708?uid=1"
+          "url": "https://noghost.x.yupoo.com/albums/179537843?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1198"
+  }
 }

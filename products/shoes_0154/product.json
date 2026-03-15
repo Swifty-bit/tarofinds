@@ -1,47 +1,74 @@
 {
-  "name": "Travis Scott Fragment High",
+  "name": "Travis Scott Mocha High",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
+  "best_batch": "LJR/FK",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240131608%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240131608?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FK",
+      "url": "https://litbuy.com/product/weidian/7565902946?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "80$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "39$",
+  "pics_text": "39$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcjcchQaJIggy5bPrZlKYxrhiATB6GdkqKjA-8Lc9hyvpLm1fCPnYORUUSrCjhWbsVC7RWBckIbc-6O5LNCqZhwxVp6XeQwc8yZSB1iWsn3Y8cXsOgqFT_h7sJGsmgv0a4lXnXnIcOVOuR=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyWXngIJtwwQB7_0GVJ_0hGDTnwu4ihcotYWVB6Zq4Enzf92vyCbgC96T1DHSDKF0v-d0LtQGhpF-IK9oV49uYFmBMypRXzEd9CBa858ljtPwy667noIcwH5FzaQ9rnbZxD3Bc_uoJsOQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0154",
   "raw_cells": {
     "col_0": {
       "text": "165"
     },
     "col_1": {
-      "text": "Travis Scott Fragment High"
+      "text": "Travis Scott Mocha High"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcjcchQaJIggy5bPrZlKYxrhiATB6GdkqKjA-8Lc9hyvpLm1fCPnYORUUSrCjhWbsVC7RWBckIbc-6O5LNCqZhwxVp6XeQwc8yZSB1iWsn3Y8cXsOgqFT_h7sJGsmgv0a4lXnXnIcOVOuR=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWXngIJtwwQB7_0GVJ_0hGDTnwu4ihcotYWVB6Zq4Enzf92vyCbgC96T1DHSDKF0v-d0LtQGhpF-IK9oV49uYFmBMypRXzEd9CBa858ljtPwy667noIcwH5FzaQ9rnbZxD3Bc_uoJsOQ=w143-h110"
     },
     "col_3": {
-      "text": "LJR",
+      "text": "LJR/FK",
       "links": [
         {
           "label": "LJR",
           "url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FK",
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "80$"
+    },
+    "col_6": {
+      "text": "39$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0154"
+  }
 }

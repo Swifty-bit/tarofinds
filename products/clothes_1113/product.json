@@ -1,61 +1,61 @@
 {
-  "name": "VetementsUnicorn Hoodie",
+  "name": "VetementsHello my name is VetementsT-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "vetementsshop",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F852710711728%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/852710711728?inviteCode=29TOTHGNH"
+      "label": "vetementsshop",
+      "url": "https://litbuy.com/product/weidian/844668072065?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/844668072065?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "51$",
+  "best_price": "58$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/180244541?uid=1&isSubCate=false&referrercate=4651184"
+      "url": "https://vetementsshop.x.yupoo.com/albums/177615365?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDrh43vtrRcQnxAbS58bwmMEFTpPecYqfYjmxMSTxFKXNdDhyIM5HLed0yQWnuUO53ZHhNDWE0Zy9rGNy36mtGZezUFBVJ1XX3BOp1tyT9EvrYSaeO8mtxbYa3r1qpWETI32lHswWqU3J-=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPuq4HDU2r3_eokHEQoamYhxvjDdt-9Wqkffxp2nMPH8WPd56wYty9xWDjF8tLfUvEJZ9ITrexw2QWulIYS5YLtr8M93WSSRXCF-lnYovN_2-wFeAVAWHVHYkhEGNIWzDr_IBxUBhGU4_e=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1113",
   "raw_cells": {
     "col_0": {
-      "text": "668"
+      "text": "664"
     },
     "col_1": {
-      "text": "VetementsUnicorn Hoodie"
+      "text": "VetementsHello my name is VetementsT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDrh43vtrRcQnxAbS58bwmMEFTpPecYqfYjmxMSTxFKXNdDhyIM5HLed0yQWnuUO53ZHhNDWE0Zy9rGNy36mtGZezUFBVJ1XX3BOp1tyT9EvrYSaeO8mtxbYa3r1qpWETI32lHswWqU3J-=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPuq4HDU2r3_eokHEQoamYhxvjDdt-9Wqkffxp2nMPH8WPd56wYty9xWDjF8tLfUvEJZ9ITrexw2QWulIYS5YLtr8M93WSSRXCF-lnYovN_2-wFeAVAWHVHYkhEGNIWzDr_IBxUBhGU4_e=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "vetementsshop",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/852710711728?inviteCode=29TOTHGNH"
+          "label": "vetementsshop",
+          "url": "https://oopbuy.com/product/1/844668072065?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "51$"
+      "text": "58$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/180244541?uid=1&isSubCate=false&referrercate=4651184"
+          "url": "https://vetementsshop.x.yupoo.com/albums/177615365?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1113"
+  }
 }

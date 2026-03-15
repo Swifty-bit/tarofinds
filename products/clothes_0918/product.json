@@ -1,87 +1,61 @@
 {
-  "name": "Palm AngelsKillbear Hoodie",
+  "name": "Palm AngelsOversize Necklogo T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F962618751944%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/962618751944?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/964385540187?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/964385540187?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F657691711703%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/657691711703?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "50$",
-  "budget_price": "12$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "29$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://repsbro.x.yupoo.com/albums/205539131?uid=1&isSubCate=false&referrercate=4971731"
-    },
-    {
-      "label": "budget",
-      "url": "https://finds.ly/product/ali1688/657691711703"
+      "label": "pics",
+      "url": "https://repsbro.x.yupoo.com/albums/205539867?uid=1&isSubCate=false&referrercate=4971731"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzESYnCDMFtI-q_jgElhnwK4k9aUWYVPk_ziGt8P8fAXzAIvIMR8q_u5VfQPZmiIoKrWpBvmDJ8ckuXWE8xImTpEZEWTvjYCgzsr-QpFclIhScNypYrrFFPEd22VwMHmEv8YfDrnlpX6Pn3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az0jD0-RbDgmidZWsMU4p4R2Aru_WdtPrls7EVDSEQ03GrSko36I1W_Cci4vNcANjGvtYAP4l21iN9XIDhD5lG-10_JnTBF_Gh7wRiGR9At3SWETmXTgpvhlck_Je4MnHteNBdzHyJVdFYq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0918",
   "raw_cells": {
     "col_0": {
-      "text": "443"
+      "text": "439"
     },
     "col_1": {
-      "text": "Palm AngelsKillbear Hoodie"
+      "text": "Palm AngelsOversize Necklogo T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzESYnCDMFtI-q_jgElhnwK4k9aUWYVPk_ziGt8P8fAXzAIvIMR8q_u5VfQPZmiIoKrWpBvmDJ8ckuXWE8xImTpEZEWTvjYCgzsr-QpFclIhScNypYrrFFPEd22VwMHmEv8YfDrnlpX6Pn3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0jD0-RbDgmidZWsMU4p4R2Aru_WdtPrls7EVDSEQ03GrSko36I1W_Cci4vNcANjGvtYAP4l21iN9XIDhD5lG-10_JnTBF_Gh7wRiGR9At3SWETmXTgpvhlck_Je4MnHteNBdzHyJVdFYq=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/962618751944?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/657691711703?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/964385540187?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "50$"
-    },
-    "col_6": {
-      "text": "12$"
+      "text": "29$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://repsbro.x.yupoo.com/albums/205539131?uid=1&isSubCate=false&referrercate=4971731"
-        },
-        {
-          "label": "budget",
-          "url": "https://finds.ly/product/ali1688/657691711703"
+          "label": "pics",
+          "url": "https://repsbro.x.yupoo.com/albums/205539867?uid=1&isSubCate=false&referrercate=4971731"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0918"
+  }
 }

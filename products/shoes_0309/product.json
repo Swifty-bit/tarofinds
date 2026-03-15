@@ -1,47 +1,47 @@
 {
-  "name": "Travis Scott Olive",
+  "name": "Georgetown",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7326229335%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7326229335?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/7239331101?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239331101?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "40$",
+  "best_price": "71$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4medMHqvOAQ83z62G6g_yTE-Q1SYR4WGORRPKQwc_FqATKt-q7QDP2AsHu5z4NkNl7NRPMVUG5Xuzf4bxN4dE5IeBooW9XpJWeRDyrOtGwE71a8VC0ffvE6LgEWXq9EOyYPEsMY6mXKOp=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw6Kb1NUQUxanhIcB86y0gJayeRKLC8fBVoT5cx7hTqUD65Nyfxz90Vi8SoFfXfjggJdUZFmzm_tUdwA1UW8UfEJP7Nwki1qz_QkRvXFgCPv6lH6O7kNk5Ox6NLcULRB_wNVla-gTutFQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0309",
   "raw_cells": {
     "col_0": {
       "text": "328"
     },
     "col_1": {
-      "text": "Travis Scott Olive"
+      "text": "Georgetown"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4medMHqvOAQ83z62G6g_yTE-Q1SYR4WGORRPKQwc_FqATKt-q7QDP2AsHu5z4NkNl7NRPMVUG5Xuzf4bxN4dE5IeBooW9XpJWeRDyrOtGwE71a8VC0ffvE6LgEWXq9EOyYPEsMY6mXKOp=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw6Kb1NUQUxanhIcB86y0gJayeRKLC8fBVoT5cx7hTqUD65Nyfxz90Vi8SoFfXfjggJdUZFmzm_tUdwA1UW8UfEJP7Nwki1qz_QkRvXFgCPv6lH6O7kNk5Ox6NLcULRB_wNVla-gTutFQ=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "LJR",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/2/7326229335?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7239331101?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "40$"
+      "text": "71$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0309"
+  }
 }

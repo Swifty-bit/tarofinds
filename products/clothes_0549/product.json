@@ -1,61 +1,61 @@
 {
-  "name": "JordanBasketball Shorts",
+  "name": "Nike TrailPants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Mr Q",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F774249365947%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/774249365947?inviteCode=29TOTHGNH"
+      "label": "Mr Q",
+      "url": "https://litbuy.com/product/weidian/7540291612?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7540291612?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "6$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1923544062315511809?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://qqq9999qqq.x.yupoo.com/albums/208811305?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwhaTqk_mJclfQsF5DfwQEphrtewL6AjCJlb2RsE9f7LKnIEN0UPTsyOi5cyDN__3u4R1QRx4cMG7sYssT9BnHJoz3WhBlJPkKlAtE3wBUzS_DX4s4R3ccSXMliFw-st2s2kkPGfOZllSRj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxdcLk0OJEjvK3_prN5qBcUwzbl469QUhxG1Q3dFwXDlKZS6EjAGbu64m3q9aWaB4WHjbolPpl9Nkc6nrSImourzXZT3IgSw3NynAE39Gvt_aoI_phooPhv4d5qFyXMIN-c0ckshOpuUu3z=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0549",
   "raw_cells": {
     "col_0": {
-      "text": "14"
+      "text": "10"
     },
     "col_1": {
-      "text": "JordanBasketball Shorts"
+      "text": "Nike TrailPants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwhaTqk_mJclfQsF5DfwQEphrtewL6AjCJlb2RsE9f7LKnIEN0UPTsyOi5cyDN__3u4R1QRx4cMG7sYssT9BnHJoz3WhBlJPkKlAtE3wBUzS_DX4s4R3ccSXMliFw-st2s2kkPGfOZllSRj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxdcLk0OJEjvK3_prN5qBcUwzbl469QUhxG1Q3dFwXDlKZS6EjAGbu64m3q9aWaB4WHjbolPpl9Nkc6nrSImourzXZT3IgSw3NynAE39Gvt_aoI_phooPhv4d5qFyXMIN-c0ckshOpuUu3z=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Mr Q",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/774249365947?inviteCode=29TOTHGNH"
+          "label": "Mr Q",
+          "url": "https://oopbuy.com/product/weidian/7540291612?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "6$"
+    "col_5": {
+      "text": "18$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1923544062315511809?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://qqq9999qqq.x.yupoo.com/albums/208811305?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0549"
+  }
 }

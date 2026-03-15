@@ -1,61 +1,61 @@
 {
-  "name": "LV T-Shirt",
+  "name": "Moncler Beanie5 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "1to1",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5503125719%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/5503125719?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/856448561162?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/856448561162?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "40$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/120016180?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2011323516748648450?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUQOxnq_qMw5NU-qyKXMCBSXSWs0Q1tufJmsLrewWUp0wP4VDmC8zrGwx-ZaruemLKvOWrrCfscGalmBZ0d5GgL16GdONLvGtpSUuzy7jbU9HXWtwwuDCiDE1bEhKlkV4QU0O6GQE5Hxyu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyCnZKjYZ0Py1tJwWdcBx0k6vH5TLo8l1Ya-P7NDCvIuoLPBR9pMniVaRW6VBhAkBtSIIvDu46p8y1aQs7LOOoxP6Tj2e_R59NDCoPi9noMw8XBqKbbJ0H9GlFdiMkDR1P0M6JV6hv6k60m=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0821",
   "raw_cells": {
     "col_0": {
-      "text": "318"
+      "text": "312"
     },
     "col_1": {
-      "text": "LV T-Shirt"
+      "text": "Moncler Beanie5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUQOxnq_qMw5NU-qyKXMCBSXSWs0Q1tufJmsLrewWUp0wP4VDmC8zrGwx-ZaruemLKvOWrrCfscGalmBZ0d5GgL16GdONLvGtpSUuzy7jbU9HXWtwwuDCiDE1bEhKlkV4QU0O6GQE5Hxyu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyCnZKjYZ0Py1tJwWdcBx0k6vH5TLo8l1Ya-P7NDCvIuoLPBR9pMniVaRW6VBhAkBtSIIvDu46p8y1aQs7LOOoxP6Tj2e_R59NDCoPi9noMw8XBqKbbJ0H9GlFdiMkDR1P0M6JV6hv6k60m=w143-h110"
     },
-    "col_3": {
-      "text": "1to1",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "1to1",
-          "url": "https://oopbuy.com/product/weidian/5503125719?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/856448561162?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "40$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/120016180?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2011323516748648450?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0821"
+  }
 }

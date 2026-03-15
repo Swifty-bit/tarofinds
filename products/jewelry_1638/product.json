@@ -1,61 +1,61 @@
 {
-  "name": "Gucci Bracelet",
+  "name": "Chrome HeartsDice Bracelet",
   "category": "Jewelry",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7266547265%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7266547265?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7260793627?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7260793627?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "50$",
+  "best_price": "49$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1922094533649154050?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyjHjnq4dYsUtZ0Q9jphXEsD1KEe6lnc_wxBLgY_5aDAHOQBUDFAM_Shdp_ldfny4I78Z9gXJuVNBQ2wlxjQAlOB5V6EonjSpJJxhpkd3bp3lUzwFM5r1DdLXtW84Av_b_kJk4zbFGIFlPO=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrrX-WoQsWRrMRSfwuLy8TXToZfcAefYwJxHzk8AnAsu17mQxefKYO2V7dFmZ94juOZYQ_Ww9Y0XBlMJIIo1uYJtUCRYYN4VX9SXrm36cbKDg081gk3Zbj2W1p5ABwdfXbzw15cdX31BI8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1638",
   "raw_cells": {
     "col_0": {
-      "text": "52"
+      "text": "47"
     },
     "col_1": {
-      "text": "Gucci Bracelet"
+      "text": "Chrome HeartsDice Bracelet"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyjHjnq4dYsUtZ0Q9jphXEsD1KEe6lnc_wxBLgY_5aDAHOQBUDFAM_Shdp_ldfny4I78Z9gXJuVNBQ2wlxjQAlOB5V6EonjSpJJxhpkd3bp3lUzwFM5r1DdLXtW84Av_b_kJk4zbFGIFlPO=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrrX-WoQsWRrMRSfwuLy8TXToZfcAefYwJxHzk8AnAsu17mQxefKYO2V7dFmZ94juOZYQ_Ww9Y0XBlMJIIo1uYJtUCRYYN4VX9SXrm36cbKDg081gk3Zbj2W1p5ABwdfXbzw15cdX31BI8=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/2/7266547265?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7260793627?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "50$"
+      "text": "49$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1922094533649154050?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1638"
+  }
 }

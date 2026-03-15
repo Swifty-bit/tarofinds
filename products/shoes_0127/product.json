@@ -1,47 +1,56 @@
 {
-  "name": "Jarritos",
+  "name": "Strangelove",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
+  "best_batch": "PK/M",
   "best_batch_links": [
     {
+      "label": "PK",
+      "url": "https://litbuy.com/product/taobao/7259102421?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7259102421?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7242327027?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "48$",
+  "best_price": "61$ / 56$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxvoY_3QSGpSgkW3e9ZNmmKuW9gB1xdFCx11Y_0Dw88_ZOOmf8UZ1RKx3guL2hl816XbkqgqTjDntxf1QdBqNMPcxDZvjIRgJZvKluDTUOcyjT1J-XInocWxzSlR-HQh0pzzwnBnU5yKADf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzMymwzN6PC7nahTKu6MZ4WGDipLKlHEYV884TGtN3Fqn1HmbLO18Lc0pH8abKTg7x-OtddgaV5CyIdIW2fjjv1An4fwLdSfXRXHgqGoNrcT3SgQ45so8plluZ6k6Kxftqs-GTUT5W8YFGi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0127",
   "raw_cells": {
     "col_0": {
       "text": "136"
     },
     "col_1": {
-      "text": "Jarritos"
+      "text": "Strangelove"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxvoY_3QSGpSgkW3e9ZNmmKuW9gB1xdFCx11Y_0Dw88_ZOOmf8UZ1RKx3guL2hl816XbkqgqTjDntxf1QdBqNMPcxDZvjIRgJZvKluDTUOcyjT1J-XInocWxzSlR-HQh0pzzwnBnU5yKADf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzMymwzN6PC7nahTKu6MZ4WGDipLKlHEYV884TGtN3Fqn1HmbLO18Lc0pH8abKTg7x-OtddgaV5CyIdIW2fjjv1An4fwLdSfXRXHgqGoNrcT3SgQ45so8plluZ6k6Kxftqs-GTUT5W8YFGi=w143-h110"
     },
     "col_3": {
-      "text": "M",
+      "text": "PK/M",
       "links": [
         {
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/7259102421?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "M",
-          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "48$"
+      "text": "61$ / 56$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0127"
+  }
 }

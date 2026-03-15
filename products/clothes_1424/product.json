@@ -1,38 +1,61 @@
 {
-  "name": "CarharttT-Shirt4 Colors",
+  "name": "Gucci CapBIG GUCCI TEXT",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "/",
+  "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "13$",
-  "budget_price": "",
-  "pics_text": "/",
-  "pics_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/805535057706?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/805535057706?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1899264658843471873?action=discord&cid=1840597081113280514"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzG59k6-b6Vrar1Ii4vJ54i7gU5wQyO62fkhJCwJGCMwCMk3vYerUSkGxOeNwxHve98xUU8vtKyjaVGQQOUf9zr9yO-NXPfEJxTaBZi0wu1dFOEkRrT5ZQAALNyEn_F8QPKm6uTjO7etA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySYkjpCLIeBrEvtVIgyepZvB7f_vlKsZ3PkeLJwUbJpjmMTcbemKTtnUyJA0R30XDNVk0NDlwVYLnI7U4D6ekaBHkkMH3_wNSkq8q3_JGEpDLtcyJVus4G3-Xn84I_bOOKi8sIJCWnxcMW=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1424",
   "raw_cells": {
     "col_0": {
-      "text": "1035"
+      "text": "1029"
     },
     "col_1": {
-      "text": "CarharttT-Shirt4 Colors"
+      "text": "Gucci CapBIG GUCCI TEXT"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzG59k6-b6Vrar1Ii4vJ54i7gU5wQyO62fkhJCwJGCMwCMk3vYerUSkGxOeNwxHve98xUU8vtKyjaVGQQOUf9zr9yO-NXPfEJxTaBZi0wu1dFOEkRrT5ZQAALNyEn_F8QPKm6uTjO7etA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySYkjpCLIeBrEvtVIgyepZvB7f_vlKsZ3PkeLJwUbJpjmMTcbemKTtnUyJA0R30XDNVk0NDlwVYLnI7U4D6ekaBHkkMH3_wNSkq8q3_JGEpDLtcyJVus4G3-Xn84I_bOOKi8sIJCWnxcMW=w143-h110"
     },
-    "col_3": {
-      "text": "/"
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/805535057706?inviteCode=29TOTHGNH"
+        }
+      ]
     },
-    "col_5": {
-      "text": "13$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "/"
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1899264658843471873?action=discord&cid=1840597081113280514"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1424"
+  }
 }

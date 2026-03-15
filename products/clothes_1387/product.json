@@ -1,61 +1,61 @@
 {
-  "name": "RepresentGiants Hoodie",
+  "name": "RepresentTeam SpiritT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "UnionKingdom",
   "best_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F750874025260%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/750874025260?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/750730960088?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/750730960088?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "35$",
+  "best_price": "17$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://unionkingdom.x.yupoo.com/albums/150188307?uid=1"
+      "url": "https://unionkingdom.x.yupoo.com/albums/136325956?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCIkml3DvJfGIgIFYy2xqDYnQ_aWuFcubARWNSqnS0dXhLsSzSzUDU4NEDSKsstAPOnM35hMKTI38635vKWDs2jRhO-TC6SAeee7tCuasUaJmOE7qFT2NeNe3z7hHfvz01nXOCt68uG6a1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayc99LOi6F16U6gtNvxyw_UixaOwEf8uVJTklzjjPjx20wuftOll3wc5woWH8ZZnntZwxpv0TKgdyKOniUfPUh7ba7VPhdX7tAnjGX5IYf3sxHoG7vH3RdsWj_WmvBDJ8J6xcRMSpGPXQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1387",
   "raw_cells": {
     "col_0": {
-      "text": "990"
+      "text": "986"
     },
     "col_1": {
-      "text": "RepresentGiants Hoodie"
+      "text": "RepresentTeam SpiritT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCIkml3DvJfGIgIFYy2xqDYnQ_aWuFcubARWNSqnS0dXhLsSzSzUDU4NEDSKsstAPOnM35hMKTI38635vKWDs2jRhO-TC6SAeee7tCuasUaJmOE7qFT2NeNe3z7hHfvz01nXOCt68uG6a1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayc99LOi6F16U6gtNvxyw_UixaOwEf8uVJTklzjjPjx20wuftOll3wc5woWH8ZZnntZwxpv0TKgdyKOniUfPUh7ba7VPhdX7tAnjGX5IYf3sxHoG7vH3RdsWj_WmvBDJ8J6xcRMSpGPXQ=w143-h110"
     },
     "col_3": {
       "text": "UnionKingdom",
       "links": [
         {
           "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/750874025260?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/750730960088?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
+      "text": "17$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://unionkingdom.x.yupoo.com/albums/150188307?uid=1"
+          "url": "https://unionkingdom.x.yupoo.com/albums/136325956?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1387"
+  }
 }

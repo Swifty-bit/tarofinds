@@ -1,61 +1,87 @@
 {
-  "name": "Ralph LaurenHalf-Zip Sweatshirt",
+  "name": "Ralph LaurenChief Keef POLO",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
+  "best_batch": "GGG",
   "best_batch_links": [
     {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6871018208%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6871018208?inviteCode=29TOTHGNH"
+      "label": "GGG",
+      "url": "https://litbuy.com/product/weidian/7238029414?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7238029414?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "24$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/869616638413?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/869616638413?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "25$",
+  "budget_price": "9$",
+  "pics_text": "GGG/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/149753236?uid=1"
+      "label": "GGG",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2018907803228393474?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1953262976359817217?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwMSNeqe5J_alRPurvpAxxb_qhQ0ZpjnYVPowid24fnfoP3Dmu7aXJ9u7h5FimsZ1BmOWo-GHo0_OYE6ctpbRopuwHGfG0m_LmAEzi9cfYW3ce9-Lm90HSCvulrpb69H1DyEDGx2BHwLC2s=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwMIxiF_PlV5h95HTyI5nHd0v2ZHh-RivewL07oeiClGk4olRA8D5jKaaYd1oQUmBgDbjLuWSwbyeaP8wTK501TFs-2__mjcyp47-1EJFvyiaIgL9r7yox4AvCEYNG3AdyRsVa2ApzfsQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0610",
   "raw_cells": {
     "col_0": {
-      "text": "81"
+      "text": "77"
     },
     "col_1": {
-      "text": "Ralph LaurenHalf-Zip Sweatshirt"
+      "text": "Ralph LaurenChief Keef POLO"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMSNeqe5J_alRPurvpAxxb_qhQ0ZpjnYVPowid24fnfoP3Dmu7aXJ9u7h5FimsZ1BmOWo-GHo0_OYE6ctpbRopuwHGfG0m_LmAEzi9cfYW3ce9-Lm90HSCvulrpb69H1DyEDGx2BHwLC2s=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMIxiF_PlV5h95HTyI5nHd0v2ZHh-RivewL07oeiClGk4olRA8D5jKaaYd1oQUmBgDbjLuWSwbyeaP8wTK501TFs-2__mjcyp47-1EJFvyiaIgL9r7yox4AvCEYNG3AdyRsVa2ApzfsQ=w143-h110"
     },
     "col_3": {
-      "text": "Repkingdom",
+      "text": "GGG",
       "links": [
         {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/6871018208?inviteCode=29TOTHGNH"
+          "label": "GGG",
+          "url": "https://oopbuy.com/product/weidian/7238029414?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/869616638413?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "24$"
+      "text": "25$"
+    },
+    "col_6": {
+      "text": "9$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "GGG/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/149753236?uid=1"
+          "label": "GGG",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2018907803228393474?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1953262976359817217?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0610"
+  }
 }

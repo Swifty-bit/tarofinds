@@ -1,61 +1,64 @@
 {
-  "name": "Nike Pants",
+  "name": "Nike MilerJacket / SETPink",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Mr Q",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F888959221027%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/888959221027?inviteCode=29TOTHGNH"
+      "label": "Mr Q",
+      "url": "https://litbuy.com/product/weidian/7538826494?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7538826494?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "11$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "52$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1971763335092854786?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://qqq9999qqq.x.yupoo.com/albums/208539252?uid=1&isSubCate=false&referrercate=5003624"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwH8JwJhmGN2ajtFnVuQWdf6IDkfyVOYxbD0jdjYsF_eF2YvPlikOMZPg2fatRcLoy9CwCmih2Snv4ceOwwEeym0cOJ4VgrEKH12BTXutDYLcCZg_fDJaVYnWbt80nO5mTYmMoqvdVB3Nxz=w143-h110",
+  "notes": "set 52$ - jacket 28$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxhXVesXW4zFHI79KzDiBTg9MWT7za76mKLWEa2EAI-Z-ZDwcn8uodmW7V5ka5VItVgJzORXGn7pqROkNtnEzsaIm0kevFzXaiEW74V-kqOyH_gMtZ6yukWMrTGNYhj58cMCKant_b2Zm3L=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0547",
   "raw_cells": {
     "col_0": {
-      "text": "12"
+      "text": "8"
     },
     "col_1": {
-      "text": "Nike Pants"
+      "text": "Nike MilerJacket / SETPink"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwH8JwJhmGN2ajtFnVuQWdf6IDkfyVOYxbD0jdjYsF_eF2YvPlikOMZPg2fatRcLoy9CwCmih2Snv4ceOwwEeym0cOJ4VgrEKH12BTXutDYLcCZg_fDJaVYnWbt80nO5mTYmMoqvdVB3Nxz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxhXVesXW4zFHI79KzDiBTg9MWT7za76mKLWEa2EAI-Z-ZDwcn8uodmW7V5ka5VItVgJzORXGn7pqROkNtnEzsaIm0kevFzXaiEW74V-kqOyH_gMtZ6yukWMrTGNYhj58cMCKant_b2Zm3L=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Mr Q",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/888959221027?inviteCode=29TOTHGNH"
+          "label": "Mr Q",
+          "url": "https://oopbuy.com/product/weidian/7538826494?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "11$"
+    "col_5": {
+      "text": "52$(SET)"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1971763335092854786?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://qqq9999qqq.x.yupoo.com/albums/208539252?uid=1&isSubCate=false&referrercate=5003624"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 52$ - jacket 28$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0547"
+  }
 }

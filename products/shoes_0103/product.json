@@ -1,12 +1,12 @@
 {
-  "name": "Supreme 94Black",
+  "name": "Supreme 94HulkCamper Green",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "TOP/S2",
   "best_batch_links": [
     {
       "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7592540354%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7592540354?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7592540354?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZ47egorN7P8zD1h4GzEb_ElmmJ_TQFjBTh77zpFPRzHDaMYHbkmvODEVjQfXu4hBB3nfh26BHtGyCKnyaS2MzHtEiQvI2CxGD-qBng0J8hqajk1g_h3RdP8WNbdAVea3mTFU_uo4eGsKP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4sMubaHMKZwN43OpYI8Eft3i5WqegypHR-M1L_LbOCrsSxvindOMogc_sxakpu0UmSUmt4khM-0aQ2V8Yw2FbdMVni_z2f5IJjctAuFj65nB1ZSc_WEJAKTnbfVwcb6t-IXIKIFREHg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0103",
   "raw_cells": {
     "col_0": {
       "text": "112"
     },
     "col_1": {
-      "text": "Supreme 94Black"
+      "text": "Supreme 94HulkCamper Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZ47egorN7P8zD1h4GzEb_ElmmJ_TQFjBTh77zpFPRzHDaMYHbkmvODEVjQfXu4hBB3nfh26BHtGyCKnyaS2MzHtEiQvI2CxGD-qBng0J8hqajk1g_h3RdP8WNbdAVea3mTFU_uo4eGsKP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4sMubaHMKZwN43OpYI8Eft3i5WqegypHR-M1L_LbOCrsSxvindOMogc_sxakpu0UmSUmt4khM-0aQ2V8Yw2FbdMVni_z2f5IJjctAuFj65nB1ZSc_WEJAKTnbfVwcb6t-IXIKIFREHg=w143-h110"
     },
     "col_3": {
       "text": "TOP/S2",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "57$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0103"
+  }
 }

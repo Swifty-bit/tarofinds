@@ -1,13 +1,13 @@
 {
-  "name": "Concord",
+  "name": "Olive Green",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "A1 LJR",
+  "best_batch": "Y3",
   "best_batch_links": [
     {
-      "label": "A1 LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4480462048%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4480462048?inviteCode=29TOTHGNH"
+      "label": "Y3",
+      "url": "https://litbuy.com/product/weidian/7432227614?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7432227614?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxF4kemMb8TMbnVrg3GBWwjUditB1yxdAfWXxvaNmReUtUFqxQ1PVMIv5Ty1ADf9GuaO9jbfGl0EGEIjfsBIynCPFyjK-6ni_oV7fZ0ZV8qnLNRNCNcDhG8WGjPFO-WdvE6O-IugauNN9Mr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay_htqSbq1PYI_c63gs8v39W3ySASKK_DX_0MrBdt5rVtq5eYxTpS2myt2YqSpsCsJX2nUfrk4h0uBgYZRmVRhzVZvxLIR2aGsVZ29T_MOBjqc3dmMiFsh_Pr0oDz--5R34t8-ldgv3xcsb=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0291",
   "raw_cells": {
     "col_0": {
       "text": "308"
     },
     "col_1": {
-      "text": "Concord"
+      "text": "Olive Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxF4kemMb8TMbnVrg3GBWwjUditB1yxdAfWXxvaNmReUtUFqxQ1PVMIv5Ty1ADf9GuaO9jbfGl0EGEIjfsBIynCPFyjK-6ni_oV7fZ0ZV8qnLNRNCNcDhG8WGjPFO-WdvE6O-IugauNN9Mr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay_htqSbq1PYI_c63gs8v39W3ySASKK_DX_0MrBdt5rVtq5eYxTpS2myt2YqSpsCsJX2nUfrk4h0uBgYZRmVRhzVZvxLIR2aGsVZ29T_MOBjqc3dmMiFsh_Pr0oDz--5R34t8-ldgv3xcsb=w143-h110"
     },
     "col_3": {
-      "text": "A1 LJR",
+      "text": "Y3",
       "links": [
         {
-          "label": "A1 LJR",
-          "url": "https://oopbuy.com/product/weidian/4480462048?inviteCode=29TOTHGNH"
+          "label": "Y3",
+          "url": "https://oopbuy.com/product/weidian/7432227614?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "71$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0291"
+  }
 }

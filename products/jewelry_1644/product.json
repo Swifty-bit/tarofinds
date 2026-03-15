@@ -1,0 +1,61 @@
+{
+  "name": "Gucci Skull Bracelet",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/7261759850?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7261759850?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "43$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://doppel.fit/item/weidian/7261759850"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azi1C55GOkycECGTiZaERPmEh-I1DtCHjKQyULfWfV-chGju2AsQggc8mSBAjpc7ON5nu5FYnLo_NQLzG3VrMQUnATUkVCQcUavrp4NjCYKl5hqfsKNBrB7YeGVmaL2weOqItFRvPNN3t8R=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1644",
+  "raw_cells": {
+    "col_0": {
+      "text": "53"
+    },
+    "col_1": {
+      "text": "Gucci Skull Bracelet"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azi1C55GOkycECGTiZaERPmEh-I1DtCHjKQyULfWfV-chGju2AsQggc8mSBAjpc7ON5nu5FYnLo_NQLzG3VrMQUnATUkVCQcUavrp4NjCYKl5hqfsKNBrB7YeGVmaL2weOqItFRvPNN3t8R=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7261759850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "43$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://doppel.fit/item/weidian/7261759850"
+        }
+      ]
+    }
+  }
+}

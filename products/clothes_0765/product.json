@@ -1,30 +1,30 @@
 {
-  "name": "Diagonal Raised Fleece Sweatpants3 Colors",
+  "name": "Diagonal Raised Fleece Hoodie5 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "CPRepsCN",
   "best_batch_links": [
     {
       "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982419085895%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/982419085895?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/982415077923?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/982415077923?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F756743794908%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/756743794908?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "27$",
+  "best_price": "38$",
   "budget_price": "13$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://cprepscn.x.yupoo.com/albums/161314005?uid=1&isSubCate=false&referrercate=4543871"
+      "url": "https://cprepscn.x.yupoo.com/albums/161313208?uid=1&isSubCate=false&referrercate=4543871"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3l9XBgp6kLOhfHO-ohb5JZ2AcACUyvGXA7fTyhKnwihDfZh8UOMRmX9gLS4fghTMEGxGAJm3dfY6ODb-uGwTdQdeND-S9d3uwv8FK_4y-aH6el6-hko7M-IoKESApTO7emfkOqYXcMAML=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcJAHTXYRSgdvPEEzL0VK_4-vtBlgHY6K4gmZQhSUR5De0LYa220mhgZQJ92U5yQiG7Zc7V57I4TDggqxKMiPyCa2NDq5905Q_TXlNOa-5o3A3uHR678Q-_SiXSNWLeiAeuU0-Ws4fr9wj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0765",
   "raw_cells": {
     "col_0": {
-      "text": "256"
+      "text": "252"
     },
     "col_1": {
-      "text": "Diagonal Raised Fleece Sweatpants3 Colors"
+      "text": "Diagonal Raised Fleece Hoodie5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3l9XBgp6kLOhfHO-ohb5JZ2AcACUyvGXA7fTyhKnwihDfZh8UOMRmX9gLS4fghTMEGxGAJm3dfY6ODb-uGwTdQdeND-S9d3uwv8FK_4y-aH6el6-hko7M-IoKESApTO7emfkOqYXcMAML=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcJAHTXYRSgdvPEEzL0VK_4-vtBlgHY6K4gmZQhSUR5De0LYa220mhgZQJ92U5yQiG7Zc7V57I4TDggqxKMiPyCa2NDq5905Q_TXlNOa-5o3A3uHR678Q-_SiXSNWLeiAeuU0-Ws4fr9wj=w143-h110"
     },
     "col_3": {
       "text": "CPRepsCN",
       "links": [
         {
           "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/982419085895?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/982415077923?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,7 +65,7 @@
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "38$"
     },
     "col_6": {
       "text": "13$"
@@ -73,7 +75,7 @@
       "links": [
         {
           "label": "best",
-          "url": "https://cprepscn.x.yupoo.com/albums/161314005?uid=1&isSubCate=false&referrercate=4543871"
+          "url": "https://cprepscn.x.yupoo.com/albums/161313208?uid=1&isSubCate=false&referrercate=4543871"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0765"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "White Lobster",
+  "name": "Orange Lobster",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
+  "best_batch": "OG",
   "best_batch_links": [
     {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/taobao/7245075709?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "50$",
+  "best_price": "58$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxQ_lmdJi4xG2WcR51_n4XzZRsj2NFsqLZfrjJcoVM4cnH8QI-5J80tQM2g1jc2cUTyUuB7xSuMZ_dWU9zs131zts91WEtbOJacyDjOO5to3pWVRHwaJvz9JmDinbTYwnagwKCg3tes1Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayfqp0WfA9oRQCkeDB64PvVTfpWcL4VNnicbu1BdNKFcimjIrG2uJ0ek4FnvSxScrlQ2ZJgA0Zcf9rKYQMZC9GDAqIhQRplW9hcKX5RsOhJ3cdr4OIW5X_0boo-cKPEOeJ_P2akR6BG02JU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0110",
   "raw_cells": {
     "col_0": {
       "text": "119"
     },
     "col_1": {
-      "text": "White Lobster"
+      "text": "Orange Lobster"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxQ_lmdJi4xG2WcR51_n4XzZRsj2NFsqLZfrjJcoVM4cnH8QI-5J80tQM2g1jc2cUTyUuB7xSuMZ_dWU9zs131zts91WEtbOJacyDjOO5to3pWVRHwaJvz9JmDinbTYwnagwKCg3tes1Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayfqp0WfA9oRQCkeDB64PvVTfpWcL4VNnicbu1BdNKFcimjIrG2uJ0ek4FnvSxScrlQ2ZJgA0Zcf9rKYQMZC9GDAqIhQRplW9hcKX5RsOhJ3cdr4OIW5X_0boo-cKPEOeJ_P2akR6BG02JU=w143-h110"
     },
     "col_3": {
-      "text": "M",
+      "text": "OG",
       "links": [
         {
-          "label": "M",
-          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "50$"
+      "text": "58$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0110"
+  }
 }

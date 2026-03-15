@@ -1,92 +1,47 @@
 {
-  "name": "America's Cup17 Colours",
+  "name": "Gel-113026 Colors",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Koala/ZZZTOPXX/Repsun",
+  "best_batch": "Repsun",
   "best_batch_links": [
     {
-      "label": "Koala",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F847240172026%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/847240172026?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7319491133%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7319491133?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "Repsun",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243272818%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243272818?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7283398518?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7283398518?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "GD/budget",
-  "budget_batch_links": [
-    {
-      "label": "GD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7413632516%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7413632516?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F805831783764%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/805831783764?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "98$ / 99$ / 71$",
-  "budget_price": "41$ / 26$",
-  "pics_text": "41$ / 26$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "26$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyOLknkWTfTNlF_7-DZtuJh_kEZx2F7hrvttElqeihUEBKy_DSPQbRqNkxfkGvwcJZlHAGj_eLcxtEc7vAjtx1AAohM8HjMbiqg-CHX-0Lnr_-CyU9tvD-jMhDF7WFH4CJhhsr4tlphFg_W=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azb-cWf0k_o-Mz9rOIUjfA6o7ZAPRv-5ljjnC4E1d5YFHKgrYBgH1zK7ZDzJg_AwByCT9DyRx05VBAe1MqZ0O3fYYgRKfbCmojjcmoL_yDdjzfHst5RKx_1s80feLTU1ZqaohdxgCM9Eg1_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0471",
   "raw_cells": {
     "col_0": {
-      "text": "538"
+      "text": "536"
     },
     "col_1": {
-      "text": "America's Cup17 Colours"
+      "text": "Gel-113026 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyOLknkWTfTNlF_7-DZtuJh_kEZx2F7hrvttElqeihUEBKy_DSPQbRqNkxfkGvwcJZlHAGj_eLcxtEc7vAjtx1AAohM8HjMbiqg-CHX-0Lnr_-CyU9tvD-jMhDF7WFH4CJhhsr4tlphFg_W=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azb-cWf0k_o-Mz9rOIUjfA6o7ZAPRv-5ljjnC4E1d5YFHKgrYBgH1zK7ZDzJg_AwByCT9DyRx05VBAe1MqZ0O3fYYgRKfbCmojjcmoL_yDdjzfHst5RKx_1s80feLTU1ZqaohdxgCM9Eg1_=w143-h110"
     },
     "col_3": {
-      "text": "Koala/ZZZTOPXX/Repsun",
+      "text": "Repsun",
       "links": [
-        {
-          "label": "Koala",
-          "url": "https://oopbuy.com/product/1/847240172026?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/weidian/7319491133?inviteCode=29TOTHGNH"
-        },
         {
           "label": "Repsun",
-          "url": "https://oopbuy.com/product/2/7243272818?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "GD/budget",
-      "links": [
-        {
-          "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7413632516?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/805831783764?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7283398518?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "98$ / 99$ / 71$"
-    },
-    "col_6": {
-      "text": "41$ / 26$"
+      "text": "26$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0471"
+  }
 }

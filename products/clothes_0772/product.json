@@ -1,61 +1,61 @@
 {
-  "name": "DD ShellQuilted Google Hooded Down Gilet",
+  "name": "CP Company Extrafine Wool Goggle Balaclava Beanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CPRepsCN",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982395841898%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/982395841898?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/964834770634?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/964834770634?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "67$",
+  "best_price": "22$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://cprepscn.x.yupoo.com/albums/199750804?uid=1&isSubCate=false&referrercate=4543871"
+      "url": "https://noghost.x.yupoo.com/albums/176536729?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayt4jzclwI4jaBoRToLWiGnknB5m-v67KIlFzygjY5nL0sn41LpsY6g7gkvMRiO_MUy6n-BYRaY4i15mdAoNKIdfjuVuEpM5VN67Zk0q2lLY09YiDcJh-JmRip2ebB3X1xPwEZmL2c_UhYu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwpzOvAllG1WULnb9pxbxSwrDRWOeCJASxzTDgP9MPvyCOfQBhXub9SdaLweB_iM-X6x1-nQA3Y8KqSC1lTy0FSWmt5VV9gCFF0I8kBopBuCQxIcwLpPVPyevY557QqLBPOcVGyVMcMDP3Z=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0772",
   "raw_cells": {
     "col_0": {
-      "text": "263"
+      "text": "259"
     },
     "col_1": {
-      "text": "DD ShellQuilted Google Hooded Down Gilet"
+      "text": "CP Company Extrafine Wool Goggle Balaclava Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayt4jzclwI4jaBoRToLWiGnknB5m-v67KIlFzygjY5nL0sn41LpsY6g7gkvMRiO_MUy6n-BYRaY4i15mdAoNKIdfjuVuEpM5VN67Zk0q2lLY09YiDcJh-JmRip2ebB3X1xPwEZmL2c_UhYu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwpzOvAllG1WULnb9pxbxSwrDRWOeCJASxzTDgP9MPvyCOfQBhXub9SdaLweB_iM-X6x1-nQA3Y8KqSC1lTy0FSWmt5VV9gCFF0I8kBopBuCQxIcwLpPVPyevY557QqLBPOcVGyVMcMDP3Z=w143-h110"
     },
     "col_3": {
-      "text": "CPRepsCN",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/982395841898?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/1/964834770634?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "67$"
+      "text": "22$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://cprepscn.x.yupoo.com/albums/199750804?uid=1&isSubCate=false&referrercate=4543871"
+          "url": "https://noghost.x.yupoo.com/albums/176536729?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0772"
+  }
 }

@@ -1,61 +1,69 @@
 {
-  "name": "Ichiro Jacket",
+  "name": "Strip Side Zipped Sweatshirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "RepsKing",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F768691640137%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/768691640137?inviteCode=29TOTHGNH"
+      "label": "RepsKing",
+      "url": "https://litbuy.com/product/weidian/7467907697?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7467907697?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "20$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1976112522592870402?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://finds.ly/product/TAOBAO/795269327743"
+    },
+    {
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/161897761?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxzWFIR0WBCNFN0k3gOEgHv7OAaV1Ev64IHh8jECYGQkjmsnZi5xos-mExrkx7ZuhsbsHgUFNOY9nAoee6XEdbdDOt_saNwKKPotDEqspRxYmFDBJ6Arr8Qdh8SvsM7Fm4wEuHZ2TyogIUo=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awxj4SvBi4_jv-Rtjo5KHrj8gzoDCZk3ivLgRpocQk3DKIzEQFU_84hky29afLZIR9so9fj_a8wmlH25Fg2iXPHbwMdGJiVbMv3rgdTPq1zwTDEF7OzvCTTKBqIIWip9mpjjqsaafSQ1SBI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0795",
   "raw_cells": {
     "col_0": {
-      "text": "290"
+      "text": "286"
     },
     "col_1": {
-      "text": "Ichiro Jacket"
+      "text": "Strip Side Zipped Sweatshirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxzWFIR0WBCNFN0k3gOEgHv7OAaV1Ev64IHh8jECYGQkjmsnZi5xos-mExrkx7ZuhsbsHgUFNOY9nAoee6XEdbdDOt_saNwKKPotDEqspRxYmFDBJ6Arr8Qdh8SvsM7Fm4wEuHZ2TyogIUo=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awxj4SvBi4_jv-Rtjo5KHrj8gzoDCZk3ivLgRpocQk3DKIzEQFU_84hky29afLZIR9so9fj_a8wmlH25Fg2iXPHbwMdGJiVbMv3rgdTPq1zwTDEF7OzvCTTKBqIIWip9mpjjqsaafSQ1SBI=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "RepsKing",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/768691640137?inviteCode=29TOTHGNH"
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/weidian/7467907697?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "20$"
+    "col_5": {
+      "text": "38$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "QC Pics/pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1976112522592870402?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://finds.ly/product/TAOBAO/795269327743"
+        },
+        {
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/161897761?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0795"
+  }
 }

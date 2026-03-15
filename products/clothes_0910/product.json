@@ -1,61 +1,87 @@
 {
-  "name": "Palm AngelsCrocodile T-shirt",
+  "name": "Palm AngelsKillbear T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F963782761554%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/963782761554?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/964323688968?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/964323688968?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/676947774786?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/676947774786?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "29$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repsbro.x.yupoo.com/albums/205539846?uid=1&isSubCate=false&referrercate=4971731"
+      "label": "best",
+      "url": "https://repsbro.x.yupoo.com/albums/205540233?uid=1&isSubCate=false&referrercate=4971731"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ali1688/676947774786"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw7FA4JCOwVNsz0v5qqvX_2zoNFHiW3mAOmARiHisbsGggeQICvPDKEGkpw2B6nK2wOTl3u0KL6XKPsy_6Vixh3eU32MWGM93EOzIjEbNysXt5ob35us5-2WSd4lMCHULVvqo6teqAm-J-0=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azv7ytqgzVFLj7ZL4QnfrAzqBJe4geHHiErjM9yHLvZ4JRh7Keh-KUwwi3epNliPtkDX-vRsWDWU6JxgYiBM-j215rUAregrXaGMmX7-ZO0Ohd2gaLuKka8RGhwFeFjzl6rBcdOnEEytsan=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0910",
   "raw_cells": {
     "col_0": {
-      "text": "435"
+      "text": "431"
     },
     "col_1": {
-      "text": "Palm AngelsCrocodile T-shirt"
+      "text": "Palm AngelsKillbear T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw7FA4JCOwVNsz0v5qqvX_2zoNFHiW3mAOmARiHisbsGggeQICvPDKEGkpw2B6nK2wOTl3u0KL6XKPsy_6Vixh3eU32MWGM93EOzIjEbNysXt5ob35us5-2WSd4lMCHULVvqo6teqAm-J-0=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azv7ytqgzVFLj7ZL4QnfrAzqBJe4geHHiErjM9yHLvZ4JRh7Keh-KUwwi3epNliPtkDX-vRsWDWU6JxgYiBM-j215rUAregrXaGMmX7-ZO0Ohd2gaLuKka8RGhwFeFjzl6rBcdOnEEytsan=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/963782761554?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/964323688968?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/676947774786?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "29$"
     },
+    "col_6": {
+      "text": "6$"
+    },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repsbro.x.yupoo.com/albums/205539846?uid=1&isSubCate=false&referrercate=4971731"
+          "label": "best",
+          "url": "https://repsbro.x.yupoo.com/albums/205540233?uid=1&isSubCate=false&referrercate=4971731"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ali1688/676947774786"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0910"
+  }
 }

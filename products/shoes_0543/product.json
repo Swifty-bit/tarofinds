@@ -1,47 +1,56 @@
 {
-  "name": "HokaClifton 9",
+  "name": "CarharttSocks28 Styles",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "XC",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "XC",
-      "url": "https://oopbuy.com/product/weidian/7501701058?inviteCode=29TOTHGNH",
-      "original_url": null
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/705247780302?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "26$",
-  "budget_price": "",
-  "pics_text": "",
+  "best_price": "",
+  "budget_price": "1$",
+  "pics_text": "1$",
   "pics_links": [],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLFodkzJGU3hKjGgart-qwd1SjNeraAkm94iDL1C58dmONISGgMFc7O4Dw8Xl0IuV-CyNzZ3bAfFlju2bAcK-ry_D2FW0TdGgNhLLQ-Qtfvr8boiAgXlCqSP2Ov-LKhtEIzCPk-VI2yw=w143-h110",
+  "notes": "QC Pics",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayt_O3M78P0t5d_5h92YjlnfKIcBoHH6Kv2VcdkpaZC0unWsdghKG95sirPJ3vVGZbmJBHgLzwzjWiMbVIZVxQF3yjtkYOLbEZj6B3RH24nQxmo786xHXwDTmpx20p2PsEBAij0stml5SfJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0543",
   "raw_cells": {
     "col_0": {
-      "text": "592"
+      "text": "660"
     },
     "col_1": {
-      "text": "HokaClifton 9"
+      "text": "CarharttSocks28 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLFodkzJGU3hKjGgart-qwd1SjNeraAkm94iDL1C58dmONISGgMFc7O4Dw8Xl0IuV-CyNzZ3bAfFlju2bAcK-ry_D2FW0TdGgNhLLQ-Qtfvr8boiAgXlCqSP2Ov-LKhtEIzCPk-VI2yw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayt_O3M78P0t5d_5h92YjlnfKIcBoHH6Kv2VcdkpaZC0unWsdghKG95sirPJ3vVGZbmJBHgLzwzjWiMbVIZVxQF3yjtkYOLbEZj6B3RH24nQxmo786xHXwDTmpx20p2PsEBAij0stml5SfJ=w143-h110"
     },
-    "col_3": {
-      "text": "XC",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "XC",
-          "url": "https://oopbuy.com/product/weidian/7501701058?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "26$"
+    "col_6": {
+      "text": "1$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1915589868544143362?action=discord&cid=1840597081113280514"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0543"
+  }
 }

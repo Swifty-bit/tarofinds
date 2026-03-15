@@ -1,13 +1,13 @@
 {
-  "name": "Jordan 1 Keychain",
+  "name": "iPhoneSilicone Case",
   "category": "Room Accessories",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F691565252067%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/691565252067?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/657824769550?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/657824769550?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1913035592771407874?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058475167866882?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxegYIttCY1gKqyRw7YXOdf9nWYvlVJKWiVOm_0SahXZFqqnRpUdKPB0FFAjKywMZppS67A4dduSOBOOZs0XhwEARLMowCoBf-cdkWKql2HJRuUzYqfsaFURT3worC3j4bwyDgXDenGBw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwmiDHGHvDu79uWS9t0KnZdpP439q4Xlp-ZaYxmLqon7nKLGEp_HsBmWiBSjUoTiX_wDE-Oy5TwomWNbrLtFA496VdRap1MFTEy4VDQJdseG51_rQH6cCBsg3yjKg7PosbRx5OpOI4NxSYx=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1676",
   "raw_cells": {
     "col_0": {
-      "text": "42"
+      "text": "34"
     },
     "col_1": {
-      "text": "Jordan 1 Keychain"
+      "text": "iPhoneSilicone Case"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxegYIttCY1gKqyRw7YXOdf9nWYvlVJKWiVOm_0SahXZFqqnRpUdKPB0FFAjKywMZppS67A4dduSOBOOZs0XhwEARLMowCoBf-cdkWKql2HJRuUzYqfsaFURT3worC3j4bwyDgXDenGBw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwmiDHGHvDu79uWS9t0KnZdpP439q4Xlp-ZaYxmLqon7nKLGEp_HsBmWiBSjUoTiX_wDE-Oy5TwomWNbrLtFA496VdRap1MFTEy4VDQJdseG51_rQH6cCBsg3yjKg7PosbRx5OpOI4NxSYx=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/0/691565252067?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/657824769550?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1913035592771407874?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058475167866882?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1676"
+  }
 }

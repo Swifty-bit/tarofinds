@@ -1,47 +1,47 @@
 {
-  "name": "Strike Boots",
+  "name": "3XL",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWTOP",
+  "best_batch": "QCXC",
   "best_batch_links": [
     {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565909088%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565909088?inviteCode=29TOTHGNH"
+      "label": "QCXC",
+      "url": "https://litbuy.com/product/weidian/1997086226522092672233?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/1997086226522092672233?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "72$",
+  "best_price": "87$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDZJ-Whzx0r9Whg_tttJ2tuihnhAbIrHUgoMbH_okggH2ndLoWEBDq4dn-efH1zobiVcX8Z938WmscJ_CVPkH7FxcKnWyIMBDwPg-DH-XxjENF8DF_1i4QZJzfSt56Mr5yRMXiKun5RbPA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDgVd3BFWRpVfzrHTqK86-qR5r8tDh0E6WksHuRWAq6PiP889jlbqJfL4KVvX941fwAJvFA2PeFaZFeiFsuFRlLayQ_4wZ1x273_MgUjZpsk7eco9u_yFSw6QWAO6HBHG_XTbb2XdN7wdw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0430",
   "raw_cells": {
     "col_0": {
       "text": "489"
     },
     "col_1": {
-      "text": "Strike Boots"
+      "text": "3XL"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDZJ-Whzx0r9Whg_tttJ2tuihnhAbIrHUgoMbH_okggH2ndLoWEBDq4dn-efH1zobiVcX8Z938WmscJ_CVPkH7FxcKnWyIMBDwPg-DH-XxjENF8DF_1i4QZJzfSt56Mr5yRMXiKun5RbPA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDgVd3BFWRpVfzrHTqK86-qR5r8tDh0E6WksHuRWAq6PiP889jlbqJfL4KVvX941fwAJvFA2PeFaZFeiFsuFRlLayQ_4wZ1x273_MgUjZpsk7eco9u_yFSw6QWAO6HBHG_XTbb2XdN7wdw=w143-h110"
     },
     "col_3": {
-      "text": "WWTOP",
+      "text": "QCXC",
       "links": [
         {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7565909088?inviteCode=29TOTHGNH"
+          "label": "QCXC",
+          "url": "https://oopbuy.com/product/weidian/1997086226522092672233?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "72$"
+      "text": "87$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0430"
+  }
 }

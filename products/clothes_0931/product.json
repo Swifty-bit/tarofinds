@@ -1,61 +1,61 @@
 {
-  "name": "Syna TracksuitHoodie & ShortsGreen",
+  "name": "SynaT-Shirt & ShortsGrey",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT",
+  "best_batch": "elephant",
   "best_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653797433%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653797433?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7455875230?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7455875230?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "46$(SET)",
+  "best_price": "39$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://goat-official222.x.yupoo.com/albums/149230835?uid=1&isSubCate=false&referrercate=4215138"
+      "url": "https://elephant-factory.x.yupoo.com/albums/193862785?uid=1&isSubCate=false&referrercate=4564614"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AztR07cpKei0F7qahcQ3aF5Sw_1m39sKfnXPsZZlwlnStKGK0vaWoqORhXxIxbU1hvzhWsAmXdbKjuQ7sjDIzgpGs14Ary3yfpZAPK1ndHFy5k36upG69QC-qQ4shDwh1QptEOQu7FhxT9u=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxIqJCqm1r2ONTjXg63ZoqYM75b_mu1yiK3_QqarAyPJubCoxY2zipEwyu8mNzZZTEMuOkVf9il41GKKrTeJLwQ22hqg1rMQOWhlILO8L_by-duDyKRWXsjZKt6KAqYD7adIZP4awYUGg-y=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0931",
   "raw_cells": {
     "col_0": {
-      "text": "458"
+      "text": "454"
     },
     "col_1": {
-      "text": "Syna TracksuitHoodie & ShortsGreen"
+      "text": "SynaT-Shirt & ShortsGrey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AztR07cpKei0F7qahcQ3aF5Sw_1m39sKfnXPsZZlwlnStKGK0vaWoqORhXxIxbU1hvzhWsAmXdbKjuQ7sjDIzgpGs14Ary3yfpZAPK1ndHFy5k36upG69QC-qQ4shDwh1QptEOQu7FhxT9u=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxIqJCqm1r2ONTjXg63ZoqYM75b_mu1yiK3_QqarAyPJubCoxY2zipEwyu8mNzZZTEMuOkVf9il41GKKrTeJLwQ22hqg1rMQOWhlILO8L_by-duDyKRWXsjZKt6KAqYD7adIZP4awYUGg-y=w143-h110"
     },
     "col_3": {
-      "text": "GOAT",
+      "text": "elephant",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653797433?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7455875230?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$(SET)"
+      "text": "39$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://goat-official222.x.yupoo.com/albums/149230835?uid=1&isSubCate=false&referrercate=4215138"
+          "url": "https://elephant-factory.x.yupoo.com/albums/193862785?uid=1&isSubCate=false&referrercate=4564614"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0931"
+  }
 }

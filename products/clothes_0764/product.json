@@ -1,61 +1,61 @@
 {
-  "name": "CP CompanyCargo Pants",
+  "name": "Mercury Cotton Crepe Knit Sweater2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F773727106211%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/773727106211?inviteCode=29TOTHGNH"
+      "label": "CPRepsCN",
+      "url": "https://litbuy.com/product/weidian/981682410543?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/981682410543?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/ali1688/773727106211"
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/161314444?uid=1&isSubCate=false&referrercate=4543871"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AynVS8bN6B8pSKsoo5y9xzxeKmGV93KvvzQ38eQNM2ihvJ8wY1C0VNea_rrjc6gl3Xfzw5IydjRcIdHMo3kDg-8NAcnuGqWngNZBXq5usQtap3oYy67v3rYkhbUWM09fNFqga8jZeRAv5NG=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az8XHzH-o5ZSqEg-49tsFgZdY6GghEvsrgOjxqt9FDPWnnx_u7yftprM1Ewxjvl8DPr4dBVNuETdL9PnGitO0mGq2k2R0RUlK9OBrkmuwJrNPhlvnaue8bAdoa4fsDwEd86_I8QIajxsg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0764",
   "raw_cells": {
     "col_0": {
-      "text": "255"
+      "text": "251"
     },
     "col_1": {
-      "text": "CP CompanyCargo Pants"
+      "text": "Mercury Cotton Crepe Knit Sweater2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AynVS8bN6B8pSKsoo5y9xzxeKmGV93KvvzQ38eQNM2ihvJ8wY1C0VNea_rrjc6gl3Xfzw5IydjRcIdHMo3kDg-8NAcnuGqWngNZBXq5usQtap3oYy67v3rYkhbUWM09fNFqga8jZeRAv5NG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az8XHzH-o5ZSqEg-49tsFgZdY6GghEvsrgOjxqt9FDPWnnx_u7yftprM1Ewxjvl8DPr4dBVNuETdL9PnGitO0mGq2k2R0RUlK9OBrkmuwJrNPhlvnaue8bAdoa4fsDwEd86_I8QIajxsg=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "CPRepsCN",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/773727106211?inviteCode=29TOTHGNH"
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/981682410543?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "15$"
+    "col_5": {
+      "text": "36$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/ali1688/773727106211"
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/161314444?uid=1&isSubCate=false&referrercate=4543871"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0764"
+  }
 }

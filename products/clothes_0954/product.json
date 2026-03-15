@@ -1,61 +1,61 @@
 {
-  "name": "Ami Paris3D BadgeT-Shirt3 Colours",
+  "name": "Denim Tearsx ReadymadeFlared Sweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TOPAMI",
+  "best_batch": "Angelking",
   "best_batch_links": [
     {
-      "label": "TOPAMI",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F771697203151%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/771697203151?inviteCode=29TOTHGNH"
+      "label": "Angelking",
+      "url": "https://litbuy.com/product/weidian/1001967311797?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1001967311797?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "42$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://amiparis.x.yupoo.com/albums/172738884?uid=1"
+      "url": "https://louisangelking.x.yupoo.com/albums/220077314?uid=1&isSubCate=false&referrercate=5092630"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbFaAEje7Kmm15nEQWZK1RU8shOUxZHYS4KUyqGuDqz2N2DgIdM-KcEFPThqcshkJddN-XGHwXwAwIYSYf51JscgFwE_laCxO9pm8Sx6kxkK10XUX9PlQ2eR0r3IWkS0HmBFiV_GWgEnej=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzkNSpGqpGV6tN7OLnbrL0uJOfW9DoOvUpnVjTTZieVbqhS5vmkcuFF59PZ7gU4nswGDQS2Lj1iYoBSkBsB4k8I0AmlQLvxlyOaSC3gRc_oxCnbiAsERbHnl_rn_hgkEkbO2KtcgTSLJa7l=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0954",
   "raw_cells": {
     "col_0": {
-      "text": "485"
+      "text": "479"
     },
     "col_1": {
-      "text": "Ami Paris3D BadgeT-Shirt3 Colours"
+      "text": "Denim Tearsx ReadymadeFlared Sweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbFaAEje7Kmm15nEQWZK1RU8shOUxZHYS4KUyqGuDqz2N2DgIdM-KcEFPThqcshkJddN-XGHwXwAwIYSYf51JscgFwE_laCxO9pm8Sx6kxkK10XUX9PlQ2eR0r3IWkS0HmBFiV_GWgEnej=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzkNSpGqpGV6tN7OLnbrL0uJOfW9DoOvUpnVjTTZieVbqhS5vmkcuFF59PZ7gU4nswGDQS2Lj1iYoBSkBsB4k8I0AmlQLvxlyOaSC3gRc_oxCnbiAsERbHnl_rn_hgkEkbO2KtcgTSLJa7l=w143-h110"
     },
     "col_3": {
-      "text": "TOPAMI",
+      "text": "Angelking",
       "links": [
         {
-          "label": "TOPAMI",
-          "url": "https://oopbuy.com/product/1/771697203151?inviteCode=29TOTHGNH"
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/1001967311797?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "42$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://amiparis.x.yupoo.com/albums/172738884?uid=1"
+          "url": "https://louisangelking.x.yupoo.com/albums/220077314?uid=1&isSubCate=false&referrercate=5092630"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0954"
+  }
 }

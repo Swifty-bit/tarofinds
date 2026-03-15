@@ -1,33 +1,41 @@
 {
-  "name": "Toro Bravo",
+  "name": "Taupe Haze",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "66$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5PMhQqveEHEciC0E8kqaGU1MZby1erjakXy6rPhNNdFP9rJfnM417d6imh5bkKlS_rVTqYkeb-mTG4BrZOU07LdJcax-6XJ6b1mtSQi6jHFs_OvVmdzhaNIh8PR6OY2RUgcoFctDQQw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEpHM-iEzBT08QjntqBwrgzTxFbS3A-5wBHM4MSTCgCCiSdQPgdMs8oGBI8ANfH4eOjOoATSkWHHSsxdtciS1sNHZzo4ZKo7274c3foNsQlH0pCQcv0Z_oJdM1hK8W5TID6lB1008-QwMX=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0262",
   "raw_cells": {
     "col_0": {
       "text": "277"
     },
     "col_1": {
-      "text": "Toro Bravo"
+      "text": "Taupe Haze"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5PMhQqveEHEciC0E8kqaGU1MZby1erjakXy6rPhNNdFP9rJfnM417d6imh5bkKlS_rVTqYkeb-mTG4BrZOU07LdJcax-6XJ6b1mtSQi6jHFs_OvVmdzhaNIh8PR6OY2RUgcoFctDQQw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEpHM-iEzBT08QjntqBwrgzTxFbS3A-5wBHM4MSTCgCCiSdQPgdMs8oGBI8ANfH4eOjOoATSkWHHSsxdtciS1sNHZzo4ZKo7274c3foNsQlH0pCQcv0Z_oJdM1hK8W5TID6lB1008-QwMX=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "66$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0262"
+  }
 }

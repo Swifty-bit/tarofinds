@@ -1,13 +1,13 @@
 {
-  "name": "Pine Green",
+  "name": "Nina ChanelAbney Bicoastal",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "X",
+  "best_batch": "OG",
   "best_batch_links": [
     {
-      "label": "X",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312934130%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxwJxUGAW-QB1UJlbwb6bPhsZFXEt62Eb9bRJEfmuladUizqoL_HU4UnuCIei9oLjNl45zDlIoH41fo6ApAdJbEXziINblODySrSJxcbNsNrndjCfBxayRKzqyy2J_BooUeAuO9OQb-7A=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPymW0ayBcgT3AbbiSKHS7xdfANMW7V05GXebsl7M1qHOhr05GjcnAjDpQbDlxXdYIcABz89MPEkZ3VSCTc692vEFGTTCmxV7IU-CoVqSURnbT-u2b_IEnt4KJUKkkEyvKG7uJJXRT8Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0206",
   "raw_cells": {
     "col_0": {
       "text": "219"
     },
     "col_1": {
-      "text": "Pine Green"
+      "text": "Nina ChanelAbney Bicoastal"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxwJxUGAW-QB1UJlbwb6bPhsZFXEt62Eb9bRJEfmuladUizqoL_HU4UnuCIei9oLjNl45zDlIoH41fo6ApAdJbEXziINblODySrSJxcbNsNrndjCfBxayRKzqyy2J_BooUeAuO9OQb-7A=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPymW0ayBcgT3AbbiSKHS7xdfANMW7V05GXebsl7M1qHOhr05GjcnAjDpQbDlxXdYIcABz89MPEkZ3VSCTc692vEFGTTCmxV7IU-CoVqSURnbT-u2b_IEnt4KJUKkkEyvKG7uJJXRT8Q=w143-h110"
     },
     "col_3": {
-      "text": "X",
+      "text": "OG",
       "links": [
         {
-          "label": "X",
-          "url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "63$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0206"
+  }
 }

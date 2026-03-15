@@ -1,64 +1,87 @@
 {
-  "name": "Burberry Check ShortsMany Styles",
+  "name": "Burberry Check Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "Thunder",
+  "best_batch_links": [
+    {
+      "label": "Thunder",
+      "url": "https://litbuy.com/product/taobao/7474068277?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7474068277?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F784530207678%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/784530207678?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/6148247309?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6148247309?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
-  "pics_text": "QC Pics",
+  "best_price": "42$",
+  "budget_price": "15$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631432888631298?action=discord&cid=1840597081113280514"
+      "label": "best",
+      "url": "https://thethunder.x.yupoo.com/albums/163666771?uid=1&isSubCate=false&referrercate=3972377"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/WEIDIAN/6148247309"
     }
   ],
-  "notes": "It doesn't have \"Burberry\" inside tag",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxfMozaxqDXsADWVBGsND_6drcZGCfTYjtcduG-HbKIWQ4tnA_SkfFlcmG7rTOLimsM42SBpa_jCxBrjGm8zP9tVcYkv2em9DZxbkS6XPvBIWOzk7bVFC1N1qG4qHoQ0YpQ-EyW5pU7YJ4-=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJthLz3y5GoB09BjKst_eEC6m7o9LfjOWVdYhzc-PAFLrgou1HpoERFxHhjW-EQ5FPzVr6oe3UAoFbzeV4NcF5fE8tNwvlG2wUszazfH9JgSYTDE0HeeKwYLsSehxmh-OlNlQg14_aVw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1402",
   "raw_cells": {
     "col_0": {
-      "text": "1009"
+      "text": "1005"
     },
     "col_1": {
-      "text": "Burberry Check ShortsMany Styles"
+      "text": "Burberry Check Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxfMozaxqDXsADWVBGsND_6drcZGCfTYjtcduG-HbKIWQ4tnA_SkfFlcmG7rTOLimsM42SBpa_jCxBrjGm8zP9tVcYkv2em9DZxbkS6XPvBIWOzk7bVFC1N1qG4qHoQ0YpQ-EyW5pU7YJ4-=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJthLz3y5GoB09BjKst_eEC6m7o9LfjOWVdYhzc-PAFLrgou1HpoERFxHhjW-EQ5FPzVr6oe3UAoFbzeV4NcF5fE8tNwvlG2wUszazfH9JgSYTDE0HeeKwYLsSehxmh-OlNlQg14_aVw=w143-h110"
+    },
+    "col_3": {
+      "text": "Thunder",
+      "links": [
+        {
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/2/7474068277?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/784530207678?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/6148247309?inviteCode=29TOTHGNH"
         }
       ]
+    },
+    "col_5": {
+      "text": "42$"
     },
     "col_6": {
-      "text": "4$"
+      "text": "15$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631432888631298?action=discord&cid=1840597081113280514"
+          "label": "best",
+          "url": "https://thethunder.x.yupoo.com/albums/163666771?uid=1&isSubCate=false&referrercate=3972377"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/WEIDIAN/6148247309"
         }
       ]
-    },
-    "col_8": {
-      "text": "It doesn't have \"Burberry\" inside tag"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1402"
+  }
 }

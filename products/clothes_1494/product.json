@@ -1,47 +1,61 @@
 {
-  "name": "Rick OwensWizard HatZipped Hoodie",
+  "name": "ArcteryxBeanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PinkElephant",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "PinkElephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4369201567%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4369201567?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7234436696?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7234436696?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "52$",
-  "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2006252981918982146?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUQtwPkhmRh7qRTy7T1J29wRniYMWFTy_4Beg_D5umyVEH0nqaMpUmSjPhvi-J3WDfuAW7_UeFZQvsCJdJMVfX_nPNCtJAeskhF8-YENCqPFnfoEwyVZBxGAfWcpiLRwcIGHRWA1CWe0JT=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay9BNUv98y-SzdkX2YsL6_CxGu7irLZxUOtJemFcHNUTFmgrzVJ0bgu8BdkVXsVH6B10QCSHK2nfVxVxb7J3BP87d6-o6YYWsVh3LtjV1-aRmtcKbT9UPe7IAYgipJU-wcyPbR3H10I8A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1494",
   "raw_cells": {
     "col_0": {
-      "text": "1123"
+      "text": "1115"
     },
     "col_1": {
-      "text": "Rick OwensWizard HatZipped Hoodie"
+      "text": "ArcteryxBeanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUQtwPkhmRh7qRTy7T1J29wRniYMWFTy_4Beg_D5umyVEH0nqaMpUmSjPhvi-J3WDfuAW7_UeFZQvsCJdJMVfX_nPNCtJAeskhF8-YENCqPFnfoEwyVZBxGAfWcpiLRwcIGHRWA1CWe0JT=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay9BNUv98y-SzdkX2YsL6_CxGu7irLZxUOtJemFcHNUTFmgrzVJ0bgu8BdkVXsVH6B10QCSHK2nfVxVxb7J3BP87d6-o6YYWsVh3LtjV1-aRmtcKbT9UPe7IAYgipJU-wcyPbR3H10I8A=w143-h110"
     },
-    "col_3": {
-      "text": "PinkElephant",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "PinkElephant",
-          "url": "https://oopbuy.com/product/weidian/4369201567?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7234436696?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "52$"
+    "col_6": {
+      "text": "4$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006252981918982146?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1494"
+  }
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Ben & Jerry's Chunky Dunky",
+  "name": "Travis ScottCactus Jack",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "PK",
   "best_batch_links": [
     {
       "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7311869379%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7311869379?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7565956522?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565956522?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyMqHs_-e7T-ztEaGYHJ2W0AWw0yvGrCxBcRY_kX8MACoGBn3GkIMx9Rpkc5ms9pAhpQqMx6M-nH6v40FK2gj8xGDVYD6pUacEAOTJwrdZtq5ocoZ8PRgkGmk3AFZEKfOgsjwJ9qJVZHxEL=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyzNBQA0Qz3NkN4PoF7evhwZW_Hgvi25EKn-nrl86N3cZdoFB9XvDEWUIJOQTvN9p3cQBHeVvaxklcD349XxpSjST3AgjksTbMPFQ5OotbL76oQYxkVGbXDj6ayMvUu5U4zi0QBi2W9JA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0117",
   "raw_cells": {
     "col_0": {
       "text": "126"
     },
     "col_1": {
-      "text": "Ben & Jerry's Chunky Dunky"
+      "text": "Travis ScottCactus Jack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyMqHs_-e7T-ztEaGYHJ2W0AWw0yvGrCxBcRY_kX8MACoGBn3GkIMx9Rpkc5ms9pAhpQqMx6M-nH6v40FK2gj8xGDVYD6pUacEAOTJwrdZtq5ocoZ8PRgkGmk3AFZEKfOgsjwJ9qJVZHxEL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyzNBQA0Qz3NkN4PoF7evhwZW_Hgvi25EKn-nrl86N3cZdoFB9XvDEWUIJOQTvN9p3cQBHeVvaxklcD349XxpSjST3AgjksTbMPFQ5OotbL76oQYxkVGbXDj6ayMvUu5U4zi0QBi2W9JA=w143-h110"
     },
     "col_3": {
       "text": "PK",
       "links": [
         {
           "label": "PK",
-          "url": "https://oopbuy.com/product/2/7311869379?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7565956522?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "57$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0117"
+  }
 }

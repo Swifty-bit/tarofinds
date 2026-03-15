@@ -1,65 +1,47 @@
 {
-  "name": "Maison MargielaFuture Low",
+  "name": "Maison MargielaGATSPatent White",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "H12",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7337653369%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7337653369?inviteCode=29TOTHGNH"
+      "label": "H12",
+      "url": "https://litbuy.com/product/taobao/5069540059?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5069540059?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F705562729612%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "92$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyKXoLsmMpJkPIuPL6WMV79SeMfSlMieknsdo9bJ8XQwPduzu1QXM4VKLKGZKGFT_YKPJ5J0M6n5bsPzAB0YsPGILLuw0M7HQKsvhnA2fe-L4F7m1ciRwvgbBt-ci3MWPD1oRZvsS98Bg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzAF0_yjRGbL3ZQnzUSFTV3mu7qVQ1CMDH6Hwj-4D21W-zzeBpyziyUtcF-rC0BPowQpDKnpcGnLe8yRSR4aJtJ5jVIz7eku1u76I0QZdg8wC9ATtMn3jms37f8F0-Rwm3oxYro9hRXl6Iv=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0488",
   "raw_cells": {
     "col_0": {
       "text": "563"
     },
     "col_1": {
-      "text": "Maison MargielaFuture Low"
+      "text": "Maison MargielaGATSPatent White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyKXoLsmMpJkPIuPL6WMV79SeMfSlMieknsdo9bJ8XQwPduzu1QXM4VKLKGZKGFT_YKPJ5J0M6n5bsPzAB0YsPGILLuw0M7HQKsvhnA2fe-L4F7m1ciRwvgbBt-ci3MWPD1oRZvsS98Bg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzAF0_yjRGbL3ZQnzUSFTV3mu7qVQ1CMDH6Hwj-4D21W-zzeBpyziyUtcF-rC0BPowQpDKnpcGnLe8yRSR4aJtJ5jVIz7eku1u76I0QZdg8wC9ATtMn3jms37f8F0-Rwm3oxYro9hRXl6Iv=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "H12",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7337653369?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+          "label": "H12",
+          "url": "https://oopbuy.com/product/2/5069540059?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "92$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "59$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0488"
+  }
 }

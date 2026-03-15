@@ -1,77 +1,47 @@
 {
-  "name": "Yeezy Slides",
+  "name": "YeezyDesert Boot",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX/ZOK",
+  "best_batch": "WWTOP",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239230421%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239230421?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "ZOK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6357399660%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6357399660?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7565968442?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565968442?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "LW B GRADE",
-  "budget_batch_links": [
-    {
-      "label": "LW B GRADE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7613684637%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "18$",
-  "budget_price": "7$",
-  "pics_text": "7$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "69$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
-  "notes": "Size up 1.5/2 EU size for GX/ZOK/LW(slides are smaller)",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMJAK3_etmFQRfZjlJ3pYsvBuE6C0cLIeNLFJH7XjQdhpDkebp3oeWwR-ZRrHmU1OpgUf7kr87u5D3nYHZlbJcM4j5Sg5Ytj8ZK2QQGi6BnnZpQxe2kMy4hVhLT1XHCWukSiWyogdumCgW=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwmM6NBNym4iR5Sdz3_tDiLULnjktYpyoXL7PP5ArOnY0-SWSZ9Ozdwbw1D1fPueoOW5VVt73TVnOzPrz64xCeiHazC8bRsbAxWStRHGhEPpi8lvlrqAyIEqimLtIWIfOBE2JtQN5H4CTo6=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0346",
   "raw_cells": {
     "col_0": {
       "text": "377"
     },
     "col_1": {
-      "text": "Yeezy Slides"
+      "text": "YeezyDesert Boot"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMJAK3_etmFQRfZjlJ3pYsvBuE6C0cLIeNLFJH7XjQdhpDkebp3oeWwR-ZRrHmU1OpgUf7kr87u5D3nYHZlbJcM4j5Sg5Ytj8ZK2QQGi6BnnZpQxe2kMy4hVhLT1XHCWukSiWyogdumCgW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwmM6NBNym4iR5Sdz3_tDiLULnjktYpyoXL7PP5ArOnY0-SWSZ9Ozdwbw1D1fPueoOW5VVt73TVnOzPrz64xCeiHazC8bRsbAxWStRHGhEPpi8lvlrqAyIEqimLtIWIfOBE2JtQN5H4CTo6=w143-h110"
     },
     "col_3": {
-      "text": "GX/ZOK",
+      "text": "WWTOP",
       "links": [
         {
-          "label": "GX",
-          "url": "https://oopbuy.com/product/2/7239230421?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "ZOK",
-          "url": "https://oopbuy.com/product/2/6357399660?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "LW B GRADE",
-      "links": [
-        {
-          "label": "LW B GRADE",
-          "url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565968442?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
-    },
-    "col_6": {
-      "text": "7$"
-    },
-    "col_7": {
-      "text": "Size up 1.5/2 EU size for GX/ZOK/LW(slides are smaller)"
+      "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0346"
+  }
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Kobe Bryant",
+  "name": "Lucky Green",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "W",
+  "best_batch": "X",
   "best_batch_links": [
     {
-      "label": "W",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312934130%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "label": "X",
+      "url": "https://litbuy.com/product/weidian/7312934130?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,23 +17,25 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzHWzAzrVsXqPQnuqu3sNfMQo8sTKqZtm0Xgfd7hn7gpALlnAFFLD34spJ-htCGaIR1Oe6innwsNm1w3OZ1V9JdyONBWIoKnDi2fJQyYqfDfxeJsLxJkhKq3zJsAVi6bKacXDBt5axdFdV2=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxYgV0P267cl8hiHQ4wxxi0LS0BJJCZfqIRYMB3lWDAmtztPCfvufi6N22keC-UNIx4_DAD2AF9WGxfxHDj6fRvSRtULyVozyNfWsyeX7qXMpZQ-VL-HBV61KGQu7fi_Zyj0mmD9b5e0A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0208",
   "raw_cells": {
     "col_0": {
       "text": "221"
     },
     "col_1": {
-      "text": "Kobe Bryant"
+      "text": "Lucky Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzHWzAzrVsXqPQnuqu3sNfMQo8sTKqZtm0Xgfd7hn7gpALlnAFFLD34spJ-htCGaIR1Oe6innwsNm1w3OZ1V9JdyONBWIoKnDi2fJQyYqfDfxeJsLxJkhKq3zJsAVi6bKacXDBt5axdFdV2=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxYgV0P267cl8hiHQ4wxxi0LS0BJJCZfqIRYMB3lWDAmtztPCfvufi6N22keC-UNIx4_DAD2AF9WGxfxHDj6fRvSRtULyVozyNfWsyeX7qXMpZQ-VL-HBV61KGQu7fi_Zyj0mmD9b5e0A=w143-h110"
     },
     "col_3": {
-      "text": "W",
+      "text": "X",
       "links": [
         {
-          "label": "W",
+          "label": "X",
           "url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
         }
       ]
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "63$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0208"
+  }
 }

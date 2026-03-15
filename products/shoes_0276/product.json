@@ -1,33 +1,35 @@
 {
-  "name": "Forget Me Not",
+  "name": "Rare Air",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "68$",
+  "best_price": "71$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxOiviwxrSjxgYu6PC0dTcFpVWq7di3tOEPC9eZXMzEsQmLCEliCerscfALG7FJHGgeHzvglfdpvvCYmksZ8HmRl30ThrO4qk4t9rqOtM-Oo-zW882dRHYTw6zhpGYqlFxmRjudpFtmKNWg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLTw7H_N02gsB5YqnOHeBw8hER-ViEypPEIV0OB7Qsy9zVA9iM-ajMQFxn4HOBtGhPcFOU-OqSwY054rOyXOBJtnOnN5hM3PTwbKTTVCe0QNtiq4Ha3RNuMaYT6ciMEr_dSQE6cuq7aw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0276",
   "raw_cells": {
     "col_0": {
       "text": "291"
     },
     "col_1": {
-      "text": "Forget Me Not"
+      "text": "Rare Air"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxOiviwxrSjxgYu6PC0dTcFpVWq7di3tOEPC9eZXMzEsQmLCEliCerscfALG7FJHGgeHzvglfdpvvCYmksZ8HmRl30ThrO4qk4t9rqOtM-Oo-zW882dRHYTw6zhpGYqlFxmRjudpFtmKNWg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLTw7H_N02gsB5YqnOHeBw8hER-ViEypPEIV0OB7Qsy9zVA9iM-ajMQFxn4HOBtGhPcFOU-OqSwY054rOyXOBJtnOnN5hM3PTwbKTTVCe0QNtiq4Ha3RNuMaYT6ciMEr_dSQE6cuq7aw=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -39,9 +41,7 @@
       ]
     },
     "col_5": {
-      "text": "68$"
+      "text": "71$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0276"
+  }
 }

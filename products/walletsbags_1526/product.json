@@ -1,5 +1,5 @@
 {
-  "name": "DiorZipped Key Bag",
+  "name": "GoyardAlpin MMBackpack6 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F865706015154%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/865706015154?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/891444006508?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/891444006508?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "2$",
+  "budget_price": "12$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1979735328849223682?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1987344644557578242?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay5YZNC9j9MwC_3BmVEIH96-QODi-Eor2iM7OlbhiHpyfHwdpaszgynfN7j18iqwjlM-_iM-6SFY9dpzURjuyVZzsIfsSufrVTF-dSdIFTVvyaKyAwzQiYTjLmte-3vMA5kEBlIagl0Uo5L=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayie0Glb02jpPuj8ovkKO5_t2GIpQZ8NivwIqR_-vzEA9dyKWwII9lEQ1dCiIjpcPOCmF89RJRyWErXPUN998X1YQU3wnwQJ649qCg6HOYPGb8fsHHqjFOk4ww4QlNet7bQaLaxKac5h6rf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1526",
   "raw_cells": {
     "col_0": {
-      "text": "32"
+      "text": "28"
     },
     "col_1": {
-      "text": "DiorZipped Key Bag"
+      "text": "GoyardAlpin MMBackpack6 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay5YZNC9j9MwC_3BmVEIH96-QODi-Eor2iM7OlbhiHpyfHwdpaszgynfN7j18iqwjlM-_iM-6SFY9dpzURjuyVZzsIfsSufrVTF-dSdIFTVvyaKyAwzQiYTjLmte-3vMA5kEBlIagl0Uo5L=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayie0Glb02jpPuj8ovkKO5_t2GIpQZ8NivwIqR_-vzEA9dyKWwII9lEQ1dCiIjpcPOCmF89RJRyWErXPUN998X1YQU3wnwQJ649qCg6HOYPGb8fsHHqjFOk4ww4QlNet7bQaLaxKac5h6rf=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/865706015154?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/891444006508?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "2$"
+      "text": "12$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1979735328849223682?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1987344644557578242?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1526"
+  }
 }

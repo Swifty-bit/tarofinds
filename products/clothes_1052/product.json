@@ -1,61 +1,87 @@
 {
-  "name": "Hellstar777 Path 2 Paradise T-shirt",
+  "name": "HellstarOnlineT-Shirt White",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F806178136991%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/806178136991?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/814497144800?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/814497144800?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "30$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/802896750934?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "32$",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/166727045?uid=1"
+      "label": "best",
+      "url": "https://pikachushop.x.yupoo.com/albums/168830395?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNI0Ppn--q3kyPr2Us4q2baZR6iAqRhXFUZmE3zwxbKNHe8-onUInShBKwVRJMtgQZTQ65pvQYIilE2UtNb-yGrImezs1ok-gxHG4_54hJEJeqMn-VHt88wGRgdeCnBCk77QBG415t2g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyPhq3TD4OCQi89HQZXtfbpAvdiVgqC4dp0lH7SbKjYDfxnCe11Bp4URkeySxx8W_odBzZYp5wPDFlgSQoehAm6bA-mKllccHDzS7WGjzPnX9yLtbcXtk1CoTsr0x4fR0dy4gpYaZ82qeQG=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1052",
   "raw_cells": {
     "col_0": {
-      "text": "601"
+      "text": "597"
     },
     "col_1": {
-      "text": "Hellstar777 Path 2 Paradise T-shirt"
+      "text": "HellstarOnlineT-Shirt White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNI0Ppn--q3kyPr2Us4q2baZR6iAqRhXFUZmE3zwxbKNHe8-onUInShBKwVRJMtgQZTQ65pvQYIilE2UtNb-yGrImezs1ok-gxHG4_54hJEJeqMn-VHt88wGRgdeCnBCk77QBG415t2g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyPhq3TD4OCQi89HQZXtfbpAvdiVgqC4dp0lH7SbKjYDfxnCe11Bp4URkeySxx8W_odBzZYp5wPDFlgSQoehAm6bA-mKllccHDzS7WGjzPnX9yLtbcXtk1CoTsr0x4fR0dy4gpYaZ82qeQG=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/806178136991?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/814497144800?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "32$"
+    },
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/166727045?uid=1"
+          "label": "best",
+          "url": "https://pikachushop.x.yupoo.com/albums/168830395?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1052"
+  }
 }

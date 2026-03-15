@@ -1,61 +1,61 @@
 {
-  "name": "Chrome HeartsMatty BoySex Records Hoodie",
+  "name": "Chrome HeartsLong Sleeves TeeU.S.A.",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "tophotfashion",
   "best_batch_links": [
     {
       "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7572067860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7572067860?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7506454238?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7506454238?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "30$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://tophotfashion.x.yupoo.com/albums/212718667?uid=1&isSubCate=false&referrercate=4644883"
+      "url": "https://tophotfashion.x.yupoo.com/albums/170539029?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azke-DcW-xE7Nmq1yi9Wp-EWUGyzkvIPOZd2ttijZooMDD9xUD24VYcGGEL2yo8qXfm355-yK3ndBHQUA5tNgLbfGi83wGgShBtchikBg4vDSFmCINwqcMisTTU70tZe2Svj_9P1Sgl1LG8=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw7U05Uah45lHLncD0qKimqqVQpjYP5J_GbCyAexCX3-LC6bOVcVS_GCFOwV59mCLMVFmjfY5TqScsHJb2haqNedomM_E2OjasTOSDMNjoo_r40oeBOQkzxsqp9i14bqWghGutC8BBmfJ8l=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1353",
   "raw_cells": {
     "col_0": {
-      "text": "952"
+      "text": "948"
     },
     "col_1": {
-      "text": "Chrome HeartsMatty BoySex Records Hoodie"
+      "text": "Chrome HeartsLong Sleeves TeeU.S.A."
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azke-DcW-xE7Nmq1yi9Wp-EWUGyzkvIPOZd2ttijZooMDD9xUD24VYcGGEL2yo8qXfm355-yK3ndBHQUA5tNgLbfGi83wGgShBtchikBg4vDSFmCINwqcMisTTU70tZe2Svj_9P1Sgl1LG8=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw7U05Uah45lHLncD0qKimqqVQpjYP5J_GbCyAexCX3-LC6bOVcVS_GCFOwV59mCLMVFmjfY5TqScsHJb2haqNedomM_E2OjasTOSDMNjoo_r40oeBOQkzxsqp9i14bqWghGutC8BBmfJ8l=w143-h110"
     },
     "col_3": {
       "text": "tophotfashion",
       "links": [
         {
           "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/weidian/7572067860?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7506454238?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "30$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://tophotfashion.x.yupoo.com/albums/212718667?uid=1&isSubCate=false&referrercate=4644883"
+          "url": "https://tophotfashion.x.yupoo.com/albums/170539029?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1353"
+  }
 }

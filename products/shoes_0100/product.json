@@ -1,12 +1,12 @@
 {
-  "name": "Supreme 94Ocean Fog",
+  "name": "Supreme 94Ink",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "TOP/S2",
   "best_batch_links": [
     {
       "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7592540354%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7592540354?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7592540354?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUGAU0UICY8HodEMrhlevq_iXiOkYdd2P2kMPb5ze0rS-i8JZzph7R8fYQsMIoyFJhRw5IaOT2pQ6XIDlZAaqpW3fb_i1jz61POFmFFCUf5MFueqF4shVz7VsLtWXzKy-G-0pmW3lpaaRP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJx68mGbU2qh_gPAtUIIQBsARPWcFNRxbWEe5mUL4R0i1SsUIN-xwcEpHsnifcC6TLdACBrqXB-0eSDseLblaGb61CtlyYnq4ckAUmHQ3PhhCWH4-CPVRfpX8XtUAl-iBAavRpZTuMCfkT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0100",
   "raw_cells": {
     "col_0": {
       "text": "109"
     },
     "col_1": {
-      "text": "Supreme 94Ocean Fog"
+      "text": "Supreme 94Ink"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUGAU0UICY8HodEMrhlevq_iXiOkYdd2P2kMPb5ze0rS-i8JZzph7R8fYQsMIoyFJhRw5IaOT2pQ6XIDlZAaqpW3fb_i1jz61POFmFFCUf5MFueqF4shVz7VsLtWXzKy-G-0pmW3lpaaRP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJx68mGbU2qh_gPAtUIIQBsARPWcFNRxbWEe5mUL4R0i1SsUIN-xwcEpHsnifcC6TLdACBrqXB-0eSDseLblaGb61CtlyYnq4ckAUmHQ3PhhCWH4-CPVRfpX8XtUAl-iBAavRpZTuMCfkT=w143-h110"
     },
     "col_3": {
       "text": "TOP/S2",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "57$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0100"
+  }
 }

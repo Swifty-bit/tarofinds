@@ -1,61 +1,61 @@
 {
-  "name": "Ralph LaurenWOMANV-Neck Sweater8 Colours",
+  "name": "Ralph Lauren FW24Sweatpants4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Repkingdom",
   "best_batch_links": [
     {
       "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7205906045%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7205906045?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7289350360?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7289350360?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "25$",
+  "best_price": "27$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/154082446?uid=1"
+      "url": "https://repkingdom.x.yupoo.com/albums/177690045?uid=1&isSubCate=false&referrercate=4373091"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxsxD-UqE4-9uQoiRr3YCwVpMWCjWcG3PSSP2nCWBlD8ztevnRMmP3C_pVIeznZE0UxZEiI3UPEmeolAAZdWaMYLtKno8JrFhBtoUZFtAmvclnx9AiNXeJsjxoJ7ktUbYak8W2i2rs5jfR8=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyhbMDUMdY6w7R-CrdHdkNcSPsijSOBn5RUCeZXe79NkDwFeUXC2qA3Ka4GL01_tzNRrXAiT85UWBrjIeAtpeodfVCfx5S-MtMPSJ_D3COVfb7K7bOW6-NK-VQPt0lcwgystb-tCjtThrow=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0629",
   "raw_cells": {
     "col_0": {
-      "text": "100"
+      "text": "96"
     },
     "col_1": {
-      "text": "Ralph LaurenWOMANV-Neck Sweater8 Colours"
+      "text": "Ralph Lauren FW24Sweatpants4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxsxD-UqE4-9uQoiRr3YCwVpMWCjWcG3PSSP2nCWBlD8ztevnRMmP3C_pVIeznZE0UxZEiI3UPEmeolAAZdWaMYLtKno8JrFhBtoUZFtAmvclnx9AiNXeJsjxoJ7ktUbYak8W2i2rs5jfR8=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyhbMDUMdY6w7R-CrdHdkNcSPsijSOBn5RUCeZXe79NkDwFeUXC2qA3Ka4GL01_tzNRrXAiT85UWBrjIeAtpeodfVCfx5S-MtMPSJ_D3COVfb7K7bOW6-NK-VQPt0lcwgystb-tCjtThrow=w143-h110"
     },
     "col_3": {
       "text": "Repkingdom",
       "links": [
         {
           "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/7205906045?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7289350360?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "25$"
+      "text": "27$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/154082446?uid=1"
+          "url": "https://repkingdom.x.yupoo.com/albums/177690045?uid=1&isSubCate=false&referrercate=4373091"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0629"
+  }
 }

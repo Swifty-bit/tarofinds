@@ -1,87 +1,61 @@
 {
-  "name": "GucciOphidia Small Shoulder Bag",
+  "name": "DiorSaddle Bag Mini",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "MissChen",
-  "best_batch_links": [
-    {
-      "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7482451106%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7482451106?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F783219021617%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/783219021617?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/743655801823?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/743655801823?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "107$",
-  "budget_price": "20$",
-  "pics_text": "best/budget",
+  "best_price": "",
+  "budget_price": "22$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1951449031770198019?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1972486933227069441?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2006563884859740161?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay2FKfYhZ0m3kiAYaAvGnM-T3vagYCZzyjGytlPk3hRy02TkMRUR-gneY5gX0jj8m29HMzKlueYC7g4Ubtq3zT54NfErntc8aJ8PYi9d0FplMZoVDBjZIFFxkIEbc38ouFFzzmkGCKnZgz6=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzotkFgU8NAV-8KcjJqOWV2jdgQYCelfsIcRAHaw-Bt67tgwUsQZSuhkJu3DXLmrVVsbWwRErmleWr3AGwIM_Mkciy7fwQUxSsXY0ZT9XuJbbHnYDhp2_CE60d9zKgLP_hbYMnC0x3-HFdq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1534",
   "raw_cells": {
     "col_0": {
-      "text": "40"
+      "text": "36"
     },
     "col_1": {
-      "text": "GucciOphidia Small Shoulder Bag"
+      "text": "DiorSaddle Bag Mini"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay2FKfYhZ0m3kiAYaAvGnM-T3vagYCZzyjGytlPk3hRy02TkMRUR-gneY5gX0jj8m29HMzKlueYC7g4Ubtq3zT54NfErntc8aJ8PYi9d0FplMZoVDBjZIFFxkIEbc38ouFFzzmkGCKnZgz6=w143-h110"
-    },
-    "col_3": {
-      "text": "MissChen",
-      "links": [
-        {
-          "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/7482451106?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzotkFgU8NAV-8KcjJqOWV2jdgQYCelfsIcRAHaw-Bt67tgwUsQZSuhkJu3DXLmrVVsbWwRErmleWr3AGwIM_Mkciy7fwQUxSsXY0ZT9XuJbbHnYDhp2_CE60d9zKgLP_hbYMnC0x3-HFdq=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/783219021617?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/743655801823?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "107$"
-    },
     "col_6": {
-      "text": "20$"
+      "text": "22$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1951449031770198019?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1972486933227069441?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006563884859740161?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1534"
+  }
 }

@@ -1,65 +1,47 @@
 {
-  "name": "Chain Reaction",
+  "name": "Vintage Sneakers",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Koala",
+  "best_batch": "XV",
   "best_batch_links": [
     {
-      "label": "Koala",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F764921856787%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/764921856787?inviteCode=29TOTHGNH"
+      "label": "XV",
+      "url": "https://litbuy.com/product/taobao/5620515183?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5620515183?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F674780446324%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/674780446324?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "90$",
-  "budget_price": "60$",
-  "pics_text": "60$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "92$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqH2wE6HpqKhiYJPFJhuV1RuX2DW4RxORyEt3MY6mEDtIZ8ZwKwuUhv4Qz_30o1besCS6aCMTsKvbAqDMzebUrHhBEFV50xIfrykJD4vP4s5A7gcWog8W6NJjmniddm4ZCE3B8GATY7Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxHxe5h5aI8olRf3j1qjLCyQjlbWWgsxpH2UrhYE3l3dJu3IsDA8JHw9ENdELtdmlTdtFTAiQGsOcs7JkOvSfSeVhWwUVpFwzbAJJUgA_hpKPeBvq0sMx5SPP2UQT6um5ItEr-M4i10PrAs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0406",
   "raw_cells": {
     "col_0": {
-      "text": "461"
+      "text": "457"
     },
     "col_1": {
-      "text": "Chain Reaction"
+      "text": "Vintage Sneakers"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqH2wE6HpqKhiYJPFJhuV1RuX2DW4RxORyEt3MY6mEDtIZ8ZwKwuUhv4Qz_30o1besCS6aCMTsKvbAqDMzebUrHhBEFV50xIfrykJD4vP4s5A7gcWog8W6NJjmniddm4ZCE3B8GATY7Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxHxe5h5aI8olRf3j1qjLCyQjlbWWgsxpH2UrhYE3l3dJu3IsDA8JHw9ENdELtdmlTdtFTAiQGsOcs7JkOvSfSeVhWwUVpFwzbAJJUgA_hpKPeBvq0sMx5SPP2UQT6um5ItEr-M4i10PrAs=w143-h110"
     },
     "col_3": {
-      "text": "Koala",
+      "text": "XV",
       "links": [
         {
-          "label": "Koala",
-          "url": "https://oopbuy.com/product/1/764921856787?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/1/674780446324?inviteCode=29TOTHGNH"
+          "label": "XV",
+          "url": "https://oopbuy.com/product/2/5620515183?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "90$"
-    },
-    "col_6": {
-      "text": "60$"
+      "text": "92$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0406"
+  }
 }

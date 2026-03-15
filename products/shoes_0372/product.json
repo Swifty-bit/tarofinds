@@ -1,47 +1,74 @@
 {
-  "name": "Out Of OfficeVulcanized High7 Colours",
+  "name": "Out Of Office40+ Colours",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OW STUDIO",
+  "best_batch": "GZ/Shark",
   "best_batch_links": [
     {
-      "label": "OW STUDIO",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F711257320393%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/711257320393?inviteCode=29TOTHGNH"
+      "label": "GZ",
+      "url": "https://litbuy.com/product/weidian/7565966270?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Shark",
+      "url": "https://litbuy.com/product/weidian/7614176437?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "81$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "YC",
+  "budget_batch_links": [
+    {
+      "label": "YC",
+      "url": "https://litbuy.com/product/weidian/7614207865?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "52$ / 50$",
+  "budget_price": "33$",
+  "pics_text": "33$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUyP0_xZr3v4LpwF0_VX0LUv9vPqL3LT4dvp_eIs184HCzjOn897_tVQdcUoFBXSxmmsZC7vpM-1KkJxIY_z4l679xldkp75JoKh6HOokKgRG5TVgIlDTKQySGsgbHkx0eNyduNK7F2dkf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azm5u8xZr5Kii23uJ7yQJJTBHbXw242zTuzENEkz2_3iXbsdpDHKJb0jEwKtWg5QqXLHHlVczL81-QVZqu8ReaYDDwSCEPsjjzampRkGfae6tEZW66YDshBleNy6um1iiE3t6og_xIV62pt=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0372",
   "raw_cells": {
     "col_0": {
       "text": "411"
     },
     "col_1": {
-      "text": "Out Of OfficeVulcanized High7 Colours"
+      "text": "Out Of Office40+ Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUyP0_xZr3v4LpwF0_VX0LUv9vPqL3LT4dvp_eIs184HCzjOn897_tVQdcUoFBXSxmmsZC7vpM-1KkJxIY_z4l679xldkp75JoKh6HOokKgRG5TVgIlDTKQySGsgbHkx0eNyduNK7F2dkf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azm5u8xZr5Kii23uJ7yQJJTBHbXw242zTuzENEkz2_3iXbsdpDHKJb0jEwKtWg5QqXLHHlVczL81-QVZqu8ReaYDDwSCEPsjjzampRkGfae6tEZW66YDshBleNy6um1iiE3t6og_xIV62pt=w143-h110"
     },
     "col_3": {
-      "text": "OW STUDIO",
+      "text": "GZ/Shark",
       "links": [
         {
-          "label": "OW STUDIO",
-          "url": "https://oopbuy.com/product/1/711257320393?inviteCode=29TOTHGNH"
+          "label": "GZ",
+          "url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Shark",
+          "url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "YC",
+      "links": [
+        {
+          "label": "YC",
+          "url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "81$"
+      "text": "52$ / 50$"
+    },
+    "col_6": {
+      "text": "33$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0372"
+  }
 }

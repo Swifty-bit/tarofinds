@@ -1,61 +1,61 @@
 {
-  "name": "Canada GooseCrofton Puffer",
+  "name": "Canada GooseChilliwackRed Lable",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "palmmoose",
-  "budget_batch_links": [
+  "best_batch": "TopGoosey",
+  "best_batch_links": [
     {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F661616586720%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/661616586720?inviteCode=29TOTHGNH"
+      "label": "TopGoosey",
+      "url": "https://litbuy.com/product/weidian/1002990375871?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1002990375871?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "86$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "214$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1848635474132402177?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192727791?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxEptIUZC9JPt_W6Bh3fLeesNmsOBReRCNrY_1dyxrMvB-VTsLw2asCX7kzBOrOhqKARa3vNyT9H9KipZndU_VroDFOgPGw61EinC81XLQpJKT99ilmFzr3Jw3mqLakGR09UWFnmkQaVA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwoM7s9oARtmsRe9ehWp4vg702KKGZ8lN3cjR20EFNH95psKratWspfIQrq1Hsica14QDau62t9hwtK_3C85VtpBsMnVeWkRHT-zM4rmJOYp3o7pHM365RUBgfL9S1TdlwoR7-jclsPk2kv=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1478",
   "raw_cells": {
     "col_0": {
-      "text": "1099"
+      "text": "1095"
     },
     "col_1": {
-      "text": "Canada GooseCrofton Puffer"
+      "text": "Canada GooseChilliwackRed Lable"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxEptIUZC9JPt_W6Bh3fLeesNmsOBReRCNrY_1dyxrMvB-VTsLw2asCX7kzBOrOhqKARa3vNyT9H9KipZndU_VroDFOgPGw61EinC81XLQpJKT99ilmFzr3Jw3mqLakGR09UWFnmkQaVA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwoM7s9oARtmsRe9ehWp4vg702KKGZ8lN3cjR20EFNH95psKratWspfIQrq1Hsica14QDau62t9hwtK_3C85VtpBsMnVeWkRHT-zM4rmJOYp3o7pHM365RUBgfL9S1TdlwoR7-jclsPk2kv=w143-h110"
     },
-    "col_4": {
-      "text": "palmmoose",
+    "col_3": {
+      "text": "TopGoosey",
       "links": [
         {
-          "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/661616586720?inviteCode=29TOTHGNH"
+          "label": "TopGoosey",
+          "url": "https://oopbuy.com/product/1/1002990375871?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "86$"
+    "col_5": {
+      "text": "214$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1848635474132402177?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192727791?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1478"
+  }
 }

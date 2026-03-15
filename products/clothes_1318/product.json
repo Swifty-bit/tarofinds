@@ -1,51 +1,57 @@
 {
-  "name": "Rhinestone Logo Hoodie White",
+  "name": "Bape Shark Head Camouflage Zipper Sweater18 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PikaPikaGo",
+  "best_batch": "MZC",
   "best_batch_links": [
     {
-      "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F823014410350%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/823014410350?inviteCode=29TOTHGNH"
+      "label": "MZC",
+      "url": "https://litbuy.com/product/weidian/968489236130?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/968489236130?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/894585422680?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/894585422680?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "21$(sale)",
-  "budget_price": "14$",
-  "pics_text": "pics",
+  "best_price": "63$",
+  "budget_price": "13$",
+  "pics_text": "mzc/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/177006767?uid=1"
+      "label": "mzc",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2020375671639986178?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2032348028428439553?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzoLdmk8eL4m9j1p_bN5PWKjYUVNr4-bMASDCvinxg_L4c6fSLgavUvIU97EONjWH0HAw9Br1vnevoWoSI2D-FcrcpXlYOAK91wszWPrvXrfjQdvN0ks3b-66JQGUwqj-c3vvDjXVu9P5Hk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFjdwZZKkcY6xA2RG468kWn-xYbLd-U0KOYhYME3e4VlnsSvrsgp-BgNAPZM82E5hvOrCGYsX-WGBYPfsKt8SVM4OpmblnVDgUvZhM66RNLGgkXf_ZKcqde5UmdwHM_kBwycC3VBodIjAZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1318",
   "raw_cells": {
     "col_0": {
-      "text": "913"
+      "text": "907"
     },
     "col_1": {
-      "text": "Rhinestone Logo Hoodie White"
+      "text": "Bape Shark Head Camouflage Zipper Sweater18 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzoLdmk8eL4m9j1p_bN5PWKjYUVNr4-bMASDCvinxg_L4c6fSLgavUvIU97EONjWH0HAw9Br1vnevoWoSI2D-FcrcpXlYOAK91wszWPrvXrfjQdvN0ks3b-66JQGUwqj-c3vvDjXVu9P5Hk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFjdwZZKkcY6xA2RG468kWn-xYbLd-U0KOYhYME3e4VlnsSvrsgp-BgNAPZM82E5hvOrCGYsX-WGBYPfsKt8SVM4OpmblnVDgUvZhM66RNLGgkXf_ZKcqde5UmdwHM_kBwycC3VBodIjAZ=w143-h110"
     },
     "col_3": {
-      "text": "PikaPikaGo",
+      "text": "MZC",
       "links": [
         {
-          "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/823014410350?inviteCode=29TOTHGNH"
+          "label": "MZC",
+          "url": "https://oopbuy.com/product/1/968489236130?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,26 +60,28 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/894585422680?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "21$(sale)"
+      "text": "63$"
     },
     "col_6": {
-      "text": "14$"
+      "text": "13$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "mzc/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/177006767?uid=1"
+          "label": "mzc",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2020375671639986178?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2032348028428439553?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1318"
+  }
 }

@@ -1,87 +1,61 @@
 {
-  "name": "Ralph LaurenBaseball Cap",
+  "name": "Ralph Lauren Vest",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
-  "best_batch_links": [
-    {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6991067503%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6991067503?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F842017633078%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/842017633078?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/963485656126?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/963485656126?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "11$",
-  "budget_price": "6$",
-  "pics_text": "best/budget",
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://repkingdom.x.yupoo.com/albums/151683572?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1917746190047297537?action=discord&cid=1840597081113280514"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1991333068475027457?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxKp595_GwdHvvBbiBW3fjwCZhj25PI47v56X6jZ9PmXgK0yEBsxxTh5pMdkY8JI0eYr-gfK962l51WI7QM-2QT8-qtasSyjVqlG2cN2rTwcFn5jzc_5UeDmnvpZlqddBWNhwEl1MeQ61wZ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyB7fSys9wLctV2gEaEBEkFoggwHEfsKdd99io_xpLpj-2NllJwZWgoNGk5Tjc3AwoqP2uTMf7VHvu7JCP5fCnF_NjMTUMEWaaW9Sq0Cg0OzCUEuQHvezazTcc4hpYSpusys620verFmQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0637",
   "raw_cells": {
     "col_0": {
-      "text": "108"
+      "text": "104"
     },
     "col_1": {
-      "text": "Ralph LaurenBaseball Cap"
+      "text": "Ralph Lauren Vest"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxKp595_GwdHvvBbiBW3fjwCZhj25PI47v56X6jZ9PmXgK0yEBsxxTh5pMdkY8JI0eYr-gfK962l51WI7QM-2QT8-qtasSyjVqlG2cN2rTwcFn5jzc_5UeDmnvpZlqddBWNhwEl1MeQ61wZ=w143-h110"
-    },
-    "col_3": {
-      "text": "Repkingdom",
-      "links": [
-        {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/6991067503?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyB7fSys9wLctV2gEaEBEkFoggwHEfsKdd99io_xpLpj-2NllJwZWgoNGk5Tjc3AwoqP2uTMf7VHvu7JCP5fCnF_NjMTUMEWaaW9Sq0Cg0OzCUEuQHvezazTcc4hpYSpusys620verFmQ=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/842017633078?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/963485656126?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "11$"
-    },
     "col_6": {
-      "text": "6$"
+      "text": "15$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://repkingdom.x.yupoo.com/albums/151683572?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1917746190047297537?action=discord&cid=1840597081113280514"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1991333068475027457?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0637"
+  }
 }

@@ -6,42 +6,82 @@
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7267032436%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7267032436?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7260720143?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "37$",
-  "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/2726744811?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/2726744811?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "54$",
+  "budget_price": "8$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1957609064906711041?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzQKjaptaj3p6PWk28Ao-MiOkY8FhNn7pQ1TUv_zpXIEHBB8RYTQadqFpcX2-djJ78py8v2olCqlANogj0Gh2zhw8nq6Df8201CkVS99nLDWtNTTs6OjSlRsxjBGTfegI9jx5YXC_zJqYjh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8d3FyPht9J76tGz9O4QXj-MX9YvPSTJSIyUtWRHpFSMdBMwkQpEKVOk6vajVr4tVD9aX-0fR8T4__h-xbUU4C__yePGXFKrgvF_6MpfB1D-826RtT1xGQ0NE7pytKxaDA7aaCoqeg8Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1614",
   "raw_cells": {
     "col_0": {
-      "text": "28"
+      "text": "23"
     },
     "col_1": {
       "text": "Louis VuittonBracelet"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzQKjaptaj3p6PWk28Ao-MiOkY8FhNn7pQ1TUv_zpXIEHBB8RYTQadqFpcX2-djJ78py8v2olCqlANogj0Gh2zhw8nq6Df8201CkVS99nLDWtNTTs6OjSlRsxjBGTfegI9jx5YXC_zJqYjh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8d3FyPht9J76tGz9O4QXj-MX9YvPSTJSIyUtWRHpFSMdBMwkQpEKVOk6vajVr4tVD9aX-0fR8T4__h-xbUU4C__yePGXFKrgvF_6MpfB1D-826RtT1xGQ0NE7pytKxaDA7aaCoqeg8Q=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7267032436?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/2726744811?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "37$"
+      "text": "54$"
+    },
+    "col_6": {
+      "text": "8$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://oopbuy.com/product/weidian/7260720143?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1957609064906711041?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1614"
+  }
 }

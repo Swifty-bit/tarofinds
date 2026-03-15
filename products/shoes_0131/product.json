@@ -1,12 +1,12 @@
 {
-  "name": "Molly Powerpuff",
+  "name": "Lolly Powerpuff",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "TOP/S2",
   "best_batch_links": [
     {
       "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251543921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251543921?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzwB4ag31bSuH9dJ1a9_4ZTlzUj0hfls8JGgCVUAH1vlJs8W4KKI8Hct1JzH1sr6NkvnqoGr5YCbja65NamgSSTaGZmlEf2rRqsz-Go41wrsWsMidy_qfAYuYdSq8AjhOqiXh5Q15ILrgks=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwdVaCOWGjlbN44rheZWRYeKmeWuvMpCVMO7he9epVztZGaXu7-S6ss01F66imo8cmngQI2da6yODEHCcqcKXQ5_fl2neU8wRFmQRgrLOWzjj4Ege4hTcr31__ifRzqWA8-X-Si7dNEfY5t=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0131",
   "raw_cells": {
     "col_0": {
       "text": "140"
     },
     "col_1": {
-      "text": "Molly Powerpuff"
+      "text": "Lolly Powerpuff"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzwB4ag31bSuH9dJ1a9_4ZTlzUj0hfls8JGgCVUAH1vlJs8W4KKI8Hct1JzH1sr6NkvnqoGr5YCbja65NamgSSTaGZmlEf2rRqsz-Go41wrsWsMidy_qfAYuYdSq8AjhOqiXh5Q15ILrgks=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwdVaCOWGjlbN44rheZWRYeKmeWuvMpCVMO7he9epVztZGaXu7-S6ss01F66imo8cmngQI2da6yODEHCcqcKXQ5_fl2neU8wRFmQRgrLOWzjj4Ege4hTcr31__ifRzqWA8-X-Si7dNEfY5t=w143-h110"
     },
     "col_3": {
       "text": "TOP/S2",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "47$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0131"
+  }
 }

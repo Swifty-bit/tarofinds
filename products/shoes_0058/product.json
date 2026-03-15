@@ -1,56 +1,47 @@
 {
-  "name": "P6000",
+  "name": "Air More Uptempo Slide",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Repsun/CS",
+  "best_batch": "TMF",
   "best_batch_links": [
     {
-      "label": "Repsun",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7283111701%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7283111701?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "CS",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7388600956%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7388600956?inviteCode=29TOTHGNH"
+      "label": "TMF",
+      "url": "https://litbuy.com/product/weidian/6276084325?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/6276084325?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "35$ / 31$",
+  "best_price": "25$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay4x07bW0_waHCsYNEDaoEuyUdQ4kHk7mNVGhrHGjIJtCxhE6B85-7BlOeJy7XihW91Ubd_EYSKQgIxbTXPw1yXMCsJBIWNRp0ULMGRiGBNM5t1W9lFS6MJWl9VVnGVfCq1Qrf3XWLce7Aj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AypO7kHgfX7LFrvoauyh5fnZP0o2CnPCg1euaaFsP8_aVqQW0E0SzA19pJEmHw9S_F0GLY1amMAgNQdZp256Fd94UmCbqZ1XeNN5TXPmcWgvQRzzMSdluzY6o_NePAxTKiuYQPwNB2wwQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0058",
   "raw_cells": {
     "col_0": {
       "text": "65"
     },
     "col_1": {
-      "text": "P6000"
+      "text": "Air More Uptempo Slide"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay4x07bW0_waHCsYNEDaoEuyUdQ4kHk7mNVGhrHGjIJtCxhE6B85-7BlOeJy7XihW91Ubd_EYSKQgIxbTXPw1yXMCsJBIWNRp0ULMGRiGBNM5t1W9lFS6MJWl9VVnGVfCq1Qrf3XWLce7Aj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AypO7kHgfX7LFrvoauyh5fnZP0o2CnPCg1euaaFsP8_aVqQW0E0SzA19pJEmHw9S_F0GLY1amMAgNQdZp256Fd94UmCbqZ1XeNN5TXPmcWgvQRzzMSdluzY6o_NePAxTKiuYQPwNB2wwQ=w143-h110"
     },
     "col_3": {
-      "text": "Repsun/CS",
+      "text": "TMF",
       "links": [
         {
-          "label": "Repsun",
-          "url": "https://oopbuy.com/product/2/7283111701?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "CS",
-          "url": "https://oopbuy.com/product/weidian/7388600956?inviteCode=29TOTHGNH"
+          "label": "TMF",
+          "url": "https://www.oopbuy.com/product/weidian/6276084325?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$ / 31$"
+      "text": "25$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0058"
+  }
 }

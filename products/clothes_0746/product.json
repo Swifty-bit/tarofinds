@@ -1,87 +1,104 @@
 {
-  "name": "Essentials x NBAFW24 T-Shirt2 Colors",
+  "name": "Essentials1977 Hoodie3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "firerep",
   "best_batch_links": [
     {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F897277066165%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/897277066165?inviteCode=29TOTHGNH"
+      "label": "firerep",
+      "url": "https://litbuy.com/product/weidian/985914673288?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "Yishan",
+  "budget_batch": "Yishan/FFOG",
   "budget_batch_links": [
     {
       "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F983510390062%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/983510390062?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/735655125803?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/735655125803?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://litbuy.com/product/weidian/679674121966?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/679674121966?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "22$",
-  "budget_price": "12$",
-  "pics_text": "singor/yishan",
+  "best_price": "30$",
+  "budget_price": "20$",
+  "pics_text": "firerep/yishan/FFOG",
   "pics_links": [
     {
-      "label": "singor",
-      "url": "https://steven-1989.x.yupoo.com/albums/188237597?uid=1&isSubCate=false&referrercate=3018541"
+      "label": "firerep",
+      "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
     },
     {
       "label": "yishan",
-      "url": "https://doppel.fit/item/1688/983510390062"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2010218431935238145?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1912442117253836802?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw2MSAgFPbNTfPq4fan6hSoGNniGX0yF02UlDCARy-_ToQahehgpNDLqhEMnJ8CE4QIclpUcWiGZjlcRw28jFGtTN99ADjAiA-nDo1d6SbwWI_k7U0MJM86MBt8N1upTmBcSyLotULWg0v7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyC0LcwTGwdE1B1Cy5LSyomAh1G2KPp9e-tdNdUCKGX14PYSPA_cL5rUYUhsF4tjghEUYSPXSFlay3aL0Rog6pHvXKnqNlgIYTDfIj8s-lxWrSfNn65BUMlzpjoiG-kafofqpwQcuBh_4-u=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0746",
   "raw_cells": {
     "col_0": {
-      "text": "233"
+      "text": "228"
     },
     "col_1": {
-      "text": "Essentials x NBAFW24 T-Shirt2 Colors"
+      "text": "Essentials1977 Hoodie3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw2MSAgFPbNTfPq4fan6hSoGNniGX0yF02UlDCARy-_ToQahehgpNDLqhEMnJ8CE4QIclpUcWiGZjlcRw28jFGtTN99ADjAiA-nDo1d6SbwWI_k7U0MJM86MBt8N1upTmBcSyLotULWg0v7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyC0LcwTGwdE1B1Cy5LSyomAh1G2KPp9e-tdNdUCKGX14PYSPA_cL5rUYUhsF4tjghEUYSPXSFlay3aL0Rog6pHvXKnqNlgIYTDfIj8s-lxWrSfNn65BUMlzpjoiG-kafofqpwQcuBh_4-u=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "firerep",
       "links": [
         {
-          "label": "Singor",
-          "url": "https://oopbuy.com/product/1/897277066165?inviteCode=29TOTHGNH"
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "Yishan",
+      "text": "Yishan/FFOG",
       "links": [
         {
           "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/983510390062?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/735655125803?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://oopbuy.com/product/1/679674121966?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "30$"
     },
     "col_6": {
-      "text": "12$"
+      "text": "20$"
     },
     "col_7": {
-      "text": "singor/yishan",
+      "text": "firerep/yishan/FFOG",
       "links": [
         {
-          "label": "singor",
-          "url": "https://steven-1989.x.yupoo.com/albums/188237597?uid=1&isSubCate=false&referrercate=3018541"
+          "label": "firerep",
+          "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
         },
         {
           "label": "yishan",
-          "url": "https://doppel.fit/item/1688/983510390062"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2010218431935238145?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1912442117253836802?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0746"
+  }
 }

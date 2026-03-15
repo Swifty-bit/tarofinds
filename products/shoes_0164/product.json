@@ -1,33 +1,41 @@
 {
-  "name": "Lucky Green",
+  "name": "Black White",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239381635%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239381635?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "71$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwOY9KSfs10YV2-4lpZd7SyFHIeCBX8U9h-Pivyg_DMYZAw8M82g5D-CBF5gPt54NaxdKJZSmhvqNR9bshFuTvdAZ0yfwyBQ0Ask9kIXcRKsMu5b_4g8QPftz9LWD_bP-iN4a4UX6f4cg-s=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7TOkbe-rm0rduWc5x3VWfYgwSlIWEF7Bvur8ZcqWpZlxWvXR7YbEhN6Dcmmb5vSoW0ibyq9NkRyCCsaNWI6AXZO_HGvgyFkUIwYZRbIOjwhw3JoZ2NH3cN9ohPvDCbncB4bJbjTHuChG8=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0164",
   "raw_cells": {
     "col_0": {
       "text": "175"
     },
     "col_1": {
-      "text": "Lucky Green"
+      "text": "Black White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwOY9KSfs10YV2-4lpZd7SyFHIeCBX8U9h-Pivyg_DMYZAw8M82g5D-CBF5gPt54NaxdKJZSmhvqNR9bshFuTvdAZ0yfwyBQ0Ask9kIXcRKsMu5b_4g8QPftz9LWD_bP-iN4a4UX6f4cg-s=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7TOkbe-rm0rduWc5x3VWfYgwSlIWEF7Bvur8ZcqWpZlxWvXR7YbEhN6Dcmmb5vSoW0ibyq9NkRyCCsaNWI6AXZO_HGvgyFkUIwYZRbIOjwhw3JoZ2NH3cN9ohPvDCbncB4bJbjTHuChG8=w143-h100"
     },
     "col_3": {
       "text": "LJR",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "71$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0164"
+  }
 }

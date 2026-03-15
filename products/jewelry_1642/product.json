@@ -1,47 +1,61 @@
 {
-  "name": "GucciBracelet / Necklace",
+  "name": "Gucci Skull Ring",
   "category": "Jewelry",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7267603858%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7267603858?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7260714423?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7260714423?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "37$ / 83$",
+  "best_price": "23$",
   "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1953305105819852802?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzNShA-NOAFUM2_B9OhZ1zOm_6Gf4jrDqv5tpHY8EkoSsD76M9BqPDZYMHNK0NTLKyWCSFYBCseoSSmGA6Wu98Ea1msFWxwCsbbJDP0A-O0k3e-r2l672hOjH4x5a1k1cuPqC0WrxJPl6VC=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxbFW-dEJ-KCrOi-oZZpbuEw4N807Jf8E91umYgwNS38MbotVr3x01jB6m_6o6vn2-3qbgzyYbKtD5n8EwVpFvagIs78pMe9jcfJzJkEJtgQvjubOArYY2OTzgqvG2R4NCvKBcqsUZ4hFi9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1642",
   "raw_cells": {
     "col_0": {
-      "text": "56"
+      "text": "51"
     },
     "col_1": {
-      "text": "GucciBracelet / Necklace"
+      "text": "Gucci Skull Ring"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzNShA-NOAFUM2_B9OhZ1zOm_6Gf4jrDqv5tpHY8EkoSsD76M9BqPDZYMHNK0NTLKyWCSFYBCseoSSmGA6Wu98Ea1msFWxwCsbbJDP0A-O0k3e-r2l672hOjH4x5a1k1cuPqC0WrxJPl6VC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxbFW-dEJ-KCrOi-oZZpbuEw4N807Jf8E91umYgwNS38MbotVr3x01jB6m_6o6vn2-3qbgzyYbKtD5n8EwVpFvagIs78pMe9jcfJzJkEJtgQvjubOArYY2OTzgqvG2R4NCvKBcqsUZ4hFi9=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7267603858?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7260714423?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "37$ / 83$"
+      "text": "23$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1953305105819852802?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1642"
+  }
 }

@@ -1,38 +1,87 @@
 {
-  "name": "Ralph LaurenHalf-Zip Hoodie5 Colors",
+  "name": "Ralph LaurenOld SeasonZipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "/",
-  "budget_price": "",
-  "pics_text": "/",
-  "pics_links": [],
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://litbuy.com/product/weidian/7423551790?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7423551790?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/736469349863?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "28$",
+  "budget_price": "15$",
+  "pics_text": "best/budget",
+  "pics_links": [
+    {
+      "label": "best",
+      "url": "https://newdp.x.yupoo.com/albums/176447946?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzOu7HKRdPc-dGoYTsm5ki3V1z_neJCvr-KwjrtI5wls82kK3cBorGX1suA-Sa015fpfqn6cP6B3dN-FFfDUAaCwkaERJoZxvDZMP1SJNb7ZOo1HE7Kpeg-g0t9sPrPeBBMXy5Vt_EsXxbj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyU-xpZclwHMHCgY-RBHetGYu58EYJkCuGtDUZHFwmAwAjY9vmLFWGnF-81emrB3oeS0de3IqElJ7WZFZS_prlP-G5Z6usAUqSA-G03BVkvzlGFgeF_SrSns9wtdWv5I3zQLV7nWovxTUIX=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0617",
   "raw_cells": {
     "col_0": {
-      "text": "88"
+      "text": "84"
     },
     "col_1": {
-      "text": "Ralph LaurenHalf-Zip Hoodie5 Colors"
+      "text": "Ralph LaurenOld SeasonZipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzOu7HKRdPc-dGoYTsm5ki3V1z_neJCvr-KwjrtI5wls82kK3cBorGX1suA-Sa015fpfqn6cP6B3dN-FFfDUAaCwkaERJoZxvDZMP1SJNb7ZOo1HE7Kpeg-g0t9sPrPeBBMXy5Vt_EsXxbj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyU-xpZclwHMHCgY-RBHetGYu58EYJkCuGtDUZHFwmAwAjY9vmLFWGnF-81emrB3oeS0de3IqElJ7WZFZS_prlP-G5Z6usAUqSA-G03BVkvzlGFgeF_SrSns9wtdWv5I3zQLV7nWovxTUIX=w143-h110"
     },
     "col_3": {
-      "text": "/"
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7423551790?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "/"
+      "text": "28$"
+    },
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
-      "text": "/"
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://newdp.x.yupoo.com/albums/176447946?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0617"
+  }
 }

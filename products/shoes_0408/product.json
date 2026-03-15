@@ -1,65 +1,74 @@
 {
-  "name": "Dior B9",
+  "name": "ChanelCC Runner",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Alison",
+  "best_batch": "Repsun",
   "best_batch_links": [
     {
-      "label": "Alison",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F861145414872%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/861145414872?inviteCode=29TOTHGNH"
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/taobao/7413012470?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7413012470?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "FS",
+  "budget_batch": "GD/budget",
   "budget_batch_links": [
     {
-      "label": "FS",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7568136006%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7568136006?inviteCode=29TOTHGNH"
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7444371128?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7444371128?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/797137714264?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/797137714264?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "120$",
-  "budget_price": "85$",
-  "pics_text": "85$",
+  "best_price": "75$",
+  "budget_price": "58$ / 47$",
+  "pics_text": "58$ / 47$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1ZR3gJot0e-yM_WB71MlPp8yEY2wLoTTURmIm8ARfHdRvuR3I66QjSOZYOJcR_Y9wPYuDda1ulCi5LbXIroZwMWda92WajxSLpGtHeZhKgoDyEV6kxqpQ5b3FmNdF4-058Ux7F0o1mw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzXKn_jcIlgzRDM_ZEJmo-edSEXy0BxLvm5f6l4Davc_7n90iDkWqYIL5noL1dsHLijGfGGwpK-2h9mImqMH0Iu1WphpPbVPOvvle_bLa8m53gkaB7LnBCjtiakjG_3l1SDrvj1JYsfKg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0408",
   "raw_cells": {
     "col_0": {
-      "text": "465"
+      "text": "461"
     },
     "col_1": {
-      "text": "Dior B9"
+      "text": "ChanelCC Runner"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1ZR3gJot0e-yM_WB71MlPp8yEY2wLoTTURmIm8ARfHdRvuR3I66QjSOZYOJcR_Y9wPYuDda1ulCi5LbXIroZwMWda92WajxSLpGtHeZhKgoDyEV6kxqpQ5b3FmNdF4-058Ux7F0o1mw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzXKn_jcIlgzRDM_ZEJmo-edSEXy0BxLvm5f6l4Davc_7n90iDkWqYIL5noL1dsHLijGfGGwpK-2h9mImqMH0Iu1WphpPbVPOvvle_bLa8m53gkaB7LnBCjtiakjG_3l1SDrvj1JYsfKg=w143-h110"
     },
     "col_3": {
-      "text": "Alison",
+      "text": "Repsun",
       "links": [
         {
-          "label": "Alison",
-          "url": "https://www.oopbuy.com/product/1/861145414872?inviteCode=29TOTHGNH"
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/2/7413012470?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "FS",
+      "text": "GD/budget",
       "links": [
         {
-          "label": "FS",
-          "url": "https://oopbuy.com/product/weidian/7568136006?inviteCode=29TOTHGNH"
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7444371128?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/797137714264?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "120$"
+      "text": "75$"
     },
     "col_6": {
-      "text": "85$"
+      "text": "58$ / 47$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0408"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Canada GooseHybridge Knitted Red Lable Jacket",
+  "name": "Canada Goose Emerson Crew-Neck T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "TopGoosey",
   "best_batch_links": [
     {
       "label": "TopGoosey",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1003600298309%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1003600298309?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/1002966111534?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1002966111534?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "106$",
+  "best_price": "23$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://topgoosey-01.x.yupoo.com/albums/192743762?uid=1"
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192749431?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwFdl_sFiaYtJMleI13Iq4b3icmaAVZ_hBVc3A77vd_4pM-TjL3rRr3_aX2a2a5QS6LDRFnC-pEXYIl_OlSOxewqrSviFoitsNrK5OkfQN5B12DJq3N75qmBBAlTEVevZX-OIR5Pcia2mOZ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw2mCgY65Puux1x4wMwATLR5ZXIu_ynDqzy5-lmK_6o6VgFiU7Z-0_YdCGOngszI04OZKl9Gjdmk7pC4wPRSLqKdkq-FGZX8TNJ-98F5ndL0-9SlhDw5uMDGrOEO7VCHDxP_tnm3x0Bml15=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1463",
   "raw_cells": {
     "col_0": {
-      "text": "1084"
+      "text": "1080"
     },
     "col_1": {
-      "text": "Canada GooseHybridge Knitted Red Lable Jacket"
+      "text": "Canada Goose Emerson Crew-Neck T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwFdl_sFiaYtJMleI13Iq4b3icmaAVZ_hBVc3A77vd_4pM-TjL3rRr3_aX2a2a5QS6LDRFnC-pEXYIl_OlSOxewqrSviFoitsNrK5OkfQN5B12DJq3N75qmBBAlTEVevZX-OIR5Pcia2mOZ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw2mCgY65Puux1x4wMwATLR5ZXIu_ynDqzy5-lmK_6o6VgFiU7Z-0_YdCGOngszI04OZKl9Gjdmk7pC4wPRSLqKdkq-FGZX8TNJ-98F5ndL0-9SlhDw5uMDGrOEO7VCHDxP_tnm3x0Bml15=w143-h110"
     },
     "col_3": {
       "text": "TopGoosey",
       "links": [
         {
           "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1003600298309?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/1002966111534?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "106$"
+      "text": "23$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://topgoosey-01.x.yupoo.com/albums/192743762?uid=1"
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192749431?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1463"
+  }
 }

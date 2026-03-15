@@ -1,38 +1,61 @@
 {
-  "name": "BMWM 1000 RR",
+  "name": "MinecraftMany Styles",
   "category": "Room Accessories",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
+  "best_batch": "Qingwen",
+  "best_batch_links": [
+    {
+      "label": "Qingwen",
+      "url": "https://litbuy.com/product/weidian/689360389169?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/689360389169?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "15$",
+  "best_price": "30$ / 48$",
   "budget_price": "",
-  "pics_text": "/",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://doppel.fit/item/taobao/689360389169"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbMqJTKEcUSWXf19MmWhavjemzFFuYHzqNfrKCAz25BBLTxJaXqrmp15Nx3v6VkmoAr8Ldl-kliV834jauVratFLVJSD8zN3qr75ALJiq2IX6Qf2A415S17rasMG5AbyVvcFLP8dRqF9tk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEfe0lW2Bth8MLzUVfYhhIzvnXnyEErYSUaA0axF7HuND5q0NQJOFbg40soDFuJH9SGMAveUMG2n3-3FWLQVqSuEyW6OYNdpKeBYuy8UhwnDRLg6lIHIJ0L9_c1OZ0okq2bIMGPU-Ewg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1658",
   "raw_cells": {
     "col_0": {
-      "text": "22"
+      "text": "14"
     },
     "col_1": {
-      "text": "BMWM 1000 RR"
+      "text": "MinecraftMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbMqJTKEcUSWXf19MmWhavjemzFFuYHzqNfrKCAz25BBLTxJaXqrmp15Nx3v6VkmoAr8Ldl-kliV834jauVratFLVJSD8zN3qr75ALJiq2IX6Qf2A415S17rasMG5AbyVvcFLP8dRqF9tk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEfe0lW2Bth8MLzUVfYhhIzvnXnyEErYSUaA0axF7HuND5q0NQJOFbg40soDFuJH9SGMAveUMG2n3-3FWLQVqSuEyW6OYNdpKeBYuy8UhwnDRLg6lIHIJ0L9_c1OZ0okq2bIMGPU-Ewg=w143-h110"
     },
     "col_3": {
-      "text": "/"
+      "text": "Qingwen",
+      "links": [
+        {
+          "label": "Qingwen",
+          "url": "https://oopbuy.com/product/1/689360389169?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "30$ / 48$"
     },
     "col_7": {
-      "text": "/"
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://doppel.fit/item/taobao/689360389169"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1658"
+  }
 }

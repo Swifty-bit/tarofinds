@@ -1,5 +1,5 @@
 {
-  "name": "MM6 Beaniew/ box",
+  "name": "MM6V-Neck Sweater2 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F656797155963%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/656797155963?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/815472531929?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/815472531929?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "9$",
+  "budget_price": "12$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1972502600887627778?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1963790824006836225?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwdQMI2IfIdRdzMMAc6W2R36DecBfyWbLPVKc-s_S8FnAmW7__Fd8JzmjHNG7XeQqxam3veyeB7kIEMzMwYM1iGRBWSd7aFqKhWGyEBMGb-2cmQkQyeI1MmaZWZ4WeIxsqCLDXawWW5eaRs=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzGFgD8LCWJAeYetOkdhx8XXVF2j95gKRlqHD8BBYyEtK-xYRrLw9ucpsRvwbf_mvoosb6AcloseHauz95vI1v2azLgjnQ8XTf_tCxzCBUbV0S8sjt9_7KotPAgP2F2FOYq_xphLpy0eXvR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1173",
   "raw_cells": {
     "col_0": {
-      "text": "738"
+      "text": "734"
     },
     "col_1": {
-      "text": "MM6 Beaniew/ box"
+      "text": "MM6V-Neck Sweater2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwdQMI2IfIdRdzMMAc6W2R36DecBfyWbLPVKc-s_S8FnAmW7__Fd8JzmjHNG7XeQqxam3veyeB7kIEMzMwYM1iGRBWSd7aFqKhWGyEBMGb-2cmQkQyeI1MmaZWZ4WeIxsqCLDXawWW5eaRs=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzGFgD8LCWJAeYetOkdhx8XXVF2j95gKRlqHD8BBYyEtK-xYRrLw9ucpsRvwbf_mvoosb6AcloseHauz95vI1v2azLgjnQ8XTf_tCxzCBUbV0S8sjt9_7KotPAgP2F2FOYq_xphLpy0eXvR=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/656797155963?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/815472531929?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "9$"
+      "text": "12$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1972502600887627778?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1963790824006836225?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1173"
+  }
 }

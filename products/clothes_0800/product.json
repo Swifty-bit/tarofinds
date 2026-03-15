@@ -1,121 +1,72 @@
 {
-  "name": "Bormes Down Gilet Vest",
+  "name": "Classical Wool Cardigan",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "topangels/RepsKing",
+  "best_batch": "RepsKing",
   "best_batch_links": [
     {
-      "label": "topangels",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F745280363675%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/745280363675?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564573845%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564573845?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7564484817?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564484817?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget/budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F937040121893%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/937040121893?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F945599433988%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/945599433988?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "145$ / 66$",
-  "budget_price": "28$",
-  "pics_text": "topangels/repsking/budget1/budget2",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "69$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
-      "label": "topangels",
-      "url": "https://topangelscn.x.yupoo.com/albums/208613491?uid=1&isSubCate=false&referrercate=5000388"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1935503136603054082?action=discord&cid=1840597081113280514"
     },
     {
-      "label": "repsking",
-      "url": "https://repsking.x.yupoo.com/albums/163418517?uid=1&isSubCate=false&referrercate=4544589"
-    },
-    {
-      "label": "budget1",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1988431861465042946?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1989520705975308289?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/161307683?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxE-Bz1J-imA8gfQBQrOPcieuFtkZ2wKk7q86iBC79YuZU2u41vY-vnHuLseCbmgEMxomqEWQXLT_o8AjvmKBJVzpXnn7QHqbrcUT6psjOrQyKmxd3u1IiBtZJnmMT7MqTTL_zCBuFuTiXn=w143-h110",
+  "notes": "1~2 size up",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRNG1rcaYH9x5CBylQuOGkuvKS90tQT2kMTpfZXvXEbtEWZZE3XCMxDFE0VgJq9je4j8PG3ZqWhHwj7D0tMv0TfCIK-_92JdCykXuyrLAlae4TbBAU58QkugulTIygskHKj4YlM1iFBSAg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0800",
   "raw_cells": {
     "col_0": {
-      "text": "295"
+      "text": "291"
     },
     "col_1": {
-      "text": "Bormes Down Gilet Vest"
+      "text": "Classical Wool Cardigan"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxE-Bz1J-imA8gfQBQrOPcieuFtkZ2wKk7q86iBC79YuZU2u41vY-vnHuLseCbmgEMxomqEWQXLT_o8AjvmKBJVzpXnn7QHqbrcUT6psjOrQyKmxd3u1IiBtZJnmMT7MqTTL_zCBuFuTiXn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRNG1rcaYH9x5CBylQuOGkuvKS90tQT2kMTpfZXvXEbtEWZZE3XCMxDFE0VgJq9je4j8PG3ZqWhHwj7D0tMv0TfCIK-_92JdCykXuyrLAlae4TbBAU58QkugulTIygskHKj4YlM1iFBSAg=w143-h110"
     },
     "col_3": {
-      "text": "topangels/RepsKing",
+      "text": "RepsKing",
       "links": [
-        {
-          "label": "topangels",
-          "url": "https://oopbuy.com/product/1/745280363675?inviteCode=29TOTHGNH"
-        },
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7564573845?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget/budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/937040121893?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/945599433988?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7564484817?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "145$ / 66$"
-    },
-    "col_6": {
-      "text": "28$"
+      "text": "69$"
     },
     "col_7": {
-      "text": "topangels/repsking/budget1/budget2",
+      "text": "QC Pics/pics",
       "links": [
         {
-          "label": "topangels",
-          "url": "https://topangelscn.x.yupoo.com/albums/208613491?uid=1&isSubCate=false&referrercate=5000388"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1935503136603054082?action=discord&cid=1840597081113280514"
         },
         {
-          "label": "repsking",
-          "url": "https://repsking.x.yupoo.com/albums/163418517?uid=1&isSubCate=false&referrercate=4544589"
-        },
-        {
-          "label": "budget1",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1988431861465042946?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget2",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1989520705975308289?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/161307683?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "1~2 size up"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0800"
+  }
 }

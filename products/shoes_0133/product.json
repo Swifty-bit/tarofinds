@@ -1,47 +1,47 @@
 {
-  "name": "Undefeated 5On It Black",
+  "name": "Verdy Visty",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "H12",
+  "best_batch": "TOP/S2",
   "best_batch_links": [
     {
-      "label": "H12",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7222713244%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7222713244?inviteCode=29TOTHGNH"
+      "label": "TOP/S2",
+      "url": "https://litbuy.com/product/taobao/7251543921?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "43$",
+  "best_price": "61$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1TSTIF2-fkB1KhoXQwkq2O2Kww1v1VmInWMglYEB2EZcy403Od7wAmU1kQZ8-PeTzlirez9F4s55LNvnJXbC2mFs3Ypew4SZXKuzMWV4wJKCGYXR39kOL4qEw1eCK9f_LdCnTwUwWjw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayb_dWTkCfHmuuAWUEmsRVlApQ8w5nv6dhqgzEjpnBbc-PYXIyBw68exr56_WoOqL4ZVpFo9Kbc8PRMbuyoo5C0L2wU-L9YUKeKflFLrmnroOD4SB8-y1RQo6xuwWLmEnVMAgt6tCoUqfml=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0133",
   "raw_cells": {
     "col_0": {
       "text": "142"
     },
     "col_1": {
-      "text": "Undefeated 5On It Black"
+      "text": "Verdy Visty"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1TSTIF2-fkB1KhoXQwkq2O2Kww1v1VmInWMglYEB2EZcy403Od7wAmU1kQZ8-PeTzlirez9F4s55LNvnJXbC2mFs3Ypew4SZXKuzMWV4wJKCGYXR39kOL4qEw1eCK9f_LdCnTwUwWjw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayb_dWTkCfHmuuAWUEmsRVlApQ8w5nv6dhqgzEjpnBbc-PYXIyBw68exr56_WoOqL4ZVpFo9Kbc8PRMbuyoo5C0L2wU-L9YUKeKflFLrmnroOD4SB8-y1RQo6xuwWLmEnVMAgt6tCoUqfml=w143-h110"
     },
     "col_3": {
-      "text": "H12",
+      "text": "TOP/S2",
       "links": [
         {
-          "label": "H12",
-          "url": "https://oopbuy.com/product/2/7222713244?inviteCode=29TOTHGNH"
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
+      "text": "61$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0133"
+  }
 }

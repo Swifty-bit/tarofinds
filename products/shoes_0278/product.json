@@ -1,47 +1,47 @@
 {
-  "name": "UNC PE (2025)",
+  "name": "Cave Stone",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7242121077%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7242121077?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "85$",
+  "best_price": "71$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQSq3Lae2MIUOGh5Sc8gTTjf8UeRv-8rqdQT8KYtNDquOtIqygh_-kfKYKkOgk3Fzlzbp6IlBwcsS6XjJcC7SOi8bDGJVys0cn5I89XaFgelI4b3UjmdbazUAh_jyCUT-Mri9Cf0Hi6g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwalM2ScYWxawm3Q_07BA-a89-KUzmW4dPhC4c27_THSSnqPaR3jPb2blkLAb9Jgv1YF_LIDXeo9GobFplODAR9r1Zz-aopl1PrmfeEy82z4RcIscO4xSoGbv9m9NbchAFmuAOryYMXHA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0278",
   "raw_cells": {
     "col_0": {
       "text": "293"
     },
     "col_1": {
-      "text": "UNC PE (2025)"
+      "text": "Cave Stone"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQSq3Lae2MIUOGh5Sc8gTTjf8UeRv-8rqdQT8KYtNDquOtIqygh_-kfKYKkOgk3Fzlzbp6IlBwcsS6XjJcC7SOi8bDGJVys0cn5I89XaFgelI4b3UjmdbazUAh_jyCUT-Mri9Cf0Hi6g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwalM2ScYWxawm3Q_07BA-a89-KUzmW4dPhC4c27_THSSnqPaR3jPb2blkLAb9Jgv1YF_LIDXeo9GobFplODAR9r1Zz-aopl1PrmfeEy82z4RcIscO4xSoGbv9m9NbchAFmuAOryYMXHA=w143-h110"
     },
     "col_3": {
       "text": "GX",
       "links": [
         {
           "label": "GX",
-          "url": "https://oopbuy.com/product/weidian/7242121077?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "85$"
+      "text": "71$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0278"
+  }
 }

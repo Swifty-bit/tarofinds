@@ -1,61 +1,61 @@
 {
-  "name": "Syna WorldVarsity CrewSweater",
+  "name": "SynaT-Shirt & Shorts4 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
+  "best_batch": "GOAT",
   "best_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7375189530%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7375189530?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653805345?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653805345?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "27$",
+  "best_price": "40$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/184641081?uid=1&isSubCate=false&referrercate=4564614"
+      "url": "https://goat-official222.x.yupoo.com/albums/138101088?uid=1&isSubCate=false&referrercate=4215138"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzBDedJSMJXg4RDm_0RCUwk5ms5LC8rzZ0jjlX_yD81OTYdXPpdJcv-KmrfH6YNsjtW3GPe6qECVC3_rD5_7GIZ7GWFDa0liCUR-nKPFKn1MzgCCtKAdjRtMqqsv7k9S44WK-oCrAlZ3hdg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjlvAhIeJWP141T0C6lug22L6Fh4lsS8F6y3K54mX494aH9fciLMaGfYbmEwR1qQhCDKQOTjypC8h1mfQjLM9IvkGUVuag9vEqHjdydOpYjIA3Ke5wB-RuVecnH5S-Xa6_5nxr2-2Jjg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0929",
   "raw_cells": {
     "col_0": {
-      "text": "456"
+      "text": "452"
     },
     "col_1": {
-      "text": "Syna WorldVarsity CrewSweater"
+      "text": "SynaT-Shirt & Shorts4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzBDedJSMJXg4RDm_0RCUwk5ms5LC8rzZ0jjlX_yD81OTYdXPpdJcv-KmrfH6YNsjtW3GPe6qECVC3_rD5_7GIZ7GWFDa0liCUR-nKPFKn1MzgCCtKAdjRtMqqsv7k9S44WK-oCrAlZ3hdg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjlvAhIeJWP141T0C6lug22L6Fh4lsS8F6y3K54mX494aH9fciLMaGfYbmEwR1qQhCDKQOTjypC8h1mfQjLM9IvkGUVuag9vEqHjdydOpYjIA3Ke5wB-RuVecnH5S-Xa6_5nxr2-2Jjg=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
+      "text": "GOAT",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/2/7375189530?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653805345?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "40$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/184641081?uid=1&isSubCate=false&referrercate=4564614"
+          "url": "https://goat-official222.x.yupoo.com/albums/138101088?uid=1&isSubCate=false&referrercate=4215138"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0929"
+  }
 }

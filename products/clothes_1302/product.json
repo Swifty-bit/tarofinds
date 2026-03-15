@@ -1,61 +1,61 @@
 {
-  "name": "LacosteZipped Hoodie5 Colors",
+  "name": "Lacoste Sweatshirt5 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "NEWDP",
   "best_batch_links": [
     {
       "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7310219910%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7310219910?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7309186373?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7309186373?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "26$",
+  "best_price": "19$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://newdp.x.yupoo.com/albums/176447995?uid=1"
+      "url": "https://newdp.x.yupoo.com/albums/177084922?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6D2riFp_o5OoIYvToQbRKSGeHt36JOhVAhihfoVK2WpacpZD6RsRYOdycHoj0YlWWHMDBx66oIa7_aOiiipNIeTi9344rbPQrbM41yQYwdTtkstv8EOoegm11TornTVWfhnEx_iHc6g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5BDeUC2ED6qqgS22LWoRag5hswBtM4-QHO9sL29BJ0LwBwtsBPEhZD2aV51qns9tUTqHybHU5SgBB1HUHfmnues4wuUSprbVK3dzKAMphkTqLzCKna6yq4l60c-b9CYEFHR5J5maVcAzG=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1302",
   "raw_cells": {
     "col_0": {
-      "text": "893"
+      "text": "889"
     },
     "col_1": {
-      "text": "LacosteZipped Hoodie5 Colors"
+      "text": "Lacoste Sweatshirt5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6D2riFp_o5OoIYvToQbRKSGeHt36JOhVAhihfoVK2WpacpZD6RsRYOdycHoj0YlWWHMDBx66oIa7_aOiiipNIeTi9344rbPQrbM41yQYwdTtkstv8EOoegm11TornTVWfhnEx_iHc6g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5BDeUC2ED6qqgS22LWoRag5hswBtM4-QHO9sL29BJ0LwBwtsBPEhZD2aV51qns9tUTqHybHU5SgBB1HUHfmnues4wuUSprbVK3dzKAMphkTqLzCKna6yq4l60c-b9CYEFHR5J5maVcAzG=w143-h110"
     },
     "col_3": {
       "text": "NEWDP",
       "links": [
         {
           "label": "NEWDP",
-          "url": "https://www.oopbuy.com/product/weidian/7310219910?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7309186373?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$"
+      "text": "19$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://newdp.x.yupoo.com/albums/176447995?uid=1"
+          "url": "https://newdp.x.yupoo.com/albums/177084922?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1302"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Stone IslandBeanie5 Colors",
+  "name": "Stone IslandSleeve BadgeT-Shirt5 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "budget",
+  "budget_batch": "ZS-Factory",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F707605637096%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/707605637096?inviteCode=29TOTHGNH"
+      "label": "ZS-Factory",
+      "url": "https://litbuy.com/product/taobao/7449152952?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7449152952?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "budget_price": "12$",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1980097160675942401?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://zs888.x.yupoo.com/albums/164805180?uid=1&isSubCate=false&referrercate=4585538"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzAyByk9AezwabW6CHHcZaY1ooCWEV5UkAD44NZVyq7QnkLNHRnhw8zKXDXpGkjhx6x8BvMLHR04hIMryIWkaDyh4r7EI0Qjcn2f6178lfMjqqOhKOgXcyNoepXgOXARSLk1UVdZEhxOw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZUrJdGjWpt1vjVUwPHCaD61Zx8RS11gyRNhrYKqGvek6KG4JwH6Q8YJqHoiYjhc0j6V73tIysTzrs7PyMdPBjDflIzQmNw9qM4IBvXGUtkd5M3pVTA-yYK7ZaB4IZrwy-W-PgMS-hPqbS=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0980",
   "raw_cells": {
     "col_0": {
-      "text": "515"
+      "text": "511"
     },
     "col_1": {
-      "text": "Stone IslandBeanie5 Colors"
+      "text": "Stone IslandSleeve BadgeT-Shirt5 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzAyByk9AezwabW6CHHcZaY1ooCWEV5UkAD44NZVyq7QnkLNHRnhw8zKXDXpGkjhx6x8BvMLHR04hIMryIWkaDyh4r7EI0Qjcn2f6178lfMjqqOhKOgXcyNoepXgOXARSLk1UVdZEhxOw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZUrJdGjWpt1vjVUwPHCaD61Zx8RS11gyRNhrYKqGvek6KG4JwH6Q8YJqHoiYjhc0j6V73tIysTzrs7PyMdPBjDflIzQmNw9qM4IBvXGUtkd5M3pVTA-yYK7ZaB4IZrwy-W-PgMS-hPqbS=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "ZS-Factory",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/707605637096?inviteCode=29TOTHGNH"
+          "label": "ZS-Factory",
+          "url": "https://oopbuy.com/product/2/7449152952?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "3$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1980097160675942401?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://zs888.x.yupoo.com/albums/164805180?uid=1&isSubCate=false&referrercate=4585538"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0980"
+  }
 }

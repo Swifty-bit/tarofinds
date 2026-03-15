@@ -6,8 +6,8 @@
   "best_batch_links": [
     {
       "label": "Pingu7",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6960319916%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6960319916?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7231095096?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7231095096?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pingu7.x.yupoo.com/albums/151267629?uid=1&isSubCate=false&referrercate=4083969"
+      "url": "https://pingu7.x.yupoo.com/albums/158027778?uid=1&isSubCate=false&referrercate=4083969"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az12I3TxBWHZsDt00_MDUgUGrh4pw8_BcAPJUGycD0g5Z0V3UCU-G8u8FmJ8WQdqPHRy2ESSs0eZLAq2_nfQJWaJeWNOikoc16_EPRAACzeOWYebwzB_3mejuvGPB0cuG2g0ZnxkWsEF9W4=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzkeoiXdy4isCBhxtHhJJRK-T3vwZ7pgsP-QiaCZxQVpGTF6euaOCr3jkhl8ao-BYmP-5eagFKpUxojtEemMbgsknFqtBdATlsLkfrZ9rOHA67XHv1DPOYaGZBvz7J9NzqpCCxGUzQ0ew=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1212",
   "raw_cells": {
     "col_0": {
-      "text": "785"
+      "text": "781"
     },
     "col_1": {
       "text": "Amiri Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az12I3TxBWHZsDt00_MDUgUGrh4pw8_BcAPJUGycD0g5Z0V3UCU-G8u8FmJ8WQdqPHRy2ESSs0eZLAq2_nfQJWaJeWNOikoc16_EPRAACzeOWYebwzB_3mejuvGPB0cuG2g0ZnxkWsEF9W4=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzkeoiXdy4isCBhxtHhJJRK-T3vwZ7pgsP-QiaCZxQVpGTF6euaOCr3jkhl8ao-BYmP-5eagFKpUxojtEemMbgsknFqtBdATlsLkfrZ9rOHA67XHv1DPOYaGZBvz7J9NzqpCCxGUzQ0ew=w143-h110"
     },
     "col_3": {
       "text": "Pingu7",
       "links": [
         {
           "label": "Pingu7",
-          "url": "https://oopbuy.com/product/weidian/6960319916?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7231095096?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://pingu7.x.yupoo.com/albums/151267629?uid=1&isSubCate=false&referrercate=4083969"
+          "url": "https://pingu7.x.yupoo.com/albums/158027778?uid=1&isSubCate=false&referrercate=4083969"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1212"
+  }
 }

@@ -1,64 +1,61 @@
 {
-  "name": "Nike TechTF2022 BlackRegular / Relaxed",
+  "name": "JordanBasketball Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F884691487871%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/884691487871?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/774249365947?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/774249365947?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "70$(SET)",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/179461183?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923544062315511809?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "set 70$ - hoodie 35$ - pants 35$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBRkHvAzdftprD3G5uhwyvS1H92R8ORKQ3dsCEByGd7X9-x5eM6jHJgIn_iob_fCNo-y7tgVDPuTdRG3IIZUN59kfNNDGa9KGNgbVXTcG__dPyrtimAu7ysQ6DKkoR8WQZJ8iPHnyPuA=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8w7sL1W0LZhxb2gvohsgh1Ht1cHwHuMNVN59DBydDL0H0rNAgNaKcMPOJPdUYncyImP7akj9SUk7O6S-HiNwRELoyRsbRK-PbnqWI-H-RG3-WN6pgyq4XM2m5A-mlAU6ZVugUzylPBQOe=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0553",
   "raw_cells": {
     "col_0": {
-      "text": "18"
+      "text": "14"
     },
     "col_1": {
-      "text": "Nike TechTF2022 BlackRegular / Relaxed"
+      "text": "JordanBasketball Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBRkHvAzdftprD3G5uhwyvS1H92R8ORKQ3dsCEByGd7X9-x5eM6jHJgIn_iob_fCNo-y7tgVDPuTdRG3IIZUN59kfNNDGa9KGNgbVXTcG__dPyrtimAu7ysQ6DKkoR8WQZJ8iPHnyPuA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8w7sL1W0LZhxb2gvohsgh1Ht1cHwHuMNVN59DBydDL0H0rNAgNaKcMPOJPdUYncyImP7akj9SUk7O6S-HiNwRELoyRsbRK-PbnqWI-H-RG3-WN6pgyq4XM2m5A-mlAU6ZVugUzylPBQOe=w143-h110"
     },
-    "col_3": {
-      "text": "DRAGONREP",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/1/884691487871?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/774249365947?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "70$(SET)"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/179461183?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923544062315511809?action=discord&cid=1840597081113280514"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 70$ - hoodie 35$ - pants 35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0553"
+  }
 }

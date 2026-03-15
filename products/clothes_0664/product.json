@@ -1,87 +1,87 @@
 {
-  "name": "Corteiz Timebomb TeeBlack",
+  "name": "Corteiz Alcatraz Mask7 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656828808%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656828808?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7653842951?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653842951?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "FFCP",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F817436479234%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/774201732366?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/774201732366?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "12$",
-  "budget_price": "7$",
+  "best_price": "6$",
+  "budget_price": "4$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/157731320?uid=1"
+      "url": "https://goat-official.x.yupoo.com/albums/129364954?uid=1"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1929342518058102786?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyD1ocvedTt8fNyc7xeWy4AZVDSwpMStSpErauG9mRAQgWcYuZj4EOXryWmryLeUst1MdLWenkQs6Zy7c0IlHD84xeg3Sw_G4_7ks5TNPtmNT6bDTQwC8IB7ylPt-HvL69o4qUWvRiEjGDG=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqDlMS5cJVeFP_jzvmauaBmXZBSRh1zyfSHsW4PoPsB1W1nQdlPXvscT65co0XzVQS7vLr38JxLV4PDzM-KzUzOzoJkFYEK6aFcKzW9ZvxT3oHijRwR0haDrvcMhuY-nWrUkJeevcSrnhs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0664",
   "raw_cells": {
     "col_0": {
-      "text": "145"
+      "text": "141"
     },
     "col_1": {
-      "text": "Corteiz Timebomb TeeBlack"
+      "text": "Corteiz Alcatraz Mask7 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyD1ocvedTt8fNyc7xeWy4AZVDSwpMStSpErauG9mRAQgWcYuZj4EOXryWmryLeUst1MdLWenkQs6Zy7c0IlHD84xeg3Sw_G4_7ks5TNPtmNT6bDTQwC8IB7ylPt-HvL69o4qUWvRiEjGDG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqDlMS5cJVeFP_jzvmauaBmXZBSRh1zyfSHsW4PoPsB1W1nQdlPXvscT65co0XzVQS7vLr38JxLV4PDzM-KzUzOzoJkFYEK6aFcKzW9ZvxT3oHijRwR0haDrvcMhuY-nWrUkJeevcSrnhs=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656828808?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7653842951?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "FFCP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://www.oopbuy.com/product/1/774201732366?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "12$"
+      "text": "6$"
     },
     "col_6": {
-      "text": "7$"
+      "text": "4$"
     },
     "col_7": {
       "text": "best/budget",
       "links": [
         {
           "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/157731320?uid=1"
+          "url": "https://goat-official.x.yupoo.com/albums/129364954?uid=1"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1929342518058102786?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0664"
+  }
 }

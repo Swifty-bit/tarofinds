@@ -1,13 +1,13 @@
 {
-  "name": "DiorSweatshirt6 Colors",
+  "name": "LVWater ReactiveSwim Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "tophotfashion",
+  "best_batch": "3MadMan",
   "best_batch_links": [
     {
-      "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F931729400047%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/931729400047?inviteCode=29TOTHGNH"
+      "label": "3MadMan",
+      "url": "https://litbuy.com/product/weidian/926562965892?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/926562965892?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://tophotfashion.x.yupoo.com/albums/175228605?uid=1"
+      "url": "https://3madman.x.yupoo.com/albums/157155333?uid=1&isSubCate=false&referrercate=4506227"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxosnWOJQgaJ6KXco_jdcRFl_GikpARMWqrydJpYeIcI7XLimKQKTezreY4LUShVZDuPHxEzv1N5gJyakgaHiU0ySkuWiiQ5bmCqvRcYDY_UQeHrktIGiECIyu-voeqlqJaGOBkdtXGjDdG=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrrGAkPbG-r21fnkh8S1K9FlwGGHJPdJucUlvlkOh21-5MCmlg2ohM2bhlb8xwaI4z2IzxYJDLFcu-1GOABuPwl29_oawZYyAPIxmZ95y_pFBKLGO8EHZwFfuud3HK3kdY6zAJWajzJA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0837",
   "raw_cells": {
     "col_0": {
-      "text": "336"
+      "text": "330"
     },
     "col_1": {
-      "text": "DiorSweatshirt6 Colors"
+      "text": "LVWater ReactiveSwim Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxosnWOJQgaJ6KXco_jdcRFl_GikpARMWqrydJpYeIcI7XLimKQKTezreY4LUShVZDuPHxEzv1N5gJyakgaHiU0ySkuWiiQ5bmCqvRcYDY_UQeHrktIGiECIyu-voeqlqJaGOBkdtXGjDdG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrrGAkPbG-r21fnkh8S1K9FlwGGHJPdJucUlvlkOh21-5MCmlg2ohM2bhlb8xwaI4z2IzxYJDLFcu-1GOABuPwl29_oawZYyAPIxmZ95y_pFBKLGO8EHZwFfuud3HK3kdY6zAJWajzJA=w143-h110"
     },
     "col_3": {
-      "text": "tophotfashion",
+      "text": "3MadMan",
       "links": [
         {
-          "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/1/931729400047?inviteCode=29TOTHGNH"
+          "label": "3MadMan",
+          "url": "https://oopbuy.com/product/1/926562965892?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://tophotfashion.x.yupoo.com/albums/175228605?uid=1"
+          "url": "https://3madman.x.yupoo.com/albums/157155333?uid=1&isSubCate=false&referrercate=4506227"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0837"
+  }
 }

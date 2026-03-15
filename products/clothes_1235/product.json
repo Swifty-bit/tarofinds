@@ -1,61 +1,61 @@
 {
-  "name": "KsubiJeans",
+  "name": "Evisu Sweatpants6 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Bigd",
+  "best_batch": "best",
   "best_batch_links": [
     {
-      "label": "Bigd",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F782868341572%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/782868341572?inviteCode=29TOTHGNH"
+      "label": "best",
+      "url": "https://litbuy.com/product/weidian/624322764652?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/624322764652?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "40$",
+  "best_price": "22$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1873732035527913474?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952658244461223938?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyKnNvF9QQHW59HzB5U-OhY6ZBaIBcBCS93qI4aa8s5mQKXUAtqId2BuDW4W5YpYn1a2KNH_0HgJOgbZCJws_r-ot70s32-NQCCvouHler3ETaSBsqim_xcx11iwIt0OLK0hN6siwBmdtLy=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-KIRiFPHlfIREoN8J4QA2XEUuEMXFOugnmOVww3bl6cssJ3MewYGEH4nKHPrBuGsyskF7i3TL8W67JOy3PHRvRjnmwtSoUX1pi541MCIxyeMJxzIKPryhRiJX1PM4quvDPUS2eTzEKFwW=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1235",
   "raw_cells": {
     "col_0": {
-      "text": "816"
+      "text": "810"
     },
     "col_1": {
-      "text": "KsubiJeans"
+      "text": "Evisu Sweatpants6 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyKnNvF9QQHW59HzB5U-OhY6ZBaIBcBCS93qI4aa8s5mQKXUAtqId2BuDW4W5YpYn1a2KNH_0HgJOgbZCJws_r-ot70s32-NQCCvouHler3ETaSBsqim_xcx11iwIt0OLK0hN6siwBmdtLy=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-KIRiFPHlfIREoN8J4QA2XEUuEMXFOugnmOVww3bl6cssJ3MewYGEH4nKHPrBuGsyskF7i3TL8W67JOy3PHRvRjnmwtSoUX1pi541MCIxyeMJxzIKPryhRiJX1PM4quvDPUS2eTzEKFwW=w143-h110"
     },
     "col_3": {
-      "text": "Bigd",
+      "text": "best",
       "links": [
         {
-          "label": "Bigd",
-          "url": "https://www.oopbuy.com/product/1/782868341572?inviteCode=29TOTHGNH"
+          "label": "best",
+          "url": "https://oopbuy.com/product/1/624322764652?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "40$"
+      "text": "22$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1873732035527913474?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952658244461223938?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1235"
+  }
 }

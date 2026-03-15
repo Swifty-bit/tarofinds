@@ -1,87 +1,61 @@
 {
-  "name": "Mars Diagonal Zipper Sweatshirt4 Colors",
+  "name": "CB Shorts5 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CPRepsCN",
+  "best_batch": "Singor",
   "best_batch_links": [
     {
-      "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F981146467993%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/981146467993?inviteCode=29TOTHGNH"
+      "label": "Singor",
+      "url": "https://litbuy.com/product/weidian/789064782800?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/789064782800?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F756743794908%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "43$",
-  "budget_price": "12$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://cprepscn.x.yupoo.com/albums/161314761?uid=1&isSubCate=false&referrercate=4543871"
-    },
-    {
-      "label": "budget",
-      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
+      "label": "pics",
+      "url": "https://steven-1989.x.yupoo.com/albums/161202412?uid=1&isSubCate=false&referrercate=3436723"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axt97vD0AG087kTuifNvyTTTe3eKo6EXDpmPIu99B5LS5Qy3p2G_Qb3IJx0fjTWzStVJWOSTbPcQcsuW1SzkvjsF8Tyuh8wdq3WcPxND-yt8vLg9H-0B8LlQqXEsUBOQ3TLWPMl0OaSqAR0=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxmJYeRAGGdIu6Bko5m__Bs_uZyBNQ1Zz768GSvs9v6XYPkC5wFY60g5jjfKnsLdOT5feQtbDPEgnGbsrnaIqVksxch7YhQXfQ9bgCkaTj2b-6ZGE16V_E1yHAIkyWKlToJY9fR3IXEXwp4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0759",
   "raw_cells": {
     "col_0": {
-      "text": "250"
+      "text": "244"
     },
     "col_1": {
-      "text": "Mars Diagonal Zipper Sweatshirt4 Colors"
+      "text": "CB Shorts5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axt97vD0AG087kTuifNvyTTTe3eKo6EXDpmPIu99B5LS5Qy3p2G_Qb3IJx0fjTWzStVJWOSTbPcQcsuW1SzkvjsF8Tyuh8wdq3WcPxND-yt8vLg9H-0B8LlQqXEsUBOQ3TLWPMl0OaSqAR0=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxmJYeRAGGdIu6Bko5m__Bs_uZyBNQ1Zz768GSvs9v6XYPkC5wFY60g5jjfKnsLdOT5feQtbDPEgnGbsrnaIqVksxch7YhQXfQ9bgCkaTj2b-6ZGE16V_E1yHAIkyWKlToJY9fR3IXEXwp4=w143-h110"
     },
     "col_3": {
-      "text": "CPRepsCN",
+      "text": "Singor",
       "links": [
         {
-          "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/981146467993?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/789064782800?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
-    },
-    "col_6": {
-      "text": "12$"
+      "text": "32$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://cprepscn.x.yupoo.com/albums/161314761?uid=1&isSubCate=false&referrercate=4543871"
-        },
-        {
-          "label": "budget",
-          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
+          "label": "pics",
+          "url": "https://steven-1989.x.yupoo.com/albums/161202412?uid=1&isSubCate=false&referrercate=3436723"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0759"
+  }
 }

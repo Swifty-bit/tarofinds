@@ -1,13 +1,13 @@
 {
-  "name": "Racer Blue",
+  "name": "AMM(A Ma Maniere)Dusk",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "Y3",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7251929780?inviteCode=29TOTHGNH"
+      "label": "Y3",
+      "url": "https://litbuy.com/product/taobao/7251929780?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1T5ltLlz_4pkUew68mrIA6CBivUvaPQHg4Ji4teb73k7PMOjyIi0OCvafL4oqkf53wFfgQ45WLGFb5IQezIbCrVaE311WirJIFbo9pno6otG6J6w3_uobXj0wioGnycFPoZuuHgtGkg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwnxxKH15tSEGw770sqn4mOmL8PK0wfAmmL5SXWYRkZGXiAwoQsu1nMVuV1eGgWw-WjrTFDiJNrdMQz2w-iqp_rnZfwyKQxJiBp-7a8YGzpDEokTyntVu2lKaIXgWF8N6O316WR4SCiJA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0287",
   "raw_cells": {
     "col_0": {
       "text": "304"
     },
     "col_1": {
-      "text": "Racer Blue"
+      "text": "AMM(A Ma Maniere)Dusk"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1T5ltLlz_4pkUew68mrIA6CBivUvaPQHg4Ji4teb73k7PMOjyIi0OCvafL4oqkf53wFfgQ45WLGFb5IQezIbCrVaE311WirJIFbo9pno6otG6J6w3_uobXj0wioGnycFPoZuuHgtGkg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwnxxKH15tSEGw770sqn4mOmL8PK0wfAmmL5SXWYRkZGXiAwoQsu1nMVuV1eGgWw-WjrTFDiJNrdMQz2w-iqp_rnZfwyKQxJiBp-7a8YGzpDEokTyntVu2lKaIXgWF8N6O316WR4SCiJA=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "Y3",
       "links": [
         {
-          "label": "OG",
-          "url": "https://oopbuy.com/product/weidian/7251929780?inviteCode=29TOTHGNH"
+          "label": "Y3",
+          "url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "66$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0287"
+  }
 }

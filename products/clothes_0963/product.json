@@ -1,61 +1,61 @@
 {
-  "name": "Ami ParisClassic LogoZipped Hoodie3 Colors",
+  "name": "Ami ParisSweatshirt3 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "TOPAMI",
   "best_batch_links": [
     {
       "label": "TOPAMI",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F843930263352%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/843930263352?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/711573029437?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/711573029437?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "51$",
+  "best_price": "36$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://amiparis.x.yupoo.com/albums/177580341?uid=1&isSubCate=false&referrercate=4672363"
+      "url": "https://amiparis.x.yupoo.com/albums/173041459?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2AAYoy0_TCig0GIMesFQ_BVDPOM8WXPF9g-n4v43Mao3WgJ1qx2Nwu-pzh3KM4v1qxdDfe5L-gyanIEV-Dt1Q2EKS7wo2UOqqryFJZ5qELIHJSuSH-l4-W0WfIJV7-mDTUfCBGe-gIIbP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-sOv4kqgoSX7SznsfN8Ke1mxVyc5kQq8UKTCIa0z-XH2xqPkznIJeRFUa1DxjZpGx1h5mAYQetUi1iq4AnoN9Q_N759V2sGJxSI32je9Ox0N1RlKIEW-5rSi_gG7QEQetkUlnyySRuZYK=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0963",
   "raw_cells": {
     "col_0": {
-      "text": "494"
+      "text": "490"
     },
     "col_1": {
-      "text": "Ami ParisClassic LogoZipped Hoodie3 Colors"
+      "text": "Ami ParisSweatshirt3 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2AAYoy0_TCig0GIMesFQ_BVDPOM8WXPF9g-n4v43Mao3WgJ1qx2Nwu-pzh3KM4v1qxdDfe5L-gyanIEV-Dt1Q2EKS7wo2UOqqryFJZ5qELIHJSuSH-l4-W0WfIJV7-mDTUfCBGe-gIIbP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-sOv4kqgoSX7SznsfN8Ke1mxVyc5kQq8UKTCIa0z-XH2xqPkznIJeRFUa1DxjZpGx1h5mAYQetUi1iq4AnoN9Q_N759V2sGJxSI32je9Ox0N1RlKIEW-5rSi_gG7QEQetkUlnyySRuZYK=w143-h110"
     },
     "col_3": {
       "text": "TOPAMI",
       "links": [
         {
           "label": "TOPAMI",
-          "url": "https://www.oopbuy.com/product/1/843930263352?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/711573029437?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "51$"
+      "text": "36$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://amiparis.x.yupoo.com/albums/177580341?uid=1&isSubCate=false&referrercate=4672363"
+          "url": "https://amiparis.x.yupoo.com/albums/173041459?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0963"
+  }
 }

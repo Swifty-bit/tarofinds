@@ -1,55 +1,48 @@
 {
-  "name": "Gray Kaws",
+  "name": "Canyon Purple",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX/R1",
+  "best_batch": "PK",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "R1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327098245%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7327098245?inviteCode=29TOTHGNH"
+      "label": "PK",
+      "url": "https://litbuy.com/product/taobao/4284806706?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4284806706?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "KX2.0",
   "budget_batch_links": [
     {
       "label": "KX2.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7249836913%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7249836913?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "83$ / 75$",
+  "best_price": "63$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxF7JFyj8FX6nsU60mtuDltxbPYWH176K3C3KK0U8Zpb_xyrLaLAQhHqrJkx46sJGTy310dQrhH5-Gej8kCAlbmIvFOOfkSOZ0I8KXod1-04kfXAd9fTPLGoGAVBD4aJ1wvjjg78YERZdrI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzW_1W6VtXR-muBVzCMccXHJuqxnxAkKNTIWj6uE29fIX-Cp9umHPN1-qQdM18BHQXHzrSRC5i3nRfHOy0R1VpCy-JxYAAR4UGLCnX4JyeQZAUSX_VH1B1cdpiciwXwIPCtfs7iRCwuL4_g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0249",
   "raw_cells": {
     "col_0": {
       "text": "264"
     },
     "col_1": {
-      "text": "Gray Kaws"
+      "text": "Canyon Purple"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxF7JFyj8FX6nsU60mtuDltxbPYWH176K3C3KK0U8Zpb_xyrLaLAQhHqrJkx46sJGTy310dQrhH5-Gej8kCAlbmIvFOOfkSOZ0I8KXod1-04kfXAd9fTPLGoGAVBD4aJ1wvjjg78YERZdrI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzW_1W6VtXR-muBVzCMccXHJuqxnxAkKNTIWj6uE29fIX-Cp9umHPN1-qQdM18BHQXHzrSRC5i3nRfHOy0R1VpCy-JxYAAR4UGLCnX4JyeQZAUSX_VH1B1cdpiciwXwIPCtfs7iRCwuL4_g=w143-h110"
     },
     "col_3": {
-      "text": "GX/R1",
+      "text": "PK",
       "links": [
         {
-          "label": "GX",
-          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "R1",
-          "url": "https://oopbuy.com/product/2/7327098245?inviteCode=29TOTHGNH"
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/4284806706?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "83$ / 75$"
+      "text": "63$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0249"
+  }
 }

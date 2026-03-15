@@ -1,5 +1,5 @@
 {
-  "name": "MM6V-Neck Sweater2 Colors",
+  "name": "MM6 Hoodie35 Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F815472531929%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/815472531929?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/737744067396?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/737744067396?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "12$",
+  "budget_price": "18$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1963790824006836225?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://plug4.me/item/737744067396?channel=ali_1688&platformName=oopbuy&discordChannelId=1260131355573092412"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzW5KH3_55nOM9dwQiTtwrZKQtJKAijL2BIgkMEWRhnxnMqnn9KHChlxJDoU8sRvyCMNYuj1Q4IMWK4s3fun56nSjjy6UQ_I2R4NRoOq8azMk4CzmfycZyML1MbPegN3VksaFIm9bjCw5kj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azra1xwR1guYjv81-shReD9y4czfz6yzM3HDuRkI-iWpTH9Il3PGIjMtQAyQgWSmo4wXWcM-n7NFJCBdvCeypZFTT6qVyJFuRZjo3Vh8XGPgxzN8bngeVPeQPjHvug6cpi_i7_f4pEsrsZT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1169",
   "raw_cells": {
     "col_0": {
-      "text": "734"
+      "text": "730"
     },
     "col_1": {
-      "text": "MM6V-Neck Sweater2 Colors"
+      "text": "MM6 Hoodie35 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzW5KH3_55nOM9dwQiTtwrZKQtJKAijL2BIgkMEWRhnxnMqnn9KHChlxJDoU8sRvyCMNYuj1Q4IMWK4s3fun56nSjjy6UQ_I2R4NRoOq8azMk4CzmfycZyML1MbPegN3VksaFIm9bjCw5kj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azra1xwR1guYjv81-shReD9y4czfz6yzM3HDuRkI-iWpTH9Il3PGIjMtQAyQgWSmo4wXWcM-n7NFJCBdvCeypZFTT6qVyJFuRZjo3Vh8XGPgxzN8bngeVPeQPjHvug6cpi_i7_f4pEsrsZT=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/815472531929?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/737744067396?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "12$"
+      "text": "18$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1963790824006836225?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://plug4.me/item/737744067396?channel=ali_1688&platformName=oopbuy&discordChannelId=1260131355573092412"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1169"
+  }
 }

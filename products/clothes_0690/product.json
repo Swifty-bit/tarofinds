@@ -1,55 +1,57 @@
 {
-  "name": "CorteizDenimShorts JeansBlack",
+  "name": "CorteizC-Star DenimJeans JacketBlack",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656885992%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656885992?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656846582?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656846582?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F753380910952%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/753380910952?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/753388270425?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/753388270425?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "32$",
-  "budget_price": "15$",
+  "best_price": "39$",
+  "budget_price": "24$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/174192552?uid=1&isSubCate=false&referrercate=3847505"
+      "url": "https://goat-official.x.yupoo.com/albums/157876116?uid=1"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1880888331555934210"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1939489382689009665?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVrj4p_TG2HMuieCZ--Er_bETSu3toIpdHLJ2Sqhxrj9Gm_w0qmYxLeXF3EFnoiv9l5n3I2cSAQp1GYLlx7jdDOlJWnw5M4QEyp_1-7e0SY9CSQZ8rfvI5Tv4sMiU6gWirxId2eBw-BROB=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azt-bMGZf4O-StUS-dIXodO7hArkeF8DnAmLBeTctzC_kaa5F-xzjTp35JmoLpal2JX3TxmiJSJubmggjgzgHqY7XI3snFzYkA0SxF2cFlUBtLo36qsDIDppd4aWRuKI5qw2MYCQScD1pvZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0690",
   "raw_cells": {
     "col_0": {
-      "text": "171"
+      "text": "167"
     },
     "col_1": {
-      "text": "CorteizDenimShorts JeansBlack"
+      "text": "CorteizC-Star DenimJeans JacketBlack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVrj4p_TG2HMuieCZ--Er_bETSu3toIpdHLJ2Sqhxrj9Gm_w0qmYxLeXF3EFnoiv9l5n3I2cSAQp1GYLlx7jdDOlJWnw5M4QEyp_1-7e0SY9CSQZ8rfvI5Tv4sMiU6gWirxId2eBw-BROB=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azt-bMGZf4O-StUS-dIXodO7hArkeF8DnAmLBeTctzC_kaa5F-xzjTp35JmoLpal2JX3TxmiJSJubmggjgzgHqY7XI3snFzYkA0SxF2cFlUBtLo36qsDIDppd4aWRuKI5qw2MYCQScD1pvZ=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656885992?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656846582?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -58,30 +60,28 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/753380910952?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/753388270425?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "39$"
     },
     "col_6": {
-      "text": "15$"
+      "text": "24$"
     },
     "col_7": {
       "text": "best/budget",
       "links": [
         {
           "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/174192552?uid=1&isSubCate=false&referrercate=3847505"
+          "url": "https://goat-official.x.yupoo.com/albums/157876116?uid=1"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1880888331555934210"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1939489382689009665?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0690"
+  }
 }

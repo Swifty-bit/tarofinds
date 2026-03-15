@@ -1,61 +1,61 @@
 {
-  "name": "Gucci Polo",
+  "name": "BurberryVintage Check Cap",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
+  "best_batch": "ogwave",
   "best_batch_links": [
     {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7423391054%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7423391054?inviteCode=29TOTHGNH"
+      "label": "ogwave",
+      "url": "https://litbuy.com/product/weidian/7434981036?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7434981036?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "36$",
+  "best_price": "19$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://thethunder.x.yupoo.com/albums/130752787?uid=1&isSubCate=false&referrercate=3972376"
+      "url": "https://ogwave.x.yupoo.com/albums/176446443?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCkS8j1eDHHmroFSF5X804yyx77UbsY57BflYH0k9qW_r2DtyH-04oZ-aERyUgkZENF0TkVpvqGmw8Vkgxec7d720jAJFGYxag9YmLlaqPmCc2WHuZ39Vp2ZzguCNCO-RC6kCDkVDxv76N=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwhbOISdG_J-BBQkvSwi1z4Zdh93ZdRDinYSKgjMAkTjKMaI701KHF9XkgSHPp13JVawzn_8x9l8mMwm1JEiBGIFco-cEbkKdoikMBk2G8rx47JHYSL-l7u2JRemYURoxS-wyHf7C8syYnE=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1415",
   "raw_cells": {
     "col_0": {
-      "text": "1024"
+      "text": "1018"
     },
     "col_1": {
-      "text": "Gucci Polo"
+      "text": "BurberryVintage Check Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCkS8j1eDHHmroFSF5X804yyx77UbsY57BflYH0k9qW_r2DtyH-04oZ-aERyUgkZENF0TkVpvqGmw8Vkgxec7d720jAJFGYxag9YmLlaqPmCc2WHuZ39Vp2ZzguCNCO-RC6kCDkVDxv76N=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwhbOISdG_J-BBQkvSwi1z4Zdh93ZdRDinYSKgjMAkTjKMaI701KHF9XkgSHPp13JVawzn_8x9l8mMwm1JEiBGIFco-cEbkKdoikMBk2G8rx47JHYSL-l7u2JRemYURoxS-wyHf7C8syYnE=w143-h110"
     },
     "col_3": {
-      "text": "Thunder",
+      "text": "ogwave",
       "links": [
         {
-          "label": "Thunder",
-          "url": "https://www.oopbuy.com/product/weidian/7423391054?inviteCode=29TOTHGNH"
+          "label": "ogwave",
+          "url": "https://www.oopbuy.com/product/weidian/7434981036?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "36$"
+      "text": "19$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://thethunder.x.yupoo.com/albums/130752787?uid=1&isSubCate=false&referrercate=3972376"
+          "url": "https://ogwave.x.yupoo.com/albums/176446443?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1415"
+  }
 }

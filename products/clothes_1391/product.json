@@ -1,61 +1,61 @@
 {
-  "name": "BurberryCheck Polo2 Colors",
+  "name": "RepresentGiants Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
+  "best_batch": "UnionKingdom",
   "best_batch_links": [
     {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7575586412%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7575586412?inviteCode=29TOTHGNH"
+      "label": "UnionKingdom",
+      "url": "https://litbuy.com/product/weidian/750874025260?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/750874025260?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "41$",
+  "best_price": "35$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://thethunder.x.yupoo.com/albums/151320400?uid=1&isSubCate=false&referrercate=3972377"
+      "url": "https://unionkingdom.x.yupoo.com/albums/150188307?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyrfQ7WmiNYVFBFw3J1t9BfM5j6jRl46FvK_MSaVC7zsBtWyygLZ7jpHGq64x8O7-ohdzFOurxHJMCHMdK2ZFOHum2SS7hbiNUaKWpL9acEeVZ6OlfBYJYg1R5jDgxvzkFOdrtJ9wow6I6W=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzlbSlFbLtZj7J2gDXCpHTlii1X0blZzn67Tl0RsnSzH4MRmwRw-xHnCD9l3SnC6ywp_9R-FEmKVHV5CB3OsGiRwvmiQG1T9uHQuu39FSsUcLIm-fWFxISKfjDqGI2LJswJaSVkKs8CDiOO=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1391",
   "raw_cells": {
     "col_0": {
-      "text": "998"
+      "text": "990"
     },
     "col_1": {
-      "text": "BurberryCheck Polo2 Colors"
+      "text": "RepresentGiants Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrfQ7WmiNYVFBFw3J1t9BfM5j6jRl46FvK_MSaVC7zsBtWyygLZ7jpHGq64x8O7-ohdzFOurxHJMCHMdK2ZFOHum2SS7hbiNUaKWpL9acEeVZ6OlfBYJYg1R5jDgxvzkFOdrtJ9wow6I6W=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzlbSlFbLtZj7J2gDXCpHTlii1X0blZzn67Tl0RsnSzH4MRmwRw-xHnCD9l3SnC6ywp_9R-FEmKVHV5CB3OsGiRwvmiQG1T9uHQuu39FSsUcLIm-fWFxISKfjDqGI2LJswJaSVkKs8CDiOO=w143-h110"
     },
     "col_3": {
-      "text": "Thunder",
+      "text": "UnionKingdom",
       "links": [
         {
-          "label": "Thunder",
-          "url": "https://oopbuy.com/product/weidian/7575586412?inviteCode=29TOTHGNH"
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/750874025260?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "41$"
+      "text": "35$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://thethunder.x.yupoo.com/albums/151320400?uid=1&isSubCate=false&referrercate=3972377"
+          "url": "https://unionkingdom.x.yupoo.com/albums/150188307?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1391"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosDenim Jacket Raw",
+  "name": "Acne Studio2023 JeansMany Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
       "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F929720924502%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/929720924502?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/876474890181?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/876474890181?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "57$",
+  "best_price": "52$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/192996893?uid=1&isSubCate=false&referrercate=4651184"
+      "url": "https://mvt-shop01.x.yupoo.com/categories/4963095"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyJZhiZv0yZK1Z_CGOFMNH3d5PSuHMj7hs53inl3Pq2P4TC8SZMLh0s4XxKB7JH50_yAMw0Jc_oA0DVBJegVRnegE_6dgndwERe61YtJkYASND0K2L5uanXvDDb0Ghk3wf_WjOGIzU0HA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay9T96kP6LcGR6bv3lVDwbDH40zDtAWYEYEdNcwMvbnMGGMxuriz6ojIYfjYvKuQal_lcxVW8Hx1DJh0zlEt_e-SQe0QoKJkLF5dHWs9V1ShBfVUXSvTabmMSkkQBoI7w4ubcnnJ1WASAGq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1155",
   "raw_cells": {
     "col_0": {
-      "text": "718"
+      "text": "714"
     },
     "col_1": {
-      "text": "Acne StudiosDenim Jacket Raw"
+      "text": "Acne Studio2023 JeansMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyJZhiZv0yZK1Z_CGOFMNH3d5PSuHMj7hs53inl3Pq2P4TC8SZMLh0s4XxKB7JH50_yAMw0Jc_oA0DVBJegVRnegE_6dgndwERe61YtJkYASND0K2L5uanXvDDb0Ghk3wf_WjOGIzU0HA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay9T96kP6LcGR6bv3lVDwbDH40zDtAWYEYEdNcwMvbnMGGMxuriz6ojIYfjYvKuQal_lcxVW8Hx1DJh0zlEt_e-SQe0QoKJkLF5dHWs9V1ShBfVUXSvTabmMSkkQBoI7w4ubcnnJ1WASAGq=w143-h110"
     },
     "col_3": {
       "text": "mvt-shop01",
       "links": [
         {
           "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/929720924502?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/876474890181?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "57$"
+      "text": "52$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/192996893?uid=1&isSubCate=false&referrercate=4651184"
+          "url": "https://mvt-shop01.x.yupoo.com/categories/4963095"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1155"
+  }
 }

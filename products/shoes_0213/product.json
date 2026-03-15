@@ -1,12 +1,12 @@
 {
-  "name": "Travis ScottOlive",
+  "name": "Travis Scott Purple(Friends and Family)",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxPxJmt03KmmCWgiaU-ZHrSDnFbSowPuBtNqhaI8Na8QSHYnlO-FuxS4voJBIvpPkZpclqagJIIoMd5nTPT4DWJ34l27jU-kYNOZkOPjjzzEljcndhZw_d19Hlp3hrZfTmCdY1C-0YMYg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXfvD5WkwYeCk7HFjK-SyR8HNcr37IrGakIQsoCK8lMsEqW9A0B2subWDe9itM6efElqvBVLM1yecykPdUzMBP11JiFxZqY0fD0Io9hI6ujlsfRzXF2ArlrrC9wIxfmVmdXkuajPSJor5U=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0213",
   "raw_cells": {
     "col_0": {
       "text": "228"
     },
     "col_1": {
-      "text": "Travis ScottOlive"
+      "text": "Travis Scott Purple(Friends and Family)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxPxJmt03KmmCWgiaU-ZHrSDnFbSowPuBtNqhaI8Na8QSHYnlO-FuxS4voJBIvpPkZpclqagJIIoMd5nTPT4DWJ34l27jU-kYNOZkOPjjzzEljcndhZw_d19Hlp3hrZfTmCdY1C-0YMYg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXfvD5WkwYeCk7HFjK-SyR8HNcr37IrGakIQsoCK8lMsEqW9A0B2subWDe9itM6efElqvBVLM1yecykPdUzMBP11JiFxZqY0fD0Io9hI6ujlsfRzXF2ArlrrC9wIxfmVmdXkuajPSJor5U=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "66$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0213"
+  }
 }

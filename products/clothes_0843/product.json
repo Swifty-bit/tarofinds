@@ -1,61 +1,61 @@
 {
-  "name": "Fendi Capw/ Box",
+  "name": "DiorZip Hoodie4 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F888001677242%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/888001677242?inviteCode=29TOTHGNH"
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/948265050471?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/948265050471?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "18$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "65$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1990606557505736706?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/201881188?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay5hGDFPNwl2f2OI8wW17V9knL3po1ndfpZKwge75kDSdcPWATmAIEgJZxK0KZCIJDv4wCPy--tLx5VuJZyTHuNG7Fr4Mo7pxZDsv6PWp2J8WjGYLMqsGc7MbMtgeyXBS-41TMFZX4RJw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1K-AXcYmzF5c1n0aFb8BOgTDSQUYVxuq3KdsEsxYwqW67LzFTStakcsDl-MUwY6LYFhgSi6Yz0ubH3ej1PJIlW3iz7zIAJFfT6G4xKpvg0XSHzSay8C1zm40_47v_nfo34Ul3dPZTdA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0843",
   "raw_cells": {
     "col_0": {
-      "text": "344"
+      "text": "338"
     },
     "col_1": {
-      "text": "Fendi Capw/ Box"
+      "text": "DiorZip Hoodie4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay5hGDFPNwl2f2OI8wW17V9knL3po1ndfpZKwge75kDSdcPWATmAIEgJZxK0KZCIJDv4wCPy--tLx5VuJZyTHuNG7Fr4Mo7pxZDsv6PWp2J8WjGYLMqsGc7MbMtgeyXBS-41TMFZX4RJw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1K-AXcYmzF5c1n0aFb8BOgTDSQUYVxuq3KdsEsxYwqW67LzFTStakcsDl-MUwY6LYFhgSi6Yz0ubH3ej1PJIlW3iz7zIAJFfT6G4xKpvg0XSHzSay8C1zm40_47v_nfo34Ul3dPZTdA=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "tophotfashion",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/888001677242?inviteCode=29TOTHGNH"
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/1/948265050471?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "18$"
+    "col_5": {
+      "text": "65$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1990606557505736706?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/201881188?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0843"
+  }
 }

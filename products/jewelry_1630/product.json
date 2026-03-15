@@ -1,61 +1,61 @@
 {
-  "name": "Chrome HeartsDice Bracelet",
+  "name": "Chrome HeartsRings45 Styles",
   "category": "Jewelry",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7260793627%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7260793627?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7269840834?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7269840834?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "49$",
+  "best_price": "44$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1922094533649154050?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://doppel.fit/item/weidian/7269840834"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axsyx_mSQpOjMolGl6gjfd5uChmI9yUWkRjFUiXwzQBNPId5ZVz7iUN6gHaXrB4931Ad1yxjBgf0Au1OzF8_6pFVmUC3x-cXRyZP9ivModUUEizNml2zyvpp2_CD8ynKNsXZT9PLblEXpdx=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxhlCAsZjmRR4_AeW7BziDCTb6KE-ytUgWMpsQsBOw7mPdQOEevdxcCiVgDhmDL6Lg1m2Sgm-d_Xq7STFFrGO2vDjFWMhe1SqF-DSZ4TtQ12H5CWMRonYFgsle5hiFnVdVEE4ZcQP5CMHd9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1630",
   "raw_cells": {
     "col_0": {
-      "text": "44"
+      "text": "39"
     },
     "col_1": {
-      "text": "Chrome HeartsDice Bracelet"
+      "text": "Chrome HeartsRings45 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axsyx_mSQpOjMolGl6gjfd5uChmI9yUWkRjFUiXwzQBNPId5ZVz7iUN6gHaXrB4931Ad1yxjBgf0Au1OzF8_6pFVmUC3x-cXRyZP9ivModUUEizNml2zyvpp2_CD8ynKNsXZT9PLblEXpdx=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxhlCAsZjmRR4_AeW7BziDCTb6KE-ytUgWMpsQsBOw7mPdQOEevdxcCiVgDhmDL6Lg1m2Sgm-d_Xq7STFFrGO2vDjFWMhe1SqF-DSZ4TtQ12H5CWMRonYFgsle5hiFnVdVEE4ZcQP5CMHd9=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/2/7260793627?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7269840834?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "49$"
+      "text": "44$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1922094533649154050?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://doppel.fit/item/weidian/7269840834"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1630"
+  }
 }

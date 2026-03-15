@@ -1,12 +1,12 @@
 {
-  "name": "White Cement",
+  "name": "Black Cement",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7297925857%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7297925857?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxaT30YP1dDv17kkLQr4_qU4F9U8oxnT8danQGamT7yedWvjUHzzzOxN1pTx089NF5xOFoYznsZZ8XXJwrQtEewRIHl3z6f1vA2xhs1dAFj-daXzZvhBqXavCsh6fJ_-JExtM2DHKpiwmJj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPEysAn8CdSvsoZBq_1Tj2oaS7kNMi1ls-4DNvcKQJq5DK0b3Eay_4CwHUBghvJtkKSdDJsvTG9vlregI4NY3rbeJCl0ts8jsZeK0fIx0S9ZvE-g3ZU9mhyUFxhHb1HGWWPkA8r46uBr2Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0187",
   "raw_cells": {
     "col_0": {
       "text": "200"
     },
     "col_1": {
-      "text": "White Cement"
+      "text": "Black Cement"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxaT30YP1dDv17kkLQr4_qU4F9U8oxnT8danQGamT7yedWvjUHzzzOxN1pTx089NF5xOFoYznsZZ8XXJwrQtEewRIHl3z6f1vA2xhs1dAFj-daXzZvhBqXavCsh6fJ_-JExtM2DHKpiwmJj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPEysAn8CdSvsoZBq_1Tj2oaS7kNMi1ls-4DNvcKQJq5DK0b3Eay_4CwHUBghvJtkKSdDJsvTG9vlregI4NY3rbeJCl0ts8jsZeK0fIx0S9ZvE-g3ZU9mhyUFxhHb1HGWWPkA8r46uBr2Q=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0187"
+  }
 }

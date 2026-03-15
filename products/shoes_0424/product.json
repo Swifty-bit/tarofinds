@@ -1,74 +1,68 @@
 {
-  "name": "Speed Trainer",
+  "name": "Track Runners with LED",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GOURD/H",
+  "best_batch": "OK/VG",
   "best_batch_links": [
     {
-      "label": "GOURD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5917226967%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/5917226967?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "H",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7433582142%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7433582142?inviteCode=29TOTHGNH"
+      "label": "OK",
+      "url": "https://litbuy.com/product/taobao/6562735441?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6562735441?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "I8 LED",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F847059890789%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/847059890789?inviteCode=29TOTHGNH"
+      "label": "I8 LED",
+      "url": "https://litbuy.com/product/weidian/7611453537?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7611453537?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "48$",
-  "budget_price": "30$",
-  "pics_text": "30$",
+  "best_price": "77$ / 71$",
+  "budget_price": "46$",
+  "pics_text": "46$",
   "pics_links": [],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDCPOP7qc-NTQZCmMIbWtDsFa9pAAaUD-S7PNr3T8OGY3VzpkWGq7i8iTdPw458PDNS8F33QGKAi1id6GC1AS078tN3yjUVBj1u-7IMOv5N1tD5LX4_ESnrt5PKqewn_PGaeALyny8nnAo=w143-h110",
+  "notes": "Size down 0.5 EU size(tracks are bigger)",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzM03vtaCsFBbZRLQKGlVh8GDA1Yrk6JTT4CzZLC9QuTUeiZxoKlvGV8qLHfDsbC50YkmHdcbugFuNyw3aC_mtPBQfDDtw-Ew18jHdh87cqHkxyTSiW7dV3BzuVitDu1SrtDBlSnMUnbkua=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0424",
   "raw_cells": {
     "col_0": {
       "text": "483"
     },
     "col_1": {
-      "text": "Speed Trainer"
+      "text": "Track Runners with LED"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDCPOP7qc-NTQZCmMIbWtDsFa9pAAaUD-S7PNr3T8OGY3VzpkWGq7i8iTdPw458PDNS8F33QGKAi1id6GC1AS078tN3yjUVBj1u-7IMOv5N1tD5LX4_ESnrt5PKqewn_PGaeALyny8nnAo=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzM03vtaCsFBbZRLQKGlVh8GDA1Yrk6JTT4CzZLC9QuTUeiZxoKlvGV8qLHfDsbC50YkmHdcbugFuNyw3aC_mtPBQfDDtw-Ew18jHdh87cqHkxyTSiW7dV3BzuVitDu1SrtDBlSnMUnbkua=w143-h110"
     },
     "col_3": {
-      "text": "GOURD/H",
+      "text": "OK/VG",
       "links": [
         {
-          "label": "GOURD",
-          "url": "https://oopbuy.com/product/2/5917226967?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "H",
-          "url": "https://oopbuy.com/product/weidian/7433582142?inviteCode=29TOTHGNH"
+          "label": "OK",
+          "url": "https://oopbuy.com/product/2/6562735441?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "I8 LED",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/847059890789?inviteCode=29TOTHGNH"
+          "label": "I8 LED",
+          "url": "https://oopbuy.com/product/weidian/7611453537?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "48$"
+      "text": "77$ / 71$"
     },
     "col_6": {
-      "text": "30$"
+      "text": "46$"
+    },
+    "col_7": {
+      "text": "Size down 0.5 EU size(tracks are bigger)"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0424"
+  }
 }

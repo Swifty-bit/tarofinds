@@ -1,12 +1,12 @@
 {
-  "name": "Travis ScottOlive Low",
+  "name": "Travis Scott Reverse Mocha Low",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "PK4.0",
   "best_batch_links": [
     {
       "label": "PK4.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7632127461%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7632127461?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7632127461?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "PK4.0 B GRADE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327454526%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7327454526?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "34$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayjo-DZB2_B5soZ77EmluksyeQa22O3AIhEH9rBzrY5ZAxbEbd5r2xEbrm4cq5UXIndMBcOyyZUObNjcd4AIOEVanAgAPgC6gfh-tVVRXGnMOBUDDYnkvp2tD7mY52ZLOZax92eF7ONLlQW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axn_X6yAKXsNxg2x2U2aOSuCLjQK6S8fsB51DAS4g0VPuwdRwnyi1j-8e7atcQNM1Dp67iinxBIuPJuhhiWpZmgS-g1RRZ8LaruXSXVhFw2jOqH56IGezyji_PuKy8Ke0cJ2xHrDVm6764h=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0141",
   "raw_cells": {
     "col_0": {
       "text": "152"
     },
     "col_1": {
-      "text": "Travis ScottOlive Low"
+      "text": "Travis Scott Reverse Mocha Low"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayjo-DZB2_B5soZ77EmluksyeQa22O3AIhEH9rBzrY5ZAxbEbd5r2xEbrm4cq5UXIndMBcOyyZUObNjcd4AIOEVanAgAPgC6gfh-tVVRXGnMOBUDDYnkvp2tD7mY52ZLOZax92eF7ONLlQW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axn_X6yAKXsNxg2x2U2aOSuCLjQK6S8fsB51DAS4g0VPuwdRwnyi1j-8e7atcQNM1Dp67iinxBIuPJuhhiWpZmgS-g1RRZ8LaruXSXVhFw2jOqH56IGezyji_PuKy8Ke0cJ2xHrDVm6764h=w143-h110"
     },
     "col_3": {
       "text": "PK4.0",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "34$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0141"
+  }
 }

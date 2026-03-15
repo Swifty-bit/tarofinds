@@ -1,61 +1,61 @@
 {
-  "name": "CB Shorts5 Colors",
+  "name": "CB T-Shirt6 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "akdingji",
   "best_batch_links": [
     {
       "label": "akdingji",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243976533%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7243976533?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7239548340?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7239548340?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "13$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://akdingji.x.yupoo.com/albums/166023874?uid=1"
+      "url": "https://akdingji.x.yupoo.com/albums/161846706?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwsDa-ZtlrtVI3N_8-KJQnTTYx_3V6tlgABDHkZgSGlIu1Q7A5aCxgBM8Z6dIdEJJZbNGNut77w4KtpFA_p_8gtGGt-ou4Y6nNAYkur2INxxSthpaNjsbvqSvjzQdDtQBYJBOTOZbiGUR_N=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_t1wqOjJyY0kAuhDgU7Rbe7qwYeoHvs7Dt0oQRXNKmXGrwb7BNbC_9rdPmQ_MMo9cbYPs_auuWhBKGP85ZYej_hW90Pzv3H-YhCpdYnVeejYA79qu5PvVf8KZ26SRGngC60A983i-BYc8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0755",
   "raw_cells": {
     "col_0": {
-      "text": "244"
+      "text": "240"
     },
     "col_1": {
-      "text": "CB Shorts5 Colors"
+      "text": "CB T-Shirt6 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwsDa-ZtlrtVI3N_8-KJQnTTYx_3V6tlgABDHkZgSGlIu1Q7A5aCxgBM8Z6dIdEJJZbNGNut77w4KtpFA_p_8gtGGt-ou4Y6nNAYkur2INxxSthpaNjsbvqSvjzQdDtQBYJBOTOZbiGUR_N=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_t1wqOjJyY0kAuhDgU7Rbe7qwYeoHvs7Dt0oQRXNKmXGrwb7BNbC_9rdPmQ_MMo9cbYPs_auuWhBKGP85ZYej_hW90Pzv3H-YhCpdYnVeejYA79qu5PvVf8KZ26SRGngC60A983i-BYc8=w143-h110"
     },
     "col_3": {
       "text": "akdingji",
       "links": [
         {
           "label": "akdingji",
-          "url": "https://oopbuy.com/product/weidian/7243976533?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7239548340?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "13$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://akdingji.x.yupoo.com/albums/166023874?uid=1"
+          "url": "https://akdingji.x.yupoo.com/albums/161846706?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0755"
+  }
 }

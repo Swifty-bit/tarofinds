@@ -1,61 +1,81 @@
 {
-  "name": "Ralph Lauren Striped Shirt",
+  "name": "Ralph Lauren Long-Sleeved T-Shirt(Different Tag)",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop/budget",
+  "budget_batch_links": [
     {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7232882420%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7232882420?inviteCode=29TOTHGNH"
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/746534627739?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/746534627739?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/891761015375?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/891761015375?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "24$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "15$ / 5$",
+  "pics_text": "cloudshop/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/158913463?uid=1"
+      "label": "cloudshop",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1956522257108525058?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxsK9A1SHvCyBiqNovNfj1nWi-h8HBvp_dR3KOBMkFaorJ9ybECwcXJei7B4q37yzjIxGV35IvkgbyPfjkYaQMWCHgomVenZSGn-wgXRU_JAJH3KeFfV5FqIMpVxAcrp4A8GDA8xp1JDXk6=w143-h110",
+  "notes": "For the budget 5$ link, size up 2",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxiQ_NNpkHn-XhWXhxaRToJgFdDIB-80zT2izXHOXu-Ya6PhYR1qZ2UH8RFgMT2jGPrv1jvTz9iHEQAPY1kuBJb7QVfE54xAxA6nUdBnNCMGPIc0q-3HVWhzZG00-LthI-LIYNn7EqqhP8x=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0605",
   "raw_cells": {
     "col_0": {
-      "text": "76"
+      "text": "72"
     },
     "col_1": {
-      "text": "Ralph Lauren Striped Shirt"
+      "text": "Ralph Lauren Long-Sleeved T-Shirt(Different Tag)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxsK9A1SHvCyBiqNovNfj1nWi-h8HBvp_dR3KOBMkFaorJ9ybECwcXJei7B4q37yzjIxGV35IvkgbyPfjkYaQMWCHgomVenZSGn-wgXRU_JAJH3KeFfV5FqIMpVxAcrp4A8GDA8xp1JDXk6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxiQ_NNpkHn-XhWXhxaRToJgFdDIB-80zT2izXHOXu-Ya6PhYR1qZ2UH8RFgMT2jGPrv1jvTz9iHEQAPY1kuBJb7QVfE54xAxA6nUdBnNCMGPIc0q-3HVWhzZG00-LthI-LIYNn7EqqhP8x=w143-h110"
     },
-    "col_3": {
-      "text": "Repkingdom",
+    "col_4": {
+      "text": "CloudShop/budget",
       "links": [
         {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/7232882420?inviteCode=29TOTHGNH"
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/746534627739?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/891761015375?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "24$"
+    "col_6": {
+      "text": "15$ / 5$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "cloudshop/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/158913463?uid=1"
+          "label": "cloudshop",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1956522257108525058?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "For the budget 5$ link, size up 2"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0605"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Gucci Beanie4 Colors",
+  "name": "Gucci Windbreakers",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234316984%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234316984?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/962834467725?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/962834467725?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "3$",
+  "budget_price": "33$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1977562105852289026?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014165100024385537?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxV2ihYHuYyirK7zt1UNoPnwvBnwGsmkRHKoSX14UKCzjw4tGvzpBcTtu-67Jm7JY_o7Dh4MUtlCZEJQWzLnjQmpWujPi0pDM7uu_uSU8ocGJKg1WKVyTVl1RbeUscB6nfuB5RJl6OIydEQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxUcerQGNaXgCr61p3Y2gMXojadz1EPPdh3Rt4EWZpIFw0lR9WjZI2nVcu0ppt4m-i6GzXU_92g8oNwOZ4dHO-LAtsZdZZ5jiPpUD9V2CFRgQrmAX7jEOahE-rRzt2FQmT1iX2F7uuoF-RJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1421",
   "raw_cells": {
     "col_0": {
-      "text": "1030"
+      "text": "1026"
     },
     "col_1": {
-      "text": "Gucci Beanie4 Colors"
+      "text": "Gucci Windbreakers"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxV2ihYHuYyirK7zt1UNoPnwvBnwGsmkRHKoSX14UKCzjw4tGvzpBcTtu-67Jm7JY_o7Dh4MUtlCZEJQWzLnjQmpWujPi0pDM7uu_uSU8ocGJKg1WKVyTVl1RbeUscB6nfuB5RJl6OIydEQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxUcerQGNaXgCr61p3Y2gMXojadz1EPPdh3Rt4EWZpIFw0lR9WjZI2nVcu0ppt4m-i6GzXU_92g8oNwOZ4dHO-LAtsZdZZ5jiPpUD9V2CFRgQrmAX7jEOahE-rRzt2FQmT1iX2F7uuoF-RJ=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7234316984?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/962834467725?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "3$"
+      "text": "33$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1977562105852289026?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014165100024385537?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1421"
+  }
 }

@@ -1,87 +1,61 @@
 {
-  "name": "Burberry",
+  "name": "Hermes",
   "category": "Belts",
   "subcategory": "",
   "best_batch": "K8",
   "best_batch_links": [
     {
       "label": "K8",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7237735641%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7237735641?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7237731713?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7237731713?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F769980002213%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/769980002213?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "35$",
-  "budget_price": "2$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967414884611743745?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1987345362832138241?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://plug4.me/item/7237731713?channel=weidian&platformName=cnfans&discordChannelId=1328470009227378729"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw7zzRXc3BozWsnK6xQtqjPgUSV5ft6nvwYJOJ17kux-Cehlk6itDKPQZSJBLwyiUX7Tq80jnmthz58ekW40macm1FVb0VlDCQ0uZGcGiQitYVT3oyAF_G0SgV8oODlJWqzcFLf5oZH5Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay2Lp3sLH86WkUWNTH2B3PlDPcKGj7Hxz2dxTN2BX2Eq_4txJcUIwWiIyKR-tQ5lTHFySYHYDdDN4owI5IdQXiepUy4nP7Maun_5o-Z2zNqr6QQ6Vz2bLPhGfLtRZnrf5CG1WIoc9zgMBiV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1566",
   "raw_cells": {
     "col_0": {
-      "text": "28"
+      "text": "23"
     },
     "col_1": {
-      "text": "Burberry"
+      "text": "Hermes"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw7zzRXc3BozWsnK6xQtqjPgUSV5ft6nvwYJOJ17kux-Cehlk6itDKPQZSJBLwyiUX7Tq80jnmthz58ekW40macm1FVb0VlDCQ0uZGcGiQitYVT3oyAF_G0SgV8oODlJWqzcFLf5oZH5Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay2Lp3sLH86WkUWNTH2B3PlDPcKGj7Hxz2dxTN2BX2Eq_4txJcUIwWiIyKR-tQ5lTHFySYHYDdDN4owI5IdQXiepUy4nP7Maun_5o-Z2zNqr6QQ6Vz2bLPhGfLtRZnrf5CG1WIoc9zgMBiV=w143-h110"
     },
     "col_3": {
       "text": "K8",
       "links": [
         {
           "label": "K8",
-          "url": "https://www.oopbuy.com/product/weidian/7237735641?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/769980002213?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7237731713?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
-    },
-    "col_6": {
-      "text": "2$"
+      "text": "44$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967414884611743745?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1987345362832138241?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://plug4.me/item/7237731713?channel=weidian&platformName=cnfans&discordChannelId=1328470009227378729"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1566"
+  }
 }

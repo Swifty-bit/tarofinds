@@ -1,12 +1,12 @@
 {
-  "name": "UnionLos AngelesStorm Blue",
+  "name": "UnionLos AngelesBlack Toe",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "TOPY",
   "best_batch_links": [
     {
       "label": "TOPY",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4030122428%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/4030122428?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/4030122428?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-VBU3Bx4gF5v0E_Iu9pZUGUN_7wwZrQi08R01idiPm46CO8U0ltdUlhVh2Y1nx59pKgtVphtA4bgtKrAPqoBU9L0I9MewYhaLMjgRm5MMHlVPRVLE_myKc-3wE5b51TlbrfZRU1lRoA=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzpT_IBImG1IbCJFOW8V9DaRjiY3zWeSlEd7tkF30pa25-FUTkOKRHC-SV80Bnl-OfE_MEtaSbHvh2JgDhxvBcvHLtNqb3W0u-OeR-DqakIHhlBlROdpC_eh24YziK97MLa0re1OfhEjeaJ=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0183",
   "raw_cells": {
     "col_0": {
       "text": "194"
     },
     "col_1": {
-      "text": "UnionLos AngelesStorm Blue"
+      "text": "UnionLos AngelesBlack Toe"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-VBU3Bx4gF5v0E_Iu9pZUGUN_7wwZrQi08R01idiPm46CO8U0ltdUlhVh2Y1nx59pKgtVphtA4bgtKrAPqoBU9L0I9MewYhaLMjgRm5MMHlVPRVLE_myKc-3wE5b51TlbrfZRU1lRoA=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzpT_IBImG1IbCJFOW8V9DaRjiY3zWeSlEd7tkF30pa25-FUTkOKRHC-SV80Bnl-OfE_MEtaSbHvh2JgDhxvBcvHLtNqb3W0u-OeR-DqakIHhlBlROdpC_eh24YziK97MLa0re1OfhEjeaJ=w143-h100"
     },
     "col_3": {
       "text": "TOPY",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0183"
+  }
 }

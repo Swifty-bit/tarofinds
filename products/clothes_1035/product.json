@@ -1,46 +1,61 @@
 {
-  "name": "CDG PlayLong Sleeve PrintedT-Shirt",
+  "name": "CDG PlayT-ShirtMany Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "",
-  "budget_price": "",
-  "pics_text": "pics",
-  "pics_links": [
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "pics",
-      "url": "https://repbros.x.yupoo.com/albums/206698297?uid=1&isSubCate=false&referrercate=4980597"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/635772572129?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/635772572129?inviteCode=29TOTHGNH"
     }
   ],
-  "notes": "100% Cotton",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzfSSu39vcqz0EpNUrLEWYejlf-dwoLCOkbFZl33Ji0TkSztxJx2PDnLvCRCSbIZB5eDBCOp-qOU6zHwCzEYuFZWPgELgZ2OcSMvodmz66TLUovvpT4L_eQW9A4oUOGY123Gi2Wk0LUlQ=w143-h110",
+  "best_price": "",
+  "budget_price": "7$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967415461886386178?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCabr66ZNmdE-ReGc8M9ozVADeEYeDeuEa1cNrcLQcfm3I-ZgG8D2sKA5dTDwgiqTG4Yn_7ouZG44x0tdtmEvF52IQxDYL8asQgRCg9IWOCv2hZygug7djZsEGzkWDk97PZjVTfk5Jiw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1035",
   "raw_cells": {
     "col_0": {
-      "text": "580"
+      "text": "576"
     },
     "col_1": {
-      "text": "CDG PlayLong Sleeve PrintedT-Shirt"
+      "text": "CDG PlayT-ShirtMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzfSSu39vcqz0EpNUrLEWYejlf-dwoLCOkbFZl33Ji0TkSztxJx2PDnLvCRCSbIZB5eDBCOp-qOU6zHwCzEYuFZWPgELgZ2OcSMvodmz66TLUovvpT4L_eQW9A4oUOGY123Gi2Wk0LUlQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCabr66ZNmdE-ReGc8M9ozVADeEYeDeuEa1cNrcLQcfm3I-ZgG8D2sKA5dTDwgiqTG4Yn_7ouZG44x0tdtmEvF52IQxDYL8asQgRCg9IWOCv2hZygug7djZsEGzkWDk97PZjVTfk5Jiw=w143-h110"
     },
-    "col_7": {
-      "text": "pics",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repbros.x.yupoo.com/albums/206698297?uid=1&isSubCate=false&referrercate=4980597"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/1/635772572129?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_8": {
-      "text": "100% Cotton"
+    "col_6": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967415461886386178?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1035"
+  }
 }

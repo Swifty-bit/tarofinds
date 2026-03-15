@@ -1,87 +1,61 @@
 {
-  "name": "Louis VuittonBracelet",
+  "name": "PandoraCouple Ring",
   "category": "Jewelry",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7260726003%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7260726003?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7299476734?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7299476734?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F817546805642%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/817546805642?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "19$",
-  "budget_price": "5$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "25$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1952900151464517634?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1978649428815863809?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2032033495179158956?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYaXOfnaeVRzxWFrUW-UyZicUFcW_2ABdOnErys0xnzLW10FeiDTf_tKzeDbjM0xYKodj29MN3xXP8qOJyHm0aKjgKykL-sOnK1ZiYZlm4HABA5LpDIWIxeJhGB2YLaVHsOULwLM1cd1qo=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRxDodHPRFqMCXAnMb_F0Wm5glozKXhNa5VZkaeQMh_5gt4uGIwvmz1LfxO9tMt9AUzcvOo5BD4Rs4l2ryuYBjFeEWP_tyyzeH-WlCFr2gFwQDf8kp6vm5yk3E2pn1djGZogRo_OxxAw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1605",
   "raw_cells": {
     "col_0": {
-      "text": "19"
+      "text": "14"
     },
     "col_1": {
-      "text": "Louis VuittonBracelet"
+      "text": "PandoraCouple Ring"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYaXOfnaeVRzxWFrUW-UyZicUFcW_2ABdOnErys0xnzLW10FeiDTf_tKzeDbjM0xYKodj29MN3xXP8qOJyHm0aKjgKykL-sOnK1ZiYZlm4HABA5LpDIWIxeJhGB2YLaVHsOULwLM1cd1qo=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRxDodHPRFqMCXAnMb_F0Wm5glozKXhNa5VZkaeQMh_5gt4uGIwvmz1LfxO9tMt9AUzcvOo5BD4Rs4l2ryuYBjFeEWP_tyyzeH-WlCFr2gFwQDf8kp6vm5yk3E2pn1djGZogRo_OxxAw=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7260726003?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/817546805642?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7299476734?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "19$"
-    },
-    "col_6": {
-      "text": "5$"
+      "text": "25$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1952900151464517634?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1978649428815863809?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2032033495179158956?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1605"
+  }
 }

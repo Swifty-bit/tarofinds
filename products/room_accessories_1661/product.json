@@ -1,38 +1,61 @@
 {
-  "name": "1989 Batmobile",
+  "name": "PorscheMany Styles",
   "category": "Room Accessories",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
+  "best_batch": "Qingwen",
+  "best_batch_links": [
+    {
+      "label": "Qingwen",
+      "url": "https://litbuy.com/product/weidian/668509658282?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/668509658282?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "68$",
+  "best_price": "13$",
   "budget_price": "",
-  "pics_text": "/",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1958696391250894850?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwGMZs33DrmX8V-RVNQkd2x-KGSE2xhSEqoljlP7VyH-ffkVYxgHdk00C-xM_9sOcqdBqRObj85CUlI6WXqWh3L06QbPJ6ao0SCg4izZSvYSOwB_mUDKIyNeaFAmNNYpOFrqRO9_ouWzn0x=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5O-PzxUVMAUpeD2WJn3RjjvW9RdCeTUbdgYpM5FyB4PBCKOqaONOduZK6wBWo7yN2mvk5NiMJ_VihlmfLOPkxcs_M9G4pO3daT6di2sfpzT5Q3FGDwr1eQdY8lL4Gg5utmy7cOz8SfQJ7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1661",
   "raw_cells": {
     "col_0": {
-      "text": "25"
+      "text": "17"
     },
     "col_1": {
-      "text": "1989 Batmobile"
+      "text": "PorscheMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwGMZs33DrmX8V-RVNQkd2x-KGSE2xhSEqoljlP7VyH-ffkVYxgHdk00C-xM_9sOcqdBqRObj85CUlI6WXqWh3L06QbPJ6ao0SCg4izZSvYSOwB_mUDKIyNeaFAmNNYpOFrqRO9_ouWzn0x=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5O-PzxUVMAUpeD2WJn3RjjvW9RdCeTUbdgYpM5FyB4PBCKOqaONOduZK6wBWo7yN2mvk5NiMJ_VihlmfLOPkxcs_M9G4pO3daT6di2sfpzT5Q3FGDwr1eQdY8lL4Gg5utmy7cOz8SfQJ7=w143-h110"
     },
     "col_3": {
-      "text": "/"
+      "text": "Qingwen",
+      "links": [
+        {
+          "label": "Qingwen",
+          "url": "https://oopbuy.com/product/1/668509658282?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "68$"
+      "text": "13$"
     },
     "col_7": {
-      "text": "/"
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1958696391250894850?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1661"
+  }
 }

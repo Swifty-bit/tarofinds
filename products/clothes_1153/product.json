@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosCamouflage Jeans",
+  "name": "Acne StudiosChecked Shirt2 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "i795",
   "best_batch_links": [
     {
       "label": "i795",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F799544942560%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/799544942560?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/798794509657?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/798794509657?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "47$",
+  "best_price": "44$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1946374618246385666?action=discord&cid=1942512167859859457"
+      "url": "https://plug4.me/item/798794509657?channel=taobao&platformName=cnfans&discordChannelId=1328470009227378729"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwzrQqroiG90anOWo-zabXJ4KAC2a4lH7jCjGUjCs6vWjYWhY1Uoveg-Z7IeUNX-b4IQVlJTyM2bKM_IFcliNWteFbRKM4o3Bh702c2qHMObPeK1DhWvkkPauc368GSX-RNrD8KyVSrUg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyufbccLEZjo53hAIuAsGEka9C_zGohASCAA90I0-q97Ae6grK2mgrRjqE2QLIO26sfAdpQn1KpKvM5gQiKn2fM8ob0_KiZs0e4k1aKou1Rhqk2hqht_x-d1ozh4EsrdGockx4dAnJkFg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1153",
   "raw_cells": {
     "col_0": {
-      "text": "716"
+      "text": "712"
     },
     "col_1": {
-      "text": "Acne StudiosCamouflage Jeans"
+      "text": "Acne StudiosChecked Shirt2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwzrQqroiG90anOWo-zabXJ4KAC2a4lH7jCjGUjCs6vWjYWhY1Uoveg-Z7IeUNX-b4IQVlJTyM2bKM_IFcliNWteFbRKM4o3Bh702c2qHMObPeK1DhWvkkPauc368GSX-RNrD8KyVSrUg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyufbccLEZjo53hAIuAsGEka9C_zGohASCAA90I0-q97Ae6grK2mgrRjqE2QLIO26sfAdpQn1KpKvM5gQiKn2fM8ob0_KiZs0e4k1aKou1Rhqk2hqht_x-d1ozh4EsrdGockx4dAnJkFg=w143-h110"
     },
     "col_3": {
       "text": "i795",
       "links": [
         {
           "label": "i795",
-          "url": "https://oopbuy.com/product/1/799544942560?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/798794509657?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "47$"
+      "text": "44$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1946374618246385666?action=discord&cid=1942512167859859457"
+          "url": "https://plug4.me/item/798794509657?channel=taobao&platformName=cnfans&discordChannelId=1328470009227378729"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1153"
+  }
 }

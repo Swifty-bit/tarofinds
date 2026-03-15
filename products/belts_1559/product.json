@@ -1,61 +1,61 @@
 {
-  "name": "Hermes",
+  "name": "Diesel4 ColorsWOMAN",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "K8",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "K8",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7237659995%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7237659995?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/722763477352?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/722763477352?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "33$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "1$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967247471657676802?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1913628186896838658?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTo7MVKOLYxp9EZI9efQfR0P8H5WbFMDSA1lF0-Ah-NEO3mOI7T6dFy2byrgSxu6IZCytTALjWXMnInXr5H6fQzJIBSOeFovCEYapSkZuGwJT-wYeDYrqxQ72_Psidf2SUiBcD3Ml4ZTxJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxFfktxhk3HHcnWvksZJ8WTELk9fnfYyC-nbEsxeBczZsThE4zpOwQCJlK9g1f8u8elqizlOGMMRbiyJ1-r-N-ikEVKdc0fSdv0iPLNCHxcZhWbzeIerB4uiOaPF7pSUv2lS1qe5SLDDGuS=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1559",
   "raw_cells": {
     "col_0": {
-      "text": "21"
+      "text": "16"
     },
     "col_1": {
-      "text": "Hermes"
+      "text": "Diesel4 ColorsWOMAN"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTo7MVKOLYxp9EZI9efQfR0P8H5WbFMDSA1lF0-Ah-NEO3mOI7T6dFy2byrgSxu6IZCytTALjWXMnInXr5H6fQzJIBSOeFovCEYapSkZuGwJT-wYeDYrqxQ72_Psidf2SUiBcD3Ml4ZTxJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxFfktxhk3HHcnWvksZJ8WTELk9fnfYyC-nbEsxeBczZsThE4zpOwQCJlK9g1f8u8elqizlOGMMRbiyJ1-r-N-ikEVKdc0fSdv0iPLNCHxcZhWbzeIerB4uiOaPF7pSUv2lS1qe5SLDDGuS=w143-h110"
     },
-    "col_3": {
-      "text": "K8",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "K8",
-          "url": "https://www.oopbuy.com/product/weidian/7237659995?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/722763477352?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "33$"
+    "col_6": {
+      "text": "1$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967247471657676802?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1913628186896838658?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1559"
+  }
 }

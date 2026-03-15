@@ -1,25 +1,56 @@
 {
-  "name": "Gucci",
+  "name": "FS SOCKS2 Colors",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Gucci",
+  "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/818485052177?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/818485052177?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "0,44$",
+  "pics_text": "0,44$",
   "pics_links": [],
-  "notes": "",
-  "image_url": "",
+  "notes": "QC Pics",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzxCIzlg7p-nj5Y7KjY_zg0ctz3bE7WoUroug7WHIXAAqErZ4kLCGOrp83wT2WJXIDlLIfeUoyVuRDWTYVWBRYud9F_BFQV9TRd4CnVIsAN_CDhExnE1-oSUUtfw1kDoNZw6I-d-pI4LPEn=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0544",
   "raw_cells": {
     "col_0": {
-      "text": "594"
+      "text": "661"
     },
-    "col_3": {
-      "text": "Gucci"
+    "col_1": {
+      "text": "FS SOCKS2 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzxCIzlg7p-nj5Y7KjY_zg0ctz3bE7WoUroug7WHIXAAqErZ4kLCGOrp83wT2WJXIDlLIfeUoyVuRDWTYVWBRYud9F_BFQV9TRd4CnVIsAN_CDhExnE1-oSUUtfw1kDoNZw6I-d-pI4LPEn=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/818485052177?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "0,44$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969950175599878146?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "",
-  "folder": "shoes_0544"
+  }
 }

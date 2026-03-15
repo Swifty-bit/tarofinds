@@ -1,5 +1,5 @@
 {
-  "name": "GoyardCosmetic Bag5 Colors",
+  "name": "GoyardWallet8 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F783066456534%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/783066456534?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/729558115794?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/729558115794?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "4$",
+  "budget_price": "13$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973575595188641794?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973212818360066049?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7ZfFUrWEHMwUzvd24NdJEPwrx0cfZyrybXmCSog9ybElw0mE92-TdNrzB9F5BmDKCAl_DOAgjwSOXpVxUFq_9YRWfmySv9lIfhRfku7kSK10r9YextpRT5qOIOiyQ0IXPt7dxkd5Z_Blh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3ztCvKlXQl39g7o5j46WYUosCJiSwdNtWuNy1XXmualDjGK4cR7AbRiNVzs4ydTEUqd3TORtPZnTckOYEjLwH7vLRz_XVgicdRAxmC7veImAlRiBst77BVmVI5N5GiNDohT10Kp48a3c9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1520",
   "raw_cells": {
     "col_0": {
-      "text": "26"
+      "text": "22"
     },
     "col_1": {
-      "text": "GoyardCosmetic Bag5 Colors"
+      "text": "GoyardWallet8 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7ZfFUrWEHMwUzvd24NdJEPwrx0cfZyrybXmCSog9ybElw0mE92-TdNrzB9F5BmDKCAl_DOAgjwSOXpVxUFq_9YRWfmySv9lIfhRfku7kSK10r9YextpRT5qOIOiyQ0IXPt7dxkd5Z_Blh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3ztCvKlXQl39g7o5j46WYUosCJiSwdNtWuNy1XXmualDjGK4cR7AbRiNVzs4ydTEUqd3TORtPZnTckOYEjLwH7vLRz_XVgicdRAxmC7veImAlRiBst77BVmVI5N5GiNDohT10Kp48a3c9=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/783066456534?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/729558115794?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "4$"
+      "text": "13$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973575595188641794?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973212818360066049?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1520"
+  }
 }

@@ -1,87 +1,87 @@
 {
-  "name": "Ralph LaurenChief Keef POLO",
+  "name": "Ralph Lauren Oxford Short-Sleeved Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GGG",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "GGG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7238029414%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7238029414?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/weidian/7421924519?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7421924519?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "CloudShop",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F869616638413%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/869616638413?inviteCode=29TOTHGNH"
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/910355527749?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/910355527749?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "25$",
-  "budget_price": "9$",
-  "pics_text": "GGG/budget",
+  "best_price": "18$",
+  "budget_price": "14$",
+  "pics_text": "best/cloudshop",
   "pics_links": [
     {
-      "label": "GGG",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2018907803228393474?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/188542278?uid=1"
     },
     {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1953262976359817217?action=discord&cid=1942512167859859457"
+      "label": "cloudshop",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1928877906006687746?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzKzWIkjG_XRj6vXRCatUF-poLOsiBU_s-ibMf5tW5JE7ydPGTXQ_5XwWJZSr0u0LMIv2mKuo8gbKUXO5ZbJvtpqNCsRKrxKc2AvHVmr1IYBfqsiB6ZLe1cLWlafySAsk6fiZs6OFNZdg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxAUCvbc25eDJrK6uWxS4HefFnZIlnxC1som0WDiIt3-n-QEebi335LJ452-uf3n7_CpBP9PakVOVZIeNoUInMYkOG_wgsZ6s15-3i-kywatI0BWnPI_0ir_mbdfFt_-COVqdhCTEECfQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0606",
   "raw_cells": {
     "col_0": {
-      "text": "77"
+      "text": "73"
     },
     "col_1": {
-      "text": "Ralph LaurenChief Keef POLO"
+      "text": "Ralph Lauren Oxford Short-Sleeved Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzKzWIkjG_XRj6vXRCatUF-poLOsiBU_s-ibMf5tW5JE7ydPGTXQ_5XwWJZSr0u0LMIv2mKuo8gbKUXO5ZbJvtpqNCsRKrxKc2AvHVmr1IYBfqsiB6ZLe1cLWlafySAsk6fiZs6OFNZdg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxAUCvbc25eDJrK6uWxS4HefFnZIlnxC1som0WDiIt3-n-QEebi335LJ452-uf3n7_CpBP9PakVOVZIeNoUInMYkOG_wgsZ6s15-3i-kywatI0BWnPI_0ir_mbdfFt_-COVqdhCTEECfQ=w143-h110"
     },
     "col_3": {
-      "text": "GGG",
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "GGG",
-          "url": "https://oopbuy.com/product/weidian/7238029414?inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/weidian/7421924519?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "CloudShop",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/869616638413?inviteCode=29TOTHGNH"
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/910355527749?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "25$"
+      "text": "18$"
     },
     "col_6": {
-      "text": "9$"
+      "text": "14$"
     },
     "col_7": {
-      "text": "GGG/budget",
+      "text": "best/cloudshop",
       "links": [
         {
-          "label": "GGG",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2018907803228393474?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/188542278?uid=1"
         },
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1953262976359817217?action=discord&cid=1942512167859859457"
+          "label": "cloudshop",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1928877906006687746?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0606"
+  }
 }

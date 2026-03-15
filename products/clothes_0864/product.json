@@ -1,61 +1,61 @@
 {
-  "name": "Celine Shorts",
+  "name": "Celine Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "1to1",
   "best_batch_links": [
     {
       "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6099911936%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6099911936?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/5504348314?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5504348314?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "54$",
+  "best_price": "57$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/215422593?uid=1&isSubCate=false&referrercate=5012627"
+      "url": "https://1to1.x.yupoo.com/albums/199479598?uid=1&isSubCate=false&referrercate=5012627"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw8rVrqyfEh04VV43EIe31Rjm4X33Iyu5ZeMjpa8hmR9nN9leNsnyPjGiH8Nwi6gC54D_dK3DQ4z6ImVgnHHunpjDuBkv29qJEib9yqH9Z2MiyDY2JnaDd5w6vsKuSOI8maE0PsraNtHUms=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1tG2KWEJgVy0n6c29-nhxRKT_BeF_prugt0FceGag4dp9_6BVwXDkY05CKomizc2HJJ4KS7FH5hQbcyFiiDYkOf8OwN3OA0lA1PFjy_X9iCbVjFQVApUoMwCDdDOnefxgT4BOvnz5IQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0864",
   "raw_cells": {
     "col_0": {
-      "text": "375"
+      "text": "371"
     },
     "col_1": {
-      "text": "Celine Shorts"
+      "text": "Celine Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw8rVrqyfEh04VV43EIe31Rjm4X33Iyu5ZeMjpa8hmR9nN9leNsnyPjGiH8Nwi6gC54D_dK3DQ4z6ImVgnHHunpjDuBkv29qJEib9yqH9Z2MiyDY2JnaDd5w6vsKuSOI8maE0PsraNtHUms=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1tG2KWEJgVy0n6c29-nhxRKT_BeF_prugt0FceGag4dp9_6BVwXDkY05CKomizc2HJJ4KS7FH5hQbcyFiiDYkOf8OwN3OA0lA1PFjy_X9iCbVjFQVApUoMwCDdDOnefxgT4BOvnz5IQ=w143-h110"
     },
     "col_3": {
       "text": "1to1",
       "links": [
         {
           "label": "1to1",
-          "url": "https://oopbuy.com/product/weidian/6099911936?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/5504348314?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "54$"
+      "text": "57$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/215422593?uid=1&isSubCate=false&referrercate=5012627"
+          "url": "https://1to1.x.yupoo.com/albums/199479598?uid=1&isSubCate=false&referrercate=5012627"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0864"
+  }
 }

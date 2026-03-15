@@ -1,61 +1,78 @@
 {
-  "name": "GoyardBelvedereMessenger Bag16 Colors",
+  "name": "Louis VuittonBackpackMany Styles",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "budget",
+  "budget_batch": "godmall/budget",
   "budget_batch_links": [
     {
+      "label": "godmall",
+      "url": "https://litbuy.com/product/weidian/7591255184?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7591255184?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F726771616074%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/726771616074?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/849405615614?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/849405615614?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "10$",
-  "pics_text": "QC Pics",
+  "budget_price": "49$ / 26$",
+  "pics_text": "godmall/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574038439157762?action=discord&type=1&cid=1942512167859859457"
+      "label": "godmall",
+      "url": "https://godmall.x.yupoo.com/albums/196036836?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1972849871683149825?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayi6NWDinpXzPoW-wNkfMteoH3tJG_7D2ncOSXoTfyptN611AO5LkryNtdmYFlGm92dv_hRhVsE3nkv3CaQ_IZeLCgIzOGEfYIh-GbDgmHVTPKkRO5Phod0LaJ3h_PxoOEO_qXBJcARIYiS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1-cXSKkhk5QpJyl38do9MqzojWfDH6rOQOaEJD4jBEiZJvOclfzb30D5QlFtY9JpmhBZJD-S4y92ImKvA_SoBtfUnb_yA5SBkEPeTkAtUQ273OKPNnEBVJ2SkGaM19q01lVw6Bfwsgmk8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1519",
   "raw_cells": {
     "col_0": {
-      "text": "25"
+      "text": "21"
     },
     "col_1": {
-      "text": "GoyardBelvedereMessenger Bag16 Colors"
+      "text": "Louis VuittonBackpackMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayi6NWDinpXzPoW-wNkfMteoH3tJG_7D2ncOSXoTfyptN611AO5LkryNtdmYFlGm92dv_hRhVsE3nkv3CaQ_IZeLCgIzOGEfYIh-GbDgmHVTPKkRO5Phod0LaJ3h_PxoOEO_qXBJcARIYiS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1-cXSKkhk5QpJyl38do9MqzojWfDH6rOQOaEJD4jBEiZJvOclfzb30D5QlFtY9JpmhBZJD-S4y92ImKvA_SoBtfUnb_yA5SBkEPeTkAtUQ273OKPNnEBVJ2SkGaM19q01lVw6Bfwsgmk8=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "godmall/budget",
       "links": [
         {
+          "label": "godmall",
+          "url": "https://oopbuy.com/product/weidian/7591255184?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/726771616074?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/849405615614?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "10$"
+      "text": "49$ / 26$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "godmall/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574038439157762?action=discord&type=1&cid=1942512167859859457"
+          "label": "godmall",
+          "url": "https://godmall.x.yupoo.com/albums/196036836?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1972849871683149825?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1519"
+  }
 }

@@ -1,87 +1,61 @@
 {
-  "name": "Denim TearsSweatpants11 Colors",
+  "name": "Syna Socks2 Pairs",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
+  "best_batch": "GOAT",
   "best_batch_links": [
     {
-      "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1001967311797%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1001967311797?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7656830836?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656830836?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "33TRENTE",
-  "budget_batch_links": [
-    {
-      "label": "33TRENTE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680415390619%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "42$",
-  "budget_price": "22$",
-  "pics_text": "angelking/33trente",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "10$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "angelking",
-      "url": "https://louisangelking.x.yupoo.com/albums/220077576?uid=1&isSubCate=false&referrercate=5092630"
-    },
-    {
-      "label": "33trente",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/145951861?uid=1&isSubCate=false&referrercate=4215138"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyPPP0I5sN7b9ED5Z9L1kehrGjfjl631HaVqYSrIDmg4H3t4l1T5UprAM2vo5nDyk_3NT3VKMyeKpmp1-SRIuek5x3Evqd5e_xzxNh5OaO_B4O3Hr38uXUlWHQGSm6Hvzls_VHqr4hDjQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azw8-gCfsNLLk0ccsCfyyclHRnXXwtqphX1uLzt7gk1KKALAUrYJhxmdwSbqhEw6zDidWz2b2XLKi0l5aL12oTZh7aQ1BkBU_SUwWh2l-rYKcLGotX4-1ooSyE1njnTXEgCD1BjlaVqOIiO=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0946",
   "raw_cells": {
     "col_0": {
-      "text": "475"
+      "text": "469"
     },
     "col_1": {
-      "text": "Denim TearsSweatpants11 Colors"
+      "text": "Syna Socks2 Pairs"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyPPP0I5sN7b9ED5Z9L1kehrGjfjl631HaVqYSrIDmg4H3t4l1T5UprAM2vo5nDyk_3NT3VKMyeKpmp1-SRIuek5x3Evqd5e_xzxNh5OaO_B4O3Hr38uXUlWHQGSm6Hvzls_VHqr4hDjQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azw8-gCfsNLLk0ccsCfyyclHRnXXwtqphX1uLzt7gk1KKALAUrYJhxmdwSbqhEw6zDidWz2b2XLKi0l5aL12oTZh7aQ1BkBU_SUwWh2l-rYKcLGotX4-1ooSyE1njnTXEgCD1BjlaVqOIiO=w143-h110"
     },
     "col_3": {
-      "text": "Angelking",
+      "text": "GOAT",
       "links": [
         {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/1001967311797?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "33TRENTE",
-      "links": [
-        {
-          "label": "33TRENTE",
-          "url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656830836?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "42$"
-    },
-    "col_6": {
-      "text": "22$"
+      "text": "10$"
     },
     "col_7": {
-      "text": "angelking/33trente",
+      "text": "pics",
       "links": [
         {
-          "label": "angelking",
-          "url": "https://louisangelking.x.yupoo.com/albums/220077576?uid=1&isSubCate=false&referrercate=5092630"
-        },
-        {
-          "label": "33trente",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/145951861?uid=1&isSubCate=false&referrercate=4215138"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0946"
+  }
 }

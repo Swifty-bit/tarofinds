@@ -1,48 +1,35 @@
 {
-  "name": "Lottery Pack Smoke Grey",
+  "name": "LightSmoke Grey",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
-  "best_batch_links": [
-    {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "VT",
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "50$",
+  "best_price": "",
   "budget_price": "23$",
   "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax78v0vGk8U0xgPeVaQNyzyrqu_ZKFDpX_dXbdIVusbrUwgwg02bND9ssL6F7nJP2XQhFJH6OsI8E0T2svNJaqtbVzk6O4Rnne-kJpCJ7UOVv8w9aYLNomU5XzEiN-S32DYZFgW_yFn30LV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AznQrhUOsgpjOLkEEnWFdDJyIW4S3YZSSVKGOD2aMCDc_cOoEe4ezDeCMExbNS7t7aFNUoX8O1ViDdojv9GAzVMOovw1ErVyA92KzXX_p5cxHl_A4FEztxuoGKXvtyFlyQZvs-SifC9CUzm=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0073",
   "raw_cells": {
     "col_0": {
       "text": "82"
     },
     "col_1": {
-      "text": "Lottery Pack Smoke Grey"
+      "text": "LightSmoke Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax78v0vGk8U0xgPeVaQNyzyrqu_ZKFDpX_dXbdIVusbrUwgwg02bND9ssL6F7nJP2XQhFJH6OsI8E0T2svNJaqtbVzk6O4Rnne-kJpCJ7UOVv8w9aYLNomU5XzEiN-S32DYZFgW_yFn30LV=w143-h110"
-    },
-    "col_3": {
-      "text": "M",
-      "links": [
-        {
-          "label": "M",
-          "url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AznQrhUOsgpjOLkEEnWFdDJyIW4S3YZSSVKGOD2aMCDc_cOoEe4ezDeCMExbNS7t7aFNUoX8O1ViDdojv9GAzVMOovw1ErVyA92KzXX_p5cxHl_A4FEztxuoGKXvtyFlyQZvs-SifC9CUzm=w143-h110"
     },
     "col_4": {
       "text": "VT",
@@ -53,13 +40,8 @@
         }
       ]
     },
-    "col_5": {
-      "text": "50$"
-    },
     "col_6": {
       "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0073"
+  }
 }

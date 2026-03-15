@@ -1,87 +1,61 @@
 {
-  "name": "Ferragamo",
+  "name": "Burberry",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "K8",
-  "best_batch_links": [
-    {
-      "label": "K8",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7238552639%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7238552639?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F908065154082%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/832791191075?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/832791191075?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "34$",
-  "budget_price": "2$",
-  "pics_text": "best/budget",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1957609438115880962?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1986983332312850433?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awxw0U4LwVXVVVyyriGqAMbPXU6Jk7uopxDuXkLiosmG8D4AgVTxZmy7NnrROdFls4jSKgzxWAPL00qhDq3lNOplp475xCW-NEIBeOFIolPdqaG7SS0wHXiaKem6YtspXlcHOAV7m0-H9U2=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzlO8qA8g8ERpLqQ-HK81jowljv9GCEkY3D5p9pvXxpjfIBKtoL3zBvzhk9Fa2ZW556jMUWRemqzkLo0YLyyt_4bTqmbCizR4F4LiDm2iHM881dHN-Q_UpRQdySrMNz1yL55S_e9oAnm7Ik=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1572",
   "raw_cells": {
     "col_0": {
-      "text": "34"
+      "text": "29"
     },
     "col_1": {
-      "text": "Ferragamo"
+      "text": "Burberry"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awxw0U4LwVXVVVyyriGqAMbPXU6Jk7uopxDuXkLiosmG8D4AgVTxZmy7NnrROdFls4jSKgzxWAPL00qhDq3lNOplp475xCW-NEIBeOFIolPdqaG7SS0wHXiaKem6YtspXlcHOAV7m0-H9U2=w143-h110"
-    },
-    "col_3": {
-      "text": "K8",
-      "links": [
-        {
-          "label": "K8",
-          "url": "https://www.oopbuy.com/product/weidian/7238552639?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzlO8qA8g8ERpLqQ-HK81jowljv9GCEkY3D5p9pvXxpjfIBKtoL3zBvzhk9Fa2ZW556jMUWRemqzkLo0YLyyt_4bTqmbCizR4F4LiDm2iHM881dHN-Q_UpRQdySrMNz1yL55S_e9oAnm7Ik=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/832791191075?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "34$"
-    },
     "col_6": {
-      "text": "2$"
+      "text": "3$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1957609438115880962?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1986983332312850433?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1572"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Ami ParisSweaterMany Colors",
+  "name": "Ami ParisClassic LogoZipped Hoodie3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "TOPAMI",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F928521465853%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/928521465853?inviteCode=29TOTHGNH"
+      "label": "TOPAMI",
+      "url": "https://litbuy.com/product/weidian/843930263352?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/843930263352?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "12$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "51$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1977923956603707393?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://amiparis.x.yupoo.com/albums/177580341?uid=1&isSubCate=false&referrercate=4672363"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxShxgWSKaw6Di8r5hG9GgRqB8D2L1elzAdY-fP2bYoCtLgwrzOixlIpuBHyTXkbFHXr64HpZZTJNGqHzdPxiTa-8jTjBfyTjjxIOP_-JbnbM7gb81ON5GHahRoIVI8JbwAHdtn2gI8IH9q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzAdUcQ6TBJg-NkdhYdJZqadJ0XwYlhIEA_qdZ_wBoBb-qR_gHNPXPLmnIxY6REGxbTnpb1b-_lhWM_5gsloyrySI_rfIW4OYn4o6cNRoa3O1ADXbJ-JJRx23cnDRbs5tBhgM01Za90fGfV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0967",
   "raw_cells": {
     "col_0": {
-      "text": "498"
+      "text": "494"
     },
     "col_1": {
-      "text": "Ami ParisSweaterMany Colors"
+      "text": "Ami ParisClassic LogoZipped Hoodie3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxShxgWSKaw6Di8r5hG9GgRqB8D2L1elzAdY-fP2bYoCtLgwrzOixlIpuBHyTXkbFHXr64HpZZTJNGqHzdPxiTa-8jTjBfyTjjxIOP_-JbnbM7gb81ON5GHahRoIVI8JbwAHdtn2gI8IH9q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzAdUcQ6TBJg-NkdhYdJZqadJ0XwYlhIEA_qdZ_wBoBb-qR_gHNPXPLmnIxY6REGxbTnpb1b-_lhWM_5gsloyrySI_rfIW4OYn4o6cNRoa3O1ADXbJ-JJRx23cnDRbs5tBhgM01Za90fGfV=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "TOPAMI",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/928521465853?inviteCode=29TOTHGNH"
+          "label": "TOPAMI",
+          "url": "https://www.oopbuy.com/product/1/843930263352?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "12$"
+    "col_5": {
+      "text": "51$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1977923956603707393?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://amiparis.x.yupoo.com/albums/177580341?uid=1&isSubCate=false&referrercate=4672363"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0967"
+  }
 }

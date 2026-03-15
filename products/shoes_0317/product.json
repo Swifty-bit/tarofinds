@@ -1,12 +1,12 @@
 {
-  "name": "Legend Blue",
+  "name": "Cool Grey",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240644396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240644396?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azs7xssMyENQhOkOf-n73ed-pOBYaam6SK4sP-he0jZB_Knrkm6NmfmcgIDLY3XRnirc1pAHAFBiZ61_VwBx_IXzqC4apg8xycrEyHh05SancQTTWLKbHBIr9Vky_lW1uZJfDdnOjqt4Inf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aws_lX6Lu1G8mnX9lFD9JQGE65o4XZjg7CqGYej2v2Ufr4Uq1eyI4u6I5qlgN4LM9yIOnQzHCfxLyWdTF6r4fBnOJXF8J-ZFCxuD2C4US_mjkt00lAU209VsJg1alz_o6NBjTzhrQuK8Kok=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0317",
   "raw_cells": {
     "col_0": {
       "text": "340"
     },
     "col_1": {
-      "text": "Legend Blue"
+      "text": "Cool Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azs7xssMyENQhOkOf-n73ed-pOBYaam6SK4sP-he0jZB_Knrkm6NmfmcgIDLY3XRnirc1pAHAFBiZ61_VwBx_IXzqC4apg8xycrEyHh05SancQTTWLKbHBIr9Vky_lW1uZJfDdnOjqt4Inf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aws_lX6Lu1G8mnX9lFD9JQGE65o4XZjg7CqGYej2v2Ufr4Uq1eyI4u6I5qlgN4LM9yIOnQzHCfxLyWdTF6r4fBnOJXF8J-ZFCxuD2C4US_mjkt00lAU209VsJg1alz_o6NBjTzhrQuK8Kok=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "70$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0317"
+  }
 }

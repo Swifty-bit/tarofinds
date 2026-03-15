@@ -1,61 +1,87 @@
 {
-  "name": "CB Sweatpants",
+  "name": "Essentials x NBAFW24 Sweatpants2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "Singor",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F959986301301%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/959986301301?inviteCode=29TOTHGNH"
+      "label": "Singor",
+      "url": "https://litbuy.com/product/weidian/895645495875?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/895645495875?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "41$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "Yishan",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://litbuy.com/product/weidian/992331612718?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/992331612718?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "21$",
+  "pics_text": "singor/yishan",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/205163085?uid=1"
+      "label": "singor",
+      "url": "https://steven-1989.x.yupoo.com/albums/187677370?uid=1&isSubCate=false&referrercate=3018541"
+    },
+    {
+      "label": "yishan",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2008065427547181058?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az8bz3AcljavP78xRRBiVuHcmUMj_zpXxPTU7oRigGX43-dKsOMix_QtM6Sv0jkKLpwHclPAfguibEqi7DdX895RJgXKUMb1klwNhK3qpnQX7E5Ysn64MxIXrhnIoZMjIC7pTzXbp75ww=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzosuycKZ_h56IZvD12zDsjhRS5R1Q10BXUDaGjqme3pUHfX0fWksbaw2mm6Wq6FUFNPe3jtNMGBAdWMGb2ginUuvaZ6M-98TB5n_he6T42iAFe36Vjn0RZalwX7ir7fy7d66GoVmsLPzhI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0753",
   "raw_cells": {
     "col_0": {
-      "text": "242"
+      "text": "236"
     },
     "col_1": {
-      "text": "CB Sweatpants"
+      "text": "Essentials x NBAFW24 Sweatpants2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az8bz3AcljavP78xRRBiVuHcmUMj_zpXxPTU7oRigGX43-dKsOMix_QtM6Sv0jkKLpwHclPAfguibEqi7DdX895RJgXKUMb1klwNhK3qpnQX7E5Ysn64MxIXrhnIoZMjIC7pTzXbp75ww=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzosuycKZ_h56IZvD12zDsjhRS5R1Q10BXUDaGjqme3pUHfX0fWksbaw2mm6Wq6FUFNPe3jtNMGBAdWMGb2ginUuvaZ6M-98TB5n_he6T42iAFe36Vjn0RZalwX7ir7fy7d66GoVmsLPzhI=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "Singor",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/1/959986301301?inviteCode=29TOTHGNH"
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/895645495875?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/992331612718?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "41$"
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "21$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "singor/yishan",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/205163085?uid=1"
+          "label": "singor",
+          "url": "https://steven-1989.x.yupoo.com/albums/187677370?uid=1&isSubCate=false&referrercate=3018541"
+        },
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2008065427547181058?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0753"
+  }
 }

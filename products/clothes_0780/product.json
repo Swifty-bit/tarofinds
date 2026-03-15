@@ -1,69 +1,61 @@
 {
-  "name": "Athena T-Shirt",
+  "name": "Blauer Puffer",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "RepsKing",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564599831%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564599831?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/837593416352?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/837593416352?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "16$",
-  "budget_price": "",
-  "pics_text": "QC Pics/pics",
+  "best_price": "",
+  "budget_price": "60$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1930508395355410433?action=discord&cid=1840597081113280514"
-    },
-    {
-      "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/161737380?uid=1"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1983801888970215426?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwLq2YZxp5Vhz_2XyNM91hfpv7Df1fEYHWlsHaXuE6FiS_LrStTWTZVyYeJXu064fbAoSXcYOOiz2SN9N5g9zYg2kARzyeeJXhsowa4QXjiU-Sp9gKiuO5t13OCVZrTY3szv2rjl6_NHQTu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3B-AyFOH0Qg4iSKmwalZ9KEwwzhs1WWsYLCi_Hh-JDjFPjineNltcKznONcTKhLZ_lH1DAwX4VzEOhh0KEpDJKBgum3gV1eW3J9YknjQ9vh6_K6WVWXc5k_K0WgXj787fMqO8hwIs1e8n=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0780",
   "raw_cells": {
     "col_0": {
-      "text": "275"
+      "text": "269"
     },
     "col_1": {
-      "text": "Athena T-Shirt"
+      "text": "Blauer Puffer"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwLq2YZxp5Vhz_2XyNM91hfpv7Df1fEYHWlsHaXuE6FiS_LrStTWTZVyYeJXu064fbAoSXcYOOiz2SN9N5g9zYg2kARzyeeJXhsowa4QXjiU-Sp9gKiuO5t13OCVZrTY3szv2rjl6_NHQTu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3B-AyFOH0Qg4iSKmwalZ9KEwwzhs1WWsYLCi_Hh-JDjFPjineNltcKznONcTKhLZ_lH1DAwX4VzEOhh0KEpDJKBgum3gV1eW3J9YknjQ9vh6_K6WVWXc5k_K0WgXj787fMqO8hwIs1e8n=w143-h110"
     },
-    "col_3": {
-      "text": "RepsKing",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7564599831?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/837593416352?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "16$"
+    "col_6": {
+      "text": "60$"
     },
     "col_7": {
-      "text": "QC Pics/pics",
+      "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1930508395355410433?action=discord&cid=1840597081113280514"
-        },
-        {
-          "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/161737380?uid=1"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1983801888970215426?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0780"
+  }
 }

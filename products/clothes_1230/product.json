@@ -1,61 +1,61 @@
 {
-  "name": "Evisu Jeans8 Styles",
+  "name": "True ReligionSweatpantsMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "best",
+  "best_batch": "TR",
   "best_batch_links": [
     {
-      "label": "best",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F662947971198%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/662947971198?inviteCode=29TOTHGNH"
+      "label": "TR",
+      "url": "https://litbuy.com/product/weidian/770079816140?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/770079816140?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "24$",
+  "best_price": "15$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1952116228561653762?action=discord&cid=1942512167859859457"
+      "url": "https://finds.ly/product/TAOBAO/770079816140"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwVjs6ZpOq0eXQUwkOb-vxTc9zufxRhQ2VoNbokyl61zvQN40g5puXG3kMUS3KaFe6Ml5Da2A-PyuInsGI6vqjsQyA9XiPcct_pOvTJfotxETfpo3v702lPdeBZnXnoC1Ck9TQ34vE5-A=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVvijDTsAzawr7frcEgARieVEdFZtk67VQzPr2Lsn4HpIcJV0i39qbm5O9opKkPnwK1uvocuhRLjjBV8D1QNaKG9hKhL6i5AlY5T_O8b_EKDrq1-_O6dFbtpaU8RHr8ySM8y1tQlOV6g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1230",
   "raw_cells": {
     "col_0": {
-      "text": "809"
+      "text": "803"
     },
     "col_1": {
-      "text": "Evisu Jeans8 Styles"
+      "text": "True ReligionSweatpantsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwVjs6ZpOq0eXQUwkOb-vxTc9zufxRhQ2VoNbokyl61zvQN40g5puXG3kMUS3KaFe6Ml5Da2A-PyuInsGI6vqjsQyA9XiPcct_pOvTJfotxETfpo3v702lPdeBZnXnoC1Ck9TQ34vE5-A=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVvijDTsAzawr7frcEgARieVEdFZtk67VQzPr2Lsn4HpIcJV0i39qbm5O9opKkPnwK1uvocuhRLjjBV8D1QNaKG9hKhL6i5AlY5T_O8b_EKDrq1-_O6dFbtpaU8RHr8ySM8y1tQlOV6g=w143-h110"
     },
     "col_3": {
-      "text": "best",
+      "text": "TR",
       "links": [
         {
-          "label": "best",
-          "url": "https://oopbuy.com/product/1/662947971198?inviteCode=29TOTHGNH"
+          "label": "TR",
+          "url": "https://www.oopbuy.com/product/1/770079816140?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "24$"
+      "text": "15$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1952116228561653762?action=discord&cid=1942512167859859457"
+          "url": "https://finds.ly/product/TAOBAO/770079816140"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1230"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "KENZO Tees23 Colors",
+  "name": "VetementsRussia PrintedZip Up Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7431313326%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7431313326?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/881937328995?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/881937328995?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "18$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "91$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1961958189450223618?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/191169095?uid=1&isSubCate=false&referrercate=4736074"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay_9WcUoNXbPanfGx-Jq0UPNCN7P2F6-aip34luIG_aaN97bK05ytB___Buuybx1Jnc0QcPFquoA4OSJz0M_rMnQps7kWmYYwfQmjDd9_U1jht8PlECcP_bf1-oxuZWeAr_EQEJ6642TMyc=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aywelg3vh0MDqGr4nXP3b2zv4V7wiW7LSGFuC_MnDCcwsRx75zvZCj6LQd_GyjOKmDPJRZUDdFMKykNC7S39WFgP3IHCMgNuiwqcUV-sm5Z9u6k6GUZ3RwClngK9EC6IsVbxLo3r9r6rA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1126",
   "raw_cells": {
     "col_0": {
-      "text": "685"
+      "text": "677"
     },
     "col_1": {
-      "text": "KENZO Tees23 Colors"
+      "text": "VetementsRussia PrintedZip Up Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay_9WcUoNXbPanfGx-Jq0UPNCN7P2F6-aip34luIG_aaN97bK05ytB___Buuybx1Jnc0QcPFquoA4OSJz0M_rMnQps7kWmYYwfQmjDd9_U1jht8PlECcP_bf1-oxuZWeAr_EQEJ6642TMyc=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aywelg3vh0MDqGr4nXP3b2zv4V7wiW7LSGFuC_MnDCcwsRx75zvZCj6LQd_GyjOKmDPJRZUDdFMKykNC7S39WFgP3IHCMgNuiwqcUV-sm5Z9u6k6GUZ3RwClngK9EC6IsVbxLo3r9r6rA=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7431313326?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/881937328995?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "18$"
+    "col_5": {
+      "text": "91$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1961958189450223618?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/191169095?uid=1&isSubCate=false&referrercate=4736074"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1126"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "Raging Bull",
+  "name": "Alternate Grape",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Y3",
+  "best_batch": "Version1",
   "best_batch_links": [
     {
-      "label": "Y3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
+      "label": "Version1",
+      "url": "https://litbuy.com/product/weidian/4480462048?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/4480462048?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "65$",
+  "best_price": "69$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwicGo0nFk15mxyESu28ewhWipEtqowzpY6EkkfSx2eaWZAgmy9BN0IQU17q5VOo1NEmaXAmeEn877aWqzBSenlQhi0xZBTE5hq94GJfVSBHmqcBiPRxDzjbc1tpW8HENKS_Z8cveYEsfnG=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzhTatMoBIow5fe99I1SoBV_wySPC2fQ8zsDYI3oPR_LbzsXsVuOD-FU7MaSNbuIqYuF-APxLKbUTZjYs49T3WM5bOH0GWHPjk370yrPdVI_qAuzuJ6m0Arqee0ZWOTI61RehXUEVvc0ESK=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0294",
   "raw_cells": {
     "col_0": {
       "text": "311"
     },
     "col_1": {
-      "text": "Raging Bull"
+      "text": "Alternate Grape"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwicGo0nFk15mxyESu28ewhWipEtqowzpY6EkkfSx2eaWZAgmy9BN0IQU17q5VOo1NEmaXAmeEn877aWqzBSenlQhi0xZBTE5hq94GJfVSBHmqcBiPRxDzjbc1tpW8HENKS_Z8cveYEsfnG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzhTatMoBIow5fe99I1SoBV_wySPC2fQ8zsDYI3oPR_LbzsXsVuOD-FU7MaSNbuIqYuF-APxLKbUTZjYs49T3WM5bOH0GWHPjk370yrPdVI_qAuzuJ6m0Arqee0ZWOTI61RehXUEVvc0ESK=w143-h110"
     },
     "col_3": {
-      "text": "Y3",
+      "text": "Version1",
       "links": [
         {
-          "label": "Y3",
-          "url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
+          "label": "Version1",
+          "url": "https://www.oopbuy.com/product/weidian/4480462048?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "65$"
+      "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0294"
+  }
 }

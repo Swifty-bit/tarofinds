@@ -1,78 +1,61 @@
 {
-  "name": "Amiri",
+  "name": "Louis Vuitton",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget/budget",
-  "budget_batch_links": [
+  "best_batch": "K8",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F744648551366%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/744648551366?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F855838038164%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/855838038164?inviteCode=29TOTHGNH"
+      "label": "K8",
+      "url": "https://litbuy.com/product/weidian/7570035698?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7570035698?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics/QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "34$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967777049600417793?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1969588040092966914?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1892394979358748673?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyjQzK4wV2C4NtvhAjk8qHX_UrITcXBkOQZWM8-sBmATkFn2xU-Anj7VdEhiqHjkFPNLlfeR03Eb_AdAOVA10qbH_sbkY64sasJk4sk5pcol-l4jUe2nHtJz7T7XTD527YevDXvN3DGz0cQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzOfuGtEGOuL_c-_283SI4-IJlyi02h9WswjmDktD0evxXDDbhm-fsiDwSiD_pSgyhsb3NDQZTpHWzNwWmTGy9bl_vY2qUty0gFk0dcdY3axpsw6YGmOH5k1NY1Sa1kHyipmNKTwEhp7EOm=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1552",
   "raw_cells": {
     "col_0": {
-      "text": "14"
+      "text": "9"
     },
     "col_1": {
-      "text": "Amiri"
+      "text": "Louis Vuitton"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyjQzK4wV2C4NtvhAjk8qHX_UrITcXBkOQZWM8-sBmATkFn2xU-Anj7VdEhiqHjkFPNLlfeR03Eb_AdAOVA10qbH_sbkY64sasJk4sk5pcol-l4jUe2nHtJz7T7XTD527YevDXvN3DGz0cQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzOfuGtEGOuL_c-_283SI4-IJlyi02h9WswjmDktD0evxXDDbhm-fsiDwSiD_pSgyhsb3NDQZTpHWzNwWmTGy9bl_vY2qUty0gFk0dcdY3axpsw6YGmOH5k1NY1Sa1kHyipmNKTwEhp7EOm=w143-h110"
     },
-    "col_4": {
-      "text": "budget/budget",
+    "col_3": {
+      "text": "K8",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/744648551366?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/855838038164?inviteCode=29TOTHGNH"
+          "label": "K8",
+          "url": "https://oopbuy.com/product/weidian/7570035698?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "3$"
+    "col_5": {
+      "text": "34$"
     },
     "col_7": {
-      "text": "QC Pics/QC Pics",
+      "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967777049600417793?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1969588040092966914?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1892394979358748673?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1552"
+  }
 }

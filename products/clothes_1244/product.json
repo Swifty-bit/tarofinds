@@ -1,49 +1,61 @@
 {
-  "name": "Emporio ArmaniT-Shirt",
+  "name": "ZaraFlared Jeans3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "/",
+  "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "18$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "ZABA",
+  "budget_batch_links": [
+    {
+      "label": "ZABA",
+      "url": "https://litbuy.com/product/weidian/908665888932?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/908665888932?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "18$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://toparmani.x.yupoo.com/albums/118254120?uid=1&isSubCate=false&referrercate=4172967"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2001479149410144258?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-ZlelB8iUfqb3wtLk-BV6rkHvKRdiIIWN72U_2S4j_oa7jc-zwYB0u1d2YSXH6L-3ePKnJucIlh1F0Ay0lWdR2YqzM87Z1eY7DPySQx-afLg-x6ui1GmLHRo6rSJP6H6VnhrAWFoMSA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzCnr2B3WiU8l0YcY_XroZIu3uFv6DrTXEGsP4d3Vq2OUMLTqAXZTG7ZrJ2v2V8mtUUA-OdskS7mSUhPlhZGfXjabBHX2Y5idWMc9GzMgqnoRzxArfmyFPcRWMKwNVJHFddrfw8euVeFyBT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1244",
   "raw_cells": {
     "col_0": {
-      "text": "831"
+      "text": "823"
     },
     "col_1": {
-      "text": "Emporio ArmaniT-Shirt"
+      "text": "ZaraFlared Jeans3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-ZlelB8iUfqb3wtLk-BV6rkHvKRdiIIWN72U_2S4j_oa7jc-zwYB0u1d2YSXH6L-3ePKnJucIlh1F0Ay0lWdR2YqzM87Z1eY7DPySQx-afLg-x6ui1GmLHRo6rSJP6H6VnhrAWFoMSA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzCnr2B3WiU8l0YcY_XroZIu3uFv6DrTXEGsP4d3Vq2OUMLTqAXZTG7ZrJ2v2V8mtUUA-OdskS7mSUhPlhZGfXjabBHX2Y5idWMc9GzMgqnoRzxArfmyFPcRWMKwNVJHFddrfw8euVeFyBT=w143-h110"
     },
-    "col_3": {
-      "text": "/"
+    "col_4": {
+      "text": "ZABA",
+      "links": [
+        {
+          "label": "ZABA",
+          "url": "https://oopbuy.com/product/1/908665888932?inviteCode=29TOTHGNH"
+        }
+      ]
     },
-    "col_5": {
+    "col_6": {
       "text": "18$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://toparmani.x.yupoo.com/albums/118254120?uid=1&isSubCate=false&referrercate=4172967"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2001479149410144258?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1244"
+  }
 }

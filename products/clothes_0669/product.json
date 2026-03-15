@@ -1,87 +1,61 @@
 {
-  "name": "Corteiz Alcatraz Basic Hoodie3 Colours",
+  "name": "CorteizRules The WorldT-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653882407%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653882407?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656781520?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656781520?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "FFCP",
-  "budget_batch_links": [
-    {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741488778477%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "31$",
-  "budget_price": "15$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "12$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/112897431?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/117256453?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyrQjd6MygpV5OlQa5NzIil1LQoKyZUWxuAseGAWMrMc6DET5acjN3XafXG3ojtF3yxyr9qskngP-rO3A9WWuw4DvKLYCfcU1FXoVQjH-JumzTaOqFlt99wrDCKxH6Y-2fXWOT6JxAIzg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLRyykoyya5MCHzxNS1lHtXqANtATslRZDvcZ2piHHDpdklWCKfWs042kPonXof-w7G6q7YVh1VtCfm8dPG6-hXSNk6bJrPWkZVzfVTxaVL6gHenVX0DeEdFYIr4-BsKKVbfpvFXcCyCA5=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0669",
   "raw_cells": {
     "col_0": {
-      "text": "150"
+      "text": "146"
     },
     "col_1": {
-      "text": "Corteiz Alcatraz Basic Hoodie3 Colours"
+      "text": "CorteizRules The WorldT-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrQjd6MygpV5OlQa5NzIil1LQoKyZUWxuAseGAWMrMc6DET5acjN3XafXG3ojtF3yxyr9qskngP-rO3A9WWuw4DvKLYCfcU1FXoVQjH-JumzTaOqFlt99wrDCKxH6Y-2fXWOT6JxAIzg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLRyykoyya5MCHzxNS1lHtXqANtATslRZDvcZ2piHHDpdklWCKfWs042kPonXof-w7G6q7YVh1VtCfm8dPG6-hXSNk6bJrPWkZVzfVTxaVL6gHenVX0DeEdFYIr4-BsKKVbfpvFXcCyCA5=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653882407?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "FFCP",
-      "links": [
-        {
-          "label": "FFCP",
-          "url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656781520?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "31$"
-    },
-    "col_6": {
-      "text": "15$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/112897431?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/117256453?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0669"
+  }
 }

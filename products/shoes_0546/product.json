@@ -1,47 +1,47 @@
 {
-  "name": "Gucci Ace",
+  "name": "Rope Laces",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "here",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://oopbuy.com/product/0/788411679454?inviteCode=29TOTHGNH",
-      "original_url": null
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/694151671982?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/694151671982?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "16$",
-  "pics_text": "16$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "2$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTxRxNAcrD7SerYLLI7wfr3x-tCZAtylBiIRu7CQsDrvCoxGPdPOsNxKJF7KT-wqpCOfMP_yLKQcmMO2PUSylPDo11-De43fPrS_zRqwARt5Nd93H_UxeYu8Mzq62rStM95Z45xYNjE4zV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwaG3yxuXP-Ci8tWAGjiBNOo-X7SzolPsTFfLm8anf0ibr6Bzt3eAzQvAKXXrLvs0-jYRX2b2GSBot916Mj_XRUmlSb3vf2QGbzYDtfXKxb7I0kQGk30Eayz2N9cjPyp_HzIUwuEEYOD2Bl=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0546",
   "raw_cells": {
     "col_0": {
-      "text": "596"
+      "text": "665"
     },
     "col_1": {
-      "text": "Gucci Ace"
+      "text": "Rope Laces"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTxRxNAcrD7SerYLLI7wfr3x-tCZAtylBiIRu7CQsDrvCoxGPdPOsNxKJF7KT-wqpCOfMP_yLKQcmMO2PUSylPDo11-De43fPrS_zRqwARt5Nd93H_UxeYu8Mzq62rStM95Z45xYNjE4zV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwaG3yxuXP-Ci8tWAGjiBNOo-X7SzolPsTFfLm8anf0ibr6Bzt3eAzQvAKXXrLvs0-jYRX2b2GSBot916Mj_XRUmlSb3vf2QGbzYDtfXKxb7I0kQGk30Eayz2N9cjPyp_HzIUwuEEYOD2Bl=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "here",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/788411679454?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/694151671982?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "16$"
+    "col_5": {
+      "text": "2$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0546"
+  }
 }

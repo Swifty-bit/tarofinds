@@ -1,5 +1,5 @@
 {
-  "name": "Louis VuittonZippy Wallet6 Colors",
+  "name": "Louis VuittonMulticard Wallet15 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,58 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F6001332277%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/6001332277?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7218772621?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7218772621?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "19$",
+  "budget_price": "4$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1970675702031802370?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973575183073107970?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxFNZQiqfVeC4R3iVmYErj8-PttW-1P0AbbTHGmjpnPpxlnuKk0-aMW1tUGOGRxRKQeqc3F4_GJ--LU5hC5_uh9DDgu6qXHGC0TTYPa04Igxdz74mzUVbEhUnyVPJylbZlHlLCAIM12ElFd=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxNEWcHSieZUAHEKwz1la24_rXSwNgPXK-rJnZ7WkXO6qGhYGfJnN5qOOgjfS5z8kAGamjcknCnWUL4oscuNSPyNq6F3Xt54xgv-lXzV8hCg57j0L_zAtfgNtahGFFGnHS29eBqHF6ADw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1508",
   "raw_cells": {
     "col_0": {
-      "text": "14"
+      "text": "10"
     },
     "col_1": {
-      "text": "Louis VuittonZippy Wallet6 Colors"
+      "text": "Louis VuittonMulticard Wallet15 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxFNZQiqfVeC4R3iVmYErj8-PttW-1P0AbbTHGmjpnPpxlnuKk0-aMW1tUGOGRxRKQeqc3F4_GJ--LU5hC5_uh9DDgu6qXHGC0TTYPa04Igxdz74mzUVbEhUnyVPJylbZlHlLCAIM12ElFd=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxNEWcHSieZUAHEKwz1la24_rXSwNgPXK-rJnZ7WkXO6qGhYGfJnN5qOOgjfS5z8kAGamjcknCnWUL4oscuNSPyNq6F3Xt54xgv-lXzV8hCg57j0L_zAtfgNtahGFFGnHS29eBqHF6ADw=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/weidian/6001332277?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7218772621?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "19$"
+      "text": "4$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1970675702031802370?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973575183073107970?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azza-V-UIen-LAlKv-lP2R3Rtt3TXigkge-W90xGO-mv7zBW2AOutAIUK7ze6MUsMzK2qOST66Xc0M6OAMJVYI2WP_Ss4lbUvCaTSQMTJigH2CopFZ2i4WtGzF-R8v0yrIKlA568ZWMw17a=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1508"
+  }
 }

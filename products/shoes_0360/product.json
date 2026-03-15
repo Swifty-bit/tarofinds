@@ -1,47 +1,47 @@
 {
-  "name": "327",
+  "name": "992",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
+  "best_batch": "ZC",
   "best_batch_links": [
     {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7255346568%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7255346568?inviteCode=29TOTHGNH"
+      "label": "ZC",
+      "url": "https://litbuy.com/product/taobao/7245071779?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245071779?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "43$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwiOMCcVFrYda4gyq52A5iPIkqNEZvH2mE59WdNUqVmC6D_e69dbFTOyNZD4Z6K41m7Pw86lFLP_hZON31Y3jvBStm9wsJV1_bHicotzflrFl1Iubnb1TuMzwTpPBK-uGjecox1g03Usz9P=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLr_lujiakQB33z7zk12ijRxSsz1P1SEOqqJ-nce0fCH8vOfe6TSJgcfBPXd2_PkYru_1GFudsKqpOZ_lUBySB42ka6PbbsmKyUeljxYK9vKfl9wSYYyrO1tGE1oQxfdQ98pS1yZjt5IL4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0360",
   "raw_cells": {
     "col_0": {
       "text": "393"
     },
     "col_1": {
-      "text": "327"
+      "text": "992"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwiOMCcVFrYda4gyq52A5iPIkqNEZvH2mE59WdNUqVmC6D_e69dbFTOyNZD4Z6K41m7Pw86lFLP_hZON31Y3jvBStm9wsJV1_bHicotzflrFl1Iubnb1TuMzwTpPBK-uGjecox1g03Usz9P=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLr_lujiakQB33z7zk12ijRxSsz1P1SEOqqJ-nce0fCH8vOfe6TSJgcfBPXd2_PkYru_1GFudsKqpOZ_lUBySB42ka6PbbsmKyUeljxYK9vKfl9wSYYyrO1tGE1oQxfdQ98pS1yZjt5IL4=w143-h110"
     },
     "col_3": {
-      "text": "M",
+      "text": "ZC",
       "links": [
         {
-          "label": "M",
-          "url": "https://oopbuy.com/product/2/7255346568?inviteCode=29TOTHGNH"
+          "label": "ZC",
+          "url": "https://oopbuy.com/product/2/7245071779?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "43$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0360"
+  }
 }

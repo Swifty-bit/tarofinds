@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosHoodieStockholm 1996",
+  "name": "Acne StudiosCrewneck SweaterBubble Logo",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Topacney",
   "best_batch_links": [
     {
       "label": "Topacney",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F983758361101%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/983758361101?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/983162642394?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983162642394?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "46$",
+  "best_price": "44$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://topacney.x.yupoo.com/albums/163177997?uid=1"
+      "url": "https://topacney.x.yupoo.com/albums/134296055?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxjzkVQM31Jtf7sVGXUyFmXzv50ZvFD4xOE7MEyvKdcqLVFzBVBQ79wZspmBQ7Q-tKrLI4SxTbaQ7647UNM7CNFUBA-HKrcFBaLlh850yupwOwhXAtsYeRXY5KKisuWX4OuD3cT1oa7-8Y6=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnBnTH1-3srgtqHUYlVMXJ-NwY6YB4kouW-08pP-d7FfoPlEmW2br6UfsGHXyU118XyiWSuxntWCQHNAcKnjXmE0_1rRxLq0RLb3yEnuIniyD9YLUCYryUI-TXMdNwF3Jd9Do7U8OxX9U4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1148",
   "raw_cells": {
     "col_0": {
-      "text": "711"
+      "text": "707"
     },
     "col_1": {
-      "text": "Acne StudiosHoodieStockholm 1996"
+      "text": "Acne StudiosCrewneck SweaterBubble Logo"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxjzkVQM31Jtf7sVGXUyFmXzv50ZvFD4xOE7MEyvKdcqLVFzBVBQ79wZspmBQ7Q-tKrLI4SxTbaQ7647UNM7CNFUBA-HKrcFBaLlh850yupwOwhXAtsYeRXY5KKisuWX4OuD3cT1oa7-8Y6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnBnTH1-3srgtqHUYlVMXJ-NwY6YB4kouW-08pP-d7FfoPlEmW2br6UfsGHXyU118XyiWSuxntWCQHNAcKnjXmE0_1rRxLq0RLb3yEnuIniyD9YLUCYryUI-TXMdNwF3Jd9Do7U8OxX9U4=w143-h110"
     },
     "col_3": {
       "text": "Topacney",
       "links": [
         {
           "label": "Topacney",
-          "url": "https://oopbuy.com/product/1/983758361101?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/983162642394?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "44$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://topacney.x.yupoo.com/albums/163177997?uid=1"
+          "url": "https://topacney.x.yupoo.com/albums/134296055?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1148"
+  }
 }

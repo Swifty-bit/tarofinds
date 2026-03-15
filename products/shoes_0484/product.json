@@ -1,47 +1,74 @@
 {
-  "name": "Maison MargielaGATSPatent White",
+  "name": "Maison MargielaGATSBlack",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "H12",
+  "best_batch": "H/Version1",
   "best_batch_links": [
     {
-      "label": "H12",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5069540059%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/5069540059?inviteCode=29TOTHGNH"
+      "label": "H",
+      "url": "https://litbuy.com/product/weidian/7563973209?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Version1",
+      "url": "https://litbuy.com/product/weidian/4689600987?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "59$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/705562729612?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "56$ / 65$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQKs0iZT63pOEm8hQZpAcx4kIZsEbKmuy6wRDRChWTxklev-8xOQUYgdpPp5s0DpiSqvFEC3j4Az3FgSUkpA9O3ZUBvScOua8RfR1kukjqF3wMzW7SyuzblMcfcTkeIFkxFzM851I8cDDV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az7touWSEk5aqUOcXze-RQcvwZvC0Z6xnxhHPP-Mp9X36SEHhaA2Byi3IobAGBce3Nh9mrXnlj_bu3l5d5ztp1_8Z2qZ87S3hlDolZLG3QtLz0zZ-R-eOaJt-_J4oYa-S526KHgrOyemg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0484",
   "raw_cells": {
     "col_0": {
       "text": "559"
     },
     "col_1": {
-      "text": "Maison MargielaGATSPatent White"
+      "text": "Maison MargielaGATSBlack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQKs0iZT63pOEm8hQZpAcx4kIZsEbKmuy6wRDRChWTxklev-8xOQUYgdpPp5s0DpiSqvFEC3j4Az3FgSUkpA9O3ZUBvScOua8RfR1kukjqF3wMzW7SyuzblMcfcTkeIFkxFzM851I8cDDV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az7touWSEk5aqUOcXze-RQcvwZvC0Z6xnxhHPP-Mp9X36SEHhaA2Byi3IobAGBce3Nh9mrXnlj_bu3l5d5ztp1_8Z2qZ87S3hlDolZLG3QtLz0zZ-R-eOaJt-_J4oYa-S526KHgrOyemg=w143-h110"
     },
     "col_3": {
-      "text": "H12",
+      "text": "H/Version1",
       "links": [
         {
-          "label": "H12",
-          "url": "https://oopbuy.com/product/2/5069540059?inviteCode=29TOTHGNH"
+          "label": "H",
+          "url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Version1",
+          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "59$"
+      "text": "56$ / 65$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0484"
+  }
 }

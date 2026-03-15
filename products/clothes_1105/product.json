@@ -1,61 +1,73 @@
 {
-  "name": "VetementsInside OutT-Shirt",
+  "name": "KroenButterfly Pattern Sports Suit",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "vetementsshop",
+  "best_batch": "GOAT/GOAT",
   "best_batch_links": [
     {
-      "label": "vetementsshop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F623201951942%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/623201951942?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7656854382?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656854382?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7656777388?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656777388?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "50$",
+  "best_price": "59$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://vetementsshop.x.yupoo.com/albums/83471754?uid=1&isSubCate=false&referrercate=778962"
+      "url": "https://goat-official222.x.yupoo.com/albums/201770417?uid=1&isSubCate=false&referrercate=4943474"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax_iFRwVyWU0BvsvdPhQCLP3B7HBdhSNWI63aSuLD3cy1BOitAWVrKwCm1dA339dVrw7Oy8lhgqFS9m1JID8DvLu7WR9YSz-6QpRKJu_Xihmd6mNQO1v9L7R-vMoiwpT8XknAWErl2bsQi8=w143-h110",
+  "notes": "set 59$ - top 30$ - bottom 29$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwVtCIHb62JOhfKj0uweSKzu1QaAwlvAmFCsEc_Yczz0bTdE86B3rlHKy8NQMra_g9hd0cgsE-0Oq0_LnANLiltJE4qUHVcO3ikCNl0-xfo2-1SCw-U3nsNlh7FMicKXkjNgz0VpxB9Ag=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1105",
   "raw_cells": {
     "col_0": {
-      "text": "660"
+      "text": "654"
     },
     "col_1": {
-      "text": "VetementsInside OutT-Shirt"
+      "text": "KroenButterfly Pattern Sports Suit"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax_iFRwVyWU0BvsvdPhQCLP3B7HBdhSNWI63aSuLD3cy1BOitAWVrKwCm1dA339dVrw7Oy8lhgqFS9m1JID8DvLu7WR9YSz-6QpRKJu_Xihmd6mNQO1v9L7R-vMoiwpT8XknAWErl2bsQi8=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwVtCIHb62JOhfKj0uweSKzu1QaAwlvAmFCsEc_Yczz0bTdE86B3rlHKy8NQMra_g9hd0cgsE-0Oq0_LnANLiltJE4qUHVcO3ikCNl0-xfo2-1SCw-U3nsNlh7FMicKXkjNgz0VpxB9Ag=w143-h110"
     },
     "col_3": {
-      "text": "vetementsshop",
+      "text": "GOAT/GOAT",
       "links": [
         {
-          "label": "vetementsshop",
-          "url": "https://oopbuy.com/product/1/623201951942?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656854382?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656777388?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "50$"
+      "text": "59$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://vetementsshop.x.yupoo.com/albums/83471754?uid=1&isSubCate=false&referrercate=778962"
+          "url": "https://goat-official222.x.yupoo.com/albums/201770417?uid=1&isSubCate=false&referrercate=4943474"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 59$ - top 30$ - bottom 29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1105"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "CarharttPuffer Jacket2 Colors",
+  "name": "CarharttJ130 Cotton Jacket15 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "LambClub",
   "best_batch_links": [
     {
       "label": "LambClub",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F835083762522%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/835083762522?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/743062544600?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/743062544600?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "51$",
+  "best_price": "40$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://doppel.fit/item/1688/835083762522"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2020743682200784898?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyASw6o5Mke81CaT8hD-g27vnYN7aDU5ljd8vacxUvYWM3pJLUCH7Im05T8mrWXK1wNbEm5cCryylj1BFWh4z4C6xFKEIdKlbO3Fasmq_VHvl4BhQan05VyPQKTDEkzekbHLAESVVCXrA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBr5rSmSocJNzp41JvCwGj7krK0yKGKKE9X5lSjfMHcusdcpAs6pPwtD4p6Tdsol4HMw5_eQTROg-9wVHBdtqfemb8EiFkOzI24qN9SKnV2YkJWMtUWmHmSgxIyFUgvotvGsW7UhdvUXb1=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1434",
   "raw_cells": {
     "col_0": {
-      "text": "1045"
+      "text": "1041"
     },
     "col_1": {
-      "text": "CarharttPuffer Jacket2 Colors"
+      "text": "CarharttJ130 Cotton Jacket15 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyASw6o5Mke81CaT8hD-g27vnYN7aDU5ljd8vacxUvYWM3pJLUCH7Im05T8mrWXK1wNbEm5cCryylj1BFWh4z4C6xFKEIdKlbO3Fasmq_VHvl4BhQan05VyPQKTDEkzekbHLAESVVCXrA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBr5rSmSocJNzp41JvCwGj7krK0yKGKKE9X5lSjfMHcusdcpAs6pPwtD4p6Tdsol4HMw5_eQTROg-9wVHBdtqfemb8EiFkOzI24qN9SKnV2YkJWMtUWmHmSgxIyFUgvotvGsW7UhdvUXb1=w143-h110"
     },
     "col_3": {
       "text": "LambClub",
       "links": [
         {
           "label": "LambClub",
-          "url": "https://www.oopbuy.com/product/0/835083762522?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/743062544600?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "51$"
+      "text": "40$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://doppel.fit/item/1688/835083762522"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2020743682200784898?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1434"
+  }
 }

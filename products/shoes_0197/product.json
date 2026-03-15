@@ -1,33 +1,41 @@
 {
-  "name": "AMM Black(A Ma Maniere)",
+  "name": "AMM(A Ma Maniere)",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "63$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "29$",
+  "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az6IXU7_kgiFSCtjQyJ45HZz9PKfilJj1B0A6PG9GP6_n-e4mUHwXmrgD6KGvDtY0DfDuYXJYq2zmag3Y4LThlfM-4oIFWPKYvMtgkVUSsKcqls8lkmrAursRK7NzVyOQB9cz9Fy3s383-J=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCfDXCGrHe5VCBgN2pz-UFZcoearbfDHR1iorAEUtTK35pPd-xTndeIAYumQR-1lWalttac1uSPllWJEHZu4MPFY4W_rZg8pEPtxvPMmrLtrGxZ1W_EAwOmrL5h8k_Y1Nh4W7ju85W9Fc2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0197",
   "raw_cells": {
     "col_0": {
       "text": "210"
     },
     "col_1": {
-      "text": "AMM Black(A Ma Maniere)"
+      "text": "AMM(A Ma Maniere)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az6IXU7_kgiFSCtjQyJ45HZz9PKfilJj1B0A6PG9GP6_n-e4mUHwXmrgD6KGvDtY0DfDuYXJYq2zmag3Y4LThlfM-4oIFWPKYvMtgkVUSsKcqls8lkmrAursRK7NzVyOQB9cz9Fy3s383-J=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCfDXCGrHe5VCBgN2pz-UFZcoearbfDHR1iorAEUtTK35pPd-xTndeIAYumQR-1lWalttac1uSPllWJEHZu4MPFY4W_rZg8pEPtxvPMmrLtrGxZ1W_EAwOmrL5h8k_Y1Nh4W7ju85W9Fc2=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "63$"
+    },
+    "col_6": {
+      "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0197"
+  }
 }

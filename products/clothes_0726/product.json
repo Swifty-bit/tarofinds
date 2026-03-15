@@ -1,61 +1,61 @@
 {
-  "name": "Essentials 24SS T-Shirt",
+  "name": "Gallery DeptFlared Pants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GmanClub",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
     {
-      "label": "GmanClub",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F789948785188%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/789948785188?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/677982546221?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/677982546221?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "20$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "17$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924025186459422722?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1941301395660599297?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyD_IQRI7JvqBxzyxiFJKHg5I-aMX4JiB5tY2TwArs_IluxA1BtCUMV6uxRYNZgOINc0GUpoFxdBIQdimYsNuiM2WpBvznIwosMk5hDr3_relp04l_psymYB3T8XyqM7cfxLYB_qTqZivhA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPT1J5vJoGrme4aX5HB_ZCm9HtIvVpgAxlxjpP_TpPSb_39OzgS-37FNoEoSrBYMToQclpLoJuw596nLP4lnuji7TY9sRSeFpuIbITQd6PowwjxFcENioyox_bvSoX_9cbyfFqdkIQ3Kwi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0726",
   "raw_cells": {
     "col_0": {
-      "text": "211"
+      "text": "205"
     },
     "col_1": {
-      "text": "Essentials 24SS T-Shirt"
+      "text": "Gallery DeptFlared Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyD_IQRI7JvqBxzyxiFJKHg5I-aMX4JiB5tY2TwArs_IluxA1BtCUMV6uxRYNZgOINc0GUpoFxdBIQdimYsNuiM2WpBvznIwosMk5hDr3_relp04l_psymYB3T8XyqM7cfxLYB_qTqZivhA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPT1J5vJoGrme4aX5HB_ZCm9HtIvVpgAxlxjpP_TpPSb_39OzgS-37FNoEoSrBYMToQclpLoJuw596nLP4lnuji7TY9sRSeFpuIbITQd6PowwjxFcENioyox_bvSoX_9cbyfFqdkIQ3Kwi=w143-h110"
     },
-    "col_3": {
-      "text": "GmanClub",
+    "col_4": {
+      "text": "FFCP",
       "links": [
         {
-          "label": "GmanClub",
-          "url": "https://www.oopbuy.com/product/1/789948785188?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/677982546221?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "20$"
+    "col_6": {
+      "text": "17$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924025186459422722?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1941301395660599297?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0726"
+  }
 }

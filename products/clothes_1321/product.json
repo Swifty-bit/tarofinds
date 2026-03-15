@@ -1,79 +1,61 @@
 {
-  "name": "WEBHoodieSky Blue",
+  "name": "OG WEB V2 TEE",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F929834822184%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/929834822184?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/823211589483?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/823211589483?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "35$",
-  "budget_price": "14$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "9$(sale)",
+  "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/177013195?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/177007306?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyenGBJdx1PT8YabyvquIoSqnynHaJpdC_gTqLebPlHhpYb-6N4GAEruP8JtBk-mkOLIHxqF1IRVTLJiYB9E_SC-h4UuiQYzF__rpsPFfx6iyA-ewAyo6e68i7u8n7nxZJVA7mWI0lpPuqO=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw4VsMx7oClG8G7HcxSkCyAT0j8wY07HTkUM8UPOo8N0B4k3sOYZYhwPNjOsY_dYiyM2TQjNVAl2vs95tVsxLBIl9V8PH179cHuGWN1JTNhKKySMVKIPup1oKPfXaPVLDZlrBteIw89Sw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1321",
   "raw_cells": {
     "col_0": {
-      "text": "916"
+      "text": "912"
     },
     "col_1": {
-      "text": "WEBHoodieSky Blue"
+      "text": "OG WEB V2 TEE"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyenGBJdx1PT8YabyvquIoSqnynHaJpdC_gTqLebPlHhpYb-6N4GAEruP8JtBk-mkOLIHxqF1IRVTLJiYB9E_SC-h4UuiQYzF__rpsPFfx6iyA-ewAyo6e68i7u8n7nxZJVA7mWI0lpPuqO=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw4VsMx7oClG8G7HcxSkCyAT0j8wY07HTkUM8UPOo8N0B4k3sOYZYhwPNjOsY_dYiyM2TQjNVAl2vs95tVsxLBIl9V8PH179cHuGWN1JTNhKKySMVKIPup1oKPfXaPVLDZlrBteIw89Sw=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/929834822184?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/823211589483?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
-    },
-    "col_6": {
-      "text": "14$"
+      "text": "9$(sale)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/177013195?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/177007306?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1321"
+  }
 }

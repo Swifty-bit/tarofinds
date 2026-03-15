@@ -1,61 +1,61 @@
 {
-  "name": "ARMSTRONGCrewneck ARMS",
+  "name": "ACW T-Shirt10 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CPRepsCN",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
     {
-      "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F983089560108%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/983089560108?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/621389387238?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "27$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "8$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://cprepscn.x.yupoo.com/albums/203070415?uid=1&isSubCate=false&referrercate=4543872"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/668964833777"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awvvmi2PfHDfhZXsiEAqU1JAdhvqcaPkwYgNBDJNEQdiE2Ag8EbPtATk_J-xOov40xdmkwO7LGWT6kACg-4y3gRLNUUmO72YrVpaJvkBSwit0lfNwpqHYtuC7g0kobNe-BMfdaHQIQFxXVB=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azh8IyxCXJHQrVFxIkquKhVvMMY7aaFBlfCVWM2kaV9hiBe9gWCOTXR0Ret6PqxEn_-iSCuJhmJgFwnKGJqg-NAmdCjtgGcZ2hnGK-ogztRwGqIOkXtrzR3FLJNl1X5F_RDYJAkqHMvx0dn=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1442",
   "raw_cells": {
     "col_0": {
-      "text": "1059"
+      "text": "1051"
     },
     "col_1": {
-      "text": "ARMSTRONGCrewneck ARMS"
+      "text": "ACW T-Shirt10 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awvvmi2PfHDfhZXsiEAqU1JAdhvqcaPkwYgNBDJNEQdiE2Ag8EbPtATk_J-xOov40xdmkwO7LGWT6kACg-4y3gRLNUUmO72YrVpaJvkBSwit0lfNwpqHYtuC7g0kobNe-BMfdaHQIQFxXVB=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azh8IyxCXJHQrVFxIkquKhVvMMY7aaFBlfCVWM2kaV9hiBe9gWCOTXR0Ret6PqxEn_-iSCuJhmJgFwnKGJqg-NAmdCjtgGcZ2hnGK-ogztRwGqIOkXtrzR3FLJNl1X5F_RDYJAkqHMvx0dn=w143-h110"
     },
-    "col_3": {
-      "text": "CPRepsCN",
+    "col_4": {
+      "text": "FFCP",
       "links": [
         {
-          "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/983089560108?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "27$"
+    "col_6": {
+      "text": "8$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://cprepscn.x.yupoo.com/albums/203070415?uid=1&isSubCate=false&referrercate=4543872"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/668964833777"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1442"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Chrome HeartsBeanieMany Styles",
+  "name": "Chrome HeartsJeans Pants",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F989264778109%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/989264778109?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/826782381094?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/826782381094?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "3$",
+  "budget_price": "14$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2004042768396144641?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://finds.ly/product/ali1688/826782381094"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwwwtMu9aG8N48PLEepcDzIGAETXaemcVKEbKChyEJzcUF3aO6Bac94dJIcd08h-IM_GocOytniEwmmK7vPzDJAR-oDS52U6EQRAOo5aqYR44uSaQMFEprAKYsxFBsJViW_vRAFzaHSib7T=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayirib74yZOpjocSqIG7C-oxeSpb3suwRqCZtnnlYtvDb8wBet5GQ8Mk3KfBnBcPGciRRdopcThZuND-tmleWX1OcH3n9uPLTExdnOSLc8_4LlKCt0J3D-e6bpVPNTE5dyqhjjeDxdNWZG6=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1362",
   "raw_cells": {
     "col_0": {
-      "text": "961"
+      "text": "957"
     },
     "col_1": {
-      "text": "Chrome HeartsBeanieMany Styles"
+      "text": "Chrome HeartsJeans Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwwwtMu9aG8N48PLEepcDzIGAETXaemcVKEbKChyEJzcUF3aO6Bac94dJIcd08h-IM_GocOytniEwmmK7vPzDJAR-oDS52U6EQRAOo5aqYR44uSaQMFEprAKYsxFBsJViW_vRAFzaHSib7T=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayirib74yZOpjocSqIG7C-oxeSpb3suwRqCZtnnlYtvDb8wBet5GQ8Mk3KfBnBcPGciRRdopcThZuND-tmleWX1OcH3n9uPLTExdnOSLc8_4LlKCt0J3D-e6bpVPNTE5dyqhjjeDxdNWZG6=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/989264778109?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/826782381094?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "3$"
+      "text": "14$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2004042768396144641?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://finds.ly/product/ali1688/826782381094"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1362"
+  }
 }

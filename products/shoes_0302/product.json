@@ -1,12 +1,12 @@
 {
-  "name": "Awake NYArctic Pink",
+  "name": "Awake NYRacer Blue",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "Y3",
   "best_batch_links": [
     {
       "label": "Y3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7251929780?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7251929780?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3NjEEaoMFaapqZXt7uaTSu96vrIINgPa7Rz28quv8I37MwORd2gPiDoap3z4j3AxueuHgZn26ZWZ33ayvzByX8t6L6IaE_nskNC-Yvm9mn2dCh9-1jfxsHnW_7v-LJwCEayIK8T1eKHQt=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AydyjjfFifpDplA5AEJ4vBj8wR4t5qSbjas5hPKOfpai0N68vUQF6PfIsynY-zgpBtTamZfmnOIdqJTji67nj1l6URWvkMi2DBnZ-xtyquHSIZWsdR4dqM6bjLquKMnvtZzYUqTaCdU6h4m=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0302",
   "raw_cells": {
     "col_0": {
       "text": "319"
     },
     "col_1": {
-      "text": "Awake NYArctic Pink"
+      "text": "Awake NYRacer Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3NjEEaoMFaapqZXt7uaTSu96vrIINgPa7Rz28quv8I37MwORd2gPiDoap3z4j3AxueuHgZn26ZWZ33ayvzByX8t6L6IaE_nskNC-Yvm9mn2dCh9-1jfxsHnW_7v-LJwCEayIK8T1eKHQt=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AydyjjfFifpDplA5AEJ4vBj8wR4t5qSbjas5hPKOfpai0N68vUQF6PfIsynY-zgpBtTamZfmnOIdqJTji67nj1l6URWvkMi2DBnZ-xtyquHSIZWsdR4dqM6bjLquKMnvtZzYUqTaCdU6h4m=w143-h110"
     },
     "col_3": {
       "text": "Y3",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0302"
+  }
 }

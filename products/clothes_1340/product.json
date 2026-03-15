@@ -1,61 +1,61 @@
 {
-  "name": "Palace Vivienne Westwood Jersey Beanie",
+  "name": "Palace x Porsche Zip Sweater2 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
       "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7495483309%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7495483309?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7496158721?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7496158721?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "10$",
+  "best_price": "40$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://dragonrep333.x.yupoo.com/albums/207876892?uid=1"
+      "url": "https://dragonrep333.x.yupoo.com/albums/207879869?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzXrq7GXzXb0VG7rpfglEGnk_BVYTPz720hDdtuMU_Pm6ng86XmLoehqMt7yGW9Bv9Z28CiwWa4-hIKUd5irZlLlwuOBrvvaqzbZhmK_m35c4XMc7PUl5mDkbS5JiClFC_9nezE_-vl11vE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcD0QSI5bkAjGvwWjpvb2EAl02qg-0GWW9BtdpDDE5WEjnSFXByVcxtYVqoulhOpKfyEX4cI51Duh_WX1JNALXpgcykqZBZUhhMT5-5pC-8pnNa9OIYde12bF6xNbRxRSwYobFwabDkSnh=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1340",
   "raw_cells": {
     "col_0": {
-      "text": "937"
+      "text": "933"
     },
     "col_1": {
-      "text": "Palace Vivienne Westwood Jersey Beanie"
+      "text": "Palace x Porsche Zip Sweater2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzXrq7GXzXb0VG7rpfglEGnk_BVYTPz720hDdtuMU_Pm6ng86XmLoehqMt7yGW9Bv9Z28CiwWa4-hIKUd5irZlLlwuOBrvvaqzbZhmK_m35c4XMc7PUl5mDkbS5JiClFC_9nezE_-vl11vE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcD0QSI5bkAjGvwWjpvb2EAl02qg-0GWW9BtdpDDE5WEjnSFXByVcxtYVqoulhOpKfyEX4cI51Duh_WX1JNALXpgcykqZBZUhhMT5-5pC-8pnNa9OIYde12bF6xNbRxRSwYobFwabDkSnh=w143-h110"
     },
     "col_3": {
       "text": "DRAGONREP",
       "links": [
         {
           "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7495483309?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7496158721?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "10$"
+      "text": "40$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://dragonrep333.x.yupoo.com/albums/207876892?uid=1"
+          "url": "https://dragonrep333.x.yupoo.com/albums/207879869?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1340"
+  }
 }

@@ -1,47 +1,74 @@
 {
-  "name": "Chukka x Bape",
+  "name": "Timberland Boot2 Colours",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWT",
+  "best_batch": "Foshan/GD",
   "best_batch_links": [
     {
-      "label": "WWT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563993287%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
+      "label": "Foshan",
+      "url": "https://litbuy.com/product/weidian/6793631199?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6793631199?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7414094918?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7414094918?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "55$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/6702838806?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/6702838806?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "55$ / 47$",
+  "budget_price": "33$",
+  "pics_text": "33$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyzR1F6ND353a0IayebwyYu5c-7JpLBzZ7y2fooTAGDGAsVO4C6uRLn9-0EZ2JGfcLD5wokbjDRsfauv4QK_lN94jw9hb_Hb0GjNMc0xCx2ezSkqHaQ-zNzSloXY8ziB4UL-v_PA7HTgg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyGzUf2r9bg2yGEIWQRQ9gLyR5MOKf9xqyoQ0J3DTauRCt-FjCDzVtTSg7OnhX5wPYfrBwrzzi5GAlb3DLbSbXLAT-UzsJi1Z9jgZmFbNW1zDaDG4tlfK6qnTBrUYwdusqox_GF8bFUJFPs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0366",
   "raw_cells": {
     "col_0": {
       "text": "401"
     },
     "col_1": {
-      "text": "Chukka x Bape"
+      "text": "Timberland Boot2 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyzR1F6ND353a0IayebwyYu5c-7JpLBzZ7y2fooTAGDGAsVO4C6uRLn9-0EZ2JGfcLD5wokbjDRsfauv4QK_lN94jw9hb_Hb0GjNMc0xCx2ezSkqHaQ-zNzSloXY8ziB4UL-v_PA7HTgg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyGzUf2r9bg2yGEIWQRQ9gLyR5MOKf9xqyoQ0J3DTauRCt-FjCDzVtTSg7OnhX5wPYfrBwrzzi5GAlb3DLbSbXLAT-UzsJi1Z9jgZmFbNW1zDaDG4tlfK6qnTBrUYwdusqox_GF8bFUJFPs=w143-h110"
     },
     "col_3": {
-      "text": "WWT",
+      "text": "Foshan/GD",
       "links": [
         {
-          "label": "WWT",
-          "url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
+          "label": "Foshan",
+          "url": "https://oopbuy.com/product/weidian/6793631199?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7414094918?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/6702838806?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "55$"
+      "text": "55$ / 47$"
+    },
+    "col_6": {
+      "text": "33$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0366"
+  }
 }

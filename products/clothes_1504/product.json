@@ -1,61 +1,61 @@
 {
-  "name": "Eric Emanuel x NASCARCheckered FlagShorts",
+  "name": "Rick Owens Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
+  "best_batch": "PinkElephant",
   "best_batch_links": [
     {
-      "label": "Angelking",
-      "url": "https://oopbuy.cc/vQHJxhza",
-      "original_url": null
+      "label": "PinkElephant",
+      "url": "https://litbuy.com/product/taobao/4351425263?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4351425263?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "23$",
+  "best_price": "123$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/110882510?uid=1&isSubCate=false&referrercate=3848500"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/5596707916"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzM3rwjX9ewnqbNqH1ZLtyDUISzxJf3ZgAteSCi7J5qvzEeGkN27fHX2gqKI9nA0fulYUY1AsaAHRFh-B50OH5mkhJlyK-d_7LVNWj5K2lDEkxhy0nQHjJHpHY7Qn_svsx2C4aAiotENHkN=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSUwcLn9uESBLEXOxq19254i-kuG-5Ay7j6R9uA9Tu6tZyZ9Z8gdqgqBCz5zmbQZfwec2E8_OwXEeipsaHAxTN5X76vW1a2tAPX5FMp4GDBrWfcT-PUhhbKeUb1EtFeA1K8tIHsYux9os6=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1504",
   "raw_cells": {
     "col_0": {
-      "text": "978"
+      "text": "1129"
     },
     "col_1": {
-      "text": "Eric Emanuel x NASCARCheckered FlagShorts"
+      "text": "Rick Owens Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzM3rwjX9ewnqbNqH1ZLtyDUISzxJf3ZgAteSCi7J5qvzEeGkN27fHX2gqKI9nA0fulYUY1AsaAHRFh-B50OH5mkhJlyK-d_7LVNWj5K2lDEkxhy0nQHjJHpHY7Qn_svsx2C4aAiotENHkN=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSUwcLn9uESBLEXOxq19254i-kuG-5Ay7j6R9uA9Tu6tZyZ9Z8gdqgqBCz5zmbQZfwec2E8_OwXEeipsaHAxTN5X76vW1a2tAPX5FMp4GDBrWfcT-PUhhbKeUb1EtFeA1K8tIHsYux9os6=w143-h110"
     },
     "col_3": {
-      "text": "Angelking",
+      "text": "PinkElephant",
       "links": [
         {
-          "label": "Angelking",
-          "url": "https://oopbuy.cc/vQHJxhza"
+          "label": "PinkElephant",
+          "url": "https://oopbuy.com/product/2/4351425263?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "123$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/110882510?uid=1&isSubCate=false&referrercate=3848500"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/5596707916"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1504"
+  }
 }

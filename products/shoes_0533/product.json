@@ -1,47 +1,56 @@
 {
-  "name": "Nike NBA Socks",
+  "name": "Nike Socks",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F549208198499%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/549208198499?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7388111578?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7388111578?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "2$",
+  "best_price": "1$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwFX9mp3aE57usHjzCfCdCPd_iIhIg0aBr0vKRfD-KJFXvg51Qzwo0UVDix9GY2_ZiP-w_D3CySQUUZjXhliKEDbsOEOBkm-49v0Zu36hXlrD4qfsarj93Iw0VOsfcX9dZjMJNL6qCyBFVj=w143-h110",
+  "notes": "QC Pics",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVriUCGhRZCB6JyBkUIfmi00q1KeHCpRH7a7XXMf5D74OtMT2UgJE51P8v4mvspKUOjH8RREHUe7Qz1WiDr9paF4eOcOZC9trgsQ1Xu_vjPsLVOMcpoHlTL1Ab50ZQxUmoeB3Ikiz6J_44=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0533",
   "raw_cells": {
     "col_0": {
       "text": "650"
     },
     "col_1": {
-      "text": "Nike NBA Socks"
+      "text": "Nike Socks"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwFX9mp3aE57usHjzCfCdCPd_iIhIg0aBr0vKRfD-KJFXvg51Qzwo0UVDix9GY2_ZiP-w_D3CySQUUZjXhliKEDbsOEOBkm-49v0Zu36hXlrD4qfsarj93Iw0VOsfcX9dZjMJNL6qCyBFVj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVriUCGhRZCB6JyBkUIfmi00q1KeHCpRH7a7XXMf5D74OtMT2UgJE51P8v4mvspKUOjH8RREHUe7Qz1WiDr9paF4eOcOZC9trgsQ1Xu_vjPsLVOMcpoHlTL1Ab50ZQxUmoeB3Ikiz6J_44=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/1/549208198499?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7388111578?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "2$"
+      "text": "1$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006585830884331521?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0533"
+  }
 }

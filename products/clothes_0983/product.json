@@ -1,79 +1,61 @@
 {
-  "name": "Out of the ShadowsT-shirt",
+  "name": "Stone IslandZip-up shirt jacket with pocket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "hotdog-official",
-  "best_batch_links": [
-    {
-      "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341585605%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7341585605?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "FFCP",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F740512418980%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/909935476951?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/909935476951?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "15$",
-  "budget_price": "8$",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "12$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/152763266?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014563407167049730?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axj8FpJFgvNuwN8rGKkN1oQZA1oX1UFGyMGu0Lu6PQ2Azt1X8cj8K6_kaiKUCbYUgTsgvufX07SGEPM_q0MJCPlYq3IPJ-j2GSVRZ1E_1JVkFOorR6Qr8mPfVkfvV9eWNVk1FkTd-m1Yptl=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwhawCmtwjBJpmm8rBHD3diVuP_47clnrAe3tBTWotJqxTcC9EjwQrpt6Tw5ZKPV7B56yWDvAGtm1uzL6vIqCFRAsm3PJ5x4qEUdnj4I-rIINbNlqNcaE7WCRZptMmwL0y1NUl4_e7hyUHw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0983",
   "raw_cells": {
     "col_0": {
-      "text": "520"
+      "text": "514"
     },
     "col_1": {
-      "text": "Out of the ShadowsT-shirt"
+      "text": "Stone IslandZip-up shirt jacket with pocket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axj8FpJFgvNuwN8rGKkN1oQZA1oX1UFGyMGu0Lu6PQ2Azt1X8cj8K6_kaiKUCbYUgTsgvufX07SGEPM_q0MJCPlYq3IPJ-j2GSVRZ1E_1JVkFOorR6Qr8mPfVkfvV9eWNVk1FkTd-m1Yptl=w143-h110"
-    },
-    "col_3": {
-      "text": "hotdog-official",
-      "links": [
-        {
-          "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7341585605?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwhawCmtwjBJpmm8rBHD3diVuP_47clnrAe3tBTWotJqxTcC9EjwQrpt6Tw5ZKPV7B56yWDvAGtm1uzL6vIqCFRAsm3PJ5x4qEUdnj4I-rIINbNlqNcaE7WCRZptMmwL0y1NUl4_e7hyUHw=w143-h110"
     },
     "col_4": {
-      "text": "FFCP",
+      "text": "budget",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/909935476951?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "15$"
-    },
     "col_6": {
-      "text": "8$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/152763266?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014563407167049730?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0983"
+  }
 }

@@ -1,77 +1,47 @@
 {
-  "name": "Track Runners without LED",
+  "name": "Dior Chrono",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "P/VG",
-  "best_batch_links": [
-    {
-      "label": "P",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564052509%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564052509?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "VG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6665205608%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6665205608?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "TG",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "GD",
   "budget_batch_links": [
     {
-      "label": "TG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7617198398%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7617198398?inviteCode=29TOTHGNH"
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7459551063?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7459551063?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "63$ / 56$",
-  "budget_price": "34$",
-  "pics_text": "34$",
+  "best_price": "",
+  "budget_price": "61$",
+  "pics_text": "61$",
   "pics_links": [],
-  "notes": "Size down 0.5 EU size(tracks are bigger)",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AztgftMbVdCsUTZ79XUoxkwSshwFxN-rory131BudbCCltZhrfhKv8MPgQF4nWM3jTi88_6KZjsOOTY0g1GahNPfLyzKcoZUeWyV3EbjPUjVdgFhYsE2RiVUJO2gyBJJwWN1fyMPhBbZIGU=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXuhuzYHLVIMeC36X_waMX2EMvd2HAtPpSqa2Bx7z7ShkG1GgL7W2NepGcRZH3arqnXhPDE8O4OUPOZjVGJK2iYdaDOHC2is9RZPjItJ9lj-9V_vySaubXDVvTVFAc9sJw_ny0aIPyeo5R=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0422",
   "raw_cells": {
     "col_0": {
-      "text": "481"
+      "text": "479"
     },
     "col_1": {
-      "text": "Track Runners without LED"
+      "text": "Dior Chrono"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AztgftMbVdCsUTZ79XUoxkwSshwFxN-rory131BudbCCltZhrfhKv8MPgQF4nWM3jTi88_6KZjsOOTY0g1GahNPfLyzKcoZUeWyV3EbjPUjVdgFhYsE2RiVUJO2gyBJJwWN1fyMPhBbZIGU=w143-h110"
-    },
-    "col_3": {
-      "text": "P/VG",
-      "links": [
-        {
-          "label": "P",
-          "url": "https://oopbuy.com/product/weidian/7564052509?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "VG",
-          "url": "https://oopbuy.com/product/2/6665205608?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXuhuzYHLVIMeC36X_waMX2EMvd2HAtPpSqa2Bx7z7ShkG1GgL7W2NepGcRZH3arqnXhPDE8O4OUPOZjVGJK2iYdaDOHC2is9RZPjItJ9lj-9V_vySaubXDVvTVFAc9sJw_ny0aIPyeo5R=w143-h110"
     },
     "col_4": {
-      "text": "TG",
+      "text": "GD",
       "links": [
         {
-          "label": "TG",
-          "url": "https://oopbuy.com/product/weidian/7617198398?inviteCode=29TOTHGNH"
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7459551063?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "63$ / 56$"
-    },
     "col_6": {
-      "text": "34$"
-    },
-    "col_7": {
-      "text": "Size down 0.5 EU size(tracks are bigger)"
+      "text": "61$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0422"
+  }
 }

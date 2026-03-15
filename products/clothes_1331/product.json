@@ -1,61 +1,79 @@
 {
-  "name": "Palace x CarharttT-Shirt2 Colors",
+  "name": "P*NK V2Hoodie Black",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7496097867%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7496097867?inviteCode=29TOTHGNH"
+      "label": "PikaPikaGo",
+      "url": "https://litbuy.com/product/weidian/823340656611?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/823340656611?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "15$",
-  "budget_price": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/738347006278?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "21$(sale)",
+  "budget_price": "14$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://dragonrep333.x.yupoo.com/albums/207864278?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/177009918?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyJbJXplihXYrOuzepoAgZpnaI1_nba4Ihp6uogegi2mVYDFvGSwbhODh2eLgVbDNzCOhx2kzu2f5p6FcQLCG5l3YpRMGUNoAAsIsVRQC-XbdV8vth7UHdHMbcX_JtxQ26V00W2z1xWzgBC=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwJJaj0rUqnCCatURSCW6WWav8QhgBLCw4oxMp1aBjjVI7JjNW2_znt9uEu9_ObjlyrTxLQfeAD2JBzqWi_iwhevwynSN79BzsCiNJybbHmsfdellhzC_x_jXLyuH6lUUgyvstLydVY4w=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1331",
   "raw_cells": {
     "col_0": {
-      "text": "928"
+      "text": "922"
     },
     "col_1": {
-      "text": "Palace x CarharttT-Shirt2 Colors"
+      "text": "P*NK V2Hoodie Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyJbJXplihXYrOuzepoAgZpnaI1_nba4Ihp6uogegi2mVYDFvGSwbhODh2eLgVbDNzCOhx2kzu2f5p6FcQLCG5l3YpRMGUNoAAsIsVRQC-XbdV8vth7UHdHMbcX_JtxQ26V00W2z1xWzgBC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwJJaj0rUqnCCatURSCW6WWav8QhgBLCw4oxMp1aBjjVI7JjNW2_znt9uEu9_ObjlyrTxLQfeAD2JBzqWi_iwhevwynSN79BzsCiNJybbHmsfdellhzC_x_jXLyuH6lUUgyvstLydVY4w=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "PikaPikaGo",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7496097867?inviteCode=29TOTHGNH"
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/823340656611?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "21$(sale)"
+    },
+    "col_6": {
+      "text": "14$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://dragonrep333.x.yupoo.com/albums/207864278?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/177009918?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1331"
+  }
 }

@@ -1,61 +1,87 @@
 {
-  "name": "GoyardCardholder8 Colors",
+  "name": "Louis VuittonPochette Voyage MM",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "MissChen",
+  "best_batch_links": [
+    {
+      "label": "MissChen",
+      "url": "https://litbuy.com/product/weidian/7221570759?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7221570759?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F927872641982%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/927872641982?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/950842574171?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/950842574171?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "best_price": "55$",
+  "budget_price": "15$",
+  "pics_text": "misschen/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973213283885867010?action=discord&type=1&cid=1942512167859859457"
+      "label": "misschen",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1964516464741933057?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574024182718465?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyrUmvwE6pUg5IHCCXcBSsdHo9IyosPLFoo5dq4xJ3WmqGFzUUy_Z8_gRYi2-6JOV5HetIiyTZDWbEe91I1SXuT0dH6PO3UR7IrR6ZpofOp58cIfrVk6GJ5j4oIrCputz3UrNM1f3o0lQXb=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax425D7p3tqEqQclS-l6n4A537HWEQC3AEyyHMIKIXyA5hy23FyvJaQObNYHYax_DpWnnawlO6iFWxzbpWxvITmgio6ucTeb7jU_nyxiS6jx2fkZ86fyTBvplxsZaLJPfe004oAdetEkg7D=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1518",
   "raw_cells": {
     "col_0": {
-      "text": "24"
+      "text": "20"
     },
     "col_1": {
-      "text": "GoyardCardholder8 Colors"
+      "text": "Louis VuittonPochette Voyage MM"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrUmvwE6pUg5IHCCXcBSsdHo9IyosPLFoo5dq4xJ3WmqGFzUUy_Z8_gRYi2-6JOV5HetIiyTZDWbEe91I1SXuT0dH6PO3UR7IrR6ZpofOp58cIfrVk6GJ5j4oIrCputz3UrNM1f3o0lQXb=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax425D7p3tqEqQclS-l6n4A537HWEQC3AEyyHMIKIXyA5hy23FyvJaQObNYHYax_DpWnnawlO6iFWxzbpWxvITmgio6ucTeb7jU_nyxiS6jx2fkZ86fyTBvplxsZaLJPfe004oAdetEkg7D=w143-h110"
+    },
+    "col_3": {
+      "text": "MissChen",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/7221570759?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/927872641982?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/950842574171?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "55$"
+    },
     "col_6": {
-      "text": "3$"
+      "text": "15$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "misschen/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973213283885867010?action=discord&type=1&cid=1942512167859859457"
+          "label": "misschen",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1964516464741933057?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574024182718465?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1518"
+  }
 }

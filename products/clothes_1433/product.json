@@ -1,61 +1,87 @@
 {
-  "name": "CarharttJ140 Cotton Heavy Jacket2 Colors",
+  "name": "CarharttJ97 Detroit Jacket18 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "LambClub",
   "best_batch_links": [
     {
       "label": "LambClub",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F694161566473%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/694161566473?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/709715593267?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/709715593267?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "36$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/959314682781?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/959314682781?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "37$",
+  "budget_price": "18$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2016379145968242689?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2019007214394626049?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://doppel.fit/item/1688/959314682781"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzM03KW8ewDOG4aLe7t6VRU3pcYGoFfuWFgbwBmumUUL9aeSVdPix4lbxI1yqLjMaIiYQy6ckmBRGNL7NySxrxfcQloz009VEFHA9IrOY1jSz61xygt05aK6z1peeawxFz6pr8wYQCOGw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzTvTLDBM05z5dXHDNeBHnfjxSJzpGXTt3jcsftBbdlHw2Jq3yk7wLM1X0GXns8c-a5a-D4yojkG9rCw5lBGGN_h9JTwNK8WW_2ehPZMkELTiqcWyH5wiXyVDHHHKPOtyu-g3kWgsZndQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1433",
   "raw_cells": {
     "col_0": {
-      "text": "1044"
+      "text": "1040"
     },
     "col_1": {
-      "text": "CarharttJ140 Cotton Heavy Jacket2 Colors"
+      "text": "CarharttJ97 Detroit Jacket18 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzM03KW8ewDOG4aLe7t6VRU3pcYGoFfuWFgbwBmumUUL9aeSVdPix4lbxI1yqLjMaIiYQy6ckmBRGNL7NySxrxfcQloz009VEFHA9IrOY1jSz61xygt05aK6z1peeawxFz6pr8wYQCOGw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzTvTLDBM05z5dXHDNeBHnfjxSJzpGXTt3jcsftBbdlHw2Jq3yk7wLM1X0GXns8c-a5a-D4yojkG9rCw5lBGGN_h9JTwNK8WW_2ehPZMkELTiqcWyH5wiXyVDHHHKPOtyu-g3kWgsZndQ=w143-h110"
     },
     "col_3": {
       "text": "LambClub",
       "links": [
         {
           "label": "LambClub",
-          "url": "https://www.oopbuy.com/product/0/694161566473?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/709715593267?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/959314682781?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "36$"
+      "text": "37$"
+    },
+    "col_6": {
+      "text": "18$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2016379145968242689?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2019007214394626049?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://doppel.fit/item/1688/959314682781"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1433"
+  }
 }

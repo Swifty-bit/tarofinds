@@ -1,39 +1,35 @@
 {
-  "name": "Craft Lvory",
+  "name": "SP J Balvin Rio",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "PB",
-  "budget_batch_links": [
-    {
-      "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "63$",
-  "budget_price": "29$",
-  "pics_text": "29$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "66$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw-LfgljMho-6dUG354bX-lEo-sDifNxENq9IvVZwgbw1eNqLgtuQbyt5KvlhHhquU4HeD4Wxu2uZj42ExJu71dk4heXnJ_wkB9fjhQg7iJrb19FzcpztAanacDh1Phfpy5DY62cbShqA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxG5Ib6OoqZzXvmwczTamh0mrxNw8tliqNNiqmc0o9OIZ_nSDFlUTRRkCc4ayULds-vSn8cZWRgge-nbdjh4GysgygAQm281FR2ItXvDthF4Y2gybn9AToZCsM0WQz0FU4UvRaiNElof-Yf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0202",
   "raw_cells": {
     "col_0": {
       "text": "215"
     },
     "col_1": {
-      "text": "Craft Lvory"
+      "text": "SP J Balvin Rio"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw-LfgljMho-6dUG354bX-lEo-sDifNxENq9IvVZwgbw1eNqLgtuQbyt5KvlhHhquU4HeD4Wxu2uZj42ExJu71dk4heXnJ_wkB9fjhQg7iJrb19FzcpztAanacDh1Phfpy5DY62cbShqA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxG5Ib6OoqZzXvmwczTamh0mrxNw8tliqNNiqmc0o9OIZ_nSDFlUTRRkCc4ayULds-vSn8cZWRgge-nbdjh4GysgygAQm281FR2ItXvDthF4Y2gybn9AToZCsM0WQz0FU4UvRaiNElof-Yf=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -44,22 +40,8 @@
         }
       ]
     },
-    "col_4": {
-      "text": "PB",
-      "links": [
-        {
-          "label": "PB",
-          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
     "col_5": {
-      "text": "63$"
-    },
-    "col_6": {
-      "text": "29$"
+      "text": "66$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0202"
+  }
 }

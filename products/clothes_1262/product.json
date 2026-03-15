@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaParis SoccerZip Hoodie",
+  "name": "Balenciaga x Lamborghini Long Sleeves",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "ApexMade",
   "best_batch_links": [
     {
       "label": "ApexMade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F763706333392%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/763706333392?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/938199594257?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/938199594257?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "46$",
+  "best_price": "27$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2024161602740772866?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://doppel.fit/item/taobao/938199594257"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az86pDBBniZWXAFePt5oNIquNXmeJQtcGkCDmdJlQ3mSRhTpRIgyKWDZu_l2qMJ73O6L5R4qsnUWNOslc_IMQZnMtCIRFqKbRViaBIO7V1w4YgoSAP9NjE93kqm13vrEwm9edCTZ3fihoRu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxaqacRRUgDDuUeXPiETMV2n0HI8PgBlxhYAfFplBqyy-nxYnLumvPu-reNuNoy37CFku-raeA-LP5U2V9MxUnqiop7H_qYWaK85ehJ5mVIDHeAZDXstKW7QnHthJpFR0HDWE8Vh9ZaC6rC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1262",
   "raw_cells": {
     "col_0": {
-      "text": "851"
+      "text": "847"
     },
     "col_1": {
-      "text": "BalenciagaParis SoccerZip Hoodie"
+      "text": "Balenciaga x Lamborghini Long Sleeves"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az86pDBBniZWXAFePt5oNIquNXmeJQtcGkCDmdJlQ3mSRhTpRIgyKWDZu_l2qMJ73O6L5R4qsnUWNOslc_IMQZnMtCIRFqKbRViaBIO7V1w4YgoSAP9NjE93kqm13vrEwm9edCTZ3fihoRu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxaqacRRUgDDuUeXPiETMV2n0HI8PgBlxhYAfFplBqyy-nxYnLumvPu-reNuNoy37CFku-raeA-LP5U2V9MxUnqiop7H_qYWaK85ehJ5mVIDHeAZDXstKW7QnHthJpFR0HDWE8Vh9ZaC6rC=w143-h110"
     },
     "col_3": {
       "text": "ApexMade",
       "links": [
         {
           "label": "ApexMade",
-          "url": "https://oopbuy.com/product/1/763706333392?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/938199594257?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "27$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2024161602740772866?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://doppel.fit/item/taobao/938199594257"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1262"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "Waterfront MuleSlidesBlack / White",
+  "name": "Run Away",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GZ",
+  "best_batch": "ZZZTOPXX",
   "best_batch_links": [
     {
-      "label": "GZ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312690227%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7312690227?inviteCode=29TOTHGNH"
+      "label": "ZZZTOPXX",
+      "url": "https://litbuy.com/product/weidian/6301110116?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6301110116?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "27$",
+  "best_price": "84$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwB4trFSgGox-bOauKq6B1JM0bfe1-4Yj1bcc3tEz1xHCI6JbZZCucMJnsJTvLyseuTvvVHxwnJghLzuUKXReGTBEBCa9OmocrubaVoE0Jg5Rw8n0O08n-fSqdnUHsaAIZtc1tAe_uCyIM3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw8cKaHEgHA9txs2bD7jkz5wfQEWa_EIiVW9waIHNyJGD6_P9B3q5dcqLuwbv8BKutuisOw78k_AA4a0Q-XgIVL_DpzH5qynWKCPWzXWI4x2kjiPKgXVLmkYrRj_Z66yL9HfMnoegbjw7H4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0457",
   "raw_cells": {
     "col_0": {
       "text": "518"
     },
     "col_1": {
-      "text": "Waterfront MuleSlidesBlack / White"
+      "text": "Run Away"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwB4trFSgGox-bOauKq6B1JM0bfe1-4Yj1bcc3tEz1xHCI6JbZZCucMJnsJTvLyseuTvvVHxwnJghLzuUKXReGTBEBCa9OmocrubaVoE0Jg5Rw8n0O08n-fSqdnUHsaAIZtc1tAe_uCyIM3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw8cKaHEgHA9txs2bD7jkz5wfQEWa_EIiVW9waIHNyJGD6_P9B3q5dcqLuwbv8BKutuisOw78k_AA4a0Q-XgIVL_DpzH5qynWKCPWzXWI4x2kjiPKgXVLmkYrRj_Z66yL9HfMnoegbjw7H4=w143-h110"
     },
     "col_3": {
-      "text": "GZ",
+      "text": "ZZZTOPXX",
       "links": [
         {
-          "label": "GZ",
-          "url": "https://oopbuy.com/product/weidian/7312690227?inviteCode=29TOTHGNH"
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/weidian/6301110116?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "84$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0457"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "VetementsSeoul ExclusiveKorean Metal Hoodie",
+  "name": "VetementsHeavy Metal SkullT-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "vetementsshop",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F941635542284%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/941635542284?inviteCode=29TOTHGNH"
+      "label": "vetementsshop",
+      "url": "https://litbuy.com/product/weidian/616933470263?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/616933470263?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "57$",
+  "best_price": "68$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/180244920?uid=1&isSubCate=false&referrercate=4651184"
+      "url": "https://vetementsshop.x.yupoo.com/albums/64284705?uid=1&isSubCate=false&referrercate=778962"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax1QL6iJs-YRMILp4wlayRAgXd3yjbyrDQ5Kvn09iRoQZUwQ3Ri7gAbH1_KzA-QzMVafna_oCVf1uwMyqQWt3iAOYTplxkaJH7ao7vZju0go-jBVdBV6ySn8KDFTb6eADF4vb9HKz9acw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az06mcSv_8sSeliaC2pCKeeNyON2G77el3d6s2lTbBK6KbBO1g_HbXlnDiQwwlDBuEPwzXb1fz47MXNHQFCBY8v4V9BlpS3-V0zlU6XeXUpbmmCfBvSbeHyjX8l8fTmXWOXKhjya8wXspDR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1114",
   "raw_cells": {
     "col_0": {
-      "text": "669"
+      "text": "665"
     },
     "col_1": {
-      "text": "VetementsSeoul ExclusiveKorean Metal Hoodie"
+      "text": "VetementsHeavy Metal SkullT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax1QL6iJs-YRMILp4wlayRAgXd3yjbyrDQ5Kvn09iRoQZUwQ3Ri7gAbH1_KzA-QzMVafna_oCVf1uwMyqQWt3iAOYTplxkaJH7ao7vZju0go-jBVdBV6ySn8KDFTb6eADF4vb9HKz9acw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az06mcSv_8sSeliaC2pCKeeNyON2G77el3d6s2lTbBK6KbBO1g_HbXlnDiQwwlDBuEPwzXb1fz47MXNHQFCBY8v4V9BlpS3-V0zlU6XeXUpbmmCfBvSbeHyjX8l8fTmXWOXKhjya8wXspDR=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "vetementsshop",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/941635542284?inviteCode=29TOTHGNH"
+          "label": "vetementsshop",
+          "url": "https://oopbuy.com/product/1/616933470263?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "57$"
+      "text": "68$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/180244920?uid=1&isSubCate=false&referrercate=4651184"
+          "url": "https://vetementsshop.x.yupoo.com/albums/64284705?uid=1&isSubCate=false&referrercate=778962"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1114"
+  }
 }

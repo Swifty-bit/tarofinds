@@ -1,61 +1,61 @@
 {
-  "name": "Gucci Cap",
+  "name": "Gucci Polo2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Thunder",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F886275141841%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/886275141841?inviteCode=29TOTHGNH"
+      "label": "Thunder",
+      "url": "https://litbuy.com/product/weidian/7423361508?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7423361508?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "9$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "44$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1910861725873311746?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://thethunder.x.yupoo.com/albums/177323944?uid=1&isSubCate=false&referrercate=3972376"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMRsIbosdU6EiG4gAZsCdksgmFEoWRGrqfdqpvI_Br_70oGQ39hEP3j04hJtXWZspQdP2Y4hrzD_4QtdiUy9B9iMEUkk0HPsD1Q0Kxhtd2QkMq-B_YWTlaOjSpEmRbX_cWZ4tPpRQPBBLQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax31tox55OYA7z9gH-XGl3uqaD16gJvzTma4UvM6yjDY-2YqR_PRfvXIOz8o3fjZaLYDJ3iplBmT67jfSmXxI4TkdwuRz1icZROLyyEcX5LpscUMonYOVcc_8vvt4niOU_svQDiHyGIlqWw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1418",
   "raw_cells": {
     "col_0": {
-      "text": "1027"
+      "text": "1023"
     },
     "col_1": {
-      "text": "Gucci Cap"
+      "text": "Gucci Polo2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMRsIbosdU6EiG4gAZsCdksgmFEoWRGrqfdqpvI_Br_70oGQ39hEP3j04hJtXWZspQdP2Y4hrzD_4QtdiUy9B9iMEUkk0HPsD1Q0Kxhtd2QkMq-B_YWTlaOjSpEmRbX_cWZ4tPpRQPBBLQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax31tox55OYA7z9gH-XGl3uqaD16gJvzTma4UvM6yjDY-2YqR_PRfvXIOz8o3fjZaLYDJ3iplBmT67jfSmXxI4TkdwuRz1icZROLyyEcX5LpscUMonYOVcc_8vvt4niOU_svQDiHyGIlqWw=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Thunder",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/886275141841?inviteCode=29TOTHGNH"
+          "label": "Thunder",
+          "url": "https://www.oopbuy.com/product/weidian/7423361508?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "9$"
+    "col_5": {
+      "text": "44$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1910861725873311746?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://thethunder.x.yupoo.com/albums/177323944?uid=1&isSubCate=false&referrercate=3972376"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1418"
+  }
 }

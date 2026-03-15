@@ -1,5 +1,5 @@
 {
-  "name": "LV Beanie40 Styles",
+  "name": "LVDamier HeritageBeanie4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7233480925%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7233480925?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/908031405072?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/908031405072?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "4$",
+  "budget_price": "3$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2009164233839824897?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2000391193836474369?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxG3qqdh3cZSyPVehokoBXMGMFhJtRHfTngMUK9mxAROQZPwFTThkTyhsaKqTIh4r-avpEniC6Pl4oI2R7nfyD1wmbKh0S4xd4Iuj53XJmLHJGK5HUKZwd0NH9jB9aOH70VnAXNJ3fFHw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSFo3aEP3d159jfvDcbXNC3b5FAfIKcKui6VRZ53OebQhh61nHW11OCL2l23uDqsDuEXiTldPI7ex40K0v5TjxBxENZb0IRmY0LJHDA0aRBqg1VNE0vnWMXjmdekRCnnqs2c0i0SAshhYk=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0831",
   "raw_cells": {
     "col_0": {
-      "text": "328"
+      "text": "324"
     },
     "col_1": {
-      "text": "LV Beanie40 Styles"
+      "text": "LVDamier HeritageBeanie4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxG3qqdh3cZSyPVehokoBXMGMFhJtRHfTngMUK9mxAROQZPwFTThkTyhsaKqTIh4r-avpEniC6Pl4oI2R7nfyD1wmbKh0S4xd4Iuj53XJmLHJGK5HUKZwd0NH9jB9aOH70VnAXNJ3fFHw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSFo3aEP3d159jfvDcbXNC3b5FAfIKcKui6VRZ53OebQhh61nHW11OCL2l23uDqsDuEXiTldPI7ex40K0v5TjxBxENZb0IRmY0LJHDA0aRBqg1VNE0vnWMXjmdekRCnnqs2c0i0SAshhYk=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7233480925?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/908031405072?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "4$"
+      "text": "3$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2009164233839824897?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2000391193836474369?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0831"
+  }
 }

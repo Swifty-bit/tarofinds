@@ -1,61 +1,79 @@
 {
-  "name": "PalaceT-Shirt",
+  "name": "BelugaSweatpants Red",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7496097867%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7496097867?inviteCode=29TOTHGNH"
+      "label": "PikaPikaGo",
+      "url": "https://litbuy.com/product/weidian/823211201566?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/823211201566?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "15$",
-  "budget_price": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/738347006278?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "12$(sale)",
+  "budget_price": "14$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://dragonrep333.x.yupoo.com/albums/207847843?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/177005474?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azo42GGGIKcByeym6-6bpeskYOTLWp3-rt4Qyki5Aa-rcukDdeRoCQ_rKcuX3n3KGWqkaYGXKnMiCHsbxOx5gGkpgKhgfPs5J10H1tbFH8xGG9biBYzwYNKjENc5pmi1_v3R42aZsPrxYQ2=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxUePn6sFHo8-KnXYONxtJNR1A5XJMN1yx1aE8LIdGQM48-dxrCWqjr_i6ARE0n9DBWa00ZXjUxoe6p373BJkJU3-zwt79qR-9NqiXXbZP10E_Ue2DdeNxtZksNVAmV_u2ZMTNIHRAVYjUE=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1330",
   "raw_cells": {
     "col_0": {
-      "text": "927"
+      "text": "921"
     },
     "col_1": {
-      "text": "PalaceT-Shirt"
+      "text": "BelugaSweatpants Red"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azo42GGGIKcByeym6-6bpeskYOTLWp3-rt4Qyki5Aa-rcukDdeRoCQ_rKcuX3n3KGWqkaYGXKnMiCHsbxOx5gGkpgKhgfPs5J10H1tbFH8xGG9biBYzwYNKjENc5pmi1_v3R42aZsPrxYQ2=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxUePn6sFHo8-KnXYONxtJNR1A5XJMN1yx1aE8LIdGQM48-dxrCWqjr_i6ARE0n9DBWa00ZXjUxoe6p373BJkJU3-zwt79qR-9NqiXXbZP10E_Ue2DdeNxtZksNVAmV_u2ZMTNIHRAVYjUE=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "PikaPikaGo",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7496097867?inviteCode=29TOTHGNH"
+          "label": "PikaPikaGo",
+          "url": "https://www.oopbuy.com/product/1/823211201566?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "12$(sale)"
+    },
+    "col_6": {
+      "text": "14$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://dragonrep333.x.yupoo.com/albums/207847843?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/177005474?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1330"
+  }
 }

@@ -1,20 +1,20 @@
 {
-  "name": "AMM(A Ma Maniere)",
+  "name": "Fragment",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/weidian/7297925857?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "PB",
   "budget_batch_links": [
     {
       "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,24 +23,26 @@
   "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax1DjnIu0S81DExgaUKq94Z3YfW_6Kg3Jftp7sHqHNSqTT1Lu65KhQCz_yS94JFEU3wbslAYPCPzU2qge5TwfCdiv4J0yOuFockk4nNXxCQ9UomvBsPyMQzleP3w5iclz8SJ93t43dKJeri=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwcpekPDqR9ZlT2KJzQi0MNwEZQqfiWutznx6bMH5oFbxzDIV8ffcj9mCh71tVZEWoRg9UW4cgYIJS9GSHGkUkuvbSGF8TruLk2YPcsgbHlyf-A45mXetv93Tjly7O_z-v4YR9uO_DZCA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0196",
   "raw_cells": {
     "col_0": {
       "text": "209"
     },
     "col_1": {
-      "text": "AMM(A Ma Maniere)"
+      "text": "Fragment"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax1DjnIu0S81DExgaUKq94Z3YfW_6Kg3Jftp7sHqHNSqTT1Lu65KhQCz_yS94JFEU3wbslAYPCPzU2qge5TwfCdiv4J0yOuFockk4nNXxCQ9UomvBsPyMQzleP3w5iclz8SJ93t43dKJeri=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwcpekPDqR9ZlT2KJzQi0MNwEZQqfiWutznx6bMH5oFbxzDIV8ffcj9mCh71tVZEWoRg9UW4cgYIJS9GSHGkUkuvbSGF8TruLk2YPcsgbHlyf-A45mXetv93Tjly7O_z-v4YR9uO_DZCA=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "GX",
       "links": [
         {
-          "label": "OG",
-          "url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0196"
+  }
 }

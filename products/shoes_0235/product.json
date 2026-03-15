@@ -1,21 +1,21 @@
 {
-  "name": "SB Pine Green",
+  "name": "UNION Off Noir",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "RFA",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "RFA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5791543640%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7240378209?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "66$",
@@ -23,24 +23,26 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzktUTMw5Ob-vjiqaSl6g_6VvvqnT_okKJgXNF-FId3RarytLY9YMBFkybu9asvB43A9HqLEhR1YqSSx7TwD8pIaQj7vLXhmpgnAkavz9z1Y6zh_kq7xtSFW6hpb7rB7bK2sPGACcPe3Ctt=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az0vGymW8uzoXghPLtklSbVvEz0ZjsF53TPvTIEXPpPfSqaPN2VGd_YS-Gb_pghlSHpwsUUHl_Q6_RydJJAjuLCgGVToO56vXhs8kYogN4BLQ4ZEYUBUx_VRxkyI8GW-8zmcsSJwBd_B_EV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0235",
   "raw_cells": {
     "col_0": {
       "text": "250"
     },
     "col_1": {
-      "text": "SB Pine Green"
+      "text": "UNION Off Noir"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzktUTMw5Ob-vjiqaSl6g_6VvvqnT_okKJgXNF-FId3RarytLY9YMBFkybu9asvB43A9HqLEhR1YqSSx7TwD8pIaQj7vLXhmpgnAkavz9z1Y6zh_kq7xtSFW6hpb7rB7bK2sPGACcPe3Ctt=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0vGymW8uzoXghPLtklSbVvEz0ZjsF53TPvTIEXPpPfSqaPN2VGd_YS-Gb_pghlSHpwsUUHl_Q6_RydJJAjuLCgGVToO56vXhs8kYogN4BLQ4ZEYUBUx_VRxkyI8GW-8zmcsSJwBd_B_EV=w143-h110"
     },
     "col_3": {
-      "text": "RFA",
+      "text": "GX",
       "links": [
         {
-          "label": "RFA",
-          "url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -49,7 +51,7 @@
       "links": [
         {
           "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0235"
+  }
 }

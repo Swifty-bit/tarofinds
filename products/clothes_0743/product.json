@@ -1,61 +1,91 @@
 {
-  "name": "Essentials1977 Shorts3 Colors",
+  "name": "Essentials8th Season22SSShorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "firerep",
+  "best_batch": "Singor",
   "best_batch_links": [
     {
-      "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F985914673288%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+      "label": "Singor",
+      "url": "https://litbuy.com/product/weidian/829447326566?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/829447326566?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "20$",
-  "budget_price": "",
-  "pics_text": "firerep",
+  "budget_batch": "Yishan",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://litbuy.com/product/weidian/735478280526?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/735478280526?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "22$",
+  "budget_price": "11$",
+  "pics_text": "singor/yishan",
   "pics_links": [
     {
-      "label": "firerep",
-      "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+      "label": "singor",
+      "url": "https://steven-1989.x.yupoo.com/albums/173771005?uid=1&isSubCate=false&referrercate=3018541"
+    },
+    {
+      "label": "yishan",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2001842059206545410?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzuS9Zd401ffmuzTIutnHvIgG7MpX3RCbKVyeDYoMQeJGtvDe4e6_5qCWkTzCUyfD-lpxCi6uSC99LTeUVNNGzDlejc6RVN1JreLtYwy9z_W6ZdHlia7MWNMKfwNhcgNJu3lkLynJvd9iJy=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3U4XQ9htO170sHei2rwc0-vABhWpr296U1qFtEakZspWFz78x3R4Q5LSZ2Mz7Cqj_WtyL9PPHhnjOEnEmqn-dDZ7CghCwH_Ffcv7Pxowbt5zYeCooizrHGcxXkzYLmaomKGwsth_Yu0pZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0743",
   "raw_cells": {
     "col_0": {
-      "text": "229"
+      "text": "224"
     },
     "col_1": {
-      "text": "Essentials1977 Shorts3 Colors"
+      "text": "Essentials8th Season22SSShorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzuS9Zd401ffmuzTIutnHvIgG7MpX3RCbKVyeDYoMQeJGtvDe4e6_5qCWkTzCUyfD-lpxCi6uSC99LTeUVNNGzDlejc6RVN1JreLtYwy9z_W6ZdHlia7MWNMKfwNhcgNJu3lkLynJvd9iJy=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3U4XQ9htO170sHei2rwc0-vABhWpr296U1qFtEakZspWFz78x3R4Q5LSZ2Mz7Cqj_WtyL9PPHhnjOEnEmqn-dDZ7CghCwH_Ffcv7Pxowbt5zYeCooizrHGcxXkzYLmaomKGwsth_Yu0pZ=w143-h110"
     },
     "col_3": {
-      "text": "firerep",
+      "text": "Singor",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/829447326566?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/735478280526?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "20$"
+      "text": "22$"
+    },
+    "col_6": {
+      "text": "11$"
     },
     "col_7": {
-      "text": "firerep",
+      "text": "singor/yishan",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+          "label": "singor",
+          "url": "https://steven-1989.x.yupoo.com/albums/173771005?uid=1&isSubCate=false&referrercate=3018541"
+        },
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2001842059206545410?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyOAG9DVmzPH-R6Hv09Q34GeuvY1126pc-38gVzsaJwuQaMEDsglcWBUfbyKWZKlo0gDZF0SFZMHkym5M_gQCHd1bXU103D1KIzZVZVfcwdypErJk-3cvtqcD2tsMnLazhxwJxCkzVK2A=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0743"
+  }
 }

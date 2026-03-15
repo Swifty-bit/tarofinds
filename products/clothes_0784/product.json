@@ -1,61 +1,69 @@
 {
-  "name": "Moncler T-ShirtsMany Styles",
+  "name": "Athena T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "RepsKing",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F902066488920%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/902066488920?inviteCode=29TOTHGNH"
+      "label": "RepsKing",
+      "url": "https://litbuy.com/product/weidian/7564599831?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564599831?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "9$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "16$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1989520877014831105?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1930508395355410433?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/161737380?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyoBAhEpu4Tt67hjzV2xkdjOZ0xOWei-3T--32ty1a6QYoPe4Gf2ouW-eTvzuc-UF3aujrDCbZlwZWLIVIrNpqVfLFy0tPASBtnsKcYRjLdayHIgS0Jkl3DM3_PqY0u1KFSVRh_6hp4R8kl=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0WLzZTASNWGB6j7Xus4-Hz4bFpSs65oOufy2gcgr70KMEeiKIZNkTYBHItsykPQH8XO3UAKoSee2ng9fqxBy8zDceC2o_EM4j6yldkjMIb3ILO1D7okvhKPsDOu6Ab700m2LASUarYX8y=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0784",
   "raw_cells": {
     "col_0": {
-      "text": "279"
+      "text": "275"
     },
     "col_1": {
-      "text": "Moncler T-ShirtsMany Styles"
+      "text": "Athena T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyoBAhEpu4Tt67hjzV2xkdjOZ0xOWei-3T--32ty1a6QYoPe4Gf2ouW-eTvzuc-UF3aujrDCbZlwZWLIVIrNpqVfLFy0tPASBtnsKcYRjLdayHIgS0Jkl3DM3_PqY0u1KFSVRh_6hp4R8kl=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0WLzZTASNWGB6j7Xus4-Hz4bFpSs65oOufy2gcgr70KMEeiKIZNkTYBHItsykPQH8XO3UAKoSee2ng9fqxBy8zDceC2o_EM4j6yldkjMIb3ILO1D7okvhKPsDOu6Ab700m2LASUarYX8y=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "RepsKing",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/902066488920?inviteCode=29TOTHGNH"
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/weidian/7564599831?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "9$"
+    "col_5": {
+      "text": "16$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "QC Pics/pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1989520877014831105?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1930508395355410433?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/161737380?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0784"
+  }
 }

@@ -1,18 +1,18 @@
 {
-  "name": "Rick Owens Pants",
+  "name": "Rick Owens Zipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PinkElephant",
   "best_batch_links": [
     {
       "label": "PinkElephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4831285549%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4831285549?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/5596707916?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5596707916?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "53$",
+  "best_price": "49$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
@@ -22,29 +22,31 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az667hZTI6rN4RXLjMzR8XvqHyaNnj1hSTT8eH_tA4tI79y-vvXWC92LCSQOHF1HhqFCJVvZrv-X9fRyhB6TqhcKA4Oheu1X-W5OcWg9jilrrueS8137D-BMIYnAcrCYo-wbCh6OH_99iT3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDUPOnkF-JM3-a_pJMvsb77AKM-gM6IzkpwcL0QEPjPbIuAfapCmZ9Ud64iMAKs8nTZzaGoGe438Q_1BccQnFVjXum_BZGs3-MXXR9MQu9HNSSJPXNK8U51Yvz6eucnNeOTmeBNQPdlaLK=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1497",
   "raw_cells": {
     "col_0": {
-      "text": "1126"
+      "text": "1122"
     },
     "col_1": {
-      "text": "Rick Owens Pants"
+      "text": "Rick Owens Zipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az667hZTI6rN4RXLjMzR8XvqHyaNnj1hSTT8eH_tA4tI79y-vvXWC92LCSQOHF1HhqFCJVvZrv-X9fRyhB6TqhcKA4Oheu1X-W5OcWg9jilrrueS8137D-BMIYnAcrCYo-wbCh6OH_99iT3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDUPOnkF-JM3-a_pJMvsb77AKM-gM6IzkpwcL0QEPjPbIuAfapCmZ9Ud64iMAKs8nTZzaGoGe438Q_1BccQnFVjXum_BZGs3-MXXR9MQu9HNSSJPXNK8U51Yvz6eucnNeOTmeBNQPdlaLK=w143-h110"
     },
     "col_3": {
       "text": "PinkElephant",
       "links": [
         {
           "label": "PinkElephant",
-          "url": "https://oopbuy.com/product/2/4831285549?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/5596707916?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "53$"
+      "text": "49$"
     },
     "col_7": {
       "text": "QC Pics",
@@ -55,7 +57,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1497"
+  }
 }

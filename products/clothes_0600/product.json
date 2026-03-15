@@ -1,61 +1,78 @@
 {
-  "name": "Ralph Lauren Long-Sleeved T-Shirt",
+  "name": "Stussy PufferDown Jacket3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget1/budget2",
+  "budget_batch_links": [
     {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7221887965%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7221887965?inviteCode=29TOTHGNH"
+      "label": "budget1",
+      "url": "https://litbuy.com/product/weidian/869393998856?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/869393998856?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget2",
+      "url": "https://litbuy.com/product/weidian/865592313660?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/865592313660?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "17$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "28$ / 19$",
+  "pics_text": "budget1/budget2",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/154803584?uid=1"
+      "label": "budget1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1972487471125585922?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967414781041795074?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyCEvuZrWAuJtHWYo8DZm0h3jh1zxwTQMbDkB18frOCidi5SQUn7ktSHeL8nOjN4WYs5hBTcXDmbgLgXa9InapKpYeYZzujjicVrywFy3ndn-KhbBoP4Gtvs6nvJFmxw5Trae8ZjFDIdA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQ07iIWXC7zt6gkk1NpPzBgEDPeUMG5RAuqdhrdPuiD4fPCwwPxUCdQv_wktnGo7_HiaJHDrteiYXpNgfPduDDhD4tQt0d5BToh1eZqFKLQjTolVDhTR0_parGxk78GvMPuw3JxYsuQgwv=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0600",
   "raw_cells": {
     "col_0": {
-      "text": "71"
+      "text": "65"
     },
     "col_1": {
-      "text": "Ralph Lauren Long-Sleeved T-Shirt"
+      "text": "Stussy PufferDown Jacket3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyCEvuZrWAuJtHWYo8DZm0h3jh1zxwTQMbDkB18frOCidi5SQUn7ktSHeL8nOjN4WYs5hBTcXDmbgLgXa9InapKpYeYZzujjicVrywFy3ndn-KhbBoP4Gtvs6nvJFmxw5Trae8ZjFDIdA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQ07iIWXC7zt6gkk1NpPzBgEDPeUMG5RAuqdhrdPuiD4fPCwwPxUCdQv_wktnGo7_HiaJHDrteiYXpNgfPduDDhD4tQt0d5BToh1eZqFKLQjTolVDhTR0_parGxk78GvMPuw3JxYsuQgwv=w143-h110"
     },
-    "col_3": {
-      "text": "Repkingdom",
+    "col_4": {
+      "text": "budget1/budget2",
       "links": [
         {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/7221887965?inviteCode=29TOTHGNH"
+          "label": "budget1",
+          "url": "https://oopbuy.com/product/0/869393998856?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget2",
+          "url": "https://oopbuy.com/product/0/865592313660?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "17$"
+    "col_6": {
+      "text": "28$ / 19$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "budget1/budget2",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/154803584?uid=1"
+          "label": "budget1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1972487471125585922?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967414781041795074?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0600"
+  }
 }

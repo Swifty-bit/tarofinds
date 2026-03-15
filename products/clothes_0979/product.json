@@ -1,61 +1,61 @@
 {
-  "name": "Stone IslandZip-up shirt jacket with pocket",
+  "name": "Trapstar x NOFSJogger Pants Grey-Marl",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "elephant",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F909935476951%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/909935476951?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7326041967?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7326041967?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "12$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "28$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2014563407167049730?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://elephant-factory.x.yupoo.com/albums/182663987?uid=1&isSubCate=false&referrercate=3770851"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azhp0AAisIv-8D20ffX1IqBQJEUgCVk1_tJtWdcelq0YvSosqwa9DLRGuAwiNTB-MY70EPoUerVRTKl4hbZIS0DmfoMuO7iSdmwta_fhAJPZqbfgpdIXb4yRyjD9zMUqcC4syxcGNZGvbYa=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2ax5tLPHB8UGACDuEhLLJJ8RGFLP6Ok0IVEDF0ETKdHA39nCYK2WzZMxYnesua4wls9BuZNNpSVwQeaOU1UXfjL62JLrYKxBunRx3DneCUXtEst5VjsVgNJw9iOLQhYN760vcoTy2_ry1=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0979",
   "raw_cells": {
     "col_0": {
-      "text": "514"
+      "text": "508"
     },
     "col_1": {
-      "text": "Stone IslandZip-up shirt jacket with pocket"
+      "text": "Trapstar x NOFSJogger Pants Grey-Marl"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azhp0AAisIv-8D20ffX1IqBQJEUgCVk1_tJtWdcelq0YvSosqwa9DLRGuAwiNTB-MY70EPoUerVRTKl4hbZIS0DmfoMuO7iSdmwta_fhAJPZqbfgpdIXb4yRyjD9zMUqcC4syxcGNZGvbYa=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2ax5tLPHB8UGACDuEhLLJJ8RGFLP6Ok0IVEDF0ETKdHA39nCYK2WzZMxYnesua4wls9BuZNNpSVwQeaOU1UXfjL62JLrYKxBunRx3DneCUXtEst5VjsVgNJw9iOLQhYN760vcoTy2_ry1=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "elephant",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/909935476951?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://www.oopbuy.com/product/weidian/7326041967?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "12$"
+    "col_5": {
+      "text": "28$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2014563407167049730?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://elephant-factory.x.yupoo.com/albums/182663987?uid=1&isSubCate=false&referrercate=3770851"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0979"
+  }
 }

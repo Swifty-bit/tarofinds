@@ -1,61 +1,61 @@
 {
-  "name": "Bape Shark Head Camouflage Zipper Sweater18 Styles",
+  "name": "LacosteJacket2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "MZC",
+  "best_batch": "FrenchFish",
   "best_batch_links": [
     {
-      "label": "MZC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F968489236130%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/968489236130?inviteCode=29TOTHGNH"
+      "label": "FrenchFish",
+      "url": "https://litbuy.com/product/weidian/7281182912?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7281182912?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "63$",
+  "best_price": "30$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2020375671639986178?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1941301577290739713?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBWPZ5iwic494Aw4eCRQ3Ce1pG6rbUUF8JA0PoLDgYMm3UVFVyQoGh3fPamHaruQ7DHd763ubtPADUnuWDZEtL0XZJrL-tyHseWEcN5VLGkPZapFkNYtMfvWMfvDqmxJ4HW2JfLK9b6Lij=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzyEqNf1xqXXt0FuUwyU8RG2YxEp0gBVwafU64pV6okY8yqgK2kUasJdfy0gAKN1_iZycoMy1ZRt3N3ZC2_TDTy5gSnsXNHnOOkzN7H4oixgcJ-zkHEax2uc62to07O3Bu-CSkeT7RR_Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1314",
   "raw_cells": {
     "col_0": {
-      "text": "907"
+      "text": "901"
     },
     "col_1": {
-      "text": "Bape Shark Head Camouflage Zipper Sweater18 Styles"
+      "text": "LacosteJacket2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBWPZ5iwic494Aw4eCRQ3Ce1pG6rbUUF8JA0PoLDgYMm3UVFVyQoGh3fPamHaruQ7DHd763ubtPADUnuWDZEtL0XZJrL-tyHseWEcN5VLGkPZapFkNYtMfvWMfvDqmxJ4HW2JfLK9b6Lij=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzyEqNf1xqXXt0FuUwyU8RG2YxEp0gBVwafU64pV6okY8yqgK2kUasJdfy0gAKN1_iZycoMy1ZRt3N3ZC2_TDTy5gSnsXNHnOOkzN7H4oixgcJ-zkHEax2uc62to07O3Bu-CSkeT7RR_Q=w143-h110"
     },
     "col_3": {
-      "text": "MZC",
+      "text": "FrenchFish",
       "links": [
         {
-          "label": "MZC",
-          "url": "https://oopbuy.com/product/1/968489236130?inviteCode=29TOTHGNH"
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7281182912?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "63$"
+      "text": "30$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2020375671639986178?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1941301577290739713?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1314"
+  }
 }

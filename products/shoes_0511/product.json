@@ -1,47 +1,47 @@
 {
-  "name": "Philipp PleinPredator",
+  "name": "CDGxConverse",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "WWTOP",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F662512282968%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/662512282968?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7565912914?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565912914?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "55$",
+  "best_price": "23$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyndaHnQdOfVJ6CCwIKRtWx0ocfif_o8ozX-V_tuVqeddDI64gOhON43eoLJ5L1T4-HaxD1KvDdaHMTVz4LPeLEk5rEHhiwW2QijMQWYhx-aNP_ZCEekPdINuv0YM-y1UlNC0TzcoIr4wkF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxKCe0aKMLLOqYs_BmHRDx8Ybsub1chfAIEn3-W97HosDKhoV8nZszVKJGKRDiccwJEDvCegM7TWajUhp3gmt_074At-nqCQE9tPwq9BtZT9c3ZcUDmgjuRvuK9IRHmtyq0eLArGj-FFw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0511",
   "raw_cells": {
     "col_0": {
-      "text": "614"
+      "text": "610"
     },
     "col_1": {
-      "text": "Philipp PleinPredator"
+      "text": "CDGxConverse"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyndaHnQdOfVJ6CCwIKRtWx0ocfif_o8ozX-V_tuVqeddDI64gOhON43eoLJ5L1T4-HaxD1KvDdaHMTVz4LPeLEk5rEHhiwW2QijMQWYhx-aNP_ZCEekPdINuv0YM-y1UlNC0TzcoIr4wkF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxKCe0aKMLLOqYs_BmHRDx8Ybsub1chfAIEn3-W97HosDKhoV8nZszVKJGKRDiccwJEDvCegM7TWajUhp3gmt_074At-nqCQE9tPwq9BtZT9c3ZcUDmgjuRvuK9IRHmtyq0eLArGj-FFw=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "WWTOP",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/1/662512282968?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565912914?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "55$"
+      "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0511"
+  }
 }

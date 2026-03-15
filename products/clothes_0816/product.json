@@ -1,61 +1,69 @@
 {
-  "name": "Moncler Beanie4 Colors",
+  "name": "Tricolor StripeWool Beanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "RepsKing",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234349500%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234349500?inviteCode=29TOTHGNH"
+      "label": "RepsKing",
+      "url": "https://litbuy.com/product/weidian/7566316828?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7566316828?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2006934553829134337?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1966688787993550849?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/202042491?uid=1&isSubCate=false&referrercate=4544590"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzblEAftlaks6C_HJ5uJe9dYuUa8MEJtLI5YHb5hey33iU1tuDn6PUiWV_NNmBYzLtRfQ0F54VXonL2f45yGMP1xs5wMrVOXIbT6r1GXEodEg5DREmuWB2d3cKntvnEiF3Yinj2DZ55pA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzL83FddtrjuuBK3XwVeggiXzjyBki1OKf_MtHVXBs_EhtwpZUZopcwgoJsOyRITqeK-aL6Ou9HHuAssi9uq2KuXfOMpB7MVulsmQvIM30PR429RiOVrcRlXiL1q2FY28dSEbzae43kYw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0816",
   "raw_cells": {
     "col_0": {
-      "text": "311"
+      "text": "307"
     },
     "col_1": {
-      "text": "Moncler Beanie4 Colors"
+      "text": "Tricolor StripeWool Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzblEAftlaks6C_HJ5uJe9dYuUa8MEJtLI5YHb5hey33iU1tuDn6PUiWV_NNmBYzLtRfQ0F54VXonL2f45yGMP1xs5wMrVOXIbT6r1GXEodEg5DREmuWB2d3cKntvnEiF3Yinj2DZ55pA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzL83FddtrjuuBK3XwVeggiXzjyBki1OKf_MtHVXBs_EhtwpZUZopcwgoJsOyRITqeK-aL6Ou9HHuAssi9uq2KuXfOMpB7MVulsmQvIM30PR429RiOVrcRlXiL1q2FY28dSEbzae43kYw=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "RepsKing",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7234349500?inviteCode=29TOTHGNH"
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/weidian/7566316828?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$"
+    "col_5": {
+      "text": "13$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "QC Pics/pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2006934553829134337?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1966688787993550849?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/202042491?uid=1&isSubCate=false&referrercate=4544590"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0816"
+  }
 }

@@ -1,47 +1,65 @@
 {
-  "name": "DSQ2 Jeans",
+  "name": "Amiri MX-1 Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "Hengyuclub",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F733970788689%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/733970788689?inviteCode=29TOTHGNH"
+      "label": "Hengyuclub",
+      "url": "https://litbuy.com/product/weidian/7283287322?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7283287322?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "37$",
+  "best_price": "40$",
   "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://hengyuclub.x.yupoo.com/search/album?uid=1&sort=&q=4915763886"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azg-py5IBNy9G-bKI_9Cw6hSyfr4v1Mxrt8QFJlTLyIR7WB5OSfSIIpYaPbLy-F3VdLRRqZTn0R7JVUlrjxD20Eby9OXASMEiXps7LRDHmcZ7wKJirZjpRZDND7UteYbmXCo8a94LvTiA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZBar2kX45zokX-l30R6aTWZIF6gwWNA4gIUFsj933QxiXEtmtRjZrhcRJssZdwM3hei3Vk4MGDkFuPsiF1Dzh2ZGNvzaMnnxm7fZlO_nxMB3_jidfHc-mgdO7QIxS_Rkx-iEVRk4BoeVf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1220",
   "raw_cells": {
     "col_0": {
-      "text": "795"
+      "text": "789"
     },
     "col_1": {
-      "text": "DSQ2 Jeans"
+      "text": "Amiri MX-1 Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azg-py5IBNy9G-bKI_9Cw6hSyfr4v1Mxrt8QFJlTLyIR7WB5OSfSIIpYaPbLy-F3VdLRRqZTn0R7JVUlrjxD20Eby9OXASMEiXps7LRDHmcZ7wKJirZjpRZDND7UteYbmXCo8a94LvTiA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZBar2kX45zokX-l30R6aTWZIF6gwWNA4gIUFsj933QxiXEtmtRjZrhcRJssZdwM3hei3Vk4MGDkFuPsiF1Dzh2ZGNvzaMnnxm7fZlO_nxMB3_jidfHc-mgdO7QIxS_Rkx-iEVRk4BoeVf=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "Hengyuclub",
       "links": [
         {
-          "label": "here",
-          "url": "https://www.oopbuy.com/product/1/733970788689?inviteCode=29TOTHGNH"
+          "label": "Hengyuclub",
+          "url": "https://oopbuy.com/product/weidian/7283287322?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "37$"
+      "text": "40$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://hengyuclub.x.yupoo.com/search/album?uid=1&sort=&q=4915763886"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTiEie8RBiBcez95oEJAV3fntjA3gDnImOZyjALK8eUA6YDhRGDYL5Z9a82tBowaeMm7hDAruqs6f8ok9P6LZqn8J5d7Tp3Lrqs7aC2cb6rwZ1gpRUli9UfzmHtQFTPtKWnX5kJgy_1VR_=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1220"
+  }
 }

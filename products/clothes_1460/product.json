@@ -1,61 +1,61 @@
 {
-  "name": "Canada GooseHuron Hoodie",
+  "name": "TNF X KAWSBeanie3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TopGoosey",
+  "best_batch": "CND ISLAND",
   "best_batch_links": [
     {
-      "label": "TopGoosey",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1002978751058%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1002978751058?inviteCode=29TOTHGNH"
+      "label": "CND ISLAND",
+      "url": "https://litbuy.com/product/weidian/7447185361?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7447185361?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "41$",
+  "best_price": "12$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://topgoosey-01.x.yupoo.com/albums/192748469?uid=1"
+      "url": "https://baymaxsocks.x.yupoo.com/albums/172807175?uid=1&isSubCate=true&referrercate=255779"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQyrxZFK3NavMN85WncJuOmSK1YL_1lYZ80gk5f3q0bo8unwVHXrasQmxjimp1ktkZ63CjoFL6_qyLfxJr9XD9eTqif2OLUsD-XLBl_tmphURXdnh1x2IzYApilo4_1Za8EAnyZ_N4RJLj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxoMh2HeyxCAmPqLrJcvMkqKI3hzRaZQOveHphW-WLMkLr-CuKpilyVBw8lEz0IPUnmzTc-KyW2XqmemEXyr-G7cMSEma0iiCY3QnNAYVJlS_gZbsTJefacWZ0LhfY48ntIT9h5rd3MoQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1460",
   "raw_cells": {
     "col_0": {
-      "text": "1081"
+      "text": "1075"
     },
     "col_1": {
-      "text": "Canada GooseHuron Hoodie"
+      "text": "TNF X KAWSBeanie3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQyrxZFK3NavMN85WncJuOmSK1YL_1lYZ80gk5f3q0bo8unwVHXrasQmxjimp1ktkZ63CjoFL6_qyLfxJr9XD9eTqif2OLUsD-XLBl_tmphURXdnh1x2IzYApilo4_1Za8EAnyZ_N4RJLj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxoMh2HeyxCAmPqLrJcvMkqKI3hzRaZQOveHphW-WLMkLr-CuKpilyVBw8lEz0IPUnmzTc-KyW2XqmemEXyr-G7cMSEma0iiCY3QnNAYVJlS_gZbsTJefacWZ0LhfY48ntIT9h5rd3MoQ=w143-h110"
     },
     "col_3": {
-      "text": "TopGoosey",
+      "text": "CND ISLAND",
       "links": [
         {
-          "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1002978751058?inviteCode=29TOTHGNH"
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7447185361?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "41$"
+      "text": "12$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://topgoosey-01.x.yupoo.com/albums/192748469?uid=1"
+          "url": "https://baymaxsocks.x.yupoo.com/albums/172807175?uid=1&isSubCate=true&referrercate=255779"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1460"
+  }
 }

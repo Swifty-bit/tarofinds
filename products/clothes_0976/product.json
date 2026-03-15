@@ -1,61 +1,61 @@
 {
-  "name": "Stone IslandSleeve BadgeT-Shirt5 Colours",
+  "name": "Trapstar x NOFSHoodie Black",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "ZS-Factory",
-  "budget_batch_links": [
+  "best_batch": "elephant",
+  "best_batch_links": [
     {
-      "label": "ZS-Factory",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7449152952%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7449152952?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7326762018?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7326762018?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "12$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://zs888.x.yupoo.com/albums/164805180?uid=1&isSubCate=false&referrercate=4585538"
+      "url": "https://elephant-factory.x.yupoo.com/albums/182662062?uid=1&isSubCate=false&referrercate=3770851"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFzZVTsu0bI0SF081J418suPCt7Q4pcj0atkgPh6GT35rkDv7CUSU9o6AzxxNhDCMv98TUEBiCd8IwtiQD5sRVALhUkKeO8AtDhiEH5Zz7LCyts2CiOdPG90FQEdZnJN0uPPKQqGAeL1v6=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awr_uZu1DOvMjcvPURro7AQRKyEsY6idak6s3nkcuxJ3k7nVNCFsNLRCwqMDUqMCWMPupWVUjb3e85u9jB29pSfa8Qg_3PmIGS7DBuFwajShuKwS49ZLZLtYo2yxDTtm6LM9phlYl1hEhzz=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0976",
   "raw_cells": {
     "col_0": {
-      "text": "511"
+      "text": "505"
     },
     "col_1": {
-      "text": "Stone IslandSleeve BadgeT-Shirt5 Colours"
+      "text": "Trapstar x NOFSHoodie Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFzZVTsu0bI0SF081J418suPCt7Q4pcj0atkgPh6GT35rkDv7CUSU9o6AzxxNhDCMv98TUEBiCd8IwtiQD5sRVALhUkKeO8AtDhiEH5Zz7LCyts2CiOdPG90FQEdZnJN0uPPKQqGAeL1v6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awr_uZu1DOvMjcvPURro7AQRKyEsY6idak6s3nkcuxJ3k7nVNCFsNLRCwqMDUqMCWMPupWVUjb3e85u9jB29pSfa8Qg_3PmIGS7DBuFwajShuKwS49ZLZLtYo2yxDTtm6LM9phlYl1hEhzz=w143-h110"
     },
-    "col_4": {
-      "text": "ZS-Factory",
+    "col_3": {
+      "text": "elephant",
       "links": [
         {
-          "label": "ZS-Factory",
-          "url": "https://oopbuy.com/product/2/7449152952?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://www.oopbuy.com/product/weidian/7326762018?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "12$"
+    "col_5": {
+      "text": "30$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://zs888.x.yupoo.com/albums/164805180?uid=1&isSubCate=false&referrercate=4585538"
+          "url": "https://elephant-factory.x.yupoo.com/albums/182662062?uid=1&isSubCate=false&referrercate=3770851"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0976"
+  }
 }

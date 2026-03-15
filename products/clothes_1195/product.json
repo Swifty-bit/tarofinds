@@ -1,61 +1,64 @@
 {
-  "name": "SupremeHeat Reactive Balaclava",
+  "name": "Supreme x DucatiTracksuit",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
       "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F981664995959%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/981664995959?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7589589759?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7589589759?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "12$",
+  "best_price": "79$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/184904237?uid=1"
+      "url": "https://noghost.x.yupoo.com/albums/171784064?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7tobIb3oBJ_scDbaYaOZzUybzxOOAHk5PZfSQDd9w779OpxYCZ2EIYY4ix-G7p9nH0WLtWvuUMBz1kfvrLfjP8R9f3WuqG2xKuaXbyhYPTLnAax6dPX54jCXNS3o6dBePVvWpOVhkEOEH=w143-h110",
+  "notes": "set 79$ - jacket 41$ - pants 38$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzMXcWUfaVmcXISSi7GsSNPP7RQ5aUhySywXta0oLOEd5N3NnzeRLsNSxwKnmBahp6jNGThQWDsBxSDn6EE9mK1UCL2HvRUY74cTbKvljgLmdl-uy8w1TE7Ym-2wojuqZQyMCIWHudtJ6L6=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1195",
   "raw_cells": {
     "col_0": {
-      "text": "764"
+      "text": "760"
     },
     "col_1": {
-      "text": "SupremeHeat Reactive Balaclava"
+      "text": "Supreme x DucatiTracksuit"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7tobIb3oBJ_scDbaYaOZzUybzxOOAHk5PZfSQDd9w779OpxYCZ2EIYY4ix-G7p9nH0WLtWvuUMBz1kfvrLfjP8R9f3WuqG2xKuaXbyhYPTLnAax6dPX54jCXNS3o6dBePVvWpOVhkEOEH=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzMXcWUfaVmcXISSi7GsSNPP7RQ5aUhySywXta0oLOEd5N3NnzeRLsNSxwKnmBahp6jNGThQWDsBxSDn6EE9mK1UCL2HvRUY74cTbKvljgLmdl-uy8w1TE7Ym-2wojuqZQyMCIWHudtJ6L6=w143-h110"
     },
     "col_3": {
       "text": "DRAGONREP",
       "links": [
         {
           "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/1/981664995959?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7589589759?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "12$"
+      "text": "79$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/184904237?uid=1"
+          "url": "https://noghost.x.yupoo.com/albums/171784064?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 79$ - jacket 41$ - pants 38$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1195"
+  }
 }

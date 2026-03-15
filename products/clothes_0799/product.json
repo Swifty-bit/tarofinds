@@ -1,69 +1,61 @@
 {
-  "name": "Logo Patch Wool Cardigan",
+  "name": "Ichiro Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "RepsKing",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564512357%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564512357?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/768691640137?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/768691640137?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "69$",
-  "budget_price": "",
-  "pics_text": "QC Pics/pics",
+  "best_price": "",
+  "budget_price": "20$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/794869092651"
-    },
-    {
-      "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/161893739?uid=1"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1976112522592870402?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aye5Yf_j7fwme-SzQ3Pr4pbQZbfIyAl2DZZxJUizF9MywrVGMtABLxHcP2kUpaNnhTGozugimeZVs1XUZxNjEEmlzGP1cXtmf44ZSA2CacUMoXHcEBZtqM0aHOkq0in4o2qPc8hf26Wf7gl=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axm2icfApa2tKHcEmiegg_CaT6LosBWpmDUDCYOfmIA8_WMIa-xj0ba1e7wMewvFNWZTP9Us25zKZADeXSGobdA9SakE-zCMcIkAKoiFXLXaxEMOI9hyfbhZt4bwX3tzhjlzTOarwLMghbF=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0799",
   "raw_cells": {
     "col_0": {
-      "text": "294"
+      "text": "290"
     },
     "col_1": {
-      "text": "Logo Patch Wool Cardigan"
+      "text": "Ichiro Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aye5Yf_j7fwme-SzQ3Pr4pbQZbfIyAl2DZZxJUizF9MywrVGMtABLxHcP2kUpaNnhTGozugimeZVs1XUZxNjEEmlzGP1cXtmf44ZSA2CacUMoXHcEBZtqM0aHOkq0in4o2qPc8hf26Wf7gl=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axm2icfApa2tKHcEmiegg_CaT6LosBWpmDUDCYOfmIA8_WMIa-xj0ba1e7wMewvFNWZTP9Us25zKZADeXSGobdA9SakE-zCMcIkAKoiFXLXaxEMOI9hyfbhZt4bwX3tzhjlzTOarwLMghbF=w143-h110"
     },
-    "col_3": {
-      "text": "RepsKing",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7564512357?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/768691640137?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "69$"
+    "col_6": {
+      "text": "20$"
     },
     "col_7": {
-      "text": "QC Pics/pics",
+      "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/794869092651"
-        },
-        {
-          "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/161893739?uid=1"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1976112522592870402?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0799"
+  }
 }

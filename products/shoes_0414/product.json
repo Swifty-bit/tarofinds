@@ -1,83 +1,65 @@
 {
-  "name": "Dior B30",
+  "name": "Dior B23 low",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Ice Cream",
+  "best_batch": "Kevin",
   "best_batch_links": [
     {
-      "label": "Ice Cream",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F659731978300%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/659731978300?inviteCode=29TOTHGNH"
+      "label": "Kevin",
+      "url": "https://litbuy.com/product/weidian/631695846847?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "FS/GD/budget",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "FS",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7530634858%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7530634858?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "GD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7428565352%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7273078597%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7273078597?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/4370246933?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "93$",
-  "budget_price": "57$ / 52$ / 40$",
-  "pics_text": "57$ / 52$ / 40$",
+  "best_price": "81$",
+  "budget_price": "62$",
+  "pics_text": "62$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEAQ-dv9g9M2Yw6ZZbuDcDcJg2lAYtMEGM_fES4Z2b3S_JX1ulnyWJh-FGNNVxvKnprOxN36Ijnr6Cy3t4fpj3pERtu6d29Bho46VOMUmqurwYZOstS1m5EAME2OC0y0pGMxGDB8WrOg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axb34oBk26jLmUDPzFVehH-sOFkH84A-YShxuAe-WiJv81L0LzShQMdM-SzNYK-50vUwPqvYWZ6R7UA-ZwA6o0E_bhr6joB9o8A2SajPp420NAvuJF8N_e1pDt5M2ZrelA9S_r8q7DNRA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0414",
   "raw_cells": {
     "col_0": {
       "text": "471"
     },
     "col_1": {
-      "text": "Dior B30"
+      "text": "Dior B23 low"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEAQ-dv9g9M2Yw6ZZbuDcDcJg2lAYtMEGM_fES4Z2b3S_JX1ulnyWJh-FGNNVxvKnprOxN36Ijnr6Cy3t4fpj3pERtu6d29Bho46VOMUmqurwYZOstS1m5EAME2OC0y0pGMxGDB8WrOg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axb34oBk26jLmUDPzFVehH-sOFkH84A-YShxuAe-WiJv81L0LzShQMdM-SzNYK-50vUwPqvYWZ6R7UA-ZwA6o0E_bhr6joB9o8A2SajPp420NAvuJF8N_e1pDt5M2ZrelA9S_r8q7DNRA=w143-h110"
     },
     "col_3": {
-      "text": "Ice Cream",
+      "text": "Kevin",
       "links": [
         {
-          "label": "Ice Cream",
-          "url": "https://oopbuy.com/product/1/659731978300?inviteCode=29TOTHGNH"
+          "label": "Kevin",
+          "url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "FS/GD/budget",
+      "text": "budget",
       "links": [
         {
-          "label": "FS",
-          "url": "https://oopbuy.com/product/weidian/7530634858?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
-        },
-        {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7273078597?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "93$"
+      "text": "81$"
     },
     "col_6": {
-      "text": "57$ / 52$ / 40$"
+      "text": "62$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0414"
+  }
 }

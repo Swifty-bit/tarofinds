@@ -1,61 +1,87 @@
 {
-  "name": "Ralph LaurenWool KnitBeanie",
+  "name": "Ralph Lauren Down Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
+  "best_batch": "NEWDP",
   "best_batch_links": [
     {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7338708190%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7338708190?inviteCode=29TOTHGNH"
+      "label": "NEWDP",
+      "url": "https://litbuy.com/product/weidian/7595156431?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7595156431?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "14$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/721727168241?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/721727168241?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "76$",
+  "budget_price": "24$",
+  "pics_text": "NEWDP/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/183303304?uid=1&isSubCate=false&referrercate=4373091"
+      "label": "NEWDP",
+      "url": "https://newdp.x.yupoo.com/albums/180112555?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973575916438773762?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbqvwgRbaqAQyDGEaMpXMJj1XxylCQJWcNdP_WbpiQueJqDPIjmOjfWrnL2Y8J9NBpp3OiH2wYL0Ll9pOIf3CYikh5Fq32vhsq3oPkc6g5vyRUQxLfFuphS_pl8lF8aB8UWFh8_6vyxWtm=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXyvaaSikP1xLJmnQVEvBjeo1atfJXZ-i3KfY_gocvoVJTI72ex74xlru3RX8AmZSS4mtofGSYEtYNDFNn-6RHkHnN-lOTnKA3T3tlepcqYOycyMU3SnpCbLhxXpvYfoFBMTdBFtUq7g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0638",
   "raw_cells": {
     "col_0": {
-      "text": "109"
+      "text": "105"
     },
     "col_1": {
-      "text": "Ralph LaurenWool KnitBeanie"
+      "text": "Ralph Lauren Down Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbqvwgRbaqAQyDGEaMpXMJj1XxylCQJWcNdP_WbpiQueJqDPIjmOjfWrnL2Y8J9NBpp3OiH2wYL0Ll9pOIf3CYikh5Fq32vhsq3oPkc6g5vyRUQxLfFuphS_pl8lF8aB8UWFh8_6vyxWtm=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXyvaaSikP1xLJmnQVEvBjeo1atfJXZ-i3KfY_gocvoVJTI72ex74xlru3RX8AmZSS4mtofGSYEtYNDFNn-6RHkHnN-lOTnKA3T3tlepcqYOycyMU3SnpCbLhxXpvYfoFBMTdBFtUq7g=w143-h110"
     },
     "col_3": {
-      "text": "Repkingdom",
+      "text": "NEWDP",
       "links": [
         {
-          "label": "Repkingdom",
-          "url": "https://www.oopbuy.com/product/weidian/7338708190?inviteCode=29TOTHGNH"
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7595156431?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/721727168241?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "14$"
+      "text": "76$"
+    },
+    "col_6": {
+      "text": "24$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "NEWDP/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/183303304?uid=1&isSubCate=false&referrercate=4373091"
+          "label": "NEWDP",
+          "url": "https://newdp.x.yupoo.com/albums/180112555?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973575916438773762?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0638"
+  }
 }

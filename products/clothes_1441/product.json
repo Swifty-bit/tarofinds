@@ -1,74 +1,61 @@
 {
-  "name": "Big BoyJeans Shorts(Jorts)",
+  "name": "CarharttSocks28 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here/here",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F759570060248%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/759570060248?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F760004754899%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/760004754899?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/705247780302?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "17$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "1$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/759570060248"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1915589868544143362?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxpTpBJIzH6iDYMXHaDIvlR2DHjI6mnQ8kywJchQBYjA-nUIh9ZBuOinHQCKkjIRKNsPfke1dSL0ZmmoK-S5iNJGyBKWdAhwULoqi1mSqhIVCAUbMxMDLXjSxB-eFZN-_TSOei8BXa9fdaL=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayt_O3M78P0t5d_5h92YjlnfKIcBoHH6Kv2VcdkpaZC0unWsdghKG95sirPJ3vVGZbmJBHgLzwzjWiMbVIZVxQF3yjtkYOLbEZj6B3RH24nQxmo786xHXwDTmpx20p2PsEBAij0stml5SfJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1441",
   "raw_cells": {
     "col_0": {
-      "text": "1056"
+      "text": "1048"
     },
     "col_1": {
-      "text": "Big BoyJeans Shorts(Jorts)"
+      "text": "CarharttSocks28 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxpTpBJIzH6iDYMXHaDIvlR2DHjI6mnQ8kywJchQBYjA-nUIh9ZBuOinHQCKkjIRKNsPfke1dSL0ZmmoK-S5iNJGyBKWdAhwULoqi1mSqhIVCAUbMxMDLXjSxB-eFZN-_TSOei8BXa9fdaL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayt_O3M78P0t5d_5h92YjlnfKIcBoHH6Kv2VcdkpaZC0unWsdghKG95sirPJ3vVGZbmJBHgLzwzjWiMbVIZVxQF3yjtkYOLbEZj6B3RH24nQxmo786xHXwDTmpx20p2PsEBAij0stml5SfJ=w143-h110"
     },
-    "col_3": {
-      "text": "here/here",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/1/759570060248?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "here",
-          "url": "https://oopbuy.com/product/1/760004754899?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "17$"
+    "col_6": {
+      "text": "1$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/759570060248"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1915589868544143362?action=discord&cid=1840597081113280514"
         }
       ]
-    },
-    "col_8": {
-      "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnNYQn1zVJRCS-P5fMrI2cx3BUz8PZVtWaKWkfbnigB2D8tte52cS8AY6Qq0EmQ5cTIJgFFLRUNxjtTOZ9JfSx0mUdELzm4D42JSI8UimPrh4b1DJt8-DhBbQxW6B4_sFvhQ9DpRQzf8Mf=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1441"
+  }
 }

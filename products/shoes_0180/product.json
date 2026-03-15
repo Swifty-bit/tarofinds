@@ -1,47 +1,47 @@
 {
-  "name": "True Blue",
+  "name": "Taxi",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "RFA",
+  "best_batch": "PK",
   "best_batch_links": [
     {
-      "label": "RFA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7346887559%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7346887559?inviteCode=29TOTHGNH"
+      "label": "PK",
+      "url": "https://litbuy.com/product/taobao/6224274272?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6224274272?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "55$",
+  "best_price": "78$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyrvS8Xwgg1skJXxTTIn0ZQLm1HVC4l2DJfiBNOVsb-7dRvYcJMinPc3Gfa4TAEcDyGE7nvFT3nXYHZNYNybJWsTgm3h0vgZ5cmp5dQjlt8D4ZOj5lpawkDgG2-juXOdBmEHtS_9DnilOEz=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9byYPN4YrTDlezpbBjDXpRvUgkx9uIYPY8kS5M9q3fk5hr3xh4IXrNMYdbIYqvZnlq2pD2V1i3k08fSIR-LsAarnTGBbNrl_LdHgIHyRg6oRvZqDVOTVHuHhkEKrP3M5wKIC81QPf72CJ=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0180",
   "raw_cells": {
     "col_0": {
       "text": "191"
     },
     "col_1": {
-      "text": "True Blue"
+      "text": "Taxi"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrvS8Xwgg1skJXxTTIn0ZQLm1HVC4l2DJfiBNOVsb-7dRvYcJMinPc3Gfa4TAEcDyGE7nvFT3nXYHZNYNybJWsTgm3h0vgZ5cmp5dQjlt8D4ZOj5lpawkDgG2-juXOdBmEHtS_9DnilOEz=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9byYPN4YrTDlezpbBjDXpRvUgkx9uIYPY8kS5M9q3fk5hr3xh4IXrNMYdbIYqvZnlq2pD2V1i3k08fSIR-LsAarnTGBbNrl_LdHgIHyRg6oRvZqDVOTVHuHhkEKrP3M5wKIC81QPf72CJ=w143-h100"
     },
     "col_3": {
-      "text": "RFA",
+      "text": "PK",
       "links": [
         {
-          "label": "RFA",
-          "url": "https://oopbuy.com/product/2/7346887559?inviteCode=29TOTHGNH"
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/6224274272?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "55$"
+      "text": "78$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0180"
+  }
 }

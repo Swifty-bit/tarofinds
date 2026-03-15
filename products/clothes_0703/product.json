@@ -1,61 +1,78 @@
 {
-  "name": "Gallery DeptxLANVINT-Shirt",
+  "name": "Gallery Dept T-Shirt5 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "tophotfashion/Singor",
   "best_batch_links": [
     {
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/821529654425?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/821529654425?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F707417029205%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/707417029205?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/669877164379?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/669877164379?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "20$",
+  "best_price": "24$ / 15$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "tophot/singor",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://steven-1989.x.yupoo.com/albums/130949153?uid=1&isSubCate=false&referrercate=3256158"
+      "label": "tophot",
+      "url": "https://tophotfashion.x.yupoo.com/search/album?uid=1&sort=&q=821529654425"
+    },
+    {
+      "label": "singor",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1942750875459121153?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzB2Uw8VSHWtNVuTWlzCNnpRXcN3AT-pffkAAAQq0uJaNdNxaA8Ly7m3CCUe-ouetOdPuMelblpibfPSfuJJvNajCZelf3I1iw2YAJ626K9FufB9L-K3EhsUoTpY5lqJRuFnZY7d4xx711F=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayu6SyXoOFEOZVongpejTikBoOHq8nJc7wg8lIaPoqyA3vm6133ciM5RgDpdbjZTtYvG8XaGbZxCWLnUR-J11KQ3XdQCWoHSnbW9Dext29on_OXQKnsf-1lBZ-tuNa5nuqxje-c4p7HIaSy=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0703",
   "raw_cells": {
     "col_0": {
-      "text": "186"
+      "text": "182"
     },
     "col_1": {
-      "text": "Gallery DeptxLANVINT-Shirt"
+      "text": "Gallery Dept T-Shirt5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzB2Uw8VSHWtNVuTWlzCNnpRXcN3AT-pffkAAAQq0uJaNdNxaA8Ly7m3CCUe-ouetOdPuMelblpibfPSfuJJvNajCZelf3I1iw2YAJ626K9FufB9L-K3EhsUoTpY5lqJRuFnZY7d4xx711F=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayu6SyXoOFEOZVongpejTikBoOHq8nJc7wg8lIaPoqyA3vm6133ciM5RgDpdbjZTtYvG8XaGbZxCWLnUR-J11KQ3XdQCWoHSnbW9Dext29on_OXQKnsf-1lBZ-tuNa5nuqxje-c4p7HIaSy=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "tophotfashion/Singor",
       "links": [
         {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/1/821529654425?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/707417029205?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/669877164379?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "20$"
+      "text": "24$ / 15$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "tophot/singor",
       "links": [
         {
-          "label": "pics",
-          "url": "https://steven-1989.x.yupoo.com/albums/130949153?uid=1&isSubCate=false&referrercate=3256158"
+          "label": "tophot",
+          "url": "https://tophotfashion.x.yupoo.com/search/album?uid=1&sort=&q=821529654425"
+        },
+        {
+          "label": "singor",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1942750875459121153?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0703"
+  }
 }

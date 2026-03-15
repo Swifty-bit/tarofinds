@@ -1,5 +1,5 @@
 {
-  "name": "DiorSaddle Bag Mini",
+  "name": "DiorZipped Key Bag",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F743655801823%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/743655801823?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/865706015154?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/865706015154?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "22$",
+  "budget_price": "2$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2006563884859740161?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979735328849223682?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzE0UK7UD81ifri9aoIRHnbY0xMGrbIAFpFpEuC5tCVgSxbJ1fz1jrQ7BEWW3XFQ721nj_4BOppGoaAnFZ64B4vN6g5fCy-4M43hLyNoaFKWMUDKSdkEei7w2wwtY_XDHGgMs_T5BsysTtC=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNNtRJZXoAN_X4RTwVxXqTjjTeJsB4p7SverRfSsorvIdxYZevAwGJxHZ8wNqDhcdkag6Eri5nGOvUyy5zg284npo8tjwtk0Ytqi03oj7aB2_Q8g9FblsWATl07ufAX0UNo_tP28O7_-2t=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1530",
   "raw_cells": {
     "col_0": {
-      "text": "36"
+      "text": "32"
     },
     "col_1": {
-      "text": "DiorSaddle Bag Mini"
+      "text": "DiorZipped Key Bag"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzE0UK7UD81ifri9aoIRHnbY0xMGrbIAFpFpEuC5tCVgSxbJ1fz1jrQ7BEWW3XFQ721nj_4BOppGoaAnFZ64B4vN6g5fCy-4M43hLyNoaFKWMUDKSdkEei7w2wwtY_XDHGgMs_T5BsysTtC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNNtRJZXoAN_X4RTwVxXqTjjTeJsB4p7SverRfSsorvIdxYZevAwGJxHZ8wNqDhcdkag6Eri5nGOvUyy5zg284npo8tjwtk0Ytqi03oj7aB2_Q8g9FblsWATl07ufAX0UNo_tP28O7_-2t=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/743655801823?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/865706015154?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "22$"
+      "text": "2$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2006563884859740161?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979735328849223682?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1530"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "Crocs",
+  "name": "Mini Bailey Bow",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F925525143820%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/925525143820?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/4434237354?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4434237354?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "3$",
+  "best_price": "36$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzuZFHt93Z7k15flh3SB4U6u9m59xrjzEOQ8GB9TeZB-e-cxhC1OosAPJFXzI6A7fivJxlBgpRnxkbGeHxZ4BFqIqcz702eZv2DAxggvXV49VxhgcoB5Cu3XdFbV9nVA2R6R-w_C5Sp1-FW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZI3sh2NOK0KSFWFj0y4qoraRjCqCQX6lsz33PZPJvgZYNHJEFnf30XglMA5SzzV2ibA3gByquhgvDrm1pqgeLxPFI4x_KEdww3P30Ny2uRXcb7bKyRlaaIYUC0lJH9W_fChIe7soqIi-o=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0525",
   "raw_cells": {
     "col_0": {
-      "text": "638"
+      "text": "634"
     },
     "col_1": {
-      "text": "Crocs"
+      "text": "Mini Bailey Bow"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzuZFHt93Z7k15flh3SB4U6u9m59xrjzEOQ8GB9TeZB-e-cxhC1OosAPJFXzI6A7fivJxlBgpRnxkbGeHxZ4BFqIqcz702eZv2DAxggvXV49VxhgcoB5Cu3XdFbV9nVA2R6R-w_C5Sp1-FW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZI3sh2NOK0KSFWFj0y4qoraRjCqCQX6lsz33PZPJvgZYNHJEFnf30XglMA5SzzV2ibA3gByquhgvDrm1pqgeLxPFI4x_KEdww3P30Ny2uRXcb7bKyRlaaIYUC0lJH9W_fChIe7soqIi-o=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/0/925525143820?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/4434237354?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "3$"
+      "text": "36$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0525"
+  }
 }

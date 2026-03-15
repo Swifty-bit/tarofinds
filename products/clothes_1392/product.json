@@ -1,90 +1,62 @@
 {
-  "name": "BurberryZipped Hoodie(hood and inside pattern)",
+  "name": "Represent HoodieMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
-  "best_batch_links": [
-    {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7525090001%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7525090001?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "bysh2017",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "LKN",
   "budget_batch_links": [
     {
-      "label": "bysh2017",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F997694063160%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/997694063160?inviteCode=29TOTHGNH"
+      "label": "LKN",
+      "url": "https://litbuy.com/product/weidian/682219696736?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/682219696736?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "50$",
-  "budget_price": "26$",
-  "pics_text": "thunder/bysh2017",
+  "best_price": "",
+  "budget_price": "24$",
+  "pics_text": "QC pics",
   "pics_links": [
     {
-      "label": "thunder",
-      "url": "https://thethunder.x.yupoo.com/albums/120632874?uid=1"
-    },
-    {
-      "label": "bysh2017",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2018996965784768514?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC pics",
+      "url": "https://imgur.com/a/PWf9RTm"
     }
   ],
-  "notes": "Hood and inside pattern",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azf2dY-BMK7IbcAlbdCBpka7wZsudOb1HI7rpx5DrxBZEaDWXZ09Sv96y2gZyYmsmW5IQsRnWu2mzaAufmC0gyi6Uto6V8uUMK-VbLCEW3ztLv9CZIRCFOR31YjQhFsnsa2NT_yxIoIjMax=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxdQqsSrAMjYQpKN-2Wmq5qOK2erq-XVGzOCwK6R38GU86k90qcP6etrSJNQVwXyJ5pzyswdKacBigAUd1Qq1Q9V5Rw-BpkmycUkQafFEWLR653r6JV92RRgx73Il4kuEEeyRSl7l_3h_pm=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1392",
   "raw_cells": {
     "col_0": {
-      "text": "999"
+      "text": "991"
     },
     "col_1": {
-      "text": "BurberryZipped Hoodie(hood and inside pattern)"
+      "text": "Represent HoodieMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azf2dY-BMK7IbcAlbdCBpka7wZsudOb1HI7rpx5DrxBZEaDWXZ09Sv96y2gZyYmsmW5IQsRnWu2mzaAufmC0gyi6Uto6V8uUMK-VbLCEW3ztLv9CZIRCFOR31YjQhFsnsa2NT_yxIoIjMax=w143-h110"
-    },
-    "col_3": {
-      "text": "Thunder",
-      "links": [
-        {
-          "label": "Thunder",
-          "url": "https://oopbuy.com/product/weidian/7525090001?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxdQqsSrAMjYQpKN-2Wmq5qOK2erq-XVGzOCwK6R38GU86k90qcP6etrSJNQVwXyJ5pzyswdKacBigAUd1Qq1Q9V5Rw-BpkmycUkQafFEWLR653r6JV92RRgx73Il4kuEEeyRSl7l_3h_pm=w143-h110"
     },
     "col_4": {
-      "text": "bysh2017",
+      "text": "LKN",
       "links": [
         {
-          "label": "bysh2017",
-          "url": "https://oopbuy.com/product/1/997694063160?inviteCode=29TOTHGNH"
+          "label": "LKN",
+          "url": "https://oopbuy.com/product/1/682219696736?inviteCode=29TOTHGNH"
         }
       ]
-    },
-    "col_5": {
-      "text": "50$"
     },
     "col_6": {
-      "text": "26$"
+      "text": "24$"
     },
     "col_7": {
-      "text": "thunder/bysh2017",
+      "text": "QC pics",
       "links": [
         {
-          "label": "thunder",
-          "url": "https://thethunder.x.yupoo.com/albums/120632874?uid=1"
-        },
-        {
-          "label": "bysh2017",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2018996965784768514?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC pics",
+          "url": "https://imgur.com/a/PWf9RTm"
         }
-      ]
-    },
-    "col_8": {
-      "text": "Hood and inside pattern"
+      ],
+      "image": "https://imgur.com/a/PWf9RTm"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1392"
+  }
 }

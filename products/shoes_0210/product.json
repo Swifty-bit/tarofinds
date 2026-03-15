@@ -1,65 +1,47 @@
 {
-  "name": "Jordan 4WOMANSize",
+  "name": "Jordan 4 RM5 Colors",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7245796224%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7245796224?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/taobao/7258440856?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7258440856?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7282345814%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7282345814?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "67$",
-  "budget_price": "38$",
-  "pics_text": "38$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "41$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awmb81e28Medwmjr0D7o1HXNjIuG-uuqdmjHmNd1M93vSh_O4IkzdxeMkTb6fZ7feAaTr0mDUGPigB600N0JwRZ8yVvmjhO1YMHlin65jIE8ud-LLS2IT9gPqSH8PQL8V1k3guKrcHNRw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axn_OKaZtZELWMgl2aJIOoTW1faDtjshOl1ovR8tLaxEiPVD3EHWUoA3jt5S2kE3lkrRwUsYzjawqVbV0qCSAA055q7iTXlBfn1dTZHbjvA8T5LKdDl5wiJb1HGVA5TRIXAki6UTtKWqgGT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0210",
   "raw_cells": {
     "col_0": {
       "text": "225"
     },
     "col_1": {
-      "text": "Jordan 4WOMANSize"
+      "text": "Jordan 4 RM5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awmb81e28Medwmjr0D7o1HXNjIuG-uuqdmjHmNd1M93vSh_O4IkzdxeMkTb6fZ7feAaTr0mDUGPigB600N0JwRZ8yVvmjhO1YMHlin65jIE8ud-LLS2IT9gPqSH8PQL8V1k3guKrcHNRw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axn_OKaZtZELWMgl2aJIOoTW1faDtjshOl1ovR8tLaxEiPVD3EHWUoA3jt5S2kE3lkrRwUsYzjawqVbV0qCSAA055q7iTXlBfn1dTZHbjvA8T5LKdDl5wiJb1HGVA5TRIXAki6UTtKWqgGT=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "here",
       "links": [
         {
-          "label": "OG",
-          "url": "https://www.oopbuy.com/product/weidian/7245796224?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/weidian/7282345814?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/7258440856?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "67$"
-    },
-    "col_6": {
-      "text": "38$"
+      "text": "41$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0210"
+  }
 }

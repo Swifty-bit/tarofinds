@@ -1,47 +1,47 @@
 {
-  "name": "Vintage Sneakers",
+  "name": "DRKSHDW Low",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "XV",
+  "best_batch": "ROG",
   "best_batch_links": [
     {
-      "label": "XV",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5620515183%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/5620515183?inviteCode=29TOTHGNH"
+      "label": "ROG",
+      "url": "https://litbuy.com/product/weidian/610344499634?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/610344499634?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "92$",
+  "best_price": "88$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_Tfg_v6eKzqws3LRTVtLjy0ab_DARjd4JCffr7YsfpIzSsbQnzOc5c890QVYIw_qRE61QQVqPif8TN67pvlYqHGSSJ8VtzoY6NdpQpbtRCG5kYOiRJ2ME0K8KLOu9vY7TLdo5ssr72pp-=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax67HladmOLa4FCuVBhVfGhzYO8gWNtxewfZb5rVOX75UJbTgmVb1wO9Da23nfDgs94HJJXvc5iusyjSM2vG-UD9Z48VFLOdnXlrL5Etyndkd0ZGa7icjiYt8F_hBgVZ8RzGBfrBsqwVg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0403",
   "raw_cells": {
     "col_0": {
       "text": "454"
     },
     "col_1": {
-      "text": "Vintage Sneakers"
+      "text": "DRKSHDW Low"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_Tfg_v6eKzqws3LRTVtLjy0ab_DARjd4JCffr7YsfpIzSsbQnzOc5c890QVYIw_qRE61QQVqPif8TN67pvlYqHGSSJ8VtzoY6NdpQpbtRCG5kYOiRJ2ME0K8KLOu9vY7TLdo5ssr72pp-=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax67HladmOLa4FCuVBhVfGhzYO8gWNtxewfZb5rVOX75UJbTgmVb1wO9Da23nfDgs94HJJXvc5iusyjSM2vG-UD9Z48VFLOdnXlrL5Etyndkd0ZGa7icjiYt8F_hBgVZ8RzGBfrBsqwVg=w143-h110"
     },
     "col_3": {
-      "text": "XV",
+      "text": "ROG",
       "links": [
         {
-          "label": "XV",
-          "url": "https://oopbuy.com/product/2/5620515183?inviteCode=29TOTHGNH"
+          "label": "ROG",
+          "url": "https://oopbuy.com/product/1/610344499634?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "92$"
+      "text": "88$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0403"
+  }
 }

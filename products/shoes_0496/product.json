@@ -1,47 +1,65 @@
 {
-  "name": "LoeweShearling Boots",
+  "name": "HermesBouncing",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "Koala",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6535758583%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6535758583?inviteCode=29TOTHGNH"
+      "label": "Koala",
+      "url": "https://litbuy.com/product/weidian/913167275103?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/913167275103?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "118$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/892297106721?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/892297106721?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "91$",
+  "budget_price": "21$",
+  "pics_text": "21$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayi1K54HSflMUoCdGBnbbBW5lchjPKfJJfeiq-WHFTaf1rGyegN6OpC4EwgvcFHuapOtorRuvqW-NJa9CbGYbh650UVjmJs4I75Q9OAzJeWpyIIWSWFQFU2tcB9-P1vesE21HRAoBn7yw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzhlBMN5pyN4SuLEbMw6bUN7dbRm1dqUBIpHj3jZa97C2p61miBDw374D4PF3Jk5kNx1D2CvRypKEGDqsusZhY1bDHJvjKBdYBa-x3cx1OYHSn3M_CZS7Iw0VSSExXP26u2B1suarCPOTls=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0496",
   "raw_cells": {
     "col_0": {
-      "text": "581"
+      "text": "577"
     },
     "col_1": {
-      "text": "LoeweShearling Boots"
+      "text": "HermesBouncing"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayi1K54HSflMUoCdGBnbbBW5lchjPKfJJfeiq-WHFTaf1rGyegN6OpC4EwgvcFHuapOtorRuvqW-NJa9CbGYbh650UVjmJs4I75Q9OAzJeWpyIIWSWFQFU2tcB9-P1vesE21HRAoBn7yw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzhlBMN5pyN4SuLEbMw6bUN7dbRm1dqUBIpHj3jZa97C2p61miBDw374D4PF3Jk5kNx1D2CvRypKEGDqsusZhY1bDHJvjKBdYBa-x3cx1OYHSn3M_CZS7Iw0VSSExXP26u2B1suarCPOTls=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "Koala",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/weidian/6535758583?inviteCode=29TOTHGNH"
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/913167275103?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/892297106721?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "118$"
+      "text": "91$"
+    },
+    "col_6": {
+      "text": "21$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0496"
+  }
 }

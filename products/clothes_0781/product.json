@@ -1,13 +1,13 @@
 {
-  "name": "Basic T-Shirt",
+  "name": "Tricolor Sleeve Edge T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564593813%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564593813?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7565867084?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565867084?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,32 +18,34 @@
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1931516860527382530?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1936952579282538498?action=discord&cid=1840597081113280514"
     },
     {
       "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/161603317?uid=1"
+      "url": "https://repsking.x.yupoo.com/albums/161599413?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwxHB3k-BL7a9dX2N0dtjdONbMBQ1Em2mBOPjovOfijoJvzpYZnX_w9tWWiunP_2Un9olrVz9FkHEM4h1CJsT00smH3FApZSNibPEan_cmihL9oC9JaNvc68-p_a3ifqPEEm1qASf7YRQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVwqNioYhChXjyxYGEzqj5MEw5z_nWcILG_M3ydRCgy4iR6uO2OEKV3p_CHKrCPokR8MPcpD5d-NaAYFojQ3mWdCeEfzZEcJA2nXNAxgEZSfmduANu3CAHRHTo3ZogEhe2b55yY7_m71VP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0781",
   "raw_cells": {
     "col_0": {
-      "text": "276"
+      "text": "272"
     },
     "col_1": {
-      "text": "Basic T-Shirt"
+      "text": "Tricolor Sleeve Edge T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwxHB3k-BL7a9dX2N0dtjdONbMBQ1Em2mBOPjovOfijoJvzpYZnX_w9tWWiunP_2Un9olrVz9FkHEM4h1CJsT00smH3FApZSNibPEan_cmihL9oC9JaNvc68-p_a3ifqPEEm1qASf7YRQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVwqNioYhChXjyxYGEzqj5MEw5z_nWcILG_M3ydRCgy4iR6uO2OEKV3p_CHKrCPokR8MPcpD5d-NaAYFojQ3mWdCeEfzZEcJA2nXNAxgEZSfmduANu3CAHRHTo3ZogEhe2b55yY7_m71VP=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7564593813?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7565867084?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -55,15 +57,13 @@
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1931516860527382530?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1936952579282538498?action=discord&cid=1840597081113280514"
         },
         {
           "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/161603317?uid=1"
+          "url": "https://repsking.x.yupoo.com/albums/161599413?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0781"
+  }
 }

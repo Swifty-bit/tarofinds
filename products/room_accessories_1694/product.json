@@ -1,0 +1,61 @@
+{
+  "name": "StockX Tags",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/688183190786?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/688183190786?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "1$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1955111801157906433?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyqXmDtA4MIkr4YFHstPlxon4FtW8CRuzpSETLL_eiynzw9Zw1Y3PzAQ99qtiDNXerlWjlpFOHjwh4QNBsT8QwXRSgGHXJO65zzYpmwacRL-19pg9HpmE_RFXomFkgNor8j2L43ryI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1694",
+  "raw_cells": {
+    "col_0": {
+      "text": "52"
+    },
+    "col_1": {
+      "text": "StockX Tags"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyqXmDtA4MIkr4YFHstPlxon4FtW8CRuzpSETLL_eiynzw9Zw1Y3PzAQ99qtiDNXerlWjlpFOHjwh4QNBsT8QwXRSgGHXJO65zzYpmwacRL-19pg9HpmE_RFXomFkgNor8j2L43ryI=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/688183190786?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "1$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1955111801157906433?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

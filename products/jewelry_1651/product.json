@@ -1,0 +1,47 @@
+{
+  "name": "Gucci Necklace",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/7266547265?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7266547265?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "50$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azzh3RPJmEVyG6XyROVkTuyg3bTEP47eOmxYGLEIYAyoXC58WfSyEHNcB-8910_eJsK8WWBJRKnjf5I70ALOMcFPcajrFXedCuk-8-rcPToQYOzLVCweq-wYM8GQGSHZ3PymXSgX65Y5_dq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1651",
+  "raw_cells": {
+    "col_0": {
+      "text": "60"
+    },
+    "col_1": {
+      "text": "Gucci Necklace"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azzh3RPJmEVyG6XyROVkTuyg3bTEP47eOmxYGLEIYAyoXC58WfSyEHNcB-8910_eJsK8WWBJRKnjf5I70ALOMcFPcajrFXedCuk-8-rcPToQYOzLVCweq-wYM8GQGSHZ3PymXSgX65Y5_dq=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7266547265?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "50$"
+    }
+  }
+}

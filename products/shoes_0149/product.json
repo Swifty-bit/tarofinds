@@ -1,65 +1,56 @@
 {
-  "name": "Air Jordan 1 HighOff-WhiteUniversity Blue",
+  "name": "Air Jordan 1 Mid",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
+  "best_batch": "DT/DT",
   "best_batch_links": [
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564058443%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564058443?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "DG",
-  "budget_batch_links": [
+      "label": "DT",
+      "url": "https://litbuy.com/product/weidian/7612408894?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7612408894?inviteCode=29TOTHGNH"
+    },
     {
-      "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+      "label": "DT",
+      "url": "https://litbuy.com/product/weidian/6377947768?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6377947768?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "78$",
-  "budget_price": "39$",
-  "pics_text": "39$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "34$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwO5zDNe3CDlZtYL6mfDcFuXyLke0yu2uXHwe-d8HjrSgkkG5lMN04eCcpiyw_dSKHtTtDMoUdEc4JMDq-zFGv7bUM4weeogRYf2dY5okoVhzheh2MYEBNUcSE4kKTFmLvOBVoFxkKIY6Zf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axl9qlEF9WzaMhZt5zL5hvBCUSw1HcS5VUTzWh73CZJYlfQEhQRUvsETKQ624JfJCmnoM84wvq20Hvu9hWL61z3ryZC-k4-_EXsN5xwJ3eY5_0h6fJIgwU-r3VNzG6hfTMg4Jjdcr4rHiD-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0149",
   "raw_cells": {
     "col_0": {
       "text": "160"
     },
     "col_1": {
-      "text": "Air Jordan 1 HighOff-WhiteUniversity Blue"
+      "text": "Air Jordan 1 Mid"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwO5zDNe3CDlZtYL6mfDcFuXyLke0yu2uXHwe-d8HjrSgkkG5lMN04eCcpiyw_dSKHtTtDMoUdEc4JMDq-zFGv7bUM4weeogRYf2dY5okoVhzheh2MYEBNUcSE4kKTFmLvOBVoFxkKIY6Zf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axl9qlEF9WzaMhZt5zL5hvBCUSw1HcS5VUTzWh73CZJYlfQEhQRUvsETKQ624JfJCmnoM84wvq20Hvu9hWL61z3ryZC-k4-_EXsN5xwJ3eY5_0h6fJIgwU-r3VNzG6hfTMg4Jjdcr4rHiD-=w143-h110"
     },
     "col_3": {
-      "text": "LJR",
+      "text": "DT/DT",
       "links": [
         {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/weidian/7564058443?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "DG",
-      "links": [
+          "label": "DT",
+          "url": "https://oopbuy.com/product/weidian/7612408894?inviteCode=29TOTHGNH"
+        },
         {
-          "label": "DG",
-          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+          "label": "DT",
+          "url": "https://oopbuy.com/product/weidian/6377947768?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "78$"
-    },
-    "col_6": {
-      "text": "39$"
+      "text": "34$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0149"
+  }
 }

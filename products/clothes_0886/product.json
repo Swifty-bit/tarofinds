@@ -1,13 +1,13 @@
 {
-  "name": "\"garden of eden\" Denim black",
+  "name": "\"venus\" Denim blue",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "elephant",
   "best_batch_links": [
     {
       "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7583832689%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7583832689?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7543361699?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7543361699?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/214223177?uid=1&isSubCate=false&referrercate=5006226"
+      "url": "https://elephant-factory.x.yupoo.com/albums/209302599?uid=1&isSubCate=false&referrercate=5006226"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeUOrlov9E10lHBn8fb_SeaUR5ATJe_OhyaaFfWmlu82CFrldDAqOco1B00cGy9ZioJZZ_osb2C624Y8WTYmFk1WmzJgXe_ELPkm2_KI6SHPJdjMqat9hQOEsg6BVj6akVXkfbBWOnkuwK=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwsD71SVkY6AiaDQy-sFmr0Nt7GGql0dwYQz8g8JKgLko0XQsM37Gp6KBtFONam-j-B7J1O_q2nFe0UKA_NhFk5NtyvgpC7Sr1PR_266iP-2QdBHYfwbiNS4aG4JgF8Hp-wJO1Ja2mz9Kf7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0886",
   "raw_cells": {
     "col_0": {
-      "text": "403"
+      "text": "399"
     },
     "col_1": {
-      "text": "\"garden of eden\" Denim black"
+      "text": "\"venus\" Denim blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeUOrlov9E10lHBn8fb_SeaUR5ATJe_OhyaaFfWmlu82CFrldDAqOco1B00cGy9ZioJZZ_osb2C624Y8WTYmFk1WmzJgXe_ELPkm2_KI6SHPJdjMqat9hQOEsg6BVj6akVXkfbBWOnkuwK=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwsD71SVkY6AiaDQy-sFmr0Nt7GGql0dwYQz8g8JKgLko0XQsM37Gp6KBtFONam-j-B7J1O_q2nFe0UKA_NhFk5NtyvgpC7Sr1PR_266iP-2QdBHYfwbiNS4aG4JgF8Hp-wJO1Ja2mz9Kf7=w143-h110"
     },
     "col_3": {
       "text": "elephant",
       "links": [
         {
           "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7583832689?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7543361699?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,15 +53,13 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/214223177?uid=1&isSubCate=false&referrercate=5006226"
+          "url": "https://elephant-factory.x.yupoo.com/albums/209302599?uid=1&isSubCate=false&referrercate=5006226"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwfruGybEOyEQEwtKzD3jRsZJgdTbGSa_qDZTBt6s3P52X7CDbdVPPL-gI_gtLR0jh7f4K6onglvSBhXB91l51NmXahXVP_tbJ4nBok6a7LiKp6tZ_4GKqIQCe1frWRn1elGoHTlMkOTqwX=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awjq7xvhpjEtYHvUxgJr6EpsneyHo6DcDGI6HxTEGaiKhuH7m1gkGZy55ErDqLmOa0NojFTlzQYT_BPjJxiYR5OMwbLo4u1PfgsYpPsFLzDzeiy5X7YML1xyAPXctmAt-G9xjuvSw_JP7NS=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0886"
+  }
 }

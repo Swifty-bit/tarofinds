@@ -1,61 +1,61 @@
 {
-  "name": "Gallery DeptxDOC JOHNSONT-Shirt",
+  "name": "Gallery DeptTOKYOT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Singor",
   "best_batch_links": [
     {
       "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F707962788928%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/707962788928?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/757465605462?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/757465605462?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "16$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1921505628005150721?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1927086344205549569?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJ5PGeTczAKUogOV3z3AFLWez_Ps8d7AJ5L400SXhlZLULILs0tCS5tSfpoQujr3GYW2am0WPM1xWzH9BHtKXC7ypg2WpLF6z2YXBKW9QtsKKCENaJQZ7YLJVRUiOtgPEmvnWSa8RHnreM=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxUSK2LyOG1r3lyQZWzNtoQoTPkG3xZwkuEc2aQvelEVh0-wxNSj8yvWJiWWYgHWa1zqwwQt8ZiEiMS0ae43AFhLjSqCImreKIEU47z3z84qM8KIBP9EYu-7yfXOzv4zTStzwD6q8ceLwad=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0709",
   "raw_cells": {
     "col_0": {
-      "text": "192"
+      "text": "188"
     },
     "col_1": {
-      "text": "Gallery DeptxDOC JOHNSONT-Shirt"
+      "text": "Gallery DeptTOKYOT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJ5PGeTczAKUogOV3z3AFLWez_Ps8d7AJ5L400SXhlZLULILs0tCS5tSfpoQujr3GYW2am0WPM1xWzH9BHtKXC7ypg2WpLF6z2YXBKW9QtsKKCENaJQZ7YLJVRUiOtgPEmvnWSa8RHnreM=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxUSK2LyOG1r3lyQZWzNtoQoTPkG3xZwkuEc2aQvelEVh0-wxNSj8yvWJiWWYgHWa1zqwwQt8ZiEiMS0ae43AFhLjSqCImreKIEU47z3z84qM8KIBP9EYu-7yfXOzv4zTStzwD6q8ceLwad=w143-h110"
     },
     "col_3": {
       "text": "Singor",
       "links": [
         {
           "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/707962788928?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/757465605462?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "16$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1921505628005150721?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1927086344205549569?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0709"
+  }
 }

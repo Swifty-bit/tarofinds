@@ -1,47 +1,47 @@
 {
-  "name": "Travis ScottCactus Jack",
+  "name": "Tiffany Lobster",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "AY",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565956522%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565956522?inviteCode=29TOTHGNH"
+      "label": "AY",
+      "url": "https://litbuy.com/product/taobao/6249681526?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6249681526?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "57$",
+  "best_price": "47$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay3imJEcIrAm1TtLFFPIDmHacdNv7P343Z2t0mEQiyQTURiVlyVGni47zq4YxIB-zQTd-HYUpGmC_UfZxitVnruTAmz5rnguv96RYDcDrtzYdKQmgBZh2jsop4SZuQWCP0asJbvUpL80w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzhHtK4OuaIHIN5XVdHT6ECgidaPcFbBmadi7bs52KT5v3vV2_rF3rld6FigvYca9CUnEcwXOGXfNlN8hQxRfyUrNS8R7EmfI42G9UF8WApRu_1PAebvs0QDynSgO6j8VvbwlOj-asR9Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0116",
   "raw_cells": {
     "col_0": {
       "text": "125"
     },
     "col_1": {
-      "text": "Travis ScottCactus Jack"
+      "text": "Tiffany Lobster"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay3imJEcIrAm1TtLFFPIDmHacdNv7P343Z2t0mEQiyQTURiVlyVGni47zq4YxIB-zQTd-HYUpGmC_UfZxitVnruTAmz5rnguv96RYDcDrtzYdKQmgBZh2jsop4SZuQWCP0asJbvUpL80w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzhHtK4OuaIHIN5XVdHT6ECgidaPcFbBmadi7bs52KT5v3vV2_rF3rld6FigvYca9CUnEcwXOGXfNlN8hQxRfyUrNS8R7EmfI42G9UF8WApRu_1PAebvs0QDynSgO6j8VvbwlOj-asR9Q=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "AY",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/weidian/7565956522?inviteCode=29TOTHGNH"
+          "label": "AY",
+          "url": "https://oopbuy.com/product/2/6249681526?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "57$"
+      "text": "47$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0116"
+  }
 }

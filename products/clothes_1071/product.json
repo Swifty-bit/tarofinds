@@ -1,87 +1,61 @@
 {
-  "name": "MertraT-Shirt",
+  "name": "Hellstar Racer Sweatpants Vintage Black",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "pengreps",
+  "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
-      "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7473253479%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7473253479?inviteCode=29TOTHGNH"
+      "label": "PikaPikaGo",
+      "url": "https://litbuy.com/product/weidian/805640386823?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805640386823?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "14$",
-  "budget_price": "10$",
-  "pics_text": "pengreps/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "46$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "pengreps",
-      "url": "https://pengreps.x.yupoo.com/albums/204673843?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/150378057?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMLAkaKzCx-7AQViZua7HJObjn5M4V47Ci9eZWY9xbkvmWtaPJc3HaIYWyd7HqAH1ms6NZB-zjqVTSlS6_Jpsh_vomGKttvO31P4Z6QTQTQLOkf2V_l_3smlhW8k-QHYx_jenvI9dZ2lxx=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxrqeHjgITj1Ebg7KiiO9x4duCzxTp-yuRh4rO838EYnCTkXwDgspG0O3UBSGLw4QHls0kyNhHsUO_G7aS1tvD5B9JJHIbe6g3joY8Fpe_nh2tUbgTBo7K1l-DdgQ_2cjj7qkfa9OXCV8Td=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1071",
   "raw_cells": {
     "col_0": {
-      "text": "622"
+      "text": "616"
     },
     "col_1": {
-      "text": "MertraT-Shirt"
+      "text": "Hellstar Racer Sweatpants Vintage Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMLAkaKzCx-7AQViZua7HJObjn5M4V47Ci9eZWY9xbkvmWtaPJc3HaIYWyd7HqAH1ms6NZB-zjqVTSlS6_Jpsh_vomGKttvO31P4Z6QTQTQLOkf2V_l_3smlhW8k-QHYx_jenvI9dZ2lxx=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxrqeHjgITj1Ebg7KiiO9x4duCzxTp-yuRh4rO838EYnCTkXwDgspG0O3UBSGLw4QHls0kyNhHsUO_G7aS1tvD5B9JJHIbe6g3joY8Fpe_nh2tUbgTBo7K1l-DdgQ_2cjj7qkfa9OXCV8Td=w143-h110"
     },
     "col_3": {
-      "text": "pengreps",
+      "text": "PikaPikaGo",
       "links": [
         {
-          "label": "pengreps",
-          "url": "https://oopbuy.com/product/weidian/7473253479?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/805640386823?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "14$"
-    },
-    "col_6": {
-      "text": "10$"
+      "text": "46$"
     },
     "col_7": {
-      "text": "pengreps/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "pengreps",
-          "url": "https://pengreps.x.yupoo.com/albums/204673843?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/150378057?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1071"
+  }
 }

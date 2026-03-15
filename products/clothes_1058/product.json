@@ -1,30 +1,30 @@
 {
-  "name": "Hellstar Studios Biker Tour T-Shirt",
+  "name": "HellstarQR ChristT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805640822006%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/805640822006?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/808912831066?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/808912831066?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/802896750934?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "23$",
+  "best_price": "30$",
   "budget_price": "6$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://pikachushop.x.yupoo.com/albums/161741673?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/167563678?uid=1"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awk2_hXkYM-XST-SKCumud6KoGdgTKWuhloD_vZmSVKwmwbcTAkvX1NhhX9sL4yCPpz6vrxe-Pf158hZ1FdMvLlmwXDiF2wKWam1utQwMF2e5EfNc7qrctISUg_EtOw0QFyx7EZk-4TKZ-q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay77LiOrjerZ5aFwGGVeHOIUCsw6-wEIvJJRMlIaSJIzAOuKc6iqAK7jyE8AHJ-b4wsZbhtrDa70CZzIHX42LlnwhenKx37w8AILkfiuUAr_VcM0D99JO7cz8Xo-rLNKshQ3P4OYkcZHHrA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1058",
   "raw_cells": {
     "col_0": {
-      "text": "607"
+      "text": "603"
     },
     "col_1": {
-      "text": "Hellstar Studios Biker Tour T-Shirt"
+      "text": "HellstarQR ChristT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awk2_hXkYM-XST-SKCumud6KoGdgTKWuhloD_vZmSVKwmwbcTAkvX1NhhX9sL4yCPpz6vrxe-Pf158hZ1FdMvLlmwXDiF2wKWam1utQwMF2e5EfNc7qrctISUg_EtOw0QFyx7EZk-4TKZ-q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay77LiOrjerZ5aFwGGVeHOIUCsw6-wEIvJJRMlIaSJIzAOuKc6iqAK7jyE8AHJ-b4wsZbhtrDa70CZzIHX42LlnwhenKx37w8AILkfiuUAr_VcM0D99JO7cz8Xo-rLNKshQ3P4OYkcZHHrA=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/805640822006?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/808912831066?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,7 +65,7 @@
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "30$"
     },
     "col_6": {
       "text": "6$"
@@ -73,7 +75,7 @@
       "links": [
         {
           "label": "best",
-          "url": "https://pikachushop.x.yupoo.com/albums/161741673?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/167563678?uid=1"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1058"
+  }
 }

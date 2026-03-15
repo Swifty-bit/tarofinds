@@ -1,61 +1,62 @@
 {
-  "name": "TNF X GucciBeanie4 Colors",
+  "name": "Gilet Retro Nuptse",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "WWTOP",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234438372%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234438372?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7565936786?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565936786?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "43$",
+  "budget_price": "",
+  "pics_text": "QC pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1926443491670962177?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC pics",
+      "url": "https://imgur.com/a/NcH2g3q"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxIO_D5PG8bN3LbPCXjkrZIGNYBfViKBQGf6W8dYDuZjktQiDvhMn5G6QLsRADByIKYpbC0---Qkres6i-Sv2RqknnjieTKpAl2TWljNMfWM7nywb2KNJ-eDAVt7YnELjXqOTadY3mKRUNh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxUvyP_1N9rPdsis0oyo8SBm5r8eTLLjLXGjctLU6NTAISfXlP3enn1VaJsxeG0QLYdt5rUlWCRNmh0hClT-LCRKpmjovyO9ycK_0aEqES_ORy_asCFokRkSYUtEqEa4pJJo9fpB-xrpw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1457",
   "raw_cells": {
     "col_0": {
-      "text": "1076"
+      "text": "1072"
     },
     "col_1": {
-      "text": "TNF X GucciBeanie4 Colors"
+      "text": "Gilet Retro Nuptse"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxIO_D5PG8bN3LbPCXjkrZIGNYBfViKBQGf6W8dYDuZjktQiDvhMn5G6QLsRADByIKYpbC0---Qkres6i-Sv2RqknnjieTKpAl2TWljNMfWM7nywb2KNJ-eDAVt7YnELjXqOTadY3mKRUNh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxUvyP_1N9rPdsis0oyo8SBm5r8eTLLjLXGjctLU6NTAISfXlP3enn1VaJsxeG0QLYdt5rUlWCRNmh0hClT-LCRKpmjovyO9ycK_0aEqES_ORy_asCFokRkSYUtEqEa4pJJo9fpB-xrpw=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "WWTOP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7234438372?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565936786?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$"
+    "col_5": {
+      "text": "43$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "QC pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1926443491670962177?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC pics",
+          "url": "https://imgur.com/a/NcH2g3q"
         }
-      ]
+      ],
+      "image": "https://imgur.com/a/NcH2g3q"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1457"
+  }
 }

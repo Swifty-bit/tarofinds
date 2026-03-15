@@ -1,61 +1,64 @@
 {
-  "name": "CDG PlayZip Up HoodiesMany Styles",
+  "name": "CDG PlayHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F605063687336%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/605063687336?inviteCode=29TOTHGNH"
+      "label": "repsbrothers",
+      "url": "https://litbuy.com/product/weidian/974299403094?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/974299403094?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "10$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967415517779681281?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206698384?uid=1&isSubCate=false&referrercate=4980597"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrdQHInYFTEIhptSPvVywIoCkCKmSPriY-xyO80H8jOY-tE6LAjO8MTGzPQM7RLUyQyxEbVpU7MrVX5cxeunERsyx7SIEG7wAKVeKCkPhGw4Mq4IYdX540AK31Ra6-3EDkqO7cFWsXGw=w143-h110",
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzeTIBCAsoS6nquzVmvQA8xG9-TsVAoe312UNFBVhYuyStv1n1r_92xg9kxYUc3LCv8Jzk9CApv4gh2P4Cxa24ouqpZvmaaYlf_6Irq1BMIREXzF-JNdhxFJhpEeFplfRcZWWjCQV0IOGf4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1040",
   "raw_cells": {
     "col_0": {
-      "text": "585"
+      "text": "581"
     },
     "col_1": {
-      "text": "CDG PlayZip Up HoodiesMany Styles"
+      "text": "CDG PlayHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrdQHInYFTEIhptSPvVywIoCkCKmSPriY-xyO80H8jOY-tE6LAjO8MTGzPQM7RLUyQyxEbVpU7MrVX5cxeunERsyx7SIEG7wAKVeKCkPhGw4Mq4IYdX540AK31Ra6-3EDkqO7cFWsXGw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzeTIBCAsoS6nquzVmvQA8xG9-TsVAoe312UNFBVhYuyStv1n1r_92xg9kxYUc3LCv8Jzk9CApv4gh2P4Cxa24ouqpZvmaaYlf_6Irq1BMIREXzF-JNdhxFJhpEeFplfRcZWWjCQV0IOGf4=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "repsbrothers",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/605063687336?inviteCode=29TOTHGNH"
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/974299403094?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "10$"
+    "col_5": {
+      "text": "37$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967415517779681281?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206698384?uid=1&isSubCate=false&referrercate=4980597"
         }
       ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1040"
+  }
 }

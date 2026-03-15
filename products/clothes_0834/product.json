@@ -1,5 +1,5 @@
 {
-  "name": "LVWater ReactiveSwim Shorts",
+  "name": "LV Beanie15 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7567336748%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7567336748?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7234458934?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "19$",
+  "budget_price": "3$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1942388523127664641?action=discord&cid=1942512167859859457"
+      "url": "https://finds.ly/product/WEIDIAN/7234458934"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxNscKLcTkVDCzbL_jxxn-dIyF7JELEesPRfCihOfXFpZK_kIMorZV9I9hsWS_yw37IgQABtT8R8P_pQfxw0kRWf4iHn6w5XB2i8t6D38jkTjRjtWyOpcCRMCERJpszMX2JudCN0288BjlF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySh_pQjF25ygFrdz_NpPEdOq4JZFZV14fyIjkXJqSCXRoe12QPZ7POVTT_QMfdQUGitHdBu48fbqFF2U9bnicf3vAdUlcH1po5EL1XVN27qezGEsf3DRSMedS03VYlhShh54Aq6qbaXIl2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0834",
   "raw_cells": {
     "col_0": {
-      "text": "331"
+      "text": "327"
     },
     "col_1": {
-      "text": "LVWater ReactiveSwim Shorts"
+      "text": "LV Beanie15 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxNscKLcTkVDCzbL_jxxn-dIyF7JELEesPRfCihOfXFpZK_kIMorZV9I9hsWS_yw37IgQABtT8R8P_pQfxw0kRWf4iHn6w5XB2i8t6D38jkTjRjtWyOpcCRMCERJpszMX2JudCN0288BjlF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySh_pQjF25ygFrdz_NpPEdOq4JZFZV14fyIjkXJqSCXRoe12QPZ7POVTT_QMfdQUGitHdBu48fbqFF2U9bnicf3vAdUlcH1po5EL1XVN27qezGEsf3DRSMedS03VYlhShh54Aq6qbaXIl2=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7567336748?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "19$"
+      "text": "3$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1942388523127664641?action=discord&cid=1942512167859859457"
+          "url": "https://finds.ly/product/WEIDIAN/7234458934"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0834"
+  }
 }

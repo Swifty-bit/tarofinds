@@ -1,47 +1,47 @@
 {
-  "name": "Spider-Man Across the Spider-Verse",
+  "name": "Spider-Man Origin Story",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LW",
+  "best_batch": "XP",
   "best_batch_links": [
     {
-      "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328090018%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328090018?inviteCode=29TOTHGNH"
+      "label": "XP",
+      "url": "https://litbuy.com/product/weidian/7565902946?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "63$",
+  "best_price": "56$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azo9TZeJtwerQZDUgJ2lS-WvTzqJj1Cbtud2tpV0e6dc437-JPJmLbocGag_3O8H10NY8VsZueY3_9bczbZyeeCGaYwh043tm867ECKO0OQe3g9Qft2kJ2wcT13gEGoFIo8qhu3UuYtBC_q=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1eEYdB4ieJSWk7j6ZNwLljcOJ6nydRM5vBufRKB4OfMhXpXeOnJlGLVvcA8TkkTyvW_BjFaqpxMW3qppJ1ajphtbdM8tR2CMZ99kGg-hwHaMhfzmoh5Bf-LH8WmnoVLrb-6E3U_kzwArB=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0174",
   "raw_cells": {
     "col_0": {
       "text": "185"
     },
     "col_1": {
-      "text": "Spider-Man Across the Spider-Verse"
+      "text": "Spider-Man Origin Story"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azo9TZeJtwerQZDUgJ2lS-WvTzqJj1Cbtud2tpV0e6dc437-JPJmLbocGag_3O8H10NY8VsZueY3_9bczbZyeeCGaYwh043tm867ECKO0OQe3g9Qft2kJ2wcT13gEGoFIo8qhu3UuYtBC_q=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1eEYdB4ieJSWk7j6ZNwLljcOJ6nydRM5vBufRKB4OfMhXpXeOnJlGLVvcA8TkkTyvW_BjFaqpxMW3qppJ1ajphtbdM8tR2CMZ99kGg-hwHaMhfzmoh5Bf-LH8WmnoVLrb-6E3U_kzwArB=w143-h100"
     },
     "col_3": {
-      "text": "LW",
+      "text": "XP",
       "links": [
         {
-          "label": "LW",
-          "url": "https://oopbuy.com/product/2/7328090018?inviteCode=29TOTHGNH"
+          "label": "XP",
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "63$"
+      "text": "56$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0174"
+  }
 }

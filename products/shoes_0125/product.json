@@ -1,65 +1,47 @@
 {
-  "name": "Why So Sad?",
+  "name": "Born X RaisedOne Block At A Time",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "TOP/S2",
+  "best_batch": "M",
   "best_batch_links": [
     {
-      "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251543921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+      "label": "M",
+      "url": "https://litbuy.com/product/taobao/7242327027?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "VT",
-  "budget_batch_links": [
-    {
-      "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6163723049%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6163723049?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "46$",
-  "budget_price": "28$",
-  "pics_text": "28$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "52$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzltxzULNCguhtIrETfn5mXWeUbjFJ7yBOhauSpX3H5AWB-H4OQZlQdv4BTtbvc7Yj3rAA4r1E-dcHpUJSj4tSGe_25ynNZ2MGLX02k7sFVTklr2I81JdQgG14a2l29fZ2hGfNH7zofXQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AytHpqGBWBLoD0Ekl5wbh1ANJNhv8nh-j4fYcAMa0irXqFUSpXc4WYrVzVf9zhyw6XJeq5J5EdjvtPmd43ARxNJoImvBVLsZK4SrVkAzQrxgNGn4oTuUNkFCrYuHHexAIQ5uo1BtEjA5Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0125",
   "raw_cells": {
     "col_0": {
       "text": "134"
     },
     "col_1": {
-      "text": "Why So Sad?"
+      "text": "Born X RaisedOne Block At A Time"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzltxzULNCguhtIrETfn5mXWeUbjFJ7yBOhauSpX3H5AWB-H4OQZlQdv4BTtbvc7Yj3rAA4r1E-dcHpUJSj4tSGe_25ynNZ2MGLX02k7sFVTklr2I81JdQgG14a2l29fZ2hGfNH7zofXQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AytHpqGBWBLoD0Ekl5wbh1ANJNhv8nh-j4fYcAMa0irXqFUSpXc4WYrVzVf9zhyw6XJeq5J5EdjvtPmd43ARxNJoImvBVLsZK4SrVkAzQrxgNGn4oTuUNkFCrYuHHexAIQ5uo1BtEjA5Q=w143-h110"
     },
     "col_3": {
-      "text": "TOP/S2",
+      "text": "M",
       "links": [
         {
-          "label": "TOP/S2",
-          "url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "VT",
-      "links": [
-        {
-          "label": "VT",
-          "url": "https://oopbuy.com/product/weidian/6163723049?inviteCode=29TOTHGNH"
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
-    },
-    "col_6": {
-      "text": "28$"
+      "text": "52$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0125"
+  }
 }

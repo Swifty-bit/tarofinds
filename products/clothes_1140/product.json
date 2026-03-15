@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosYou WouldLong Sleeve T-shirt",
+  "name": "Acne StudiosPocket T-shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "Topacney",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F944418213421%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/944418213421?inviteCode=29TOTHGNH"
+      "label": "Topacney",
+      "url": "https://litbuy.com/product/weidian/983058663749?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983058663749?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "26$",
+  "best_price": "18$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/193002789?uid=1&isSubCate=false&referrercate=4651184"
+      "url": "https://topacney.x.yupoo.com/albums/113773120?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyhB0ldMZK8z7VlUCbq8wuilPdS_JSZgbK6WQUWdGZmk9VB0Hko3jUCYKJ9_NMkCgyjq3s0kt_jpYtE85KE1vO1_-lQAZ24J6IJhA-MDkjIh-y1xciuELqvsTV1Q10JOugKtOmsURTjw9_h=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLaJkoLS1vTtvmJcGJhPYmvdNpiJmSX8dGTMHLvM90m41kvX4t7xqdbEtcPljTkD3oTrcgm-iTKLZPaOrRZHSQsqKNZSs5FsaTVpsrlSb7hkqxcKqkrdE66l0OkAUQB2r4FDB33Cl9f2Fs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1140",
   "raw_cells": {
     "col_0": {
-      "text": "703"
+      "text": "699"
     },
     "col_1": {
-      "text": "Acne StudiosYou WouldLong Sleeve T-shirt"
+      "text": "Acne StudiosPocket T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyhB0ldMZK8z7VlUCbq8wuilPdS_JSZgbK6WQUWdGZmk9VB0Hko3jUCYKJ9_NMkCgyjq3s0kt_jpYtE85KE1vO1_-lQAZ24J6IJhA-MDkjIh-y1xciuELqvsTV1Q10JOugKtOmsURTjw9_h=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLaJkoLS1vTtvmJcGJhPYmvdNpiJmSX8dGTMHLvM90m41kvX4t7xqdbEtcPljTkD3oTrcgm-iTKLZPaOrRZHSQsqKNZSs5FsaTVpsrlSb7hkqxcKqkrdE66l0OkAUQB2r4FDB33Cl9f2Fs=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "Topacney",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/944418213421?inviteCode=29TOTHGNH"
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/983058663749?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$"
+      "text": "18$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/193002789?uid=1&isSubCate=false&referrercate=4651184"
+          "url": "https://topacney.x.yupoo.com/albums/113773120?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1140"
+  }
 }

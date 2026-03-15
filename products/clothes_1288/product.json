@@ -1,61 +1,61 @@
 {
-  "name": "Lacoste2024 T-Shirt3 Colors",
+  "name": "Balenciaga 25SS LoopBaseball Cap",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "FrenchFish",
+  "best_batch": "JennyTurtle",
   "best_batch_links": [
     {
-      "label": "FrenchFish",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7280243984%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7280243984?inviteCode=29TOTHGNH"
+      "label": "JennyTurtle",
+      "url": "https://litbuy.com/product/weidian/7405258510?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7405258510?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "26$",
+  "best_price": "17$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1944925196663255041?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1960406643052179457?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxGqBq_1IuvEojUaINxxki7JTTAwVmHc6ExYsU6RhB3rWrRq2lcJO8eWSxh_A28ZsPQ83Nq1Y72pmK4O1YYQ2l_zj1ZMb3QFQDeQHjHxiIVIm0XhfkEpADsWXfQI-6Z5gisGtn_tNBZNpHT=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUB5ACK84ebdzS8yIQ8BVYtj3fsdcHC88WLhQZiGtB2V1Mwy4bNWQmq22Jql7PmjF1U1bdmYQ85qfaCRKVvUz30SuEYB54grFWcJvBLzHnBa1ukRBDAU3L9Je6JsYwb9HXkbIbQTt1rFaa=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1288",
   "raw_cells": {
     "col_0": {
-      "text": "879"
+      "text": "873"
     },
     "col_1": {
-      "text": "Lacoste2024 T-Shirt3 Colors"
+      "text": "Balenciaga 25SS LoopBaseball Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxGqBq_1IuvEojUaINxxki7JTTAwVmHc6ExYsU6RhB3rWrRq2lcJO8eWSxh_A28ZsPQ83Nq1Y72pmK4O1YYQ2l_zj1ZMb3QFQDeQHjHxiIVIm0XhfkEpADsWXfQI-6Z5gisGtn_tNBZNpHT=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUB5ACK84ebdzS8yIQ8BVYtj3fsdcHC88WLhQZiGtB2V1Mwy4bNWQmq22Jql7PmjF1U1bdmYQ85qfaCRKVvUz30SuEYB54grFWcJvBLzHnBa1ukRBDAU3L9Je6JsYwb9HXkbIbQTt1rFaa=w143-h110"
     },
     "col_3": {
-      "text": "FrenchFish",
+      "text": "JennyTurtle",
       "links": [
         {
-          "label": "FrenchFish",
-          "url": "https://oopbuy.com/product/weidian/7280243984?inviteCode=29TOTHGNH"
+          "label": "JennyTurtle",
+          "url": "https://oopbuy.com/product/weidian/7405258510?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$"
+      "text": "17$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1944925196663255041?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1960406643052179457?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1288"
+  }
 }

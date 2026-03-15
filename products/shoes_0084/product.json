@@ -1,39 +1,35 @@
 {
-  "name": "Light Bone White",
+  "name": "Michigan State",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "VT",
-  "budget_batch_links": [
-    {
-      "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
-    }
-  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
   "best_price": "44$",
-  "budget_price": "22$",
-  "pics_text": "22$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwNXJ-LYPn4UmY7XyIBp-95tJf19b8379IwKMUSXlpt5GO_oLKK2iRZI5ZZCivP2RDal1Gk0ny2zvhzvQ-dEheIKmOWaiqM6T2zt6iT9Rjjpf352XiyftptY45z6kM1WAntZpUut5Yw_Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axm451syxKgh9cApXZCp4ztv0tHVYLNhNgB-cFczpSNNzcycwA37d-m0rlMpjrV43KpVlzE8TVuJ1tZvon1VZ9NOC16Au7nVcwY-eS1rXDdgfLFgGhnBkWEL5xk_H0l1grWt1a-e5t01Nzc=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0084",
   "raw_cells": {
     "col_0": {
       "text": "93"
     },
     "col_1": {
-      "text": "Light Bone White"
+      "text": "Michigan State"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwNXJ-LYPn4UmY7XyIBp-95tJf19b8379IwKMUSXlpt5GO_oLKK2iRZI5ZZCivP2RDal1Gk0ny2zvhzvQ-dEheIKmOWaiqM6T2zt6iT9Rjjpf352XiyftptY45z6kM1WAntZpUut5Yw_Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axm451syxKgh9cApXZCp4ztv0tHVYLNhNgB-cFczpSNNzcycwA37d-m0rlMpjrV43KpVlzE8TVuJ1tZvon1VZ9NOC16Au7nVcwY-eS1rXDdgfLFgGhnBkWEL5xk_H0l1grWt1a-e5t01Nzc=w143-h110"
     },
     "col_3": {
       "text": "M",
@@ -44,22 +40,8 @@
         }
       ]
     },
-    "col_4": {
-      "text": "VT",
-      "links": [
-        {
-          "label": "VT",
-          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
     "col_5": {
       "text": "44$"
-    },
-    "col_6": {
-      "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0084"
+  }
 }

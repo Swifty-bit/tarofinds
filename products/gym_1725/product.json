@@ -1,61 +1,47 @@
 {
-  "name": "GYMSHARKWrist Straps5 Colors",
+  "name": "GYMSHARKOnyx 5.0 Vest Tank Top3 Colors",
   "category": "Gym",
   "subcategory": "",
   "best_batch": "gymshark70",
   "best_batch_links": [
     {
       "label": "gymshark70",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F836574503566%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/836574503566?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/1004571257168?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1004571257168?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "23$",
   "budget_price": "",
-  "pics_text": "QC Pics",
-  "pics_links": [
-    {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2013661363491659777?action=discord&type=1&cid=1942512167859859457"
-    }
-  ],
+  "pics_text": "",
+  "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3hkzdyNSPuh3pUJ68ersL1vCxh9-LUC0h5eAy5KLrMrPG5cyUx0qC3qQ4BCKtsEU3ch2v5Ufg4-h1M2enN5JbqZfYnbzBnQPfvTUwgkQuy9EmEXe5NB0UhUDVHqaaz3byc7vcUMouniqr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az6tFyNLi04tir275ZRNZFRGmr5IT3qNs-83Yx52E2n3YJqlHwuP5_QJoZK56izkvD4uxIp_6R_2mT88L4vFEf-tPE7me79VMt2A24GdrrJY5xlexT3RCiBsEBJgPhfCLNEcnJ7RJKcCmrT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1725",
   "raw_cells": {
     "col_0": {
-      "text": "26"
+      "text": "18"
     },
     "col_1": {
-      "text": "GYMSHARKWrist Straps5 Colors"
+      "text": "GYMSHARKOnyx 5.0 Vest Tank Top3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3hkzdyNSPuh3pUJ68ersL1vCxh9-LUC0h5eAy5KLrMrPG5cyUx0qC3qQ4BCKtsEU3ch2v5Ufg4-h1M2enN5JbqZfYnbzBnQPfvTUwgkQuy9EmEXe5NB0UhUDVHqaaz3byc7vcUMouniqr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az6tFyNLi04tir275ZRNZFRGmr5IT3qNs-83Yx52E2n3YJqlHwuP5_QJoZK56izkvD4uxIp_6R_2mT88L4vFEf-tPE7me79VMt2A24GdrrJY5xlexT3RCiBsEBJgPhfCLNEcnJ7RJKcCmrT=w143-h110"
     },
     "col_3": {
       "text": "gymshark70",
       "links": [
         {
           "label": "gymshark70",
-          "url": "https://oopbuy.com/product/1/836574503566?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/1004571257168?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
-    },
-    "col_7": {
-      "text": "QC Pics",
-      "links": [
-        {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2013661363491659777?action=discord&type=1&cid=1942512167859859457"
-        }
-      ]
+      "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1725"
+  }
 }

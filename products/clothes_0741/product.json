@@ -1,79 +1,87 @@
 {
-  "name": "Essentials1977 T-Shirt3 Colors",
+  "name": "Essentials 23FW Sweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "firerep",
+  "best_batch": "GmanClub",
   "best_batch_links": [
     {
-      "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F985914673288%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+      "label": "GmanClub",
+      "url": "https://litbuy.com/product/weidian/756350264897?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "Yishan",
+  "budget_batch": "here",
   "budget_batch_links": [
     {
-      "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F737366982970%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/737366982970?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/678275024081?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/678275024081?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "18$",
-  "budget_price": "10$",
-  "pics_text": "firerep",
+  "best_price": "30$",
+  "budget_price": "11$",
+  "pics_text": "gmanclub/budget",
   "pics_links": [
     {
-      "label": "firerep",
-      "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+      "label": "gmanclub",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1873781291819282434?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_e3Qniot-7GSaBzZHuraN6w79BDbNiZDFo80RJPEyh4ViwAC84lvDniCYnLOreBbz4OlQ_bL9Sx0Wn0AYBO7jPtlN-ho6WLBmyhNisuKLRCoa_cZvt856ij1t9SMl7PUapoWwAz0nDJEy=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1pafBCJYF4z-Pl_uwQ02LxGyDM6Uifp-s-zpUkzgInUhEIvibRGV_wBLpBaFkGYQdcYFFQeAyGrSQdVoiPMeEFaV0rdpRBLkgXT1dCU5rAtckqecYkjrV-so8VRomqtHJcy3O2pmuag=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0741",
   "raw_cells": {
     "col_0": {
-      "text": "227"
+      "text": "222"
     },
     "col_1": {
-      "text": "Essentials1977 T-Shirt3 Colors"
+      "text": "Essentials 23FW Sweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_e3Qniot-7GSaBzZHuraN6w79BDbNiZDFo80RJPEyh4ViwAC84lvDniCYnLOreBbz4OlQ_bL9Sx0Wn0AYBO7jPtlN-ho6WLBmyhNisuKLRCoa_cZvt856ij1t9SMl7PUapoWwAz0nDJEy=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1pafBCJYF4z-Pl_uwQ02LxGyDM6Uifp-s-zpUkzgInUhEIvibRGV_wBLpBaFkGYQdcYFFQeAyGrSQdVoiPMeEFaV0rdpRBLkgXT1dCU5rAtckqecYkjrV-so8VRomqtHJcy3O2pmuag=w143-h110"
     },
     "col_3": {
-      "text": "firerep",
+      "text": "GmanClub",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "Yishan",
+      "text": "here",
       "links": [
         {
-          "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/737366982970?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/678275024081?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "30$"
     },
     "col_6": {
-      "text": "10$"
+      "text": "11$"
     },
     "col_7": {
-      "text": "firerep",
+      "text": "gmanclub/budget",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
+          "label": "gmanclub",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1873781291819282434?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0741"
+  }
 }

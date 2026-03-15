@@ -1,61 +1,61 @@
 {
-  "name": "Balenciagax PS5Baseball Cap3 Colors",
+  "name": "BalenciagaGreen Bomber",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "ogwave",
+  "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
-      "label": "ogwave",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7432854257%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7432854257?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/971854933856?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/971854933856?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "15$",
+  "best_price": "117$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://ogwave.x.yupoo.com/albums/179320326?uid=1"
+      "url": "https://mvt-shop01.x.yupoo.com/albums/173762755?uid=1&isSubCate=false&referrercate=4670550"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXuhSchkuYqwE1W8VH54PuvBLleuEESuv-JR0zx9C3KuS6fO50y0NJy3fcld2TARzAc1tICCrC1X2atkW82U3oLRQDeeqQzcyOpe2h4hUpoG7eshSNWfwuU3_U9brNuwPfOW0TpE2ju_jI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwOT8S9jl8PuAyISfCs2lAhey7MwBzqzGIbCTB_pymJjVKcMerpdpZYhdiEtvZgulXUma0MS5_Itto7xKBp-Qmjpg_seDIEHh0ayu9c7YmigrCzH7B3sKYmuzP5VqjFMojAT-HOq0PUSwSb=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1286",
   "raw_cells": {
     "col_0": {
-      "text": "875"
+      "text": "871"
     },
     "col_1": {
-      "text": "Balenciagax PS5Baseball Cap3 Colors"
+      "text": "BalenciagaGreen Bomber"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXuhSchkuYqwE1W8VH54PuvBLleuEESuv-JR0zx9C3KuS6fO50y0NJy3fcld2TARzAc1tICCrC1X2atkW82U3oLRQDeeqQzcyOpe2h4hUpoG7eshSNWfwuU3_U9brNuwPfOW0TpE2ju_jI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwOT8S9jl8PuAyISfCs2lAhey7MwBzqzGIbCTB_pymJjVKcMerpdpZYhdiEtvZgulXUma0MS5_Itto7xKBp-Qmjpg_seDIEHh0ayu9c7YmigrCzH7B3sKYmuzP5VqjFMojAT-HOq0PUSwSb=w143-h110"
     },
     "col_3": {
-      "text": "ogwave",
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "ogwave",
-          "url": "https://oopbuy.com/product/2/7432854257?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/971854933856?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "117$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://ogwave.x.yupoo.com/albums/179320326?uid=1"
+          "url": "https://mvt-shop01.x.yupoo.com/albums/173762755?uid=1&isSubCate=false&referrercate=4670550"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1286"
+  }
 }

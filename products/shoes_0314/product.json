@@ -1,12 +1,12 @@
 {
-  "name": "Concord",
+  "name": "Playoffs Bred",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240644396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240644396?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzpSIim9M-1Xl9idIQpUo2POpVvslw5yF_3rPnB3sSVQxhoOxMFLjwo08OtquQMA3EmldKic8oiXaX1v_dsBQJjNFlPKct5jVdgl-y2fiWNGkzrZLOqJfT-NLtibwQ0p-m8XnyQ2B3RGA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNBlF5l0ZQMMwjqKLg9gRCbJrMVDcukTO2M0DU2yFjKZcNZy0N7iXJkeWC6GTRKA7fFUKFX3lMimrbha59STOkHzgPt0t6Wh_Nryeks58DADbwvVy0F3A25MU3o_gq8oEbNIWTpAJCRA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0314",
   "raw_cells": {
     "col_0": {
       "text": "337"
     },
     "col_1": {
-      "text": "Concord"
+      "text": "Playoffs Bred"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzpSIim9M-1Xl9idIQpUo2POpVvslw5yF_3rPnB3sSVQxhoOxMFLjwo08OtquQMA3EmldKic8oiXaX1v_dsBQJjNFlPKct5jVdgl-y2fiWNGkzrZLOqJfT-NLtibwQ0p-m8XnyQ2B3RGA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNBlF5l0ZQMMwjqKLg9gRCbJrMVDcukTO2M0DU2yFjKZcNZy0N7iXJkeWC6GTRKA7fFUKFX3lMimrbha59STOkHzgPt0t6Wh_Nryeks58DADbwvVy0F3A25MU3o_gq8oEbNIWTpAJCRA=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "70$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0314"
+  }
 }

@@ -1,46 +1,48 @@
 {
-  "name": "Syracuse",
+  "name": "J-Pack Chicago",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7243326840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "VT",
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/6163723049?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6163723049?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "46$",
-  "budget_price": "23$",
-  "pics_text": "23$",
+  "best_price": "50$",
+  "budget_price": "25$",
+  "pics_text": "25$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzsX9jsUi3eMteTBalRtfxPrFXwIQmxNS_6FoP895Uot01I9BTG045l6W_k4_AVyQ4VIZ1p408awDKRYZQLHQjiPsjrmlI0I1bom7akZEEzSLTQ4o2N0YqY08rE6TOvRyNPsSG2TgVZU128=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwoKT_RJ58jHJWfRZX4oss6jp9wTuCjGzRpafC1p9Rk4u5jXHUqMpABXZgSWGs6teP7eejSrkKQ5_P5MfSFJW4cjYuYqm9rt2l8saOPkzTSxomMF1MMOAXiPcwfcnbztZKi6uuzPxKWkQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0075",
   "raw_cells": {
     "col_0": {
       "text": "84"
     },
     "col_1": {
-      "text": "Syracuse"
+      "text": "J-Pack Chicago"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzsX9jsUi3eMteTBalRtfxPrFXwIQmxNS_6FoP895Uot01I9BTG045l6W_k4_AVyQ4VIZ1p408awDKRYZQLHQjiPsjrmlI0I1bom7akZEEzSLTQ4o2N0YqY08rE6TOvRyNPsSG2TgVZU128=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwoKT_RJ58jHJWfRZX4oss6jp9wTuCjGzRpafC1p9Rk4u5jXHUqMpABXZgSWGs6teP7eejSrkKQ5_P5MfSFJW4cjYuYqm9rt2l8saOPkzTSxomMF1MMOAXiPcwfcnbztZKi6uuzPxKWkQ=w143-h110"
     },
     "col_3": {
       "text": "M",
       "links": [
         {
           "label": "M",
-          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -49,17 +51,15 @@
       "links": [
         {
           "label": "VT",
-          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/6163723049?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "50$"
     },
     "col_6": {
-      "text": "23$"
+      "text": "25$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0075"
+  }
 }

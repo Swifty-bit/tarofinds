@@ -1,30 +1,30 @@
 {
-  "name": "HellstarQR ChristT-Shirt",
+  "name": "Hellstar Studios Inner Peace T-Shirt Black",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F808912831066%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/808912831066?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/805640690285?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805640690285?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/802896750934?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "30$",
+  "best_price": "25$",
   "budget_price": "6$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://pikachushop.x.yupoo.com/albums/167563678?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/165018399?uid=1"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTdeNsQNOdSdLwos6wxtgkviwZNKvyi4zWIU4I920onPK-TExiHeQDYobYqSlGphGcThqlFU998Ab9Led6yjrfwutuywDzuXAIaExUPiIvbS3JYPBykbUNCuMMHHkfa0G3OB0ZZwx8zvL1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9kqQvuyLIsiVWoC_evkDtqWGpWNORcTZP8tTRv97F2Zg_w0NhyHFTFwrFwuVh5WdnnkrHoINhNeZatzbR6FJD6Z6GYxUKP6qVqTy6dGTI7U6hWq7L3TxhyzSaSuvx56mu7jrbHK2mMA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1054",
   "raw_cells": {
     "col_0": {
-      "text": "603"
+      "text": "599"
     },
     "col_1": {
-      "text": "HellstarQR ChristT-Shirt"
+      "text": "Hellstar Studios Inner Peace T-Shirt Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTdeNsQNOdSdLwos6wxtgkviwZNKvyi4zWIU4I920onPK-TExiHeQDYobYqSlGphGcThqlFU998Ab9Led6yjrfwutuywDzuXAIaExUPiIvbS3JYPBykbUNCuMMHHkfa0G3OB0ZZwx8zvL1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9kqQvuyLIsiVWoC_evkDtqWGpWNORcTZP8tTRv97F2Zg_w0NhyHFTFwrFwuVh5WdnnkrHoINhNeZatzbR6FJD6Z6GYxUKP6qVqTy6dGTI7U6hWq7L3TxhyzSaSuvx56mu7jrbHK2mMA=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/808912831066?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/805640690285?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,7 +65,7 @@
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "25$"
     },
     "col_6": {
       "text": "6$"
@@ -73,7 +75,7 @@
       "links": [
         {
           "label": "best",
-          "url": "https://pikachushop.x.yupoo.com/albums/167563678?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/165018399?uid=1"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1054"
+  }
 }

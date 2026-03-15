@@ -1,61 +1,104 @@
 {
-  "name": "Burberry Beanie4 Colors",
+  "name": "Burberry Puffer",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Thunder",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234488040%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234488040?inviteCode=29TOTHGNH"
+      "label": "Thunder",
+      "url": "https://litbuy.com/product/weidian/7615029218?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7615029218?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget1/budget2",
+  "budget_batch_links": [
+    {
+      "label": "budget1",
+      "url": "https://litbuy.com/product/weidian/7296704356?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7296704356?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget2",
+      "url": "https://litbuy.com/product/weidian/869373032949?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/869373032949?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "138$",
+  "budget_price": "43$ / 25$",
+  "pics_text": "best/budget1/budget2",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2008016366664241153?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://thethunder.x.yupoo.com/albums/145056454?uid=1&isSubCate=false&referrercate=3972377"
+    },
+    {
+      "label": "budget1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1854071239645659137?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "budget2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2021097769228390402?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygfS5dx87UPCRTw-mRVXpV3tghMX7P1KfTA-UaLmyEYXXIStTc7r3VGkFdbWZwXuD5mM4jmZRL1UalxzwJYL2clC50Uo-tAn5xuvAkR9J0C4mT14lQlXmhNytyrhHwtqHfK613eapWkE4n=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwGRSGmWBNxbNzxfF18cA3cL8PuJxSVlVBHfvVdlTZXwMjDpCkO1rq-b680no1sfmfgH1_IOD3ApsoGBsmgoW3VSHKMJtE1J9U8tc_k44xo6i6aC0ejyScuom4lb4G-D3K9N1NPXNW-6sMD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1407",
   "raw_cells": {
     "col_0": {
-      "text": "1014"
+      "text": "1010"
     },
     "col_1": {
-      "text": "Burberry Beanie4 Colors"
+      "text": "Burberry Puffer"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygfS5dx87UPCRTw-mRVXpV3tghMX7P1KfTA-UaLmyEYXXIStTc7r3VGkFdbWZwXuD5mM4jmZRL1UalxzwJYL2clC50Uo-tAn5xuvAkR9J0C4mT14lQlXmhNytyrhHwtqHfK613eapWkE4n=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwGRSGmWBNxbNzxfF18cA3cL8PuJxSVlVBHfvVdlTZXwMjDpCkO1rq-b680no1sfmfgH1_IOD3ApsoGBsmgoW3VSHKMJtE1J9U8tc_k44xo6i6aC0ejyScuom4lb4G-D3K9N1NPXNW-6sMD=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Thunder",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7234488040?inviteCode=29TOTHGNH"
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/weidian/7615029218?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$"
-    },
-    "col_7": {
-      "text": "QC Pics",
+    "col_4": {
+      "text": "budget1/budget2",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2008016366664241153?action=discord&type=1&cid=1942512167859859457"
+          "label": "budget1",
+          "url": "https://oopbuy.com/product/weidian/7296704356?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget2",
+          "url": "https://oopbuy.com/product/1/869373032949?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "138$"
+    },
+    "col_6": {
+      "text": "43$ / 25$"
+    },
+    "col_7": {
+      "text": "best/budget1/budget2",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://thethunder.x.yupoo.com/albums/145056454?uid=1&isSubCate=false&referrercate=3972377"
+        },
+        {
+          "label": "budget1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1854071239645659137?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2021097769228390402?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1407"
+  }
 }

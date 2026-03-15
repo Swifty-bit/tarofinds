@@ -1,65 +1,65 @@
 {
-  "name": "Cool Grey",
+  "name": "Vivid Sulfur",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7259180318%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7259180318?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX",
+  "budget_batch": "KX2.0",
   "budget_batch_links": [
     {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+      "label": "KX2.0",
+      "url": "https://litbuy.com/product/taobao/7249836913?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "71$",
+  "best_price": "62$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZPt2u1Q0Dqv05X9mIWZ5Khw8JRfOKANtf68l327rou3Q9nYFWdXv0vnGe4bpuLntqk-YXkHBZdUF2OfGXR5yPSmn3v3Z0DDoLntqhmDI2wU39P76yYGtDIDrm64cddJ1lxFmCm-BmV90W=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw9pfjvUSlhF_MPPKjQWN7_R1N3ofptDcMizfj00-A3P1ysukAHHVfgGKhFp7wfgthlGMkc4iIAU5yv8VmHAOqkiHfG3z7dsI5iHryljS0aLKgaV2GnXH8USN8QeqdmByGkF2eTftgfDm3J=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0252",
   "raw_cells": {
     "col_0": {
       "text": "267"
     },
     "col_1": {
-      "text": "Cool Grey"
+      "text": "Vivid Sulfur"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZPt2u1Q0Dqv05X9mIWZ5Khw8JRfOKANtf68l327rou3Q9nYFWdXv0vnGe4bpuLntqk-YXkHBZdUF2OfGXR5yPSmn3v3Z0DDoLntqhmDI2wU39P76yYGtDIDrm64cddJ1lxFmCm-BmV90W=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw9pfjvUSlhF_MPPKjQWN7_R1N3ofptDcMizfj00-A3P1ysukAHHVfgGKhFp7wfgthlGMkc4iIAU5yv8VmHAOqkiHfG3z7dsI5iHryljS0aLKgaV2GnXH8USN8QeqdmByGkF2eTftgfDm3J=w143-h110"
     },
     "col_3": {
-      "text": "LJR",
+      "text": "GX",
       "links": [
         {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/2/7259180318?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "KX",
+      "text": "KX2.0",
       "links": [
         {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+          "label": "KX2.0",
+          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "71$"
+      "text": "62$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0252"
+  }
 }

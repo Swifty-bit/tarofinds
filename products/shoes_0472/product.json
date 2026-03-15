@@ -1,47 +1,47 @@
 {
-  "name": "Cloudbust Thunder",
+  "name": "Gel-Quantum 36011 Colors",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Jelly",
+  "best_batch": "Repsun",
   "best_batch_links": [
     {
-      "label": "Jelly",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F765244956945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/765244956945?inviteCode=29TOTHGNH"
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/taobao/7490553970?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7490553970?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "92$",
+  "best_price": "32$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDPMakkOS7dhlNopb8eIRYQUEeWcGU0a_-FElhLevCW8on7LUc8gJnKAUpl-DkGdfT39aoFp8q0Wddn42ExXNbXpGzE8cr1PFLMVTUjkvQYtq8RceI4CfHnehzAcEC6bEURlWjFcWJLhyg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxatM3_0XSNwWiKqpYw1wt4ZQHzaq36Ke6JzNrlwsYG1_2JYo-xSJufTDM2DadB05Vjxqi5WW4AGsqJ2-xXVmjtLq9dV9ZU0NgNPH49u302PcmDfDQk_oE4VBs1UEUYRCyCiUrdoH573-NC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0472",
   "raw_cells": {
     "col_0": {
-      "text": "539"
+      "text": "537"
     },
     "col_1": {
-      "text": "Cloudbust Thunder"
+      "text": "Gel-Quantum 36011 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDPMakkOS7dhlNopb8eIRYQUEeWcGU0a_-FElhLevCW8on7LUc8gJnKAUpl-DkGdfT39aoFp8q0Wddn42ExXNbXpGzE8cr1PFLMVTUjkvQYtq8RceI4CfHnehzAcEC6bEURlWjFcWJLhyg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxatM3_0XSNwWiKqpYw1wt4ZQHzaq36Ke6JzNrlwsYG1_2JYo-xSJufTDM2DadB05Vjxqi5WW4AGsqJ2-xXVmjtLq9dV9ZU0NgNPH49u302PcmDfDQk_oE4VBs1UEUYRCyCiUrdoH573-NC=w143-h110"
     },
     "col_3": {
-      "text": "Jelly",
+      "text": "Repsun",
       "links": [
         {
-          "label": "Jelly",
-          "url": "https://oopbuy.com/product/1/765244956945?inviteCode=29TOTHGNH"
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/2/7490553970?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "92$"
+      "text": "32$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0472"
+  }
 }

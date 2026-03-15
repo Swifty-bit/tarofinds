@@ -1,65 +1,65 @@
 {
-  "name": "\"venus\" Denim blue",
+  "name": "\"lotus v2\" longsleeve KnitSweater",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
+  "best_batch": "firerep//////////",
   "best_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7543361699%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7543361699?inviteCode=29TOTHGNH"
+      "label": "firerep",
+      "url": "https://litbuy.com/product/weidian/7535031631?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7535031631?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "46$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/209302599?uid=1&isSubCate=false&referrercate=5006226"
+      "url": "https://hotders.x.yupoo.com/albums/207397055?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5_7ve8Yt-il6pYLcY6pLqIzsR9AbkF1STXZ8Vo3b3UPwj8WFVG0VftGmA1ZMbDuKpod-6GbBB4Fjs1N23plI4y0NY6BtK2MPzv27tCzyHGPIc7_gI18j9F1oy01JDhLL1GZNSNbA0-jC7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayi31r2KXWpZ3UEoF885RPRW21bBM7M_WSIg98VqGl5EZqnHlWquDAcFx7Iyjl8y9iz24GNe01VZmzQUYOocJesaY6ac3vsd87_a7sWapucMfhQiomiV-Ug84w6rystgFBaljgURAfVjG_u=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0882",
   "raw_cells": {
     "col_0": {
-      "text": "399"
+      "text": "395"
     },
     "col_1": {
-      "text": "\"venus\" Denim blue"
+      "text": "\"lotus v2\" longsleeve KnitSweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5_7ve8Yt-il6pYLcY6pLqIzsR9AbkF1STXZ8Vo3b3UPwj8WFVG0VftGmA1ZMbDuKpod-6GbBB4Fjs1N23plI4y0NY6BtK2MPzv27tCzyHGPIc7_gI18j9F1oy01JDhLL1GZNSNbA0-jC7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayi31r2KXWpZ3UEoF885RPRW21bBM7M_WSIg98VqGl5EZqnHlWquDAcFx7Iyjl8y9iz24GNe01VZmzQUYOocJesaY6ac3vsd87_a7sWapucMfhQiomiV-Ug84w6rystgFBaljgURAfVjG_u=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
+      "text": "firerep//////////",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7543361699?inviteCode=29TOTHGNH"
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/weidian/7535031631?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "46$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/209302599?uid=1&isSubCate=false&referrercate=5006226"
+          "url": "https://hotders.x.yupoo.com/albums/207397055?uid=1"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AydTDRkGbFhfOQTwtLt-MJluiay6mMXqptFkt6Z77udMuHIeUEPqPTf5BY3Uese3KN97aNULthnnCFwYZe89V8F4p08wICF9DXLQA9cvqyxMS6D35Olis7-yheQ2_nAZHqxp5hxu5D1i4xW=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw2KlQ_7gPSRtDmpPMo23anaGE3FL07HqEfybN725TOueL8ema7sXvPTwIcuwt7YGwRgQ_0YcD5LJnufcAQSt_HdZLR_RrmVOC5gkIxGagO_guSkd6O9N6W6OVM5M_X_opEmtQq7yYjc1QX=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0882"
+  }
 }

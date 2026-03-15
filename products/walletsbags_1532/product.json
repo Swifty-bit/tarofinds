@@ -1,5 +1,5 @@
 {
-  "name": "GucciMessenger Bag8 Styles",
+  "name": "DiorMedium Saddle Messenger Bag",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F751418839273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/751418839273?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/745684650336?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/745684650336?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "17$",
+  "budget_price": "23$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1971400106248331265?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969950996127375361?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxO_b8HTzwJ_Z-gXQh7Os8OAnNtr6PUuxxqlAWvtT5eYZjW5c5zR0XtqX2q4myMaRj6nbWdY7u73Hp3IBM3z_cq5y_jrvsk68GDFCr3v1UVU2_vBVxlY7usB7jFFP-hBXNOyhdJRD41C2EN=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azqa0YZORT3mBMlLZv5cUEkDSyoQBqlFCvM2XDfXpjZ3YuNOljH1gefSwAJhwdYGApif9fVtGYJPHcwMSTU1MaK1KdgKFPHNWH_0Q4OyeNy4SyFr1VT7UKWPTcmsF6mDEE0Clo1hLIbYwvZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1532",
   "raw_cells": {
     "col_0": {
-      "text": "38"
+      "text": "34"
     },
     "col_1": {
-      "text": "GucciMessenger Bag8 Styles"
+      "text": "DiorMedium Saddle Messenger Bag"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxO_b8HTzwJ_Z-gXQh7Os8OAnNtr6PUuxxqlAWvtT5eYZjW5c5zR0XtqX2q4myMaRj6nbWdY7u73Hp3IBM3z_cq5y_jrvsk68GDFCr3v1UVU2_vBVxlY7usB7jFFP-hBXNOyhdJRD41C2EN=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azqa0YZORT3mBMlLZv5cUEkDSyoQBqlFCvM2XDfXpjZ3YuNOljH1gefSwAJhwdYGApif9fVtGYJPHcwMSTU1MaK1KdgKFPHNWH_0Q4OyeNy4SyFr1VT7UKWPTcmsF6mDEE0Clo1hLIbYwvZ=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/751418839273?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/745684650336?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "17$"
+      "text": "23$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1971400106248331265?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969950996127375361?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1532"
+  }
 }

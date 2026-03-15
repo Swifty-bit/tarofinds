@@ -1,74 +1,47 @@
 {
-  "name": "Dark Mocha",
+  "name": "Travis Scott Fragment High",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR/FK",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239381635%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "FK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565902946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7240131608?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "DG",
-  "budget_batch_links": [
-    {
-      "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "71$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "80$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBgRTQHozeTRpNH7dbXMBIeT2IgTDOqTkSMYI1IGgEGCKpBeIGR_8IwGwrAakeDB6lzISErQ6F8kwzQA2kzpkwBMBBbdHM8eV6AGNi5xRcedWnUOvSlT3ZFPLTTXrnHU8fehhIfgEOrr_K=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFWEYF92erqxyKvDpO-Pl-y5EAChIlxYyClSZrqPXBJewX0byUuLX-inVFTIhvINqS6BrcmDlVMTotnmB9Z9DZhv96NmQcJUMr4xuJoC-tIyy31BhpUfRupXLwoWl9aFBSPpOZOOFtJf18=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0155",
   "raw_cells": {
     "col_0": {
       "text": "166"
     },
     "col_1": {
-      "text": "Dark Mocha"
+      "text": "Travis Scott Fragment High"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBgRTQHozeTRpNH7dbXMBIeT2IgTDOqTkSMYI1IGgEGCKpBeIGR_8IwGwrAakeDB6lzISErQ6F8kwzQA2kzpkwBMBBbdHM8eV6AGNi5xRcedWnUOvSlT3ZFPLTTXrnHU8fehhIfgEOrr_K=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFWEYF92erqxyKvDpO-Pl-y5EAChIlxYyClSZrqPXBJewX0byUuLX-inVFTIhvINqS6BrcmDlVMTotnmB9Z9DZhv96NmQcJUMr4xuJoC-tIyy31BhpUfRupXLwoWl9aFBSPpOZOOFtJf18=w143-h110"
     },
     "col_3": {
-      "text": "LJR/FK",
+      "text": "LJR",
       "links": [
         {
           "label": "LJR",
-          "url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "FK",
-          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "DG",
-      "links": [
-        {
-          "label": "DG",
-          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "71$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "80$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0155"
+  }
 }

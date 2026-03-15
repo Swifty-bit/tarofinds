@@ -1,64 +1,90 @@
 {
-  "name": "Nike TechHoodie2 Colors",
+  "name": "Nike TechTF2023 Grey/Black",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://litbuy.com/product/weidian/963128582530?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/963128582530?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F913871043719%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/913871043719?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/778531217488?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/778531217488?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "25$(SET)",
-  "pics_text": "QC Pics",
+  "best_price": "76$(SET)",
+  "budget_price": "26$(SET)",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1996405842893688834?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://repsbro.x.yupoo.com/albums/205538120?uid=1&isSubCate=false&referrercate=4971729"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923181865122971649?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "set 25$ - hoodie 14$ - pants 11$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax-PqtrbsjMHdBnlhb8O29ncSyVIdT6gQJDI4uw0ljJLiuVZhpvzrUpmoRE1BfprX5ST-5Qt5XORKZmsAjYKedzT3Fo8rNPKvLdqXy5jjfRy7uPnEuV-sLrGxuXN00A5ZIvAPYYyxh4opuC=w143-h110",
+  "notes": "set 76$ - hoodie 41$ - pants 35$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZ7ar-Wzct1hyzguDIfwsAsDmxwEeeVi3aHNIFhsaXUQVjSpoID3asf6IXFV6ljks5zR0WxhHUek9bCwVbv8kf9HDTRnPQX-QwpCsvi9S_SWx1xFg5L1c0Xs1BFb0d7vRk1ZvkB2mA85S7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0555",
   "raw_cells": {
     "col_0": {
-      "text": "20"
+      "text": "16"
     },
     "col_1": {
-      "text": "Nike TechHoodie2 Colors"
+      "text": "Nike TechTF2023 Grey/Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax-PqtrbsjMHdBnlhb8O29ncSyVIdT6gQJDI4uw0ljJLiuVZhpvzrUpmoRE1BfprX5ST-5Qt5XORKZmsAjYKedzT3Fo8rNPKvLdqXy5jjfRy7uPnEuV-sLrGxuXN00A5ZIvAPYYyxh4opuC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZ7ar-Wzct1hyzguDIfwsAsDmxwEeeVi3aHNIFhsaXUQVjSpoID3asf6IXFV6ljks5zR0WxhHUek9bCwVbv8kf9HDTRnPQX-QwpCsvi9S_SWx1xFg5L1c0Xs1BFb0d7vRk1ZvkB2mA85S7=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/963128582530?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/913871043719?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/778531217488?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "76$(SET)"
+    },
     "col_6": {
-      "text": "25$(SET)"
+      "text": "26$(SET)"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1996405842893688834?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://repsbro.x.yupoo.com/albums/205538120?uid=1&isSubCate=false&referrercate=4971729"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923181865122971649?action=discord&cid=1840597081113280514"
         }
       ]
     },
     "col_8": {
-      "text": "set 25$ - hoodie 14$ - pants 11$"
+      "text": "set 76$ - hoodie 41$ - pants 35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0555"
+  }
 }

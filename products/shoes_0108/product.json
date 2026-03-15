@@ -1,47 +1,47 @@
 {
-  "name": "Purple Lobster",
+  "name": "Grateful Dead Bears Yellow",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
+  "best_batch": "OG",
   "best_batch_links": [
     {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/taobao/7245075709?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "50$",
+  "best_price": "53$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwS6iO1bNCKPKcr36eP0rpXVwSiteJ2x7QaPW58UOPMqhEYN1dfZWnyWEfA7OgPO-DEjPIJzyFVGcCfJ05fCp9D1VNLLgXrOXMhk28EFswKH3387r1i7wMJeq3gl8VzJxoE79kOnlywvNTV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay2Y204cKYriMS3HRmIDY6F__Z-VZzwCks8RZLntU93tBCW857liJ748LAcMZ2W_W7ivK_5KUkSoszSYYlLAVm3kD5BbpkjWT4o2IJRBG9W36BBHTOPLFE6oL1wmkhucD1-OlGqqBL-3w=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0108",
   "raw_cells": {
     "col_0": {
       "text": "117"
     },
     "col_1": {
-      "text": "Purple Lobster"
+      "text": "Grateful Dead Bears Yellow"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwS6iO1bNCKPKcr36eP0rpXVwSiteJ2x7QaPW58UOPMqhEYN1dfZWnyWEfA7OgPO-DEjPIJzyFVGcCfJ05fCp9D1VNLLgXrOXMhk28EFswKH3387r1i7wMJeq3gl8VzJxoE79kOnlywvNTV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay2Y204cKYriMS3HRmIDY6F__Z-VZzwCks8RZLntU93tBCW857liJ748LAcMZ2W_W7ivK_5KUkSoszSYYlLAVm3kD5BbpkjWT4o2IJRBG9W36BBHTOPLFE6oL1wmkhucD1-OlGqqBL-3w=w143-h110"
     },
     "col_3": {
-      "text": "M",
+      "text": "OG",
       "links": [
         {
-          "label": "M",
-          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "50$"
+      "text": "53$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0108"
+  }
 }

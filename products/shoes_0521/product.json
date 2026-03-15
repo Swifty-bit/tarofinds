@@ -1,47 +1,56 @@
 {
-  "name": "Mini Bailey Bow",
+  "name": "Ugg Tasman",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "FS/here",
   "best_batch_links": [
     {
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7549055256?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4434237354%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4434237354?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/6623490494?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/6623490494?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "36$",
+  "best_price": "31$ / 42$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyODlkd8XQxoS0MOOOMi0gYomwHrzenkZQ5uP0-Jz3I_Wj8Y2vgdDl_1db5L-lZa0d_QRU-7LyIC-M5FegnsRgSkMDN3HxuDVxG682rcmkztVx0Lxk9L0eTjYpXpUUe0Inqta3FvFw9UeCV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awau4JvWKbO-i-qkWncQfiM4f2CN4YKjR9lXhtp_VL6VkQdrA7MNwtcfs4aZBEvc49HUsCDsnW6RcCShKNmadDrpZ6RB8LPCrDJKKv3TjALFoPp16O30eIgcfCIsjGLQ520lesLRkyl2Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0521",
   "raw_cells": {
     "col_0": {
       "text": "630"
     },
     "col_1": {
-      "text": "Mini Bailey Bow"
+      "text": "Ugg Tasman"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyODlkd8XQxoS0MOOOMi0gYomwHrzenkZQ5uP0-Jz3I_Wj8Y2vgdDl_1db5L-lZa0d_QRU-7LyIC-M5FegnsRgSkMDN3HxuDVxG682rcmkztVx0Lxk9L0eTjYpXpUUe0Inqta3FvFw9UeCV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awau4JvWKbO-i-qkWncQfiM4f2CN4YKjR9lXhtp_VL6VkQdrA7MNwtcfs4aZBEvc49HUsCDsnW6RcCShKNmadDrpZ6RB8LPCrDJKKv3TjALFoPp16O30eIgcfCIsjGLQ520lesLRkyl2Q=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "FS/here",
       "links": [
         {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "here",
-          "url": "https://oopbuy.com/product/weidian/4434237354?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/6623490494?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "36$"
+      "text": "31$ / 42$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0521"
+  }
 }

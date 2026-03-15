@@ -1,5 +1,5 @@
 {
-  "name": "MM6 Sweater4 Colors",
+  "name": "MM6Long SleevesT-Shirt26 Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F746801458197%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/746801458197?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/824984602061?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/824984602061?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "13$",
+  "budget_price": "12$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/746801458197"
+      "url": "https://finds.ly/product/ali1688/824984602061"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayp39vd00bL2txNc_zSYIvfFSM8-ytGsTXfWuF9w6rsjIKhb_hjRFeFp1TndNVjia8fpY2h9BcxFQHYM9DWbFVGGrnX0gSbVF94KtBv8O8pnEl7yvywATMaCinZuy2XU68-YpkqHQdQj1lW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEuoaYl-TLcMmBta4yWkh4Sv18etJellziXgUBOyuLgEKnJL4mxYLi_8mMPJ0amgdskLqkDyMx6qKGCo9X9vjpXhoa3S4H2Zr3m7evrfUbHHvW1LP_2iE9XPtffuCM7oqhBz8HrkN0ag=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1168",
   "raw_cells": {
     "col_0": {
-      "text": "733"
+      "text": "729"
     },
     "col_1": {
-      "text": "MM6 Sweater4 Colors"
+      "text": "MM6Long SleevesT-Shirt26 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayp39vd00bL2txNc_zSYIvfFSM8-ytGsTXfWuF9w6rsjIKhb_hjRFeFp1TndNVjia8fpY2h9BcxFQHYM9DWbFVGGrnX0gSbVF94KtBv8O8pnEl7yvywATMaCinZuy2XU68-YpkqHQdQj1lW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEuoaYl-TLcMmBta4yWkh4Sv18etJellziXgUBOyuLgEKnJL4mxYLi_8mMPJ0amgdskLqkDyMx6qKGCo9X9vjpXhoa3S4H2Zr3m7evrfUbHHvW1LP_2iE9XPtffuCM7oqhBz8HrkN0ag=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/746801458197?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/824984602061?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "13$"
+      "text": "12$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/746801458197"
+          "url": "https://finds.ly/product/ali1688/824984602061"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1168"
+  }
 }

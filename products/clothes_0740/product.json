@@ -1,91 +1,61 @@
 {
-  "name": "Essentials20SS ShortsMany Colors",
+  "name": "Essentials Fall2024 Sweatpants4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Singor",
   "best_batch_links": [
     {
       "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F641289313259%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/641289313259?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/912713621959?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/912713621959?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "Yishan",
-  "budget_batch_links": [
-    {
-      "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F931096888104%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/931096888104?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "22$",
-  "budget_price": "11$",
-  "pics_text": "singor/yishan",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "27$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "singor",
-      "url": "https://steven-1989.x.yupoo.com/albums/93901456?uid=1"
-    },
-    {
-      "label": "yishan",
-      "url": "https://doppel.fit/item/1688/931096888104"
+      "label": "pics",
+      "url": "https://steven-1989.x.yupoo.com/albums/192715152?uid=1&isSubCate=false&referrercate=3018541"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxUYVaaeghW0Kwzhg1SovsAsT8iHQ8_DiZSBl1I-S3vf8GCj7L2UAKqGlikiF5jLHe6pcAFUAr9W3r_AW6JAlyVGpScBB6F03WVDQcMBmMPiS-DH73LM_lh9GcCfD25uVLOB2HgmSZqSw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azc5SsSBrsZ75IgNaiDy6JSgnkKusQ8ORYLz406kIdD6kvpeoes083K8w_PzPNWV0zk1HmEScfyB9C0YKcvwfSyy9OwRu0FFiGST2O1F-CNZL8_zLH0yi7LMYjzR4jlhQ1VKXBKPJ5T8JPs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0740",
   "raw_cells": {
     "col_0": {
-      "text": "225"
+      "text": "221"
     },
     "col_1": {
-      "text": "Essentials20SS ShortsMany Colors"
+      "text": "Essentials Fall2024 Sweatpants4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxUYVaaeghW0Kwzhg1SovsAsT8iHQ8_DiZSBl1I-S3vf8GCj7L2UAKqGlikiF5jLHe6pcAFUAr9W3r_AW6JAlyVGpScBB6F03WVDQcMBmMPiS-DH73LM_lh9GcCfD25uVLOB2HgmSZqSw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azc5SsSBrsZ75IgNaiDy6JSgnkKusQ8ORYLz406kIdD6kvpeoes083K8w_PzPNWV0zk1HmEScfyB9C0YKcvwfSyy9OwRu0FFiGST2O1F-CNZL8_zLH0yi7LMYjzR4jlhQ1VKXBKPJ5T8JPs=w143-h110"
     },
     "col_3": {
       "text": "Singor",
       "links": [
         {
           "label": "Singor",
-          "url": "https://oopbuy.com/product/1/641289313259?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "Yishan",
-      "links": [
-        {
-          "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/931096888104?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/912713621959?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
-    },
-    "col_6": {
-      "text": "11$"
+      "text": "27$"
     },
     "col_7": {
-      "text": "singor/yishan",
+      "text": "pics",
       "links": [
         {
-          "label": "singor",
-          "url": "https://steven-1989.x.yupoo.com/albums/93901456?uid=1"
-        },
-        {
-          "label": "yishan",
-          "url": "https://doppel.fit/item/1688/931096888104"
+          "label": "pics",
+          "url": "https://steven-1989.x.yupoo.com/albums/192715152?uid=1&isSubCate=false&referrercate=3018541"
         }
       ]
-    },
-    "col_8": {
-      "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzgPFLyQ7LMknm8I_JE80gp0a1x_iHpHpQ-oHBVfwT3t89ObekfrrQU42SEyiXGR8z3FaKn8Vxi5tQWWAR0M1xdrykgl5VOwCJqWn8KEIbS9USf7WuMZv219DH6Fx6136oe1jNxajgGuOuF=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0740"
+  }
 }

@@ -1,51 +1,53 @@
 {
-  "name": "University Blue(UNC)",
+  "name": "Black Canvas",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK4.0",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "PK4.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564099853%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564099853?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "NEW R1/KX",
   "budget_batch_links": [
     {
       "label": "NEW R1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328101882%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7328101882?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
     },
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "60$",
+  "best_price": "66$",
   "budget_price": "45$ / 37$",
   "pics_text": "45$ / 37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayzhfev--GUO-CiF99Q5X98BrP5-VkIiu-ghPYZ-7JCRKIvlb-FA0O6FmQZb67U40phZQFgcI2gPrahN6EqEuzRnLfRzpM-6YKSdddEaZn8FW7fzp_ek2mNm6g7U4cp0qqMexVCRID94pKJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aym_vTac8AvA80DV4ZsfL60uSfvR_7SSkswkhdc2i4oSqKbCuyAUFS8RNE5BV8RRQM9ba9y5QHaIRgM0tFRVO0L1wxwNXFA_MCGQizQv8TbinLpweEtdSlQuXRHtvFt2B9mIcG31JaVu8yW=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0238",
   "raw_cells": {
     "col_0": {
       "text": "253"
     },
     "col_1": {
-      "text": "University Blue(UNC)"
+      "text": "Black Canvas"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayzhfev--GUO-CiF99Q5X98BrP5-VkIiu-ghPYZ-7JCRKIvlb-FA0O6FmQZb67U40phZQFgcI2gPrahN6EqEuzRnLfRzpM-6YKSdddEaZn8FW7fzp_ek2mNm6g7U4cp0qqMexVCRID94pKJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aym_vTac8AvA80DV4ZsfL60uSfvR_7SSkswkhdc2i4oSqKbCuyAUFS8RNE5BV8RRQM9ba9y5QHaIRgM0tFRVO0L1wxwNXFA_MCGQizQv8TbinLpweEtdSlQuXRHtvFt2B9mIcG31JaVu8yW=w143-h110"
     },
     "col_3": {
-      "text": "PK4.0",
+      "text": "GX",
       "links": [
         {
-          "label": "PK4.0",
-          "url": "https://oopbuy.com/product/weidian/7564099853?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,12 +65,10 @@
       ]
     },
     "col_5": {
-      "text": "60$"
+      "text": "66$"
     },
     "col_6": {
       "text": "45$ / 37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0238"
+  }
 }

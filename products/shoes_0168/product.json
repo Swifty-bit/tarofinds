@@ -1,47 +1,47 @@
 {
-  "name": "Washed Pink",
+  "name": "Court PurpleWhite Toe",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "DG",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328058114%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328058114?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/4327889542?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4327889542?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "52$",
+  "best_price": "69$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxHcazQyQyxsuZ_G33sLMEtF2_aY1K0u5PJQyk3IFqA9cSW2JI6LUZcuc0BIx3ODglV2drnpv4fwMfxP-8OF43IkxMil3pRzicK_fVTKISdaJtIS7b-zJROxcbAVl8E-bGmFu-KdC8ilR6T=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyHIPFunkkP8Mj3-pn6ubOOT-lyIyhYAIOEqaCu2ef2NUYBowpJDjk_7g5UTSY54G33lxhGXAyxxbaVdAtvHzA6kkYy87nAY0a_km7IiF_c7dRDJYg5Sl-HVwihILlR99toou4py6zcbw=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0168",
   "raw_cells": {
     "col_0": {
       "text": "179"
     },
     "col_1": {
-      "text": "Washed Pink"
+      "text": "Court PurpleWhite Toe"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxHcazQyQyxsuZ_G33sLMEtF2_aY1K0u5PJQyk3IFqA9cSW2JI6LUZcuc0BIx3ODglV2drnpv4fwMfxP-8OF43IkxMil3pRzicK_fVTKISdaJtIS7b-zJROxcbAVl8E-bGmFu-KdC8ilR6T=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyHIPFunkkP8Mj3-pn6ubOOT-lyIyhYAIOEqaCu2ef2NUYBowpJDjk_7g5UTSY54G33lxhGXAyxxbaVdAtvHzA6kkYy87nAY0a_km7IiF_c7dRDJYg5Sl-HVwihILlR99toou4py6zcbw=w143-h100"
     },
     "col_3": {
-      "text": "DG",
+      "text": "LJR",
       "links": [
         {
-          "label": "DG",
-          "url": "https://oopbuy.com/product/2/7328058114?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/4327889542?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "52$"
+      "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0168"
+  }
 }

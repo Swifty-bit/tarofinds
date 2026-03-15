@@ -1,12 +1,12 @@
 {
-  "name": "Red Lobster",
+  "name": "Yellow Lobster",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245075709%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7245075709?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axlle-6WHOgQcWEA_-d4FsFoKts7YI6NfwcgOOnkKZ8PDK6tmlHiUc5iyTUU1eoLNyHFz4CDF9chnWK9ETyJjdudU8lMC_m29GsvTmZnK_2wOb-ah4x3JIL8NGoQRPBSqvwj5nD69YsXz7J=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az99FzdAyXijgfY5DKQcLrjVIRLgxwn70ljOmVjD75DyhK9JXmJ5bxHY9mdDV-SvJ7glh6wNKDwrg35c7qm78DsFR0Np8sFq0G0a9VEngktQr8a5CO8-44CBJUrtIWeGNrT0nKaB1fnsheV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0114",
   "raw_cells": {
     "col_0": {
       "text": "123"
     },
     "col_1": {
-      "text": "Red Lobster"
+      "text": "Yellow Lobster"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axlle-6WHOgQcWEA_-d4FsFoKts7YI6NfwcgOOnkKZ8PDK6tmlHiUc5iyTUU1eoLNyHFz4CDF9chnWK9ETyJjdudU8lMC_m29GsvTmZnK_2wOb-ah4x3JIL8NGoQRPBSqvwj5nD69YsXz7J=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az99FzdAyXijgfY5DKQcLrjVIRLgxwn70ljOmVjD75DyhK9JXmJ5bxHY9mdDV-SvJ7glh6wNKDwrg35c7qm78DsFR0Np8sFq0G0a9VEngktQr8a5CO8-44CBJUrtIWeGNrT0nKaB1fnsheV=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "58$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0114"
+  }
 }

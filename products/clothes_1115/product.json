@@ -1,61 +1,61 @@
 {
-  "name": "Vetements Reversible Bomber Hoodie TFD/Gun club",
+  "name": "VetementsEbay EcstasyHoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
       "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F923162676346%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/923162676346?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/818847955308?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/818847955308?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "98$",
+  "best_price": "60$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/180244974?uid=1&isSubCate=false&referrercate=4670550"
+      "url": "https://mvt-shop01.x.yupoo.com/albums/171576689?uid=1&isSubCate=false&referrercate=4651184"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azt1f5HhmTwx8GTlcUxctcGbA8udLIuaZp9wqCm6Rk0D1X2Jt9pvdJt7W-eXoqTX_6M7iVVCKVW-5vZBTBCiMm42iYjvjd34rz2P5KHIq1E9RT9sGxrcti35gLzT34r5fPircrMmGkXoDeJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRmJ6eg-kTv2e0tkZW2BNj55Rr_xaGC19RgITUMFJjFX3D3YiI4es8duEyRgFkviFrKy9txY_J1t9yF14FD8lTpV-uZO16spAiVQ16tZ2Wh-5vQX4r_-5d9GakBHymT1QjdZED_zWKV_-z=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1115",
   "raw_cells": {
     "col_0": {
-      "text": "670"
+      "text": "666"
     },
     "col_1": {
-      "text": "Vetements Reversible Bomber Hoodie TFD/Gun club"
+      "text": "VetementsEbay EcstasyHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azt1f5HhmTwx8GTlcUxctcGbA8udLIuaZp9wqCm6Rk0D1X2Jt9pvdJt7W-eXoqTX_6M7iVVCKVW-5vZBTBCiMm42iYjvjd34rz2P5KHIq1E9RT9sGxrcti35gLzT34r5fPircrMmGkXoDeJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRmJ6eg-kTv2e0tkZW2BNj55Rr_xaGC19RgITUMFJjFX3D3YiI4es8duEyRgFkviFrKy9txY_J1t9yF14FD8lTpV-uZO16spAiVQ16tZ2Wh-5vQX4r_-5d9GakBHymT1QjdZED_zWKV_-z=w143-h110"
     },
     "col_3": {
       "text": "mvt-shop01",
       "links": [
         {
           "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/923162676346?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/818847955308?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "98$"
+      "text": "60$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/180244974?uid=1&isSubCate=false&referrercate=4670550"
+          "url": "https://mvt-shop01.x.yupoo.com/albums/171576689?uid=1&isSubCate=false&referrercate=4651184"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1115"
+  }
 }

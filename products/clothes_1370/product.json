@@ -1,20 +1,20 @@
 {
-  "name": "Eric EmanuelNew YorkSunshine",
+  "name": "Eric EmanuelPaisley Shorts6 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792718020125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/792691452297?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "UnionKingdom",
   "budget_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,28 +24,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/121270008?uid=1&isSubCate=false&referrercate=3848500"
+      "url": "https://angelking47.x.yupoo.com/albums/138210041?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcqRODXnpuQhnM5_8BjFxcJg5CvYe7fqaQiIzyjTKpx2DQGxCN3ohttsPsNHHguQOXOLp4L8sUlhsC55aYZaXXTfc10sVcvTILhZ49Kq7BTpHfMBDlteDOrCDYVIDAEdpeagRJwr9-5Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3DU5YWpsjgL5D92ZgN5Qn0tEd_XLu0rMOq1eKpSiKAjNQEPn7y7wMJdAXhjsTfSBJ5wHcIg7AwGSxgsfdL_i-08oNi8CBu7-OttAzb4QGPYXVeb-r_RV1NThlzxA_5StT3Z_LV5unmegu=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1370",
   "raw_cells": {
     "col_0": {
-      "text": "971"
+      "text": "967"
     },
     "col_1": {
-      "text": "Eric EmanuelNew YorkSunshine"
+      "text": "Eric EmanuelPaisley Shorts6 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcqRODXnpuQhnM5_8BjFxcJg5CvYe7fqaQiIzyjTKpx2DQGxCN3ohttsPsNHHguQOXOLp4L8sUlhsC55aYZaXXTfc10sVcvTILhZ49Kq7BTpHfMBDlteDOrCDYVIDAEdpeagRJwr9-5Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3DU5YWpsjgL5D92ZgN5Qn0tEd_XLu0rMOq1eKpSiKAjNQEPn7y7wMJdAXhjsTfSBJ5wHcIg7AwGSxgsfdL_i-08oNi8CBu7-OttAzb4QGPYXVeb-r_RV1NThlzxA_5StT3Z_LV5unmegu=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/121270008?uid=1&isSubCate=false&referrercate=3848500"
+          "url": "https://angelking47.x.yupoo.com/albums/138210041?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1370"
+  }
 }

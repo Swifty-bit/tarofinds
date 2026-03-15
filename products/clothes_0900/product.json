@@ -1,61 +1,61 @@
 {
-  "name": "VLONE Tee20 Colours",
+  "name": "AkimboBlank GreyZipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "FFCP",
-  "budget_batch_links": [
+  "best_batch": "firerep",
+  "best_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F649141652801%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/649141652801?inviteCode=29TOTHGNH"
+      "label": "firerep",
+      "url": "https://litbuy.com/product/weidian/7594262389?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7594262389?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "6$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "31$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/649141652801"
+      "label": "pics",
+      "url": "https://firerep.x.yupoo.com/albums/186533933?uid=1&isSubCate=false&referrercate=4666904"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxPQnrGxPkDVnCG2Z0VqJY0ZDdNGw5DZL6Hn2kJhtEXUcY-W5oRlJcWapRNsnoANSfJeCQTitudhdkE9VTLCZgSvjaX6yWkIRid0eMWYcsgVCYFuxbqNA0i99imc6T5yNTwZIVZrILMmkj0=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZxUuJulICXxMD429lrAEKkLPvA47dV__CzwLNTLkpFXvyCzsMzrAUZKknpyBgAzYkwc4OnpDkFR4exyzp1dgXRudNO8h9bi9lIRTYF9-A9fv28TzlXP-DT80XfYmlyW8-53wfCETIHkje=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0900",
   "raw_cells": {
     "col_0": {
-      "text": "421"
+      "text": "415"
     },
     "col_1": {
-      "text": "VLONE Tee20 Colours"
+      "text": "AkimboBlank GreyZipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxPQnrGxPkDVnCG2Z0VqJY0ZDdNGw5DZL6Hn2kJhtEXUcY-W5oRlJcWapRNsnoANSfJeCQTitudhdkE9VTLCZgSvjaX6yWkIRid0eMWYcsgVCYFuxbqNA0i99imc6T5yNTwZIVZrILMmkj0=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZxUuJulICXxMD429lrAEKkLPvA47dV__CzwLNTLkpFXvyCzsMzrAUZKknpyBgAzYkwc4OnpDkFR4exyzp1dgXRudNO8h9bi9lIRTYF9-A9fv28TzlXP-DT80XfYmlyW8-53wfCETIHkje=w143-h110"
     },
-    "col_4": {
-      "text": "FFCP",
+    "col_3": {
+      "text": "firerep",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/649141652801?inviteCode=29TOTHGNH"
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/weidian/7594262389?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "6$"
+    "col_5": {
+      "text": "31$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/649141652801"
+          "label": "pics",
+          "url": "https://firerep.x.yupoo.com/albums/186533933?uid=1&isSubCate=false&referrercate=4666904"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0900"
+  }
 }

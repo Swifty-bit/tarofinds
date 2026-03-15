@@ -1,48 +1,35 @@
 {
-  "name": "Metallic Gold",
+  "name": "Metallic Orange",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
-  "best_batch_links": [
-    {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7482723964%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7482723964?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "72$",
+  "best_price": "",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw5jUcfhKYl_L0TcBc2wFP6oXVRTNIcMsTJq2wTQ4PqobaMTNwS_kSxpy-9scDDE951gffeM5vJOAPhM-r2fBqHDStTLoCjygreKpYczbz613fiqf2VF2K66uZ20XtbTVCLZvUEUn6Nrgqx=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXa2PJ4xF_5la6R6hiWy-bwEKK1e6Vpt0hOUBKQDS8a4GJ3_S3Bwe6cRFM-qm1h7MwDMYyMAR3rh0ochhyqATZA4b6qCeogRRRvxJB-UPAeK7u64MG_UdxqWmJYFu0BjOCejE2Fsfjvg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0230",
   "raw_cells": {
     "col_0": {
       "text": "245"
     },
     "col_1": {
-      "text": "Metallic Gold"
+      "text": "Metallic Orange"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw5jUcfhKYl_L0TcBc2wFP6oXVRTNIcMsTJq2wTQ4PqobaMTNwS_kSxpy-9scDDE951gffeM5vJOAPhM-r2fBqHDStTLoCjygreKpYczbz613fiqf2VF2K66uZ20XtbTVCLZvUEUn6Nrgqx=w143-h110"
-    },
-    "col_3": {
-      "text": "LJR",
-      "links": [
-        {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/weidian/7482723964?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXa2PJ4xF_5la6R6hiWy-bwEKK1e6Vpt0hOUBKQDS8a4GJ3_S3Bwe6cRFM-qm1h7MwDMYyMAR3rh0ochhyqATZA4b6qCeogRRRvxJB-UPAeK7u64MG_UdxqWmJYFu0BjOCejE2Fsfjvg=w143-h110"
     },
     "col_4": {
       "text": "KX",
@@ -53,13 +40,8 @@
         }
       ]
     },
-    "col_5": {
-      "text": "72$"
-    },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0230"
+  }
 }

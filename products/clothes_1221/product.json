@@ -1,47 +1,61 @@
 {
-  "name": "DSQ2 Jeans",
+  "name": "Amiri Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F829057223697%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/829057223697?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/806565782596?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/806565782596?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "40$",
-  "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://uufinds.com/exploreMore/1853614399287787522"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyDyHffD1rif-nzpM-s1Pu-WgyEhO069M5exh_wnRHOsmcUhll0lvlxK3qqhrgSmflR6ZANAiIgGrm4JMl5vzBAswVkekasIZ7OoYT_lCR1C3LoWtKNgIaw4HEmP-DaS5dY1QAm1KaP1g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxEaTkl_sWA_c0doURk0OUE2WgMkcuAVO0dKGnG4wPeMAo-pEq06lO6sOS8QQOPUjZMrHngotu1Pui5v1_CqW3Xhb9pRFsVqvmRCeXXX_HPIvznN7pQunyTereCnHx6z250gnKYB1iq_W5y=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1221",
   "raw_cells": {
     "col_0": {
-      "text": "796"
+      "text": "790"
     },
     "col_1": {
-      "text": "DSQ2 Jeans"
+      "text": "Amiri Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyDyHffD1rif-nzpM-s1Pu-WgyEhO069M5exh_wnRHOsmcUhll0lvlxK3qqhrgSmflR6ZANAiIgGrm4JMl5vzBAswVkekasIZ7OoYT_lCR1C3LoWtKNgIaw4HEmP-DaS5dY1QAm1KaP1g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxEaTkl_sWA_c0doURk0OUE2WgMkcuAVO0dKGnG4wPeMAo-pEq06lO6sOS8QQOPUjZMrHngotu1Pui5v1_CqW3Xhb9pRFsVqvmRCeXXX_HPIvznN7pQunyTereCnHx6z250gnKYB1iq_W5y=w143-h110"
     },
-    "col_3": {
-      "text": "here",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "here",
-          "url": "https://www.oopbuy.com/product/1/829057223697?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/806565782596?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "40$"
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://uufinds.com/exploreMore/1853614399287787522"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1221"
+  }
 }

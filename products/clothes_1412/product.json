@@ -1,13 +1,13 @@
 {
-  "name": "BurberryMesh Covers Cap",
+  "name": "Burberry Cap",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "ogwave",
   "best_batch_links": [
     {
       "label": "ogwave",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7434992192%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7434992192?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7435192170?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7435192170?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://ogwave.x.yupoo.com/albums/176446395?uid=1"
+      "url": "https://ogwave.x.yupoo.com/albums/176446436?uid=1&isSubCate=false&referrercate=4687632"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwhGt9IPWggGDCeLULgMBkbg-HsuQev9ZhKe_SnKWI05RGCPa1LgfFOF8iChS2nlNvqd0os0NMoblBIRPqRIgXishCPiBEplY4g88yL08Mwp29D9_RnH5wYyxBe4_6Lg2dAPX38Fpj_hSfr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrXIsriN0pH3Rl9Rl57hRhFz77gXSDfv5mBSi6tQ0udpDDsuW48zWE9mwqNHPUIi-pXXMfN-LfiJBJaejbmr2hXGSScs7CfRKm3jxTY9GGL_2ITMMwGnmOesevWPmJnu88eHKIGJ_HYw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1412",
   "raw_cells": {
     "col_0": {
-      "text": "1019"
+      "text": "1015"
     },
     "col_1": {
-      "text": "BurberryMesh Covers Cap"
+      "text": "Burberry Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwhGt9IPWggGDCeLULgMBkbg-HsuQev9ZhKe_SnKWI05RGCPa1LgfFOF8iChS2nlNvqd0os0NMoblBIRPqRIgXishCPiBEplY4g88yL08Mwp29D9_RnH5wYyxBe4_6Lg2dAPX38Fpj_hSfr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrXIsriN0pH3Rl9Rl57hRhFz77gXSDfv5mBSi6tQ0udpDDsuW48zWE9mwqNHPUIi-pXXMfN-LfiJBJaejbmr2hXGSScs7CfRKm3jxTY9GGL_2ITMMwGnmOesevWPmJnu88eHKIGJ_HYw=w143-h110"
     },
     "col_3": {
       "text": "ogwave",
       "links": [
         {
           "label": "ogwave",
-          "url": "https://www.oopbuy.com/product/weidian/7434992192?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7435192170?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://ogwave.x.yupoo.com/albums/176446395?uid=1"
+          "url": "https://ogwave.x.yupoo.com/albums/176446436?uid=1&isSubCate=false&referrercate=4687632"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1412"
+  }
 }

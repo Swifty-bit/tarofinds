@@ -1,46 +1,48 @@
 {
-  "name": "Loro PianaSummer WalkLoafers",
+  "name": "LouboutinsGrey Spikes",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Koala",
+  "best_batch": "RG-NEON",
   "best_batch_links": [
     {
-      "label": "Koala",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F908427733480%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/908427733480?inviteCode=29TOTHGNH"
+      "label": "RG-NEON",
+      "url": "https://litbuy.com/product/weidian/7234851275?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7234851275?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7462455763%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7462455763?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/779786898860?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/779786898860?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "88$",
-  "budget_price": "44$",
-  "pics_text": "44$",
+  "best_price": "117$",
+  "budget_price": "25$",
+  "pics_text": "25$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLUulNFj3PexYFD9BSjH1xYvwQHhglpy_4pF-iiMgRhd5vXJd0FgeN2NOPzt4a6yxorHSZqPlnBeRTqAjPTpgkAHGQrLLNsb_t466h_A9F4x-kJCOr2g2IFlU8gNFv9JMP7VNVdRFcWYzq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWCczIQVdJRp43ZJCdGnrneV9J1_b4v4KWbb2jTxvM1jbV1kM5GC3AvCwNCmALEiPmuEQsoQmtoGS5k0x-QbDIargJjE3ZXRL439LRYWHsYpsvcr3y-JephdHPmzrdUJspysKoZUJQ-d26=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0397",
   "raw_cells": {
     "col_0": {
-      "text": "446"
+      "text": "444"
     },
     "col_1": {
-      "text": "Loro PianaSummer WalkLoafers"
+      "text": "LouboutinsGrey Spikes"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLUulNFj3PexYFD9BSjH1xYvwQHhglpy_4pF-iiMgRhd5vXJd0FgeN2NOPzt4a6yxorHSZqPlnBeRTqAjPTpgkAHGQrLLNsb_t466h_A9F4x-kJCOr2g2IFlU8gNFv9JMP7VNVdRFcWYzq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWCczIQVdJRp43ZJCdGnrneV9J1_b4v4KWbb2jTxvM1jbV1kM5GC3AvCwNCmALEiPmuEQsoQmtoGS5k0x-QbDIargJjE3ZXRL439LRYWHsYpsvcr3y-JephdHPmzrdUJspysKoZUJQ-d26=w143-h110"
     },
     "col_3": {
-      "text": "Koala",
+      "text": "RG-NEON",
       "links": [
         {
-          "label": "Koala",
-          "url": "https://oopbuy.com/product/1/908427733480?inviteCode=29TOTHGNH"
+          "label": "RG-NEON",
+          "url": "https://oopbuy.com/product/weidian/7234851275?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -49,17 +51,15 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7462455763?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/779786898860?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "88$"
+      "text": "117$"
     },
     "col_6": {
-      "text": "44$"
+      "text": "25$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0397"
+  }
 }

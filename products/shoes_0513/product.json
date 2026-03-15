@@ -1,47 +1,47 @@
 {
-  "name": "Birkenstock Boston",
+  "name": "Dolce & GabbanaSorrento",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7233949100%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7233949100?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/702375225820?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/702375225820?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "22$",
-  "budget_price": "",
-  "pics_text": "",
+  "best_price": "",
+  "budget_price": "25$",
+  "pics_text": "25$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AznZg1Mbf9_WcLoKWEJ_aFiyg-FmTiFSp2g4cj1T4XMXG--sft0bYUJenq6PTwQFwP5IxUEBvBgQzVWLrnXNvpn4Hn-sUjG9cXc4PbApdkNcqzq3sgUYV515OdNVBa1cytmIFY8mSEIOYpP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNnWLbRp-_qIVrrJOVnsMxQ7tRi_MpE6ftp6MWMcs-xnuaktQ5DNQJ6Fl3V3e0Hoq6r5p6J3y55EN3MzSOLOAcE6Kj2Hr77sIchyY4P-K9WRQY3gRcvrMsHaxFl7Msc_qsZsKzyPffeMLS=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0513",
   "raw_cells": {
     "col_0": {
-      "text": "620"
+      "text": "614"
     },
     "col_1": {
-      "text": "Birkenstock Boston"
+      "text": "Dolce & GabbanaSorrento"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AznZg1Mbf9_WcLoKWEJ_aFiyg-FmTiFSp2g4cj1T4XMXG--sft0bYUJenq6PTwQFwP5IxUEBvBgQzVWLrnXNvpn4Hn-sUjG9cXc4PbApdkNcqzq3sgUYV515OdNVBa1cytmIFY8mSEIOYpP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNnWLbRp-_qIVrrJOVnsMxQ7tRi_MpE6ftp6MWMcs-xnuaktQ5DNQJ6Fl3V3e0Hoq6r5p6J3y55EN3MzSOLOAcE6Kj2Hr77sIchyY4P-K9WRQY3gRcvrMsHaxFl7Msc_qsZsKzyPffeMLS=w143-h110"
     },
-    "col_3": {
-      "text": "here",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7233949100?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/702375225820?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "22$"
+    "col_6": {
+      "text": "25$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0513"
+  }
 }

@@ -1,61 +1,74 @@
 {
-  "name": "JAYDEN HybridCardigan Jacket",
+  "name": "Big BoyJeans Shorts(Jorts)",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CPRepsCN",
+  "best_batch": "here/here",
   "best_batch_links": [
     {
-      "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7600394701%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7600394701?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/759570060248?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/759570060248?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/760004754899?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/760004754899?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "70$",
+  "best_price": "17$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://cprepscn.x.yupoo.com/albums/190253977?uid=1&isSubCate=false&referrercate=4543872"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/759570060248"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyHHrNffnfeS3B7B0-1AZnk6xcL2-vjpl3c0Jc39o_rvDMRfGs67BPRu_RmcSgPOrrZWgywJEUwoWF5vYQ0lc0tAyEPkFMj_ncftsNmApjm0uUNe6ZQkbmBTXv3Pu1myxtmi5nUtfrdxw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyApzixRO3E4_foAwOrc5mMEdWR5JVGvCtyDqNaIJwFbxl-sPXvApHVRpl5is2fnk4wozegdNPO5jHS6spwOC3ZYbyYI8sd_alcciJxHZHgN8bsqkYa0-1We2dt3uuWul3ZwN7QQ9v9uLPJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1445",
   "raw_cells": {
     "col_0": {
-      "text": "1062"
+      "text": "1056"
     },
     "col_1": {
-      "text": "JAYDEN HybridCardigan Jacket"
+      "text": "Big BoyJeans Shorts(Jorts)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyHHrNffnfeS3B7B0-1AZnk6xcL2-vjpl3c0Jc39o_rvDMRfGs67BPRu_RmcSgPOrrZWgywJEUwoWF5vYQ0lc0tAyEPkFMj_ncftsNmApjm0uUNe6ZQkbmBTXv3Pu1myxtmi5nUtfrdxw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyApzixRO3E4_foAwOrc5mMEdWR5JVGvCtyDqNaIJwFbxl-sPXvApHVRpl5is2fnk4wozegdNPO5jHS6spwOC3ZYbyYI8sd_alcciJxHZHgN8bsqkYa0-1We2dt3uuWul3ZwN7QQ9v9uLPJ=w143-h110"
     },
     "col_3": {
-      "text": "CPRepsCN",
+      "text": "here/here",
       "links": [
         {
-          "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/weidian/7600394701?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/759570060248?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/760004754899?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "70$"
+      "text": "17$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://cprepscn.x.yupoo.com/albums/190253977?uid=1&isSubCate=false&referrercate=4543872"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/759570060248"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxRcWF_gDtrf2FKlTOrB3sKfDY1hgxvu1HqIx1nrr6psaBJ2uzEUgX273sylycV9SP3jkv_kDC_jum_wB0WcgbNJZVGnAG50VuQIRf_FYTZ3TlCxibVq8T4aFkDU4MwtCHlQsHQ84Y3euT6=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1445"
+  }
 }

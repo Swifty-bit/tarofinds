@@ -1,12 +1,12 @@
 {
-  "name": "AMM(A Ma Maniere)Dusk",
+  "name": "AMM(A Ma Maniere)Dawn",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "Y3",
   "best_batch_links": [
     {
       "label": "Y3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251929780?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwpNOCwU2cXZJ7uTYYT_ExnHDcEe1ssZc_kX5ekQCum6LqkgiXWhj4f9Uk4sEUgKz3Jke5g5iz0jAlb--3ZpwewGrQ_VwUz1gGCEWjw7VOL0Y-FC-70-LnMJbZQbU0fpRqlp-OebAb_NQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYch7_DrVX197kiahX8kDUzgfzxh-0aZ-6ZOWWFu-Ohh4ytFeaoHhRmYRvRNS3JxU_PFKnNrsnubm7r6fDsLL8YmeNk_8rRBAHGU4abbhpzJIKvNq7jhFDAQ9p1Fip4yHxe2f5kZS3WlzM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0286",
   "raw_cells": {
     "col_0": {
       "text": "303"
     },
     "col_1": {
-      "text": "AMM(A Ma Maniere)Dusk"
+      "text": "AMM(A Ma Maniere)Dawn"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwpNOCwU2cXZJ7uTYYT_ExnHDcEe1ssZc_kX5ekQCum6LqkgiXWhj4f9Uk4sEUgKz3Jke5g5iz0jAlb--3ZpwewGrQ_VwUz1gGCEWjw7VOL0Y-FC-70-LnMJbZQbU0fpRqlp-OebAb_NQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYch7_DrVX197kiahX8kDUzgfzxh-0aZ-6ZOWWFu-Ohh4ytFeaoHhRmYRvRNS3JxU_PFKnNrsnubm7r6fDsLL8YmeNk_8rRBAHGU4abbhpzJIKvNq7jhFDAQ9p1Fip4yHxe2f5kZS3WlzM=w143-h110"
     },
     "col_3": {
       "text": "Y3",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "66$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0286"
+  }
 }

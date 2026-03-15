@@ -1,61 +1,47 @@
 {
-  "name": "True ReligionJeansMany Styles",
+  "name": "DSQ2 Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TR",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "TR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F593013405795%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/593013405795?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/733970788689?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/733970788689?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "25$",
+  "best_price": "37$",
   "budget_price": "",
-  "pics_text": "QC Pics",
-  "pics_links": [
-    {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1883062423126118401?&cid=1840597081113280514"
-    }
-  ],
+  "pics_text": "",
+  "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2G2yxsRV64FnkuUqtD_SCthdwAFxqfURGve1-Lk7mtiMkkNgmNqV-ax_J7cx0YK21W1i5wkOs9Mhlj9BopCWIkNihBLk1AEnCIrUIQNyyDlXqENJBeDXqrJWEGTTUqg-YOqSHjz_HSfSS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4LLM0fMgeyhvjkjGaLV6DU8mMU3G6J8IuGQcWEeeWUEwwZVOZkmO5hqfurlAagV3DJKEL_IVckLzVmeSBs_07Ch_FA4YmF53tqceMaNjog9NkoWDSaDdiMUwqKJrE33Vq_bnAe3uauw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1224",
   "raw_cells": {
     "col_0": {
-      "text": "801"
+      "text": "795"
     },
     "col_1": {
-      "text": "True ReligionJeansMany Styles"
+      "text": "DSQ2 Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2G2yxsRV64FnkuUqtD_SCthdwAFxqfURGve1-Lk7mtiMkkNgmNqV-ax_J7cx0YK21W1i5wkOs9Mhlj9BopCWIkNihBLk1AEnCIrUIQNyyDlXqENJBeDXqrJWEGTTUqg-YOqSHjz_HSfSS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4LLM0fMgeyhvjkjGaLV6DU8mMU3G6J8IuGQcWEeeWUEwwZVOZkmO5hqfurlAagV3DJKEL_IVckLzVmeSBs_07Ch_FA4YmF53tqceMaNjog9NkoWDSaDdiMUwqKJrE33Vq_bnAe3uauw=w143-h110"
     },
     "col_3": {
-      "text": "TR",
+      "text": "here",
       "links": [
         {
-          "label": "TR",
-          "url": "https://www.oopbuy.com/product/1/593013405795?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/1/733970788689?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "25$"
-    },
-    "col_7": {
-      "text": "QC Pics",
-      "links": [
-        {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1883062423126118401?&cid=1840597081113280514"
-        }
-      ]
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1224"
+  }
 }

@@ -1,13 +1,13 @@
 {
-  "name": "BalenciagaxUnder Armor",
+  "name": "Burberry",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "CrossProject",
+  "best_batch": "K8",
   "best_batch_links": [
     {
-      "label": "CrossProject",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7490226031%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7490226031?inviteCode=29TOTHGNH"
+      "label": "K8",
+      "url": "https://litbuy.com/product/weidian/7238663898?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7238663898?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1948731465314422786?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952186243732799490?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az5nQSArtzmqgsAVjhDS88CEO5qzp3LOwKX7ikLlwDAzAz1b-CEfs3TilKDtMAel5AeXXbjpH6al141QD4krvtiNYTaZ11Tv-SC-UWPXcgOC8mFRExZDCVdF3m6PLPJfBaV7a0ckf1MwA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwwVr48uRvruze9S4iCUddqh1Wkna_gMQ19wL9spB6LZD92wIPJpnxlNVG92gcUetWRhqNglwLPXW2rbXiK2wAPTp7OhzJZU-Jq6AqMyVhuGQ4-KmBzWx3CpgAjPqKLt_ZpR0C1lZ7ibw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1574",
   "raw_cells": {
     "col_0": {
-      "text": "36"
+      "text": "31"
     },
     "col_1": {
-      "text": "BalenciagaxUnder Armor"
+      "text": "Burberry"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az5nQSArtzmqgsAVjhDS88CEO5qzp3LOwKX7ikLlwDAzAz1b-CEfs3TilKDtMAel5AeXXbjpH6al141QD4krvtiNYTaZ11Tv-SC-UWPXcgOC8mFRExZDCVdF3m6PLPJfBaV7a0ckf1MwA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwwVr48uRvruze9S4iCUddqh1Wkna_gMQ19wL9spB6LZD92wIPJpnxlNVG92gcUetWRhqNglwLPXW2rbXiK2wAPTp7OhzJZU-Jq6AqMyVhuGQ4-KmBzWx3CpgAjPqKLt_ZpR0C1lZ7ibw=w143-h110"
     },
     "col_3": {
-      "text": "CrossProject",
+      "text": "K8",
       "links": [
         {
-          "label": "CrossProject",
-          "url": "https://oopbuy.com/product/weidian/7490226031?inviteCode=29TOTHGNH"
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7238663898?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1948731465314422786?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952186243732799490?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1574"
+  }
 }

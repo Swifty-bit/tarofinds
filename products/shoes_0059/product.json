@@ -1,47 +1,56 @@
 {
-  "name": "GT Cuts",
+  "name": "P6000",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PasserBy",
+  "best_batch": "Repsun/CS",
   "best_batch_links": [
     {
-      "label": "PasserBy",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7326134019%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7326134019?inviteCode=29TOTHGNH"
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/taobao/7283111701?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7283111701?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "CS",
+      "url": "https://litbuy.com/product/weidian/7388600956?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7388600956?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "38$",
+  "best_price": "35$ / 31$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwNsvoIurVew4ikS8udK3AkZe943Bgh78ocY01SttLfSW6EUcCrHgnHqgQYZjcrrVATcsE4bnIOiqsoALo1N90nx9bGgrenz0MRczbIUdIDyPE7PstOPsF4DxqypiQUoUVZZP5uk3LwOPPR=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzO16gIxha5esagX8H5eLK6crZda1PrxEtf7kPVy_mMOM0k8T782pWRUCh_HZ_JX1llLL_p2uDVzBgdZ96gwqdohSgpRSQFuARTO_X4HeoyTziRE4Svwvh-zEk0HYFdSSgVkCIFj1AxGl-x=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0059",
   "raw_cells": {
     "col_0": {
       "text": "66"
     },
     "col_1": {
-      "text": "GT Cuts"
+      "text": "P6000"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwNsvoIurVew4ikS8udK3AkZe943Bgh78ocY01SttLfSW6EUcCrHgnHqgQYZjcrrVATcsE4bnIOiqsoALo1N90nx9bGgrenz0MRczbIUdIDyPE7PstOPsF4DxqypiQUoUVZZP5uk3LwOPPR=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzO16gIxha5esagX8H5eLK6crZda1PrxEtf7kPVy_mMOM0k8T782pWRUCh_HZ_JX1llLL_p2uDVzBgdZ96gwqdohSgpRSQFuARTO_X4HeoyTziRE4Svwvh-zEk0HYFdSSgVkCIFj1AxGl-x=w143-h110"
     },
     "col_3": {
-      "text": "PasserBy",
+      "text": "Repsun/CS",
       "links": [
         {
-          "label": "PasserBy",
-          "url": "https://oopbuy.com/product/2/7326134019?inviteCode=29TOTHGNH"
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/2/7283111701?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "CS",
+          "url": "https://oopbuy.com/product/weidian/7388600956?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "35$ / 31$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0059"
+  }
 }

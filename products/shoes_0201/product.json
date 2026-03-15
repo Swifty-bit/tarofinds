@@ -1,33 +1,41 @@
 {
-  "name": "SP J Balvin Rio",
+  "name": "SP J Balvin Medellín Sunset",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "66$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "29$",
+  "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwfKOdnUqMywMujXhFv8U7q744KE3QiMMqO-0LWzfcV9E0-bmo_ifi9lhx8hA-2KhAj3c1LqllA8Xq8csrnjVoXo7Kxx79FFVyrmwZgWDw8gLF48YlfePqVRLgnfc2VNsF-eOFzN0GSpoSg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay9JVz1UmR_YNVfqqHCHHrGykAdz_xjq5aLb3xuI7QAMrnZTNhNG8p-QAyaVYVBrDCktDzzft8EhCjt8j7yHop4k_ITiDSKkSCL7LxfchMIDJWFim5GHF-4aCO4_BagF5C1ijJFT68Uc_Sz=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0201",
   "raw_cells": {
     "col_0": {
       "text": "214"
     },
     "col_1": {
-      "text": "SP J Balvin Rio"
+      "text": "SP J Balvin Medellín Sunset"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwfKOdnUqMywMujXhFv8U7q744KE3QiMMqO-0LWzfcV9E0-bmo_ifi9lhx8hA-2KhAj3c1LqllA8Xq8csrnjVoXo7Kxx79FFVyrmwZgWDw8gLF48YlfePqVRLgnfc2VNsF-eOFzN0GSpoSg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay9JVz1UmR_YNVfqqHCHHrGykAdz_xjq5aLb3xuI7QAMrnZTNhNG8p-QAyaVYVBrDCktDzzft8EhCjt8j7yHop4k_ITiDSKkSCL7LxfchMIDJWFim5GHF-4aCO4_BagF5C1ijJFT68Uc_Sz=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "66$"
+    },
+    "col_6": {
+      "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0201"
+  }
 }

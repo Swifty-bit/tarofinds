@@ -1,61 +1,61 @@
 {
-  "name": "VetementsSplit BridgesZip Up Hoodie",
+  "name": "VetementsUFO Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
       "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F850489787388%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/850489787388?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/839631042274?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/839631042274?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "66$",
+  "best_price": "57$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/179560919?uid=1&isSubCate=false&referrercate=4736074"
+      "url": "https://mvt-shop01.x.yupoo.com/albums/173691586?uid=1&isSubCate=false&referrercate=4651184"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyPg4cirdx0SM2i7fV89ge1k9L9B1iQQyU8cNh_cm1CLVwi_wBk3J4gRs7GQ0dMJ_Iexa7IRkvyC2suso40TJVoLEYurb5bEbZ4Nj6qant_gfCsAsApRRFMcZ8P7FV7rbEmG7WLDuuLS3yE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AydZjnuO2n5t2Bf-p-fd2C2hc4KQgzIsML8Ipwr-rRNhyh5IF_W7LHNYnUpNKIybgu5Ib1o8BybWBJVQIsK5zTKR80fZP-mcSJFejPq-cUgHzzm5MAS7mxc4CF5EjjYhzHsQYP5c0c00g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1120",
   "raw_cells": {
     "col_0": {
-      "text": "675"
+      "text": "671"
     },
     "col_1": {
-      "text": "VetementsSplit BridgesZip Up Hoodie"
+      "text": "VetementsUFO Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyPg4cirdx0SM2i7fV89ge1k9L9B1iQQyU8cNh_cm1CLVwi_wBk3J4gRs7GQ0dMJ_Iexa7IRkvyC2suso40TJVoLEYurb5bEbZ4Nj6qant_gfCsAsApRRFMcZ8P7FV7rbEmG7WLDuuLS3yE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AydZjnuO2n5t2Bf-p-fd2C2hc4KQgzIsML8Ipwr-rRNhyh5IF_W7LHNYnUpNKIybgu5Ib1o8BybWBJVQIsK5zTKR80fZP-mcSJFejPq-cUgHzzm5MAS7mxc4CF5EjjYhzHsQYP5c0c00g=w143-h110"
     },
     "col_3": {
       "text": "mvt-shop01",
       "links": [
         {
           "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/850489787388?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/839631042274?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "66$"
+      "text": "57$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/179560919?uid=1&isSubCate=false&referrercate=4736074"
+          "url": "https://mvt-shop01.x.yupoo.com/albums/173691586?uid=1&isSubCate=false&referrercate=4651184"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1120"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "StussyTOUGH GEARHoodie",
+  "name": "StussySURFWALK Crewneck",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Chaosmade",
   "best_batch_links": [
     {
       "label": "Chaosmade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7282446197%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7282446197?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7283428350?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7283428350?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "23$",
+  "best_price": "21$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://chaosmade.x.yupoo.com/albums/176655718?uid=1&isSubCate=false&referrercate=3536981"
+      "url": "https://chaosmade.x.yupoo.com/albums/176655602?uid=1&isSubCate=false&referrercate=3536981"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwuZCp9L64SYi7RcvdIhdeqSdcuPVD6pLmNEAy2BDxRGCaPeJXdv27c4-fHeR_b_4If6D1SVvv6lSl5XLgprPJRlVFrpnOKpx1ffLNSCny_IhXQiHKrAukikhWffp9Qhg_SYPW37ui2eMOd=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw5AxWslnfp-79avXOcKI3gH49XJlLcbk2acgX-c3P-qmG2AKPThtvl0WK8RXMgsegWKumlvCuIc7jIDJMk4z-HnSkkHkwhwnr1JtPqxQC4C-6heDLRzbUQq5poqe31_SZx2kEj2TyiQ2Q-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0592",
   "raw_cells": {
     "col_0": {
-      "text": "61"
+      "text": "57"
     },
     "col_1": {
-      "text": "StussyTOUGH GEARHoodie"
+      "text": "StussySURFWALK Crewneck"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwuZCp9L64SYi7RcvdIhdeqSdcuPVD6pLmNEAy2BDxRGCaPeJXdv27c4-fHeR_b_4If6D1SVvv6lSl5XLgprPJRlVFrpnOKpx1ffLNSCny_IhXQiHKrAukikhWffp9Qhg_SYPW37ui2eMOd=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw5AxWslnfp-79avXOcKI3gH49XJlLcbk2acgX-c3P-qmG2AKPThtvl0WK8RXMgsegWKumlvCuIc7jIDJMk4z-HnSkkHkwhwnr1JtPqxQC4C-6heDLRzbUQq5poqe31_SZx2kEj2TyiQ2Q-=w143-h110"
     },
     "col_3": {
       "text": "Chaosmade",
       "links": [
         {
           "label": "Chaosmade",
-          "url": "https://www.oopbuy.com/product/weidian/7282446197?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7283428350?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "21$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://chaosmade.x.yupoo.com/albums/176655718?uid=1&isSubCate=false&referrercate=3536981"
+          "url": "https://chaosmade.x.yupoo.com/albums/176655602?uid=1&isSubCate=false&referrercate=3536981"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0592"
+  }
 }

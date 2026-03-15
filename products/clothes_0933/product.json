@@ -1,87 +1,61 @@
 {
-  "name": "Syna TracksuitHoodie & PantsBlack/Black",
+  "name": "Syna WorldVarsity CrewSweater",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "elephant",
   "best_batch_links": [
     {
       "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243584407%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7243584407?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7375189530?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7375189530?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F736632475800%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "46$(SET)",
-  "budget_price": "10$(SET)",
-  "pics_text": "elephant/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "27$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "elephant",
-      "url": "https://elephant-factory.x.yupoo.com/albums/166776176?uid=1&isSubCate=false&referrercate=4564614"
-    },
-    {
-      "label": "budget",
-      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
+      "label": "pics",
+      "url": "https://elephant-factory.x.yupoo.com/albums/184641081?uid=1&isSubCate=false&referrercate=4564614"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayj_m36NOuouGUECKt08BmPGK7qPNORTqLtj-EwOomI3nxsNag-yiwZSwQMBJXJ1Bi6hzK1wZJDLi_O8mEU8J5sImObqXGNdMI0Lkhy9WM_wwEWXIkn2Q98j01F41ML877G1_hMV9B7oz5H=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AymwNxgx7RV3qM6YqjTTm5wEwBaEPzW5lzUb4QpFOxTwDUhS-MSsGwrrbGRWQUCuFPrSzgLwzHGX_msG3acYAqMDnE28aKWdhkiWKfHIIF6k5Fo4WgjAdMs7vPKaSGt1u9ONTxm7IrNP7yK=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0933",
   "raw_cells": {
     "col_0": {
-      "text": "460"
+      "text": "456"
     },
     "col_1": {
-      "text": "Syna TracksuitHoodie & PantsBlack/Black"
+      "text": "Syna WorldVarsity CrewSweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayj_m36NOuouGUECKt08BmPGK7qPNORTqLtj-EwOomI3nxsNag-yiwZSwQMBJXJ1Bi6hzK1wZJDLi_O8mEU8J5sImObqXGNdMI0Lkhy9WM_wwEWXIkn2Q98j01F41ML877G1_hMV9B7oz5H=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AymwNxgx7RV3qM6YqjTTm5wEwBaEPzW5lzUb4QpFOxTwDUhS-MSsGwrrbGRWQUCuFPrSzgLwzHGX_msG3acYAqMDnE28aKWdhkiWKfHIIF6k5Fo4WgjAdMs7vPKaSGt1u9ONTxm7IrNP7yK=w143-h110"
     },
     "col_3": {
       "text": "elephant",
       "links": [
         {
           "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7243584407?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7375189530?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$(SET)"
-    },
-    "col_6": {
-      "text": "10$(SET)"
+      "text": "27$"
     },
     "col_7": {
-      "text": "elephant/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://elephant-factory.x.yupoo.com/albums/166776176?uid=1&isSubCate=false&referrercate=4564614"
-        },
-        {
-          "label": "budget",
-          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
+          "label": "pics",
+          "url": "https://elephant-factory.x.yupoo.com/albums/184641081?uid=1&isSubCate=false&referrercate=4564614"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0933"
+  }
 }

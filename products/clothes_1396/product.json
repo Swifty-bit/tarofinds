@@ -1,61 +1,90 @@
 {
-  "name": "Burberry Hoodie",
+  "name": "BurberryZipped Hoodie(hood and inside pattern)",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Thunder",
   "best_batch_links": [
     {
       "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7247271045%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7247271045?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7525090001?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7525090001?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "52$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "bysh2017",
+  "budget_batch_links": [
+    {
+      "label": "bysh2017",
+      "url": "https://litbuy.com/product/weidian/997694063160?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/997694063160?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "50$",
+  "budget_price": "26$",
+  "pics_text": "thunder/bysh2017",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://thethunder.x.yupoo.com/albums/143022189?uid=1&isSubCate=false&referrercate=3972377"
+      "label": "thunder",
+      "url": "https://thethunder.x.yupoo.com/albums/120632874?uid=1"
+    },
+    {
+      "label": "bysh2017",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2018996965784768514?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzndUgTScIGRScQXLT_fE6ZcBu_M8TOFfUIbZS-thdqv6EJ0eu33ZqmF3UruNVqx6Slcjq7P2v46V4F3tCr4K2MjGYrCIf-vS1abxoazuBdl7GbONvdzzoJMz-e-9xnXZuQ3BE8BjoCYKDP=w143-h110",
+  "notes": "Hood and inside pattern",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJoVWDEGWaUtvv1I4vD_QS73tSWoCGBgqDukyy6ySunRKVONmLnCLp2X9oJneo0c3NA8FRqu00O5-FS5X5AkTEtoTGVsn6smkwRDt_Xv3mrq0InGikWED9SSYRBWOwmtEyFUzLvt2g3nX-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1396",
   "raw_cells": {
     "col_0": {
-      "text": "1003"
+      "text": "999"
     },
     "col_1": {
-      "text": "Burberry Hoodie"
+      "text": "BurberryZipped Hoodie(hood and inside pattern)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzndUgTScIGRScQXLT_fE6ZcBu_M8TOFfUIbZS-thdqv6EJ0eu33ZqmF3UruNVqx6Slcjq7P2v46V4F3tCr4K2MjGYrCIf-vS1abxoazuBdl7GbONvdzzoJMz-e-9xnXZuQ3BE8BjoCYKDP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJoVWDEGWaUtvv1I4vD_QS73tSWoCGBgqDukyy6ySunRKVONmLnCLp2X9oJneo0c3NA8FRqu00O5-FS5X5AkTEtoTGVsn6smkwRDt_Xv3mrq0InGikWED9SSYRBWOwmtEyFUzLvt2g3nX-=w143-h110"
     },
     "col_3": {
       "text": "Thunder",
       "links": [
         {
           "label": "Thunder",
-          "url": "https://www.oopbuy.com/product/weidian/7247271045?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7525090001?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "bysh2017",
+      "links": [
+        {
+          "label": "bysh2017",
+          "url": "https://oopbuy.com/product/1/997694063160?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "52$"
+      "text": "50$"
+    },
+    "col_6": {
+      "text": "26$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "thunder/bysh2017",
       "links": [
         {
-          "label": "pics",
-          "url": "https://thethunder.x.yupoo.com/albums/143022189?uid=1&isSubCate=false&referrercate=3972377"
+          "label": "thunder",
+          "url": "https://thethunder.x.yupoo.com/albums/120632874?uid=1"
+        },
+        {
+          "label": "bysh2017",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2018996965784768514?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "Hood and inside pattern"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1396"
+  }
 }

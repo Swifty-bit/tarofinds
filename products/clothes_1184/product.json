@@ -1,61 +1,61 @@
 {
-  "name": "Supreme 19FW Bandana Hoodie",
+  "name": "Supreme 22FW Crewneck Sweatshirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "TeenageClub",
   "best_batch_links": [
     {
       "label": "TeenageClub",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F610091368671%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/610091368671?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/707383555387?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/707383555387?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "46$",
+  "best_price": "43$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1955797453885231105?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1919920793200934914?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBoGWsgcALsTzhDTaKla3Ywpc8CULGz49zcr6mdxvBl6j1Wng5FS2WAElsDvqD0s-mCdN1ylaXy4e2i_sUxeIIGCqsG-7E3UfE_iQ2B4q8FmXwWhFrkQZsJD_dvV1AydzvaYF26AhR24kE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFkQmbfa0HDw91imd9pbUUVenXjOXK2ibljetOtHLMoJUEiKjWF2054yhMpRT0fzELQvJRdtk1XyZ_whcGoY43qzT27nNohiYhXg1Lx81bwer5iQrY1YrdjOeWTgfvSyHQKMsfTAH5zyvq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1184",
   "raw_cells": {
     "col_0": {
-      "text": "753"
+      "text": "749"
     },
     "col_1": {
-      "text": "Supreme 19FW Bandana Hoodie"
+      "text": "Supreme 22FW Crewneck Sweatshirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBoGWsgcALsTzhDTaKla3Ywpc8CULGz49zcr6mdxvBl6j1Wng5FS2WAElsDvqD0s-mCdN1ylaXy4e2i_sUxeIIGCqsG-7E3UfE_iQ2B4q8FmXwWhFrkQZsJD_dvV1AydzvaYF26AhR24kE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFkQmbfa0HDw91imd9pbUUVenXjOXK2ibljetOtHLMoJUEiKjWF2054yhMpRT0fzELQvJRdtk1XyZ_whcGoY43qzT27nNohiYhXg1Lx81bwer5iQrY1YrdjOeWTgfvSyHQKMsfTAH5zyvq=w143-h110"
     },
     "col_3": {
       "text": "TeenageClub",
       "links": [
         {
           "label": "TeenageClub",
-          "url": "https://oopbuy.com/product/1/610091368671?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/707383555387?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "43$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1955797453885231105?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1919920793200934914?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1184"
+  }
 }

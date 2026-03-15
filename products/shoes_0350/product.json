@@ -1,47 +1,47 @@
 {
-  "name": "2002r",
+  "name": "Air Yeezy 2Red October",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZC",
+  "best_batch": "WWTOP",
   "best_batch_links": [
     {
-      "label": "ZC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7255132290%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7255132290?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7565901092?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565901092?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "43$",
+  "best_price": "108$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxT6sTDpb3gH1QhPEGba1-KPa_u9zoDfcsJgi6_vVu6d4d5B8JtmsRD38xyPUamvgtC88HPlwe5kuRsHCGr-yulzJV72aPII0LCD0N2Q7o3FDXv6RjkKVsm8i9U2P4QRTP-U4eKW40AQmef=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFpKNj1WJ7wrHiDAOjwkK_OKlfQViehuMpmL6hvQphflVf8QJJOrjhGGIgeiS92l1ZWp9MFQd_5QNhwAptWbOgKGsRcwK_ysDE6Al55cjPW_HsDebqaMtyHb5YX84ymvUXY8MJEY0c26Cr=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0350",
   "raw_cells": {
     "col_0": {
-      "text": "383"
+      "text": "381"
     },
     "col_1": {
-      "text": "2002r"
+      "text": "Air Yeezy 2Red October"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxT6sTDpb3gH1QhPEGba1-KPa_u9zoDfcsJgi6_vVu6d4d5B8JtmsRD38xyPUamvgtC88HPlwe5kuRsHCGr-yulzJV72aPII0LCD0N2Q7o3FDXv6RjkKVsm8i9U2P4QRTP-U4eKW40AQmef=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFpKNj1WJ7wrHiDAOjwkK_OKlfQViehuMpmL6hvQphflVf8QJJOrjhGGIgeiS92l1ZWp9MFQd_5QNhwAptWbOgKGsRcwK_ysDE6Al55cjPW_HsDebqaMtyHb5YX84ymvUXY8MJEY0c26Cr=w143-h110"
     },
     "col_3": {
-      "text": "ZC",
+      "text": "WWTOP",
       "links": [
         {
-          "label": "ZC",
-          "url": "https://oopbuy.com/product/2/7255132290?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565901092?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
+      "text": "108$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0350"
+  }
 }

@@ -1,79 +1,61 @@
 {
-  "name": "Eric EmanuelShorts SS238 Colours",
+  "name": "Chrome HeartsCapMany Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
-  "best_batch_links": [
-    {
-      "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792523315502%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792523315502?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "UnionKingdom",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/892174573738?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/892174573738?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "23$",
-  "budget_price": "15$",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/146646918?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1995681102654689281?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxM5pCkVJXBft4w8NtggqMTtxLUlXiAo7ESG6D-NGwrexY2yLQfL701q18trX3hshu5BYzJmVJoNSm6Vuw2Uh2YR_wWPF7pbwvYkL3eaWDL3khf6MgbhSWmkw2-jsEMLW7M12X-jHMIbg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwMnD2vLAkd7WGjfqlqUrBlAnxa6Z4JPz2_9nrMFuZTgaOHMnSmhGxDAhAAAgeSPwBnWz29D9Czem8VAn0FMFv5bJTnxeRq9CWmclKjLXT0pDEcFfpx30mhbWQ41AURhGcbQzkBQgr4mtnL=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1363",
   "raw_cells": {
     "col_0": {
-      "text": "964"
+      "text": "958"
     },
     "col_1": {
-      "text": "Eric EmanuelShorts SS238 Colours"
+      "text": "Chrome HeartsCapMany Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxM5pCkVJXBft4w8NtggqMTtxLUlXiAo7ESG6D-NGwrexY2yLQfL701q18trX3hshu5BYzJmVJoNSm6Vuw2Uh2YR_wWPF7pbwvYkL3eaWDL3khf6MgbhSWmkw2-jsEMLW7M12X-jHMIbg=w143-h110"
-    },
-    "col_3": {
-      "text": "Angelking",
-      "links": [
-        {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792523315502?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMnD2vLAkd7WGjfqlqUrBlAnxa6Z4JPz2_9nrMFuZTgaOHMnSmhGxDAhAAAgeSPwBnWz29D9Czem8VAn0FMFv5bJTnxeRq9CWmclKjLXT0pDEcFfpx30mhbWQ41AURhGcbQzkBQgr4mtnL=w143-h110"
     },
     "col_4": {
-      "text": "UnionKingdom",
+      "text": "budget",
       "links": [
         {
-          "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/892174573738?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "23$"
-    },
     "col_6": {
-      "text": "15$"
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/146646918?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1995681102654689281?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1363"
+  }
 }

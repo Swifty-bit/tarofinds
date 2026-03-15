@@ -1,61 +1,61 @@
 {
-  "name": "Off White xLouis VuittonVarsity Jacket",
+  "name": "Travis ScottHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "best",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
     {
-      "label": "best",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4530362102%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4530362102?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/651454028707?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/651454028707?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "30$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "10$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1918109266634391554?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1909480978899349506?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxIAy3Xs4_qtsoR2gF4vG9Tvvmsul2tYpRWCI9wB1yhSeDlZsnZ5ACmDed0piUIv-S18DZOSUJ1begl9HPm3Os2I9PO2LmjZAi1sjdu2ZMvZHfxq6za2SjKBgWg-dz0oMai1iOsDQvzuQ_D=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9XffIwuWiuF5h6FSowhRjFABvgowZjJIx75d2ZqCjonO96X6loz7zvFXl-HLvEeN28ORnFu0jR3fh7ZbnJiLfRTSmSQiam-NZGjvCdEnQbTNmPfi88sGlDuSwk9YxX3cd7XmfsWE9q8hq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0658",
   "raw_cells": {
     "col_0": {
-      "text": "135"
+      "text": "129"
     },
     "col_1": {
-      "text": "Off White xLouis VuittonVarsity Jacket"
+      "text": "Travis ScottHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxIAy3Xs4_qtsoR2gF4vG9Tvvmsul2tYpRWCI9wB1yhSeDlZsnZ5ACmDed0piUIv-S18DZOSUJ1begl9HPm3Os2I9PO2LmjZAi1sjdu2ZMvZHfxq6za2SjKBgWg-dz0oMai1iOsDQvzuQ_D=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9XffIwuWiuF5h6FSowhRjFABvgowZjJIx75d2ZqCjonO96X6loz7zvFXl-HLvEeN28ORnFu0jR3fh7ZbnJiLfRTSmSQiam-NZGjvCdEnQbTNmPfi88sGlDuSwk9YxX3cd7XmfsWE9q8hq=w143-h110"
     },
-    "col_3": {
-      "text": "best",
+    "col_4": {
+      "text": "FFCP",
       "links": [
         {
-          "label": "best",
-          "url": "https://oopbuy.com/product/2/4530362102?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/651454028707?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "30$"
+    "col_6": {
+      "text": "10$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1918109266634391554?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1909480978899349506?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0658"
+  }
 }

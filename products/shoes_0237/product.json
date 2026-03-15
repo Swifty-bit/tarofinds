@@ -1,44 +1,41 @@
 {
-  "name": "Black Canvas",
+  "name": "Midnight Navy",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "NEW R1/KX",
+  "budget_batch": "KX",
   "budget_batch_links": [
     {
-      "label": "NEW R1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328101882%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "66$",
-  "budget_price": "45$ / 37$",
-  "pics_text": "45$ / 37$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzKOc9sOTPS0dnxyuz6HZoof3AubDy8R_z-5X7DkhYW_sbRQeP0ujiAwDmD1G-O9fI0N1qJJ1zrXqDo3XdEgbNCLzKwSZnz5twB6p8FWgLZMBwJqJ_QD_0O5y823SU2FlJe3eeMcHzXBTrN=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aybh85kI5YH9Gvo0rvL6YY_4x-Nk177c-fXfL3EKlgwPhPQ_0HVrWXF32jDTgxJ-7N0qsWxQrgv7JWsRAiX7SJM5mCJP-JjIa4AfdQ5C0u5F9YflSxbn40x195aQv4AfI0gnxvsQCprVI9V=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0237",
   "raw_cells": {
     "col_0": {
       "text": "252"
     },
     "col_1": {
-      "text": "Black Canvas"
+      "text": "Midnight Navy"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzKOc9sOTPS0dnxyuz6HZoof3AubDy8R_z-5X7DkhYW_sbRQeP0ujiAwDmD1G-O9fI0N1qJJ1zrXqDo3XdEgbNCLzKwSZnz5twB6p8FWgLZMBwJqJ_QD_0O5y823SU2FlJe3eeMcHzXBTrN=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aybh85kI5YH9Gvo0rvL6YY_4x-Nk177c-fXfL3EKlgwPhPQ_0HVrWXF32jDTgxJ-7N0qsWxQrgv7JWsRAiX7SJM5mCJP-JjIa4AfdQ5C0u5F9YflSxbn40x195aQv4AfI0gnxvsQCprVI9V=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -50,12 +47,8 @@
       ]
     },
     "col_4": {
-      "text": "NEW R1/KX",
+      "text": "KX",
       "links": [
-        {
-          "label": "NEW R1",
-          "url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
-        },
         {
           "label": "KX",
           "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
@@ -66,9 +59,7 @@
       "text": "66$"
     },
     "col_6": {
-      "text": "45$ / 37$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0237"
+  }
 }

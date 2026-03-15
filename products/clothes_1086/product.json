@@ -1,61 +1,87 @@
 {
-  "name": "MertraxUmbroWarm Up Hoodie",
+  "name": "MertraBigstep Denim(Indigo) Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "pengreps",
+  "best_batch": "elephant",
   "best_batch_links": [
     {
-      "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7626932092%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7626932092?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7542222438?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7542222438?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "36$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "30$",
+  "budget_price": "20$",
+  "pics_text": "elephant/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://pengreps.x.yupoo.com/albums/218863297?uid=1&isSubCate=false&referrercate=4856023"
+      "label": "elephant",
+      "url": "https://elephant-factory.x.yupoo.com/albums/208987349?uid=1&isSubCate=false&referrercate=5000643"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBXY9jnVl6eODWAejW0AU3offq_md4NeuentIZHGQg8zUJNA5_n8uWKxl9SsYGeCobWFHyY2kyJNwDUxmlhnu8a_pV9pG7vdHjgq00JMejkV_5fOvU3G5yRRDcRGCO2A8zrUVomSfhNvKV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwfXW7ieLCK24pYQ_bWfJ-T0R_Ivgc69PerxwmV9rGJJCyhSU4xFhVmJrPLxIUzl3mUByD0SwLfeP7b2wC9rGdBaHC1OQ_NKmCp-hfYUmos_a-Uw6FMwKMFZM0hU9HEqf0UwCYm4tmnucV4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1086",
   "raw_cells": {
     "col_0": {
-      "text": "637"
+      "text": "633"
     },
     "col_1": {
-      "text": "MertraxUmbroWarm Up Hoodie"
+      "text": "MertraBigstep Denim(Indigo) Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBXY9jnVl6eODWAejW0AU3offq_md4NeuentIZHGQg8zUJNA5_n8uWKxl9SsYGeCobWFHyY2kyJNwDUxmlhnu8a_pV9pG7vdHjgq00JMejkV_5fOvU3G5yRRDcRGCO2A8zrUVomSfhNvKV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwfXW7ieLCK24pYQ_bWfJ-T0R_Ivgc69PerxwmV9rGJJCyhSU4xFhVmJrPLxIUzl3mUByD0SwLfeP7b2wC9rGdBaHC1OQ_NKmCp-hfYUmos_a-Uw6FMwKMFZM0hU9HEqf0UwCYm4tmnucV4=w143-h110"
     },
     "col_3": {
-      "text": "pengreps",
+      "text": "elephant",
       "links": [
         {
-          "label": "pengreps",
-          "url": "https://oopbuy.com/product/weidian/7626932092?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7542222438?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "36$"
+      "text": "30$"
+    },
+    "col_6": {
+      "text": "20$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "elephant/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://pengreps.x.yupoo.com/albums/218863297?uid=1&isSubCate=false&referrercate=4856023"
+          "label": "elephant",
+          "url": "https://elephant-factory.x.yupoo.com/albums/208987349?uid=1&isSubCate=false&referrercate=5000643"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1086"
+  }
 }

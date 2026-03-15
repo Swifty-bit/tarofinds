@@ -1,65 +1,53 @@
 {
-  "name": "\"NYC to RIO\" Denim black",
+  "name": "\"blossom v2\" Denim blackJeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
-  "best_batch_links": [
-    {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7558260508%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7558260508?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "-",
+  "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "50$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/211118435?uid=1&isSubCate=false&referrercate=5006226"
+      "url": "https://hotders.x.yupoo.com/albums/203164134?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw7RmuBsFEyknmMUCbAtOY6BEaZZgb161TiDXmTH9ht-mNZaB5DbX3bfEAujl9OFWXYAC8Ct8LWlZE3StPDa91b0myCHu_dDiKApkkTdge9ejXHU-nxW0_VNZvh28SJL6KVDB2EnR-JGQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aymc_2FNEho4r80MJbIwDYsGbqUQm0g4zee076I3lnbVC_p1CUENbHI_hn10DH0uxKgQrVyzZMwtW4ybt48ClqueoHNjFhzdMuShZwD3EGUbthCrlaa8-H6SSzxgM_SVmbnPP8VqgFX6w=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0883",
   "raw_cells": {
     "col_0": {
-      "text": "400"
+      "text": "396"
     },
     "col_1": {
-      "text": "\"NYC to RIO\" Denim black"
+      "text": "\"blossom v2\" Denim blackJeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw7RmuBsFEyknmMUCbAtOY6BEaZZgb161TiDXmTH9ht-mNZaB5DbX3bfEAujl9OFWXYAC8Ct8LWlZE3StPDa91b0myCHu_dDiKApkkTdge9ejXHU-nxW0_VNZvh28SJL6KVDB2EnR-JGQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aymc_2FNEho4r80MJbIwDYsGbqUQm0g4zee076I3lnbVC_p1CUENbHI_hn10DH0uxKgQrVyzZMwtW4ybt48ClqueoHNjFhzdMuShZwD3EGUbthCrlaa8-H6SSzxgM_SVmbnPP8VqgFX6w=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
-      "links": [
-        {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7558260508?inviteCode=29TOTHGNH"
-        }
-      ]
+      "text": "-"
     },
     "col_5": {
-      "text": "30$"
+      "text": "50$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/211118435?uid=1&isSubCate=false&referrercate=5006226"
+          "url": "https://hotders.x.yupoo.com/albums/203164134?uid=1"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxaH5W1e6sSr3nILkvTXUBVlQC5InDrn7p046i0F_XyiByJLqNVfilm6pjJ0xKcUwSDi0y_bf1uQULl6A3LTO6TX_CPwUOyadSjv-AWNK1JP0n_9PFMsvAyEPgAKKmTugpGxPTb3P-99-MY=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzR59-HmIiuE3kkaVjzaYgAROwg9b-H3M-3zv16K9sOUp2R9iDXRVuHmynMI-Sa0wzvr-RQ5ikP8jVcOKVvCW1qv-SdB3TKOBDL6Dn3YcIEjZom7kSJOSQLRz5YHJrO8gQbwLAXq7XA1Uop=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0883"
+  }
 }

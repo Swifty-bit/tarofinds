@@ -1,5 +1,5 @@
 {
-  "name": "Gucci Rhyton",
+  "name": "OnCloudswift 3 AD",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "",
@@ -8,40 +8,40 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F680697169947%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/680697169947?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/808318845734?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/808318845734?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "20$",
-  "pics_text": "20$",
+  "budget_price": "22$",
+  "pics_text": "22$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azjy39Gz-UM325lgqXwshC7N_LV2OP5-4RORyk3Ewt5CVduF0uZYAOANiXSQTmMg0ZZR-48zCYZxfmu9T4ClVOavGquhzjK-9u6gDAA0n4hQ9gWcJs3pA8LzKD9D10NGU0HuOVWSJSxRm0W=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEWrwy0ZrZK10uDGpUp2xxruLPZzLag6gFtdt5RENy5xQngukalJH1NT2vcRbq4g0uSCqAQkljRnOzmqhUFI9ev5IATfIAA0ZCwcJ4h23t9G7gBgBZMtonj1aDumC25Or-ckdX9Gkhjs3L=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0502",
   "raw_cells": {
     "col_0": {
-      "text": "595"
+      "text": "589"
     },
     "col_1": {
-      "text": "Gucci Rhyton"
+      "text": "OnCloudswift 3 AD"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azjy39Gz-UM325lgqXwshC7N_LV2OP5-4RORyk3Ewt5CVduF0uZYAOANiXSQTmMg0ZZR-48zCYZxfmu9T4ClVOavGquhzjK-9u6gDAA0n4hQ9gWcJs3pA8LzKD9D10NGU0HuOVWSJSxRm0W=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEWrwy0ZrZK10uDGpUp2xxruLPZzLag6gFtdt5RENy5xQngukalJH1NT2vcRbq4g0uSCqAQkljRnOzmqhUFI9ev5IATfIAA0ZCwcJ4h23t9G7gBgBZMtonj1aDumC25Or-ckdX9Gkhjs3L=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/680697169947?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/808318845734?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "20$"
+      "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0502"
+  }
 }

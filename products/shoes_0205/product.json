@@ -1,33 +1,41 @@
 {
-  "name": "Nina ChanelAbney Bicoastal",
+  "name": "Off Noir",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "63$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "29$",
+  "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3Aou-KVOzCihO-fRxAmzzNsY8d7xx09sXiA3MLqo-K0168zkDijXocsStS7roXrdA97-T4jnZlKxVOUKxf_e31oEY_6EFh4rW9bZbtrkYxmv8MwGjoUQt-9Os04NmwXR9dPuUIs5P8A=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azzkq_mcskkaF1guu9JEUV8jskyAqybEPwsoEB9o59a3pJv1BvZiKFZ4mDi-XiAEKUMut9DsspDFwLlwj9IQy1FG-5awDQIYmQ20f0qqm-zp_2G75PJWpVG0Io4mwDtZ-UVgWIWNvn61mRP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0205",
   "raw_cells": {
     "col_0": {
       "text": "218"
     },
     "col_1": {
-      "text": "Nina ChanelAbney Bicoastal"
+      "text": "Off Noir"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3Aou-KVOzCihO-fRxAmzzNsY8d7xx09sXiA3MLqo-K0168zkDijXocsStS7roXrdA97-T4jnZlKxVOUKxf_e31oEY_6EFh4rW9bZbtrkYxmv8MwGjoUQt-9Os04NmwXR9dPuUIs5P8A=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azzkq_mcskkaF1guu9JEUV8jskyAqybEPwsoEB9o59a3pJv1BvZiKFZ4mDi-XiAEKUMut9DsspDFwLlwj9IQy1FG-5awDQIYmQ20f0qqm-zp_2G75PJWpVG0Io4mwDtZ-UVgWIWNvn61mRP=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "63$"
+    },
+    "col_6": {
+      "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0205"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Burberry Reversible Windbreaker",
+  "name": "Burberry CheckSwim Shorts",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F902061632487%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/902061632487?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/902016745356?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/902016745356?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "55$",
+  "budget_price": "13$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://doppel.fit/item/1688/902061632487"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631259550629890?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwgHlaw3jxjUs7m571-7-yLVcJVopqSnXFp4FLeOazayYUWndkJxQOoQPMrTR1hWYEDusMhn_pAGqqeC6GtzBNWznJIQFK4_WexSTmWR6heLy7zpxboEJ0TzWO6AAipKPAxs-fzuBERqE89=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3DLWRNr13bc1OhYJI8KEgZTbya8iMAO3ghJ_5f_e44mjIhn-pwwpnzI9P58IaJz_uirLKsx9WuZIeXhRh-Q0K9w18ueaeJXEX3McNKgCHgE4EzkoI4HfNFhZTaY6cjb1cyaC6h2hbbA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1404",
   "raw_cells": {
     "col_0": {
-      "text": "1011"
+      "text": "1007"
     },
     "col_1": {
-      "text": "Burberry Reversible Windbreaker"
+      "text": "Burberry CheckSwim Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwgHlaw3jxjUs7m571-7-yLVcJVopqSnXFp4FLeOazayYUWndkJxQOoQPMrTR1hWYEDusMhn_pAGqqeC6GtzBNWznJIQFK4_WexSTmWR6heLy7zpxboEJ0TzWO6AAipKPAxs-fzuBERqE89=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3DLWRNr13bc1OhYJI8KEgZTbya8iMAO3ghJ_5f_e44mjIhn-pwwpnzI9P58IaJz_uirLKsx9WuZIeXhRh-Q0K9w18ueaeJXEX3McNKgCHgE4EzkoI4HfNFhZTaY6cjb1cyaC6h2hbbA=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/902061632487?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/902016745356?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "55$"
+      "text": "13$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://doppel.fit/item/1688/902061632487"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631259550629890?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1404"
+  }
 }

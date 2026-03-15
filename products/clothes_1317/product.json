@@ -1,61 +1,61 @@
 {
-  "name": "OG WEB V2 TEE",
+  "name": "BapeT-Shirts58 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PikaPikaGo",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F823211589483%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/823211589483?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/913085648224?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/913085648224?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "9$(sale)",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/177007306?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1977561233227341826?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySL-UqPGx7zQrBJS6KBcOZQFYhuZGqNftiS-fyu_uYpeJOXYdxQDlpAB8oqw2eCNOH6Tj0mDoFqjGVSOH42JP7tlwkCiuR2JZz6c1NEMhExrEYMCMfM6AjHhB0FChNFcFDwzjYI1iC2g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxmI71KZh7s1huqxKcCJk0KQQTBijjodRu4sVjNjWq7F4_-GjwnQfGY0eZsMgeuD_4INad-vBaucsWM1gBTGylLelgGAs_-ctDL2Goj7EPt60SQCIKaEriX4TxxCv4ZlCxuLHG38iUag4R6=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1317",
   "raw_cells": {
     "col_0": {
-      "text": "912"
+      "text": "906"
     },
     "col_1": {
-      "text": "OG WEB V2 TEE"
+      "text": "BapeT-Shirts58 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySL-UqPGx7zQrBJS6KBcOZQFYhuZGqNftiS-fyu_uYpeJOXYdxQDlpAB8oqw2eCNOH6Tj0mDoFqjGVSOH42JP7tlwkCiuR2JZz6c1NEMhExrEYMCMfM6AjHhB0FChNFcFDwzjYI1iC2g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxmI71KZh7s1huqxKcCJk0KQQTBijjodRu4sVjNjWq7F4_-GjwnQfGY0eZsMgeuD_4INad-vBaucsWM1gBTGylLelgGAs_-ctDL2Goj7EPt60SQCIKaEriX4TxxCv4ZlCxuLHG38iUag4R6=w143-h110"
     },
-    "col_3": {
-      "text": "PikaPikaGo",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/823211589483?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/913085648224?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "9$(sale)"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/177007306?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1977561233227341826?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1317"
+  }
 }

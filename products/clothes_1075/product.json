@@ -1,30 +1,30 @@
 {
-  "name": "MertraGingham Shirt",
+  "name": "MertraT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "pengreps",
   "best_batch_links": [
     {
       "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7512716331%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7512716331?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7473253479?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7473253479?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "20$",
-  "budget_price": "15$",
+  "best_price": "14$",
+  "budget_price": "10$",
   "pics_text": "pengreps/budget",
   "pics_links": [
     {
       "label": "pengreps",
-      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7512716331"
+      "url": "https://pengreps.x.yupoo.com/albums/204673843?uid=1"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzMx7Rs_JCPm-UF5fZPJz2y2rZvEV_t5PIHwg9jSsXhvQRoxEj6r2a1Ba3zjvYxytE7k04B6o6XDwW9GkLp173FgkAsfD3Q8yfUDMlOWQX3P2Sp0X8FkqsNDVwwpwSYLWDWieNIi-nMqw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZaGjXjedhFJRF6I7ezJm6j1iUfuWCQlwr-ZY2a-BeQ4mYgj1BY47paPYxrayQKHD7w9j1fzmkPUxrlmrxCyhwP3QFwhfIHFW0AIO-vrWB4eUdeHhQK92-AB5YF2FAUjWz1h1jb6YDRo0m=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1075",
   "raw_cells": {
     "col_0": {
-      "text": "626"
+      "text": "622"
     },
     "col_1": {
-      "text": "MertraGingham Shirt"
+      "text": "MertraT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzMx7Rs_JCPm-UF5fZPJz2y2rZvEV_t5PIHwg9jSsXhvQRoxEj6r2a1Ba3zjvYxytE7k04B6o6XDwW9GkLp173FgkAsfD3Q8yfUDMlOWQX3P2Sp0X8FkqsNDVwwpwSYLWDWieNIi-nMqw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZaGjXjedhFJRF6I7ezJm6j1iUfuWCQlwr-ZY2a-BeQ4mYgj1BY47paPYxrayQKHD7w9j1fzmkPUxrlmrxCyhwP3QFwhfIHFW0AIO-vrWB4eUdeHhQK92-AB5YF2FAUjWz1h1jb6YDRo0m=w143-h110"
     },
     "col_3": {
       "text": "pengreps",
       "links": [
         {
           "label": "pengreps",
-          "url": "https://oopbuy.com/product/weidian/7512716331?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7473253479?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,17 +65,17 @@
       ]
     },
     "col_5": {
-      "text": "20$"
+      "text": "14$"
     },
     "col_6": {
-      "text": "15$"
+      "text": "10$"
     },
     "col_7": {
       "text": "pengreps/budget",
       "links": [
         {
           "label": "pengreps",
-          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7512716331"
+          "url": "https://pengreps.x.yupoo.com/albums/204673843?uid=1"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1075"
+  }
 }

@@ -1,74 +1,65 @@
 {
-  "name": "Travis ScottCactus Jack",
+  "name": "Jordan 4WOMANSize",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "OG",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/weidian/7245796224?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7245796224?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "NEW R1/KX",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "NEW R1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328101882%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7282345814?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7282345814?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "66$",
-  "budget_price": "45$ / 37$",
-  "pics_text": "45$ / 37$",
+  "best_price": "67$",
+  "budget_price": "38$",
+  "pics_text": "38$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLrHZmzqgifUdrYW9sRA9Xom3cmhe4txk9WcdX8_VudILxBu9M1tSZl3iXuYYrj8KXlLhZSEpIjsqLNEk_rhJ2HaqmO2jsX0HKXWvVY-TCQI2j-A8zDpDICp9o1rIWKG50mKD1WSiomFAL=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEYA0Z4e1iolKtLcYzGCwmfvZER149UTMttA4Sz-bF6qcmK1sdwVkAP4sJXsva0pn0dd8_G_l7I0IVzn3V_xU62-4qjxEmUuqaUe5njzDzei-mwkh9LLrNyP4K6sGcju_QBoy6WUFHKw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0211",
   "raw_cells": {
     "col_0": {
       "text": "226"
     },
     "col_1": {
-      "text": "Travis ScottCactus Jack"
+      "text": "Jordan 4WOMANSize"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLrHZmzqgifUdrYW9sRA9Xom3cmhe4txk9WcdX8_VudILxBu9M1tSZl3iXuYYrj8KXlLhZSEpIjsqLNEk_rhJ2HaqmO2jsX0HKXWvVY-TCQI2j-A8zDpDICp9o1rIWKG50mKD1WSiomFAL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEYA0Z4e1iolKtLcYzGCwmfvZER149UTMttA4Sz-bF6qcmK1sdwVkAP4sJXsva0pn0dd8_G_l7I0IVzn3V_xU62-4qjxEmUuqaUe5njzDzei-mwkh9LLrNyP4K6sGcju_QBoy6WUFHKw=w143-h110"
     },
     "col_3": {
-      "text": "GX",
+      "text": "OG",
       "links": [
         {
-          "label": "GX",
-          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://www.oopbuy.com/product/weidian/7245796224?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "NEW R1/KX",
+      "text": "budget",
       "links": [
         {
-          "label": "NEW R1",
-          "url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/7282345814?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "66$"
+      "text": "67$"
     },
     "col_6": {
-      "text": "45$ / 37$"
+      "text": "38$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0211"
+  }
 }

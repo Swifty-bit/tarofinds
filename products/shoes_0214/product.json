@@ -1,65 +1,47 @@
 {
-  "name": "Off White Sail",
+  "name": "Travis ScottOlive",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5802305038%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/5802305038?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX",
-  "budget_batch_links": [
-    {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "63$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "66$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxFz8ZH1EUTLubxWs2AVsUU3XZY1cGRWvXvI6jd1-rWRVftQRyADjM-XtpREHYTpj5JTz9qs4gWPU9BERN9m2NWC_ZuNvdwBW6_F7-Mf_K6_pEqe8bewOkqz0hoU49BZAukmML6MHVcwQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxbpiyzNVcg44lT9psMTenkxV_tyFcZJedY5-eyvOFxW4ehl6zWKh9hn2cKXz5g9w2oyctN2KISCHRtNCM9sckAtH9h33U2d28J0OHDexDKDu7ZnVopirPuq6_XG40qmmUy-Bs3pAPCzQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0214",
   "raw_cells": {
     "col_0": {
       "text": "229"
     },
     "col_1": {
-      "text": "Off White Sail"
+      "text": "Travis ScottOlive"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxFz8ZH1EUTLubxWs2AVsUU3XZY1cGRWvXvI6jd1-rWRVftQRyADjM-XtpREHYTpj5JTz9qs4gWPU9BERN9m2NWC_ZuNvdwBW6_F7-Mf_K6_pEqe8bewOkqz0hoU49BZAukmML6MHVcwQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxbpiyzNVcg44lT9psMTenkxV_tyFcZJedY5-eyvOFxW4ehl6zWKh9hn2cKXz5g9w2oyctN2KISCHRtNCM9sckAtH9h33U2d28J0OHDexDKDu7ZnVopirPuq6_XG40qmmUy-Bs3pAPCzQ=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "GX",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/2/5802305038?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "KX",
-      "links": [
-        {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "63$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "66$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0214"
+  }
 }

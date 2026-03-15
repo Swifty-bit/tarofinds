@@ -1,51 +1,53 @@
 {
-  "name": "BelugaSweatpants Onyx/Yellow",
+  "name": "OG WEBSweatpantsBlack",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F823340696767%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/823340696767?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/823211069785?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/823211069785?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/738347006278?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "17$(sale)",
+  "best_price": "18$(sale)",
   "budget_price": "14$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/177006104?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/177006955?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwOMLmxRqrv59033BdhRPl9Y3-vzV3wqFlx8g0AjIr7uwc5rdueMtTOMbSPxRSAO5536nEJGVUXbST2rbIZdZ6GZe3Fat-BV06gBrx6sAThOKfUV5mzYiIVaYBGp1AFKVI5XGcWFK81iGTp=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyhTTSY2vU8dyn0X_l4aQEXd315Ho-1GtlSPI6XOBBstzioxe_F5rs26fOnD1rzPH1tSTw9R4o6wm9UUR4G_y6T6EeW1s8BnMkkY9Wav67H5hAYf1x16kaW8qHr7X8FXwJmiQaWQlsQo1Ha=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1324",
   "raw_cells": {
     "col_0": {
-      "text": "919"
+      "text": "915"
     },
     "col_1": {
-      "text": "BelugaSweatpants Onyx/Yellow"
+      "text": "OG WEBSweatpantsBlack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwOMLmxRqrv59033BdhRPl9Y3-vzV3wqFlx8g0AjIr7uwc5rdueMtTOMbSPxRSAO5536nEJGVUXbST2rbIZdZ6GZe3Fat-BV06gBrx6sAThOKfUV5mzYiIVaYBGp1AFKVI5XGcWFK81iGTp=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyhTTSY2vU8dyn0X_l4aQEXd315Ho-1GtlSPI6XOBBstzioxe_F5rs26fOnD1rzPH1tSTw9R4o6wm9UUR4G_y6T6EeW1s8BnMkkY9Wav67H5hAYf1x16kaW8qHr7X8FXwJmiQaWQlsQo1Ha=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://www.oopbuy.com/product/1/823340696767?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/823211069785?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -59,7 +61,7 @@
       ]
     },
     "col_5": {
-      "text": "17$(sale)"
+      "text": "18$(sale)"
     },
     "col_6": {
       "text": "14$"
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/177006104?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/177006955?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1324"
+  }
 }

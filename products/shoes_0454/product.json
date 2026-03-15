@@ -1,47 +1,47 @@
 {
-  "name": "Run Away",
+  "name": "SkateBlue Jeans",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZZZTOPXX",
+  "best_batch": "Chipotle",
   "best_batch_links": [
     {
-      "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6301110116%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6301110116?inviteCode=29TOTHGNH"
+      "label": "Chipotle",
+      "url": "https://litbuy.com/product/weidian/7281245832?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7281245832?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "84$",
+  "best_price": "126$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axrm5__tl5K48ul4W7jVafBDut4TuRS7lXeu3g_k-HpTkdHOisUCS4XjIlS_FOeLXgzkHA1Vz6RX7RMgSmyM4tj89xcNL0uYsfGTuppqUGMWAJQYGvURVVIKUW1WcJ-wsX4F4fJMxI6YEm9=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxqDUx8g3BCAnV478v-3vtoelvBfLKPkPLEQG_0YvztFrgfKrkCGrnCOMSVVVA49tUeUDwqJpnD4PJ5iHDSSVTRtrUGNFE0NBg8AjGcQweg1P_MCLTTU50o_qUhz95YaolhWV25zJYukron=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0454",
   "raw_cells": {
     "col_0": {
       "text": "515"
     },
     "col_1": {
-      "text": "Run Away"
+      "text": "SkateBlue Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axrm5__tl5K48ul4W7jVafBDut4TuRS7lXeu3g_k-HpTkdHOisUCS4XjIlS_FOeLXgzkHA1Vz6RX7RMgSmyM4tj89xcNL0uYsfGTuppqUGMWAJQYGvURVVIKUW1WcJ-wsX4F4fJMxI6YEm9=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxqDUx8g3BCAnV478v-3vtoelvBfLKPkPLEQG_0YvztFrgfKrkCGrnCOMSVVVA49tUeUDwqJpnD4PJ5iHDSSVTRtrUGNFE0NBg8AjGcQweg1P_MCLTTU50o_qUhz95YaolhWV25zJYukron=w143-h110"
     },
     "col_3": {
-      "text": "ZZZTOPXX",
+      "text": "Chipotle",
       "links": [
         {
-          "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/weidian/6301110116?inviteCode=29TOTHGNH"
+          "label": "Chipotle",
+          "url": "https://oopbuy.com/product/weidian/7281245832?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "84$"
+      "text": "126$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0454"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Fast & FuriousDom's Dodge Charger",
+  "name": "VehiclesMany Style",
   "category": "Room Accessories",
   "subcategory": "",
   "best_batch": "Qingwen",
   "best_batch_links": [
     {
       "label": "Qingwen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F643266804903%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/643266804903?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/761127476029?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/761127476029?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "15$",
+  "best_price": "17$ / 44$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1956884673235345410?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1947576602553585666?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxoKbc2x7N1p0edb2J0Zcw_z-B3i-eGrS0vXahFo33rEmjTJe8X4OTYrnzeFr672K243p4UCHnxOU_Slxpd20Z6SkESnoZMLPmckwLLdFT7447c2XbE84HZU89pYOn8w2nsugPr0ceyZw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwwF5I4sBmmE89cB2AHfCP2aPTson8IIDoWqROSFW-tFg1a1dVGx7LMCVtLh8pH2NfRbYJNiLsP61LqHsYbXlgfmlEjwhZLttZgvM1bhkNKgNl3gqW-Fm6twWprh5oRvniHu3D2VOT98A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1660",
   "raw_cells": {
     "col_0": {
-      "text": "24"
+      "text": "16"
     },
     "col_1": {
-      "text": "Fast & FuriousDom's Dodge Charger"
+      "text": "VehiclesMany Style"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxoKbc2x7N1p0edb2J0Zcw_z-B3i-eGrS0vXahFo33rEmjTJe8X4OTYrnzeFr672K243p4UCHnxOU_Slxpd20Z6SkESnoZMLPmckwLLdFT7447c2XbE84HZU89pYOn8w2nsugPr0ceyZw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwwF5I4sBmmE89cB2AHfCP2aPTson8IIDoWqROSFW-tFg1a1dVGx7LMCVtLh8pH2NfRbYJNiLsP61LqHsYbXlgfmlEjwhZLttZgvM1bhkNKgNl3gqW-Fm6twWprh5oRvniHu3D2VOT98A=w143-h110"
     },
     "col_3": {
       "text": "Qingwen",
       "links": [
         {
           "label": "Qingwen",
-          "url": "https://oopbuy.com/product/1/643266804903?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/761127476029?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "17$ / 44$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1956884673235345410?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1947576602553585666?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1660"
+  }
 }

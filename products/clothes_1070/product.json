@@ -1,61 +1,61 @@
 {
-  "name": "HellstarT-Shirt Short and Long SleeveMany Styles",
+  "name": "Hellstar Records Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "33TRENTE",
-  "budget_batch_links": [
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
     {
-      "label": "33TRENTE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F701751211036%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/701751211036?inviteCode=29TOTHGNH"
+      "label": "PikaPikaGo",
+      "url": "https://litbuy.com/product/weidian/805788281327?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805788281327?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "25$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1997856503711748097?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/149668522?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3JjTb5MqtDboS0pABn8k6dYb6B-Jsz5J-MzYoP5QN11QzAGlN0Is4K0Gx1lJUGlqc1FXm0jB04T8FwfF5hI5_MCcPJSuDR78RxkpCyT1FUzF-AacSy5d6G8xewa2SGT6c4hc1cs3dPKID=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFBq9ePFQOfQnt70t_VojFBiD-osxKBgGeBvgGjiFooBiNHtfwU8tK2-xz1PRaYMRE5wCVLSvlpARCjN9hggBhGomo-zQ3u3VHpzwl4tywfPHSTE8zl_97v5v7KglpxXynL1CuqChRwqDj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1070",
   "raw_cells": {
     "col_0": {
-      "text": "619"
+      "text": "615"
     },
     "col_1": {
-      "text": "HellstarT-Shirt Short and Long SleeveMany Styles"
+      "text": "Hellstar Records Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3JjTb5MqtDboS0pABn8k6dYb6B-Jsz5J-MzYoP5QN11QzAGlN0Is4K0Gx1lJUGlqc1FXm0jB04T8FwfF5hI5_MCcPJSuDR78RxkpCyT1FUzF-AacSy5d6G8xewa2SGT6c4hc1cs3dPKID=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFBq9ePFQOfQnt70t_VojFBiD-osxKBgGeBvgGjiFooBiNHtfwU8tK2-xz1PRaYMRE5wCVLSvlpARCjN9hggBhGomo-zQ3u3VHpzwl4tywfPHSTE8zl_97v5v7KglpxXynL1CuqChRwqDj=w143-h110"
     },
-    "col_4": {
-      "text": "33TRENTE",
+    "col_3": {
+      "text": "PikaPikaGo",
       "links": [
         {
-          "label": "33TRENTE",
-          "url": "https://oopbuy.com/product/1/701751211036?inviteCode=29TOTHGNH"
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/805788281327?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "15$"
+    "col_5": {
+      "text": "25$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1997856503711748097?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/149668522?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1070"
+  }
 }

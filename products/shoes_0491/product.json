@@ -1,65 +1,47 @@
 {
-  "name": "Super Star16 colours",
+  "name": "Maison MargielaGATSPaint Splatter",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "DGC",
-  "best_batch_links": [
-    {
-      "label": "DGC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7614170131%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7614170131?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F830812365240%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/830812365240?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/705562729612?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "56$",
-  "budget_price": "24$",
-  "pics_text": "24$",
+  "best_price": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDXehjo1jhNCgGzxivgDAfEa0WqWvUpif2eA1gNfPfgLOlgS0umRac6E6q0Xzus8RwTPokaez-0DA_Hk7bDT_eQ25NaKrjm4dTTbOfkCVSrIIQcc3SL4kKa9gNF_Kc62VnhOBEU6umGmut=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzGE7pnqqKAVuywDQWYXiF6V3czC-y5VBl-SuXRmNHMUUtTA7oQUaXrrM7DyhrF1m6o7qMymNMpRV5cdqWHYT4-mw8rI97lf1FJoKeSxGZy67ERXSuznzoIqY7nOkV1UURuHVt2-il05A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0491",
   "raw_cells": {
     "col_0": {
-      "text": "570"
+      "text": "566"
     },
     "col_1": {
-      "text": "Super Star16 colours"
+      "text": "Maison MargielaGATSPaint Splatter"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDXehjo1jhNCgGzxivgDAfEa0WqWvUpif2eA1gNfPfgLOlgS0umRac6E6q0Xzus8RwTPokaez-0DA_Hk7bDT_eQ25NaKrjm4dTTbOfkCVSrIIQcc3SL4kKa9gNF_Kc62VnhOBEU6umGmut=w143-h110"
-    },
-    "col_3": {
-      "text": "DGC",
-      "links": [
-        {
-          "label": "DGC",
-          "url": "https://oopbuy.com/product/weidian/7614170131?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzGE7pnqqKAVuywDQWYXiF6V3czC-y5VBl-SuXRmNHMUUtTA7oQUaXrrM7DyhrF1m6o7qMymNMpRV5cdqWHYT4-mw8rI97lf1FJoKeSxGZy67ERXSuznzoIqY7nOkV1UURuHVt2-il05A=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/830812365240?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "56$"
-    },
     "col_6": {
-      "text": "24$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0491"
+  }
 }

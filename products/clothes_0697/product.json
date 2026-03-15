@@ -1,61 +1,61 @@
 {
-  "name": "CorteizJacket Puffer5 Colors",
+  "name": "CorteizMula Guerillaz Shorts4 Colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "GOAT",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741081469466%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/741081469466?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653795529?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653795529?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "38$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "11$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1894997290956984321?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/116401908?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwOyRmyUnrB4ID-JHQqrhkmKBESaOyua2LAfGcwD0DoHZqkYx5svAXhZ78O5y-pufs3TCzrNvKsaOMyZy1wxQWY3EmpUyQE1dbt93p5EFvpLtqQ4zpibqRtxL930fsGhLU1xnOVDwpcRrcm=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyYL3JamtD7zY_LTK_roi80WrZFNp2rT1xzxvBpRXK4SH833_FNzWmldreiBAfNFxxsf6VzecAsDYsQzd9hlgCkKBzsTEszCFbAfjUSbb0T8bw6YjWqk7CicbgK4665eywIYEKZH8-ACA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0697",
   "raw_cells": {
     "col_0": {
-      "text": "178"
+      "text": "174"
     },
     "col_1": {
-      "text": "CorteizJacket Puffer5 Colors"
+      "text": "CorteizMula Guerillaz Shorts4 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwOyRmyUnrB4ID-JHQqrhkmKBESaOyua2LAfGcwD0DoHZqkYx5svAXhZ78O5y-pufs3TCzrNvKsaOMyZy1wxQWY3EmpUyQE1dbt93p5EFvpLtqQ4zpibqRtxL930fsGhLU1xnOVDwpcRrcm=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyYL3JamtD7zY_LTK_roi80WrZFNp2rT1xzxvBpRXK4SH833_FNzWmldreiBAfNFxxsf6VzecAsDYsQzd9hlgCkKBzsTEszCFbAfjUSbb0T8bw6YjWqk7CicbgK4665eywIYEKZH8-ACA=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "GOAT",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/1/741081469466?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653795529?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "38$"
+    "col_5": {
+      "text": "11$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1894997290956984321?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/116401908?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0697"
+  }
 }

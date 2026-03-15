@@ -1,13 +1,13 @@
 {
-  "name": "Sunset Skate",
+  "name": "Bone Runner",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "ZZZTOPXX",
   "best_batch_links": [
     {
       "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6427284628%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6427284628?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/6707886393?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6707886393?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awu5H-R5eyOPhiA6wCY2XLN6xlwprzWR21KXJn1CKr3fZ_rPl6IDSqNTFD7Hk0TJv4P_fCD40GJubO_cxjs425HN1QLYE5tqMTgwDGxjlHDybZr8F_dMomiDNz-_8c3RQOtz7Q6WK-crOTl=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwLuddgj3aPOGAB6x7Za7nVhe4E6oY6G0ivat_xGLMEW9cunAOkJ4zomXxQuufYL6NXd2ogT9xVSQ8H5yMPhqaY4VC5CepwmSO7AnmvLhY-enxGM5h9KywopnG4sGyMNlQVKmFMGbnkzh_T=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0465",
   "raw_cells": {
     "col_0": {
       "text": "528"
     },
     "col_1": {
-      "text": "Sunset Skate"
+      "text": "Bone Runner"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awu5H-R5eyOPhiA6wCY2XLN6xlwprzWR21KXJn1CKr3fZ_rPl6IDSqNTFD7Hk0TJv4P_fCD40GJubO_cxjs425HN1QLYE5tqMTgwDGxjlHDybZr8F_dMomiDNz-_8c3RQOtz7Q6WK-crOTl=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwLuddgj3aPOGAB6x7Za7nVhe4E6oY6G0ivat_xGLMEW9cunAOkJ4zomXxQuufYL6NXd2ogT9xVSQ8H5yMPhqaY4VC5CepwmSO7AnmvLhY-enxGM5h9KywopnG4sGyMNlQVKmFMGbnkzh_T=w143-h110"
     },
     "col_3": {
       "text": "ZZZTOPXX",
       "links": [
         {
           "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/2/6427284628?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/6707886393?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "84$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0465"
+  }
 }

@@ -1,61 +1,87 @@
 {
-  "name": "VLONE Tee110 Colours",
+  "name": "Akimbo ClubZipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "FFCP",
-  "budget_batch_links": [
+  "best_batch": "firerep",
+  "best_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F746168218060%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/746168218060?inviteCode=29TOTHGNH"
+      "label": "firerep",
+      "url": "https://litbuy.com/product/weidian/7596037672?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7596037672?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "6$",
-  "pics_text": "QC Pics",
+  "budget_batch": "3MadMan",
+  "budget_batch_links": [
+    {
+      "label": "3MadMan",
+      "url": "https://litbuy.com/product/weidian/902000743084?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/902000743084?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "31$",
+  "budget_price": "22$",
+  "pics_text": "firerep/3madman",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/746168218060"
+      "label": "firerep",
+      "url": "https://firerep.x.yupoo.com/albums/174890733?uid=1&isSubCate=false&referrercate=4666904"
+    },
+    {
+      "label": "3madman",
+      "url": "https://3madman.x.yupoo.com/albums/190070381?uid=1&isSubCate=false&referrercate=5014159"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az76tTvZjJLmGY4nbA65IOOvaleFHn5JB0GAEb13BX6r58v_U01HD4fW3cjzsoPXsSE4PZuhiejhNFv1aCGysHzRGkmRZiv5AhyPL6qWHgs9eVs5258qmg9PmwT9XYeaTRvK9VeTMQXYA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3Nn9GbOx4py_zlK5YwGWIYwgFABWOJs_vX5pU67RceBV2a4118Zs0n_9Kcm-JjpzTWEqKbEb0ixQWeC2onvpF-b-fsG_7S47NtwV-h16rzKUfP4HK-KTrQJbdMNpUZpHKwA-9rJYvsBow=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0898",
   "raw_cells": {
     "col_0": {
-      "text": "419"
+      "text": "413"
     },
     "col_1": {
-      "text": "VLONE Tee110 Colours"
+      "text": "Akimbo ClubZipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az76tTvZjJLmGY4nbA65IOOvaleFHn5JB0GAEb13BX6r58v_U01HD4fW3cjzsoPXsSE4PZuhiejhNFv1aCGysHzRGkmRZiv5AhyPL6qWHgs9eVs5258qmg9PmwT9XYeaTRvK9VeTMQXYA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3Nn9GbOx4py_zlK5YwGWIYwgFABWOJs_vX5pU67RceBV2a4118Zs0n_9Kcm-JjpzTWEqKbEb0ixQWeC2onvpF-b-fsG_7S47NtwV-h16rzKUfP4HK-KTrQJbdMNpUZpHKwA-9rJYvsBow=w143-h110"
     },
-    "col_4": {
-      "text": "FFCP",
+    "col_3": {
+      "text": "firerep",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/746168218060?inviteCode=29TOTHGNH"
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/weidian/7596037672?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "6$"
-    },
-    "col_7": {
-      "text": "QC Pics",
+    "col_4": {
+      "text": "3MadMan",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/746168218060"
+          "label": "3MadMan",
+          "url": "https://oopbuy.com/product/1/902000743084?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "31$"
+    },
+    "col_6": {
+      "text": "22$"
+    },
+    "col_7": {
+      "text": "firerep/3madman",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://firerep.x.yupoo.com/albums/174890733?uid=1&isSubCate=false&referrercate=4666904"
+        },
+        {
+          "label": "3madman",
+          "url": "https://3madman.x.yupoo.com/albums/190070381?uid=1&isSubCate=false&referrercate=5014159"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0898"
+  }
 }

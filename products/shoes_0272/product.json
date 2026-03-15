@@ -1,37 +1,48 @@
 {
-  "name": "UNDEFEATEDUNDFTD 2025",
+  "name": "Nigel SylvesterBrick by Brick",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "LJR/GX",
   "best_batch_links": [
     {
+      "label": "LJR",
+      "url": "https://litbuy.com/product/weidian/7482723964?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7482723964?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "69$",
+  "best_price": "71$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJ4QCfxcU8TFJNIFUrONN_B6KbNDq0gLklwUDpcCnbM9ZwK6R8MHpQy5hj8cYEW_8mu9N4F4giIQ94ojh3yCrr-WQP9-F0rXmMqzznzVsDP8PDTQjb19zAaJ9ZpBfzX48D6ZZ0TrIjCrUz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxhhWx5x9et51JMlmCvj6UMADFF667I5q5AEVyxuNLQDkmheURbbEbGTVRX-6A5mnY0ljJ-xiDYvXU9QvQJm1oAfOYNkAyyDzOLX3kNffQjmEQ3AtyyJKoOmKpCM5un28dPRUjwkBQ8j7nH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0272",
   "raw_cells": {
     "col_0": {
       "text": "287"
     },
     "col_1": {
-      "text": "UNDEFEATEDUNDFTD 2025"
+      "text": "Nigel SylvesterBrick by Brick"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJ4QCfxcU8TFJNIFUrONN_B6KbNDq0gLklwUDpcCnbM9ZwK6R8MHpQy5hj8cYEW_8mu9N4F4giIQ94ojh3yCrr-WQP9-F0rXmMqzznzVsDP8PDTQjb19zAaJ9ZpBfzX48D6ZZ0TrIjCrUz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxhhWx5x9et51JMlmCvj6UMADFF667I5q5AEVyxuNLQDkmheURbbEbGTVRX-6A5mnY0ljJ-xiDYvXU9QvQJm1oAfOYNkAyyDzOLX3kNffQjmEQ3AtyyJKoOmKpCM5un28dPRUjwkBQ8j7nH=w143-h110"
     },
     "col_3": {
-      "text": "GX",
+      "text": "LJR/GX",
       "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7482723964?inviteCode=29TOTHGNH"
+        },
         {
           "label": "GX",
           "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
@@ -39,9 +50,7 @@
       ]
     },
     "col_5": {
-      "text": "69$"
+      "text": "71$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0272"
+  }
 }

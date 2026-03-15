@@ -1,87 +1,61 @@
 {
-  "name": "Ralph LaurenLong Socks",
+  "name": "Ralph LaurenWool KnitBeanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CND ISLAND",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "CND ISLAND",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7447183357%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7447183357?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/weidian/7338708190?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7338708190?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F842628826623%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "7$(6 Pairs)",
-  "budget_price": "1$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "14$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/183303304?uid=1&isSubCate=false&referrercate=4373091"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azp5oJJfDGG3gJbwPetoLnpPAErLsUt5IU-O1JKytiZF0_YgVNcm12RObW-fNiuUJDqcZrNStcisUV136RW10bhiyU80hcKQExD5TjyqFF625zfl0pAcQ2okQdvxR69jZNZJws-JTVLsg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az93nEHl5oC6C8w5kTWZcwY1tSBaa-en2AiC7TEfMyC_gwo5YmltHRCGCxsoRdEgMGQaPbh8xk4-QCRdVKO2UKvhfxZApj77yj73LvD4_YJsR8FaPsppO64FZw-H8Cqc6joLX9XK2B2mAN0=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0642",
   "raw_cells": {
     "col_0": {
-      "text": "113"
+      "text": "109"
     },
     "col_1": {
-      "text": "Ralph LaurenLong Socks"
+      "text": "Ralph LaurenWool KnitBeanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azp5oJJfDGG3gJbwPetoLnpPAErLsUt5IU-O1JKytiZF0_YgVNcm12RObW-fNiuUJDqcZrNStcisUV136RW10bhiyU80hcKQExD5TjyqFF625zfl0pAcQ2okQdvxR69jZNZJws-JTVLsg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az93nEHl5oC6C8w5kTWZcwY1tSBaa-en2AiC7TEfMyC_gwo5YmltHRCGCxsoRdEgMGQaPbh8xk4-QCRdVKO2UKvhfxZApj77yj73LvD4_YJsR8FaPsppO64FZw-H8Cqc6joLX9XK2B2mAN0=w143-h110"
     },
     "col_3": {
-      "text": "CND ISLAND",
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "CND ISLAND",
-          "url": "https://oopbuy.com/product/weidian/7447183357?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://www.oopbuy.com/product/weidian/7338708190?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "7$(6 Pairs)"
-    },
-    "col_6": {
-      "text": "1$"
+      "text": "14$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/183303304?uid=1&isSubCate=false&referrercate=4373091"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0642"
+  }
 }

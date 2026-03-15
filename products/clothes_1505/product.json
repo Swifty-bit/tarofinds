@@ -1,61 +1,61 @@
 {
-  "name": "Eric EmanuelShorts56 Colours",
+  "name": "Rick Owens Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "UnionKingdom",
-  "budget_batch_links": [
+  "best_batch": "PinkElephant",
+  "best_batch_links": [
     {
-      "label": "UnionKingdom",
-      "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH",
-      "original_url": null
+      "label": "PinkElephant",
+      "url": "https://litbuy.com/product/weidian/5787458893?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5787458893?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "127$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1905424804963520513?action=discord&cid=1840597081113280514"
+      "url": "https://finds.ly/product/WEIDIAN/5787458893"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwoKw5XbBhMBykcD_T3Ss4MjsZ2O9qYYgm3FGGZId1J1KbU_cBtk5_-fPdJS-7ViFH1_p9CX84X3_Ut67lrErzIiFXvlybu921bY1wi_a1nthWdJrUPPUcRiIsAE0oWDaZSlSCqtoq2RQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxOLKTMTEaFxTqQo5llfIqxCz8KOKfub_Lyqmm-oZUcFF8PsMiRmXP-TJVT0vwiOZ4hutK5FzeDyLEmpIvXSHw3xqrLAahOVI8npJjtWAoYBtb9NFQMXkT2j2dg1Rd78ThkoQZIWUqWkL2r=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1505",
   "raw_cells": {
     "col_0": {
-      "text": "979"
+      "text": "1130"
     },
     "col_1": {
-      "text": "Eric EmanuelShorts56 Colours"
+      "text": "Rick Owens Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwoKw5XbBhMBykcD_T3Ss4MjsZ2O9qYYgm3FGGZId1J1KbU_cBtk5_-fPdJS-7ViFH1_p9CX84X3_Ut67lrErzIiFXvlybu921bY1wi_a1nthWdJrUPPUcRiIsAE0oWDaZSlSCqtoq2RQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxOLKTMTEaFxTqQo5llfIqxCz8KOKfub_Lyqmm-oZUcFF8PsMiRmXP-TJVT0vwiOZ4hutK5FzeDyLEmpIvXSHw3xqrLAahOVI8npJjtWAoYBtb9NFQMXkT2j2dg1Rd78ThkoQZIWUqWkL2r=w143-h110"
     },
-    "col_4": {
-      "text": "UnionKingdom",
+    "col_3": {
+      "text": "PinkElephant",
       "links": [
         {
-          "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+          "label": "PinkElephant",
+          "url": "https://oopbuy.com/product/weidian/5787458893?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "15$"
+    "col_5": {
+      "text": "127$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1905424804963520513?action=discord&cid=1840597081113280514"
+          "url": "https://finds.ly/product/WEIDIAN/5787458893"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1505"
+  }
 }

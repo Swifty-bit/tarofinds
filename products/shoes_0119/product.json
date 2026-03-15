@@ -1,47 +1,47 @@
 {
-  "name": "Mummy",
+  "name": "Ben & Jerry's Chunky Dunkyw/ BOX",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
+  "best_batch": "H12",
   "best_batch_links": [
     {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7242327027%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+      "label": "H12",
+      "url": "https://litbuy.com/product/taobao/7221772691?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7221772691?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "56$",
+  "best_price": "71$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwfGh-ZLAcKBW-QP_67S9dpy-hZZI3QY7sjPKy68di47BK4WTu4sbK2sz63saDB4Tr3_W1dm_hA-bBJ9aASNMOtc4IpFT4Jls8P52Dbla5D7GX3Tanw5y7APDHbYcdEGigTjCFuO1BRGA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awu8mUJymO4TnUeFyT0czTTOtdZ5WK5bmfahFRL06D322iUf2Ul7h9u00EsYYnTp7V1Ml2D4KOkKIkyCl5vK9BmEto-YvmnfHHNU_KB5mJx7pgQZRC0LMZtZIz9grT2hZ0b3og3Rry9Ng=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0119",
   "raw_cells": {
     "col_0": {
       "text": "128"
     },
     "col_1": {
-      "text": "Mummy"
+      "text": "Ben & Jerry's Chunky Dunkyw/ BOX"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwfGh-ZLAcKBW-QP_67S9dpy-hZZI3QY7sjPKy68di47BK4WTu4sbK2sz63saDB4Tr3_W1dm_hA-bBJ9aASNMOtc4IpFT4Jls8P52Dbla5D7GX3Tanw5y7APDHbYcdEGigTjCFuO1BRGA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awu8mUJymO4TnUeFyT0czTTOtdZ5WK5bmfahFRL06D322iUf2Ul7h9u00EsYYnTp7V1Ml2D4KOkKIkyCl5vK9BmEto-YvmnfHHNU_KB5mJx7pgQZRC0LMZtZIz9grT2hZ0b3og3Rry9Ng=w143-h110"
     },
     "col_3": {
-      "text": "M",
+      "text": "H12",
       "links": [
         {
-          "label": "M",
-          "url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
+          "label": "H12",
+          "url": "https://oopbuy.com/product/2/7221772691?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "56$"
+      "text": "71$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0119"
+  }
 }

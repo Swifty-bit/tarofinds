@@ -1,61 +1,61 @@
 {
-  "name": "ArcteryxBeanie",
+  "name": "Moose Knuckles Stagg BomberPuffer Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "palmmoose",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234436696%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234436696?inviteCode=29TOTHGNH"
+      "label": "palmmoose",
+      "url": "https://litbuy.com/product/weidian/839875839985?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/839875839985?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "94$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2006252981918982146?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1991343996641316866?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzHjwHky0G5pHE6TbKi3yYLZWTJqQQavtBGlKSvi45knzU0fquuSQHX_PidQxyH1kWCrBNw5_TKDAztOkfnpL7vUktmRtBOmaoboKBqBwe_nQFPZu_VcBLmfFq-gz0r2-l-TSQ6nHvzyw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxpTf5ztcIEq6Y6NzAtId0bWX2joM3CxuyDY5b0_uhBEMsTj9Gsdw-mleSfUqPaddwjwRdmdEgnvip0oCU25vSw1V6ZAUacFpp16L9qitzEP9Cs_J5nHRm8DCoyh2Jm_Vm608s_orUnK4Eo=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1490",
   "raw_cells": {
     "col_0": {
-      "text": "1115"
+      "text": "1109"
     },
     "col_1": {
-      "text": "ArcteryxBeanie"
+      "text": "Moose Knuckles Stagg BomberPuffer Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzHjwHky0G5pHE6TbKi3yYLZWTJqQQavtBGlKSvi45knzU0fquuSQHX_PidQxyH1kWCrBNw5_TKDAztOkfnpL7vUktmRtBOmaoboKBqBwe_nQFPZu_VcBLmfFq-gz0r2-l-TSQ6nHvzyw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxpTf5ztcIEq6Y6NzAtId0bWX2joM3CxuyDY5b0_uhBEMsTj9Gsdw-mleSfUqPaddwjwRdmdEgnvip0oCU25vSw1V6ZAUacFpp16L9qitzEP9Cs_J5nHRm8DCoyh2Jm_Vm608s_orUnK4Eo=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "palmmoose",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7234436696?inviteCode=29TOTHGNH"
+          "label": "palmmoose",
+          "url": "https://oopbuy.com/product/0/839875839985?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$"
+    "col_5": {
+      "text": "94$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2006252981918982146?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1991343996641316866?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1490"
+  }
 }

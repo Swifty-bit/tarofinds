@@ -1,64 +1,64 @@
 {
-  "name": "Drama CallTRACKEHHoodie",
+  "name": "6PMTracksuit TechBlack",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342471210%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7342471210?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7374214147?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7374214147?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "31$",
+  "best_price": "61$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/147128259?uid=1&isSubCate=false&referrercate=4589391"
+      "url": "https://hotdog-official.x.yupoo.com/albums/184642433?uid=1&isSubCate=false&referrercate=4589391"
     }
   ],
-  "notes": "set 57$ - top 31$ - bottom 26$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygvQLiUjCzQR5hG3GXoUeaJ9MAcpBEgI79wF2-JBXCli7f1VBkIByEfc4xnhIccQH_9PxE5wgbbhXSCH-_VM2bCWAgqGmp_ie2m712yBktLM787zx2H611S-Iv-rPABej-Tsv3IAINnA=w143-h110",
+  "notes": "set 61$ - top 31$ - bottom 30$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az6aH-_djsiZGfKjl3ShGbVhVfKLDcH_-FpGDvVzXhUVebHYaNk00OM8h_f7cxwod2DewHnHeI6QGUTTTpwKSfvv-4Cqpu4x5G0slaI3cSxgHAhYz-4m1RZJcbmgRr0AbGE3oS3rlYrd1L8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1022",
   "raw_cells": {
     "col_0": {
-      "text": "565"
+      "text": "559"
     },
     "col_1": {
-      "text": "Drama CallTRACKEHHoodie"
+      "text": "6PMTracksuit TechBlack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygvQLiUjCzQR5hG3GXoUeaJ9MAcpBEgI79wF2-JBXCli7f1VBkIByEfc4xnhIccQH_9PxE5wgbbhXSCH-_VM2bCWAgqGmp_ie2m712yBktLM787zx2H611S-Iv-rPABej-Tsv3IAINnA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az6aH-_djsiZGfKjl3ShGbVhVfKLDcH_-FpGDvVzXhUVebHYaNk00OM8h_f7cxwod2DewHnHeI6QGUTTTpwKSfvv-4Cqpu4x5G0slaI3cSxgHAhYz-4m1RZJcbmgRr0AbGE3oS3rlYrd1L8=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7342471210?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7374214147?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "31$"
+      "text": "61$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/147128259?uid=1&isSubCate=false&referrercate=4589391"
+          "url": "https://hotdog-official.x.yupoo.com/albums/184642433?uid=1&isSubCate=false&referrercate=4589391"
         }
       ]
     },
     "col_8": {
-      "text": "set 57$ - top 31$ - bottom 26$"
+      "text": "set 61$ - top 31$ - bottom 30$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1022"
+  }
 }

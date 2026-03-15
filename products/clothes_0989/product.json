@@ -1,61 +1,61 @@
 {
-  "name": "Fear of The Unknown Hoodie",
+  "name": "Football T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341530401%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7341530401?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7341485037?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7341485037?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "17$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/157137385?uid=1&isSubCate=false&referrercate=4098105"
+      "url": "https://hotdog-official.x.yupoo.com/albums/148427098?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzCxYEYt14vRNoNQAfpy_nQWvega82HOaiWzpOaFBB6qOb4vL-Ofd2iDXnzEJghPjIxV3Fe8t2iyZL6TAjBYFKukZtVNWpt6WmF1-2Ea8z02DMnrOn1BPotnccPNB2zwx6PIJ6GLiZnORgS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az38aK9fo19XI0uPQ3_KoTPUKKqoBbYIZS4w1OId71n52p-LZRIhdlnmFZ2d-Q1X1fTu6ME-d2thFJ1XGVU6Kz-MB5aMl3nXv2wBc98k3Cdh5-zp1DHjA9OpG_K5HOuc1XveiB4DQIz3g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0989",
   "raw_cells": {
     "col_0": {
-      "text": "526"
+      "text": "522"
     },
     "col_1": {
-      "text": "Fear of The Unknown Hoodie"
+      "text": "Football T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzCxYEYt14vRNoNQAfpy_nQWvega82HOaiWzpOaFBB6qOb4vL-Ofd2iDXnzEJghPjIxV3Fe8t2iyZL6TAjBYFKukZtVNWpt6WmF1-2Ea8z02DMnrOn1BPotnccPNB2zwx6PIJ6GLiZnORgS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az38aK9fo19XI0uPQ3_KoTPUKKqoBbYIZS4w1OId71n52p-LZRIhdlnmFZ2d-Q1X1fTu6ME-d2thFJ1XGVU6Kz-MB5aMl3nXv2wBc98k3Cdh5-zp1DHjA9OpG_K5HOuc1XveiB4DQIz3g=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7341530401?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7341485037?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "17$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/157137385?uid=1&isSubCate=false&referrercate=4098105"
+          "url": "https://hotdog-official.x.yupoo.com/albums/148427098?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0989"
+  }
 }

@@ -1,61 +1,104 @@
 {
-  "name": "Versace",
+  "name": "Hermes",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "MissChen",
+  "best_batch": "MissChen/K8",
   "best_batch_links": [
     {
       "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F2787390995%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/2787390995?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/2779791292?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/2779791292?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "K8",
+      "url": "https://litbuy.com/product/weidian/7238705718?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7238705718?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "28$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/557811120075?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/557811120075?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "30$ / 34$",
+  "budget_price": "4$",
+  "pics_text": "MissChen/K8/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1928070068359446530?action=discord&type=1&cid=1942512167859859457"
+      "label": "MissChen",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968139225972432898?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "K8",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1958696289811652609?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969952042518142978?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcSbSV1bJAYUo3LCfPv5wkZmMoYkvEu3pQaz2z0gNMjr3-DK3IBHfKB1dU4FeqfuMe2I4QX9rORmyylBOm25t1Xs5OMnbEuYvjIdohD4B0q3Oq0US1edicu1J6MMev91zPTNikn-gdXEvV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az8BZA7OyHHWxvyE-FbcukK1MB09OhqLuIILybWXZZZj1r1Gq05hEiRtk97rC9EYFBIrggrAdeYRstq9tmBST8D8MaCa6lf1kTL_FFvJX7F-O0RdhV0hOpYqh5mUCFjFClThg_9aQbssA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1562",
   "raw_cells": {
     "col_0": {
-      "text": "24"
+      "text": "19"
     },
     "col_1": {
-      "text": "Versace"
+      "text": "Hermes"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcSbSV1bJAYUo3LCfPv5wkZmMoYkvEu3pQaz2z0gNMjr3-DK3IBHfKB1dU4FeqfuMe2I4QX9rORmyylBOm25t1Xs5OMnbEuYvjIdohD4B0q3Oq0US1edicu1J6MMev91zPTNikn-gdXEvV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az8BZA7OyHHWxvyE-FbcukK1MB09OhqLuIILybWXZZZj1r1Gq05hEiRtk97rC9EYFBIrggrAdeYRstq9tmBST8D8MaCa6lf1kTL_FFvJX7F-O0RdhV0hOpYqh5mUCFjFClThg_9aQbssA=w143-h110"
     },
     "col_3": {
-      "text": "MissChen",
+      "text": "MissChen/K8",
       "links": [
         {
           "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/2787390995?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/2779791292?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7238705718?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/557811120075?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
+      "text": "30$ / 34$"
+    },
+    "col_6": {
+      "text": "4$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "MissChen/K8/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1928070068359446530?action=discord&type=1&cid=1942512167859859457"
+          "label": "MissChen",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968139225972432898?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "K8",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1958696289811652609?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969952042518142978?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1562"
+  }
 }

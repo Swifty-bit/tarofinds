@@ -1,61 +1,64 @@
 {
-  "name": "CorteizC Star MohairKnit Sweater",
+  "name": "CorteizItaly ShukuTracksuit",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656807190%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656807190?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7589517853?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7589517853?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "28$",
+  "best_price": "83$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://goat-official.x.yupoo.com/albums/174325373?uid=1"
+      "url": "https://noghost.x.yupoo.com/albums/168397929?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwljOQnBax_tNYMSy8pk7c37KYMm6iyy11kScRdI2mvP3EimGJjpscONJsauZL6p8KUhn5WOmNFgBhvzYXBQNj7UsLaYZLC6az_ltyxTDuMR5s2ekdLSemGR7Lpm3wU1WgEmTQaXvcYjJr3=w143-h110",
+  "notes": "set 83$ - top 43$ - bottom 40$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxR7LOPZkN-pw5zkQvFLdR1hSevxC1wsD7oN-D9QvZeSQAhEYmJwxzRB11B94Nd1MKq4VQ9g7wPJSQxUlnczBeNPz-3K6M3M-EUF21Mj_Zhc8g9bNKDldrM5sHz3mDt-9uUm_raOQyd6Ho_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0684",
   "raw_cells": {
     "col_0": {
-      "text": "165"
+      "text": "161"
     },
     "col_1": {
-      "text": "CorteizC Star MohairKnit Sweater"
+      "text": "CorteizItaly ShukuTracksuit"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwljOQnBax_tNYMSy8pk7c37KYMm6iyy11kScRdI2mvP3EimGJjpscONJsauZL6p8KUhn5WOmNFgBhvzYXBQNj7UsLaYZLC6az_ltyxTDuMR5s2ekdLSemGR7Lpm3wU1WgEmTQaXvcYjJr3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxR7LOPZkN-pw5zkQvFLdR1hSevxC1wsD7oN-D9QvZeSQAhEYmJwxzRB11B94Nd1MKq4VQ9g7wPJSQxUlnczBeNPz-3K6M3M-EUF21Mj_Zhc8g9bNKDldrM5sHz3mDt-9uUm_raOQyd6Ho_=w143-h110"
     },
     "col_3": {
-      "text": "GOAT",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656807190?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7589517853?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
+      "text": "83$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://goat-official.x.yupoo.com/albums/174325373?uid=1"
+          "url": "https://noghost.x.yupoo.com/albums/168397929?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 83$ - top 43$ - bottom 40$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0684"
+  }
 }

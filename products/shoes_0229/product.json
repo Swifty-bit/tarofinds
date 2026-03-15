@@ -1,5 +1,5 @@
 {
-  "name": "Metallic Orange",
+  "name": "Metallic Green",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "",
@@ -8,7 +8,7 @@
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyKyDUMeE9bNa2qFuJj9WIrup7SdPyWJ3et9ZYZnWnowD5227lvH7H9AhDAfPjm7npDdgGkGjBw2RHtA7X_e4p2e1NgHOBquBVUHmuDtmmsHgnlA2Uk8Da9josUXSs36QItTLz1yluCDg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxbbXZvbAK9hkOk850_2APXfCuZLCL8X0zALj_Q6J0aAP4c8WbMxytVSG23wP4qhaDH48n4xQ2vrQaMgA37Jtmisw_393PV3zRLSKYqbvNDYI954aJYv-8ZaeqSifh1LltDtskhb8a-IPXH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0229",
   "raw_cells": {
     "col_0": {
       "text": "244"
     },
     "col_1": {
-      "text": "Metallic Orange"
+      "text": "Metallic Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyKyDUMeE9bNa2qFuJj9WIrup7SdPyWJ3et9ZYZnWnowD5227lvH7H9AhDAfPjm7npDdgGkGjBw2RHtA7X_e4p2e1NgHOBquBVUHmuDtmmsHgnlA2Uk8Da9josUXSs36QItTLz1yluCDg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxbbXZvbAK9hkOk850_2APXfCuZLCL8X0zALj_Q6J0aAP4c8WbMxytVSG23wP4qhaDH48n4xQ2vrQaMgA37Jtmisw_393PV3zRLSKYqbvNDYI954aJYv-8ZaeqSifh1LltDtskhb8a-IPXH=w143-h110"
     },
     "col_4": {
       "text": "KX",
@@ -41,7 +43,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0229"
+  }
 }

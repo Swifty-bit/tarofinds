@@ -1,47 +1,47 @@
 {
-  "name": "Prax 01",
+  "name": "Onitsuka Tiger Mexico 6633 Colours",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "WWTOP",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F865439274591%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/865439274591?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7565909052?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565909052?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "40$",
-  "pics_text": "40$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "28$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4uRmR7HwwRqJkndBNV3ekSqWBozR7dpMTyWenbj-1bO7nSyMg6uR2u4EJ1WxmF4a-Mc1qJFyrvrH1_BR-QNu7irdJtH_QmMOjPjKc8sWbCCPN8zONV8bTRv0Rt_odNeAmGMP5G_xvfg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzrfJYEwfKpJs7wpthJBpYAGENm2_Q9DaOkwREPR9FoKiyrXQpqpVZSCCvEo7F2AGSe-oSWJRe4ecgiKdVmFaKqAuGHeMsq03qJ4iJ_Bwl-_tV5vzg1LgryN74UC8uQH16MQWK9fkGdzfrH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0473",
   "raw_cells": {
     "col_0": {
-      "text": "540"
+      "text": "538"
     },
     "col_1": {
-      "text": "Prax 01"
+      "text": "Onitsuka Tiger Mexico 6633 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4uRmR7HwwRqJkndBNV3ekSqWBozR7dpMTyWenbj-1bO7nSyMg6uR2u4EJ1WxmF4a-Mc1qJFyrvrH1_BR-QNu7irdJtH_QmMOjPjKc8sWbCCPN8zONV8bTRv0Rt_odNeAmGMP5G_xvfg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzrfJYEwfKpJs7wpthJBpYAGENm2_Q9DaOkwREPR9FoKiyrXQpqpVZSCCvEo7F2AGSe-oSWJRe4ecgiKdVmFaKqAuGHeMsq03qJ4iJ_Bwl-_tV5vzg1LgryN74UC8uQH16MQWK9fkGdzfrH=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "WWTOP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/865439274591?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565909052?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "40$"
+    "col_5": {
+      "text": "28$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0473"
+  }
 }

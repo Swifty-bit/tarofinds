@@ -1,47 +1,47 @@
 {
-  "name": "Supreme Stars Black",
+  "name": "Purple Pigeon",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "OWF",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245075709%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+      "label": "OWF",
+      "url": "https://litbuy.com/product/taobao/7390134786?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7390134786?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "59$",
+  "best_price": "44$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyVtnKNCd0S-nLGOpXcjEsS1JVy-u2bCN4QSn0lL3KTRx5eaLjaR_idh9Dfkrm_ddxss0kdSSzSZMcxnKToV_OGw96FKWoZrsWwSDjnQNshsr_1XuiqY3-6Kbngdk_OecgpxZs6KEmd_17y=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUKvajdEK7jBMIdIbWqE725oIOOClptFNE-JewIl-IUsKYNhl1ExWphyCWFnL_o_XNkZ6L9wTdHbUahFzRKrJ3MoioOSJ2JSV8gqi5C3gCmXtrHyKjZYvLG-9Yvlt8xTt4L3czuTN30A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0094",
   "raw_cells": {
     "col_0": {
       "text": "103"
     },
     "col_1": {
-      "text": "Supreme Stars Black"
+      "text": "Purple Pigeon"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyVtnKNCd0S-nLGOpXcjEsS1JVy-u2bCN4QSn0lL3KTRx5eaLjaR_idh9Dfkrm_ddxss0kdSSzSZMcxnKToV_OGw96FKWoZrsWwSDjnQNshsr_1XuiqY3-6Kbngdk_OecgpxZs6KEmd_17y=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUKvajdEK7jBMIdIbWqE725oIOOClptFNE-JewIl-IUsKYNhl1ExWphyCWFnL_o_XNkZ6L9wTdHbUahFzRKrJ3MoioOSJ2JSV8gqi5C3gCmXtrHyKjZYvLG-9Yvlt8xTt4L3czuTN30A=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "OWF",
       "links": [
         {
-          "label": "OG",
-          "url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+          "label": "OWF",
+          "url": "https://oopbuy.com/product/2/7390134786?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "59$"
+      "text": "44$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0094"
+  }
 }

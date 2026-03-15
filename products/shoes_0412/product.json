@@ -1,74 +1,74 @@
 {
-  "name": "Dior B25",
+  "name": "Dior B22",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Ice Cream/Alexander",
+  "best_batch": "Koala",
   "best_batch_links": [
     {
-      "label": "Ice Cream",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7496052070%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7496052070?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "Alexander",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6883444254%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6883444254?inviteCode=29TOTHGNH"
+      "label": "Koala",
+      "url": "https://litbuy.com/product/weidian/765005637664?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/765005637664?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "FS/GD",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F742309176501%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/742309176501?inviteCode=29TOTHGNH"
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7530749664?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7530749664?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7405638817?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7405638817?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "89$",
-  "budget_price": "36$",
-  "pics_text": "36$",
+  "best_price": "126$",
+  "budget_price": "60$ / 51$",
+  "pics_text": "60$ / 51$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzIdShJ06jFh92STa1Bgtkjet5lAXdL4Hd_UG5T8ULVHBB2THK5HSCMI0wKxaPlIr9ZbUyUh1JtismBmw1uBG_JHvcJnezGI8R_lDabYpqYRj9iUWdEKrtjvbqnUQf9DDHQgoI4Bba7QsSJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax48In4obfhLLKPe3PKCbKDmVkEqV5hdZkidLve235Pr5t3E_zW1P_DUKCSecLETP4puRnFblzNhqPfwsc8uD8WGg46VAp2ZBj6BOpMsDxO7wXZeWuNXq8bpGipqEOmgPAHzahxjobxZRez=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0412",
   "raw_cells": {
     "col_0": {
       "text": "469"
     },
     "col_1": {
-      "text": "Dior B25"
+      "text": "Dior B22"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzIdShJ06jFh92STa1Bgtkjet5lAXdL4Hd_UG5T8ULVHBB2THK5HSCMI0wKxaPlIr9ZbUyUh1JtismBmw1uBG_JHvcJnezGI8R_lDabYpqYRj9iUWdEKrtjvbqnUQf9DDHQgoI4Bba7QsSJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax48In4obfhLLKPe3PKCbKDmVkEqV5hdZkidLve235Pr5t3E_zW1P_DUKCSecLETP4puRnFblzNhqPfwsc8uD8WGg46VAp2ZBj6BOpMsDxO7wXZeWuNXq8bpGipqEOmgPAHzahxjobxZRez=w143-h110"
     },
     "col_3": {
-      "text": "Ice Cream/Alexander",
+      "text": "Koala",
       "links": [
         {
-          "label": "Ice Cream",
-          "url": "https://oopbuy.com/product/weidian/7496052070?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "Alexander",
-          "url": "https://oopbuy.com/product/2/6883444254?inviteCode=29TOTHGNH"
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/765005637664?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "FS/GD",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/742309176501?inviteCode=29TOTHGNH"
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7530749664?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7405638817?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "89$"
+      "text": "126$"
     },
     "col_6": {
-      "text": "36$"
+      "text": "60$ / 51$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0412"
+  }
 }

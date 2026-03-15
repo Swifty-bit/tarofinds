@@ -1,61 +1,61 @@
 {
-  "name": "YSLJacket with back embroidery",
+  "name": "Fendi CapMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "tophotfashion",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7271513718%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7271513718?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/810711611793?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/810711611793?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "92$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://tophotfashion.x.yupoo.com/albums/174933891?uid=1&isSubCate=false&referrercate=4680044"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1993145272459415554?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayb0ZZD7kTFQjsHXmhN_6TTu6B1xeYBjiL7pZb2O73zYZKeu-gT2I0XiHTLo4guLoCM8_ZuT3_tS4ICoH9rHCo8K4DRFN6ujqSsyQEsq5weDYlQsrF_PiEI0q85-ALX0wsQxehMVKLVj3MM=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awi003n-l7bbeC22lHOVxG6ZeRCh3PBNvDsOkIh1TB2_-XUxqgjyb9D3r0YW7rmu9ADFyil45W1w2kLcZIJPX_4Hvb9JtzrDprEcOPmvvQv2O18mRlSt-csh9EQqmnEivgE_9oACPYt0Inh=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0849",
   "raw_cells": {
     "col_0": {
-      "text": "354"
+      "text": "346"
     },
     "col_1": {
-      "text": "YSLJacket with back embroidery"
+      "text": "Fendi CapMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayb0ZZD7kTFQjsHXmhN_6TTu6B1xeYBjiL7pZb2O73zYZKeu-gT2I0XiHTLo4guLoCM8_ZuT3_tS4ICoH9rHCo8K4DRFN6ujqSsyQEsq5weDYlQsrF_PiEI0q85-ALX0wsQxehMVKLVj3MM=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awi003n-l7bbeC22lHOVxG6ZeRCh3PBNvDsOkIh1TB2_-XUxqgjyb9D3r0YW7rmu9ADFyil45W1w2kLcZIJPX_4Hvb9JtzrDprEcOPmvvQv2O18mRlSt-csh9EQqmnEivgE_9oACPYt0Inh=w143-h110"
     },
-    "col_3": {
-      "text": "tophotfashion",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/2/7271513718?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/810711611793?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "92$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://tophotfashion.x.yupoo.com/albums/174933891?uid=1&isSubCate=false&referrercate=4680044"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1993145272459415554?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0849"
+  }
 }

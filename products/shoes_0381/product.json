@@ -1,47 +1,74 @@
 {
-  "name": "Hello KittyBAPE Sta",
+  "name": "Marvel BAPE Sta",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "WWTOP/CSJ",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F731847241960%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/731847241960?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7565966178?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565966178?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "CSJ",
+      "url": "https://litbuy.com/product/taobao/7239337365?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239337365?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "46$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/857304096312?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/857304096312?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "50$",
+  "budget_price": "20$",
+  "pics_text": "20$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZURSgKNcM6Fm5DSYtLsc4Yj1lpGH40tclLhJhQiPODip4bi2lKhyEWxVtOzjwZqv6jyHYa69aGE-tf9JNHD80IC0e1iZU3wOUh6zfndtEsM-7h8BEYKpHYMa1Ynlw0kYuhK_WZzf08g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay2ur2HoqK50fdaiUrY5aVYF4Vei3NLQ7DQh2pOQkFMlfzBE90AknAybD70bLwsjjDIxWJoZR21RKGKtRs9zCyVM7UWRE7mULFbNY9fp2fMMFXUGbzrO2vAofH0qWlsrIHSFF-mCuCst1R8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0381",
   "raw_cells": {
     "col_0": {
       "text": "422"
     },
     "col_1": {
-      "text": "Hello KittyBAPE Sta"
+      "text": "Marvel BAPE Sta"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZURSgKNcM6Fm5DSYtLsc4Yj1lpGH40tclLhJhQiPODip4bi2lKhyEWxVtOzjwZqv6jyHYa69aGE-tf9JNHD80IC0e1iZU3wOUh6zfndtEsM-7h8BEYKpHYMa1Ynlw0kYuhK_WZzf08g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay2ur2HoqK50fdaiUrY5aVYF4Vei3NLQ7DQh2pOQkFMlfzBE90AknAybD70bLwsjjDIxWJoZR21RKGKtRs9zCyVM7UWRE7mULFbNY9fp2fMMFXUGbzrO2vAofH0qWlsrIHSFF-mCuCst1R8=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "WWTOP/CSJ",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/731847241960?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565966178?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "CSJ",
+          "url": "https://oopbuy.com/product/2/7239337365?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/857304096312?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "50$"
+    },
+    "col_6": {
+      "text": "20$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0381"
+  }
 }

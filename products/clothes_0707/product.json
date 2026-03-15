@@ -1,61 +1,61 @@
 {
-  "name": "Gallery DeptHeadline RecordsT-Shirt",
+  "name": "Gallery DeptxLANVINT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Singor",
   "best_batch_links": [
     {
       "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F813768929881%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/813768929881?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/707417029205?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/707417029205?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "20$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1927087112455241729?action=discord&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://steven-1989.x.yupoo.com/albums/130949153?uid=1&isSubCate=false&referrercate=3256158"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzU04m1IZ8p042n0PXUR5VphSFolDDD5eIwi3r6h6iM93JAtjNoAX6TFES3fjfSavsO6meMKviDMnS1fOdwAPu2_3X3GzC1RCkzYITULYnKbKQaNS9EBj6toOdt9JNdJUSnSfl2UzxJRaf6=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcnheJYh8vqlu2g5crleFM7qt0aiasjqe2u0EXS0ZACXJInZz3v5ZDAfaBeIEzzP0V5MxIP7KqzirM74phUaGCH7eoDFF195_CVvWglQoo9hjZVvUvZCtgr3S1MbROmejn0GvpWtbnRdN2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0707",
   "raw_cells": {
     "col_0": {
-      "text": "190"
+      "text": "186"
     },
     "col_1": {
-      "text": "Gallery DeptHeadline RecordsT-Shirt"
+      "text": "Gallery DeptxLANVINT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzU04m1IZ8p042n0PXUR5VphSFolDDD5eIwi3r6h6iM93JAtjNoAX6TFES3fjfSavsO6meMKviDMnS1fOdwAPu2_3X3GzC1RCkzYITULYnKbKQaNS9EBj6toOdt9JNdJUSnSfl2UzxJRaf6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcnheJYh8vqlu2g5crleFM7qt0aiasjqe2u0EXS0ZACXJInZz3v5ZDAfaBeIEzzP0V5MxIP7KqzirM74phUaGCH7eoDFF195_CVvWglQoo9hjZVvUvZCtgr3S1MbROmejn0GvpWtbnRdN2=w143-h110"
     },
     "col_3": {
       "text": "Singor",
       "links": [
         {
           "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/813768929881?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/707417029205?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "20$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1927087112455241729?action=discord&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://steven-1989.x.yupoo.com/albums/130949153?uid=1&isSubCate=false&referrercate=3256158"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0707"
+  }
 }

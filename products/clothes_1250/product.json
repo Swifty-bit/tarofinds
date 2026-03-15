@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaTape T-Shirt",
+  "name": "Emporio ArmaniPOLO",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "1to1",
+  "best_batch": "TopArmani",
   "best_batch_links": [
     {
-      "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6187744799%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6187744799?inviteCode=29TOTHGNH"
+      "label": "TopArmani",
+      "url": "https://litbuy.com/product/weidian/917933493099?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/917933493099?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "38$",
+  "best_price": "21$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/132463695?uid=1"
+      "url": "https://toparmani.x.yupoo.com/albums/118091952?uid=1&isSubCate=false&referrercate=4172967"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtKvRchr4xccE42p7XRl8dwpFd7gOLMLUdXbn56p1eODC_hyH5t4D8TUkb_MlheObNFfiuj9I7ETbCtnZMtw0353DK1Lkws-n05te6qcxw2EVPuWWzM6D5F46O26Ks2eB2HAq5kVQSwJVw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxE-0sXaHrLc31_d9MgWLk6HO-UDwCaeRYggOdgufGLmqwANUpIHcIPYcibxec_mQwhTvoLgXqL8brZwi0jTyY0_HaN9-7b78EscO6XAyB_wlVMSp12djoB2SrInchLGeZHLUxSNgevg9-C=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1250",
   "raw_cells": {
     "col_0": {
-      "text": "839"
+      "text": "833"
     },
     "col_1": {
-      "text": "BalenciagaTape T-Shirt"
+      "text": "Emporio ArmaniPOLO"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtKvRchr4xccE42p7XRl8dwpFd7gOLMLUdXbn56p1eODC_hyH5t4D8TUkb_MlheObNFfiuj9I7ETbCtnZMtw0353DK1Lkws-n05te6qcxw2EVPuWWzM6D5F46O26Ks2eB2HAq5kVQSwJVw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxE-0sXaHrLc31_d9MgWLk6HO-UDwCaeRYggOdgufGLmqwANUpIHcIPYcibxec_mQwhTvoLgXqL8brZwi0jTyY0_HaN9-7b78EscO6XAyB_wlVMSp12djoB2SrInchLGeZHLUxSNgevg9-C=w143-h110"
     },
     "col_3": {
-      "text": "1to1",
+      "text": "TopArmani",
       "links": [
         {
-          "label": "1to1",
-          "url": "https://oopbuy.com/product/2/6187744799?inviteCode=29TOTHGNH"
+          "label": "TopArmani",
+          "url": "https://www.oopbuy.com/product/1/917933493099?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "21$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/132463695?uid=1"
+          "url": "https://toparmani.x.yupoo.com/albums/118091952?uid=1&isSubCate=false&referrercate=4172967"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1250"
+  }
 }

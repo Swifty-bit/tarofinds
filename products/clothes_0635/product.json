@@ -1,87 +1,61 @@
 {
-  "name": "Ralph LaurenBlack ShinyDown Jacket",
+  "name": "Ralph LaurenHooded Windbreaker",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
-  "best_batch_links": [
-    {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7623833303%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7623833303?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F974109320834%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/974109320834?inviteCode=29TOTHGNH"
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/753676734133?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/753676734133?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "76$",
-  "budget_price": "21$",
-  "pics_text": "NEWDP/budget",
+  "best_price": "",
+  "budget_price": "32$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "NEWDP",
-      "url": "https://newdp.x.yupoo.com/albums/216562163?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2020706038074920962?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1883787112022642690?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxdJ6so5RIdvJrA9TpW-2R7zSNUTCOG4YK6XchKDrbcSkjxidupPDjCrjBDD7xiQgZHVI1CutVd34-LBxTy1h-RYX5jZtjuhWB5t_WBkCP7sbW7I6CZpD-Jw0pclQdFACFUst35FdMjnACz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5-qy8H3rhv1pge5ytHuZo92dahMamSf5_CRjK_wjUXS1U01eYuC-KYp26ddaUA4YJJ84WqOIUdpUofMWAIi6vffs1eT6yYx5prVZMCrZAvDrqg5xVe4wJVTYpCqSQfWe4bRBWpAcjUCdH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0635",
   "raw_cells": {
     "col_0": {
-      "text": "106"
+      "text": "102"
     },
     "col_1": {
-      "text": "Ralph LaurenBlack ShinyDown Jacket"
+      "text": "Ralph LaurenHooded Windbreaker"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxdJ6so5RIdvJrA9TpW-2R7zSNUTCOG4YK6XchKDrbcSkjxidupPDjCrjBDD7xiQgZHVI1CutVd34-LBxTy1h-RYX5jZtjuhWB5t_WBkCP7sbW7I6CZpD-Jw0pclQdFACFUst35FdMjnACz=w143-h110"
-    },
-    "col_3": {
-      "text": "NEWDP",
-      "links": [
-        {
-          "label": "NEWDP",
-          "url": "https://oopbuy.com/product/weidian/7623833303?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5-qy8H3rhv1pge5ytHuZo92dahMamSf5_CRjK_wjUXS1U01eYuC-KYp26ddaUA4YJJ84WqOIUdpUofMWAIi6vffs1eT6yYx5prVZMCrZAvDrqg5xVe4wJVTYpCqSQfWe4bRBWpAcjUCdH=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "CloudShop",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/974109320834?inviteCode=29TOTHGNH"
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/753676734133?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "76$"
-    },
     "col_6": {
-      "text": "21$"
+      "text": "32$"
     },
     "col_7": {
-      "text": "NEWDP/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://newdp.x.yupoo.com/albums/216562163?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2020706038074920962?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1883787112022642690?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0635"
+  }
 }

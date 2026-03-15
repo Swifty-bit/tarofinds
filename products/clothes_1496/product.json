@@ -1,61 +1,61 @@
 {
-  "name": "Rick Owens Pants",
+  "name": "MontbellDark Blue Puffer",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PinkElephant",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "PinkElephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4351329202%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4351329202?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7586780247?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7586780247?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "39$",
+  "best_price": "68$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/WEIDIAN/5596707916"
+      "label": "pics",
+      "url": "https://noghost.x.yupoo.com/albums/207748388?uid=1&isSubCate=false&referrercate=5060836"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-9hu3FR9LT4i3gHd8KvukiRkopZI2zOV1ixGR3UWbMY08FpM3FGEoRAH_PIYZciytftfS6xAJ3TG_5ZVKk67q4ZaqvUPXjvhDKrYbA0n7v_IBtuR4sM5WBllrLJe5rHR71Kb6BO20YmXc=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWQrQ2C7x_74SgKgImla05k3BuZ-LVS2aaFLuIrsWYVVJugv_TRzWftx1hj3PWyS2L8j0HxOUG8A0K1fiUesR5J343vwAx0YLEVE06IGM1bObzMB2RSMmFsiukTI9uNOzn-X2WwFJHMvCn=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1496",
   "raw_cells": {
     "col_0": {
-      "text": "1125"
+      "text": "1119"
     },
     "col_1": {
-      "text": "Rick Owens Pants"
+      "text": "MontbellDark Blue Puffer"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-9hu3FR9LT4i3gHd8KvukiRkopZI2zOV1ixGR3UWbMY08FpM3FGEoRAH_PIYZciytftfS6xAJ3TG_5ZVKk67q4ZaqvUPXjvhDKrYbA0n7v_IBtuR4sM5WBllrLJe5rHR71Kb6BO20YmXc=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWQrQ2C7x_74SgKgImla05k3BuZ-LVS2aaFLuIrsWYVVJugv_TRzWftx1hj3PWyS2L8j0HxOUG8A0K1fiUesR5J343vwAx0YLEVE06IGM1bObzMB2RSMmFsiukTI9uNOzn-X2WwFJHMvCn=w143-h110"
     },
     "col_3": {
-      "text": "PinkElephant",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "PinkElephant",
-          "url": "https://oopbuy.com/product/weidian/4351329202?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7586780247?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "39$"
+      "text": "68$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/WEIDIAN/5596707916"
+          "label": "pics",
+          "url": "https://noghost.x.yupoo.com/albums/207748388?uid=1&isSubCate=false&referrercate=5060836"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1496"
+  }
 }

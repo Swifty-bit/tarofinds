@@ -1,61 +1,79 @@
 {
-  "name": "Eric EmanuelFlame Shorts2 Colours",
+  "name": "Eric EmanuelNew YorkSkyline Shorts",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792718020125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/792582054745?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "UnionKingdom",
+  "budget_batch_links": [
+    {
+      "label": "UnionKingdom",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "23$",
-  "budget_price": "",
+  "budget_price": "15$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/135571142?uid=1"
+      "url": "https://angelking47.x.yupoo.com/albums/97374541?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVHDAZBqjhUtE0noAE1FEbNpO4KCiFuy4W2CTua4c0wBSo_5EfuY6YbVCHXS5huWTPclxoAeVgiwnTs1rofSyZRL3C-z6czYC4JI_y1S3lLP2sfabseNkAWFwfMSH2WSdZBQwoug2j1kcf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw5xnxVVCS-o1v92Ri96xVnDcFT5prMI38gad4lJx2bKrl-EnHNjEMd3gjJWCm6e50L6w7xGMOkpn0qRFW6bNAl_DsQ7nacLRXDu4MPSzrBapK4bTMCE--2s8pifGh7t82grtqb-htw7nC2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1373",
   "raw_cells": {
     "col_0": {
-      "text": "974"
+      "text": "970"
     },
     "col_1": {
-      "text": "Eric EmanuelFlame Shorts2 Colours"
+      "text": "Eric EmanuelNew YorkSkyline Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVHDAZBqjhUtE0noAE1FEbNpO4KCiFuy4W2CTua4c0wBSo_5EfuY6YbVCHXS5huWTPclxoAeVgiwnTs1rofSyZRL3C-z6czYC4JI_y1S3lLP2sfabseNkAWFwfMSH2WSdZBQwoug2j1kcf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw5xnxVVCS-o1v92Ri96xVnDcFT5prMI38gad4lJx2bKrl-EnHNjEMd3gjJWCm6e50L6w7xGMOkpn0qRFW6bNAl_DsQ7nacLRXDu4MPSzrBapK4bTMCE--2s8pifGh7t82grtqb-htw7nC2=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "UnionKingdom",
+      "links": [
+        {
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "23$"
     },
+    "col_6": {
+      "text": "15$"
+    },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/135571142?uid=1"
+          "url": "https://angelking47.x.yupoo.com/albums/97374541?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1373"
+  }
 }

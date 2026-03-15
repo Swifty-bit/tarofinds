@@ -1,78 +1,50 @@
 {
-  "name": "Ralph LaurenLong Socks",
+  "name": "Nike Socks",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "CND ISLAND",
-  "best_batch_links": [
-    {
-      "label": "CND ISLAND",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7447183357%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7447183357?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F842628826623%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/618611405731?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/618611405731?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "7$(6 Pairs)",
-  "budget_price": "1$",
-  "pics_text": "1$",
+  "best_price": "0,40$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
-  "notes": "best/budget",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azp5oJJfDGG3gJbwPetoLnpPAErLsUt5IU-O1JKytiZF0_YgVNcm12RObW-fNiuUJDqcZrNStcisUV136RW10bhiyU80hcKQExD5TjyqFF625zfl0pAcQ2okQdvxR69jZNZJws-JTVLsg=w143-h110",
+  "notes": "Very thin",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCRjrBF8FKwYf6iFntm13-yrqSRPqmslexMQdRAlq_Ez9OzwjpHRpVR7nNRQT8iSCRWLPECJc3hJ7E2yleKXVl0YO7OlwxWsyDJkuA51EsYi92dRpGlFd4qywc3bZFp4-QrLNSKZT8bg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0536",
   "raw_cells": {
     "col_0": {
       "text": "653"
     },
     "col_1": {
-      "text": "Ralph LaurenLong Socks"
+      "text": "Nike Socks"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azp5oJJfDGG3gJbwPetoLnpPAErLsUt5IU-O1JKytiZF0_YgVNcm12RObW-fNiuUJDqcZrNStcisUV136RW10bhiyU80hcKQExD5TjyqFF625zfl0pAcQ2okQdvxR69jZNZJws-JTVLsg=w143-h110"
-    },
-    "col_3": {
-      "text": "CND ISLAND",
-      "links": [
-        {
-          "label": "CND ISLAND",
-          "url": "https://oopbuy.com/product/weidian/7447183357?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCRjrBF8FKwYf6iFntm13-yrqSRPqmslexMQdRAlq_Ez9OzwjpHRpVR7nNRQT8iSCRWLPECJc3hJ7E2yleKXVl0YO7OlwxWsyDJkuA51EsYi92dRpGlFd4qywc3bZFp4-QrLNSKZT8bg=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "here",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/618611405731?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "7$(6 Pairs)"
-    },
-    "col_6": {
-      "text": "1$"
+      "text": "0,40$"
     },
     "col_7": {
-      "text": "best/budget",
-      "links": [
-        {
-          "label": "best",
-          "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
-        }
-      ]
+      "text": "Very thin"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0536"
+  }
 }

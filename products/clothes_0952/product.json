@@ -1,61 +1,64 @@
 {
-  "name": "Ami ParisClassic LogoT-Shirt5 Colours",
+  "name": "Denim TearsHoodie and PantsMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TOPAMI",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "33TRENTE",
+  "budget_batch_links": [
     {
-      "label": "TOPAMI",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F700284994293%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/700284994293?inviteCode=29TOTHGNH"
+      "label": "33TRENTE",
+      "url": "https://litbuy.com/product/weidian/680415390619?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "16$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "42$(SET)",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://amiparis.x.yupoo.com/albums/172686485?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzCVOqzYQnOKm3EnG551Z1Q5nnKQV22DbYjGFbxpYvsF3mSVp5mYLDqknB3Ni-QyIwkmpmrfV8By186dl1hA4H-S_HcmCFPfUmQv4tiwz-HQ2SQ7zgp551e4OtHUDpo3NWWTuds4qEKFkWv=w143-h110",
+  "notes": "set 42$ - hoodie 21$ - pants 21$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AznIrSfG-dCwakGRATjbcvS-VIsN8e92IN-PZLZfV1SO4HEpgMUoPjiL7B6blaRQTd2x1eMA6wr3yiPYnWogMh4P6QmRMHpRQjT2RGQ1P1SS28K9Te9c-vKiT1EcYsVYc_huDU7BrsExQTw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0952",
   "raw_cells": {
     "col_0": {
-      "text": "483"
+      "text": "477"
     },
     "col_1": {
-      "text": "Ami ParisClassic LogoT-Shirt5 Colours"
+      "text": "Denim TearsHoodie and PantsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzCVOqzYQnOKm3EnG551Z1Q5nnKQV22DbYjGFbxpYvsF3mSVp5mYLDqknB3Ni-QyIwkmpmrfV8By186dl1hA4H-S_HcmCFPfUmQv4tiwz-HQ2SQ7zgp551e4OtHUDpo3NWWTuds4qEKFkWv=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AznIrSfG-dCwakGRATjbcvS-VIsN8e92IN-PZLZfV1SO4HEpgMUoPjiL7B6blaRQTd2x1eMA6wr3yiPYnWogMh4P6QmRMHpRQjT2RGQ1P1SS28K9Te9c-vKiT1EcYsVYc_huDU7BrsExQTw=w143-h110"
     },
-    "col_3": {
-      "text": "TOPAMI",
+    "col_4": {
+      "text": "33TRENTE",
       "links": [
         {
-          "label": "TOPAMI",
-          "url": "https://oopbuy.com/product/1/700284994293?inviteCode=29TOTHGNH"
+          "label": "33TRENTE",
+          "url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "16$"
+    "col_6": {
+      "text": "42$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://amiparis.x.yupoo.com/albums/172686485?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 42$ - hoodie 21$ - pants 21$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0952"
+  }
 }

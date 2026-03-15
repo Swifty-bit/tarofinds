@@ -1,47 +1,47 @@
 {
-  "name": "Chrome Hearts Birkenstock",
+  "name": "Unicorn",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "WWTOP",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F720927111867%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/720927111867?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7564036731?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564036731?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "86$",
+  "best_price": "77$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnebiEfe15BPih4S20gDLGZru-RET0eUi7NXbfMkrPRzP0imWNaRJPGLDk4LBbyprnkZd6LoDrqzSSu-FroLDXOhr_Zh9Lb2EQj-tyMgjBWxGFAM1hkOWVPvJhrr01A9qbouTqoow1N6tr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayx2M3bXbPte6a5mW6s4OzHRzFrsbxox3mrBI6bWa9fxM_KRtUcXWizPqHUDPY9MTNCzpaALAx-mhHnlaxDUrFrXr21GO0ldm3ixgFDGee2r-YC_iqu_d0x9oK7sBY61vxEFrgbvsr_SDPU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0516",
   "raw_cells": {
     "col_0": {
-      "text": "623"
+      "text": "621"
     },
     "col_1": {
-      "text": "Chrome Hearts Birkenstock"
+      "text": "Unicorn"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnebiEfe15BPih4S20gDLGZru-RET0eUi7NXbfMkrPRzP0imWNaRJPGLDk4LBbyprnkZd6LoDrqzSSu-FroLDXOhr_Zh9Lb2EQj-tyMgjBWxGFAM1hkOWVPvJhrr01A9qbouTqoow1N6tr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayx2M3bXbPte6a5mW6s4OzHRzFrsbxox3mrBI6bWa9fxM_KRtUcXWizPqHUDPY9MTNCzpaALAx-mhHnlaxDUrFrXr21GO0ldm3ixgFDGee2r-YC_iqu_d0x9oK7sBY61vxEFrgbvsr_SDPU=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "WWTOP",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/1/720927111867?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7564036731?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "86$"
+      "text": "77$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0516"
+  }
 }

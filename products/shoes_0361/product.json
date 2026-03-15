@@ -1,65 +1,47 @@
 {
-  "name": "550",
+  "name": "993",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PZ",
+  "best_batch": "ZC",
   "best_batch_links": [
     {
-      "label": "PZ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240415704%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240415704?inviteCode=29TOTHGNH"
+      "label": "ZC",
+      "url": "https://litbuy.com/product/taobao/7245017777?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245017777?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "TJ",
-  "budget_batch_links": [
-    {
-      "label": "TJ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6480022480%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6480022480?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "26$",
-  "budget_price": "19$",
-  "pics_text": "19$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "46$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPqDoOr4oXvXivMQ0AHC_d5N_R4CXBiyC3sYuRx5ZnaNdXNqINUQvYpcYV8QKPbY_V-4_Q14QEowPg0BPNuZ19aaCsOfQIQtqLVl7dooIaoqxnUJZ8p_36r9Urj98Mt5tSbd0ooMfNkqkO=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyqXPl7-jfMNd4QAMYmxpa5SJrfiY59P8VBguvwZ8JkDuiOlOB2Fck-iU15V__m6zqsV-Xp8NVCiqHWovsF2AyZPdwbUxjVnQNMLMzxMm5-OEJYWS-eyQfS465aGj_5F_iUsbaC99StJaXg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0361",
   "raw_cells": {
     "col_0": {
       "text": "394"
     },
     "col_1": {
-      "text": "550"
+      "text": "993"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPqDoOr4oXvXivMQ0AHC_d5N_R4CXBiyC3sYuRx5ZnaNdXNqINUQvYpcYV8QKPbY_V-4_Q14QEowPg0BPNuZ19aaCsOfQIQtqLVl7dooIaoqxnUJZ8p_36r9Urj98Mt5tSbd0ooMfNkqkO=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyqXPl7-jfMNd4QAMYmxpa5SJrfiY59P8VBguvwZ8JkDuiOlOB2Fck-iU15V__m6zqsV-Xp8NVCiqHWovsF2AyZPdwbUxjVnQNMLMzxMm5-OEJYWS-eyQfS465aGj_5F_iUsbaC99StJaXg=w143-h110"
     },
     "col_3": {
-      "text": "PZ",
+      "text": "ZC",
       "links": [
         {
-          "label": "PZ",
-          "url": "https://oopbuy.com/product/2/7240415704?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "TJ",
-      "links": [
-        {
-          "label": "TJ",
-          "url": "https://oopbuy.com/product/2/6480022480?inviteCode=29TOTHGNH"
+          "label": "ZC",
+          "url": "https://oopbuy.com/product/2/7245017777?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$"
-    },
-    "col_6": {
-      "text": "19$"
+      "text": "46$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0361"
+  }
 }

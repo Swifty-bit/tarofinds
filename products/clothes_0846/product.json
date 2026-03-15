@@ -1,61 +1,61 @@
 {
-  "name": "Chanel Beanie",
+  "name": "FendiSummer Set",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "budget",
+  "budget_batch": "Mangobuy",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F864759881020%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/864759881020?inviteCode=29TOTHGNH"
+      "label": "Mangobuy",
+      "url": "https://litbuy.com/product/weidian/7238024762?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7238024762?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "6$",
+  "budget_price": "30$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1990246427622723585?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1980100555754803202?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1cR8xxHmw9uh9W3r-mEuZcnrt3_Z3DZB1kmPmBjf6EPwVWqMvGUDm-neG_eha0jJrVWv8OLjzYg8kIP5LIIw0_o_p9XHZ3Ugbct_fiYywvtg87un1cxAfYN2-3mkJrCEIcVmXw5HEYX9R=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzGKnUvuliTD7P6xzWUdGkPR89rDAbmC3TaQmvzXOr1-JxsTWKnbjwkS_NnVtWRyWNi04q93DMeub4Aj-Zvq_K-jJ6AqLOP7dtrH9cNHPBuaGK9q7fNp41xKvCB7YMoij1lSgHTsSFzNkIR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0846",
   "raw_cells": {
     "col_0": {
-      "text": "349"
+      "text": "343"
     },
     "col_1": {
-      "text": "Chanel Beanie"
+      "text": "FendiSummer Set"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1cR8xxHmw9uh9W3r-mEuZcnrt3_Z3DZB1kmPmBjf6EPwVWqMvGUDm-neG_eha0jJrVWv8OLjzYg8kIP5LIIw0_o_p9XHZ3Ugbct_fiYywvtg87un1cxAfYN2-3mkJrCEIcVmXw5HEYX9R=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzGKnUvuliTD7P6xzWUdGkPR89rDAbmC3TaQmvzXOr1-JxsTWKnbjwkS_NnVtWRyWNi04q93DMeub4Aj-Zvq_K-jJ6AqLOP7dtrH9cNHPBuaGK9q7fNp41xKvCB7YMoij1lSgHTsSFzNkIR=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "Mangobuy",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/864759881020?inviteCode=29TOTHGNH"
+          "label": "Mangobuy",
+          "url": "https://oopbuy.com/product/weidian/7238024762?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "6$"
+      "text": "30$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1990246427622723585?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1980100555754803202?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0846"
+  }
 }

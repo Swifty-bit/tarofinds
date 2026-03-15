@@ -1,0 +1,61 @@
+{
+  "name": "Fit Pro",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
+    {
+      "label": "ThebigY",
+      "url": "https://litbuy.com/product/weidian/7270917929?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7270917929?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "16$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1953988499436298242?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxNkWOgf2UhZZZU5SClE-kziBp3mPLPH9tqorHBDGdMLZsq9n1XTphudfGG3rlWWig0y-f-dHZjYV94BjWVdhIM2kCjBdKhRnSLCGt0ZUe7k7QG2ZCB3Te9i-ExbfmEx3TY0G4ZvEBkJg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "electronics_1712",
+  "raw_cells": {
+    "col_0": {
+      "text": "21"
+    },
+    "col_1": {
+      "text": "Fit Pro"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxNkWOgf2UhZZZU5SClE-kziBp3mPLPH9tqorHBDGdMLZsq9n1XTphudfGG3rlWWig0y-f-dHZjYV94BjWVdhIM2kCjBdKhRnSLCGt0ZUe7k7QG2ZCB3Te9i-ExbfmEx3TY0G4ZvEBkJg=w143-h110"
+    },
+    "col_4": {
+      "text": "ThebigY",
+      "links": [
+        {
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7270917929?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "16$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1953988499436298242?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

@@ -1,47 +1,47 @@
 {
-  "name": "Alo Yoga Sunset",
+  "name": "LoeweBallet Runner",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "Repsun",
   "best_batch_links": [
     {
       "label": "Repsun",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7600121215%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7600121215?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7432162309?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7432162309?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "57$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8hngF1cCXeGEK0KpqXwGkSflnCxbP3Pp1Nt56hvBrXIs28ns_K4PVvgcgvuyXA4AzC6r4kLtOt8ZsilY9NGL9NVT0wdTCbHP8VSlA94CrVksO1F39NzRGoL21KDB_3fznbbYVHmym4Bhw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYEEA_kOuqo5eDc916Ie6bZB5X-nUHFp-3z5HTKLhPT6ibxHXRquT4WgG-VK-pfilv6mVNPnDIXGLfR1ik0hSU4Aym-6JVoC6JMjN2tL5xY4O8rWTvD_89o8w6czE9hSPuOhtvIkz2n0Hc=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0499",
   "raw_cells": {
     "col_0": {
-      "text": "588"
+      "text": "584"
     },
     "col_1": {
-      "text": "Alo Yoga Sunset"
+      "text": "LoeweBallet Runner"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8hngF1cCXeGEK0KpqXwGkSflnCxbP3Pp1Nt56hvBrXIs28ns_K4PVvgcgvuyXA4AzC6r4kLtOt8ZsilY9NGL9NVT0wdTCbHP8VSlA94CrVksO1F39NzRGoL21KDB_3fznbbYVHmym4Bhw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYEEA_kOuqo5eDc916Ie6bZB5X-nUHFp-3z5HTKLhPT6ibxHXRquT4WgG-VK-pfilv6mVNPnDIXGLfR1ik0hSU4Aym-6JVoC6JMjN2tL5xY4O8rWTvD_89o8w6czE9hSPuOhtvIkz2n0Hc=w143-h110"
     },
     "col_3": {
       "text": "Repsun",
       "links": [
         {
           "label": "Repsun",
-          "url": "https://oopbuy.com/product/weidian/7600121215?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7432162309?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "57$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0499"
+  }
 }

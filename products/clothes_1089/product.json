@@ -1,55 +1,57 @@
 {
-  "name": "MertraTracksuitGrey/Black",
+  "name": "MertraBigstep Jorts (Blue) Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "firerep",
+  "best_batch": "elephant",
   "best_batch_links": [
     {
-      "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7594157553%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7594157553?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7542166860?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7542166860?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "77$(SET)",
-  "budget_price": "35$(SET)",
-  "pics_text": "firerep/budget",
+  "best_price": "22$",
+  "budget_price": "16$",
+  "pics_text": "elephant/budget",
   "pics_links": [
     {
-      "label": "firerep",
-      "url": "https://firerep.x.yupoo.com/albums/205221435?uid=1&isSubCate=false&referrercate=4690816"
+      "label": "elephant",
+      "url": "https://elephant-factory.x.yupoo.com/albums/208987324?uid=1&isSubCate=false&referrercate=5000643"
     },
     {
       "label": "budget",
       "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "set 77$ - top 42$ - bottom 35$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwlhRrjzbQnqu8iRIilTDy0X674pVucAkkb8NS_8Uv-6TgJhrifmwsM5RbZbmfu_pB7Z_rUtOu5f7jZnJNO1vFmwyktV34vxBHfg2U9tN4WLdn-X2DRQorKAdKaHuY--QEEBx6poVaT7sD7=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyK0Z1sSFCdLm04z16lvSrEUq6YZ4Q517rhaOOj3E_dds8NGYjvx4KbaJF7OQu0i8MC4XAAztQLuBTipL9h7L3cgYVa4tyOE0HepaAT8hmQJfgl-LrVLTaJKVD1ekznwtU42W7Dsjoft4oV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1089",
   "raw_cells": {
     "col_0": {
-      "text": "640"
+      "text": "636"
     },
     "col_1": {
-      "text": "MertraTracksuitGrey/Black"
+      "text": "MertraBigstep Jorts (Blue) Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwlhRrjzbQnqu8iRIilTDy0X674pVucAkkb8NS_8Uv-6TgJhrifmwsM5RbZbmfu_pB7Z_rUtOu5f7jZnJNO1vFmwyktV34vxBHfg2U9tN4WLdn-X2DRQorKAdKaHuY--QEEBx6poVaT7sD7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyK0Z1sSFCdLm04z16lvSrEUq6YZ4Q517rhaOOj3E_dds8NGYjvx4KbaJF7OQu0i8MC4XAAztQLuBTipL9h7L3cgYVa4tyOE0HepaAT8hmQJfgl-LrVLTaJKVD1ekznwtU42W7Dsjoft4oV=w143-h110"
     },
     "col_3": {
-      "text": "firerep",
+      "text": "elephant",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://oopbuy.com/product/weidian/7594157553?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7542166860?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,28 +65,23 @@
       ]
     },
     "col_5": {
-      "text": "77$(SET)"
+      "text": "22$"
     },
     "col_6": {
-      "text": "35$(SET)"
+      "text": "16$"
     },
     "col_7": {
-      "text": "firerep/budget",
+      "text": "elephant/budget",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://firerep.x.yupoo.com/albums/205221435?uid=1&isSubCate=false&referrercate=4690816"
+          "label": "elephant",
+          "url": "https://elephant-factory.x.yupoo.com/albums/208987324?uid=1&isSubCate=false&referrercate=5000643"
         },
         {
           "label": "budget",
           "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 77$ - top 42$ - bottom 35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1089"
+  }
 }

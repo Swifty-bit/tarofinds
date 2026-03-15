@@ -1,74 +1,47 @@
 {
-  "name": "Out Of Office White \"For Walking\"",
+  "name": "Supreme x Timberland",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GZ/Shark",
+  "best_batch": "WWT",
   "best_batch_links": [
     {
-      "label": "GZ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565966270%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "Shark",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7614176437%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
+      "label": "WWT",
+      "url": "https://litbuy.com/product/weidian/7563993287?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "YC",
-  "budget_batch_links": [
-    {
-      "label": "YC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7614207865%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "52$ / 50$",
-  "budget_price": "33$",
-  "pics_text": "33$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "55$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyN-elj3UcPfAtQm3mKCs9xI67FmlHUqEu7s7eDJ-y3OsxfPhzwPUA7gI0PQzGCg6dPUp7IqGvzOXdcgMjMiRBnb8HGkDvIp0fjfZZk6-TL8MGkYQI6qKfXg2lsEF-Gg20bkMd1d28CVA87=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeXdcr2Ia5KiMkl61blKRXC1aMXVU1fmjcEPdE4LhHHmTU14AlEPIqPj-_DQlCyLMEARfyP-AVTrBC1-BmrSmu-Du_rxEwuJCyHAs0dbpb0PXdRzBOpQaPx2md3_CTm6uPKwU6YGNQNqlD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0370",
   "raw_cells": {
     "col_0": {
-      "text": "409"
+      "text": "405"
     },
     "col_1": {
-      "text": "Out Of Office White \"For Walking\""
+      "text": "Supreme x Timberland"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyN-elj3UcPfAtQm3mKCs9xI67FmlHUqEu7s7eDJ-y3OsxfPhzwPUA7gI0PQzGCg6dPUp7IqGvzOXdcgMjMiRBnb8HGkDvIp0fjfZZk6-TL8MGkYQI6qKfXg2lsEF-Gg20bkMd1d28CVA87=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeXdcr2Ia5KiMkl61blKRXC1aMXVU1fmjcEPdE4LhHHmTU14AlEPIqPj-_DQlCyLMEARfyP-AVTrBC1-BmrSmu-Du_rxEwuJCyHAs0dbpb0PXdRzBOpQaPx2md3_CTm6uPKwU6YGNQNqlD=w143-h110"
     },
     "col_3": {
-      "text": "GZ/Shark",
+      "text": "WWT",
       "links": [
         {
-          "label": "GZ",
-          "url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "Shark",
-          "url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "YC",
-      "links": [
-        {
-          "label": "YC",
-          "url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
+          "label": "WWT",
+          "url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "52$ / 50$"
-    },
-    "col_6": {
-      "text": "33$"
+      "text": "55$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0370"
+  }
 }

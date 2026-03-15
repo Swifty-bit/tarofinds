@@ -1,61 +1,61 @@
 {
-  "name": "Emporio ArmaniT-Shirt",
+  "name": "Old MoneyPOLO",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TopArmani",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "TopArmani",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F916563219652%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/916563219652?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/894478711277?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/894478711277?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "5$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://toparmani.x.yupoo.com/albums/118091963?uid=1&isSubCate=false&referrercate=4172967"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1978285984178593794?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awf_IEfONy41VGwqSUA0U-yHW3cKeeTp1-lPZGsLsFjfpXuUSACe1QEFlz2Qv4QB8Y6epZqR9xTaocO1HVtNNxvPalODouPq44dQZWcGhBUL6RPTfSOH4O3Beoc_jX7koNMk51ILwFzwg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0QBpVA9S71eyddECtKJLN0FXVFfB_BA5ZuY-B03wcrA06P9rdOKBi_4SnWBrivAfm7dVFxxROBRjwSnZfUGSwNhkQUbCPRyVRydM4A3_RcTa4JWyvGwFxHEE4rxorY34iyYWAVVHL4Mjg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1245",
   "raw_cells": {
     "col_0": {
-      "text": "832"
+      "text": "826"
     },
     "col_1": {
-      "text": "Emporio ArmaniT-Shirt"
+      "text": "Old MoneyPOLO"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awf_IEfONy41VGwqSUA0U-yHW3cKeeTp1-lPZGsLsFjfpXuUSACe1QEFlz2Qv4QB8Y6epZqR9xTaocO1HVtNNxvPalODouPq44dQZWcGhBUL6RPTfSOH4O3Beoc_jX7koNMk51ILwFzwg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0QBpVA9S71eyddECtKJLN0FXVFfB_BA5ZuY-B03wcrA06P9rdOKBi_4SnWBrivAfm7dVFxxROBRjwSnZfUGSwNhkQUbCPRyVRydM4A3_RcTa4JWyvGwFxHEE4rxorY34iyYWAVVHL4Mjg=w143-h110"
     },
     "col_3": {
-      "text": "TopArmani",
+      "text": "here",
       "links": [
         {
-          "label": "TopArmani",
-          "url": "https://www.oopbuy.com/product/1/916563219652?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/894478711277?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "5$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://toparmani.x.yupoo.com/albums/118091963?uid=1&isSubCate=false&referrercate=4172967"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1978285984178593794?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1245"
+  }
 }

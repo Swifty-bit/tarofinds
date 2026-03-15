@@ -1,61 +1,61 @@
 {
-  "name": "Moose Knuckles 3QPuffer Jacket9 Colors",
+  "name": "Canada GooseFur",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "palmmoose",
+  "best_batch": "Chaoren",
   "best_batch_links": [
     {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F604197281808%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/604197281808?inviteCode=29TOTHGNH"
+      "label": "Chaoren",
+      "url": "https://litbuy.com/product/weidian/747079053372?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/747079053372?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "86$",
+  "best_price": "7$ - 30$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2006916940289888258?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1922841637832200193?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxzkWrmWn5LX5CEsns8z0poFXy9wn__V-QNDZPRyHvf3Q02RLDcnZfTgnMWsWdDqHoMUh0z1z873CcLK7zf53s66vazRWXsmPtfB8qvgoEH0LyRmH4z_ES4gD6lMBMIKTGs1i71ofLPtZrA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AykZbkWDAcxCqk5LJUKqpjzGeekkpcVoIBG5uv-apqwZHXzsnj000Z7TTiaRtoGrK9okl1hP9qxCmDb1JsucUnUw2Ib-0Epa0QmrbbOpOb9VoP3qIIqInEcoQlB_tGqTsbwS9kDW8o2_ChC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1483",
   "raw_cells": {
     "col_0": {
-      "text": "1106"
+      "text": "1100"
     },
     "col_1": {
-      "text": "Moose Knuckles 3QPuffer Jacket9 Colors"
+      "text": "Canada GooseFur"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxzkWrmWn5LX5CEsns8z0poFXy9wn__V-QNDZPRyHvf3Q02RLDcnZfTgnMWsWdDqHoMUh0z1z873CcLK7zf53s66vazRWXsmPtfB8qvgoEH0LyRmH4z_ES4gD6lMBMIKTGs1i71ofLPtZrA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AykZbkWDAcxCqk5LJUKqpjzGeekkpcVoIBG5uv-apqwZHXzsnj000Z7TTiaRtoGrK9okl1hP9qxCmDb1JsucUnUw2Ib-0Epa0QmrbbOpOb9VoP3qIIqInEcoQlB_tGqTsbwS9kDW8o2_ChC=w143-h110"
     },
     "col_3": {
-      "text": "palmmoose",
+      "text": "Chaoren",
       "links": [
         {
-          "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/604197281808?inviteCode=29TOTHGNH"
+          "label": "Chaoren",
+          "url": "https://www.oopbuy.com/product/1/747079053372?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "86$"
+      "text": "7$ - 30$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2006916940289888258?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1922841637832200193?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1483"
+  }
 }

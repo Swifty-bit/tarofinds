@@ -1,61 +1,61 @@
 {
-  "name": "Eric Emanuel x DONDAKanye WestShorts",
+  "name": "Rick OwensShorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
+  "best_batch": "PinkElephant",
   "best_batch_links": [
     {
-      "label": "Angelking",
-      "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH",
-      "original_url": null
+      "label": "PinkElephant",
+      "url": "https://litbuy.com/product/taobao/6463487172?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6463487172?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "23$",
+  "best_price": "42$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/110911135?uid=1&isSubCate=false&referrercate=3848500"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/5596707916"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7iXuO0qdSNhHtfrYJX7M3hmYA9hHXBwAZCOmzqmiNZabyq_XMwzwrUWFI42olzb30eYHqnz2s3GBxvpfHOh__Df4FSNkSRleKvzEyHrH5BjusoSf-Rq8YXMvP0tnnyKkc7xXJRJsjQTi4=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayi_bpd1_mNdwoCz7BATxCOWHXIBso249KR0HA4d24hDtYBbC4zb7Kq_mWDqcc0cw4LI59tiAPvALo89b55RYYv6dK_uFSBucRp1_PNuRlIZWKvIa-0k6DYos-f1IaWRQl5r9W8n3PbNn3K=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1503",
   "raw_cells": {
     "col_0": {
-      "text": "977"
+      "text": "1128"
     },
     "col_1": {
-      "text": "Eric Emanuel x DONDAKanye WestShorts"
+      "text": "Rick OwensShorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7iXuO0qdSNhHtfrYJX7M3hmYA9hHXBwAZCOmzqmiNZabyq_XMwzwrUWFI42olzb30eYHqnz2s3GBxvpfHOh__Df4FSNkSRleKvzEyHrH5BjusoSf-Rq8YXMvP0tnnyKkc7xXJRJsjQTi4=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayi_bpd1_mNdwoCz7BATxCOWHXIBso249KR0HA4d24hDtYBbC4zb7Kq_mWDqcc0cw4LI59tiAPvALo89b55RYYv6dK_uFSBucRp1_PNuRlIZWKvIa-0k6DYos-f1IaWRQl5r9W8n3PbNn3K=w143-h110"
     },
     "col_3": {
-      "text": "Angelking",
+      "text": "PinkElephant",
       "links": [
         {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+          "label": "PinkElephant",
+          "url": "https://oopbuy.com/product/2/6463487172?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "42$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/110911135?uid=1&isSubCate=false&referrercate=3848500"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/5596707916"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1503"
+  }
 }

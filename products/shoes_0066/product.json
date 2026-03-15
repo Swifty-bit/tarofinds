@@ -1,33 +1,50 @@
 {
-  "name": "Cacao",
+  "name": "Grey Fog",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "M",
+  "best_batch_links": [
+    {
+      "label": "M",
+      "url": "https://litbuy.com/product/weidian/7243326840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "VT",
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "best_price": "46$",
+  "budget_price": "23$",
+  "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtEgu0vrPIxZbZbE32URXC2dlHGUnhh3TRr9V3kAZ5QzVQ9OllaFiwKbdn5rbzscquuur9XDEEZ0ulAdj8X-c6lsDDrOWLFlOSPA3-YGEAxbSFVY6Rrk7-7Lymwv-QI8HNjwvQCvs6ejAv=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7ArL83-03rdUDjErN6FSe7geC6JXDWO99tbWcBov3-Q_B36p_aBWbAM4qMwrdk9kwTYBh6lC4vKGAIQNhKsG0F_Jd-mP-0oz0TW6Ge5dc2cpaYJsVysoZCP7Og2VGYnjVmh5GMtckeHWL=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0066",
   "raw_cells": {
     "col_0": {
       "text": "75"
     },
     "col_1": {
-      "text": "Cacao"
+      "text": "Grey Fog"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtEgu0vrPIxZbZbE32URXC2dlHGUnhh3TRr9V3kAZ5QzVQ9OllaFiwKbdn5rbzscquuur9XDEEZ0ulAdj8X-c6lsDDrOWLFlOSPA3-YGEAxbSFVY6Rrk7-7Lymwv-QI8HNjwvQCvs6ejAv=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7ArL83-03rdUDjErN6FSe7geC6JXDWO99tbWcBov3-Q_B36p_aBWbAM4qMwrdk9kwTYBh6lC4vKGAIQNhKsG0F_Jd-mP-0oz0TW6Ge5dc2cpaYJsVysoZCP7Og2VGYnjVmh5GMtckeHWL=w143-h110"
+    },
+    "col_3": {
+      "text": "M",
+      "links": [
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "VT",
@@ -38,10 +55,11 @@
         }
       ]
     },
+    "col_5": {
+      "text": "46$"
+    },
     "col_6": {
-      "text": "37$"
+      "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0066"
+  }
 }

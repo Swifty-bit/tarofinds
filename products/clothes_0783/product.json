@@ -1,69 +1,69 @@
 {
-  "name": "MOTIF340 North Rodeo Drive LAT-Shirt",
+  "name": "Double Logo T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7469801626%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7469801626?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7566377560?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7566377560?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "16$",
   "budget_price": "",
   "pics_text": "QC Pics/pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/798527284545"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1931516949425655810?action=discord&cid=1840597081113280514"
     },
     {
       "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/164426915?uid=1"
+      "url": "https://repsking.x.yupoo.com/albums/161603622?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax_PfM3WdsgDtca-FXTCf-ea7Ek_F20ccr1Iud1uzf8E98dazbCk_dunTnRfqM0k0Us-slOkAjkJjawPh0d_rmiq4aKAhU51tgKLy2ZGO7PjUl87PyJ6RjWQSayDv_4_0P7xU_LHFdKgPAg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1ENsJC72cc256GAfr4hoV7EfYsNo5Kv4NohX86B9FU_50mZJoYQtEOKhspvO0pGEQ7rDL3CljRTdhoSHrWr2pwJebzmyqG6VOvZ3kCVnnLOT4AP9JDn_tPd9pX_C6FkHnFTiK5nGdoCaU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0783",
   "raw_cells": {
     "col_0": {
-      "text": "278"
+      "text": "274"
     },
     "col_1": {
-      "text": "MOTIF340 North Rodeo Drive LAT-Shirt"
+      "text": "Double Logo T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax_PfM3WdsgDtca-FXTCf-ea7Ek_F20ccr1Iud1uzf8E98dazbCk_dunTnRfqM0k0Us-slOkAjkJjawPh0d_rmiq4aKAhU51tgKLy2ZGO7PjUl87PyJ6RjWQSayDv_4_0P7xU_LHFdKgPAg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1ENsJC72cc256GAfr4hoV7EfYsNo5Kv4NohX86B9FU_50mZJoYQtEOKhspvO0pGEQ7rDL3CljRTdhoSHrWr2pwJebzmyqG6VOvZ3kCVnnLOT4AP9JDn_tPd9pX_C6FkHnFTiK5nGdoCaU=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7469801626?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7566377560?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "16$"
     },
     "col_7": {
       "text": "QC Pics/pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/798527284545"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1931516949425655810?action=discord&cid=1840597081113280514"
         },
         {
           "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/164426915?uid=1"
+          "url": "https://repsking.x.yupoo.com/albums/161603622?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0783"
+  }
 }

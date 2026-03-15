@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosOversize Hoodie5 Colors",
+  "name": "Acne StudiosCrewneck Sweater4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Topacney",
   "best_batch_links": [
     {
       "label": "Topacney",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F983641691474%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/983641691474?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/983486746843?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983486746843?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "37$",
+  "best_price": "54$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://topacney.x.yupoo.com/albums/76944820?uid=1"
+      "url": "https://topacney.x.yupoo.com/albums/125140337?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnuCym6cMTVBXn4qcfH7VFHnFSrhuTFgpeGBRKe4TbdCkTOdbfy6tIyZbEqdShtvpjn7cNZZQZp46afX2VBxqjhpogO4tL3iEaxLvL-7e9tmzPIJydCdz4xdQKaTgJvbDk4jBYltDS2bGo=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEmDwefqnyddkwHvsY9h2YcazKyGCd4wGxjqujNNgVbBje0HN-sQX6wJRydbuZWvMZXxYgEAN5fDhB_1Pgj0SM6HVp5H1mFT6CR2zmL7Ykdd4s8-rwgvG6S46AgPOt64cfwffkv7Csf6D_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1147",
   "raw_cells": {
     "col_0": {
-      "text": "710"
+      "text": "706"
     },
     "col_1": {
-      "text": "Acne StudiosOversize Hoodie5 Colors"
+      "text": "Acne StudiosCrewneck Sweater4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnuCym6cMTVBXn4qcfH7VFHnFSrhuTFgpeGBRKe4TbdCkTOdbfy6tIyZbEqdShtvpjn7cNZZQZp46afX2VBxqjhpogO4tL3iEaxLvL-7e9tmzPIJydCdz4xdQKaTgJvbDk4jBYltDS2bGo=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEmDwefqnyddkwHvsY9h2YcazKyGCd4wGxjqujNNgVbBje0HN-sQX6wJRydbuZWvMZXxYgEAN5fDhB_1Pgj0SM6HVp5H1mFT6CR2zmL7Ykdd4s8-rwgvG6S46AgPOt64cfwffkv7Csf6D_=w143-h110"
     },
     "col_3": {
       "text": "Topacney",
       "links": [
         {
           "label": "Topacney",
-          "url": "https://oopbuy.com/product/1/983641691474?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/983486746843?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "37$"
+      "text": "54$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://topacney.x.yupoo.com/albums/76944820?uid=1"
+          "url": "https://topacney.x.yupoo.com/albums/125140337?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1147"
+  }
 }

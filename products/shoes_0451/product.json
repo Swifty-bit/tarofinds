@@ -1,47 +1,65 @@
 {
-  "name": "SkateBlue Jeans",
+  "name": "Skate xBrown Swarovski",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Chipotle",
+  "best_batch": "Koala",
   "best_batch_links": [
     {
-      "label": "Chipotle",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7281245832%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7281245832?inviteCode=29TOTHGNH"
+      "label": "Koala",
+      "url": "https://litbuy.com/product/weidian/7595571456?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "126$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/taobao/7370594492?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "100$",
+  "budget_price": "43$",
+  "pics_text": "43$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azvre6a7M8vYLEbkw1wLljCyVgbizC3QGfCCTBXLTqx-bGM8swK42FsFEKjQTiJUstfRskNLKbmRrVk8658h-_cO0wfm95sbAwuRAWwcDFUC_609jZSgjubTa5lZ-br4128Rz7eQweTUIJN=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTnGSVhAkHm7y8gpUz738P8HO7PJd9f3UFO68NY93G1jFUh9meLXA5MemTL7qgkfUuCeIIsAMiCRAOz_P4x5l8dYw02Rqe1TuLe5VV75f5WfjrKZZ0NEaXfIs6LbymT66aSmEQearFHg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0451",
   "raw_cells": {
     "col_0": {
       "text": "512"
     },
     "col_1": {
-      "text": "SkateBlue Jeans"
+      "text": "Skate xBrown Swarovski"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azvre6a7M8vYLEbkw1wLljCyVgbizC3QGfCCTBXLTqx-bGM8swK42FsFEKjQTiJUstfRskNLKbmRrVk8658h-_cO0wfm95sbAwuRAWwcDFUC_609jZSgjubTa5lZ-br4128Rz7eQweTUIJN=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTnGSVhAkHm7y8gpUz738P8HO7PJd9f3UFO68NY93G1jFUh9meLXA5MemTL7qgkfUuCeIIsAMiCRAOz_P4x5l8dYw02Rqe1TuLe5VV75f5WfjrKZZ0NEaXfIs6LbymT66aSmEQearFHg=w143-h110"
     },
     "col_3": {
-      "text": "Chipotle",
+      "text": "Koala",
       "links": [
         {
-          "label": "Chipotle",
-          "url": "https://oopbuy.com/product/weidian/7281245832?inviteCode=29TOTHGNH"
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "126$"
+      "text": "100$"
+    },
+    "col_6": {
+      "text": "43$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0451"
+  }
 }

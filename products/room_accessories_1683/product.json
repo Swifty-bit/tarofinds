@@ -1,61 +1,61 @@
 {
-  "name": "Pou Plush",
+  "name": "Mini Boxes for Keychains",
   "category": "Room Accessories",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F782038237429%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/782038237429?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/668864042679?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/668864042679?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "2$",
+  "best_price": "0.34$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1958696516853522433?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1956159690990768130?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxASk2l9FbuVBmoPOAcw75AuGFvG6kpMZukmWqtJscNinZoOErWK1ome1sBjhraubHGDq-i9h6KPFR8WPPvKeUuKV__FT2kUbpC0SXKBvtGsXlbTABgJ59HR62mLI4HS_ASakSdhA5rDZvT=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwHhcfNnz9leEZA-IZpdl4II6v9GKH4x-VhJtmw-AmmUgYBUpELAM7gc7v8-X_tkAFUHhKaJgt-FQnG8RfXY791b6OUzNEUa8OsAqjSTxgbA3nis1RdyGQLov3quasHffeynDUi5Mn5vy_R=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1683",
   "raw_cells": {
     "col_0": {
-      "text": "49"
+      "text": "41"
     },
     "col_1": {
-      "text": "Pou Plush"
+      "text": "Mini Boxes for Keychains"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxASk2l9FbuVBmoPOAcw75AuGFvG6kpMZukmWqtJscNinZoOErWK1ome1sBjhraubHGDq-i9h6KPFR8WPPvKeUuKV__FT2kUbpC0SXKBvtGsXlbTABgJ59HR62mLI4HS_ASakSdhA5rDZvT=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwHhcfNnz9leEZA-IZpdl4II6v9GKH4x-VhJtmw-AmmUgYBUpELAM7gc7v8-X_tkAFUHhKaJgt-FQnG8RfXY791b6OUzNEUa8OsAqjSTxgbA3nis1RdyGQLov3quasHffeynDUi5Mn5vy_R=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/1/782038237429?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/668864042679?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "2$"
+      "text": "0.34$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1958696516853522433?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1956159690990768130?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1683"
+  }
 }

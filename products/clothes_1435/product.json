@@ -1,58 +1,61 @@
 {
-  "name": "CarharttPuffer Jacket2 Colors",
+  "name": "CarharttWashed Jacket7 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "CND ISLAND",
-  "budget_batch_links": [
+  "best_batch": "LambClub",
+  "best_batch_links": [
     {
-      "label": "CND ISLAND",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7289603809%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7289603809?inviteCode=29TOTHGNH"
+      "label": "LambClub",
+      "url": "https://litbuy.com/product/weidian/701742767071?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/701742767071?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://baymaxcloth.x.yupoo.com/albums/178048056?uid=1&isSubCate=false&referrercate=4681789"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1986257594886463490?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNYE3F_-iXpmewmsq1OtLVe1GC3V4yGftKRKIBwCGdI61MRaYkEJgTggYQNbmF8FUijJ4Sqy2vO4QPvdFCl-bIZ5qnAbEbKakVMJU9Nd8kLXB08NdQgEropjI3iH1Wuw0glxAE3w3CHQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwambVHym1KFZBliPOa3zPtReeFAmZMy8Bky7yDfr4CTOpSsxSUHkk4C-2zqgKsG_jTFGRL352lwORrV8BjRnlYzNqzb3MhOTyrr9U0xBXEKnATgJnkaKeJ2k7UryW_bk5u-gClWoD6_CS7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1435",
   "raw_cells": {
     "col_0": {
-      "text": "1046"
+      "text": "1042"
     },
     "col_1": {
-      "text": "CarharttPuffer Jacket2 Colors"
+      "text": "CarharttWashed Jacket7 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNYE3F_-iXpmewmsq1OtLVe1GC3V4yGftKRKIBwCGdI61MRaYkEJgTggYQNbmF8FUijJ4Sqy2vO4QPvdFCl-bIZ5qnAbEbKakVMJU9Nd8kLXB08NdQgEropjI3iH1Wuw0glxAE3w3CHQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwambVHym1KFZBliPOa3zPtReeFAmZMy8Bky7yDfr4CTOpSsxSUHkk4C-2zqgKsG_jTFGRL352lwORrV8BjRnlYzNqzb3MhOTyrr9U0xBXEKnATgJnkaKeJ2k7UryW_bk5u-gClWoD6_CS7=w143-h110"
     },
-    "col_4": {
-      "text": "CND ISLAND",
+    "col_3": {
+      "text": "LambClub",
       "links": [
         {
-          "label": "CND ISLAND",
-          "url": "https://oopbuy.com/product/weidian/7289603809?inviteCode=29TOTHGNH"
+          "label": "LambClub",
+          "url": "https://www.oopbuy.com/product/0/701742767071?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "38$"
+    },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://baymaxcloth.x.yupoo.com/albums/178048056?uid=1&isSubCate=false&referrercate=4681789"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1986257594886463490?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1435"
+  }
 }

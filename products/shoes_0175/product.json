@@ -1,65 +1,47 @@
 {
-  "name": "Stage HazeBleached Coral",
+  "name": "Spider-Man Across the Spider-Verse",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "FT",
+  "best_batch": "LW",
   "best_batch_links": [
     {
-      "label": "FT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327965576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7327965576?inviteCode=29TOTHGNH"
+      "label": "LW",
+      "url": "https://litbuy.com/product/taobao/7328090018?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7328090018?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "H12",
-  "budget_batch_links": [
-    {
-      "label": "H12",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7222827836%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7222827836?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "52$",
-  "budget_price": "48$",
-  "pics_text": "48$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "63$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLOrV6dbAwgfBIoVRyQ9B8RBPV0K-XVMFr-iGhYn1JDemNxMjudu7JuONKJ-kTUQTdCR3Dp-Z_QVQMRwVu4WIdW7c0cLs4Hs-4py379xpCew-MCWIq0i3Q1lzd6L7aqISqepCPlAZ0vQ=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwF3RtxPc6I4cbA9ZZ-c1P-tjZrNQzvXxV1zMGmxpYeLpO2RmSRmV3rnUdptRcNnxzLtWG4mo8dJxLp1OC37PU8BjUHm9wq8O2MUaUOA7WHpSo0HgfqLJ9_ZJo9UygPMDuPPeRuRYwbRF6I=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0175",
   "raw_cells": {
     "col_0": {
       "text": "186"
     },
     "col_1": {
-      "text": "Stage HazeBleached Coral"
+      "text": "Spider-Man Across the Spider-Verse"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLOrV6dbAwgfBIoVRyQ9B8RBPV0K-XVMFr-iGhYn1JDemNxMjudu7JuONKJ-kTUQTdCR3Dp-Z_QVQMRwVu4WIdW7c0cLs4Hs-4py379xpCew-MCWIq0i3Q1lzd6L7aqISqepCPlAZ0vQ=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwF3RtxPc6I4cbA9ZZ-c1P-tjZrNQzvXxV1zMGmxpYeLpO2RmSRmV3rnUdptRcNnxzLtWG4mo8dJxLp1OC37PU8BjUHm9wq8O2MUaUOA7WHpSo0HgfqLJ9_ZJo9UygPMDuPPeRuRYwbRF6I=w143-h100"
     },
     "col_3": {
-      "text": "FT",
+      "text": "LW",
       "links": [
         {
-          "label": "FT",
-          "url": "https://oopbuy.com/product/2/7327965576?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "H12",
-      "links": [
-        {
-          "label": "H12",
-          "url": "https://oopbuy.com/product/2/7222827836?inviteCode=29TOTHGNH"
+          "label": "LW",
+          "url": "https://oopbuy.com/product/2/7328090018?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "52$"
-    },
-    "col_6": {
-      "text": "48$"
+      "text": "63$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0175"
+  }
 }

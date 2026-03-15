@@ -1,62 +1,61 @@
 {
-  "name": "Stussy Beanie",
+  "name": "StussyFUZZY DICEHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "here",
-  "budget_batch_links": [
+  "best_batch": "Chaosmade",
+  "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F694552695562%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/694552695562?inviteCode=29TOTHGNH"
+      "label": "Chaosmade",
+      "url": "https://litbuy.com/product/weidian/7317789158?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7317789158?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "2$",
-  "pics_text": "QC pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "25$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC pics",
-      "url": "https://imgur.com/a/yl2vToK"
+      "label": "pics",
+      "url": "https://chaosmade.x.yupoo.com/albums/181739161?uid=1&isSubCate=false&referrercate=3536981"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxW-xQpa0di4_HRlSdfYj3MxKe_7quccCF1PwXBSETvYcIlbL-H3NUIHsAImGTCdTgHKvBIecnNiIFGt2iciCZxdiESADKfzv2zOeh1-D7E_k23neSVZQjMJZZxiRWvH5t9Gz8vC_-LFYYn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxbJi-aixMZeMufm72iVlmDfTgqITS6hOqdnQUykgm1u6KZhX2PKqavsbGfigiPrrimSJZO9127qhlJzgQhWwwSTRsTp5I2Hzcyo9Ln8lRZyzGbjYiW7D-7QVJ0EDes0EmZA1-Fj4zAtFTp=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0595",
   "raw_cells": {
     "col_0": {
-      "text": "64"
+      "text": "60"
     },
     "col_1": {
-      "text": "Stussy Beanie"
+      "text": "StussyFUZZY DICEHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxW-xQpa0di4_HRlSdfYj3MxKe_7quccCF1PwXBSETvYcIlbL-H3NUIHsAImGTCdTgHKvBIecnNiIFGt2iciCZxdiESADKfzv2zOeh1-D7E_k23neSVZQjMJZZxiRWvH5t9Gz8vC_-LFYYn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxbJi-aixMZeMufm72iVlmDfTgqITS6hOqdnQUykgm1u6KZhX2PKqavsbGfigiPrrimSJZO9127qhlJzgQhWwwSTRsTp5I2Hzcyo9Ln8lRZyzGbjYiW7D-7QVJ0EDes0EmZA1-Fj4zAtFTp=w143-h110"
     },
-    "col_4": {
-      "text": "here",
+    "col_3": {
+      "text": "Chaosmade",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/694552695562?inviteCode=29TOTHGNH"
+          "label": "Chaosmade",
+          "url": "https://oopbuy.com/product/weidian/7317789158?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "2$"
+    "col_5": {
+      "text": "25$"
     },
     "col_7": {
-      "text": "QC pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC pics",
-          "url": "https://imgur.com/a/yl2vToK"
+          "label": "pics",
+          "url": "https://chaosmade.x.yupoo.com/albums/181739161?uid=1&isSubCate=false&referrercate=3536981"
         }
-      ],
-      "image": "https://imgur.com/a/yl2vToK"
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0595"
+  }
 }

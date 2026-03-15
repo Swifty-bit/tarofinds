@@ -1,49 +1,87 @@
 {
-  "name": "GYMSHARKSweatshirt3 Colors",
+  "name": "GYMSHARKOnyx 5.0 T-Shirt10 Colors",
   "category": "Gym",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "30$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "best_batch": "gymshark70",
+  "best_batch_links": [
+    {
+      "label": "gymshark70",
+      "url": "https://litbuy.com/product/weidian/977947525464?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/977947525464?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/927820001124?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/927820001124?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "24$",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1928641840100196354?action=discord&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014553282855391234?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2013105438315335681?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPkWLBdY_wDLpcTdx_-7DtGT7CAk4sDRLg4ZBrZoLjfC2c-KgcLuOMZKkkiu7FLDi4KqdmFYjeuRB4paRNtjgYBm-_PYBUB0uyuUd68wn7cIn_3O2THUXG2KLAjnEAAiK6o-UWcgSgQg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwuDNWJwS7Cdrrn1zWWzQ3HRnHSR4xyRV7wTvFPzypulCJYSjdqzhUJYPmKePyonSnsnhTDB0y7-KpSkXO0T7SaFz366i2IQC9zELlujNLiaR5e-4xbQUB3h3UnXdbR3WjVkIF5iGQgQg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1716",
   "raw_cells": {
     "col_0": {
-      "text": "17"
+      "text": "9"
     },
     "col_1": {
-      "text": "GYMSHARKSweatshirt3 Colors"
+      "text": "GYMSHARKOnyx 5.0 T-Shirt10 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPkWLBdY_wDLpcTdx_-7DtGT7CAk4sDRLg4ZBrZoLjfC2c-KgcLuOMZKkkiu7FLDi4KqdmFYjeuRB4paRNtjgYBm-_PYBUB0uyuUd68wn7cIn_3O2THUXG2KLAjnEAAiK6o-UWcgSgQg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwuDNWJwS7Cdrrn1zWWzQ3HRnHSR4xyRV7wTvFPzypulCJYSjdqzhUJYPmKePyonSnsnhTDB0y7-KpSkXO0T7SaFz366i2IQC9zELlujNLiaR5e-4xbQUB3h3UnXdbR3WjVkIF5iGQgQg=w143-h110"
     },
     "col_3": {
-      "text": "/"
-    },
-    "col_5": {
-      "text": "30$"
-    },
-    "col_7": {
-      "text": "QC Pics",
+      "text": "gymshark70",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1928641840100196354?action=discord&cid=1942512167859859457"
+          "label": "gymshark70",
+          "url": "https://oopbuy.com/product/1/977947525464?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/927820001124?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "24$"
+    },
+    "col_6": {
+      "text": "6$"
+    },
+    "col_7": {
+      "text": "best/budget",
+      "links": [
+        {
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014553282855391234?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2013105438315335681?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1716"
+  }
 }

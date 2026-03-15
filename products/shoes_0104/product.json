@@ -1,47 +1,47 @@
 {
-  "name": "April Skateboards",
+  "name": "Supreme 94Black",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
+  "best_batch": "TOP/S2",
   "best_batch_links": [
     {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+      "label": "TOP/S2",
+      "url": "https://litbuy.com/product/weidian/7592540354?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7592540354?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "47$",
+  "best_price": "57$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayte_j-oaF6mOiyN8j2J-_E3Xo29--q5G3n3jQI-IDJmejg3cW9iJAFDOSAWnrk4CxkFYER378SHN6RAVDXDEG8-zBg9VJpyGBAZVZyF_l5LreF9WkiEpZuXKAs_IxYmtJO821xWytDAA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRWEbwoD6PRetwur3uovBFu7XQn8q-P2RBpqn9CnTKlJQUpkDKb0klcDzqYTp_A6vFPcFsvtQJ5qUx20cElcrv-wfB9tBrFI4EFV0B_FiKqnb1ZfbYTyn8ELe6AtYgZ_lgC0yw2Jtd9VCy=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0104",
   "raw_cells": {
     "col_0": {
       "text": "113"
     },
     "col_1": {
-      "text": "April Skateboards"
+      "text": "Supreme 94Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayte_j-oaF6mOiyN8j2J-_E3Xo29--q5G3n3jQI-IDJmejg3cW9iJAFDOSAWnrk4CxkFYER378SHN6RAVDXDEG8-zBg9VJpyGBAZVZyF_l5LreF9WkiEpZuXKAs_IxYmtJO821xWytDAA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRWEbwoD6PRetwur3uovBFu7XQn8q-P2RBpqn9CnTKlJQUpkDKb0klcDzqYTp_A6vFPcFsvtQJ5qUx20cElcrv-wfB9tBrFI4EFV0B_FiKqnb1ZfbYTyn8ELe6AtYgZ_lgC0yw2Jtd9VCy=w143-h110"
     },
     "col_3": {
-      "text": "M",
+      "text": "TOP/S2",
       "links": [
         {
-          "label": "M",
-          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/weidian/7592540354?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "47$"
+      "text": "57$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0104"
+  }
 }

@@ -1,87 +1,61 @@
 {
-  "name": "Syna Skull Beanie",
+  "name": "Syna Trucker CapWhite",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT",
+  "best_batch": "elephant",
   "best_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653811271%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653811271?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7300035287?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7300035287?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F855744841878%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/855744841878?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "10$",
-  "budget_price": "3$",
-  "pics_text": "GOAT/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "12$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "GOAT",
-      "url": "https://goat-official222.x.yupoo.com/albums/148903862?uid=1&isSubCate=false&referrercate=4215138"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1969589225499746306?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://elephant-factory.x.yupoo.com/albums/179784534?uid=1&isSubCate=false&referrercate=4564614"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awy3-A-Z31rFvaSeoysk1Duhdpm8xtMHRcRnyB7CTZuNbBmQa44Mi6hZezj6EZEpudM8-ZMDougGOGJBL5l9gxGzBNC4MwqqT5Y4uzLgjrb_bXbdSYJFa3876YfT5YnZBwKDoZotuJl6sMt=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYqiMfhRKjPKYl0HciwndSr6ernGL0dPraTEYpDXwXqS7nM2o21Z4qslUNqS1XydqSD0vLZOyTzQt1il4Ad38uN8DmrnzLnZ5qq0Snw5T06TzW2U-ie2uofnNqQfqhE4JOC-KaswWDN70W=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0941",
   "raw_cells": {
     "col_0": {
-      "text": "468"
+      "text": "464"
     },
     "col_1": {
-      "text": "Syna Skull Beanie"
+      "text": "Syna Trucker CapWhite"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awy3-A-Z31rFvaSeoysk1Duhdpm8xtMHRcRnyB7CTZuNbBmQa44Mi6hZezj6EZEpudM8-ZMDougGOGJBL5l9gxGzBNC4MwqqT5Y4uzLgjrb_bXbdSYJFa3876YfT5YnZBwKDoZotuJl6sMt=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYqiMfhRKjPKYl0HciwndSr6ernGL0dPraTEYpDXwXqS7nM2o21Z4qslUNqS1XydqSD0vLZOyTzQt1il4Ad38uN8DmrnzLnZ5qq0Snw5T06TzW2U-ie2uofnNqQfqhE4JOC-KaswWDN70W=w143-h110"
     },
     "col_3": {
-      "text": "GOAT",
+      "text": "elephant",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653811271?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/855744841878?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7300035287?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "10$"
-    },
-    "col_6": {
-      "text": "3$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "GOAT/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://goat-official222.x.yupoo.com/albums/148903862?uid=1&isSubCate=false&referrercate=4215138"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1969589225499746306?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://elephant-factory.x.yupoo.com/albums/179784534?uid=1&isSubCate=false&referrercate=4564614"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0941"
+  }
 }

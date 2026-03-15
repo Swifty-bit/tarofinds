@@ -1,61 +1,87 @@
 {
-  "name": "CB T-Shirt6 Colors",
+  "name": "Essentials x NBAFW24 Hoodie2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "akdingji",
+  "best_batch": "Singor",
   "best_batch_links": [
     {
-      "label": "akdingji",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7239548340%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7239548340?inviteCode=29TOTHGNH"
+      "label": "Singor",
+      "url": "https://litbuy.com/product/weidian/891037136937?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/891037136937?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "13$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "Yishan",
+  "budget_batch_links": [
+    {
+      "label": "Yishan",
+      "url": "https://litbuy.com/product/weidian/983505698307?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/983505698307?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "35$",
+  "budget_price": "24$",
+  "pics_text": "singor/yishan",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://akdingji.x.yupoo.com/albums/161846706?uid=1"
+      "label": "singor",
+      "url": "https://steven-1989.x.yupoo.com/albums/185975137?uid=1&isSubCate=false&referrercate=3018541"
+    },
+    {
+      "label": "yishan",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2008087973315301378?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSkb5iVvJUcEKle88xVp_2NplWFrdXk8YrmGaBytws5RGQnuCfRgEQ1VbJZo3Jc-N1SbatydHLXuNAsxQyVah8weGe2U4N9v9tZmJRhKs-UBfEsfn-Aw9VWndKNENIZocwEuPiCI_ESFm5=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azxsz2EIggbuL6CYGsYq4Eegd-PIE0psi2JYpxrLgTRjQt_Ch_A-YShincsc-z4nkC72TXK4A58EnZKLIx6-xKsxnNq_CRUhJmuLfz0rIZO5Qfze4qejsYRfVeK4drcQ6J9c1Xbz13GG0u1=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0751",
   "raw_cells": {
     "col_0": {
-      "text": "240"
+      "text": "234"
     },
     "col_1": {
-      "text": "CB T-Shirt6 Colors"
+      "text": "Essentials x NBAFW24 Hoodie2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSkb5iVvJUcEKle88xVp_2NplWFrdXk8YrmGaBytws5RGQnuCfRgEQ1VbJZo3Jc-N1SbatydHLXuNAsxQyVah8weGe2U4N9v9tZmJRhKs-UBfEsfn-Aw9VWndKNENIZocwEuPiCI_ESFm5=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azxsz2EIggbuL6CYGsYq4Eegd-PIE0psi2JYpxrLgTRjQt_Ch_A-YShincsc-z4nkC72TXK4A58EnZKLIx6-xKsxnNq_CRUhJmuLfz0rIZO5Qfze4qejsYRfVeK4drcQ6J9c1Xbz13GG0u1=w143-h110"
     },
     "col_3": {
-      "text": "akdingji",
+      "text": "Singor",
       "links": [
         {
-          "label": "akdingji",
-          "url": "https://oopbuy.com/product/weidian/7239548340?inviteCode=29TOTHGNH"
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/891037136937?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Yishan",
+      "links": [
+        {
+          "label": "Yishan",
+          "url": "https://oopbuy.com/product/0/983505698307?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "35$"
+    },
+    "col_6": {
+      "text": "24$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "singor/yishan",
       "links": [
         {
-          "label": "pics",
-          "url": "https://akdingji.x.yupoo.com/albums/161846706?uid=1"
+          "label": "singor",
+          "url": "https://steven-1989.x.yupoo.com/albums/185975137?uid=1&isSubCate=false&referrercate=3018541"
+        },
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2008087973315301378?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0751"
+  }
 }

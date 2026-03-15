@@ -1,61 +1,61 @@
 {
-  "name": "RepresentFortitudine T-shirt",
+  "name": "Eric Emanuel x DONDAKanye WestShorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "UnionKingdom",
+  "best_batch": "Angelking",
   "best_batch_links": [
     {
-      "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F713339086930%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/713339086930?inviteCode=29TOTHGNH"
+      "label": "Angelking",
+      "url": "https://litbuy.com/product/weidian/792718020125?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "23$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://unionkingdom.x.yupoo.com/albums/148588662?uid=1&isSubCate=true&referrercate=370874"
+      "url": "https://angelking47.x.yupoo.com/albums/110911135?uid=1&isSubCate=false&referrercate=3848500"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBTFr8kU0Vbd8SmcttoHsKgIIkpruq2W4DfZQtiJR6A3kvnCwo8e0TLkUEv2z0Pseb_huDW4U05DuKBup9Im77KyInmdG9se3mljowOK_wDais9o1P2emdFelmS86ksVlmrM2iVSWIhaAV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPF_zFJnspDJJAnDpokhUJlAyKPs85SteRHrGDVlu7cESQAY1pEDfPrabjzvOIEx3CfyL6a3LXsfocfuPK1ioerdjiP5KySA3ecHdlVn5jgS43cEcbgWcbSDzNVU8qvOuHot3nUuD1-_Sc=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1380",
   "raw_cells": {
     "col_0": {
-      "text": "983"
+      "text": "977"
     },
     "col_1": {
-      "text": "RepresentFortitudine T-shirt"
+      "text": "Eric Emanuel x DONDAKanye WestShorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBTFr8kU0Vbd8SmcttoHsKgIIkpruq2W4DfZQtiJR6A3kvnCwo8e0TLkUEv2z0Pseb_huDW4U05DuKBup9Im77KyInmdG9se3mljowOK_wDais9o1P2emdFelmS86ksVlmrM2iVSWIhaAV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPF_zFJnspDJJAnDpokhUJlAyKPs85SteRHrGDVlu7cESQAY1pEDfPrabjzvOIEx3CfyL6a3LXsfocfuPK1ioerdjiP5KySA3ecHdlVn5jgS43cEcbgWcbSDzNVU8qvOuHot3nUuD1-_Sc=w143-h110"
     },
     "col_3": {
-      "text": "UnionKingdom",
+      "text": "Angelking",
       "links": [
         {
-          "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/713339086930?inviteCode=29TOTHGNH"
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "23$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://unionkingdom.x.yupoo.com/albums/148588662?uid=1&isSubCate=true&referrercate=370874"
+          "url": "https://angelking47.x.yupoo.com/albums/110911135?uid=1&isSubCate=false&referrercate=3848500"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1380"
+  }
 }

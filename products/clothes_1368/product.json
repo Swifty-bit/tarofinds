@@ -1,20 +1,20 @@
 {
-  "name": "Eric EmanuelSkyline ShortsBlack / White",
+  "name": "Eric EmanuelShorts SS2220 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792582054745%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/792664353806?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792664353806?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "UnionKingdom",
   "budget_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,28 +24,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/113920032?uid=1"
+      "url": "https://angelking47.x.yupoo.com/albums/112260268?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqJIyiUlvnYIQml5Y6Tre5Irm7EcVQ_UxmhVYDg_7dyEwTOD8MAvRf_CnNISGD6-80c3dcJgHyWGj6qVfTUR3WN7J-6yVRYeS03xH2KJ9F8LUXLqnVmUwWkVxU9yqLFpT3H_7opumqh7n3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwmqeQYl8-Xeq9jwn2JDzte8Sb3r2ykRHWZxZSiRc1Gdxpk1CYaBclTqNsd-HIca-U0bXSME0uIXXijCEn9LDQkHUVgR2G_f-alusfU15fAbUVkUmd0smNhJoXaisjDO7Zj1GF8IJDQcA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1368",
   "raw_cells": {
     "col_0": {
-      "text": "969"
+      "text": "965"
     },
     "col_1": {
-      "text": "Eric EmanuelSkyline ShortsBlack / White"
+      "text": "Eric EmanuelShorts SS2220 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqJIyiUlvnYIQml5Y6Tre5Irm7EcVQ_UxmhVYDg_7dyEwTOD8MAvRf_CnNISGD6-80c3dcJgHyWGj6qVfTUR3WN7J-6yVRYeS03xH2KJ9F8LUXLqnVmUwWkVxU9yqLFpT3H_7opumqh7n3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwmqeQYl8-Xeq9jwn2JDzte8Sb3r2ykRHWZxZSiRc1Gdxpk1CYaBclTqNsd-HIca-U0bXSME0uIXXijCEn9LDQkHUVgR2G_f-alusfU15fAbUVkUmd0smNhJoXaisjDO7Zj1GF8IJDQcA=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/792664353806?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/113920032?uid=1"
+          "url": "https://angelking47.x.yupoo.com/albums/112260268?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1368"
+  }
 }

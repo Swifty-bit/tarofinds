@@ -1,61 +1,61 @@
 {
-  "name": "PorscheMany Styles",
+  "name": "FlowersMany Styles",
   "category": "Room Accessories",
   "subcategory": "",
   "best_batch": "Qingwen",
   "best_batch_links": [
     {
       "label": "Qingwen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F668509658282%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/668509658282?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/880709446428?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/880709446428?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "7$ / 15$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1958696391250894850?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1955434897695961090?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aytdqi0d1XVgS3gl06Y7mdNOPcbpcYmW0EXu3t8q-Tb1BiE8NCEPxslmTOQTGbwx5H6TdBQi8L7axH1TQ1RDFh4EJb5Q2fkPMoeSEb3b4sPDJyW8l4lsR-uK7179x2FrntLadCpRH39yn1N=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyKcU1wvC4srkvDtpB48vR4pVagEShYAXmFJILBBFtlTYdUc7jU3EV2B3PetlGFGLXNTrFh3NY8aGNZukknxJcVK49Xnm3NuKDNV6c0MChLobUveHiJhnvpgAGD-sahFthwk3UI-tVAI3rY=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1653",
   "raw_cells": {
     "col_0": {
-      "text": "17"
+      "text": "9"
     },
     "col_1": {
-      "text": "PorscheMany Styles"
+      "text": "FlowersMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aytdqi0d1XVgS3gl06Y7mdNOPcbpcYmW0EXu3t8q-Tb1BiE8NCEPxslmTOQTGbwx5H6TdBQi8L7axH1TQ1RDFh4EJb5Q2fkPMoeSEb3b4sPDJyW8l4lsR-uK7179x2FrntLadCpRH39yn1N=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyKcU1wvC4srkvDtpB48vR4pVagEShYAXmFJILBBFtlTYdUc7jU3EV2B3PetlGFGLXNTrFh3NY8aGNZukknxJcVK49Xnm3NuKDNV6c0MChLobUveHiJhnvpgAGD-sahFthwk3UI-tVAI3rY=w143-h110"
     },
     "col_3": {
       "text": "Qingwen",
       "links": [
         {
           "label": "Qingwen",
-          "url": "https://oopbuy.com/product/1/668509658282?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/880709446428?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "7$ / 15$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1958696391250894850?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1955434897695961090?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1653"
+  }
 }

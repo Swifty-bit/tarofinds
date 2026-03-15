@@ -1,61 +1,61 @@
 {
-  "name": "MM6T-Shirt19 Styles",
+  "name": "Acne StudiosBeanie8 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Topacney",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F778929309468%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/778929309468?inviteCode=29TOTHGNH"
+      "label": "Topacney",
+      "url": "https://litbuy.com/product/weidian/984176730448?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/984176730448?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "10$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "19$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1945139543118233602?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://topacney.x.yupoo.com/albums/66540853?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxAAOSog0yMy6LEm7Dp5MUobrLvatzSVgQSpRE4QanSaeE_Cn3Fbv2r4U5gNU0UhYdvkEc_jlXUWVJK6QP4htuT25IlZ9ruJI4vdC6B1AAU8K8yRE0A_Wdexb8_19L4WePoEJ2iAzRHhtPY=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEzzfQ_fJ0UUIVk7qMzDs0G2Bx3_5QNj0P4Ch0BsOnvnl9buUI4LTtg_s1uSEZBb5-rQJL6bKzvEP82OkH_DhDhW5UI1mma2JbJv5bSwquPMua59bW1S_XWL5LPi8etYdQDdRiRwVwS04Z=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1163",
   "raw_cells": {
     "col_0": {
-      "text": "728"
+      "text": "722"
     },
     "col_1": {
-      "text": "MM6T-Shirt19 Styles"
+      "text": "Acne StudiosBeanie8 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxAAOSog0yMy6LEm7Dp5MUobrLvatzSVgQSpRE4QanSaeE_Cn3Fbv2r4U5gNU0UhYdvkEc_jlXUWVJK6QP4htuT25IlZ9ruJI4vdC6B1AAU8K8yRE0A_Wdexb8_19L4WePoEJ2iAzRHhtPY=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEzzfQ_fJ0UUIVk7qMzDs0G2Bx3_5QNj0P4Ch0BsOnvnl9buUI4LTtg_s1uSEZBb5-rQJL6bKzvEP82OkH_DhDhW5UI1mma2JbJv5bSwquPMua59bW1S_XWL5LPi8etYdQDdRiRwVwS04Z=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Topacney",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/778929309468?inviteCode=29TOTHGNH"
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/984176730448?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "10$"
+    "col_5": {
+      "text": "19$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1945139543118233602?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://topacney.x.yupoo.com/albums/66540853?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1163"
+  }
 }

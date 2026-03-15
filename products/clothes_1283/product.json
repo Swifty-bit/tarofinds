@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga Bomber Fleece Black",
+  "name": "BalenciagaTrack Pants Blue",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "AshMade",
   "best_batch_links": [
     {
       "label": "AshMade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7421520915%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7421520915?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7392593225?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7392593225?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "70$",
+  "best_price": "33$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1965149140169060354?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1927944490700554241?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayxs5CSe76WLflwlOMIwJ7UKMLFbILsXJgpW38OtPqOPTQ6Xcfc7eP309Rg5uQACQyGMOhEDFyMN3OIJghaX2V_f9VWjyRr_jkDNX8sEDT3jf727e9d1sG8bUn4c0aNQuVbAlL9nUZ0Vg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay454owyV3WLPYfft31GbfUKY8w6hcZdf-rJ5qBxAmc8o78PVxgBjfz1oWqwQIrsS2HUNfXLjLR4Vr5EslaXInvm-7y39en6kR7n0AP-zJA6NzR6o6hPFmQppgGRuQcfbE93k_bgGZHPnpD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1283",
   "raw_cells": {
     "col_0": {
-      "text": "872"
+      "text": "868"
     },
     "col_1": {
-      "text": "Balenciaga Bomber Fleece Black"
+      "text": "BalenciagaTrack Pants Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayxs5CSe76WLflwlOMIwJ7UKMLFbILsXJgpW38OtPqOPTQ6Xcfc7eP309Rg5uQACQyGMOhEDFyMN3OIJghaX2V_f9VWjyRr_jkDNX8sEDT3jf727e9d1sG8bUn4c0aNQuVbAlL9nUZ0Vg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay454owyV3WLPYfft31GbfUKY8w6hcZdf-rJ5qBxAmc8o78PVxgBjfz1oWqwQIrsS2HUNfXLjLR4Vr5EslaXInvm-7y39en6kR7n0AP-zJA6NzR6o6hPFmQppgGRuQcfbE93k_bgGZHPnpD=w143-h110"
     },
     "col_3": {
       "text": "AshMade",
       "links": [
         {
           "label": "AshMade",
-          "url": "https://oopbuy.com/product/weidian/7421520915?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7392593225?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "70$"
+      "text": "33$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1965149140169060354?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1927944490700554241?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1283"
+  }
 }

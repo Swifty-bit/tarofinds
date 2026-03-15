@@ -1,61 +1,61 @@
 {
-  "name": "LVWater ReactiveSwim Shorts",
+  "name": "LV Beanie5 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "3MadMan",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "3MadMan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F926562965892%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/926562965892?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/655179264934?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/655179264934?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "41$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://3madman.x.yupoo.com/albums/157155333?uid=1&isSubCate=false&referrercate=4506227"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1853708984521392130"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRg7RLI0PqYSgg2ZLaRc5OMhUCBVrk9W5iRTWAYzoF-cT6dsjqP5Qea9pR-Dv0LpwJFgvkZg7p-j_sF3srZrXZ6wLZsFPpO6FSnQtAgPmfS3KmckAOOj58IWJRD3jaafpC6-LgefHBTA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azub0DGaC7r17cSKqdF1ZC3qgktMgJQTw_lRimX-dNsMWhXIGcdESbo_TNYFb8_wB2I5hjYvbarrjC7ohNqs2WfjU18V2gO9CmtSl04TzL8F8ryHiD8kZB-xkNQKW5Zj9t40DgXPEn6Bg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0833",
   "raw_cells": {
     "col_0": {
-      "text": "330"
+      "text": "326"
     },
     "col_1": {
-      "text": "LVWater ReactiveSwim Shorts"
+      "text": "LV Beanie5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRg7RLI0PqYSgg2ZLaRc5OMhUCBVrk9W5iRTWAYzoF-cT6dsjqP5Qea9pR-Dv0LpwJFgvkZg7p-j_sF3srZrXZ6wLZsFPpO6FSnQtAgPmfS3KmckAOOj58IWJRD3jaafpC6-LgefHBTA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azub0DGaC7r17cSKqdF1ZC3qgktMgJQTw_lRimX-dNsMWhXIGcdESbo_TNYFb8_wB2I5hjYvbarrjC7ohNqs2WfjU18V2gO9CmtSl04TzL8F8ryHiD8kZB-xkNQKW5Zj9t40DgXPEn6Bg=w143-h110"
     },
-    "col_3": {
-      "text": "3MadMan",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "3MadMan",
-          "url": "https://oopbuy.com/product/1/926562965892?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/655179264934?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "41$"
+    "col_6": {
+      "text": "4$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://3madman.x.yupoo.com/albums/157155333?uid=1&isSubCate=false&referrercate=4506227"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1853708984521392130"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0833"
+  }
 }

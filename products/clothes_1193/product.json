@@ -1,61 +1,64 @@
 {
-  "name": "SupremeMF DOOMBEANIE",
+  "name": "Supreme xThe Kid LaroiPaneled BeltedTracksuit",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
       "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7589573963%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7589573963?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7591427846?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7591427846?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "12$",
+  "best_price": "71$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/179538008?uid=1"
+      "url": "https://noghost.x.yupoo.com/albums/159730575?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az7dA15p1dz0OMt3TbpM9qo-orqMsiHZMKUgwXjfb_5K7hAOGXyiQgHZiOHA91YCN5fao4oqYoE1CFRoT4oURF7i2p92jOcu1ZqI5Se4is_RGpMFsRu9s8qqh-phCHxxoNx1wPVBXQXiT1O=w143-h110",
+  "notes": "set 71$ - jacket 40$ - pants 37$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay91E1GjGrvk6GxL0njtdRobK671Ph-2jugjEUaGluO6w_oDmQDPCX47tQ_WmRSiZNLcbxs3LrqpSom28NwHkA_19AAm5rhV0V1Pydj0PSgCrSU7_pD80cPBMIQlLYVfu3FIAZx2GK-ns9v=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1193",
   "raw_cells": {
     "col_0": {
-      "text": "762"
+      "text": "758"
     },
     "col_1": {
-      "text": "SupremeMF DOOMBEANIE"
+      "text": "Supreme xThe Kid LaroiPaneled BeltedTracksuit"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az7dA15p1dz0OMt3TbpM9qo-orqMsiHZMKUgwXjfb_5K7hAOGXyiQgHZiOHA91YCN5fao4oqYoE1CFRoT4oURF7i2p92jOcu1ZqI5Se4is_RGpMFsRu9s8qqh-phCHxxoNx1wPVBXQXiT1O=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay91E1GjGrvk6GxL0njtdRobK671Ph-2jugjEUaGluO6w_oDmQDPCX47tQ_WmRSiZNLcbxs3LrqpSom28NwHkA_19AAm5rhV0V1Pydj0PSgCrSU7_pD80cPBMIQlLYVfu3FIAZx2GK-ns9v=w143-h110"
     },
     "col_3": {
       "text": "DRAGONREP",
       "links": [
         {
           "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7589573963?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7591427846?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "12$"
+      "text": "71$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/179538008?uid=1"
+          "url": "https://noghost.x.yupoo.com/albums/159730575?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 71$ - jacket 40$ - pants 37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1193"
+  }
 }

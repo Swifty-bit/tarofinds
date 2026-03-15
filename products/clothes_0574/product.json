@@ -1,61 +1,61 @@
 {
-  "name": "Nike x Stussy20FWT-Shirt3 Colors",
+  "name": "Nike SKI MASKTHERMA-FIT Hyperwarm Hood",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "CND ISLAND",
   "best_batch_links": [
     {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F915102560248%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/915102560248?inviteCode=29TOTHGNH"
+      "label": "CND ISLAND",
+      "url": "https://litbuy.com/product/weidian/7480325507?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7480325507?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "5$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://steven-1989.x.yupoo.com/albums/92366219?uid=1"
+      "url": "https://baymaxsocks.x.yupoo.com/albums/195838669?uid=1&isSubCate=false&referrercate=4254025"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFfT1Xwn_rYtlu1qOGSeJezuVEA4BS1ESH586jG6-PTVkEExoFBP81unTP3aHbJAbUVfGJBGMSYJ0Yog9uTlxJ5UgPpV8mL2zd0YOhT7a3ObBsfmxbvOjUvQtDOCftXXvVFNmefRoGyA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay6oIxVZmePlXiiTgWcm4jbayf_V1zmRtLxB-m1kcR10u5xipmn2LWAPbFcxqxQMqpZkLsXwhs8PkVBYg3rscD-fMGJMd4rwUW28iJ1Af361FD3pIbx3Ftl_xlEsHW8a30nX4mRr_7TQA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0574",
   "raw_cells": {
     "col_0": {
-      "text": "41"
+      "text": "35"
     },
     "col_1": {
-      "text": "Nike x Stussy20FWT-Shirt3 Colors"
+      "text": "Nike SKI MASKTHERMA-FIT Hyperwarm Hood"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFfT1Xwn_rYtlu1qOGSeJezuVEA4BS1ESH586jG6-PTVkEExoFBP81unTP3aHbJAbUVfGJBGMSYJ0Yog9uTlxJ5UgPpV8mL2zd0YOhT7a3ObBsfmxbvOjUvQtDOCftXXvVFNmefRoGyA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay6oIxVZmePlXiiTgWcm4jbayf_V1zmRtLxB-m1kcR10u5xipmn2LWAPbFcxqxQMqpZkLsXwhs8PkVBYg3rscD-fMGJMd4rwUW28iJ1Af361FD3pIbx3Ftl_xlEsHW8a30nX4mRr_7TQA=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "CND ISLAND",
       "links": [
         {
-          "label": "Singor",
-          "url": "https://oopbuy.com/product/1/915102560248?inviteCode=29TOTHGNH"
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7480325507?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "5$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://steven-1989.x.yupoo.com/albums/92366219?uid=1"
+          "url": "https://baymaxsocks.x.yupoo.com/albums/195838669?uid=1&isSubCate=false&referrercate=4254025"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0574"
+  }
 }

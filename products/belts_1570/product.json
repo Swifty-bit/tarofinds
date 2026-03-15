@@ -1,55 +1,70 @@
 {
-  "name": "Ferragamo",
+  "name": "Gucci",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "K8",
+  "best_batch": "MissChen/K8",
   "best_batch_links": [
     {
+      "label": "MissChen",
+      "url": "https://litbuy.com/product/weidian/4449792320?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/4449792320?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "K8",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7237665997%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7237665997?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7237657869?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7237657869?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F908065154082%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/768700579396?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/768700579396?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "34$",
+  "best_price": "42$ / 32$",
   "budget_price": "2$",
-  "pics_text": "best/budget",
+  "pics_text": "MissChen/K8/budget",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1938764598913134594?action=discord&type=1&cid=1942512167859859457"
+      "label": "MissChen",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1963791284507860993?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "K8",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961596361230606337?action=discord&type=1&cid=1942512167859859457"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969226252725870594?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzeDCbEnC3gycq0ZBK1UTUq230Znoe4VKjO-fAs_mHgVyG1GXK64Pm4QLTCJQgXGyimwDolWlWbK_fRg9VXGxVxwfAhGWBX7_hrKxkwV2Y3cU8uhUq0f707K9I9q22-GJVEq3Zch2_oFw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzilhH7DISgJdhA990abyX6QSN35gLFdJJX1kghCxx75pnarnltV_VnnNztcWg1HEKnVsp1NNRcXZzjglFTy3dT91QfqmfeMtld6F-CYyBlQv8z8Zpvy8Dv4KPgpRYJpLKDwbafjwNtog=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1570",
   "raw_cells": {
     "col_0": {
-      "text": "32"
+      "text": "27"
     },
     "col_1": {
-      "text": "Ferragamo"
+      "text": "Gucci"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzeDCbEnC3gycq0ZBK1UTUq230Znoe4VKjO-fAs_mHgVyG1GXK64Pm4QLTCJQgXGyimwDolWlWbK_fRg9VXGxVxwfAhGWBX7_hrKxkwV2Y3cU8uhUq0f707K9I9q22-GJVEq3Zch2_oFw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzilhH7DISgJdhA990abyX6QSN35gLFdJJX1kghCxx75pnarnltV_VnnNztcWg1HEKnVsp1NNRcXZzjglFTy3dT91QfqmfeMtld6F-CYyBlQv8z8Zpvy8Dv4KPgpRYJpLKDwbafjwNtog=w143-h110"
     },
     "col_3": {
-      "text": "K8",
+      "text": "MissChen/K8",
       "links": [
         {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/4449792320?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "K8",
-          "url": "https://www.oopbuy.com/product/weidian/7237665997?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7237657869?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -58,30 +73,32 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/768700579396?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "34$"
+      "text": "42$ / 32$"
     },
     "col_6": {
       "text": "2$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "MissChen/K8/budget",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1938764598913134594?action=discord&type=1&cid=1942512167859859457"
+          "label": "MissChen",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1963791284507860993?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "K8",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961596361230606337?action=discord&type=1&cid=1942512167859859457"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969226252725870594?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1570"
+  }
 }

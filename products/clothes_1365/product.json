@@ -1,79 +1,61 @@
 {
-  "name": "Eric EmanuelBolt Shorts9 Colours",
+  "name": "Chrome HeartsBeanieMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
-  "best_batch_links": [
-    {
-      "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792558986613%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792558986613?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "UnionKingdom",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/841329427106?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/841329427106?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "23$",
-  "budget_price": "15$",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "5$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/117440095?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1997855665178103809?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7qkWdTuVETaxrPXLXYr_WVq8Z_Q4rMRld8Xs42lFGfcwd6xhjSlcdgze_8BuLNsM8cdmcc5RUZPt3NVeVIMUiWEtHpVfqQj3VIHjC1HeipXMUEWqyJFj_y91RaZ45zwyHYuXUgbA0oWPt=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZgG2aR-vDIb6N3ew58rJ-FRMK4ORjvLrE1UT0ra2DXiH2hMrDIiy5ICJhnOJvuWzgWH2beQEN-b5Q00PCwcDTI6brWbFKiEaQ982Mr6-JJmYZCytN4k2qYuKx0A2-0Oh0P1ydiDzDVSRU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1365",
   "raw_cells": {
     "col_0": {
-      "text": "966"
+      "text": "960"
     },
     "col_1": {
-      "text": "Eric EmanuelBolt Shorts9 Colours"
+      "text": "Chrome HeartsBeanieMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7qkWdTuVETaxrPXLXYr_WVq8Z_Q4rMRld8Xs42lFGfcwd6xhjSlcdgze_8BuLNsM8cdmcc5RUZPt3NVeVIMUiWEtHpVfqQj3VIHjC1HeipXMUEWqyJFj_y91RaZ45zwyHYuXUgbA0oWPt=w143-h110"
-    },
-    "col_3": {
-      "text": "Angelking",
-      "links": [
-        {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792558986613?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZgG2aR-vDIb6N3ew58rJ-FRMK4ORjvLrE1UT0ra2DXiH2hMrDIiy5ICJhnOJvuWzgWH2beQEN-b5Q00PCwcDTI6brWbFKiEaQ982Mr6-JJmYZCytN4k2qYuKx0A2-0Oh0P1ydiDzDVSRU=w143-h110"
     },
     "col_4": {
-      "text": "UnionKingdom",
+      "text": "budget",
       "links": [
         {
-          "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/841329427106?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "23$"
-    },
     "col_6": {
-      "text": "15$"
+      "text": "5$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/117440095?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1997855665178103809?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1365"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Gallery DeptZip Hoodie",
+  "name": "Gallery DeptT-Shirt70 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
     {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F746102331323%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/746102331323?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/709255564649?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/709255564649?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "38$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "6$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1879250926899376130?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1942750657602777089?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyCs97ck_dsjWRuwWr5A0dyRhPfREPGr7yW078sXih8qEO_43bivKVGXpTLY566IzbxWnOfoA816txKNvkwcrMs3oLnVszP87112W7_FiaCbgbt7v4w0N06aanS4J2bVyRps5tznMzpiCNg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxlduDHnyxM_JeROmH7HaQXhnwx2FnDegMxDikuJA2jk_a6fGcA62xk1yWAwu6k3DQC3AWKBTLRkC3Osw-4YpviXGxCKz6CaThvgJv3EwdvgwvKedN7-sEfoVStg0A70oqUl4Zju107PykU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0714",
   "raw_cells": {
     "col_0": {
-      "text": "197"
+      "text": "193"
     },
     "col_1": {
-      "text": "Gallery DeptZip Hoodie"
+      "text": "Gallery DeptT-Shirt70 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyCs97ck_dsjWRuwWr5A0dyRhPfREPGr7yW078sXih8qEO_43bivKVGXpTLY566IzbxWnOfoA816txKNvkwcrMs3oLnVszP87112W7_FiaCbgbt7v4w0N06aanS4J2bVyRps5tznMzpiCNg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxlduDHnyxM_JeROmH7HaQXhnwx2FnDegMxDikuJA2jk_a6fGcA62xk1yWAwu6k3DQC3AWKBTLRkC3Osw-4YpviXGxCKz6CaThvgJv3EwdvgwvKedN7-sEfoVStg0A70oqUl4Zju107PykU=w143-h110"
     },
-    "col_3": {
-      "text": "Singor",
+    "col_4": {
+      "text": "FFCP",
       "links": [
         {
-          "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/746102331323?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/709255564649?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "38$"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1879250926899376130?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1942750657602777089?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0714"
+  }
 }

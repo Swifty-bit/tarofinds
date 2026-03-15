@@ -1,46 +1,48 @@
 {
-  "name": "University Blue",
+  "name": "UNC",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "FK",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "FK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328057952%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328057952?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/7239381635?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "DG",
   "budget_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "71$",
+  "best_price": "60$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxVT7qNfZovY6Zy6KaDEKg2MLO6Bn1B5v6bUlrpUAO7imAc4_INscOZRgVw0mc6WsCqpteamRqPlvkSQnVe6BCaGOGUUEzBvFKHhTakeaYHFqfxOYQMlndISmkfh364LiB9FAUnvqgnmA=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3BZk8frcjCG3YvTf1QS0LrUVlVe0qzkRI3D6nfpRBGOjTd9NFsGbdyUKn8JVoJkZeAt_mf3kTMZTUvIPsJMsiuD27Nlyn0LTKslvqvAVn3rNAHP28FBZmz2YH3DsMegSL1TJSohz6gA=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0162",
   "raw_cells": {
     "col_0": {
       "text": "173"
     },
     "col_1": {
-      "text": "University Blue"
+      "text": "UNC"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVT7qNfZovY6Zy6KaDEKg2MLO6Bn1B5v6bUlrpUAO7imAc4_INscOZRgVw0mc6WsCqpteamRqPlvkSQnVe6BCaGOGUUEzBvFKHhTakeaYHFqfxOYQMlndISmkfh364LiB9FAUnvqgnmA=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3BZk8frcjCG3YvTf1QS0LrUVlVe0qzkRI3D6nfpRBGOjTd9NFsGbdyUKn8JVoJkZeAt_mf3kTMZTUvIPsJMsiuD27Nlyn0LTKslvqvAVn3rNAHP28FBZmz2YH3DsMegSL1TJSohz6gA=w143-h100"
     },
     "col_3": {
-      "text": "FK",
+      "text": "LJR",
       "links": [
         {
-          "label": "FK",
-          "url": "https://oopbuy.com/product/2/7328057952?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "71$"
+      "text": "60$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0162"
+  }
 }

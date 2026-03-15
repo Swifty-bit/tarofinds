@@ -1,20 +1,20 @@
 {
-  "name": "Eric EmanuelNew YorkXavier Collado Empire",
+  "name": "Eric EmanuelBones Shorts3 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792718020125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/792691452297?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "UnionKingdom",
   "budget_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,28 +24,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/136325958?uid=1&isSubCate=false&referrercate=3848500"
+      "url": "https://angelking47.x.yupoo.com/albums/151745163?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axm-GNhuXSnVgLXxObYmS1OBZpE4_Jnn2dJUVAg9OWNJLEp-MB7pUPRprOs42avDz4E-vAWJ72o_XQV0cMy2D7De3IrwyfZA77QmKQO71UwNLVVTJ7SRRW77GYw6p09Fr7iYXYk8bWLGw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay0eK8jXD2SZIkdEkGnnmKRFXMzjxSgse34Pq-vzI5ChCucRtC9YnxxdP6FtYuHTtrAd-N6QkAD2rVRP6wGMVgeb-Ruxp6W_Zc6TZDH2cnkJvxPqP6tgwXOBnz35sUtogSXffxXUhija-Fm=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1371",
   "raw_cells": {
     "col_0": {
-      "text": "972"
+      "text": "968"
     },
     "col_1": {
-      "text": "Eric EmanuelNew YorkXavier Collado Empire"
+      "text": "Eric EmanuelBones Shorts3 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axm-GNhuXSnVgLXxObYmS1OBZpE4_Jnn2dJUVAg9OWNJLEp-MB7pUPRprOs42avDz4E-vAWJ72o_XQV0cMy2D7De3IrwyfZA77QmKQO71UwNLVVTJ7SRRW77GYw6p09Fr7iYXYk8bWLGw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay0eK8jXD2SZIkdEkGnnmKRFXMzjxSgse34Pq-vzI5ChCucRtC9YnxxdP6FtYuHTtrAd-N6QkAD2rVRP6wGMVgeb-Ruxp6W_Zc6TZDH2cnkJvxPqP6tgwXOBnz35sUtogSXffxXUhija-Fm=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/136325958?uid=1&isSubCate=false&referrercate=3848500"
+          "url": "https://angelking47.x.yupoo.com/albums/151745163?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1371"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "BurberryMonogram Cap",
+  "name": "Burberry Scarf",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "ogwave",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "ogwave",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7435247850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7435247850?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/2937140948?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/2937140948?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "19$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "11$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://ogwave.x.yupoo.com/albums/175087829?uid=1"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/WEIDIAN/2937140948"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyR9Owm0o71-uliaARmdoyz8ariFciTBx5IucJHOLghgUuHdueWultz701QVK8oT2iMDVxeU66YJBsMxbqNhOn8H6BIUsPORQEkespvzwmrBzdvqf2_xb4ad30ecsW0b_5-IC43lTPTEQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyVSQob48jR6vtmppMtJv9v2Q2Awx28yUBc7ax2VHDVwulo6KSD5_WREd3VFzxTTf0S4_f9UIc86eqc0yp3xO71aXSBAi6HF-94QW2rASe3sGlv4gGKyk7ugoXUfflsElmTIFrfhbnzpLNp=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1409",
   "raw_cells": {
     "col_0": {
-      "text": "1016"
+      "text": "1012"
     },
     "col_1": {
-      "text": "BurberryMonogram Cap"
+      "text": "Burberry Scarf"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyR9Owm0o71-uliaARmdoyz8ariFciTBx5IucJHOLghgUuHdueWultz701QVK8oT2iMDVxeU66YJBsMxbqNhOn8H6BIUsPORQEkespvzwmrBzdvqf2_xb4ad30ecsW0b_5-IC43lTPTEQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyVSQob48jR6vtmppMtJv9v2Q2Awx28yUBc7ax2VHDVwulo6KSD5_WREd3VFzxTTf0S4_f9UIc86eqc0yp3xO71aXSBAi6HF-94QW2rASe3sGlv4gGKyk7ugoXUfflsElmTIFrfhbnzpLNp=w143-h110"
     },
-    "col_3": {
-      "text": "ogwave",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "ogwave",
-          "url": "https://www.oopbuy.com/product/weidian/7435247850?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/2937140948?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "19$"
+    "col_6": {
+      "text": "11$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://ogwave.x.yupoo.com/albums/175087829?uid=1"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/WEIDIAN/2937140948"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1409"
+  }
 }

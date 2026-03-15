@@ -2,12 +2,12 @@
   "name": "LV T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "1to1",
+  "best_batch": "Thunder",
   "best_batch_links": [
     {
-      "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6704760419%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6704760419?inviteCode=29TOTHGNH"
+      "label": "Thunder",
+      "url": "https://litbuy.com/product/weidian/7414103466?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7414103466?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/146318539?uid=1"
+      "url": "https://thethunder.x.yupoo.com/albums/151320399?uid=1&isSubCate=false&referrercate=3972375"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySF693U70K8nf1EqoMpX5xa0Igv6gAi3e5c-4O21craaG45gk_0Aaca5pbKvwOZmrtPNEN9dFbSB8_PFyJJhCYbFDEmmygvz7hLfKdjZVTvsjC1pcGn4oSna6kZEUfDUjG5BuVcbxpwcbJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwbSI4apgwmPIKQRtTAymJNtoGp_n0RlBJbq4NJcAsTRrz86So7t6VUDb5zXyLFzsRFSd4TMUVer0sX_A-Bo5ynK35E-LaCVsDyI-X3q2dk2ZbIZvP-zFuyYRSpTga4TSB8EAMimcAOzw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0823",
   "raw_cells": {
     "col_0": {
-      "text": "320"
+      "text": "316"
     },
     "col_1": {
       "text": "LV T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySF693U70K8nf1EqoMpX5xa0Igv6gAi3e5c-4O21craaG45gk_0Aaca5pbKvwOZmrtPNEN9dFbSB8_PFyJJhCYbFDEmmygvz7hLfKdjZVTvsjC1pcGn4oSna6kZEUfDUjG5BuVcbxpwcbJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwbSI4apgwmPIKQRtTAymJNtoGp_n0RlBJbq4NJcAsTRrz86So7t6VUDb5zXyLFzsRFSd4TMUVer0sX_A-Bo5ynK35E-LaCVsDyI-X3q2dk2ZbIZvP-zFuyYRSpTga4TSB8EAMimcAOzw=w143-h110"
     },
     "col_3": {
-      "text": "1to1",
+      "text": "Thunder",
       "links": [
         {
-          "label": "1to1",
-          "url": "https://oopbuy.com/product/weidian/6704760419?inviteCode=29TOTHGNH"
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/weidian/7414103466?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/146318539?uid=1"
+          "url": "https://thethunder.x.yupoo.com/albums/151320399?uid=1&isSubCate=false&referrercate=3972375"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0823"
+  }
 }

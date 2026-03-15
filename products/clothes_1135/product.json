@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosVintage T-shirt",
+  "name": "Acne StudiosT-Shirt Oversize5 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Topacney",
   "best_batch_links": [
     {
       "label": "Topacney",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F984309020302%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/984309020302?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/983610893277?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983610893277?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "24$",
+  "best_price": "19$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://topacney.x.yupoo.com/albums/160630704?uid=1"
+      "url": "https://topacney.x.yupoo.com/albums/96329987?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzgbcAzaP99x96Hpfw4IeMT6jPTOUfeXY5I4603P6WPAsM-zdqN1wS3YYoL3OS050MeIh4SkYb8Z0hjfyD2RI0f__591YLbrgkVNk_2w8NYlpACBreOb0SzjiQvTIJIMNZlVoc43HRrswx7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRRTvSQ8Gn3CEy8uTS1TybU3d5W-a7DBBcidOioGpZM-QsMpVnQMdXyeq5E6glt7tYDQFfBFKNMorsOrWKLycNE21TOMFvdh8Rrsr1MBMVch8s_ZY14BKRai54fbTOW5X-C-0pUq6UTwKc=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1135",
   "raw_cells": {
     "col_0": {
-      "text": "698"
+      "text": "694"
     },
     "col_1": {
-      "text": "Acne StudiosVintage T-shirt"
+      "text": "Acne StudiosT-Shirt Oversize5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzgbcAzaP99x96Hpfw4IeMT6jPTOUfeXY5I4603P6WPAsM-zdqN1wS3YYoL3OS050MeIh4SkYb8Z0hjfyD2RI0f__591YLbrgkVNk_2w8NYlpACBreOb0SzjiQvTIJIMNZlVoc43HRrswx7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRRTvSQ8Gn3CEy8uTS1TybU3d5W-a7DBBcidOioGpZM-QsMpVnQMdXyeq5E6glt7tYDQFfBFKNMorsOrWKLycNE21TOMFvdh8Rrsr1MBMVch8s_ZY14BKRai54fbTOW5X-C-0pUq6UTwKc=w143-h110"
     },
     "col_3": {
       "text": "Topacney",
       "links": [
         {
           "label": "Topacney",
-          "url": "https://oopbuy.com/product/1/984309020302?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/983610893277?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "24$"
+      "text": "19$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://topacney.x.yupoo.com/albums/160630704?uid=1"
+          "url": "https://topacney.x.yupoo.com/albums/96329987?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1135"
+  }
 }

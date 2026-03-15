@@ -1,61 +1,61 @@
 {
-  "name": "Gucci Windbreakers",
+  "name": "BurberryBucket Hat",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "ogwave",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F962834467725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/962834467725?inviteCode=29TOTHGNH"
+      "label": "ogwave",
+      "url": "https://litbuy.com/product/weidian/7460457532?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7460457532?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "33$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "21$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2014165100024385537?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://ogwave.x.yupoo.com/albums/175087254?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwFrRAp6E7Tq6a_GnnghqL4LuLWNEiBYNAVNXdOd0gt2rfVhjy8iZN-94BkCgBZ_VqgKL3PerQNMMryM2-x-7FdD5zSHo1mnatl46B4SI2_0wEVgRvvG6m1UmXcfYMW49GwXOGCUY5mv7u9=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azj6w7hvgeEyyN44mawWwZK1lMZ3T_G5-5JyWr19-xmn0O1zjGwThc7y9FLi9Ai0CDrdYnjpzyOQrSsr5TDCZxLUUQZTdltXSNDez6lbSYFPdXs1B8opH-op0gmVwlnjbfkECLIcGcOLg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1417",
   "raw_cells": {
     "col_0": {
-      "text": "1026"
+      "text": "1020"
     },
     "col_1": {
-      "text": "Gucci Windbreakers"
+      "text": "BurberryBucket Hat"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwFrRAp6E7Tq6a_GnnghqL4LuLWNEiBYNAVNXdOd0gt2rfVhjy8iZN-94BkCgBZ_VqgKL3PerQNMMryM2-x-7FdD5zSHo1mnatl46B4SI2_0wEVgRvvG6m1UmXcfYMW49GwXOGCUY5mv7u9=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azj6w7hvgeEyyN44mawWwZK1lMZ3T_G5-5JyWr19-xmn0O1zjGwThc7y9FLi9Ai0CDrdYnjpzyOQrSsr5TDCZxLUUQZTdltXSNDez6lbSYFPdXs1B8opH-op0gmVwlnjbfkECLIcGcOLg=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "ogwave",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/962834467725?inviteCode=29TOTHGNH"
+          "label": "ogwave",
+          "url": "https://www.oopbuy.com/product/weidian/7460457532?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "33$"
+    "col_5": {
+      "text": "21$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2014165100024385537?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://ogwave.x.yupoo.com/albums/175087254?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1417"
+  }
 }

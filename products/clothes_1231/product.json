@@ -1,61 +1,47 @@
 {
-  "name": "Evisu Sweatpants6 Styles",
+  "name": "True ReligionDenim Jeans Jacket2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "best",
+  "best_batch": "TR",
   "best_batch_links": [
     {
-      "label": "best",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F624322764652%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/624322764652?inviteCode=29TOTHGNH"
+      "label": "TR",
+      "url": "https://litbuy.com/product/weidian/862527874499?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/862527874499?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "22$",
+  "best_price": "42$",
   "budget_price": "",
-  "pics_text": "QC Pics",
-  "pics_links": [
-    {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1952658244461223938?action=discord&cid=1942512167859859457"
-    }
-  ],
+  "pics_text": "",
+  "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axv8J1Ek30hOYm-gwR1XP1vSqWvW1jrAKVs_TuhWGC-jBwQTNXdgHtHmk2f4n6eseMmWUqwzz9lF-OqaX_IlLEjejcEOe_fZeMXAZs5AIDJRXIjYqfg5SS-u7GLV4PpiO9XN0zSaNB8BFnc=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyKF3Z1D7H7axG78rchLuGRQ-BZvDari8-S0l6WCBRHvC3E4VOug8IKYWcuQshKS0pe7_A2AC0mt3XZxt3bP6WfgKLRTnA7Z2YU8YE4oCpayhnesCfIQwrSUirwUo8A37FddFPkl_K2IjxX=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1231",
   "raw_cells": {
     "col_0": {
-      "text": "810"
+      "text": "804"
     },
     "col_1": {
-      "text": "Evisu Sweatpants6 Styles"
+      "text": "True ReligionDenim Jeans Jacket2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axv8J1Ek30hOYm-gwR1XP1vSqWvW1jrAKVs_TuhWGC-jBwQTNXdgHtHmk2f4n6eseMmWUqwzz9lF-OqaX_IlLEjejcEOe_fZeMXAZs5AIDJRXIjYqfg5SS-u7GLV4PpiO9XN0zSaNB8BFnc=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyKF3Z1D7H7axG78rchLuGRQ-BZvDari8-S0l6WCBRHvC3E4VOug8IKYWcuQshKS0pe7_A2AC0mt3XZxt3bP6WfgKLRTnA7Z2YU8YE4oCpayhnesCfIQwrSUirwUo8A37FddFPkl_K2IjxX=w143-h110"
     },
     "col_3": {
-      "text": "best",
+      "text": "TR",
       "links": [
         {
-          "label": "best",
-          "url": "https://oopbuy.com/product/1/624322764652?inviteCode=29TOTHGNH"
+          "label": "TR",
+          "url": "https://www.oopbuy.com/product/1/862527874499?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
-    },
-    "col_7": {
-      "text": "QC Pics",
-      "links": [
-        {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1952658244461223938?action=discord&cid=1942512167859859457"
-        }
-      ]
+      "text": "42$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1231"
+  }
 }

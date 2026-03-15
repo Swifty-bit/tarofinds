@@ -1,12 +1,12 @@
 {
-  "name": "Playoffs (2023)",
+  "name": "Aqua (2025)",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "DG",
   "best_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7517028132%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7517028132?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7517028132?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEEjpYLsdy2-Y_msaMRF-BqdI5R7q54K7BRowmkHPcTNoFNx8L9fHhUE3v_usqWg8fikCECLgzGOh5PE1QqxpXvGiVT0I9ovZoNlw_9B7ySa4-OfNSK0iTbQZXLRsm4kzt-lOxJ6j-Pw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwS1Cp2Ebi7dgE9mesBhOxt7uUAurjE_MMdeV8l92fFSg4v8e0LOHGkcxIHdfSrA-TJKD41CQZu2wn60h2fJ_nQQM0gAm1pZ26b_xqg6nYpxNNiEKttSlqbEInf0k5ohY0oTPiqd4ZnSA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0311",
   "raw_cells": {
     "col_0": {
       "text": "332"
     },
     "col_1": {
-      "text": "Playoffs (2023)"
+      "text": "Aqua (2025)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEEjpYLsdy2-Y_msaMRF-BqdI5R7q54K7BRowmkHPcTNoFNx8L9fHhUE3v_usqWg8fikCECLgzGOh5PE1QqxpXvGiVT0I9ovZoNlw_9B7ySa4-OfNSK0iTbQZXLRsm4kzt-lOxJ6j-Pw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwS1Cp2Ebi7dgE9mesBhOxt7uUAurjE_MMdeV8l92fFSg4v8e0LOHGkcxIHdfSrA-TJKD41CQZu2wn60h2fJ_nQQM0gAm1pZ26b_xqg6nYpxNNiEKttSlqbEInf0k5ohY0oTPiqd4ZnSA=w143-h110"
     },
     "col_3": {
       "text": "DG",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "67$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0311"
+  }
 }

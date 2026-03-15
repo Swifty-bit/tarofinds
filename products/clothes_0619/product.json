@@ -1,64 +1,61 @@
 {
-  "name": "Ralph Lauren Sweater9 Colours",
+  "name": "Ralph Lauren Zipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "CloudShop",
-  "budget_batch_links": [
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
     {
-      "label": "CloudShop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F760438413422%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/760438413422?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/weidian/6871281425?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6871281425?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "14$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1892912024184262658?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/149783643?uid=1"
     }
   ],
-  "notes": "100% Cotton",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzXIEF82GpYu1ncrScofDw5dJ84Xd0ddjHeRwfZ-uOvv7ffuwnbEiNk_t0SF-QyKzUwrl9dzrA5sQu2IGTAJ8utrP1Ak6EPlbezvITHnd7ZHj8ajOlrfJ_XPju1ibUG97webKT8-qenq6Ul=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxIZwLRVy9b7eSb4hHKDRvARZINLRDim9xwjCtDUPIQm6CYM2fNghIQP2dZesgdnhIsvVOySJi_Ux9M9Uv6FGyUHGmjOV84WQ0ZOvKygkhRG9vBuRxTzKO9gxh-pqzieUp3UdpbaWYlb4Ic=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0619",
   "raw_cells": {
     "col_0": {
-      "text": "90"
+      "text": "86"
     },
     "col_1": {
-      "text": "Ralph Lauren Sweater9 Colours"
+      "text": "Ralph Lauren Zipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzXIEF82GpYu1ncrScofDw5dJ84Xd0ddjHeRwfZ-uOvv7ffuwnbEiNk_t0SF-QyKzUwrl9dzrA5sQu2IGTAJ8utrP1Ak6EPlbezvITHnd7ZHj8ajOlrfJ_XPju1ibUG97webKT8-qenq6Ul=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxIZwLRVy9b7eSb4hHKDRvARZINLRDim9xwjCtDUPIQm6CYM2fNghIQP2dZesgdnhIsvVOySJi_Ux9M9Uv6FGyUHGmjOV84WQ0ZOvKygkhRG9vBuRxTzKO9gxh-pqzieUp3UdpbaWYlb4Ic=w143-h110"
     },
-    "col_4": {
-      "text": "CloudShop",
+    "col_3": {
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "CloudShop",
-          "url": "https://oopbuy.com/product/1/760438413422?inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/weidian/6871281425?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "14$"
+    "col_5": {
+      "text": "36$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1892912024184262658?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/149783643?uid=1"
         }
       ]
-    },
-    "col_8": {
-      "text": "100% Cotton"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0619"
+  }
 }

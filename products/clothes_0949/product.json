@@ -1,61 +1,87 @@
 {
-  "name": "Denim Tearsx ReadymadeHoodie",
+  "name": "Denim TearsShorts11 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "Angelking",
+  "best_batch_links": [
+    {
+      "label": "Angelking",
+      "url": "https://litbuy.com/product/weidian/1004136388105?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1004136388105?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "33TRENTE",
   "budget_batch_links": [
     {
       "label": "33TRENTE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680415390619%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/670071114503?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "25$",
-  "pics_text": "QC Pics",
+  "best_price": "31$",
+  "budget_price": "15$",
+  "pics_text": "angelking/33trente",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
+      "label": "angelking",
+      "url": "https://louisangelking.x.yupoo.com/albums/220077581?uid=1&isSubCate=false&referrercate=5092630"
+    },
+    {
+      "label": "33trente",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awuikqk8AIzdWxO5Z9cDr_jEHA74pz6dMbRU6_b0FoRSc5nMq5kf3xADKqPt-46TNA_h1lQmEN_shbHN6bH6KBeTAt6yqetpIc6Kk9589Qu3lLCRfbAMQY1niU8DfNtR6m7jQ_UUHIdnw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1ZTtKTvx1Ms9qvljwFUwC6vMAaZBeAt1y0yd7shGNkBmwtINSkVSKBPz8znNyQie9r1cmpY1V_0t1k0yqoGGFMeCwg741pEBTVzyun11C7DbilcDxwoRXK_orlYautzFE8bGfv3V83M9u=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0949",
   "raw_cells": {
     "col_0": {
-      "text": "478"
+      "text": "474"
     },
     "col_1": {
-      "text": "Denim Tearsx ReadymadeHoodie"
+      "text": "Denim TearsShorts11 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awuikqk8AIzdWxO5Z9cDr_jEHA74pz6dMbRU6_b0FoRSc5nMq5kf3xADKqPt-46TNA_h1lQmEN_shbHN6bH6KBeTAt6yqetpIc6Kk9589Qu3lLCRfbAMQY1niU8DfNtR6m7jQ_UUHIdnw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1ZTtKTvx1Ms9qvljwFUwC6vMAaZBeAt1y0yd7shGNkBmwtINSkVSKBPz8znNyQie9r1cmpY1V_0t1k0yqoGGFMeCwg741pEBTVzyun11C7DbilcDxwoRXK_orlYautzFE8bGfv3V83M9u=w143-h110"
+    },
+    "col_3": {
+      "text": "Angelking",
+      "links": [
+        {
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/1004136388105?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "33TRENTE",
       "links": [
         {
           "label": "33TRENTE",
-          "url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "31$"
+    },
     "col_6": {
-      "text": "25$"
+      "text": "15$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "angelking/33trente",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
+          "label": "angelking",
+          "url": "https://louisangelking.x.yupoo.com/albums/220077581?uid=1&isSubCate=false&referrercate=5092630"
+        },
+        {
+          "label": "33trente",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0949"
+  }
 }

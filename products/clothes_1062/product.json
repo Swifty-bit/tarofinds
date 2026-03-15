@@ -1,61 +1,87 @@
 {
-  "name": "HellstarLong SleeveFuture T-Shirt",
+  "name": "Hellstar Studios Biker Tour T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F806005968767%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/806005968767?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/805640822006?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805640822006?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "15$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/802896750934?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "23$",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/165018657?uid=1"
+      "label": "best",
+      "url": "https://pikachushop.x.yupoo.com/albums/161741673?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwfKj7HggTGPn2Jn1wtc21FiriPtktZyaqFNwxEjvCK1df7ITCROh8A0qb8Qb93K4k1YjgIYi4UJW9hJ7QoE1xTFAD8lUT_MJ7CwTBlbVKD5IIMcPYxrI1OQFHmSgHnYIAzTmUPcYZlLl-V=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1cejzknnpGSbbsWgeSzbOaDeHa4X1CpvVPVFf6gyRFb_I7uo9LWuNP0BWikx_GAPcBXpkrRSnivcQWkFSYecn22a5sk1c-eUajBuSP4NWQrQIzPswnMKkrWMo7afN4gOBY0NmIKJriwe8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1062",
   "raw_cells": {
     "col_0": {
-      "text": "611"
+      "text": "607"
     },
     "col_1": {
-      "text": "HellstarLong SleeveFuture T-Shirt"
+      "text": "Hellstar Studios Biker Tour T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwfKj7HggTGPn2Jn1wtc21FiriPtktZyaqFNwxEjvCK1df7ITCROh8A0qb8Qb93K4k1YjgIYi4UJW9hJ7QoE1xTFAD8lUT_MJ7CwTBlbVKD5IIMcPYxrI1OQFHmSgHnYIAzTmUPcYZlLl-V=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1cejzknnpGSbbsWgeSzbOaDeHa4X1CpvVPVFf6gyRFb_I7uo9LWuNP0BWikx_GAPcBXpkrRSnivcQWkFSYecn22a5sk1c-eUajBuSP4NWQrQIzPswnMKkrWMo7afN4gOBY0NmIKJriwe8=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://www.oopbuy.com/product/1/806005968767?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/805640822006?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "23$"
+    },
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/165018657?uid=1"
+          "label": "best",
+          "url": "https://pikachushop.x.yupoo.com/albums/161741673?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1062"
+  }
 }

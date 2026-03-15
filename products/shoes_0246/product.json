@@ -1,46 +1,57 @@
 {
-  "name": "PSG",
+  "name": "Bred Reimagined",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "NEW R1",
+  "best_batch": "Y3/GX",
   "best_batch_links": [
     {
-      "label": "NEW R1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328101882%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+      "label": "Y3",
+      "url": "https://litbuy.com/product/taobao/7327111711?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327111711?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "45$",
+  "best_price": "56$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzTKX4NvnfQwTJ41sKeCRuOFa4d5AJEQ6fkiHh7vF4nMl-Xbzhwue8QDL2UpfHQfxIx44f3n-ebHyaB2zm_YC7IfJdpfCaKLw4q-QNM4BHm-LqB2SxG3ps1F9WI9BofqTc1awj5kc-idw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzNRhzO35uOMpXcY7EEe88yuZ_9wpX5oGdS11nYCb5OXbQiDfodmLwgd19F3FhjlFn0lKJsceN-x0gqUv9dKCr7X2KefkjNBGHyL8V6U-9qKz4ZHmYx-EawA1TlEEO49x3l70WnKImYNVka=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0246",
   "raw_cells": {
     "col_0": {
       "text": "261"
     },
     "col_1": {
-      "text": "PSG"
+      "text": "Bred Reimagined"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzTKX4NvnfQwTJ41sKeCRuOFa4d5AJEQ6fkiHh7vF4nMl-Xbzhwue8QDL2UpfHQfxIx44f3n-ebHyaB2zm_YC7IfJdpfCaKLw4q-QNM4BHm-LqB2SxG3ps1F9WI9BofqTc1awj5kc-idw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzNRhzO35uOMpXcY7EEe88yuZ_9wpX5oGdS11nYCb5OXbQiDfodmLwgd19F3FhjlFn0lKJsceN-x0gqUv9dKCr7X2KefkjNBGHyL8V6U-9qKz4ZHmYx-EawA1TlEEO49x3l70WnKImYNVka=w143-h110"
     },
     "col_3": {
-      "text": "NEW R1",
+      "text": "Y3/GX",
       "links": [
         {
-          "label": "NEW R1",
-          "url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+          "label": "Y3",
+          "url": "https://oopbuy.com/product/2/7327111711?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +65,10 @@
       ]
     },
     "col_5": {
-      "text": "45$"
+      "text": "56$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0246"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "CDG PlayT-ShirtMany Styles",
+  "name": "Drama CallLightweightNylon Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "hotdog-official",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F635772572129%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/635772572129?inviteCode=29TOTHGNH"
+      "label": "hotdog-official",
+      "url": "https://litbuy.com/product/taobao/7341498669?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7341498669?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "7$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967415461886386178?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/179947737?uid=1&isSubCate=false&referrercate=4589391"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay8fEjMjcc_XhRA1jZJnH3ZA6YVM0IlnjF37_Y-sosLPSfxPbpMH4MvTOXe74Rv2KO6vab5xbIwRfcsmNtPl5h1giJQQLH2DTJXjT7duMtZFgZLnL6R5TcTUyokPxEPpm6CqwyQ-S2neg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AypPLJTiiNhcgVu8vj3QEWuptroxl4IiLU2XDAKQ9dI4nvOiNP1aKTiI87x8DflihfKzL5HSbdtdrBH4ct6EleMLKmlcke23_Pwvf0N-ORjx0i_pgb2m2zBWoe6-ez62av-Z_K3HLuzmWZx=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1031",
   "raw_cells": {
     "col_0": {
-      "text": "576"
+      "text": "570"
     },
     "col_1": {
-      "text": "CDG PlayT-ShirtMany Styles"
+      "text": "Drama CallLightweightNylon Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay8fEjMjcc_XhRA1jZJnH3ZA6YVM0IlnjF37_Y-sosLPSfxPbpMH4MvTOXe74Rv2KO6vab5xbIwRfcsmNtPl5h1giJQQLH2DTJXjT7duMtZFgZLnL6R5TcTUyokPxEPpm6CqwyQ-S2neg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AypPLJTiiNhcgVu8vj3QEWuptroxl4IiLU2XDAKQ9dI4nvOiNP1aKTiI87x8DflihfKzL5HSbdtdrBH4ct6EleMLKmlcke23_Pwvf0N-ORjx0i_pgb2m2zBWoe6-ez62av-Z_K3HLuzmWZx=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "hotdog-official",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/1/635772572129?inviteCode=29TOTHGNH"
+          "label": "hotdog-official",
+          "url": "https://oopbuy.com/product/2/7341498669?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "7$"
+    "col_5": {
+      "text": "36$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967415461886386178?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/179947737?uid=1&isSubCate=false&referrercate=4589391"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1031"
+  }
 }

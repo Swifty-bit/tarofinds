@@ -1,61 +1,61 @@
 {
-  "name": "Stussy Fuzzy Dice T-Shirt",
+  "name": "Nike x Stussy Sweater",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Chaosmade",
+  "best_batch": "Singor",
   "best_batch_links": [
     {
-      "label": "Chaosmade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F671098235246%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/671098235246?inviteCode=29TOTHGNH"
+      "label": "Singor",
+      "url": "https://litbuy.com/product/weidian/7541017606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7541017606?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "15$",
+  "best_price": "34$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://chaosmade.x.yupoo.com/albums/111310483?uid=1&isSubCate=false&referrercate=3536981"
+      "url": "https://steven-1989.x.yupoo.com/albums/142784706?uid=1&isSubCate=false&referrercate=3018569"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJGPf4DazM81z7nfr7Jf2ZXUs4QKYwz6SftNMoqjXT0RLal4b4X9DjMB3MCJN9dRedq_gAhS0TEdFy2qqWnyj9i2T7oqI1d8j3Yr6Zctth-NbK9Ro5XaLem6dlKW09SlqA_u3VIOEfokMb=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyDk19vpB7QYgthDsy_7U45fBg9dbvmOssoAzmPRggaB3gJ327e61_ysruIgIkMecAsuEdlFmKpG1vQl5N1dqaJ9QBGtsOn1zmt52NzyPlc8YkVr9ZccCEyLsh7gXdgl8hD7l5Zn9_ljkFv=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0586",
   "raw_cells": {
     "col_0": {
-      "text": "55"
+      "text": "49"
     },
     "col_1": {
-      "text": "Stussy Fuzzy Dice T-Shirt"
+      "text": "Nike x Stussy Sweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJGPf4DazM81z7nfr7Jf2ZXUs4QKYwz6SftNMoqjXT0RLal4b4X9DjMB3MCJN9dRedq_gAhS0TEdFy2qqWnyj9i2T7oqI1d8j3Yr6Zctth-NbK9Ro5XaLem6dlKW09SlqA_u3VIOEfokMb=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyDk19vpB7QYgthDsy_7U45fBg9dbvmOssoAzmPRggaB3gJ327e61_ysruIgIkMecAsuEdlFmKpG1vQl5N1dqaJ9QBGtsOn1zmt52NzyPlc8YkVr9ZccCEyLsh7gXdgl8hD7l5Zn9_ljkFv=w143-h110"
     },
     "col_3": {
-      "text": "Chaosmade",
+      "text": "Singor",
       "links": [
         {
-          "label": "Chaosmade",
-          "url": "https://oopbuy.com/product/1/671098235246?inviteCode=29TOTHGNH"
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/weidian/7541017606?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "34$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://chaosmade.x.yupoo.com/albums/111310483?uid=1&isSubCate=false&referrercate=3536981"
+          "url": "https://steven-1989.x.yupoo.com/albums/142784706?uid=1&isSubCate=false&referrercate=3018569"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0586"
+  }
 }

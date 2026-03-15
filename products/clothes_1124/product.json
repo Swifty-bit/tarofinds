@@ -1,64 +1,61 @@
 {
-  "name": "CarsickoTracksuitBlack",
+  "name": "VetementsSplit BridgesZip Up Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F764758749251%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/850489787388?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/850489787388?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "27$(SET)",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "66$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/179560919?uid=1&isSubCate=false&referrercate=4736074"
     }
   ],
-  "notes": "set 27$ - top 14$ - bottom 13$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aym25GB8nYYT0LgEXqb4gWgsIIYbNMA2gpkvwDUQGsahLCmt0-HRDEY7HH-1sCwRkbwfCW_pA596m3Z726pE9iQlgdWmC21F_0bVafmhnJ2i7g9EhRu-eZcdHeNPGGT2JuHSau8l8TKfZPn=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayw9p3_rcSDBTQSNXKWkQTrKnZZhZwEwit3zCl_0cEuIZkfHySTWzbvb89Pk4sAq5Pb-1aZ25hjKxParPm6t40VVcvvZFvsbZE2RsvlrbCGuPWHwK9Ce0cM4qSqgWqmz-_BW558QkcAGwaJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1124",
   "raw_cells": {
     "col_0": {
-      "text": "681"
+      "text": "675"
     },
     "col_1": {
-      "text": "CarsickoTracksuitBlack"
+      "text": "VetementsSplit BridgesZip Up Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aym25GB8nYYT0LgEXqb4gWgsIIYbNMA2gpkvwDUQGsahLCmt0-HRDEY7HH-1sCwRkbwfCW_pA596m3Z726pE9iQlgdWmC21F_0bVafmhnJ2i7g9EhRu-eZcdHeNPGGT2JuHSau8l8TKfZPn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayw9p3_rcSDBTQSNXKWkQTrKnZZhZwEwit3zCl_0cEuIZkfHySTWzbvb89Pk4sAq5Pb-1aZ25hjKxParPm6t40VVcvvZFvsbZE2RsvlrbCGuPWHwK9Ce0cM4qSqgWqmz-_BW558QkcAGwaJ=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/850489787388?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "27$(SET)"
+    "col_5": {
+      "text": "66$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/179560919?uid=1&isSubCate=false&referrercate=4736074"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 27$ - top 14$ - bottom 13$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1124"
+  }
 }

@@ -1,78 +1,61 @@
 {
-  "name": "Louis VuittonBackpackMany Styles",
+  "name": "Louis VuittonKeepall 50",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "godmall/budget",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "godmall",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7591255184%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7591255184?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F849405615614%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/849405615614?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/950742576043?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/950742576043?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "49$ / 26$",
-  "pics_text": "godmall/budget",
+  "budget_price": "24$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "godmall",
-      "url": "https://godmall.x.yupoo.com/albums/196036836?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1972849871683149825?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1975387670605029377?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzUbI8hNFfidPvJVCkIt6BsanpNqZ5wie-4pTfP-HCQiPF7iGSEQz-B5CWpU_QsIStS1PZIj1waGcO97FEsVk6PRy_sAM4pJNcEAIOiGts6sXZ6gyqoTYJlnhgJEPKwzIbmV6n1hI4ykMWF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwyCJv6WNrVxyyMdhkWzJSfVEt3rfVRr_ngAmAgRROLU-GEJFmRV6taac0SrjPwkL6JG9-KlWc66u49Fxu76HXHIKelgrRfpMthSd0hev68oUhdBv5vY8jo8EXfjub5iGVuStTcsDlKsA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1515",
   "raw_cells": {
     "col_0": {
-      "text": "21"
+      "text": "17"
     },
     "col_1": {
-      "text": "Louis VuittonBackpackMany Styles"
+      "text": "Louis VuittonKeepall 50"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzUbI8hNFfidPvJVCkIt6BsanpNqZ5wie-4pTfP-HCQiPF7iGSEQz-B5CWpU_QsIStS1PZIj1waGcO97FEsVk6PRy_sAM4pJNcEAIOiGts6sXZ6gyqoTYJlnhgJEPKwzIbmV6n1hI4ykMWF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwyCJv6WNrVxyyMdhkWzJSfVEt3rfVRr_ngAmAgRROLU-GEJFmRV6taac0SrjPwkL6JG9-KlWc66u49Fxu76HXHIKelgrRfpMthSd0hev68oUhdBv5vY8jo8EXfjub5iGVuStTcsDlKsA=w143-h110"
     },
     "col_4": {
-      "text": "godmall/budget",
+      "text": "budget",
       "links": [
         {
-          "label": "godmall",
-          "url": "https://oopbuy.com/product/weidian/7591255184?inviteCode=29TOTHGNH"
-        },
-        {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/849405615614?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/950742576043?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "49$ / 26$"
+      "text": "24$"
     },
     "col_7": {
-      "text": "godmall/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "godmall",
-          "url": "https://godmall.x.yupoo.com/albums/196036836?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1972849871683149825?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1975387670605029377?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1515"
+  }
 }

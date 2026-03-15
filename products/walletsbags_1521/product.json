@@ -1,61 +1,87 @@
 {
-  "name": "GoyardJouvence Toiletry Bag11 Colors",
+  "name": "GoyardCardholder12 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "Scarlett",
+  "best_batch_links": [
+    {
+      "label": "Scarlett",
+      "url": "https://litbuy.com/product/taobao/7236975530?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7236975530?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F747681563372%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/747681563372?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/729293946538?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/729293946538?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "23$",
-  "pics_text": "QC Pics",
+  "best_price": "45$",
+  "budget_price": "5$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1980461387418259458?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952535580624637953?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574327166656513?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw57lRDW18Khfs_TPvH09zU-CfoXuXHxC1gYgqWZBISMyQDdZUTDGjCaouTE3NdY3fMK5PNqMsDBhi0EuULEwWk1HgBeCXMfEh4Qhp2Cs80f-Y3Rz3XHMkhcO4xbnlZ8I-nW0Jnb_sjxOVw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aygn1XaH076LpWdTNT8gcEho9ZwbtCKU08HZ2xP7dogux1ILbAHSifelm7rNXTOx_DpAmJOFMp0IKiKQ5_BYi-kOYy-SKN14m1i2LleJZcH44-Wukh6GAwIJ89NAkB0HZ7H6Ek06KyKefAN=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1521",
   "raw_cells": {
     "col_0": {
-      "text": "27"
+      "text": "23"
     },
     "col_1": {
-      "text": "GoyardJouvence Toiletry Bag11 Colors"
+      "text": "GoyardCardholder12 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw57lRDW18Khfs_TPvH09zU-CfoXuXHxC1gYgqWZBISMyQDdZUTDGjCaouTE3NdY3fMK5PNqMsDBhi0EuULEwWk1HgBeCXMfEh4Qhp2Cs80f-Y3Rz3XHMkhcO4xbnlZ8I-nW0Jnb_sjxOVw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aygn1XaH076LpWdTNT8gcEho9ZwbtCKU08HZ2xP7dogux1ILbAHSifelm7rNXTOx_DpAmJOFMp0IKiKQ5_BYi-kOYy-SKN14m1i2LleJZcH44-Wukh6GAwIJ89NAkB0HZ7H6Ek06KyKefAN=w143-h110"
+    },
+    "col_3": {
+      "text": "Scarlett",
+      "links": [
+        {
+          "label": "Scarlett",
+          "url": "https://oopbuy.com/product/2/7236975530?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/747681563372?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/729293946538?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "45$"
+    },
     "col_6": {
-      "text": "23$"
+      "text": "5$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1980461387418259458?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952535580624637953?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574327166656513?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1521"
+  }
 }

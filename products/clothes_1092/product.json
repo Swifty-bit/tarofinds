@@ -1,65 +1,107 @@
 {
-  "name": "MertraJacket GrayWater Reactive",
+  "name": "MertraTracksuits",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "pengreps",
+  "best_batch": "pengreps/pengreps",
   "best_batch_links": [
     {
       "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7528768542%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7528768542?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7505004349?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7505004349?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "pengreps",
+      "url": "https://litbuy.com/product/weidian/7506934022?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7506934022?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "36$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "74$(SET)",
+  "budget_price": "35$(SET)",
+  "pics_text": "pics/pics/budget",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pengreps.x.yupoo.com/albums/211641526?uid=1&isSubCate=false&referrercate=5074803"
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7505004349"
+    },
+    {
+      "label": "pics",
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7506934022"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AymGdi-zWrolquznchQhWrG5jlO0V4z4MblPKOn17d2Qfp-UpSDXn9KuFXthC5Ig2r9dVxivTnLPh3qDUcyTgkicaxH3lnoWIMmH753iedEhMLVHY2-4xzKwEbvghwtv4beGUWk0_R-FD_j=w143-h110",
+  "notes": "set 74$ - top 34$ - bottom 30$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzIsxVCG6rQMqZCkgcSN5ssF9NUaGQqXvmYHhMfZcv1tuwaXAuUvxNxfZuY6AfpaGFAGjOBY2d4I4fnKoophOENzPQ6r2CugTvCasrYe_53KgfXNhtbn9StQrU9C8BI-cGJF5wMk0t03mof=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1092",
   "raw_cells": {
     "col_0": {
-      "text": "643"
+      "text": "639"
     },
     "col_1": {
-      "text": "MertraJacket GrayWater Reactive"
+      "text": "MertraTracksuits"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AymGdi-zWrolquznchQhWrG5jlO0V4z4MblPKOn17d2Qfp-UpSDXn9KuFXthC5Ig2r9dVxivTnLPh3qDUcyTgkicaxH3lnoWIMmH753iedEhMLVHY2-4xzKwEbvghwtv4beGUWk0_R-FD_j=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzIsxVCG6rQMqZCkgcSN5ssF9NUaGQqXvmYHhMfZcv1tuwaXAuUvxNxfZuY6AfpaGFAGjOBY2d4I4fnKoophOENzPQ6r2CugTvCasrYe_53KgfXNhtbn9StQrU9C8BI-cGJF5wMk0t03mof=w143-h110"
     },
     "col_3": {
-      "text": "pengreps",
+      "text": "pengreps/pengreps",
       "links": [
         {
           "label": "pengreps",
-          "url": "https://oopbuy.com/product/weidian/7528768542?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7505004349?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7506934022?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "36$"
+      "text": "74$(SET)"
+    },
+    "col_6": {
+      "text": "35$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "pics/pics/budget",
       "links": [
         {
           "label": "pics",
-          "url": "https://pengreps.x.yupoo.com/albums/211641526?uid=1&isSubCate=false&referrercate=5074803"
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7505004349"
+        },
+        {
+          "label": "pics",
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7506934022"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     },
     "col_8": {
-      "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzC7iyq0smz3I1v0F5BgsjP1sIsss_x0Ke96vqh4wWQkhooDR_TKSd2YrjxADOIZfugW0J2Lk8GRzra10Phs6EWKa-DyKL7ZlO7qhcEExmL2w5vpnX5bct3ILb8frz9AqCgAMQBWOgEJ3dq=w456-h110"
+      "text": "set 74$ - top 34$ - bottom 30$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1092"
+  }
 }

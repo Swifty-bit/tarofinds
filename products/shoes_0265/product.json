@@ -1,65 +1,47 @@
 {
-  "name": "Craft Medium Olive",
+  "name": "Eminem Encore",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "RFA",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "RFA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5791543640%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX",
-  "budget_batch_links": [
-    {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "66$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "77$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axb59gt1Fb5eEKpMevUOgPbzZgsQ6brcxAz6ZYPRcJoBEY5CAML04V570m9CLrEtGFjjnfTPbO1uR2sMWP8q31INEXpjvIEMaUZyYQw7OhMLTOKdzyZissJ-FWJYKNdVMTTZC4456a94Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyzqX4YPa61Tx83SdhOICvxYgRuUIttDthmdH33bXby4EPLsuRVqJHPaIUlljQIkdS3IM4HQca1JWNZ4ZvcgXSOG39lch9sfTdB0Y1ouJ2Dlr0ZzTdjOfaZIHEWdWa6wKz8-OpSYB5ip3Dj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0265",
   "raw_cells": {
     "col_0": {
       "text": "280"
     },
     "col_1": {
-      "text": "Craft Medium Olive"
+      "text": "Eminem Encore"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axb59gt1Fb5eEKpMevUOgPbzZgsQ6brcxAz6ZYPRcJoBEY5CAML04V570m9CLrEtGFjjnfTPbO1uR2sMWP8q31INEXpjvIEMaUZyYQw7OhMLTOKdzyZissJ-FWJYKNdVMTTZC4456a94Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyzqX4YPa61Tx83SdhOICvxYgRuUIttDthmdH33bXby4EPLsuRVqJHPaIUlljQIkdS3IM4HQca1JWNZ4ZvcgXSOG39lch9sfTdB0Y1ouJ2Dlr0ZzTdjOfaZIHEWdWa6wKz8-OpSYB5ip3Dj=w143-h110"
     },
     "col_3": {
-      "text": "RFA",
+      "text": "GX",
       "links": [
         {
-          "label": "RFA",
-          "url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "KX",
-      "links": [
-        {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "66$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "77$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0265"
+  }
 }

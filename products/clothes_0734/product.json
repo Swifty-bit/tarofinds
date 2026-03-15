@@ -1,104 +1,138 @@
 {
-  "name": "Essentials8th Season22SSSweatpants",
+  "name": "Essentials8th Season22SSHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "firerep",
+  "best_batch": "GmanClub/Singor",
   "best_batch_links": [
     {
-      "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F986570468295%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/986570468295?inviteCode=29TOTHGNH"
+      "label": "GmanClub",
+      "url": "https://litbuy.com/product/weidian/685437690874?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/685437690874?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Singor",
+      "url": "https://litbuy.com/product/weidian/742109014625?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/742109014625?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "Yishan/FFOG",
+  "budget_batch": "Yishan/FFOG/budget",
   "budget_batch_links": [
     {
       "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F735669217577%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/735669217577?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/858983887218?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/858983887218?inviteCode=29TOTHGNH"
     },
     {
       "label": "FFOG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680628335235%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/680628335235?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/696743445201?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/696743445201?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/803133867151?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/803133867151?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "28$",
-  "budget_price": "17$ / 15$",
-  "pics_text": "firerep/yishan/FFOG",
+  "best_price": "43$ / 33$",
+  "budget_price": "20$ / 19$ / 14$",
+  "pics_text": "gmanclub/singor/yishan/FFOG/budget",
   "pics_links": [
     {
-      "label": "firerep",
-      "url": "https://firerep.x.yupoo.com/albums/171862970?uid=1&isSubCate=false&referrercate=4640546"
+      "label": "gmanclub",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1950723971296088066?action=discord&cid=1942512167859859457"
+    },
+    {
+      "label": "singor",
+      "url": "https://www.uufinds.com/exploreMore/1853614688195641345"
     },
     {
       "label": "yishan",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2010206717743288321?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2010201939592171522?action=discord&type=1&cid=1942512167859859457"
     },
     {
       "label": "FFOG",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1941663791017226242?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1901801290939338753?action=discord&cid=1840597081113280514"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961351613063991300?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPcjB86_B83lIKayi6iazcc0Y2UYBlclzQGjTMcxD5prHPUuXFTrPiMUA2OJouIojgMLRoWmoowlP-FNRtQftxDH4aUwTHpenra23Njm16z1GUYGnf3HYPhMxMjSGcc8mZaLBBcGM1xA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmgUlXWeSJYDEZglrMDgOzHEGjs320af6sM4bs47tMU_qjc3BVReeN1KwR0ROueL8oTIu9vK7-Nd45fvpHIc2-zrAtuMV6cDaSCeo3vNsao6oxrOS-FL8u775CU8FZspvOaMDuP8lkfw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0734",
   "raw_cells": {
     "col_0": {
-      "text": "219"
+      "text": "215"
     },
     "col_1": {
-      "text": "Essentials8th Season22SSSweatpants"
+      "text": "Essentials8th Season22SSHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPcjB86_B83lIKayi6iazcc0Y2UYBlclzQGjTMcxD5prHPUuXFTrPiMUA2OJouIojgMLRoWmoowlP-FNRtQftxDH4aUwTHpenra23Njm16z1GUYGnf3HYPhMxMjSGcc8mZaLBBcGM1xA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmgUlXWeSJYDEZglrMDgOzHEGjs320af6sM4bs47tMU_qjc3BVReeN1KwR0ROueL8oTIu9vK7-Nd45fvpHIc2-zrAtuMV6cDaSCeo3vNsao6oxrOS-FL8u775CU8FZspvOaMDuP8lkfw=w143-h110"
     },
     "col_3": {
-      "text": "firerep",
+      "text": "GmanClub/Singor",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://oopbuy.com/product/1/986570468295?inviteCode=29TOTHGNH"
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/685437690874?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Singor",
+          "url": "https://www.oopbuy.com/product/1/742109014625?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "Yishan/FFOG",
+      "text": "Yishan/FFOG/budget",
       "links": [
         {
           "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/735669217577?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/858983887218?inviteCode=29TOTHGNH"
         },
         {
           "label": "FFOG",
-          "url": "https://oopbuy.com/product/1/680628335235?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/696743445201?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/803133867151?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
+      "text": "43$ / 33$"
     },
     "col_6": {
-      "text": "17$ / 15$"
+      "text": "20$ / 19$ / 14$"
     },
     "col_7": {
-      "text": "firerep/yishan/FFOG",
+      "text": "gmanclub/singor/yishan/FFOG/budget",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://firerep.x.yupoo.com/albums/171862970?uid=1&isSubCate=false&referrercate=4640546"
+          "label": "gmanclub",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1950723971296088066?action=discord&cid=1942512167859859457"
+        },
+        {
+          "label": "singor",
+          "url": "https://www.uufinds.com/exploreMore/1853614688195641345"
         },
         {
           "label": "yishan",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2010206717743288321?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2010201939592171522?action=discord&type=1&cid=1942512167859859457"
         },
         {
           "label": "FFOG",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1941663791017226242?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1901801290939338753?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961351613063991300?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0734"
+  }
 }

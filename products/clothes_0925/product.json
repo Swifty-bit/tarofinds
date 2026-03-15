@@ -1,61 +1,87 @@
 {
-  "name": "SynaT-Shirt & Shorts4 Colors",
+  "name": "Palm AngelsTrack Pants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT",
+  "best_batch": "repsbrothers",
   "best_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653805345%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653805345?inviteCode=29TOTHGNH"
+      "label": "repsbrothers",
+      "url": "https://litbuy.com/product/weidian/962609795435?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/962609795435?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "40$(SET)",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/747897258427?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/747897258427?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "33$",
+  "budget_price": "9$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official222.x.yupoo.com/albums/138101088?uid=1&isSubCate=false&referrercate=4215138"
+      "label": "best",
+      "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=962609795435"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1920646166054223873?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awk_Q5I2jkgRg3-kH7aHuhApdt40fVpgrmX72-VNzdh6Vl_i-jhiJ93aF_2OHYvXhK4pnERtuSJAOXYDufzH0yhLDa2d56MJ-ffqVmeRAeGllFaLgxdGxwrCV_QJQSin9NyMkrDdUqKvQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyV2fDivPxUCT8EDQ88yuyLjh8tcG72jXiTa3c7zDRtrNhJP_9NtpL0W0kakpFb1aRWcD-5uqf_vPMhO7Kp1gCvMvvcKD58nua1rKoUJ87kamE8kEKs_UeY7hIYnqMiFiDro7YLeV7zS8nf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0925",
   "raw_cells": {
     "col_0": {
-      "text": "452"
+      "text": "446"
     },
     "col_1": {
-      "text": "SynaT-Shirt & Shorts4 Colors"
+      "text": "Palm AngelsTrack Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awk_Q5I2jkgRg3-kH7aHuhApdt40fVpgrmX72-VNzdh6Vl_i-jhiJ93aF_2OHYvXhK4pnERtuSJAOXYDufzH0yhLDa2d56MJ-ffqVmeRAeGllFaLgxdGxwrCV_QJQSin9NyMkrDdUqKvQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyV2fDivPxUCT8EDQ88yuyLjh8tcG72jXiTa3c7zDRtrNhJP_9NtpL0W0kakpFb1aRWcD-5uqf_vPMhO7Kp1gCvMvvcKD58nua1rKoUJ87kamE8kEKs_UeY7hIYnqMiFiDro7YLeV7zS8nf=w143-h110"
     },
     "col_3": {
-      "text": "GOAT",
+      "text": "repsbrothers",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653805345?inviteCode=29TOTHGNH"
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/962609795435?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/747897258427?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "40$(SET)"
+      "text": "33$"
+    },
+    "col_6": {
+      "text": "9$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official222.x.yupoo.com/albums/138101088?uid=1&isSubCate=false&referrercate=4215138"
+          "label": "best",
+          "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=962609795435"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1920646166054223873?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0925"
+  }
 }

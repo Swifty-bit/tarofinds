@@ -1,5 +1,5 @@
 {
-  "name": "Burberry",
+  "name": "GucciSupreme Backpack2 Styles",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7229445588%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7229445588?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/765896709658?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/765896709658?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "41$",
+  "budget_price": "22$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1961233145816244226?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2003290961323577346?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWrJIwXBG0ot6VVHpgeJ3KXAYNKfEXiBFuJ5Npw8sptYy9cDD3ZLGuvyvmGxjqTUH5V6DDn5eFD2jbww2A2Y6T2424iCdhj1SVtdX12_8G9dz2CRVxgQdQGHRIEhPKciFhpYosFCi_gKrW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCrx9wf9EUDiUVDGaNKs-VS7_PsuI_YsEVFdzCfZsi1zyD55Gj8ViN1VFHyTUO8cWsl_nngmCID6NS4d-YYlaym6QXURriA2i1dc4SyUcyoWmazZpKtP3iHePJkvtBZD8A7vUfrg34XE4t=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1539",
   "raw_cells": {
     "col_0": {
-      "text": "45"
+      "text": "41"
     },
     "col_1": {
-      "text": "Burberry"
+      "text": "GucciSupreme Backpack2 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWrJIwXBG0ot6VVHpgeJ3KXAYNKfEXiBFuJ5Npw8sptYy9cDD3ZLGuvyvmGxjqTUH5V6DDn5eFD2jbww2A2Y6T2424iCdhj1SVtdX12_8G9dz2CRVxgQdQGHRIEhPKciFhpYosFCi_gKrW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCrx9wf9EUDiUVDGaNKs-VS7_PsuI_YsEVFdzCfZsi1zyD55Gj8ViN1VFHyTUO8cWsl_nngmCID6NS4d-YYlaym6QXURriA2i1dc4SyUcyoWmazZpKtP3iHePJkvtBZD8A7vUfrg34XE4t=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/2/7229445588?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/765896709658?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "41$"
+      "text": "22$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1961233145816244226?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2003290961323577346?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1539"
+  }
 }

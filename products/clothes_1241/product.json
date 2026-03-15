@@ -1,61 +1,61 @@
 {
-  "name": "Old MoneyPOLO",
+  "name": "KsubiJeans30 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F894478711277%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/894478711277?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/956245628924?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/956245628924?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "5$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "22$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1978285984178593794?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2002203461888856065?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyC1pMDVtU3Pt64o-cbbe5NFjcGwXNkBjQ_ga43a5_4fE-bY5elGTP8Jmxvm0Tf2RTwP-FxoxPiznL2OXZ3bVUll3VBDo-Zq_57ZmlOZNXfYgBU0dDF_ipvHINXKe0Nk2WpAfV13zeaZ4Lf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBAu71tu0Ep6GKIiRsR3eagpg1sLkzmmiukKoFF3AcFZ9wUBEVjaKiQ3gGk_7b0RcatsjPUTG1iOtcq2O5GjJSNII1Fo9pFfH6yBCs6ATOSWxHrs9bGT0aDSz4litANqrKBiccpz8kaD1H=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1241",
   "raw_cells": {
     "col_0": {
-      "text": "826"
+      "text": "818"
     },
     "col_1": {
-      "text": "Old MoneyPOLO"
+      "text": "KsubiJeans30 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyC1pMDVtU3Pt64o-cbbe5NFjcGwXNkBjQ_ga43a5_4fE-bY5elGTP8Jmxvm0Tf2RTwP-FxoxPiznL2OXZ3bVUll3VBDo-Zq_57ZmlOZNXfYgBU0dDF_ipvHINXKe0Nk2WpAfV13zeaZ4Lf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBAu71tu0Ep6GKIiRsR3eagpg1sLkzmmiukKoFF3AcFZ9wUBEVjaKiQ3gGk_7b0RcatsjPUTG1iOtcq2O5GjJSNII1Fo9pFfH6yBCs6ATOSWxHrs9bGT0aDSz4litANqrKBiccpz8kaD1H=w143-h110"
     },
-    "col_3": {
-      "text": "here",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/894478711277?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/956245628924?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "5$"
+    "col_6": {
+      "text": "22$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1978285984178593794?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2002203461888856065?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1241"
+  }
 }

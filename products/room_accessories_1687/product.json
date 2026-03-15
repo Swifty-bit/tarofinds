@@ -1,13 +1,13 @@
 {
-  "name": "Vinted Tag Label",
+  "name": "Stussy Keychain",
   "category": "Room Accessories",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F945701128978%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/945701128978?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/801056398481?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/801056398481?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1986620803342475266?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1948911340302192641?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyN1KQkrf1JCGX816qnR18UOnvr0HTatA8hQhMYbSuhY7Nf6JdFOIU-IGxCr7N6GlhFwhnSfvdxC5r6C9MFymg_fycs5tAXckzhRpD6P7aob55q-HW8UOQlgvi3XVRTqL17D3_6eEdh6H1M=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwHISLJgGJx2odLjZsSIUo7pYf6w9yBKQWxVPa8Y1P6QMHl752Z0zBmJKLHsOQcICjQ8RX_KVBA_9StcX7EA0M5OcV_B-pNcAcg9hmldvMdJwAWcHGczqaeGvrbG_Jp8ON-g-dO0MWy7vwq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1687",
   "raw_cells": {
     "col_0": {
-      "text": "53"
+      "text": "45"
     },
     "col_1": {
-      "text": "Vinted Tag Label"
+      "text": "Stussy Keychain"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyN1KQkrf1JCGX816qnR18UOnvr0HTatA8hQhMYbSuhY7Nf6JdFOIU-IGxCr7N6GlhFwhnSfvdxC5r6C9MFymg_fycs5tAXckzhRpD6P7aob55q-HW8UOQlgvi3XVRTqL17D3_6eEdh6H1M=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwHISLJgGJx2odLjZsSIUo7pYf6w9yBKQWxVPa8Y1P6QMHl752Z0zBmJKLHsOQcICjQ8RX_KVBA_9StcX7EA0M5OcV_B-pNcAcg9hmldvMdJwAWcHGczqaeGvrbG_Jp8ON-g-dO0MWy7vwq=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/1/945701128978?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/801056398481?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1986620803342475266?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1948911340302192641?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1687"
+  }
 }

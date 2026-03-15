@@ -1,20 +1,20 @@
 {
-  "name": "Eric EmanuelNew YorkSkyline Shorts",
+  "name": "Eric EmanuelBolt Shorts9 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792582054745%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/792558986613?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792558986613?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "UnionKingdom",
   "budget_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,28 +24,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/97374541?uid=1"
+      "url": "https://angelking47.x.yupoo.com/albums/117440095?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxgEu_igubdDLt_KS4SuN3skycpGErYeYHfj4VnlZM64IlXup5E5xfGuZWa_cGoUNsb2khAB322NAAozNPflntMFBPTwyb7wLqUGdd31tMKGODZshr020FloLb3NWtpXFElBf46Ers8gLUk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az9k7mxpssEDQTVZcEZxWzs4r11Hu05n2Zh-wReje4NNWd_gmc1YlfGQ_0vDrisUavtoMv3z84s9xil3qh6AmRb3O9Mg3JgDeXNM4jQhQxPgm8mi-P9fqBybMhL5INP_oJws-9ULrN3n-j0=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1369",
   "raw_cells": {
     "col_0": {
-      "text": "970"
+      "text": "966"
     },
     "col_1": {
-      "text": "Eric EmanuelNew YorkSkyline Shorts"
+      "text": "Eric EmanuelBolt Shorts9 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxgEu_igubdDLt_KS4SuN3skycpGErYeYHfj4VnlZM64IlXup5E5xfGuZWa_cGoUNsb2khAB322NAAozNPflntMFBPTwyb7wLqUGdd31tMKGODZshr020FloLb3NWtpXFElBf46Ers8gLUk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az9k7mxpssEDQTVZcEZxWzs4r11Hu05n2Zh-wReje4NNWd_gmc1YlfGQ_0vDrisUavtoMv3z84s9xil3qh6AmRb3O9Mg3JgDeXNM4jQhQxPgm8mi-P9fqBybMhL5INP_oJws-9ULrN3n-j0=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/792558986613?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/97374541?uid=1"
+          "url": "https://angelking47.x.yupoo.com/albums/117440095?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1369"
+  }
 }

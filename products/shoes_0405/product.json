@@ -1,74 +1,65 @@
 {
-  "name": "ChanelCC Runner",
+  "name": "DRKSHDW LowJumbo Laces",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Repsun",
+  "best_batch": "ROG",
   "best_batch_links": [
     {
-      "label": "Repsun",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7413012470%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7413012470?inviteCode=29TOTHGNH"
+      "label": "ROG",
+      "url": "https://litbuy.com/product/weidian/669771892203?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "GD/budget",
+  "budget_batch": "DRK STUDIO",
   "budget_batch_links": [
     {
-      "label": "GD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7444371128%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7444371128?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F797137714264%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/797137714264?inviteCode=29TOTHGNH"
+      "label": "DRK STUDIO",
+      "url": "https://litbuy.com/product/weidian/673096171707?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "75$",
-  "budget_price": "58$ / 47$",
-  "pics_text": "58$ / 47$",
+  "best_price": "113$",
+  "budget_price": "72$",
+  "pics_text": "72$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzdK5IV6nVhsYYx4kxtiljOXREjlIZHKgDy92HMnEendmmJiXbtU6r-LWA43LoXFaBs8m_PlLnX_PX5vai4AULb9h7oDRz9F8nhJMCjPiFGl3WSmSe7ByE3rHRBucOI8IdJ3robki7q7w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBZlptvBtbYYjADpdF1DAvTy6P2oBi7igzr9BjF56cRgv-OFkbN-J_AnMqlA1iIYU81Jbn_3TlGNm8bPNMHh_iufIJClSwaQEnf1t5qxqUnmZ5XeX_uIEV12Lp8KqdlnchZREH6pEE8HZN=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0405",
   "raw_cells": {
     "col_0": {
-      "text": "458"
+      "text": "456"
     },
     "col_1": {
-      "text": "ChanelCC Runner"
+      "text": "DRKSHDW LowJumbo Laces"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzdK5IV6nVhsYYx4kxtiljOXREjlIZHKgDy92HMnEendmmJiXbtU6r-LWA43LoXFaBs8m_PlLnX_PX5vai4AULb9h7oDRz9F8nhJMCjPiFGl3WSmSe7ByE3rHRBucOI8IdJ3robki7q7w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBZlptvBtbYYjADpdF1DAvTy6P2oBi7igzr9BjF56cRgv-OFkbN-J_AnMqlA1iIYU81Jbn_3TlGNm8bPNMHh_iufIJClSwaQEnf1t5qxqUnmZ5XeX_uIEV12Lp8KqdlnchZREH6pEE8HZN=w143-h110"
     },
     "col_3": {
-      "text": "Repsun",
+      "text": "ROG",
       "links": [
         {
-          "label": "Repsun",
-          "url": "https://oopbuy.com/product/2/7413012470?inviteCode=29TOTHGNH"
+          "label": "ROG",
+          "url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "GD/budget",
+      "text": "DRK STUDIO",
       "links": [
         {
-          "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7444371128?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/797137714264?inviteCode=29TOTHGNH"
+          "label": "DRK STUDIO",
+          "url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "75$"
+      "text": "113$"
     },
     "col_6": {
-      "text": "58$ / 47$"
+      "text": "72$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0405"
+  }
 }

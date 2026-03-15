@@ -1,61 +1,64 @@
 {
-  "name": "Ami ParisPOLO Shirt7 Colours",
+  "name": "Denim TearsxCorteizTracksuit",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TOPAMI",
+  "best_batch": "Angelking",
   "best_batch_links": [
     {
-      "label": "TOPAMI",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F700520731295%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/700520731295?inviteCode=29TOTHGNH"
+      "label": "Angelking",
+      "url": "https://litbuy.com/product/weidian/1003395425774?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1003395425774?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "27$",
+  "best_price": "93$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://amiparis.x.yupoo.com/albums/172682903?uid=1&isSubCate=false&referrercate=4672360"
+      "url": "https://louisangelking.x.yupoo.com/albums/220077886?uid=1&isSubCate=false&referrercate=5092630"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AycE8d7vUcAdj8X6jpHByn9ZbhSNKgjTpz81iAZSyYdKJqg2aLzFSact2GWvvNP4BrJVpbRK3Z-Py00HqNtwXRMTeniQTDOIyl7dpYyVad2cxfMrSqBpszfa4YFmcFwhbuOhzr-gMFw6w=w143-h110",
+  "notes": "set 93$ - hoodie 49$ - pants 44$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axn84osFN6Qhg4WsBTxls-UbHhJO8gvVNxlcdRxCBGYe9weflBOoMoM2Wp3Gwis9-CreQi2SG9GBsogFYE0JNcfmSnVTF3TNaQCoIn68dZsinrT1lG9jpaZFFqJjLNdon6r7YhDhv9yRxc3=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0955",
   "raw_cells": {
     "col_0": {
-      "text": "486"
+      "text": "480"
     },
     "col_1": {
-      "text": "Ami ParisPOLO Shirt7 Colours"
+      "text": "Denim TearsxCorteizTracksuit"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AycE8d7vUcAdj8X6jpHByn9ZbhSNKgjTpz81iAZSyYdKJqg2aLzFSact2GWvvNP4BrJVpbRK3Z-Py00HqNtwXRMTeniQTDOIyl7dpYyVad2cxfMrSqBpszfa4YFmcFwhbuOhzr-gMFw6w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axn84osFN6Qhg4WsBTxls-UbHhJO8gvVNxlcdRxCBGYe9weflBOoMoM2Wp3Gwis9-CreQi2SG9GBsogFYE0JNcfmSnVTF3TNaQCoIn68dZsinrT1lG9jpaZFFqJjLNdon6r7YhDhv9yRxc3=w143-h110"
     },
     "col_3": {
-      "text": "TOPAMI",
+      "text": "Angelking",
       "links": [
         {
-          "label": "TOPAMI",
-          "url": "https://oopbuy.com/product/1/700520731295?inviteCode=29TOTHGNH"
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/1003395425774?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "93$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://amiparis.x.yupoo.com/albums/172682903?uid=1&isSubCate=false&referrercate=4672360"
+          "url": "https://louisangelking.x.yupoo.com/albums/220077886?uid=1&isSubCate=false&referrercate=5092630"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 93$ - hoodie 49$ - pants 44$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0955"
+  }
 }

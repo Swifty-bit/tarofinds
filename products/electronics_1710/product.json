@@ -1,0 +1,47 @@
+{
+  "name": "S24 Ultra",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
+    {
+      "label": "ThebigY",
+      "url": "https://litbuy.com/product/weidian/7271707740?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "139$ / 154$",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AybW_J7em_YeQImntvfw_kXtMBzv30dsyUVT4P6NsxEIUxxyAs3tU5aUIMVKEF7SUyUzGTl52JgWhSoutzoyJfb9PDEygmljY18MX7P1tSLnpjZ-DF4KChoyPBZsupoIt2TocI1CYrg0DFQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "electronics_1710",
+  "raw_cells": {
+    "col_0": {
+      "text": "19"
+    },
+    "col_1": {
+      "text": "S24 Ultra"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AybW_J7em_YeQImntvfw_kXtMBzv30dsyUVT4P6NsxEIUxxyAs3tU5aUIMVKEF7SUyUzGTl52JgWhSoutzoyJfb9PDEygmljY18MX7P1tSLnpjZ-DF4KChoyPBZsupoIt2TocI1CYrg0DFQ=w143-h110"
+    },
+    "col_4": {
+      "text": "ThebigY",
+      "links": [
+        {
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "139$ / 154$"
+    }
+  }
+}

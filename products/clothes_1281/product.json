@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga Denim Bomber",
+  "name": "Balenciaga Flared Cargo Pants Black",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "ApexMade",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F860308248005%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/860308248005?inviteCode=29TOTHGNH"
+      "label": "ApexMade",
+      "url": "https://litbuy.com/product/weidian/746405639141?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/746405639141?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "106$",
+  "best_price": "73$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/173402855?uid=1&isSubCate=false&referrercate=4670550"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2015997442053459970?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSb9GxoVySntr6YlIRU7PzDiALCod9xObsk-ocZaRi-vbiW38yX75F_zF3RVjhAi_XQ0_88cPrXTY6fGFgJqrVJrjtJ1cyBtR1cCPyO0bpESm41ScWyIbRUWUS2I18Vwzbgsqn6xKILrgw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzYnum09mS0Ni3xC-gieyT2mKNlcUonPvWhIdoi_yfjyQGJZ4Xb4HOPl7TY7kgnJ1bXaexYRMBWQv6ToviW2xAqF95KW9ZesM6JRNf7ENfwpN5mFhDWCg2v6wQrM05GX72bpDSI7PGf0CV-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1281",
   "raw_cells": {
     "col_0": {
-      "text": "870"
+      "text": "866"
     },
     "col_1": {
-      "text": "Balenciaga Denim Bomber"
+      "text": "Balenciaga Flared Cargo Pants Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSb9GxoVySntr6YlIRU7PzDiALCod9xObsk-ocZaRi-vbiW38yX75F_zF3RVjhAi_XQ0_88cPrXTY6fGFgJqrVJrjtJ1cyBtR1cCPyO0bpESm41ScWyIbRUWUS2I18Vwzbgsqn6xKILrgw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzYnum09mS0Ni3xC-gieyT2mKNlcUonPvWhIdoi_yfjyQGJZ4Xb4HOPl7TY7kgnJ1bXaexYRMBWQv6ToviW2xAqF95KW9ZesM6JRNf7ENfwpN5mFhDWCg2v6wQrM05GX72bpDSI7PGf0CV-=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "ApexMade",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/860308248005?inviteCode=29TOTHGNH"
+          "label": "ApexMade",
+          "url": "https://oopbuy.com/product/1/746405639141?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "106$"
+      "text": "73$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/173402855?uid=1&isSubCate=false&referrercate=4670550"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2015997442053459970?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1281"
+  }
 }

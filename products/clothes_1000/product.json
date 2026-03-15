@@ -1,61 +1,61 @@
 {
-  "name": "Denim JacketBlack",
+  "name": "Planet Repair Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7342492762%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7342492762?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7340939458?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7340939458?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "38$",
+  "best_price": "32$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/174177662?uid=1"
+      "url": "https://hotdog-official.x.yupoo.com/albums/159646124?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxGeC9VUcbPU6fdyYOCgZMsKb0LzOmBON1gRhjtEzPVvKWstyYeh2kOg6_gwlCYB6YLxIZebgBs2Wyt5bs_ugLsJe-wenze7btZIWUii0V2wvHf_501IaMNw6LndH-_uw6DjQwG72TsvV_s=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQ_CMaYYFOWEIpDlVD_eY5JtgmnRf_AumYENGaNBKXWer1QVx-qoWl129bTaPp6Lwviy4xHXTa30h4xt_pdZP-vKUU5qhGPV4_oqtZlqGfRSqF45RjiSZqgF-g7JznI4eT4fjcbxtebg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1000",
   "raw_cells": {
     "col_0": {
-      "text": "537"
+      "text": "533"
     },
     "col_1": {
-      "text": "Denim JacketBlack"
+      "text": "Planet Repair Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxGeC9VUcbPU6fdyYOCgZMsKb0LzOmBON1gRhjtEzPVvKWstyYeh2kOg6_gwlCYB6YLxIZebgBs2Wyt5bs_ugLsJe-wenze7btZIWUii0V2wvHf_501IaMNw6LndH-_uw6DjQwG72TsvV_s=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQ_CMaYYFOWEIpDlVD_eY5JtgmnRf_AumYENGaNBKXWer1QVx-qoWl129bTaPp6Lwviy4xHXTa30h4xt_pdZP-vKUU5qhGPV4_oqtZlqGfRSqF45RjiSZqgF-g7JznI4eT4fjcbxtebg=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://www.oopbuy.com/product/weidian/7342492762?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7340939458?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "32$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/174177662?uid=1"
+          "url": "https://hotdog-official.x.yupoo.com/albums/159646124?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1000"
+  }
 }

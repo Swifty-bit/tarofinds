@@ -1,78 +1,79 @@
 {
-  "name": "Essentials1977 Relaxed Sweatpants8 Colors",
+  "name": "Essentials1977 T-Shirt3 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "Yishan/FFOG",
+  "best_batch": "firerep",
+  "best_batch_links": [
+    {
+      "label": "firerep",
+      "url": "https://litbuy.com/product/weidian/985914673288?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "Yishan",
   "budget_batch_links": [
     {
       "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F934977613770%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/934977613770?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "FFOG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680299095215%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/680299095215?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/737366982970?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/737366982970?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
-  "pics_text": "yishan/FFOG",
+  "best_price": "18$",
+  "budget_price": "10$",
+  "pics_text": "firerep",
   "pics_links": [
     {
-      "label": "yishan",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2010223384930111489?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "FFOG",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1917746075098202113?action=discord&cid=1840597081113280514"
+      "label": "firerep",
+      "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aza0sD9wmhzzIV0lipJW5tc9TSKMvLWeyPTfunHstWpEzmnQPQjrz7dxOaSWzAKCb5O1TVWSuYYGG5zLpe2PZikIP1e55qUJzojsol88EA5caSVNC2fVhnBWKay4X90gmKN8x3kSLcJ5Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzNkeOQH5KaV0OpAxUofnkbRx-s561Ms-vhF3R1D2IoYbN0MDbROTwJ_HneSJMutzilx54hkRkDEroLcl0zuUY0N3G8Et4LkAK9VeosVIZvZA5c4VQODwaworV3KM6IATOxDFqtqCiBHz6Y=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0745",
   "raw_cells": {
     "col_0": {
-      "text": "231"
+      "text": "227"
     },
     "col_1": {
-      "text": "Essentials1977 Relaxed Sweatpants8 Colors"
+      "text": "Essentials1977 T-Shirt3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aza0sD9wmhzzIV0lipJW5tc9TSKMvLWeyPTfunHstWpEzmnQPQjrz7dxOaSWzAKCb5O1TVWSuYYGG5zLpe2PZikIP1e55qUJzojsol88EA5caSVNC2fVhnBWKay4X90gmKN8x3kSLcJ5Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzNkeOQH5KaV0OpAxUofnkbRx-s561Ms-vhF3R1D2IoYbN0MDbROTwJ_HneSJMutzilx54hkRkDEroLcl0zuUY0N3G8Et4LkAK9VeosVIZvZA5c4VQODwaworV3KM6IATOxDFqtqCiBHz6Y=w143-h110"
+    },
+    "col_3": {
+      "text": "firerep",
+      "links": [
+        {
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/985914673288?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
-      "text": "Yishan/FFOG",
+      "text": "Yishan",
       "links": [
         {
           "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/934977613770?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "FFOG",
-          "url": "https://oopbuy.com/product/1/680299095215?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/737366982970?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "18$"
+    },
     "col_6": {
-      "text": "15$"
+      "text": "10$"
     },
     "col_7": {
-      "text": "yishan/FFOG",
+      "text": "firerep",
       "links": [
         {
-          "label": "yishan",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2010223384930111489?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "FFOG",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1917746075098202113?action=discord&cid=1840597081113280514"
+          "label": "firerep",
+          "url": "https://firerep.x.yupoo.com/albums/189463682?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0745"
+  }
 }

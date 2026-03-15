@@ -1,65 +1,47 @@
 {
-  "name": "LouboutinsBlack Spikes",
+  "name": "LouboutinsGrey",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "RG-NEON",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F562674968851%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/562674968851?inviteCode=29TOTHGNH"
+      "label": "RG-NEON",
+      "url": "https://litbuy.com/product/weidian/7235805132?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7235805132?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F779786898860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/779786898860?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "95$",
-  "budget_price": "25$",
-  "pics_text": "25$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "117$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AylOoNQcdstmTq_z2NkQPe8BJqYhzdryYRTRudqbwwQBGY22vVVeWs4ZuoC7tKGLzjurzwNfX2iB0OiSjJZXwW-ju6L24OGQ8M_AMRWgg5tsgREFbthNfEgcQLhNdllJrhpcftlpWOLHdw4=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLuAhFX5paCN7BlkcXrOgpHhBceVmpq6TC5d8-a1-U4mMZrZcu0x_INjONi0ETnQezZ5PXz4EoYTUuKZnRrNCrK2h2N_qzTjbb_PjgoiXuxoTrvz9EM-Eb2SV8EiDujB0AUJSnMT0vk1Ad=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0393",
   "raw_cells": {
     "col_0": {
       "text": "440"
     },
     "col_1": {
-      "text": "LouboutinsBlack Spikes"
+      "text": "LouboutinsGrey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AylOoNQcdstmTq_z2NkQPe8BJqYhzdryYRTRudqbwwQBGY22vVVeWs4ZuoC7tKGLzjurzwNfX2iB0OiSjJZXwW-ju6L24OGQ8M_AMRWgg5tsgREFbthNfEgcQLhNdllJrhpcftlpWOLHdw4=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLuAhFX5paCN7BlkcXrOgpHhBceVmpq6TC5d8-a1-U4mMZrZcu0x_INjONi0ETnQezZ5PXz4EoYTUuKZnRrNCrK2h2N_qzTjbb_PjgoiXuxoTrvz9EM-Eb2SV8EiDujB0AUJSnMT0vk1Ad=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "RG-NEON",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/1/562674968851?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/779786898860?inviteCode=29TOTHGNH"
+          "label": "RG-NEON",
+          "url": "https://oopbuy.com/product/weidian/7235805132?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "95$"
-    },
-    "col_6": {
-      "text": "25$"
+      "text": "117$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0393"
+  }
 }

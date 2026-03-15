@@ -1,87 +1,87 @@
 {
-  "name": "Denim TearsShorts11 Colors",
+  "name": "Syna Skull Beanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
+  "best_batch": "GOAT",
   "best_batch_links": [
     {
-      "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1004136388105%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1004136388105?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653811271?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653811271?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "33TRENTE",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "33TRENTE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F670071114503%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/855744841878?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/855744841878?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "31$",
-  "budget_price": "15$",
-  "pics_text": "angelking/33trente",
+  "best_price": "10$",
+  "budget_price": "3$",
+  "pics_text": "GOAT/budget",
   "pics_links": [
     {
-      "label": "angelking",
-      "url": "https://louisangelking.x.yupoo.com/albums/220077581?uid=1&isSubCate=false&referrercate=5092630"
+      "label": "GOAT",
+      "url": "https://goat-official222.x.yupoo.com/albums/148903862?uid=1&isSubCate=false&referrercate=4215138"
     },
     {
-      "label": "33trente",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969589225499746306?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwjbOGokBXgrdv2dzHfCLh94Fg50San23SDhg_vcB4p1rjPkJiZw-Bbr-WxE5lBIA6XfyqJJVtRFYhyti-WlauVQW2rO_FkGlyxKqyGa0TkZn-NKYEamfoDRU7TzhOk2EMvGtZSEjAxx0oF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azsy4G-QcPQ4JEJJSfvAFW8vWiglZlpwxsdyOEZ1zucoc8XiMuqGBQxpZr2cyHI6_EJID1BR-56ydduMrPlnWrXC_1XZrjGt4fhxVEhi279sHoF-Wqdk5oodobtFeIB-PtrgGgWw6gDZVc4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0945",
   "raw_cells": {
     "col_0": {
-      "text": "474"
+      "text": "468"
     },
     "col_1": {
-      "text": "Denim TearsShorts11 Colors"
+      "text": "Syna Skull Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwjbOGokBXgrdv2dzHfCLh94Fg50San23SDhg_vcB4p1rjPkJiZw-Bbr-WxE5lBIA6XfyqJJVtRFYhyti-WlauVQW2rO_FkGlyxKqyGa0TkZn-NKYEamfoDRU7TzhOk2EMvGtZSEjAxx0oF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azsy4G-QcPQ4JEJJSfvAFW8vWiglZlpwxsdyOEZ1zucoc8XiMuqGBQxpZr2cyHI6_EJID1BR-56ydduMrPlnWrXC_1XZrjGt4fhxVEhi279sHoF-Wqdk5oodobtFeIB-PtrgGgWw6gDZVc4=w143-h110"
     },
     "col_3": {
-      "text": "Angelking",
+      "text": "GOAT",
       "links": [
         {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/1004136388105?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653811271?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "33TRENTE",
+      "text": "budget",
       "links": [
         {
-          "label": "33TRENTE",
-          "url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/855744841878?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "31$"
+      "text": "10$"
     },
     "col_6": {
-      "text": "15$"
+      "text": "3$"
     },
     "col_7": {
-      "text": "angelking/33trente",
+      "text": "GOAT/budget",
       "links": [
         {
-          "label": "angelking",
-          "url": "https://louisangelking.x.yupoo.com/albums/220077581?uid=1&isSubCate=false&referrercate=5092630"
+          "label": "GOAT",
+          "url": "https://goat-official222.x.yupoo.com/albums/148903862?uid=1&isSubCate=false&referrercate=4215138"
         },
         {
-          "label": "33trente",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969589225499746306?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0945"
+  }
 }

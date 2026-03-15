@@ -1,12 +1,12 @@
 {
-  "name": "UNC",
+  "name": "Palomino",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,26 +14,28 @@
   "budget_batch_links": [
     {
       "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "63$",
+  "best_price": "62$",
   "budget_price": "29$",
   "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4yKSWit7hMO1FmgeuxR--p_FpnuF_KKPc4qiYYBr0HoQcX9a9rdul0ujSaGM-ZyyTFsrtk-yK1QfgtylBK7y97iSUALVnyL1srhmR9XBrK9vlugGkBTIEQEDWFkPgW_-3paahguIu7-Fu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSS7cPUkTmZv_pTkS-6hp1G6H8tWH6vDkhaOlxx2Mgrw7sRyNfJIShxczARY9jLgiNJq410pUysMhLkMCJWVlcpstRYp1bMfXgCXgOIcc4bZ7uErqd1wTfngfdjQgGmKrxLHFBm7l8iHsM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0194",
   "raw_cells": {
     "col_0": {
       "text": "207"
     },
     "col_1": {
-      "text": "UNC"
+      "text": "Palomino"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4yKSWit7hMO1FmgeuxR--p_FpnuF_KKPc4qiYYBr0HoQcX9a9rdul0ujSaGM-ZyyTFsrtk-yK1QfgtylBK7y97iSUALVnyL1srhmR9XBrK9vlugGkBTIEQEDWFkPgW_-3paahguIu7-Fu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSS7cPUkTmZv_pTkS-6hp1G6H8tWH6vDkhaOlxx2Mgrw7sRyNfJIShxczARY9jLgiNJq410pUysMhLkMCJWVlcpstRYp1bMfXgCXgOIcc4bZ7uErqd1wTfngfdjQgGmKrxLHFBm7l8iHsM=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "63$"
+      "text": "62$"
     },
     "col_6": {
       "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0194"
+  }
 }

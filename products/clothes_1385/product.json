@@ -1,61 +1,61 @@
 {
-  "name": "RepresentT-Shirt60 Styles",
+  "name": "RepresentStorms In Heaven Angel T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "FFCP",
-  "budget_batch_links": [
+  "best_batch": "UnionKingdom",
+  "best_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F676799150973%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/676799150973?inviteCode=29TOTHGNH"
+      "label": "UnionKingdom",
+      "url": "https://litbuy.com/product/weidian/724498556007?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/724498556007?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "8$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/676799150973"
+      "label": "pics",
+      "url": "https://unionkingdom.x.yupoo.com/albums/128796430?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awb14DOUJgCu_tZ50l9pXj9aUtl9mvRWeBHwNWVmibOE-3sceZa_B1Y4xaxcMyYEIaW_s2DfcgJnXmstmBX2AzhSBgQvzB6V8h0I-CzlYBR5qWLetjVnZqljBJ2vpHAv74D3hIcn-ylFw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axys99ee6LrRmuygd32HKT_qnlBMoGVPmnVmYNlHt3XspZ1RnuiPAIJzYa2JQHoVYk65MuRFR7mUkUxqqHrOfYhL1q1Ex3nd_ff8XZexGwD08I-dr8edqmmnf3PjY-Su_-SqyitaaU9emS9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1385",
   "raw_cells": {
     "col_0": {
-      "text": "988"
+      "text": "984"
     },
     "col_1": {
-      "text": "RepresentT-Shirt60 Styles"
+      "text": "RepresentStorms In Heaven Angel T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awb14DOUJgCu_tZ50l9pXj9aUtl9mvRWeBHwNWVmibOE-3sceZa_B1Y4xaxcMyYEIaW_s2DfcgJnXmstmBX2AzhSBgQvzB6V8h0I-CzlYBR5qWLetjVnZqljBJ2vpHAv74D3hIcn-ylFw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axys99ee6LrRmuygd32HKT_qnlBMoGVPmnVmYNlHt3XspZ1RnuiPAIJzYa2JQHoVYk65MuRFR7mUkUxqqHrOfYhL1q1Ex3nd_ff8XZexGwD08I-dr8edqmmnf3PjY-Su_-SqyitaaU9emS9=w143-h110"
     },
-    "col_4": {
-      "text": "FFCP",
+    "col_3": {
+      "text": "UnionKingdom",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/676799150973?inviteCode=29TOTHGNH"
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/724498556007?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "8$"
+    "col_5": {
+      "text": "18$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/676799150973"
+          "label": "pics",
+          "url": "https://unionkingdom.x.yupoo.com/albums/128796430?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1385"
+  }
 }

@@ -1,13 +1,13 @@
 {
-  "name": "blossom jorts",
+  "name": "\"yasmin v3\" Jorts light brown",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "firerep",
   "best_batch_links": [
     {
       "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F992223433511%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/992223433511?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/992226241543?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/992226241543?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotders.x.yupoo.com/albums/204106622?uid=1"
+      "url": "https://hotders.x.yupoo.com/albums/201776093?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNd4PeB6edzTkz_WU8EZPnoyo5kdgzal4td3r1t4sbxJEkleAZTbdix9pb92bejOIfvaJ_-duFTG893bKj8oT-gERuIXe4we8TPqmr6crDeVcIElZKjReXfyAX0nO4xr3V9nSebuldKdqx=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwkVUnvSTcgabXTJ_Syk_Br1LodyrgOMGBH6DFK3PjbqNyZ9LKpkXCet7YAhTYCJBVamhMyHnEIuMuWkIwCREFum_4jHWU3cSzPIClqI50dWxQe68jIcLwTb1_2wgU-WbhxkPukkeCSbZD-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0891",
   "raw_cells": {
     "col_0": {
-      "text": "408"
+      "text": "404"
     },
     "col_1": {
-      "text": "blossom jorts"
+      "text": "\"yasmin v3\" Jorts light brown"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNd4PeB6edzTkz_WU8EZPnoyo5kdgzal4td3r1t4sbxJEkleAZTbdix9pb92bejOIfvaJ_-duFTG893bKj8oT-gERuIXe4we8TPqmr6crDeVcIElZKjReXfyAX0nO4xr3V9nSebuldKdqx=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwkVUnvSTcgabXTJ_Syk_Br1LodyrgOMGBH6DFK3PjbqNyZ9LKpkXCet7YAhTYCJBVamhMyHnEIuMuWkIwCREFum_4jHWU3cSzPIClqI50dWxQe68jIcLwTb1_2wgU-WbhxkPukkeCSbZD-=w143-h110"
     },
     "col_3": {
       "text": "firerep",
       "links": [
         {
           "label": "firerep",
-          "url": "https://oopbuy.com/product/1/992223433511?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/992226241543?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,15 +53,13 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://hotders.x.yupoo.com/albums/204106622?uid=1"
+          "url": "https://hotders.x.yupoo.com/albums/201776093?uid=1"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azvldhhr6HuW23Blnld5sIBnHPmyGWqhmAh_P613j-mqLAGNfm63AHCJIl8RyNXxRpgaV9nqhGQ19ovFxOWvr_ekcyKplXj1wRf8WCiLrCdOe_qfk4Gna9AR-SUoTgi_Bd1aJsyiwmsIizg=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwkSfvwnjaWdwtJYLs_1hfJ2yOSUbIy7Uaixf_lo9DEdvIjmWZPBzw6gWiCKEU2JdCWT8OYeMA9VWqljIe90c957uBvCO5h9mvRMocuA5WDWx2ke2ohes5__Fw5Vnj7lnJa_NG8pZe11ur3=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0891"
+  }
 }

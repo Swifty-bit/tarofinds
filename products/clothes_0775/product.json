@@ -1,58 +1,61 @@
 {
-  "name": "CP CompanyWindbreaker",
+  "name": "DD ShellMixed Hooded Wool Cardigan",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F895356388115%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/895356388115?inviteCode=29TOTHGNH"
+      "label": "CPRepsCN",
+      "url": "https://litbuy.com/product/weidian/990544466822?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/990544466822?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "83$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1994957018669076482?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/199752772?uid=1&isSubCate=false&referrercate=4543871"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyEnX5oORZRx4Yjj3jNYkBjha0C94kFS8I4zNB4EsGzfPTWUX6rRYiFoBrYTzYMhm3khmoRpIlz0aCf8tIAUlcX5MY7OWd661Q7c9jI47qjKoRQrR8W4QEgVFjIBzWcFeDdiTmyjMg8G0Lp=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AylxrqPwx6kR5R-aac2e7UfUuFYjLl5akwwEotpqnYi61kKi8OKZ2DAsUdOYZnElDYxrPcid8pZAAZEFUoW0RY3NjWkzDxYjQI93aBWGiQoJbanCmTndqdHsyDGfMh-DkTQA2Dt5viL6TuY=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0775",
   "raw_cells": {
     "col_0": {
-      "text": "266"
+      "text": "262"
     },
     "col_1": {
-      "text": "CP CompanyWindbreaker"
+      "text": "DD ShellMixed Hooded Wool Cardigan"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyEnX5oORZRx4Yjj3jNYkBjha0C94kFS8I4zNB4EsGzfPTWUX6rRYiFoBrYTzYMhm3khmoRpIlz0aCf8tIAUlcX5MY7OWd661Q7c9jI47qjKoRQrR8W4QEgVFjIBzWcFeDdiTmyjMg8G0Lp=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AylxrqPwx6kR5R-aac2e7UfUuFYjLl5akwwEotpqnYi61kKi8OKZ2DAsUdOYZnElDYxrPcid8pZAAZEFUoW0RY3NjWkzDxYjQI93aBWGiQoJbanCmTndqdHsyDGfMh-DkTQA2Dt5viL6TuY=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "CPRepsCN",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/895356388115?inviteCode=29TOTHGNH"
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/990544466822?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "83$"
+    },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1994957018669076482?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/199752772?uid=1&isSubCate=false&referrercate=4543871"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0775"
+  }
 }

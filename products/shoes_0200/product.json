@@ -1,46 +1,48 @@
 {
-  "name": "SP J Balvin Medellín Sunset",
+  "name": "Wizard",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "DGC",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+      "label": "DGC",
+      "url": "https://litbuy.com/product/taobao/5861124405?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5861124405?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "PB",
   "budget_batch_links": [
     {
       "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "66$",
+  "best_price": "60$",
   "budget_price": "29$",
   "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axwzh59OoNLc1ZAwhJj05yssXD7pwyTYcQU7t7hPq8dt9XEkUs5_LGT9gzymAnP7vY5tzBGmJvNzlcUPTAIcjuH91NLH9kRii5uf632WthMcK4l-d2hlgvBbSYfKZQa9Fj1W4WokCOzn54D=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azbb2FTJEEKvSv1g03IQmEO-juqHcnAzk502otVByolZDqhzgZlw4GSFfaFgxXhHvUx3GGxN_HFHo4rBB7P4y-WlVJjn47FDiKUQDlhiTr6niVbGXc2xN3Kwbk0m_5qeF4CuKM5mEnlB77W=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0200",
   "raw_cells": {
     "col_0": {
       "text": "213"
     },
     "col_1": {
-      "text": "SP J Balvin Medellín Sunset"
+      "text": "Wizard"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axwzh59OoNLc1ZAwhJj05yssXD7pwyTYcQU7t7hPq8dt9XEkUs5_LGT9gzymAnP7vY5tzBGmJvNzlcUPTAIcjuH91NLH9kRii5uf632WthMcK4l-d2hlgvBbSYfKZQa9Fj1W4WokCOzn54D=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azbb2FTJEEKvSv1g03IQmEO-juqHcnAzk502otVByolZDqhzgZlw4GSFfaFgxXhHvUx3GGxN_HFHo4rBB7P4y-WlVJjn47FDiKUQDlhiTr6niVbGXc2xN3Kwbk0m_5qeF4CuKM5mEnlB77W=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "DGC",
       "links": [
         {
-          "label": "OG",
-          "url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+          "label": "DGC",
+          "url": "https://oopbuy.com/product/2/5861124405?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "66$"
+      "text": "60$"
     },
     "col_6": {
       "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0200"
+  }
 }

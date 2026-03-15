@@ -1,61 +1,61 @@
 {
-  "name": "Nike x StussyHoodie",
+  "name": "Nike Gloves",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595144607%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7595144607?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/869641927614?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/869641927614?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "23$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "5$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://newdp.x.yupoo.com/albums/177083389?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1987346903181893634?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AypEsDR3zwQmiU_IUUVhQ0AQXxbJyuoyDmd1nr2seLd1zIdDFQCdS2qNedvGlHbE6w_R2WfqL5jx4rwADBRN2EXPSgBQGuobBBsjURnJ7x6qrhKJubPY7m5OsIYV9l026TgqyLid_pQ1w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQyQmnSbNTY60k0s2rM976l5Y_4YjxoVSZkDJLD54KTnAH_7xRKyMRZz0QQu8Umx9ecQo6CGMLQ74q6mjylUzd3BrbWqn4ueC_J2Kja15c7bllrzCz_zCXw8ic2jZl_wnZZblaXMRTcpJb=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0577",
   "raw_cells": {
     "col_0": {
-      "text": "44"
+      "text": "38"
     },
     "col_1": {
-      "text": "Nike x StussyHoodie"
+      "text": "Nike Gloves"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AypEsDR3zwQmiU_IUUVhQ0AQXxbJyuoyDmd1nr2seLd1zIdDFQCdS2qNedvGlHbE6w_R2WfqL5jx4rwADBRN2EXPSgBQGuobBBsjURnJ7x6qrhKJubPY7m5OsIYV9l026TgqyLid_pQ1w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQyQmnSbNTY60k0s2rM976l5Y_4YjxoVSZkDJLD54KTnAH_7xRKyMRZz0QQu8Umx9ecQo6CGMLQ74q6mjylUzd3BrbWqn4ueC_J2Kja15c7bllrzCz_zCXw8ic2jZl_wnZZblaXMRTcpJb=w143-h110"
     },
-    "col_3": {
-      "text": "NEWDP",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://oopbuy.com/product/weidian/7595144607?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/869641927614?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "23$"
+    "col_6": {
+      "text": "5$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://newdp.x.yupoo.com/albums/177083389?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1987346903181893634?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0577"
+  }
 }

@@ -1,38 +1,61 @@
 {
-  "name": "CarharttT-Shirt3 Colors",
+  "name": "Gucci Cap",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "/",
+  "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "13$",
-  "budget_price": "",
-  "pics_text": "/",
-  "pics_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/709907233851?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/709907233851?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/exploreMore/1854071286152101890"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az6a3-e6q-29Wd3EdT6vt_tHP2B7moGwysMIiltN79sEgri-MTWzOEXxaQesksPjBqNDXl76p86rmYWiN6jU8RkrJck3S-vSoGom8nWqmPI3WQ70dGHRW75EJGm94xu-5-3ZlfD23NTXv-N=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwarRrkUZRpqoBPP6mSh4wI9vQOlHDFjZWdaFBCG9VQt1VonKhwswR2yHm56rh0GNsgtgEyXi7Fx7SGPJBiXuNTI073uc0cJTxOVnncvpnXQBaQsyuF6evW09YAlAXlDKbY6G0AkE_y7A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1423",
   "raw_cells": {
     "col_0": {
-      "text": "1034"
+      "text": "1028"
     },
     "col_1": {
-      "text": "CarharttT-Shirt3 Colors"
+      "text": "Gucci Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az6a3-e6q-29Wd3EdT6vt_tHP2B7moGwysMIiltN79sEgri-MTWzOEXxaQesksPjBqNDXl76p86rmYWiN6jU8RkrJck3S-vSoGom8nWqmPI3WQ70dGHRW75EJGm94xu-5-3ZlfD23NTXv-N=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwarRrkUZRpqoBPP6mSh4wI9vQOlHDFjZWdaFBCG9VQt1VonKhwswR2yHm56rh0GNsgtgEyXi7Fx7SGPJBiXuNTI073uc0cJTxOVnncvpnXQBaQsyuF6evW09YAlAXlDKbY6G0AkE_y7A=w143-h110"
     },
-    "col_3": {
-      "text": "/"
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/709907233851?inviteCode=29TOTHGNH"
+        }
+      ]
     },
-    "col_5": {
-      "text": "13$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "/"
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/exploreMore/1854071286152101890"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1423"
+  }
 }

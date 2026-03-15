@@ -1,64 +1,61 @@
 {
-  "name": "Escape To The Future SetHoodie and Pants",
+  "name": "Space TrailsHoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342559286%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7342559286?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7341530407?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7341530407?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "56$(SET)",
+  "best_price": "32$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/151431724?uid=1"
+      "url": "https://hotdog-official.x.yupoo.com/albums/164532096?uid=1&isSubCate=false&referrercate=4098105"
     }
   ],
-  "notes": "set 56$ - hoodie 32$ - pants 24$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLdUeGwrjdMkgqHLc1zpr19zi7NbhLzvFv7flio2xMU3SzrmnZ1VBPS_bmLpyqb40cJIDZ4l2GH-hUtwkTEhhExapgQXMTm5AYS2NQpGpls6nIh7ZLpC5z41sHjEZGzr9chhCEDsRVowtR=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyL3g16WUm9AOwFUVSraO3SwiRv6oMtH4RVN0Cc1hBlVy-pKkAmtfFde4VFyJ0r5WJ3waenRv2Mvmzgn3_3zz5gM_RMTf4VL99xFel4d_PSkAvG8XpE87powS1tYGEpMinxJr2pPCzgIIDI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0992",
   "raw_cells": {
     "col_0": {
-      "text": "529"
+      "text": "525"
     },
     "col_1": {
-      "text": "Escape To The Future SetHoodie and Pants"
+      "text": "Space TrailsHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLdUeGwrjdMkgqHLc1zpr19zi7NbhLzvFv7flio2xMU3SzrmnZ1VBPS_bmLpyqb40cJIDZ4l2GH-hUtwkTEhhExapgQXMTm5AYS2NQpGpls6nIh7ZLpC5z41sHjEZGzr9chhCEDsRVowtR=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyL3g16WUm9AOwFUVSraO3SwiRv6oMtH4RVN0Cc1hBlVy-pKkAmtfFde4VFyJ0r5WJ3waenRv2Mvmzgn3_3zz5gM_RMTf4VL99xFel4d_PSkAvG8XpE87powS1tYGEpMinxJr2pPCzgIIDI=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7342559286?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7341530407?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "56$(SET)"
+      "text": "32$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/151431724?uid=1"
+          "url": "https://hotdog-official.x.yupoo.com/albums/164532096?uid=1&isSubCate=false&referrercate=4098105"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 56$ - hoodie 32$ - pants 24$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0992"
+  }
 }

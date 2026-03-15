@@ -1,78 +1,61 @@
 {
-  "name": "Stussy PufferDown Jacket3 Colors",
+  "name": "StussyTOUGH GEARHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget1/budget2",
-  "budget_batch_links": [
+  "best_batch": "Chaosmade",
+  "best_batch_links": [
     {
-      "label": "budget1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F869393998856%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/869393998856?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F865592313660%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/865592313660?inviteCode=29TOTHGNH"
+      "label": "Chaosmade",
+      "url": "https://litbuy.com/product/weidian/7282446197?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7282446197?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "28$ / 19$",
-  "pics_text": "budget1/budget2",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "23$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "budget1",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1972487471125585922?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967414781041795074?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://chaosmade.x.yupoo.com/albums/176655718?uid=1&isSubCate=false&referrercate=3536981"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AywQ4KXMMo7TkxLg41ov4Vn4xDs2ggBjZ08dvmPluRV80WevAr26daWxmA0Suq-t49gMRtgSP9K-3dmnC0KKvaOzLrs_Ab7zNOUoW_ucNJHEGfcIj3lSap02H_vkJh-fPgRxXe8H-6odQ6m=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwaZsFldlg_sojFJAMaUVc_V34fT6jmiPaUq5_hsQHDUJmwrhsFQzmHvszglM6r9j41XnmVKFrV2F4UDab3Cvec1vOJ7VawFQxoxKyL6Txe2jmDPlcsjMJ_Y0PhVbjNjYbGMeIFK-luGMby=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0596",
   "raw_cells": {
     "col_0": {
-      "text": "65"
+      "text": "61"
     },
     "col_1": {
-      "text": "Stussy PufferDown Jacket3 Colors"
+      "text": "StussyTOUGH GEARHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AywQ4KXMMo7TkxLg41ov4Vn4xDs2ggBjZ08dvmPluRV80WevAr26daWxmA0Suq-t49gMRtgSP9K-3dmnC0KKvaOzLrs_Ab7zNOUoW_ucNJHEGfcIj3lSap02H_vkJh-fPgRxXe8H-6odQ6m=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwaZsFldlg_sojFJAMaUVc_V34fT6jmiPaUq5_hsQHDUJmwrhsFQzmHvszglM6r9j41XnmVKFrV2F4UDab3Cvec1vOJ7VawFQxoxKyL6Txe2jmDPlcsjMJ_Y0PhVbjNjYbGMeIFK-luGMby=w143-h110"
     },
-    "col_4": {
-      "text": "budget1/budget2",
+    "col_3": {
+      "text": "Chaosmade",
       "links": [
         {
-          "label": "budget1",
-          "url": "https://oopbuy.com/product/0/869393998856?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget2",
-          "url": "https://oopbuy.com/product/0/865592313660?inviteCode=29TOTHGNH"
+          "label": "Chaosmade",
+          "url": "https://www.oopbuy.com/product/weidian/7282446197?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "28$ / 19$"
+    "col_5": {
+      "text": "23$"
     },
     "col_7": {
-      "text": "budget1/budget2",
+      "text": "pics",
       "links": [
         {
-          "label": "budget1",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1972487471125585922?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget2",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967414781041795074?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://chaosmade.x.yupoo.com/albums/176655718?uid=1&isSubCate=false&referrercate=3536981"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0596"
+  }
 }

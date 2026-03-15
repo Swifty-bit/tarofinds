@@ -1,61 +1,79 @@
 {
-  "name": "Out of the ShadowsHoodie",
+  "name": "Out of the ShadowsT-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342530434%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7342530434?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7341585605?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7341585605?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "30$",
-  "budget_price": "",
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/740512418980?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "15$",
+  "budget_price": "8$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/138685201?uid=1"
+      "url": "https://hotdog-official.x.yupoo.com/albums/152763266?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPxf4_pr1-N1fNNv-GkosGny1G-U6rgR7Kapl8hHho2z4qgRzVdvBzF6bx4FirNVVKNF1qqeyjJYA9czblLfb7uqAHkU_EtpJrcNKCOSIsUKb6qEUaA3LVvvmx3JZRRgg7NlIJQ7dtFB4e=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6dEV3-dXbXaJ4KUk8KPeE_M6357kZNoGfjx0VbkkG4KsMkuYl3AGYlDaGsDvLaYaJ4ysDjxMN-ZW93KjNLqeKQ7DMAusLJWnEvqsQ5ZV4o1XyDdjnN0aibUW5nFfb58wIHKPdJ-oUSz-3=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0987",
   "raw_cells": {
     "col_0": {
-      "text": "524"
+      "text": "520"
     },
     "col_1": {
-      "text": "Out of the ShadowsHoodie"
+      "text": "Out of the ShadowsT-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPxf4_pr1-N1fNNv-GkosGny1G-U6rgR7Kapl8hHho2z4qgRzVdvBzF6bx4FirNVVKNF1qqeyjJYA9czblLfb7uqAHkU_EtpJrcNKCOSIsUKb6qEUaA3LVvvmx3JZRRgg7NlIJQ7dtFB4e=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6dEV3-dXbXaJ4KUk8KPeE_M6357kZNoGfjx0VbkkG4KsMkuYl3AGYlDaGsDvLaYaJ4ysDjxMN-ZW93KjNLqeKQ7DMAusLJWnEvqsQ5ZV4o1XyDdjnN0aibUW5nFfb58wIHKPdJ-oUSz-3=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7342530434?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7341585605?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "15$"
+    },
+    "col_6": {
+      "text": "8$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/138685201?uid=1"
+          "url": "https://hotdog-official.x.yupoo.com/albums/152763266?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0987"
+  }
 }

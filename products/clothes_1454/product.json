@@ -1,5 +1,5 @@
 {
-  "name": "TNF Windbreaker",
+  "name": "TNF T-ShirtMany Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,58 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F908681696892%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/908681696892?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/904286366070?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/904286366070?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "20$",
+  "budget_price": "5$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1937677426824417282?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924269105349705729?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axs8eJy12uMlZTzDYFj5bkFbeFw5TEWNwaNwy7A6-kqUG9INX9hg4_ycIRWtBHPlNyH0wEEy54FkWBVQSprM3adkm82OWf_B0e9xutpWp7-rAeqBj9T_0CgxiFidsXf_tUvebVv0KEzVw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLAw0e040xWVBvzcteLUyLckwJU7xrtJp9aVXHlxCYgPodmKYCL8v0qdj424NT2rmxbzfujkiUNOFt9Im_k3xTK1LYD0sx3eSqsTH9KXou7ywEvmsIYQWaG2r0_P5UIHVnLd6M583hRg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1454",
   "raw_cells": {
     "col_0": {
-      "text": "1073"
+      "text": "1069"
     },
     "col_1": {
-      "text": "TNF Windbreaker"
+      "text": "TNF T-ShirtMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axs8eJy12uMlZTzDYFj5bkFbeFw5TEWNwaNwy7A6-kqUG9INX9hg4_ycIRWtBHPlNyH0wEEy54FkWBVQSprM3adkm82OWf_B0e9xutpWp7-rAeqBj9T_0CgxiFidsXf_tUvebVv0KEzVw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLAw0e040xWVBvzcteLUyLckwJU7xrtJp9aVXHlxCYgPodmKYCL8v0qdj424NT2rmxbzfujkiUNOFt9Im_k3xTK1LYD0sx3eSqsTH9KXou7ywEvmsIYQWaG2r0_P5UIHVnLd6M583hRg=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/908681696892?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/904286366070?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "20$"
+      "text": "5$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1937677426824417282?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924269105349705729?action=discord&cid=1840597081113280514"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzCSfK1RAFDHWNfl2E-GxWNMbVauX9v66ffUEkSoUcrPxzq2WqwO7t---bPsjDRhYU3971N8BrwkfwPiTeew-BFIeUs9BHzND3Kg00D01wKplP82zYRbz5drEWygRBr6UqhMQs3HXqkOtFH=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1454"
+  }
 }

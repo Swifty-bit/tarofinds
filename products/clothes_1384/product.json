@@ -1,61 +1,61 @@
 {
-  "name": "RepresentJaws T-Shirt",
+  "name": "RepresentFortitudine T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "UnionKingdom",
   "best_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F750881845094%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/750881845094?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/713339086930?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/713339086930?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "17$",
+  "best_price": "18$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://unionkingdom.x.yupoo.com/albums/145221308?uid=1"
+      "url": "https://unionkingdom.x.yupoo.com/albums/148588662?uid=1&isSubCate=true&referrercate=370874"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzGfhcytFRSzczKwl1Ocj2MUSbnvC_xCgVUluKt9rNPeW1PdsIo5c2sdQQ_-SVFlyLGJSF2dKl_brPSc1k009mHQpLZ0NaYPBCbKX2OIVK4TDY4-eJrRh3xuVbBApeKmd6e6c1WdptVZJ6O=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyJk7BIBTaCUbi0xIPN0e8GXIoICGlnScZGcw2Zy31OnLahtKznuy82ibpTnZlCaQ8hIoBoaLn01fGfhMgg-r1cEadZyZIulMKwm3Ow7gFa8nO5MHusQ-7ixCxbzLhK4hiUvL1ga09uFtq4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1384",
   "raw_cells": {
     "col_0": {
-      "text": "987"
+      "text": "983"
     },
     "col_1": {
-      "text": "RepresentJaws T-Shirt"
+      "text": "RepresentFortitudine T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzGfhcytFRSzczKwl1Ocj2MUSbnvC_xCgVUluKt9rNPeW1PdsIo5c2sdQQ_-SVFlyLGJSF2dKl_brPSc1k009mHQpLZ0NaYPBCbKX2OIVK4TDY4-eJrRh3xuVbBApeKmd6e6c1WdptVZJ6O=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyJk7BIBTaCUbi0xIPN0e8GXIoICGlnScZGcw2Zy31OnLahtKznuy82ibpTnZlCaQ8hIoBoaLn01fGfhMgg-r1cEadZyZIulMKwm3Ow7gFa8nO5MHusQ-7ixCxbzLhK4hiUvL1ga09uFtq4=w143-h110"
     },
     "col_3": {
       "text": "UnionKingdom",
       "links": [
         {
           "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/750881845094?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/713339086930?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "17$"
+      "text": "18$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://unionkingdom.x.yupoo.com/albums/145221308?uid=1"
+          "url": "https://unionkingdom.x.yupoo.com/albums/148588662?uid=1&isSubCate=true&referrercate=370874"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1384"
+  }
 }

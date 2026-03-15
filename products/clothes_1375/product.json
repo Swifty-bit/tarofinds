@@ -1,38 +1,46 @@
 {
-  "name": "Eric Emanuel x Interscope RecordsShorts",
+  "name": "Eric EmanuelNew YorkXavier Collado Empire",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792718020125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/792718020125?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "UnionKingdom",
+  "budget_batch_links": [
+    {
+      "label": "UnionKingdom",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "23$",
-  "budget_price": "",
+  "budget_price": "15$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/138875714?uid=1"
+      "url": "https://angelking47.x.yupoo.com/albums/136325958?uid=1&isSubCate=false&referrercate=3848500"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axck07oDxE8TSxcIARfyI-WfKKhgBFjy8qEBqTpagMkycHVoGg3n7VpXzDYeh_qtcz71AzoAbKTc699LKsFNjTZYUuu9E1cIXNNiC7-g5EFL0H6jeP-5CtPJ_paNRiRlusv-s6xZam8XQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxmfedBgxGbce-HCiZyOFwu7F0Amur5amxJ6-mYyyoiRDsPpt_OZ9PQetW8S4ZnzQpODdj6TYqPI3KCWbXoQepWM1D3BSofTXs3MaYRzgtPNr-7NTnffS5CWJzSBPgC8l31o6sI9lb2CQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1375",
   "raw_cells": {
     "col_0": {
-      "text": "976"
+      "text": "972"
     },
     "col_1": {
-      "text": "Eric Emanuel x Interscope RecordsShorts"
+      "text": "Eric EmanuelNew YorkXavier Collado Empire"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axck07oDxE8TSxcIARfyI-WfKKhgBFjy8qEBqTpagMkycHVoGg3n7VpXzDYeh_qtcz71AzoAbKTc699LKsFNjTZYUuu9E1cIXNNiC7-g5EFL0H6jeP-5CtPJ_paNRiRlusv-s6xZam8XQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxmfedBgxGbce-HCiZyOFwu7F0Amur5amxJ6-mYyyoiRDsPpt_OZ9PQetW8S4ZnzQpODdj6TYqPI3KCWbXoQepWM1D3BSofTXs3MaYRzgtPNr-7NTnffS5CWJzSBPgC8l31o6sI9lb2CQ=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
@@ -43,19 +51,29 @@
         }
       ]
     },
+    "col_4": {
+      "text": "UnionKingdom",
+      "links": [
+        {
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "23$"
+    },
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/138875714?uid=1"
+          "url": "https://angelking47.x.yupoo.com/albums/136325958?uid=1&isSubCate=false&referrercate=3848500"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1375"
+  }
 }

@@ -1,61 +1,69 @@
 {
-  "name": "MarqueDown Jacket",
+  "name": "GUI Gilet Vest",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F981784229619%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/981784229619?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7565757076?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565757076?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "111$",
+  "best_price": "43$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1932603909837787138?action=discord&cid=1840597081113280514"
+    },
+    {
       "label": "pics",
-      "url": "https://repscn.x.yupoo.com/albums/164991862?uid=1&isSubCate=false&referrercate=4729926"
+      "url": "https://repsking.x.yupoo.com/albums/161600282?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcL3bWdR5KjlF1JddS-3aAK1y01k8V65ttp5jvWZU1w33QfKT2itfrkA-julaBHhRWWzCD2qfvik97DfUnr2wimmBbJkaKjCQ7_3L-UndDc39-7RHFdntniJYKVfJF7k11dMSZhdEdQKmD=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMXiWUf2FDTgspVKORRzf7mBKYMqvq70JGOH8KAUapSxwuCVCAVeyvbHuElhnBnpTIvmmBb9SesaXH7pzvFfyRI7CBN_yxcIh9QbtQun5QIXIvhQNuLnOakY1MyBK1nca5OgnyWFw9vMMF=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0805",
   "raw_cells": {
     "col_0": {
-      "text": "300"
+      "text": "296"
     },
     "col_1": {
-      "text": "MarqueDown Jacket"
+      "text": "GUI Gilet Vest"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcL3bWdR5KjlF1JddS-3aAK1y01k8V65ttp5jvWZU1w33QfKT2itfrkA-julaBHhRWWzCD2qfvik97DfUnr2wimmBbJkaKjCQ7_3L-UndDc39-7RHFdntniJYKVfJF7k11dMSZhdEdQKmD=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMXiWUf2FDTgspVKORRzf7mBKYMqvq70JGOH8KAUapSxwuCVCAVeyvbHuElhnBnpTIvmmBb9SesaXH7pzvFfyRI7CBN_yxcIh9QbtQun5QIXIvhQNuLnOakY1MyBK1nca5OgnyWFw9vMMF=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/1/981784229619?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7565757076?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "111$"
+      "text": "43$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics/pics",
       "links": [
         {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1932603909837787138?action=discord&cid=1840597081113280514"
+        },
+        {
           "label": "pics",
-          "url": "https://repscn.x.yupoo.com/albums/164991862?uid=1&isSubCate=false&referrercate=4729926"
+          "url": "https://repsking.x.yupoo.com/albums/161600282?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0805"
+  }
 }

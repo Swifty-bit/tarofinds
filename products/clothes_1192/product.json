@@ -1,61 +1,64 @@
 {
-  "name": "SupremeCap and BeanieMany Styles",
+  "name": "Supreme x UMBROItaly TracksuitBlack/Navy/Grey",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F797649149033%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/797649149033?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7589599683?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7589599683?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "8$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "74$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1935140763870502914?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://noghost.x.yupoo.com/albums/145930777?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyO5x4WIXaA21OTY2u1qSLsZ0xN4yinmAQMSoYyZuaus2ecXlgI5rMp6XWNzOXKKCejcFOhNIQas9OFW7JMbu6EoRY7e5_eQ9uOoNMcCs9CaF1MbelrKtw5-8DmW5Fw0g8ETDTaJmaVHIZN=w143-h110",
+  "notes": "set 74$ - jacket 40$ - pants 37$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axbo8XN_joGc1n5WTXVe-sUoEq-v6UpgqPVl0M_xPup6E9rQVUC6rgqdQsGllneP6leAHYMbqDDm_evjRdXSlpOT2I6mmQMEdKPJHGJMmwtvLfCnl3ljx94DHxHzGGdENd8cinZ5qlY_tBY=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1192",
   "raw_cells": {
     "col_0": {
-      "text": "761"
+      "text": "757"
     },
     "col_1": {
-      "text": "SupremeCap and BeanieMany Styles"
+      "text": "Supreme x UMBROItaly TracksuitBlack/Navy/Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyO5x4WIXaA21OTY2u1qSLsZ0xN4yinmAQMSoYyZuaus2ecXlgI5rMp6XWNzOXKKCejcFOhNIQas9OFW7JMbu6EoRY7e5_eQ9uOoNMcCs9CaF1MbelrKtw5-8DmW5Fw0g8ETDTaJmaVHIZN=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axbo8XN_joGc1n5WTXVe-sUoEq-v6UpgqPVl0M_xPup6E9rQVUC6rgqdQsGllneP6leAHYMbqDDm_evjRdXSlpOT2I6mmQMEdKPJHGJMmwtvLfCnl3ljx94DHxHzGGdENd8cinZ5qlY_tBY=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/797649149033?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7589599683?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "8$"
+    "col_5": {
+      "text": "74$(SET)"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1935140763870502914?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://noghost.x.yupoo.com/albums/145930777?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 74$ - jacket 40$ - pants 37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1192"
+  }
 }

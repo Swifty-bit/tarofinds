@@ -1,46 +1,48 @@
 {
-  "name": "Craft Photon Dust",
+  "name": "Infrared",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "RFA X/K",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+      "label": "RFA X/K",
+      "url": "https://litbuy.com/product/taobao/4629696344?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4629696344?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "66$",
+  "best_price": "83$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4IFYnrDnrUldBFZXGIcE1z9oXI3QlSrkMD_2FEDu0KMJ0W0fUujmtIBqW6MgdBdlddAc_JhqVTciEknRwv6wLONhfbTwxOTOD5xtby95s2AlvYeTAg0J2npRs6AIfaFCMi-zms9PHQK6X=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwSLuTmkLzYXu7CY04jR4NSxAmPgta3XpC3j5HiGx-deGQ6KucNBz1KQIkmpbtKDj16ZI7KiVlF1jhbS7_y8M1-q1C2fnIF2Fnba6D_AUSCOPd_ctoG4Z9YMR9en_e61ZfXHO8juOyPHzxf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0260",
   "raw_cells": {
     "col_0": {
       "text": "275"
     },
     "col_1": {
-      "text": "Craft Photon Dust"
+      "text": "Infrared"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4IFYnrDnrUldBFZXGIcE1z9oXI3QlSrkMD_2FEDu0KMJ0W0fUujmtIBqW6MgdBdlddAc_JhqVTciEknRwv6wLONhfbTwxOTOD5xtby95s2AlvYeTAg0J2npRs6AIfaFCMi-zms9PHQK6X=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwSLuTmkLzYXu7CY04jR4NSxAmPgta3XpC3j5HiGx-deGQ6KucNBz1KQIkmpbtKDj16ZI7KiVlF1jhbS7_y8M1-q1C2fnIF2Fnba6D_AUSCOPd_ctoG4Z9YMR9en_e61ZfXHO8juOyPHzxf=w143-h110"
     },
     "col_3": {
-      "text": "GX",
+      "text": "RFA X/K",
       "links": [
         {
-          "label": "GX",
-          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+          "label": "RFA X/K",
+          "url": "https://oopbuy.com/product/2/4629696344?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "66$"
+      "text": "83$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0260"
+  }
 }

@@ -1,61 +1,64 @@
 {
-  "name": "CorteizC Star MohairKnit Sweater",
+  "name": "CorteizTracksuitsMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653866571%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653866571?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/806508283942?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/806508283942?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "28$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "22$(SET)",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official.x.yupoo.com/albums/151115021?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1936590247138267138?action=discord&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyMWpLxL8x5VjVHPqXLWnfiiihuV6A6J-qbc3PpMazz62ZfXrzda6NDItqBfXhuH4DGaWjCgkrWQ3JqNjb9AxTwoi0T9vE6tx7xVoDopMSF3RJUUI8sH6pzMCR9sp1R4zwpTKexb-mFeQ=w143-h110",
+  "notes": "set 22$ - top 12$ - bottom 10$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzzeWKGU7FSMGvnysbAoLhXwTGeLmmv50BX-yr24a1DqdPqSC3iNWWqgJdNqOKEXi4J1UiQrcg0mj2-yxaTJI9i-3I1CTPSEqo7YfBrkzmrhvTGrXNZ11YC4d4k51bDrJWXsGsBeKtuTUd2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0683",
   "raw_cells": {
     "col_0": {
-      "text": "164"
+      "text": "160"
     },
     "col_1": {
-      "text": "CorteizC Star MohairKnit Sweater"
+      "text": "CorteizTracksuitsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyMWpLxL8x5VjVHPqXLWnfiiihuV6A6J-qbc3PpMazz62ZfXrzda6NDItqBfXhuH4DGaWjCgkrWQ3JqNjb9AxTwoi0T9vE6tx7xVoDopMSF3RJUUI8sH6pzMCR9sp1R4zwpTKexb-mFeQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzzeWKGU7FSMGvnysbAoLhXwTGeLmmv50BX-yr24a1DqdPqSC3iNWWqgJdNqOKEXi4J1UiQrcg0mj2-yxaTJI9i-3I1CTPSEqo7YfBrkzmrhvTGrXNZ11YC4d4k51bDrJWXsGsBeKtuTUd2=w143-h110"
     },
-    "col_3": {
-      "text": "GOAT",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653866571?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/806508283942?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "28$"
+    "col_6": {
+      "text": "22$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official.x.yupoo.com/albums/151115021?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1936590247138267138?action=discord&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 22$ - top 12$ - bottom 10$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0683"
+  }
 }

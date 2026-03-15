@@ -1,0 +1,47 @@
+{
+  "name": "15 Pro Max",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
+    {
+      "label": "ThebigY",
+      "url": "https://litbuy.com/product/weidian/7271707740?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "185$ / 247$",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxyiyQGDXKsF2sIeaPxoz2qf_T2WBzCbxji7VAP205HaHiY_lnlKvgZmmcmKVzE0eI6cK3-eLtsY-fGjtkJ_W3R_A755yhOOlEnlhFRqFCJWmT3LhZeU7L8o7ajnbr5u1-VPl7TgM8R6A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "electronics_1709",
+  "raw_cells": {
+    "col_0": {
+      "text": "18"
+    },
+    "col_1": {
+      "text": "15 Pro Max"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxyiyQGDXKsF2sIeaPxoz2qf_T2WBzCbxji7VAP205HaHiY_lnlKvgZmmcmKVzE0eI6cK3-eLtsY-fGjtkJ_W3R_A755yhOOlEnlhFRqFCJWmT3LhZeU7L8o7ajnbr5u1-VPl7TgM8R6A=w143-h110"
+    },
+    "col_4": {
+      "text": "ThebigY",
+      "links": [
+        {
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7271707740?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "185$ / 247$"
+    }
+  }
+}

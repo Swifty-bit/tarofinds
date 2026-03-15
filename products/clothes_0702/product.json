@@ -1,78 +1,61 @@
 {
-  "name": "Gallery Dept T-Shirt",
+  "name": "Corteiz Cap6 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "tophotfashion/Singor",
+  "best_batch": "GOAT",
   "best_batch_links": [
     {
-      "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F821638759937%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/821638759937?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F696263273208%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/696263273208?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653852861?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653852861?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "26$ / 16$",
+  "best_price": "10$",
   "budget_price": "",
-  "pics_text": "tophot/singor",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "tophot",
-      "url": "https://tophotfashion.x.yupoo.com/albums/170420341?uid=1&isSubCate=false&referrercate=4643937"
-    },
-    {
-      "label": "singor",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1934053720683782146?action=discord&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/138681429?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzBTWtdUpY0zIhdU8xcD3cErSAVv6IaryJK-SnskqvRpf6HoWjBkzzilrJQ7NA6m23rCG8D5ZHgHDx0mgBxHKl9_0AU59bDSfsfMYiFUADToBdOpFOer6uqhuEa24Gc_m5kBaEzydoVWW4y=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awy6YU6xB9X43klKHCXO1qi47wHEBa-j7lL47btJCKFpiGLrVIqjCboXCTNDHRGbHz8BWrO91DWOHtdbTVQbnralzGQc942Q5YOy7gJ1DjN5pz8lWudGHCe3Z4oGwHWJdKb4UWalS8rIz8g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0702",
   "raw_cells": {
     "col_0": {
-      "text": "185"
+      "text": "179"
     },
     "col_1": {
-      "text": "Gallery Dept T-Shirt"
+      "text": "Corteiz Cap6 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzBTWtdUpY0zIhdU8xcD3cErSAVv6IaryJK-SnskqvRpf6HoWjBkzzilrJQ7NA6m23rCG8D5ZHgHDx0mgBxHKl9_0AU59bDSfsfMYiFUADToBdOpFOer6uqhuEa24Gc_m5kBaEzydoVWW4y=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awy6YU6xB9X43klKHCXO1qi47wHEBa-j7lL47btJCKFpiGLrVIqjCboXCTNDHRGbHz8BWrO91DWOHtdbTVQbnralzGQc942Q5YOy7gJ1DjN5pz8lWudGHCe3Z4oGwHWJdKb4UWalS8rIz8g=w143-h110"
     },
     "col_3": {
-      "text": "tophotfashion/Singor",
+      "text": "GOAT",
       "links": [
         {
-          "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/1/821638759937?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/696263273208?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653852861?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$ / 16$"
+      "text": "10$"
     },
     "col_7": {
-      "text": "tophot/singor",
+      "text": "pics",
       "links": [
         {
-          "label": "tophot",
-          "url": "https://tophotfashion.x.yupoo.com/albums/170420341?uid=1&isSubCate=false&referrercate=4643937"
-        },
-        {
-          "label": "singor",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1934053720683782146?action=discord&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/138681429?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0702"
+  }
 }

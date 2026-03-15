@@ -1,87 +1,61 @@
 {
-  "name": "Corteiz Alcatraz Basic HoodieBlack/Black",
+  "name": "Corteiz AlcatrazFull printT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653811325%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653811325?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7653846961?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653846961?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "FFCP",
-  "budget_batch_links": [
-    {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741488778477%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "31$",
-  "budget_price": "15$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/117565761?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/133528510?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtwhrKLS_lgWpg7M8gOalexAZfCxtcVED4p6Imr8Cik3Zo7wyeaNRbN41rQQeULq9i_vO8naJ0oAI932PJhlhyj-jSTsiNsnBCLIp6ezWxWebPKhEhR3z32IM01gC51nCvviRvEbY9qw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDlXyfO7DdBN__5KHIVVyFxSQA2s8yiCTnNE2Ekmv4MhyaSi6-tH2LjpyKJpcXkqakeaSdPcm0UcFjE6LAt-DS477vRnxUu48WsOVod8l9atu_d1tTIwuOPfbkEXkg4Vji9gQEpKODVQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0671",
   "raw_cells": {
     "col_0": {
-      "text": "152"
+      "text": "148"
     },
     "col_1": {
-      "text": "Corteiz Alcatraz Basic HoodieBlack/Black"
+      "text": "Corteiz AlcatrazFull printT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtwhrKLS_lgWpg7M8gOalexAZfCxtcVED4p6Imr8Cik3Zo7wyeaNRbN41rQQeULq9i_vO8naJ0oAI932PJhlhyj-jSTsiNsnBCLIp6ezWxWebPKhEhR3z32IM01gC51nCvviRvEbY9qw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDlXyfO7DdBN__5KHIVVyFxSQA2s8yiCTnNE2Ekmv4MhyaSi6-tH2LjpyKJpcXkqakeaSdPcm0UcFjE6LAt-DS477vRnxUu48WsOVod8l9atu_d1tTIwuOPfbkEXkg4Vji9gQEpKODVQ=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653811325?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "FFCP",
-      "links": [
-        {
-          "label": "FFCP",
-          "url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7653846961?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "31$"
-    },
-    "col_6": {
-      "text": "15$"
+      "text": "13$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/117565761?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/133528510?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0671"
+  }
 }

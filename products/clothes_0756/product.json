@@ -1,61 +1,87 @@
 {
-  "name": "Jersey Logo T-shirt3 Colors",
+  "name": "CB Sweater",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CPRepsCN",
+  "best_batch": "Singor",
   "best_batch_links": [
     {
-      "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F981152943862%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/981152943862?inviteCode=29TOTHGNH"
+      "label": "Singor",
+      "url": "https://litbuy.com/product/weidian/690566220339?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/690566220339?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "16$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/804011799129?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/804011799129?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "32$",
+  "budget_price": "18$",
+  "pics_text": "singor/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://cprepscn.x.yupoo.com/albums/167557934?uid=1"
+      "label": "singor",
+      "url": "https://steven-1989.x.yupoo.com/albums/124774152?uid=1&isSubCate=false&referrercate=3436723"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1991694689751879682?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awo2u9O9YrL2zFbZBKyN63p-qp5Pec9M2Ddfquqm8r7Kjs4I6BaY-c3mLL53Tyd-33lw-xGTwI3rwQ5i-eJ4J2DQQJK3iCk9GEZ4XEqjDdDFpibOVKfg1AglXo8HGcYx90qmtQJngVJfO6b=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTk3SOSCwT-22y1rfeyCsxpHAyhKaUPHsCRWuKMNB7QkkNvH2qiOWW4LrkoCTeYhkvdSO1un43VPoNSYxOaP-JW0WjmDXBZ76pkefpAi7UxU8oQ0mXOQCJWwpU7ckKvpraaq8_B9s33qFP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0756",
   "raw_cells": {
     "col_0": {
-      "text": "247"
+      "text": "241"
     },
     "col_1": {
-      "text": "Jersey Logo T-shirt3 Colors"
+      "text": "CB Sweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awo2u9O9YrL2zFbZBKyN63p-qp5Pec9M2Ddfquqm8r7Kjs4I6BaY-c3mLL53Tyd-33lw-xGTwI3rwQ5i-eJ4J2DQQJK3iCk9GEZ4XEqjDdDFpibOVKfg1AglXo8HGcYx90qmtQJngVJfO6b=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTk3SOSCwT-22y1rfeyCsxpHAyhKaUPHsCRWuKMNB7QkkNvH2qiOWW4LrkoCTeYhkvdSO1un43VPoNSYxOaP-JW0WjmDXBZ76pkefpAi7UxU8oQ0mXOQCJWwpU7ckKvpraaq8_B9s33qFP=w143-h110"
     },
     "col_3": {
-      "text": "CPRepsCN",
+      "text": "Singor",
       "links": [
         {
-          "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/981152943862?inviteCode=29TOTHGNH"
+          "label": "Singor",
+          "url": "https://oopbuy.com/product/1/690566220339?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/804011799129?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "16$"
+      "text": "32$"
+    },
+    "col_6": {
+      "text": "18$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "singor/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://cprepscn.x.yupoo.com/albums/167557934?uid=1"
+          "label": "singor",
+          "url": "https://steven-1989.x.yupoo.com/albums/124774152?uid=1&isSubCate=false&referrercate=3436723"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1991694689751879682?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0756"
+  }
 }

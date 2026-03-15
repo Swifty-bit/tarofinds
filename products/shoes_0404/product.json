@@ -1,47 +1,65 @@
 {
-  "name": "Geobasket",
+  "name": "DRKSHDW HighJumbo Laces",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GZ",
+  "best_batch": "ROG",
   "best_batch_links": [
     {
-      "label": "GZ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565901130%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565901130?inviteCode=29TOTHGNH"
+      "label": "ROG",
+      "url": "https://litbuy.com/product/weidian/669771892203?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "85$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "DRK STUDIO",
+  "budget_batch_links": [
+    {
+      "label": "DRK STUDIO",
+      "url": "https://litbuy.com/product/weidian/673096171707?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "129$",
+  "budget_price": "75$",
+  "pics_text": "75$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXJGsZsoPsiRVnX99Bw136mgSE6anwpe6uMUh5AGO25DXEIYZhXuTQw2QJsrzAVvfkI2qJUtnkwkNt6CuuU7KmOl1fDntRdZO8Z4lyyOmt1yV22mW-BcmiA2SuJQJZ6dci2phiYFNNww=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axg8bCOsJl2qk33KAT9LYVVy9YBYc_cyeKB2siu6j3rUx_UaVh7xIzMaVmzxe4hElQWKQCBzAspP3ZbC9JZuyVSjUbHHeZqRI3zNFARznRHujhOqWQMmXTx2tBGRDOFQg7ZhCzAmGcilw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0404",
   "raw_cells": {
     "col_0": {
       "text": "455"
     },
     "col_1": {
-      "text": "Geobasket"
+      "text": "DRKSHDW HighJumbo Laces"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXJGsZsoPsiRVnX99Bw136mgSE6anwpe6uMUh5AGO25DXEIYZhXuTQw2QJsrzAVvfkI2qJUtnkwkNt6CuuU7KmOl1fDntRdZO8Z4lyyOmt1yV22mW-BcmiA2SuJQJZ6dci2phiYFNNww=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axg8bCOsJl2qk33KAT9LYVVy9YBYc_cyeKB2siu6j3rUx_UaVh7xIzMaVmzxe4hElQWKQCBzAspP3ZbC9JZuyVSjUbHHeZqRI3zNFARznRHujhOqWQMmXTx2tBGRDOFQg7ZhCzAmGcilw=w143-h110"
     },
     "col_3": {
-      "text": "GZ",
+      "text": "ROG",
       "links": [
         {
-          "label": "GZ",
-          "url": "https://oopbuy.com/product/weidian/7565901130?inviteCode=29TOTHGNH"
+          "label": "ROG",
+          "url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DRK STUDIO",
+      "links": [
+        {
+          "label": "DRK STUDIO",
+          "url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "85$"
+      "text": "129$"
+    },
+    "col_6": {
+      "text": "75$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0404"
+  }
 }

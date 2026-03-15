@@ -1,61 +1,61 @@
 {
-  "name": "SynaT-Shirt & ShortsGrey",
+  "name": "Palm AngelsSwim Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7455875230%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7455875230?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/671441926835?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/671441926835?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "39$(SET)",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "8$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/193862785?uid=1&isSubCate=false&referrercate=4564614"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/ali1688/671441926835"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzsFYl13zO8t7zqkTLY1_5UgAiCMsNB4vQHN_efbkkYvr2uFG9w60uk90QUcRi2xTJ7YV-6KVRstO6IkrXtCW6dddyXUTp_lxJez28HBBJ_73EREBkF-jy2DaB_Rnmt8t1QntgtmlT3-aeT=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az8mv8eR0lFSHYsacExttBeJVyMcx-O4YC1_HihzBaRKjNYqBif0wBiQwHq6WE5Kqzy0jKnMIZIZKRFwH_BKws7l3SUoC9a27OxF8xjnzBrxCV7RRo6OnUQiqLAoLN-12V6gCopzk4lTelf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0927",
   "raw_cells": {
     "col_0": {
-      "text": "454"
+      "text": "448"
     },
     "col_1": {
-      "text": "SynaT-Shirt & ShortsGrey"
+      "text": "Palm AngelsSwim Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzsFYl13zO8t7zqkTLY1_5UgAiCMsNB4vQHN_efbkkYvr2uFG9w60uk90QUcRi2xTJ7YV-6KVRstO6IkrXtCW6dddyXUTp_lxJez28HBBJ_73EREBkF-jy2DaB_Rnmt8t1QntgtmlT3-aeT=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az8mv8eR0lFSHYsacExttBeJVyMcx-O4YC1_HihzBaRKjNYqBif0wBiQwHq6WE5Kqzy0jKnMIZIZKRFwH_BKws7l3SUoC9a27OxF8xjnzBrxCV7RRo6OnUQiqLAoLN-12V6gCopzk4lTelf=w143-h110"
     },
-    "col_3": {
-      "text": "elephant",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7455875230?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/671441926835?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "39$(SET)"
+    "col_6": {
+      "text": "8$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/193862785?uid=1&isSubCate=false&referrercate=4564614"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/ali1688/671441926835"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0927"
+  }
 }

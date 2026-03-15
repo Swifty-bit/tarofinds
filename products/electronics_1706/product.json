@@ -1,61 +1,61 @@
 {
-  "name": "MagSafe Charger",
+  "name": "Watch Series 9",
   "category": "Electronics",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7224159577%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7224159577?inviteCode=29TOTHGNH"
+      "label": "ThebigY",
+      "url": "https://litbuy.com/product/weidian/7271524716?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7271524716?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "4$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "27$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1947242666817273857?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1926080988378116098?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az24PowONtiwZr92hyPe-ZP2Q_N1k08lYVVZ9J1kQoMEW6D0kBAI2o9qQMKkUhFRVI03e92dZOx0zJLVsVV3HZMhw1VUjQycE5hDSRZsvz0PoGMUbHVmEMish3Mx1354TKDjSlb29btnEL3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az05OcZHV2c1_19rISv6v7sAS0s0Ubz7Z84ECqYAJwJbGdsI1PzJuPzmfxOws9JOWNaqXGaKGFsTPm89o95sDpvZ4zFUsMlr2zA9PGcZMGdJBspfYooFHY8XBgnnZzZAGX2oXIELV0ahVOl=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "electronics_1706",
   "raw_cells": {
     "col_0": {
-      "text": "23"
+      "text": "15"
     },
     "col_1": {
-      "text": "MagSafe Charger"
+      "text": "Watch Series 9"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az24PowONtiwZr92hyPe-ZP2Q_N1k08lYVVZ9J1kQoMEW6D0kBAI2o9qQMKkUhFRVI03e92dZOx0zJLVsVV3HZMhw1VUjQycE5hDSRZsvz0PoGMUbHVmEMish3Mx1354TKDjSlb29btnEL3=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az05OcZHV2c1_19rISv6v7sAS0s0Ubz7Z84ECqYAJwJbGdsI1PzJuPzmfxOws9JOWNaqXGaKGFsTPm89o95sDpvZ4zFUsMlr2zA9PGcZMGdJBspfYooFHY8XBgnnZzZAGX2oXIELV0ahVOl=w143-h110"
     },
-    "col_3": {
-      "text": "here",
+    "col_4": {
+      "text": "ThebigY",
       "links": [
         {
-          "label": "here",
-          "url": "https://www.oopbuy.com/product/weidian/7224159577?inviteCode=29TOTHGNH"
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7271524716?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "4$"
+    "col_6": {
+      "text": "27$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1947242666817273857?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1926080988378116098?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "electronics_1706"
+  }
 }

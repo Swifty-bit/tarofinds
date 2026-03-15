@@ -1,21 +1,21 @@
 {
-  "name": "AMM(A Ma Maniere)",
+  "name": "Cool Grey",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/7259180318?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7259180318?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "71$",
@@ -23,24 +23,26 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyYwvMQWgsi0JH5pl55Bfj1P427Y-YdOb0x9MIVjGU2idJhnlWGdIPBaKeZIfnBPu6ptx1yWj7y3uVp3jWcNnI2tcRjmbXoTdqrebQj20_o67Q9FK1XNDs_9pJc2B_t9QLx4BekR89t9iTi=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQcMNJzbpj_CD062y6rTRW7jqZ2PTmV9jY2LTAtu_VmGpQ6EPnpvM2EfNOlncwoEUduBAs4UcA3z-xA_3DIFlO_LFqBI4bt6dxiiYurNyFB7V3vGdvlu7_-O2Kd_zoXOqGFWx1QUEciCTZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0253",
   "raw_cells": {
     "col_0": {
       "text": "268"
     },
     "col_1": {
-      "text": "AMM(A Ma Maniere)"
+      "text": "Cool Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyYwvMQWgsi0JH5pl55Bfj1P427Y-YdOb0x9MIVjGU2idJhnlWGdIPBaKeZIfnBPu6ptx1yWj7y3uVp3jWcNnI2tcRjmbXoTdqrebQj20_o67Q9FK1XNDs_9pJc2B_t9QLx4BekR89t9iTi=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQcMNJzbpj_CD062y6rTRW7jqZ2PTmV9jY2LTAtu_VmGpQ6EPnpvM2EfNOlncwoEUduBAs4UcA3z-xA_3DIFlO_LFqBI4bt6dxiiYurNyFB7V3vGdvlu7_-O2Kd_zoXOqGFWx1QUEciCTZ=w143-h110"
     },
     "col_3": {
-      "text": "GX",
+      "text": "LJR",
       "links": [
         {
-          "label": "GX",
-          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7259180318?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -49,7 +51,7 @@
       "links": [
         {
           "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0253"
+  }
 }

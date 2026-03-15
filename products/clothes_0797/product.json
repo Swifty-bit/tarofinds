@@ -1,95 +1,69 @@
 {
-  "name": "Hooded Wool Cardigan",
+  "name": "Grimpeurs Jacket",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7587843794%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7587843794?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7564036005?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564036005?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F994916423749%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/994916423749?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "82$",
-  "budget_price": "50$",
-  "pics_text": "QC Pics/yupoo/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "43$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1935503134824669185?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1936952583812386817?action=discord&cid=1840597081113280514"
     },
     {
-      "label": "yupoo",
-      "url": "https://repsking.x.yupoo.com/albums/161308545?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2020344951378890754?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/161599701?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzHMdk6nhoaoZ_YwnDWmjOuGaAEHkX5iiiz1XHTd3ZBdE4kT9-TcLXknE7QrLktxlnYJnr-lO7rEaReJwRLd7oiAzpTQ3IxMKOjGFfPuP5CPSNxLwOxycsBjba1MA5CzBI91lTcen_joMqX=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtvaiD4skXZzVt-TBmJjaVr7CoTZj6N_AP9Mq87vjr7hgGAbWGQRy-aDtrnDKHta-pRMhe0AE8itku-d21tle-t3nRFnwwvS2p4eG8BWclg_GJ4rbuhUKKaXtNsW-OilKTJETgphP1Og6i=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0797",
   "raw_cells": {
     "col_0": {
-      "text": "292"
+      "text": "288"
     },
     "col_1": {
-      "text": "Hooded Wool Cardigan"
+      "text": "Grimpeurs Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzHMdk6nhoaoZ_YwnDWmjOuGaAEHkX5iiiz1XHTd3ZBdE4kT9-TcLXknE7QrLktxlnYJnr-lO7rEaReJwRLd7oiAzpTQ3IxMKOjGFfPuP5CPSNxLwOxycsBjba1MA5CzBI91lTcen_joMqX=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtvaiD4skXZzVt-TBmJjaVr7CoTZj6N_AP9Mq87vjr7hgGAbWGQRy-aDtrnDKHta-pRMhe0AE8itku-d21tle-t3nRFnwwvS2p4eG8BWclg_GJ4rbuhUKKaXtNsW-OilKTJETgphP1Og6i=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7587843794?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/994916423749?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7564036005?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "82$"
-    },
-    "col_6": {
-      "text": "50$"
+      "text": "43$"
     },
     "col_7": {
-      "text": "QC Pics/yupoo/budget",
+      "text": "QC Pics/pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1935503134824669185?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1936952583812386817?action=discord&cid=1840597081113280514"
         },
         {
-          "label": "yupoo",
-          "url": "https://repsking.x.yupoo.com/albums/161308545?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2020344951378890754?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/161599701?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0797"
+  }
 }

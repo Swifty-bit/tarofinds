@@ -1,56 +1,47 @@
 {
-  "name": "TrainersBlue Denim",
+  "name": "Alaska Low Boot",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PONE/Foshan",
+  "best_batch": "2December",
   "best_batch_links": [
     {
-      "label": "PONE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7215295063%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7215295063?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "Foshan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564004903%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+      "label": "2December",
+      "url": "https://litbuy.com/product/weidian/7186127249?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7186127249?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "103$ / 75$",
+  "best_price": "85$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay8V9HZc2aguD4YEsPRoN3illfBz2468imy39L-xIxYGBSLwgUj24N5Zp-sOCfNlWEfF2Ixb4b0iCchyj4jO7AdqhqDWOpb0sUPqlP2GRQ1QrUkeFKpf3cUvGOPTti1iC5a7tjiXC3N7w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxNVJjpvj_JT36CRy_X_ba2V-1gi_yk3f8UJG0IT3ZWUOZLSN-Zr6GN2u7nJzF2Iatl0WP1LqsX50zaN1G2MIJh15TfCGp95sQ7sn8OXzd5ud7ndrvZvlK_RlFbXwYYr52ms3-GLApu9koi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0442",
   "raw_cells": {
     "col_0": {
-      "text": "503"
+      "text": "501"
     },
     "col_1": {
-      "text": "TrainersBlue Denim"
+      "text": "Alaska Low Boot"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay8V9HZc2aguD4YEsPRoN3illfBz2468imy39L-xIxYGBSLwgUj24N5Zp-sOCfNlWEfF2Ixb4b0iCchyj4jO7AdqhqDWOpb0sUPqlP2GRQ1QrUkeFKpf3cUvGOPTti1iC5a7tjiXC3N7w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxNVJjpvj_JT36CRy_X_ba2V-1gi_yk3f8UJG0IT3ZWUOZLSN-Zr6GN2u7nJzF2Iatl0WP1LqsX50zaN1G2MIJh15TfCGp95sQ7sn8OXzd5ud7ndrvZvlK_RlFbXwYYr52ms3-GLApu9koi=w143-h110"
     },
     "col_3": {
-      "text": "PONE/Foshan",
+      "text": "2December",
       "links": [
         {
-          "label": "PONE",
-          "url": "https://oopbuy.com/product/weidian/7215295063?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "Foshan",
-          "url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+          "label": "2December",
+          "url": "https://oopbuy.com/product/weidian/7186127249?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "103$ / 75$"
+      "text": "85$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0442"
+  }
 }

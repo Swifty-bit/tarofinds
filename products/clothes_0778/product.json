@@ -1,69 +1,87 @@
 {
-  "name": "COCK Print T-Shirt",
+  "name": "DD ShellPadded Quilted Ripstop Hooded Down Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "RepsKing",
+  "best_batch": "CPRepsCN",
   "best_batch_links": [
     {
-      "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7566393314%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7566393314?inviteCode=29TOTHGNH"
+      "label": "CPRepsCN",
+      "url": "https://litbuy.com/product/weidian/7617224826?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7617224826?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "18$",
-  "budget_price": "",
-  "pics_text": "QC Pics/pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/943310395493?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/943310395493?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "112$",
+  "budget_price": "24$",
+  "pics_text": "cprepscn/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1931516919386050562?action=discord&cid=1840597081113280514"
+      "label": "cprepscn",
+      "url": "https://cprepscn.x.yupoo.com/albums/179318396?uid=1&isSubCate=false&referrercate=4543871"
     },
     {
-      "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/164950478?uid=1"
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1984447222890176513?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azv0qUzuZlBVF84fxPXz6PemhY6FekSTROfgCGlNvLkmUvTdilcJzea5lV-Axgz9Z_R61-iX1qGs8To6JFbkZG5M8y0M1-7eCOvFqwyQHhcFBc4aMOVZUPKWXF_s0BTfEgrLCam4Y57gg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9d1Rzq5RIhTLPwe-eX0jTU3G-LVPg9WiV3eur-pjik1d7RgE8j9Na922D_j2R3uQShQWpggYjcE27tlXReVd_g8pDuV1-437OmMaI1uJACgBion9v52ofPDsw8b-KP3rL5qv-5DN00g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0778",
   "raw_cells": {
     "col_0": {
-      "text": "273"
+      "text": "265"
     },
     "col_1": {
-      "text": "COCK Print T-Shirt"
+      "text": "DD ShellPadded Quilted Ripstop Hooded Down Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azv0qUzuZlBVF84fxPXz6PemhY6FekSTROfgCGlNvLkmUvTdilcJzea5lV-Axgz9Z_R61-iX1qGs8To6JFbkZG5M8y0M1-7eCOvFqwyQHhcFBc4aMOVZUPKWXF_s0BTfEgrLCam4Y57gg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9d1Rzq5RIhTLPwe-eX0jTU3G-LVPg9WiV3eur-pjik1d7RgE8j9Na922D_j2R3uQShQWpggYjcE27tlXReVd_g8pDuV1-437OmMaI1uJACgBion9v52ofPDsw8b-KP3rL5qv-5DN00g=w143-h110"
     },
     "col_3": {
-      "text": "RepsKing",
+      "text": "CPRepsCN",
       "links": [
         {
-          "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7566393314?inviteCode=29TOTHGNH"
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/weidian/7617224826?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/943310395493?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "112$"
+    },
+    "col_6": {
+      "text": "24$"
     },
     "col_7": {
-      "text": "QC Pics/pics",
+      "text": "cprepscn/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1931516919386050562?action=discord&cid=1840597081113280514"
+          "label": "cprepscn",
+          "url": "https://cprepscn.x.yupoo.com/albums/179318396?uid=1&isSubCate=false&referrercate=4543871"
         },
         {
-          "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/164950478?uid=1"
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1984447222890176513?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0778"
+  }
 }

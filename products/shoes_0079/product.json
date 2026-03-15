@@ -1,47 +1,47 @@
 {
-  "name": "Orange Pearl",
+  "name": "Light Violet Venice",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "VT",
+  "budget_batch_links": [
     {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+      "label": "VT",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "44$",
-  "budget_price": "",
-  "pics_text": "",
+  "best_price": "",
+  "budget_price": "23$",
+  "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1Gqt7J93c2Cfx9PdAKOLuB1oiW7H2gZxqcJGVZDHOKjTaOGs1SM9hPtgmuF3qhdnR-w3U0q_51wH31EGgmRi0qbq6mVXMukp3YiwEFZEKkKFtCgOpvkM4r1QNdLs7m6vb-l-ruZsY4vOy=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwG7jqFRfFjIjowSKNipFO-BfMkPWrBJuJPkmEvRPLGlhvFR2_7qB7-wPYy1baYJ0MOG2zWnEPprm35OOEHMw0hj8bruUTB9Hn9WP4OOgIDTB2bzuZkOUMIVuw7zqAR9o_wmxP_SemDzA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0079",
   "raw_cells": {
     "col_0": {
       "text": "88"
     },
     "col_1": {
-      "text": "Orange Pearl"
+      "text": "Light Violet Venice"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1Gqt7J93c2Cfx9PdAKOLuB1oiW7H2gZxqcJGVZDHOKjTaOGs1SM9hPtgmuF3qhdnR-w3U0q_51wH31EGgmRi0qbq6mVXMukp3YiwEFZEKkKFtCgOpvkM4r1QNdLs7m6vb-l-ruZsY4vOy=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwG7jqFRfFjIjowSKNipFO-BfMkPWrBJuJPkmEvRPLGlhvFR2_7qB7-wPYy1baYJ0MOG2zWnEPprm35OOEHMw0hj8bruUTB9Hn9WP4OOgIDTB2bzuZkOUMIVuw7zqAR9o_wmxP_SemDzA=w143-h110"
     },
-    "col_3": {
-      "text": "M",
+    "col_4": {
+      "text": "VT",
       "links": [
         {
-          "label": "M",
-          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+          "label": "VT",
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "44$"
+    "col_6": {
+      "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0079"
+  }
 }

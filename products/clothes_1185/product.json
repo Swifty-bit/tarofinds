@@ -1,61 +1,61 @@
 {
-  "name": "Supreme x MM6Zipup",
+  "name": "Supreme x CDGComme Des GarconsLong Sleeves",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F839576304944%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/839576304944?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/990999601398?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/990999601398?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "59$",
+  "best_price": "15$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/173403231?uid=1&isSubCate=false&referrercate=4736074"
+      "url": "https://noghost.x.yupoo.com/albums/200533423?uid=1&isSubCate=false&referrercate=5128217"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyOIcGRegv8KWCsXqUlcJOKucCKPNHQF_JBwx4Y9g1kwCfyxfgAOakMtMMAf7ag1kcUgAjrjGUF4SS9fJuoZ7g4e2TV7_JS4-SPc_pfBFp09lFy9HZSsDzd1VRcUF2m7dcSLk5AnWvAT7Vl=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwS2IAyN1YS9DuscyTFYe8lMnUk6FiOXsinQme-q4i7L89IWa5G2-oRnZIMBQhl1nlxaxhWkK72Zq145x4THn3x1Qssiqy7VjSyuIqLIOt2va4AZjY582jwCB0CSGc0F26Rl1Jbo6GTKqf9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1185",
   "raw_cells": {
     "col_0": {
-      "text": "754"
+      "text": "750"
     },
     "col_1": {
-      "text": "Supreme x MM6Zipup"
+      "text": "Supreme x CDGComme Des GarconsLong Sleeves"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyOIcGRegv8KWCsXqUlcJOKucCKPNHQF_JBwx4Y9g1kwCfyxfgAOakMtMMAf7ag1kcUgAjrjGUF4SS9fJuoZ7g4e2TV7_JS4-SPc_pfBFp09lFy9HZSsDzd1VRcUF2m7dcSLk5AnWvAT7Vl=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwS2IAyN1YS9DuscyTFYe8lMnUk6FiOXsinQme-q4i7L89IWa5G2-oRnZIMBQhl1nlxaxhWkK72Zq145x4THn3x1Qssiqy7VjSyuIqLIOt2va4AZjY582jwCB0CSGc0F26Rl1Jbo6GTKqf9=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/839576304944?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/1/990999601398?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "59$"
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/173403231?uid=1&isSubCate=false&referrercate=4736074"
+          "url": "https://noghost.x.yupoo.com/albums/200533423?uid=1&isSubCate=false&referrercate=5128217"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1185"
+  }
 }

@@ -1,46 +1,48 @@
 {
-  "name": "Military Black",
+  "name": "Off White Sail",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "PK",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+      "label": "PK",
+      "url": "https://litbuy.com/product/taobao/5802305038?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5802305038?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7240378209?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "66$",
+  "best_price": "63$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzWLxJiooqxjWak4-RzcWi-AHUoAT0kuiHt5mD_-oIotDyQYf-pLtotHlqL_C-abQ903NPzQJCBZ8qUonDiNgI-Xdnjc7xuKjWM88Krmb5OQFZSQQI8nzeaQ-9UAWQ7xXn69-IMN67uF6TU=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyigMoGBut3E6VHZUseAeoBVjKkS-8jT4L7vwOsfcbn1Pjcd7FeKy88owYd2n2uOKWAN-CkkC5voFvw7hPg_LEiEd-g11bs14HND_Md8CNoSKctwpJ2SDe9vcULXG6YADBJpH3vAYFRnw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0215",
   "raw_cells": {
     "col_0": {
       "text": "230"
     },
     "col_1": {
-      "text": "Military Black"
+      "text": "Off White Sail"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzWLxJiooqxjWak4-RzcWi-AHUoAT0kuiHt5mD_-oIotDyQYf-pLtotHlqL_C-abQ903NPzQJCBZ8qUonDiNgI-Xdnjc7xuKjWM88Krmb5OQFZSQQI8nzeaQ-9UAWQ7xXn69-IMN67uF6TU=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyigMoGBut3E6VHZUseAeoBVjKkS-8jT4L7vwOsfcbn1Pjcd7FeKy88owYd2n2uOKWAN-CkkC5voFvw7hPg_LEiEd-g11bs14HND_Md8CNoSKctwpJ2SDe9vcULXG6YADBJpH3vAYFRnw=w143-h110"
     },
     "col_3": {
-      "text": "GX",
+      "text": "PK",
       "links": [
         {
-          "label": "GX",
-          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+          "label": "PK",
+          "url": "https://oopbuy.com/product/2/5802305038?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -49,17 +51,15 @@
       "links": [
         {
           "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "66$"
+      "text": "63$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0215"
+  }
 }

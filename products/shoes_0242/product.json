@@ -1,65 +1,65 @@
 {
-  "name": "Blue Thunder",
+  "name": "White Thunder",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZX",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "ZX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312363719%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7312363719?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX2.0",
+  "budget_batch": "KX",
   "budget_batch_links": [
     {
-      "label": "KX2.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7249836913%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+      "label": "KX",
+      "url": "https://litbuy.com/product/taobao/7240378209?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "65$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "best_price": "66$",
+  "budget_price": "50$",
+  "pics_text": "50$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzQ_VB9Q8bG12mh_19aIwCOhoshS1Xq-4PH9a_fTHanUUNk6102Nt4GJ8G1ZdluvU6LYzjpwuowh3tJsL7y0_zLBLao9tNJqsfUJqPcPC0FD3ApbKWDBHKF8nG5sbKo5uco9438nhePVjxk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxlJtUBbzS-UFYIzfHogBAQvo-tNeXKLrF_OxhEurJFbqVhXmiXZWduYQAV-494MtMzHLkmMRbZMQdumSDnRp77V32htn1Cui7Us0bzt2z91QEzFRkk9AY6c0ShxaPd9H2pm-XIugKrQRZY=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0242",
   "raw_cells": {
     "col_0": {
       "text": "257"
     },
     "col_1": {
-      "text": "Blue Thunder"
+      "text": "White Thunder"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzQ_VB9Q8bG12mh_19aIwCOhoshS1Xq-4PH9a_fTHanUUNk6102Nt4GJ8G1ZdluvU6LYzjpwuowh3tJsL7y0_zLBLao9tNJqsfUJqPcPC0FD3ApbKWDBHKF8nG5sbKo5uco9438nhePVjxk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxlJtUBbzS-UFYIzfHogBAQvo-tNeXKLrF_OxhEurJFbqVhXmiXZWduYQAV-494MtMzHLkmMRbZMQdumSDnRp77V32htn1Cui7Us0bzt2z91QEzFRkk9AY6c0ShxaPd9H2pm-XIugKrQRZY=w143-h110"
     },
     "col_3": {
-      "text": "ZX",
+      "text": "GX",
       "links": [
         {
-          "label": "ZX",
-          "url": "https://oopbuy.com/product/weidian/7312363719?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "KX2.0",
+      "text": "KX",
       "links": [
         {
-          "label": "KX2.0",
-          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "65$"
+      "text": "66$"
     },
     "col_6": {
-      "text": "37$"
+      "text": "50$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0242"
+  }
 }

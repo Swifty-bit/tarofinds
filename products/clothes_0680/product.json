@@ -1,64 +1,61 @@
 {
-  "name": "CorteizItaly ShukuTracksuit",
+  "name": "CorteizHMP 3 StarPants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "GOAT",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7589517853%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7589517853?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653809351?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653809351?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "83$(SET)",
+  "best_price": "26$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/168397929?uid=1"
+      "url": "https://goat-official.x.yupoo.com/albums/151236429?uid=1"
     }
   ],
-  "notes": "set 83$ - top 43$ - bottom 40$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzR2iG0BtGp_YgEQcztGIwUQP8CNk4YBXgJm3G0JOZ1ytVSnkWzjY484-g8pkycshNd_2TdtXmIpy48TwueO4C7WqFaVh4mX7nuczaH6KiBFgfnK_SxB6Uqj6kGWa3qfxBihvkVEtSq205E=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyETq6vtbakqkjFjxISKtW-93WM6RhgCZ1wUeKR1UDh340L_JCz4nQ4Lx3VsRMPoUcpj2V8Su9EdfWsT28uuODJOoyBjyQ-CFlg73THX4WMoTYo447BdxlIbEx3qk7v0rPp1vVKIf4-_m6-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0680",
   "raw_cells": {
     "col_0": {
-      "text": "161"
+      "text": "157"
     },
     "col_1": {
-      "text": "CorteizItaly ShukuTracksuit"
+      "text": "CorteizHMP 3 StarPants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzR2iG0BtGp_YgEQcztGIwUQP8CNk4YBXgJm3G0JOZ1ytVSnkWzjY484-g8pkycshNd_2TdtXmIpy48TwueO4C7WqFaVh4mX7nuczaH6KiBFgfnK_SxB6Uqj6kGWa3qfxBihvkVEtSq205E=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyETq6vtbakqkjFjxISKtW-93WM6RhgCZ1wUeKR1UDh340L_JCz4nQ4Lx3VsRMPoUcpj2V8Su9EdfWsT28uuODJOoyBjyQ-CFlg73THX4WMoTYo447BdxlIbEx3qk7v0rPp1vVKIf4-_m6-=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "GOAT",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7589517853?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653809351?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "83$(SET)"
+      "text": "26$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/168397929?uid=1"
+          "url": "https://goat-official.x.yupoo.com/albums/151236429?uid=1"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 83$ - top 43$ - bottom 40$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0680"
+  }
 }

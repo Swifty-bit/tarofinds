@@ -1,12 +1,12 @@
 {
-  "name": "Air Jordan 1 HighOff-WhiteChicago",
+  "name": "Air Jordan 1 HighOff-WhiteUniversity Blue",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564058443%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7564058443?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7564058443?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "39$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzK3n-payikWutNa-DimbboVY8V48rNNfiomFk2ZDRpeLdg5C3eUzOe5JBdQ0YCcprEvx8w7F1SVYfUs-TP0eQOaxOMih8R3aUCu07BRRu73_bUpviKDudHv_7S6lbhJw2WhTLVe1zGXThZ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyrZDi9zduvxsLxTMoLgeOo2oZ3gsTLl6xlOVEZs-eFw7WHcQP-vHnxkWaSZY8-97QClj9BUK1J2OaLIuYzdgSnpcCyprdwxTofvnhr-p_FfpryfkMi0PWE8BkJ-2MW3pZGcBfW_e9DcxaD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0150",
   "raw_cells": {
     "col_0": {
       "text": "161"
     },
     "col_1": {
-      "text": "Air Jordan 1 HighOff-WhiteChicago"
+      "text": "Air Jordan 1 HighOff-WhiteUniversity Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzK3n-payikWutNa-DimbboVY8V48rNNfiomFk2ZDRpeLdg5C3eUzOe5JBdQ0YCcprEvx8w7F1SVYfUs-TP0eQOaxOMih8R3aUCu07BRRu73_bUpviKDudHv_7S6lbhJw2WhTLVe1zGXThZ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrZDi9zduvxsLxTMoLgeOo2oZ3gsTLl6xlOVEZs-eFw7WHcQP-vHnxkWaSZY8-97QClj9BUK1J2OaLIuYzdgSnpcCyprdwxTofvnhr-p_FfpryfkMi0PWE8BkJ-2MW3pZGcBfW_e9DcxaD=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "39$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0150"
+  }
 }

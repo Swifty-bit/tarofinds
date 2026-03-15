@@ -1,61 +1,65 @@
 {
-  "name": "AkimboZipped Hoodie CHARCOAL",
+  "name": "blue jorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "firerep",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F989727099190%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/989727099190?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/991639641336?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "31$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "18$",
+  "pics_text": "budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://firerep.x.yupoo.com/albums/204896026?uid=1&isSubCate=false&referrercate=4666904"
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzfxadWy3QZcXhM8z9O-WPmsW8CHaPQQfOnOM3400Tum5K7QOPpATB8-aGt9ebby7-HIQ8CNkflmwrz18NelSDppa97kkrzFFpNhpg2ibzMNRYTjKOzNki4LwTPJOwDOVhp4aBmazOytaM1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzKTgIwuSYzo9rApdzA82CKrME7VuX31zBpbxPO_jyYMsCwcC5XyRtJkGA8tRaN8VBLQK2q_7NQD0_7nkgyym2ZoHQT-IgnJSSf9QJR1d22ooqZ0SQRQYvZr-iTmIhepqkSX-xZQv4WO5f-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0893",
   "raw_cells": {
     "col_0": {
-      "text": "412"
+      "text": "406"
     },
     "col_1": {
-      "text": "AkimboZipped Hoodie CHARCOAL"
+      "text": "blue jorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzfxadWy3QZcXhM8z9O-WPmsW8CHaPQQfOnOM3400Tum5K7QOPpATB8-aGt9ebby7-HIQ8CNkflmwrz18NelSDppa97kkrzFFpNhpg2ibzMNRYTjKOzNki4LwTPJOwDOVhp4aBmazOytaM1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzKTgIwuSYzo9rApdzA82CKrME7VuX31zBpbxPO_jyYMsCwcC5XyRtJkGA8tRaN8VBLQK2q_7NQD0_7nkgyym2ZoHQT-IgnJSSf9QJR1d22ooqZ0SQRQYvZr-iTmIhepqkSX-xZQv4WO5f-=w143-h110"
     },
-    "col_3": {
-      "text": "firerep",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://oopbuy.com/product/1/989727099190?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "31$"
+    "col_6": {
+      "text": "18$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://firerep.x.yupoo.com/albums/204896026?uid=1&isSubCate=false&referrercate=4666904"
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1_4LdO8Uj4zDVB6L6g2kHGnQRYd4oBYtgqjmbXswObI3mt7syIsH1x00WgDSk1qyBgvibrEh4PdBBD3MjKJkWLgcX16iPKRuUIqMcyIVIA6wUre5TMoobXLIypNsMgvjgOJX_LaARjIXQ=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0893"
+  }
 }

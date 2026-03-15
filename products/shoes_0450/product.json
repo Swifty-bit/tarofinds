@@ -1,33 +1,41 @@
 {
-  "name": "SkateCrystal Black",
+  "name": "Skate x Swarovski",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "Koala",
   "best_batch_links": [
     {
       "label": "Koala",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595571456%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7595571456?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "100$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/taobao/7370594492?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "108$",
+  "budget_price": "43$",
+  "pics_text": "43$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzsldBRE-r4rB1u5ta0du6hjRD8ofSJCNTlWvRN0rnXu7eDyh3a1ID9xzS-Ns_polLU-7U4NRmp-F5ym1iDeYBL_ghz07zbSEAGX-kwkzlZrYVTnRjB1TYDeDDTClg3ZMhjEQgdnSbpGg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwaqQgIzAYYOaSdBb0DFyblKVTeDd6eHh8VCKyOvE0RGDnjnaKXeVo_Xx2_CghCdjho4aJGFfwnKg7-id-Kxem-vdJrWALv4vlIiR9exyofpSN6HzH-FiB6ZMJTMQv7G453oABj6wSoqtBH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0450",
   "raw_cells": {
     "col_0": {
       "text": "511"
     },
     "col_1": {
-      "text": "SkateCrystal Black"
+      "text": "Skate x Swarovski"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzsldBRE-r4rB1u5ta0du6hjRD8ofSJCNTlWvRN0rnXu7eDyh3a1ID9xzS-Ns_polLU-7U4NRmp-F5ym1iDeYBL_ghz07zbSEAGX-kwkzlZrYVTnRjB1TYDeDDTClg3ZMhjEQgdnSbpGg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwaqQgIzAYYOaSdBb0DFyblKVTeDd6eHh8VCKyOvE0RGDnjnaKXeVo_Xx2_CghCdjho4aJGFfwnKg7-id-Kxem-vdJrWALv4vlIiR9exyofpSN6HzH-FiB6ZMJTMQv7G453oABj6wSoqtBH=w143-h110"
     },
     "col_3": {
       "text": "Koala",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
-      "text": "100$"
+      "text": "108$"
+    },
+    "col_6": {
+      "text": "43$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0450"
+  }
 }

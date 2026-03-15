@@ -1,12 +1,12 @@
 {
-  "name": "Gamma Blue",
+  "name": "Cherry",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240644396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240644396?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxKQiBr1VlcRfFj3NHR6TaVNslnnNcfxdPBeCwqjjhyfAMoiVhHqaEp8-gE-bSOBNa9iumDIsNtLFwwv9escEGAD7PpWRUe7qicSLg2voCoB6G8aJGipooUArXWYwz5A1GO2yPcgXSGZ3vD=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzX2Ht_KeWPJRfn193xR_-zaWiA5cgh20WTWlS2PmXPSMGaxoAKZv4aQjqnfW4u9UYS1CjtrFm_gnlDZtgusX_5OPaq-wlWdIAsS-G4m6CRF1ygNu6qfTzwZnUv2BpmjkZVx-0-qkqOGA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0319",
   "raw_cells": {
     "col_0": {
       "text": "342"
     },
     "col_1": {
-      "text": "Gamma Blue"
+      "text": "Cherry"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxKQiBr1VlcRfFj3NHR6TaVNslnnNcfxdPBeCwqjjhyfAMoiVhHqaEp8-gE-bSOBNa9iumDIsNtLFwwv9escEGAD7PpWRUe7qicSLg2voCoB6G8aJGipooUArXWYwz5A1GO2yPcgXSGZ3vD=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzX2Ht_KeWPJRfn193xR_-zaWiA5cgh20WTWlS2PmXPSMGaxoAKZv4aQjqnfW4u9UYS1CjtrFm_gnlDZtgusX_5OPaq-wlWdIAsS-G4m6CRF1ygNu6qfTzwZnUv2BpmjkZVx-0-qkqOGA=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "70$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0319"
+  }
 }

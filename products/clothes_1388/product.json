@@ -1,62 +1,61 @@
 {
-  "name": "Represent HoodieMany Styles",
+  "name": "RepresentJaws T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "LKN",
-  "budget_batch_links": [
+  "best_batch": "UnionKingdom",
+  "best_batch_links": [
     {
-      "label": "LKN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F682219696736%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/682219696736?inviteCode=29TOTHGNH"
+      "label": "UnionKingdom",
+      "url": "https://litbuy.com/product/weidian/750881845094?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/750881845094?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "24$",
-  "pics_text": "QC pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "17$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC pics",
-      "url": "https://imgur.com/a/PWf9RTm"
+      "label": "pics",
+      "url": "https://unionkingdom.x.yupoo.com/albums/145221308?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axywq7pYZH0h8k75UrTVNekuw9ink4swfSFrlrn-VTks4rQECZBtXybaKW_qpxftvLv2HwT01vJ8nihNK0-4R9ywKhr4GbPqY_SkDCitrXbOKCxkSe1ZSOZloHiDx1DMQs-iYG18imysljD=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyH3Rpt2zqQ4kYy4RHgT4aEx5NtXoiv25G8sACbvfJgso8ETyW4pQr2Tx4JM1g2gZRIGi_z_nwLuzgbjwCNfcXgHCJyyeOuApoahDobIATFk4TVFQjtIdu_O2jjhX-zRC4m8liyaK2qRFxP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1388",
   "raw_cells": {
     "col_0": {
-      "text": "991"
+      "text": "987"
     },
     "col_1": {
-      "text": "Represent HoodieMany Styles"
+      "text": "RepresentJaws T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axywq7pYZH0h8k75UrTVNekuw9ink4swfSFrlrn-VTks4rQECZBtXybaKW_qpxftvLv2HwT01vJ8nihNK0-4R9ywKhr4GbPqY_SkDCitrXbOKCxkSe1ZSOZloHiDx1DMQs-iYG18imysljD=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyH3Rpt2zqQ4kYy4RHgT4aEx5NtXoiv25G8sACbvfJgso8ETyW4pQr2Tx4JM1g2gZRIGi_z_nwLuzgbjwCNfcXgHCJyyeOuApoahDobIATFk4TVFQjtIdu_O2jjhX-zRC4m8liyaK2qRFxP=w143-h110"
     },
-    "col_4": {
-      "text": "LKN",
+    "col_3": {
+      "text": "UnionKingdom",
       "links": [
         {
-          "label": "LKN",
-          "url": "https://oopbuy.com/product/1/682219696736?inviteCode=29TOTHGNH"
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/750881845094?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "24$"
+    "col_5": {
+      "text": "17$"
     },
     "col_7": {
-      "text": "QC pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC pics",
-          "url": "https://imgur.com/a/PWf9RTm"
+          "label": "pics",
+          "url": "https://unionkingdom.x.yupoo.com/albums/145221308?uid=1"
         }
-      ],
-      "image": "https://imgur.com/a/PWf9RTm"
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1388"
+  }
 }

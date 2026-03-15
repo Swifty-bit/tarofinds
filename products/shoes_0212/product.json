@@ -1,33 +1,46 @@
 {
-  "name": "Travis Scott Purple(Friends and Family)",
+  "name": "Travis ScottCactus Jack",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "NEW R1/KX",
+  "budget_batch_links": [
+    {
+      "label": "NEW R1",
+      "url": "https://litbuy.com/product/taobao/7328101882?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "KX",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "66$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "45$ / 37$",
+  "pics_text": "45$ / 37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxUmkC43o7sUPP3OzLDFpDdtsVqO6rtmAQQtoKkhaU-27xT8gOOSVpd4Y71mL4XPYy4HrgYi6DFyyXP0BiHuTlyKOazxmpakf-eH7aNBdkQ68OchHs0aZteltWIiC1co_p8DiG011LHDPTu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwX6wYPR8wD-JgqLC46yjLulCeygSBW4xZ1pIIKot33-YU9s9YQIV4Brmb40kyz9s-EVQpGSqlRZXtyJjC8kxNmmLZ5_sfWowrxPoh-_6JrgFDOeSEflIuk9bOGmyDqqthb0BuC0joMLMde=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0212",
   "raw_cells": {
     "col_0": {
       "text": "227"
     },
     "col_1": {
-      "text": "Travis Scott Purple(Friends and Family)"
+      "text": "Travis ScottCactus Jack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxUmkC43o7sUPP3OzLDFpDdtsVqO6rtmAQQtoKkhaU-27xT8gOOSVpd4Y71mL4XPYy4HrgYi6DFyyXP0BiHuTlyKOazxmpakf-eH7aNBdkQ68OchHs0aZteltWIiC1co_p8DiG011LHDPTu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwX6wYPR8wD-JgqLC46yjLulCeygSBW4xZ1pIIKot33-YU9s9YQIV4Brmb40kyz9s-EVQpGSqlRZXtyJjC8kxNmmLZ5_sfWowrxPoh-_6JrgFDOeSEflIuk9bOGmyDqqthb0BuC0joMLMde=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -38,10 +51,24 @@
         }
       ]
     },
+    "col_4": {
+      "text": "NEW R1/KX",
+      "links": [
+        {
+          "label": "NEW R1",
+          "url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "66$"
+    },
+    "col_6": {
+      "text": "45$ / 37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0212"
+  }
 }

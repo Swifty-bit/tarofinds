@@ -1,64 +1,46 @@
 {
-  "name": "CDG PlayBig Black HeartZip Up Hoodie",
+  "name": "CDG PlayLong Sleeve PrintedT-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "repsbrothers",
-  "best_batch_links": [
-    {
-      "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F975518273866%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/975518273866?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "40$",
+  "best_price": "",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repbros.x.yupoo.com/albums/206698547?uid=1&isSubCate=false&referrercate=4980597"
+      "url": "https://repbros.x.yupoo.com/albums/206698297?uid=1&isSubCate=false&referrercate=4980597"
     }
   ],
-  "notes": "100% Polyester",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7Mfnk_qJDeK4VBxBuWsdq9N5Tm1q-4HkaxBg1mPxLdx3alMLDLrBit5esVkBgljoq46N-i6Q3px0KSsFtiecuy4Ad6PEox_7bqq66V08nSJU4tNUiyuXzOvHiC0QunMYcO8Y0KixQ6A=w143-h110",
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxIeyU1CCIdrMHNb6x2fI-cUo4tEf4YcfrlwvPf6F-ghguYoFXBFTyJWCCIh45RYdHxRO66UcKnhqgFw3deeoTTjLs0nitPjxjFS7HcEdMp2yKww5LTsJCU_Av7ity4771VddQoqwyDMA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1039",
   "raw_cells": {
     "col_0": {
-      "text": "584"
+      "text": "580"
     },
     "col_1": {
-      "text": "CDG PlayBig Black HeartZip Up Hoodie"
+      "text": "CDG PlayLong Sleeve PrintedT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7Mfnk_qJDeK4VBxBuWsdq9N5Tm1q-4HkaxBg1mPxLdx3alMLDLrBit5esVkBgljoq46N-i6Q3px0KSsFtiecuy4Ad6PEox_7bqq66V08nSJU4tNUiyuXzOvHiC0QunMYcO8Y0KixQ6A=w143-h110"
-    },
-    "col_3": {
-      "text": "repsbrothers",
-      "links": [
-        {
-          "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/975518273866?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_5": {
-      "text": "40$"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxIeyU1CCIdrMHNb6x2fI-cUo4tEf4YcfrlwvPf6F-ghguYoFXBFTyJWCCIh45RYdHxRO66UcKnhqgFw3deeoTTjLs0nitPjxjFS7HcEdMp2yKww5LTsJCU_Av7ity4771VddQoqwyDMA=w143-h110"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://repbros.x.yupoo.com/albums/206698547?uid=1&isSubCate=false&referrercate=4980597"
+          "url": "https://repbros.x.yupoo.com/albums/206698297?uid=1&isSubCate=false&referrercate=4980597"
         }
       ]
     },
     "col_8": {
-      "text": "100% Polyester"
+      "text": "100% Cotton"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1039"
+  }
 }

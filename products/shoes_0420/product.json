@@ -1,65 +1,47 @@
 {
-  "name": "Dior Alpha Slide",
+  "name": "Dior B33",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "EVGA",
-  "best_batch_links": [
-    {
-      "label": "EVGA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6527349070%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6527349070?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "GD",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F620943501779%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/620943501779?inviteCode=29TOTHGNH"
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7458109150?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7458109150?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "41$",
-  "budget_price": "32$",
-  "pics_text": "32$",
+  "best_price": "",
+  "budget_price": "61$",
+  "pics_text": "61$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2jaLW9D1HiapLqOLgDqa0zcD543onA6oTFcRQARE__9kGtmX_O9Ne3war0NNuEB2i2GBL0fIf8pB8a-rS4OyYLmm36qFkm6KPK1QN7gGSFDMIWbZLLZAdXsEFoFXSPD2djnUFQuY2bxo2=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwnQn_GQOSCESoTLVdQ5PwtxjX1UPm46EJNFRm4c82420xWD-BzX7qhZxxC1dDxFdOWWho1nTrrCX3pGs8ECAs_9B4e8SRWlT6oWd4F55QiAjR3O-gnNcyBfbKfs33zAY6LGm79vGsUo4hH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0420",
   "raw_cells": {
     "col_0": {
       "text": "477"
     },
     "col_1": {
-      "text": "Dior Alpha Slide"
+      "text": "Dior B33"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2jaLW9D1HiapLqOLgDqa0zcD543onA6oTFcRQARE__9kGtmX_O9Ne3war0NNuEB2i2GBL0fIf8pB8a-rS4OyYLmm36qFkm6KPK1QN7gGSFDMIWbZLLZAdXsEFoFXSPD2djnUFQuY2bxo2=w143-h110"
-    },
-    "col_3": {
-      "text": "EVGA",
-      "links": [
-        {
-          "label": "EVGA",
-          "url": "https://oopbuy.com/product/2/6527349070?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwnQn_GQOSCESoTLVdQ5PwtxjX1UPm46EJNFRm4c82420xWD-BzX7qhZxxC1dDxFdOWWho1nTrrCX3pGs8ECAs_9B4e8SRWlT6oWd4F55QiAjR3O-gnNcyBfbKfs33zAY6LGm79vGsUo4hH=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "GD",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/1/620943501779?inviteCode=29TOTHGNH"
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7458109150?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "41$"
-    },
     "col_6": {
-      "text": "32$"
+      "text": "61$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0420"
+  }
 }

@@ -1,13 +1,13 @@
 {
-  "name": "MertraJacket BlackWater Reactive",
+  "name": "MertraxUmbroWarm Up Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "pengreps",
   "best_batch_links": [
     {
       "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7528768542%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7528768542?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7626932092?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7626932092?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pengreps.x.yupoo.com/albums/211641526?uid=1&isSubCate=false&referrercate=5074803"
+      "url": "https://pengreps.x.yupoo.com/albums/218863297?uid=1&isSubCate=false&referrercate=4856023"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyaxG3fJqiLkFFaa7AccWwERozqIqIXKrEeYnvhYZ1Ck1hyDB6UbmdCFI8en12T-EFdrlMJGe3W5vHTTCOlJm5SubA7O_7dYMwc26DoPXMF7TU_BHb1setIVqmk1u_A-tzFqBoa_NLAbn2q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXAgWB9KD1Lz7sp8vi45HZDJKMrU605VdsrTJagCHX8C3mjpe38ODjwknf9icSlhFKHGrFjhYJn_qoCaIk3cGwWUN1yEVXcjUQBePoRt77H44LmWGpMIHUZD1HOXYVlNPv4QOovhZHBcOg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1090",
   "raw_cells": {
     "col_0": {
-      "text": "641"
+      "text": "637"
     },
     "col_1": {
-      "text": "MertraJacket BlackWater Reactive"
+      "text": "MertraxUmbroWarm Up Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyaxG3fJqiLkFFaa7AccWwERozqIqIXKrEeYnvhYZ1Ck1hyDB6UbmdCFI8en12T-EFdrlMJGe3W5vHTTCOlJm5SubA7O_7dYMwc26DoPXMF7TU_BHb1setIVqmk1u_A-tzFqBoa_NLAbn2q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXAgWB9KD1Lz7sp8vi45HZDJKMrU605VdsrTJagCHX8C3mjpe38ODjwknf9icSlhFKHGrFjhYJn_qoCaIk3cGwWUN1yEVXcjUQBePoRt77H44LmWGpMIHUZD1HOXYVlNPv4QOovhZHBcOg=w143-h110"
     },
     "col_3": {
       "text": "pengreps",
       "links": [
         {
           "label": "pengreps",
-          "url": "https://oopbuy.com/product/weidian/7528768542?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7626932092?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,15 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://pengreps.x.yupoo.com/albums/211641526?uid=1&isSubCate=false&referrercate=5074803"
+          "url": "https://pengreps.x.yupoo.com/albums/218863297?uid=1&isSubCate=false&referrercate=4856023"
         }
       ]
-    },
-    "col_8": {
-      "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyrDrcElIzd3ihqsy2c3haOn81uOUlmje2Er-cmWfnzToPzTB9K6S9TcSLz-jFWQTiGFyZjn_5AGmDvr94adIjjzJs5DIScWvOc0fktqZ_O6XWVV21vD5iWpjrs87_XaYCxYonwuHQxeq8j=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1090"
+  }
 }

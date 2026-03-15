@@ -1,61 +1,90 @@
 {
-  "name": "Nike TechShorts5 Colors",
+  "name": "Nike TechTF2023 Grey",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "repsbrothers",
+  "best_batch_links": [
+    {
+      "label": "repsbrothers",
+      "url": "https://litbuy.com/product/weidian/963128582530?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/963128582530?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F798929144098%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/798929144098?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/778531217488?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/778531217488?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "10$",
-  "pics_text": "QC Pics",
+  "best_price": "76$(SET)",
+  "budget_price": "26$(SET)",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1919558824950284290?action=discord&cid=1840597081113280514"
+      "label": "best",
+      "url": "https://repsbro.x.yupoo.com/albums/205538120?uid=1&isSubCate=false&referrercate=4971729"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923181865122971649?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyDjogyd-7KptMXCz7NluO_9c17Ch-bRzzlYoI3PyzxywsMrNqczkVIryaSaIodzZQVu07J4RcyVprT46I_hXQiPJIhczGiDVuKAmxRErrNzTcYOtjHGlt-lqSmxLLM3d1MN73oomUtOjCK=w143-h110",
+  "notes": "set 76$ - hoodie 41$ - pants 35$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyPWmzOdSiBGux8a_s8nRNn9LIRuw3c6Z8JbrSqV53Y2uv7mHvUE1cVyOgcLw5PjUkjpGE51_K22K7uWPBanNoCGeDJmjz5JmlE4JAMChikzYOuM39yrjb7Dln-wmsT_jCcvVIX-PDQS7gB=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0554",
   "raw_cells": {
     "col_0": {
-      "text": "19"
+      "text": "15"
     },
     "col_1": {
-      "text": "Nike TechShorts5 Colors"
+      "text": "Nike TechTF2023 Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyDjogyd-7KptMXCz7NluO_9c17Ch-bRzzlYoI3PyzxywsMrNqczkVIryaSaIodzZQVu07J4RcyVprT46I_hXQiPJIhczGiDVuKAmxRErrNzTcYOtjHGlt-lqSmxLLM3d1MN73oomUtOjCK=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyPWmzOdSiBGux8a_s8nRNn9LIRuw3c6Z8JbrSqV53Y2uv7mHvUE1cVyOgcLw5PjUkjpGE51_K22K7uWPBanNoCGeDJmjz5JmlE4JAMChikzYOuM39yrjb7Dln-wmsT_jCcvVIX-PDQS7gB=w143-h110"
+    },
+    "col_3": {
+      "text": "repsbrothers",
+      "links": [
+        {
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/963128582530?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/798929144098?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/778531217488?inviteCode=29TOTHGNH"
         }
       ]
+    },
+    "col_5": {
+      "text": "76$(SET)"
     },
     "col_6": {
-      "text": "10$"
+      "text": "26$(SET)"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1919558824950284290?action=discord&cid=1840597081113280514"
+          "label": "best",
+          "url": "https://repsbro.x.yupoo.com/albums/205538120?uid=1&isSubCate=false&referrercate=4971729"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923181865122971649?action=discord&cid=1840597081113280514"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 76$ - hoodie 41$ - pants 35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0554"
+  }
 }

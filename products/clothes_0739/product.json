@@ -1,91 +1,78 @@
 {
-  "name": "Essentials8th Season22SSShorts",
+  "name": "Essentials8th Season22SSOpen Leg RelaxedSweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
-  "best_batch_links": [
-    {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F829447326566%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/829447326566?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "Yishan",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "Yishan/FFOG",
   "budget_batch_links": [
     {
       "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F735478280526%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/735478280526?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "22$",
-  "budget_price": "11$",
-  "pics_text": "singor/yishan",
-  "pics_links": [
-    {
-      "label": "singor",
-      "url": "https://steven-1989.x.yupoo.com/albums/173771005?uid=1&isSubCate=false&referrercate=3018541"
+      "url": "https://litbuy.com/product/weidian/922413722160?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/922413722160?inviteCode=29TOTHGNH"
     },
     {
+      "label": "FFOG",
+      "url": "https://litbuy.com/product/weidian/679998329564?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/679998329564?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "yishan/FFOG",
+  "pics_links": [
+    {
       "label": "yishan",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2001842059206545410?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2008778366210101250?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "FFOG",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1922094644483637250?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxB_RhPqxDRdGmxouGUPQ6xFSV0vN10JniPNrE6uardDlPDE7F3isvz0jUxxsI3hiypZN3WZ5sVTcPlhMQJN0KlIZY0_TCjtFWWgRHw1q0ni8vvl91PGcVsOlm1GM3h4s4HgMNPeQYc9mFF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azso4_6gl6nm2xayDL9B1v-tBE-6voWCa-picHTmP4Lb2lJyiH7bKVoz9NFyQYthR-AhUJ5QvYidHiUNJa8Mjvv5CF2hhMLQXewLEUC_d7zwxUcv6cAE4ESV25NOC8I8g00gncLfZ599A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0739",
   "raw_cells": {
     "col_0": {
-      "text": "224"
+      "text": "220"
     },
     "col_1": {
-      "text": "Essentials8th Season22SSShorts"
+      "text": "Essentials8th Season22SSOpen Leg RelaxedSweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxB_RhPqxDRdGmxouGUPQ6xFSV0vN10JniPNrE6uardDlPDE7F3isvz0jUxxsI3hiypZN3WZ5sVTcPlhMQJN0KlIZY0_TCjtFWWgRHw1q0ni8vvl91PGcVsOlm1GM3h4s4HgMNPeQYc9mFF=w143-h110"
-    },
-    "col_3": {
-      "text": "Singor",
-      "links": [
-        {
-          "label": "Singor",
-          "url": "https://oopbuy.com/product/1/829447326566?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azso4_6gl6nm2xayDL9B1v-tBE-6voWCa-picHTmP4Lb2lJyiH7bKVoz9NFyQYthR-AhUJ5QvYidHiUNJa8Mjvv5CF2hhMLQXewLEUC_d7zwxUcv6cAE4ESV25NOC8I8g00gncLfZ599A=w143-h110"
     },
     "col_4": {
-      "text": "Yishan",
+      "text": "Yishan/FFOG",
       "links": [
         {
           "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/735478280526?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_5": {
-      "text": "22$"
-    },
-    "col_6": {
-      "text": "11$"
-    },
-    "col_7": {
-      "text": "singor/yishan",
-      "links": [
-        {
-          "label": "singor",
-          "url": "https://steven-1989.x.yupoo.com/albums/173771005?uid=1&isSubCate=false&referrercate=3018541"
+          "url": "https://oopbuy.com/product/0/922413722160?inviteCode=29TOTHGNH"
         },
         {
-          "label": "yishan",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2001842059206545410?action=discord&type=1&cid=1942512167859859457"
+          "label": "FFOG",
+          "url": "https://oopbuy.com/product/1/679998329564?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_8": {
-      "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwiLBViXbtgzMdLfvZzW8RgChcmrCsLPBIBWiXak29AlmyUhUs5aUetABbbaplBVmrctZk59kr1viu3aleBO5uBX4Y8VxZQZUYntaHLPiQJ4Gn7dX7MTDooFM6IYHqv6yNeMb9QH4VcAg=w456-h110"
+    "col_6": {
+      "text": "15$"
+    },
+    "col_7": {
+      "text": "yishan/FFOG",
+      "links": [
+        {
+          "label": "yishan",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2008778366210101250?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "FFOG",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1922094644483637250?action=discord&cid=1840597081113280514"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0739"
+  }
 }

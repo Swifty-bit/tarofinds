@@ -1,65 +1,65 @@
 {
-  "name": "blue jorts",
+  "name": "\"awakening v2\" denim",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "elephant",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F991639641336%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7556415645?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7556415645?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "18$",
-  "pics_text": "budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://elephant-factory.x.yupoo.com/albums/211118802?uid=1&isSubCate=false&referrercate=5006226"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxfVhS-iJaU6Y8JbeCVeTzvUD-E9nxp02robChoTmDYMAYlfw8eFmWFiMiPuqaTOcMrln466iUCtemtPWQG9fIj40c4ZPd59beyDLyxORvtGAh9sk68IskRP9o_uq-N7uCnMZnIl3RnS3PF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw8gYxfDfhb4vkQDP6mE6V5HUq8THTfYjL1Ji0xO5JtxKFNyUdAw3LD-evC_vmsEtaNdfzI9mUm4xITP9miAyYfyBI6KzHR5UWZtLX5WNzS9pkLmo-wsBrxogW5bBEi67r54tOLK85dzw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0889",
   "raw_cells": {
     "col_0": {
-      "text": "406"
+      "text": "402"
     },
     "col_1": {
-      "text": "blue jorts"
+      "text": "\"awakening v2\" denim"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxfVhS-iJaU6Y8JbeCVeTzvUD-E9nxp02robChoTmDYMAYlfw8eFmWFiMiPuqaTOcMrln466iUCtemtPWQG9fIj40c4ZPd59beyDLyxORvtGAh9sk68IskRP9o_uq-N7uCnMZnIl3RnS3PF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw8gYxfDfhb4vkQDP6mE6V5HUq8THTfYjL1Ji0xO5JtxKFNyUdAw3LD-evC_vmsEtaNdfzI9mUm4xITP9miAyYfyBI6KzHR5UWZtLX5WNzS9pkLmo-wsBrxogW5bBEi67r54tOLK85dzw=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "elephant",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7556415645?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "18$"
+    "col_5": {
+      "text": "30$"
     },
     "col_7": {
-      "text": "budget",
+      "text": "pics",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://elephant-factory.x.yupoo.com/albums/211118802?uid=1&isSubCate=false&referrercate=5006226"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMtSYRRC9E4NBdp9zPz-34DWZjj14ZeYx6zPYwZAcuoykrnMj6ncw-K0UluzOc1BXOks06cUOcMIgBxTs4B1WXnIT3xTMkYkPDITfZ8UL0SifShtpiEkGpg3UuzWQvw6VWoq5-loaVKggG=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWFOS-xpOUJtG_78b_p0CD7qd-fjc0D6LRnZDyGau5iEuo13I3YDW_ZSL_bbO742jVO0_vQdMnhVOzspf9EJ9gQGNrQs0Ht18GL-qaNsbtjyJt3fU_bIKTzdahsnCI2AOeHClYx4hDInUA=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0889"
+  }
 }

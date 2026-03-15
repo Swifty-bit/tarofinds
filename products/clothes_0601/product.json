@@ -1,81 +1,87 @@
 {
-  "name": "Ralph Lauren Long-Sleeved T-Shirt(Different Tag)",
+  "name": "Ralph Lauren T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "CloudShop/budget",
+  "best_batch": "Repkingdom",
+  "best_batch_links": [
+    {
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/taobao/7233221955?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7233221955?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "CloudShop",
   "budget_batch_links": [
     {
       "label": "CloudShop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F746534627739%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/746534627739?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F891761015375%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/891761015375?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/919064369235?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/919064369235?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$ / 5$",
-  "pics_text": "cloudshop/budget",
+  "best_price": "13$",
+  "budget_price": "10$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "cloudshop",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/159885899?uid=1"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1956522257108525058?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1918908452665606146?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "For the budget 5$ link, size up 2",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwxbQDUxP7Kq-hXBMhCNiDnFA-43JJA8DYoEjC5rCSSqD-gGNsuOO5sDnbW7-YUx3iWRYgKE25jDxTqLW4-UGV-K5hxLm9s-BxOXo3jHy5Vq_CrgwgohQWf3tEM5Dv7Q7B_dbFd-F7gpQnF=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-jvH3Wl-J-vdL1VAuYxfCBn9LWLwrmGIw6n5-9MzdNWdYEcrFxOIt1cEXjJku10zXHKp_BDt8S5diH5Qef4SeZcA1YjIWJhmX1DVTbXWC3bialkKc7uV4Hq51MYb95kHDPdU_DZC2ytNn=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0601",
   "raw_cells": {
     "col_0": {
-      "text": "72"
+      "text": "68"
     },
     "col_1": {
-      "text": "Ralph Lauren Long-Sleeved T-Shirt(Different Tag)"
+      "text": "Ralph Lauren T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwxbQDUxP7Kq-hXBMhCNiDnFA-43JJA8DYoEjC5rCSSqD-gGNsuOO5sDnbW7-YUx3iWRYgKE25jDxTqLW4-UGV-K5hxLm9s-BxOXo3jHy5Vq_CrgwgohQWf3tEM5Dv7Q7B_dbFd-F7gpQnF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-jvH3Wl-J-vdL1VAuYxfCBn9LWLwrmGIw6n5-9MzdNWdYEcrFxOIt1cEXjJku10zXHKp_BDt8S5diH5Qef4SeZcA1YjIWJhmX1DVTbXWC3bialkKc7uV4Hq51MYb95kHDPdU_DZC2ytNn=w143-h110"
+    },
+    "col_3": {
+      "text": "Repkingdom",
+      "links": [
+        {
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/7233221955?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
-      "text": "CloudShop/budget",
+      "text": "CloudShop",
       "links": [
         {
           "label": "CloudShop",
-          "url": "https://oopbuy.com/product/1/746534627739?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/891761015375?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/919064369235?inviteCode=29TOTHGNH"
         }
       ]
+    },
+    "col_5": {
+      "text": "13$"
     },
     "col_6": {
-      "text": "15$ / 5$"
+      "text": "10$"
     },
     "col_7": {
-      "text": "cloudshop/budget",
+      "text": "best/budget",
       "links": [
         {
-          "label": "cloudshop",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/159885899?uid=1"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1956522257108525058?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1918908452665606146?action=discord&cid=1840597081113280514"
         }
       ]
-    },
-    "col_8": {
-      "text": "For the budget 5$ link, size up 2"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0601"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "OFFWHITE Hoodie49 Styles",
+  "name": "Travis ScottT-Shirt65 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "budget",
+  "budget_batch": "FFCP",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F727144698597%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/727144698597?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/763450504232?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/763450504232?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "17$",
+  "budget_price": "7$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1916659679763677186?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1936952417931857922?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygvvZenthAdySpR_TBdthRzLz9Hh-otLknNCiBI7Hw9b3zZMuJE0loiJX2ori3LwXxI0W4e6rwTSWND7HmQx9dK1iSIGT0SXBOSqw7JdO4kP7adA3jB-JhVOQvpLDGKjBYB8ojVhFYppi1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_tEO1tifcUPy6HSddHZfVhJkXcI-Prmr9A0x8USUwjIfgeCyde2jhuiPPkAwj75DDIkak3h55T6G1het5w-OzKShFHBQTYQkyCVuNfH7JkmF-hGL3FTMX1--uwwSi9cTIAb0hk1b7lA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0656",
   "raw_cells": {
     "col_0": {
-      "text": "133"
+      "text": "127"
     },
     "col_1": {
-      "text": "OFFWHITE Hoodie49 Styles"
+      "text": "Travis ScottT-Shirt65 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygvvZenthAdySpR_TBdthRzLz9Hh-otLknNCiBI7Hw9b3zZMuJE0loiJX2ori3LwXxI0W4e6rwTSWND7HmQx9dK1iSIGT0SXBOSqw7JdO4kP7adA3jB-JhVOQvpLDGKjBYB8ojVhFYppi1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_tEO1tifcUPy6HSddHZfVhJkXcI-Prmr9A0x8USUwjIfgeCyde2jhuiPPkAwj75DDIkak3h55T6G1het5w-OzKShFHBQTYQkyCVuNfH7JkmF-hGL3FTMX1--uwwSi9cTIAb0hk1b7lA=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "FFCP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/727144698597?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/763450504232?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "17$"
+      "text": "7$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1916659679763677186?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1936952417931857922?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0656"
+  }
 }

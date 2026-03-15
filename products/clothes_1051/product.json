@@ -1,30 +1,30 @@
 {
-  "name": "Hellstar Yoga T-shirt Cream",
+  "name": "HellstarPixelT-Shirt White",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805640542514%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/805640542514?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/805788293277?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805788293277?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/802896750934?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "23$",
+  "best_price": "30$",
   "budget_price": "6$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://pikachushop.x.yupoo.com/albums/147775528?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/163974563?uid=1"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXdmi3WX2DhOPM_bQ0Ro0YCO7U5djcfLIWHXdN1y8oaGLeU7CclTfUfiIIwkrpxw-vK0VpJ3aFO3A5cHh79dQBFMPhF_y5bNTsv_uykRevhpRP1jcN1zAZ8O2hxZWyvJIVW6_oG1_7Br6v=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-VokLIcjDwqDWDCjCZqAjngzQ7Gt4aiba1s0sabSVcd9CmmZfuCUYWGg6dm6GPE4xvpVGzrkeQzXNHfT-ujwOwCusceOLAkyvExlbPChXZ-8kdmXaU0KVZ-Ih2s4YYgTEtFJSKCNBsYfH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1051",
   "raw_cells": {
     "col_0": {
-      "text": "600"
+      "text": "596"
     },
     "col_1": {
-      "text": "Hellstar Yoga T-shirt Cream"
+      "text": "HellstarPixelT-Shirt White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXdmi3WX2DhOPM_bQ0Ro0YCO7U5djcfLIWHXdN1y8oaGLeU7CclTfUfiIIwkrpxw-vK0VpJ3aFO3A5cHh79dQBFMPhF_y5bNTsv_uykRevhpRP1jcN1zAZ8O2hxZWyvJIVW6_oG1_7Br6v=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-VokLIcjDwqDWDCjCZqAjngzQ7Gt4aiba1s0sabSVcd9CmmZfuCUYWGg6dm6GPE4xvpVGzrkeQzXNHfT-ujwOwCusceOLAkyvExlbPChXZ-8kdmXaU0KVZ-Ih2s4YYgTEtFJSKCNBsYfH=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/805640542514?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/805788293277?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,7 +65,7 @@
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "30$"
     },
     "col_6": {
       "text": "6$"
@@ -73,7 +75,7 @@
       "links": [
         {
           "label": "best",
-          "url": "https://pikachushop.x.yupoo.com/albums/147775528?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/163974563?uid=1"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1051"
+  }
 }

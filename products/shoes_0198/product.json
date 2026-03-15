@@ -1,13 +1,13 @@
 {
-  "name": "AMMDiffused Blue(A Ma Maniere)",
+  "name": "AMM Black(A Ma Maniere)",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "OG",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7297925857%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azw_lEvSMoER1y_rK5jGv9GdcfL_h20bSJQc9CJ9Ikv5g97CLUjk_IiA0U_VCpu_z0JmAAqkj1yq0i5xM3ZQGKBrEC-9mamckjyk7IakTqRiZ9pQHoNkdqXVJu1pWPwzBmSo6qqIFjuRmDw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyXP_lBxm9BKBbVg8xgnorQ4wQK9WiKatBAPHpb58TcnVHAai8PtJgXOmJoKPM4sqgoJetZNDTZXBC_Rc8Q3xhPrp-avyCLjpeoUV7jc96c3b3LN52-fRgMKYPRE1hm2K4EWnXGSc5rluNo=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0198",
   "raw_cells": {
     "col_0": {
       "text": "211"
     },
     "col_1": {
-      "text": "AMMDiffused Blue(A Ma Maniere)"
+      "text": "AMM Black(A Ma Maniere)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azw_lEvSMoER1y_rK5jGv9GdcfL_h20bSJQc9CJ9Ikv5g97CLUjk_IiA0U_VCpu_z0JmAAqkj1yq0i5xM3ZQGKBrEC-9mamckjyk7IakTqRiZ9pQHoNkdqXVJu1pWPwzBmSo6qqIFjuRmDw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyXP_lBxm9BKBbVg8xgnorQ4wQK9WiKatBAPHpb58TcnVHAai8PtJgXOmJoKPM4sqgoJetZNDTZXBC_Rc8Q3xhPrp-avyCLjpeoUV7jc96c3b3LN52-fRgMKYPRE1hm2K4EWnXGSc5rluNo=w143-h110"
     },
     "col_3": {
-      "text": "GX",
+      "text": "OG",
       "links": [
         {
-          "label": "GX",
-          "url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "63$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0198"
+  }
 }

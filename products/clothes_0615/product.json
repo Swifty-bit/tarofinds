@@ -1,61 +1,61 @@
 {
-  "name": "Ralph Lauren Zipped Hoodie",
+  "name": "Ralph LaurenHalf-Zip Sweatshirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
+  "best_batch": "CloudShop",
   "best_batch_links": [
     {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6871281425%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6871281425?inviteCode=29TOTHGNH"
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/576627998006?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/576627998006?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "36$",
+  "best_price": "22$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/149783643?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631396255580162?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcAV7BxNMBavgnlvemuwkE532jkAL3S9202Ac8IG38Cnb4OYIi9E0tIcQ-Wqyp7UU1njYU9URkqo3IQHu-OX2CKAn2zgHFtGgTilzTJqVKmXInHQF0emiaquAouRveBIIpWgDjzzjVXAMZ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXra0-U0sz531h4hr1cynHUxfBntRaONYtrypxfYUMnMDuyi-z9Gr-mOBVgMmVj4eeuKB19Y-F5_AAOvXzjN1m7Ro9P10jGxc2T5BYwQhlhe6PZRnMQmWFVAM59jUDv-YJs2De4RkdUQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0615",
   "raw_cells": {
     "col_0": {
-      "text": "86"
+      "text": "82"
     },
     "col_1": {
-      "text": "Ralph Lauren Zipped Hoodie"
+      "text": "Ralph LaurenHalf-Zip Sweatshirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcAV7BxNMBavgnlvemuwkE532jkAL3S9202Ac8IG38Cnb4OYIi9E0tIcQ-Wqyp7UU1njYU9URkqo3IQHu-OX2CKAn2zgHFtGgTilzTJqVKmXInHQF0emiaquAouRveBIIpWgDjzzjVXAMZ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXra0-U0sz531h4hr1cynHUxfBntRaONYtrypxfYUMnMDuyi-z9Gr-mOBVgMmVj4eeuKB19Y-F5_AAOvXzjN1m7Ro9P10jGxc2T5BYwQhlhe6PZRnMQmWFVAM59jUDv-YJs2De4RkdUQ=w143-h110"
     },
     "col_3": {
-      "text": "Repkingdom",
+      "text": "CloudShop",
       "links": [
         {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/weidian/6871281425?inviteCode=29TOTHGNH"
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/576627998006?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "36$"
+      "text": "22$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/149783643?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631396255580162?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0615"
+  }
 }

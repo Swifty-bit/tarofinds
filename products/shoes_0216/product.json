@@ -1,12 +1,12 @@
 {
-  "name": "Military Blue(2024)",
+  "name": "Military Black",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzR7vIbPbhKsNHiomJKYurMHClXARoSVUSO6WY5BEAeeUMrbcAfV2lzuVmjCoIXSTuNpPSdeze6beuUCa1xAjhLeIZlSlJAs_HHeLtApjKFyMgnzJvnH3fdJipjglsFDwHEKRP_v3s9hfqn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AytFVNyEe6A5XtU-K4jvjgWG6HUj6SZAY0uTo9BZglRiQl_ZQcGKkNcUZ07YbmsqB03rLwZnAYAa0ZrwfNqlF8JIq8heteHUR1w3pQJlHS3uax2l9AXWe17w-WeLKhvacgyp_JoXBJ-SlVu=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0216",
   "raw_cells": {
     "col_0": {
       "text": "231"
     },
     "col_1": {
-      "text": "Military Blue(2024)"
+      "text": "Military Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzR7vIbPbhKsNHiomJKYurMHClXARoSVUSO6WY5BEAeeUMrbcAfV2lzuVmjCoIXSTuNpPSdeze6beuUCa1xAjhLeIZlSlJAs_HHeLtApjKFyMgnzJvnH3fdJipjglsFDwHEKRP_v3s9hfqn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AytFVNyEe6A5XtU-K4jvjgWG6HUj6SZAY0uTo9BZglRiQl_ZQcGKkNcUZ07YbmsqB03rLwZnAYAa0ZrwfNqlF8JIq8heteHUR1w3pQJlHS3uax2l9AXWe17w-WeLKhvacgyp_JoXBJ-SlVu=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0216"
+  }
 }

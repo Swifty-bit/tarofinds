@@ -1,33 +1,35 @@
 {
-  "name": "Verdy Visty",
+  "name": "Molly Powerpuff",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "TOP/S2",
   "best_batch_links": [
     {
       "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251543921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251543921?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "61$",
+  "best_price": "47$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJXZfYz6MI2CE1FqVLy69ius0qhbedTRbnJqWkMgOXbv8EbxSqaC9thpBtacaOoxuzqEqwhmSM9pdREY0d_JRSADZYQmdAAzGLeHX7UG97bzRi6TtHJIMdLk4X-gJOFhY7JIbjqL_hNAVt=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxIhXGK9Nn32Um67Vq39eVJzxUW90_JsxEc_mQvoG92LD0k4mKTzK3kStBDzvTN7grvedrxTUW1g7ggpmsFih2FdQMa0C4WGfQJqvLGK8JvGMRGuZf_WoRh4_R3oa3u7abl3rrscAlyS3xA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0132",
   "raw_cells": {
     "col_0": {
       "text": "141"
     },
     "col_1": {
-      "text": "Verdy Visty"
+      "text": "Molly Powerpuff"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJXZfYz6MI2CE1FqVLy69ius0qhbedTRbnJqWkMgOXbv8EbxSqaC9thpBtacaOoxuzqEqwhmSM9pdREY0d_JRSADZYQmdAAzGLeHX7UG97bzRi6TtHJIMdLk4X-gJOFhY7JIbjqL_hNAVt=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxIhXGK9Nn32Um67Vq39eVJzxUW90_JsxEc_mQvoG92LD0k4mKTzK3kStBDzvTN7grvedrxTUW1g7ggpmsFih2FdQMa0C4WGfQJqvLGK8JvGMRGuZf_WoRh4_R3oa3u7abl3rrscAlyS3xA=w143-h110"
     },
     "col_3": {
       "text": "TOP/S2",
@@ -39,9 +41,7 @@
       ]
     },
     "col_5": {
-      "text": "61$"
+      "text": "47$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0132"
+  }
 }

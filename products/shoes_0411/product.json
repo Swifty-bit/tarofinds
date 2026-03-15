@@ -1,65 +1,65 @@
 {
-  "name": "Dior B23 low",
+  "name": "Dior B9",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Kevin",
+  "best_batch": "Alison",
   "best_batch_links": [
     {
-      "label": "Kevin",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F631695846847%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
+      "label": "Alison",
+      "url": "https://litbuy.com/product/weidian/861145414872?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/861145414872?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "FS",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4370246933%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7568136006?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7568136006?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "81$",
-  "budget_price": "62$",
-  "pics_text": "62$",
+  "best_price": "120$",
+  "budget_price": "85$",
+  "pics_text": "85$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1tlx6gbq3r_3k2B4j0kldCWRWvFpGmdzZH3J-rYe7XnvdDMHBTF0Sz3oYKRpfrM2BywlKpoWbuJlbDnd1K6P3TmGRFWZkFb-X2Bj6H6vOJBu7bbCqoLNY3fv-95TLmLI5RMUQzBGtkg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyHMYZLDtYelUVnp9zTYeaHbU9dMGT8BLdO1AfcdBI3lWHeau4uVRPNf3MmZqCG_h2FyaQobCOTDRMSLS1S_DoHgWL2dd48nCrsdRSxPqOZm42_7gX9vg5MaMHjqAyG83bLnGZrf7jzsw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0411",
   "raw_cells": {
     "col_0": {
       "text": "468"
     },
     "col_1": {
-      "text": "Dior B23 low"
+      "text": "Dior B9"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1tlx6gbq3r_3k2B4j0kldCWRWvFpGmdzZH3J-rYe7XnvdDMHBTF0Sz3oYKRpfrM2BywlKpoWbuJlbDnd1K6P3TmGRFWZkFb-X2Bj6H6vOJBu7bbCqoLNY3fv-95TLmLI5RMUQzBGtkg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyHMYZLDtYelUVnp9zTYeaHbU9dMGT8BLdO1AfcdBI3lWHeau4uVRPNf3MmZqCG_h2FyaQobCOTDRMSLS1S_DoHgWL2dd48nCrsdRSxPqOZm42_7gX9vg5MaMHjqAyG83bLnGZrf7jzsw=w143-h110"
     },
     "col_3": {
-      "text": "Kevin",
+      "text": "Alison",
       "links": [
         {
-          "label": "Kevin",
-          "url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
+          "label": "Alison",
+          "url": "https://www.oopbuy.com/product/1/861145414872?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "FS",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7568136006?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "81$"
+      "text": "120$"
     },
     "col_6": {
-      "text": "62$"
+      "text": "85$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0411"
+  }
 }

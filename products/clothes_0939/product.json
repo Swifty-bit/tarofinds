@@ -1,61 +1,61 @@
 {
-  "name": "Syna Trucker CapGrey",
+  "name": "Syna Tracksuits10 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327439979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7327439979?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/736632475800?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "12$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "10$(SET)",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/182810019?uid=1&isSubCate=false&referrercate=4564614"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwN8qhzI08XFWF0fpuXiqMyE9jZlngcHiFrwGpNmz0d_D8Mv-OprVRm5Q3d6rSHqHMWRcbMtgAFbSZXaCDOjg-JC7ZzzvgxxCpzoJANxtVIQz_hP7zTzs40tkCcx7LDTeKbL12dbZeapRs8=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AylDmmZQye6ggQrbXOjnxcirfqwFRYoKNCB39_Q96q7mLD4geHN7cRdIOpTyxbK3YedIsP4MPOfY_CnHjPUylmtpj_DFzH2OELpnxICpE1AJXZd1rnPdZaT6UEnLNHIt7Rsf1puelO56SUM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0939",
   "raw_cells": {
     "col_0": {
-      "text": "466"
+      "text": "462"
     },
     "col_1": {
-      "text": "Syna Trucker CapGrey"
+      "text": "Syna Tracksuits10 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwN8qhzI08XFWF0fpuXiqMyE9jZlngcHiFrwGpNmz0d_D8Mv-OprVRm5Q3d6rSHqHMWRcbMtgAFbSZXaCDOjg-JC7ZzzvgxxCpzoJANxtVIQz_hP7zTzs40tkCcx7LDTeKbL12dbZeapRs8=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AylDmmZQye6ggQrbXOjnxcirfqwFRYoKNCB39_Q96q7mLD4geHN7cRdIOpTyxbK3YedIsP4MPOfY_CnHjPUylmtpj_DFzH2OELpnxICpE1AJXZd1rnPdZaT6UEnLNHIt7Rsf1puelO56SUM=w143-h110"
     },
-    "col_3": {
-      "text": "elephant",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7327439979?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "12$"
+    "col_6": {
+      "text": "10$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/182810019?uid=1&isSubCate=false&referrercate=4564614"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0939"
+  }
 }

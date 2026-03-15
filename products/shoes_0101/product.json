@@ -1,12 +1,12 @@
 {
-  "name": "Supreme 94White Metallic Silver",
+  "name": "Supreme 94Ocean Fog",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "TOP/S2",
   "best_batch_links": [
     {
       "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7592540354%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7592540354?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7592540354?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwjKL2o-V7dyBEpHH8GyEGLBt3PzEEmAiAzJZ4w-gOc_mh7CZ_nOXZ4ox8-ELVWkR7dEDJWEMPBnVKNmrPMi0B-HLkk8ZXCGPMvP2sFC-W-AG6-4e0FT5w62DXT1TWB_F5FVkXHnrKU9jCj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxED5oZo_xOlx-5buYQnnFLXaAJ7GyhYDK_Hg4-GmN4wvnK24UVTx1Jvz-IZXuSf5zn8I4Xr7Co4LDzO0dcNEmoUNOb3al5CbmHKM15vzXeE0Z4kutsvvYDC0uGMAhrplKA_EzMtfwN9qRL=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0101",
   "raw_cells": {
     "col_0": {
       "text": "110"
     },
     "col_1": {
-      "text": "Supreme 94White Metallic Silver"
+      "text": "Supreme 94Ocean Fog"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwjKL2o-V7dyBEpHH8GyEGLBt3PzEEmAiAzJZ4w-gOc_mh7CZ_nOXZ4ox8-ELVWkR7dEDJWEMPBnVKNmrPMi0B-HLkk8ZXCGPMvP2sFC-W-AG6-4e0FT5w62DXT1TWB_F5FVkXHnrKU9jCj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxED5oZo_xOlx-5buYQnnFLXaAJ7GyhYDK_Hg4-GmN4wvnK24UVTx1Jvz-IZXuSf5zn8I4Xr7Co4LDzO0dcNEmoUNOb3al5CbmHKM15vzXeE0Z4kutsvvYDC0uGMAhrplKA_EzMtfwN9qRL=w143-h110"
     },
     "col_3": {
       "text": "TOP/S2",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "57$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0101"
+  }
 }

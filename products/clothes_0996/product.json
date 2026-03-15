@@ -1,61 +1,64 @@
 {
-  "name": "Planet Repair Hoodie",
+  "name": "Escape To The Future SetHoodie and Pants",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7340939458%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7340939458?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7342559286?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7342559286?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "56$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/159646124?uid=1"
+      "url": "https://hotdog-official.x.yupoo.com/albums/151431724?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQj13khKTW3SxabTpUrfpAI56XwNuTWmITZEl3dXuItZjmpxVw9gLnf6Ndk4Wkb_N4gosBLdpOtPoz3VD2_LxYeg9_wv5TM5AwiM6n7xoZuPPg0iBmnoDObhiJGNOCGoGzbg9SV4wzwg=w143-h110",
+  "notes": "set 56$ - hoodie 32$ - pants 24$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxiJ1s4Kb0-dr2yWjn_D_gyRjvSfaUifRciJonGq2cLOYQ8UN5V0Qc6u1RljNBOWiZuPxgLwR7C95x8URWi2fxuLT-8GTVLfyeoEovI5TV_eY2El8cT6USjSLaNWjruUKdfusl7dqu9_Bag=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0996",
   "raw_cells": {
     "col_0": {
-      "text": "533"
+      "text": "529"
     },
     "col_1": {
-      "text": "Planet Repair Hoodie"
+      "text": "Escape To The Future SetHoodie and Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQj13khKTW3SxabTpUrfpAI56XwNuTWmITZEl3dXuItZjmpxVw9gLnf6Ndk4Wkb_N4gosBLdpOtPoz3VD2_LxYeg9_wv5TM5AwiM6n7xoZuPPg0iBmnoDObhiJGNOCGoGzbg9SV4wzwg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxiJ1s4Kb0-dr2yWjn_D_gyRjvSfaUifRciJonGq2cLOYQ8UN5V0Qc6u1RljNBOWiZuPxgLwR7C95x8URWi2fxuLT-8GTVLfyeoEovI5TV_eY2El8cT6USjSLaNWjruUKdfusl7dqu9_Bag=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://www.oopbuy.com/product/weidian/7340939458?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7342559286?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "56$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/159646124?uid=1"
+          "url": "https://hotdog-official.x.yupoo.com/albums/151431724?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 56$ - hoodie 32$ - pants 24$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0996"
+  }
 }

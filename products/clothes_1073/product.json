@@ -1,87 +1,61 @@
 {
-  "name": "MertraGingham Shirt",
+  "name": "HellstarTees and ShortsMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "pengreps",
-  "best_batch_links": [
-    {
-      "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7512716331%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7512716331?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "33TRENTE",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+      "label": "33TRENTE",
+      "url": "https://litbuy.com/product/weidian/716469603346?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/716469603346?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "20$",
+  "best_price": "",
   "budget_price": "15$",
-  "pics_text": "pengreps/budget",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pengreps",
-      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7512716331"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1954712035847135233?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzhLWWL06LXJnBUuCIaWdK8GFpbkdXgspP51nbEKcxbQLIXFn8z0qQERjWPIFD3TlFR_-Ul9r5Irk3Nxv75iUxv1ox_5NASQF3oGMeD0ZKrFU9y4lLt3BhtaLCMJ_HFpsXqPCvbitiLFWB3=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyoMIvOpQ6ZlC1NIRG-F00HE78E8vR0XnOlf1FQL5GT4ailOuS9Wxk4xOmXPouhTwalR1kWzz5WKrKaO5fKm1v_s-IRysS0xXPVVSgXzcJ4CDlP9YHol4RYbwzy20hll6q80okWFcHrpDM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1073",
   "raw_cells": {
     "col_0": {
-      "text": "624"
+      "text": "618"
     },
     "col_1": {
-      "text": "MertraGingham Shirt"
+      "text": "HellstarTees and ShortsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzhLWWL06LXJnBUuCIaWdK8GFpbkdXgspP51nbEKcxbQLIXFn8z0qQERjWPIFD3TlFR_-Ul9r5Irk3Nxv75iUxv1ox_5NASQF3oGMeD0ZKrFU9y4lLt3BhtaLCMJ_HFpsXqPCvbitiLFWB3=w143-h110"
-    },
-    "col_3": {
-      "text": "pengreps",
-      "links": [
-        {
-          "label": "pengreps",
-          "url": "https://oopbuy.com/product/weidian/7512716331?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyoMIvOpQ6ZlC1NIRG-F00HE78E8vR0XnOlf1FQL5GT4ailOuS9Wxk4xOmXPouhTwalR1kWzz5WKrKaO5fKm1v_s-IRysS0xXPVVSgXzcJ4CDlP9YHol4RYbwzy20hll6q80okWFcHrpDM=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "33TRENTE",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+          "label": "33TRENTE",
+          "url": "https://oopbuy.com/product/1/716469603346?inviteCode=29TOTHGNH"
         }
       ]
-    },
-    "col_5": {
-      "text": "20$"
     },
     "col_6": {
       "text": "15$"
     },
     "col_7": {
-      "text": "pengreps/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pengreps",
-          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7512716331"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1954712035847135233?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1073"
+  }
 }

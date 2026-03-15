@@ -1,61 +1,61 @@
 {
-  "name": "Knit SweaterHeater Gray",
+  "name": "Denim Jacket",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7342510584%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7342510584?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7341514581?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7341514581?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "43$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/158110758?uid=1"
+      "url": "https://hotdog-official.x.yupoo.com/albums/158520496?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcyK6SJ8K7ezLTNsa4A-XBuQKPkT13Y-Dr4ssld4nygPGaNIBBH8aU3HcmNvXnABZWpl-7ORCpPNtjzGLu76TRMdVx_YyF37LoyyXilRIm-1BKwdsd0ilq1jEwdr1A7aw1sgsra8yjvg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax1J6gaG3NP2bOVKmbue8jYF5EbxFy1T0H9hW1SE09pDXrb9KQwg7ZYQUAYGAlSEfk2amnpn_GqcAhGfrZceHTgg2zD_ueymaqb2Ate80eJftoW-zkRQCXZO8qO6MhnGoY360J2Npt99uno=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1002",
   "raw_cells": {
     "col_0": {
-      "text": "539"
+      "text": "535"
     },
     "col_1": {
-      "text": "Knit SweaterHeater Gray"
+      "text": "Denim Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcyK6SJ8K7ezLTNsa4A-XBuQKPkT13Y-Dr4ssld4nygPGaNIBBH8aU3HcmNvXnABZWpl-7ORCpPNtjzGLu76TRMdVx_YyF37LoyyXilRIm-1BKwdsd0ilq1jEwdr1A7aw1sgsra8yjvg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax1J6gaG3NP2bOVKmbue8jYF5EbxFy1T0H9hW1SE09pDXrb9KQwg7ZYQUAYGAlSEfk2amnpn_GqcAhGfrZceHTgg2zD_ueymaqb2Ate80eJftoW-zkRQCXZO8qO6MhnGoY360J2Npt99uno=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://www.oopbuy.com/product/weidian/7342510584?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7341514581?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "43$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/158110758?uid=1"
+          "url": "https://hotdog-official.x.yupoo.com/albums/158520496?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1002"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga Destroyed Oil Denim Jeans",
+  "name": "BalenciagaTriple Waisted Sweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "ApexMade",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F916268776650%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/916268776650?inviteCode=29TOTHGNH"
+      "label": "ApexMade",
+      "url": "https://litbuy.com/product/weidian/940387098196?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/940387098196?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "98$",
+  "best_price": "70$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/184858778?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2003291346436182017?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwIjqbU5wmvDCbzkzZpLhr4nXj0D2hKE3dMQXNkcjQOjaDa6KDk0BDTBrhmE1-Z6xanq2voQLUUeWyJexhTT3zA_ksQbuy8uiMepHn1vP36g7qmOGluWlLwTDLbdsc5knYhUD6idOekr_9r=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awg6lc55-PiYOcMDqJAeCcQzRDhOnKksEPBhOOxKy5rkKvvj-GEOgjelAHyOYVOEMyNXWYsXe2KWk1nUKwEov9Q_eGYcluNebqQqJcM_Xqhq2V8klb6XItrXc84f-EX3eEvKDsexNYkp4Uz=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1273",
   "raw_cells": {
     "col_0": {
-      "text": "862"
+      "text": "858"
     },
     "col_1": {
-      "text": "Balenciaga Destroyed Oil Denim Jeans"
+      "text": "BalenciagaTriple Waisted Sweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwIjqbU5wmvDCbzkzZpLhr4nXj0D2hKE3dMQXNkcjQOjaDa6KDk0BDTBrhmE1-Z6xanq2voQLUUeWyJexhTT3zA_ksQbuy8uiMepHn1vP36g7qmOGluWlLwTDLbdsc5knYhUD6idOekr_9r=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awg6lc55-PiYOcMDqJAeCcQzRDhOnKksEPBhOOxKy5rkKvvj-GEOgjelAHyOYVOEMyNXWYsXe2KWk1nUKwEov9Q_eGYcluNebqQqJcM_Xqhq2V8klb6XItrXc84f-EX3eEvKDsexNYkp4Uz=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "ApexMade",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/916268776650?inviteCode=29TOTHGNH"
+          "label": "ApexMade",
+          "url": "https://oopbuy.com/product/1/940387098196?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "98$"
+      "text": "70$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/184858778?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2003291346436182017?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1273"
+  }
 }

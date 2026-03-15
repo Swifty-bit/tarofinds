@@ -1,33 +1,50 @@
 {
-  "name": "Fear Pack (2013)",
+  "name": "Craft Medium Olive",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "RFA",
+  "best_batch_links": [
+    {
+      "label": "RFA",
+      "url": "https://litbuy.com/product/taobao/5791543640?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240378209?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "39$",
-  "pics_text": "39$",
+  "best_price": "66$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzXsgb87TAdr1PR_VoVZbL1zH6-63gEzjgojaxnS3fTee_VX3zVSvg6ZnowpGbP7RwsyH6rgtJChgPPBmhCLXwg8SUnkpP8c_NbRUpF7qd3PGG9DYPJjDtHbK8d6fIsquH7-_Ovmj8xx44H=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyVMyKqpY8XuM2LIHz9CCQx5PevEgKn0C0CfSSRbSqS4ZJh5psHywCoi-RQFWCy7-1KACnM49wOcD6zU8NGnr5y0Q5wuQ3zT-vrZ6FhoftnZkX4KZJq1o4mmpl2wgwL1DYD_dkFZToLNg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0266",
   "raw_cells": {
     "col_0": {
       "text": "281"
     },
     "col_1": {
-      "text": "Fear Pack (2013)"
+      "text": "Craft Medium Olive"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzXsgb87TAdr1PR_VoVZbL1zH6-63gEzjgojaxnS3fTee_VX3zVSvg6ZnowpGbP7RwsyH6rgtJChgPPBmhCLXwg8SUnkpP8c_NbRUpF7qd3PGG9DYPJjDtHbK8d6fIsquH7-_Ovmj8xx44H=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyVMyKqpY8XuM2LIHz9CCQx5PevEgKn0C0CfSSRbSqS4ZJh5psHywCoi-RQFWCy7-1KACnM49wOcD6zU8NGnr5y0Q5wuQ3zT-vrZ6FhoftnZkX4KZJq1o4mmpl2wgwL1DYD_dkFZToLNg=w143-h110"
+    },
+    "col_3": {
+      "text": "RFA",
+      "links": [
+        {
+          "label": "RFA",
+          "url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "KX",
@@ -38,10 +55,11 @@
         }
       ]
     },
+    "col_5": {
+      "text": "66$"
+    },
     "col_6": {
-      "text": "39$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0266"
+  }
 }

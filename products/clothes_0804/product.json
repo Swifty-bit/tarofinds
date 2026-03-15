@@ -1,107 +1,121 @@
 {
-  "name": "VEZERE Short Down Jacket",
+  "name": "Bormes Down Gilet Vest",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "topangels/RepsKing",
   "best_batch_links": [
     {
       "label": "topangels",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F857596630029%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/857596630029?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/745280363675?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/745280363675?inviteCode=29TOTHGNH"
     },
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F933492948581%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/933492948581?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7564573845?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564573845?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "budget/budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7661297566%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7661297566?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "210$ / 119$",
-  "budget_price": "54$",
-  "pics_text": "topangels/repsking/budget",
-  "pics_links": [
-    {
-      "label": "topangels",
-      "url": "https://topangelscn.x.yupoo.com/albums/208603673?uid=1&isSubCate=false&referrercate=5000388"
-    },
-    {
-      "label": "repsking",
-      "url": "https://repscn.x.yupoo.com/albums/164426435?uid=1&isSubCate=false&referrercate=4729926"
+      "url": "https://litbuy.com/product/weidian/937040121893?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/937040121893?inviteCode=29TOTHGNH"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1990246313088864258?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://litbuy.com/product/weidian/945599433988?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/945599433988?inviteCode=29TOTHGNH"
     }
   ],
-  "notes": "topangels use goose downRepsking use duck down",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPEhKUzVsOUpmrfmrwp7dA0q0KOI8X-1wzjyIx_LlKeqKXYfNPJFuX-Wqze7Z77HsQl0bngltsXqT83qI_tbbBkcOD7Up76W895Ogchn6ByS8CqkIOs_cRNDUGo0yKi8TLCuQujTTGTo4t=w143-h110",
+  "best_price": "145$ / 66$",
+  "budget_price": "28$",
+  "pics_text": "topangels/repsking/budget1/budget2",
+  "pics_links": [
+    {
+      "label": "topangels",
+      "url": "https://topangelscn.x.yupoo.com/albums/208613491?uid=1&isSubCate=false&referrercate=5000388"
+    },
+    {
+      "label": "repsking",
+      "url": "https://repsking.x.yupoo.com/albums/163418517?uid=1&isSubCate=false&referrercate=4544589"
+    },
+    {
+      "label": "budget1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1988431861465042946?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1989520705975308289?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7RkYf4-c4l_ix0LWgK6_R-WCDcnWxIHIQeFTP4PQhRxdbzUALyR-mmw0kTg15pKJZn5BzEg90z5pFZBMtvIY3nqSxaeSu6UoAfcd8IFpmWg6ZJerzjuWKXqRziInso4hNdGVtjgvyMklt=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0804",
   "raw_cells": {
     "col_0": {
-      "text": "299"
+      "text": "295"
     },
     "col_1": {
-      "text": "VEZERE Short Down Jacket"
+      "text": "Bormes Down Gilet Vest"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPEhKUzVsOUpmrfmrwp7dA0q0KOI8X-1wzjyIx_LlKeqKXYfNPJFuX-Wqze7Z77HsQl0bngltsXqT83qI_tbbBkcOD7Up76W895Ogchn6ByS8CqkIOs_cRNDUGo0yKi8TLCuQujTTGTo4t=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7RkYf4-c4l_ix0LWgK6_R-WCDcnWxIHIQeFTP4PQhRxdbzUALyR-mmw0kTg15pKJZn5BzEg90z5pFZBMtvIY3nqSxaeSu6UoAfcd8IFpmWg6ZJerzjuWKXqRziInso4hNdGVtjgvyMklt=w143-h110"
     },
     "col_3": {
       "text": "topangels/RepsKing",
       "links": [
         {
           "label": "topangels",
-          "url": "https://oopbuy.com/product/1/857596630029?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/745280363675?inviteCode=29TOTHGNH"
         },
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/1/933492948581?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7564573845?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "budget/budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7661297566?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/937040121893?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/945599433988?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "210$ / 119$"
+      "text": "145$ / 66$"
     },
     "col_6": {
-      "text": "54$"
+      "text": "28$"
     },
     "col_7": {
-      "text": "topangels/repsking/budget",
+      "text": "topangels/repsking/budget1/budget2",
       "links": [
         {
           "label": "topangels",
-          "url": "https://topangelscn.x.yupoo.com/albums/208603673?uid=1&isSubCate=false&referrercate=5000388"
+          "url": "https://topangelscn.x.yupoo.com/albums/208613491?uid=1&isSubCate=false&referrercate=5000388"
         },
         {
           "label": "repsking",
-          "url": "https://repscn.x.yupoo.com/albums/164426435?uid=1&isSubCate=false&referrercate=4729926"
+          "url": "https://repsking.x.yupoo.com/albums/163418517?uid=1&isSubCate=false&referrercate=4544589"
         },
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1990246313088864258?action=discord&type=1&cid=1942512167859859457"
+          "label": "budget1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1988431861465042946?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1989520705975308289?action=discord&type=1&cid=1942512167859859457"
         }
       ]
-    },
-    "col_8": {
-      "text": "topangels use goose downRepsking use duck down"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0804"
+  }
 }

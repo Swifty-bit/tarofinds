@@ -1,33 +1,41 @@
 {
-  "name": "Los AngelesDodgers",
+  "name": "Vintage Navy Blue",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "VT",
+  "budget_batch_links": [
+    {
+      "label": "VT",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "44$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "22$",
+  "pics_text": "22$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awwz553MXTg-Hln6mBpa80qQyGw2rlXheJ9CnucSqbdFeYDofbTGZxgwgWexpPMJic8ctwcxEOgOjRPJUwmPZYE1Cp7mswVv3HUCkHD1ELviZGwdPLqLoNbYs8plNJoI9dKR6NzlTmwQw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwojE631aPozSCqwDHkHwDKcSM_YPSRXG-7cD3G3i7XyAzKTu688Sb4b7UNoGh64Fb7-UeiO92qcjxNteOU2dm5C9HoR6FwZzGY3DNxxilUgGnCjaBX38DhcYYaRVIdyeYDy1FDLLjNuG7v=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0087",
   "raw_cells": {
     "col_0": {
       "text": "96"
     },
     "col_1": {
-      "text": "Los AngelesDodgers"
+      "text": "Vintage Navy Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awwz553MXTg-Hln6mBpa80qQyGw2rlXheJ9CnucSqbdFeYDofbTGZxgwgWexpPMJic8ctwcxEOgOjRPJUwmPZYE1Cp7mswVv3HUCkHD1ELviZGwdPLqLoNbYs8plNJoI9dKR6NzlTmwQw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwojE631aPozSCqwDHkHwDKcSM_YPSRXG-7cD3G3i7XyAzKTu688Sb4b7UNoGh64Fb7-UeiO92qcjxNteOU2dm5C9HoR6FwZzGY3DNxxilUgGnCjaBX38DhcYYaRVIdyeYDy1FDLLjNuG7v=w143-h110"
     },
     "col_3": {
       "text": "M",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "VT",
+      "links": [
+        {
+          "label": "VT",
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "44$"
+    },
+    "col_6": {
+      "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0087"
+  }
 }

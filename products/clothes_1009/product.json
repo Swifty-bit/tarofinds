@@ -1,61 +1,61 @@
 {
-  "name": "6PMLogo T-Shirt",
+  "name": "Outer Space Beanie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342554058%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7342554058?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7341451443?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7341451443?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "9$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/167328181?uid=1&isSubCate=false&referrercate=4589391"
+      "url": "https://hotdog-official.x.yupoo.com/albums/134599375?uid=1&isSubCate=false&referrercate=4098105"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxI0alTHq7AobxeW2SYa4E7qBFPelvakAXzK7x45pfz8X5QFxwJbhuq8REtAksEFWAXGLTu-vMvnVqBydVnyNMzu4-7ELrFbb0XWIT1WiY2Ig2lv1KTkw1tzswRwgGIv9CLp2OPXY-PKbpB=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axruh8Ebyrhf5M7rYvDjKvxRgqvZBLmSSCgti57qLiO1bQGV73Sfn0Hg3ve__ZHk7XW6ffHiqpATq-4LEvkNgIjEntsGpm7_khpDh3KnKiAaEgqmLxr23rgB6MgQtXP-XJx_2Y4kjqb49FD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1009",
   "raw_cells": {
     "col_0": {
-      "text": "550"
+      "text": "542"
     },
     "col_1": {
-      "text": "6PMLogo T-Shirt"
+      "text": "Outer Space Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxI0alTHq7AobxeW2SYa4E7qBFPelvakAXzK7x45pfz8X5QFxwJbhuq8REtAksEFWAXGLTu-vMvnVqBydVnyNMzu4-7ELrFbb0XWIT1WiY2Ig2lv1KTkw1tzswRwgGIv9CLp2OPXY-PKbpB=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axruh8Ebyrhf5M7rYvDjKvxRgqvZBLmSSCgti57qLiO1bQGV73Sfn0Hg3ve__ZHk7XW6ffHiqpATq-4LEvkNgIjEntsGpm7_khpDh3KnKiAaEgqmLxr23rgB6MgQtXP-XJx_2Y4kjqb49FD=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7342554058?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7341451443?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "9$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/167328181?uid=1&isSubCate=false&referrercate=4589391"
+          "url": "https://hotdog-official.x.yupoo.com/albums/134599375?uid=1&isSubCate=false&referrercate=4098105"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1009"
+  }
 }

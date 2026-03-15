@@ -1,61 +1,61 @@
 {
-  "name": "Dior Pouch with Shoulder Strap in Dior Oblique Jacquard",
+  "name": "GoyardCisalpin Backpack4 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "MissChen",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7421514579%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7421514579?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/847015170142?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/847015170142?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "122$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "35$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1932329663415291907?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1993505729825296386?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUvNhUZGNgCuqWiYVcizH_MROByNSm75UZ3a0ti3Dc2eVwj9LlJ0bUlE9wZI2YbyDhqzLwX_NgfgbzO5Mx9DPflLJTr3aD7jy9225JYlfujEcJ5ouklmCyAIcxuA5GL8Dfq1bS06JcM4I6=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzG3eLull3o-j3vbLGPAqcqYGau2xn4Dnp35vyhs1-Pgv58Pfo5LZZGMYfLcsQlinPfJPG7YsxTMc68maPMDbLvHmFpwL9oehEu2V8lW_e5JR0W620czWVEwntmeX2eJEIgBhe0P9hS6g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1527",
   "raw_cells": {
     "col_0": {
-      "text": "33"
+      "text": "29"
     },
     "col_1": {
-      "text": "Dior Pouch with Shoulder Strap in Dior Oblique Jacquard"
+      "text": "GoyardCisalpin Backpack4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUvNhUZGNgCuqWiYVcizH_MROByNSm75UZ3a0ti3Dc2eVwj9LlJ0bUlE9wZI2YbyDhqzLwX_NgfgbzO5Mx9DPflLJTr3aD7jy9225JYlfujEcJ5ouklmCyAIcxuA5GL8Dfq1bS06JcM4I6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzG3eLull3o-j3vbLGPAqcqYGau2xn4Dnp35vyhs1-Pgv58Pfo5LZZGMYfLcsQlinPfJPG7YsxTMc68maPMDbLvHmFpwL9oehEu2V8lW_e5JR0W620czWVEwntmeX2eJEIgBhe0P9hS6g=w143-h110"
     },
-    "col_3": {
-      "text": "MissChen",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/7421514579?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/847015170142?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "122$"
+    "col_6": {
+      "text": "35$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1932329663415291907?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1993505729825296386?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1527"
+  }
 }

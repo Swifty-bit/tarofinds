@@ -1,64 +1,90 @@
 {
-  "name": "Nocta TechTF2023 Black",
+  "name": "Nike TechGrey",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "Husky",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7531193005%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
+      "label": "Husky",
+      "url": "https://litbuy.com/product/weidian/7645159707?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7645159707?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "69$(SET)",
-  "budget_price": "",
-  "pics_text": "DRAGON",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/767458964273?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "78$(SET)",
+  "budget_price": "24$(SET)",
+  "pics_text": "husky/budget",
   "pics_links": [
     {
-      "label": "DRAGON",
-      "url": "https://noghost.x.yupoo.com/albums/190651296?uid=1&isSubCate=false&referrercate=4660873"
+      "label": "husky",
+      "url": "https://huskyreps.x.yupoo.com/albums/221007965?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "set 69$ - hoodie 36$ - pants 33$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDuVfRbXoeMvUtVV6aPDImrB_mOiFJjCLiiMAl3FAjKq26RbrgfdhzCwyNiX91dibVH7rJ8yyunmBtH_IS4kOyK_EqHXMjQaF-illqq2Adxn4fzsS1oyf69Pwe35t2-Ngj4AE0GLwkXw=w143-h110",
+  "notes": "set 67$ - hoodie 40$ - pants 38$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3vDpinFJ17BhEgwr1V8hePaf6bpmcTHwk6LDFH9oqwm-gZIIRBihMGoRLa3daOv15JksYx4_hKHd5yBWQzA42rgJMxLVMraRVL0XRDdpXfom7I8JgoAtuevYj8_SJzXtzysE33W9g5A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0563",
   "raw_cells": {
     "col_0": {
-      "text": "28"
+      "text": "24"
     },
     "col_1": {
-      "text": "Nocta TechTF2023 Black"
+      "text": "Nike TechGrey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDuVfRbXoeMvUtVV6aPDImrB_mOiFJjCLiiMAl3FAjKq26RbrgfdhzCwyNiX91dibVH7rJ8yyunmBtH_IS4kOyK_EqHXMjQaF-illqq2Adxn4fzsS1oyf69Pwe35t2-Ngj4AE0GLwkXw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3vDpinFJ17BhEgwr1V8hePaf6bpmcTHwk6LDFH9oqwm-gZIIRBihMGoRLa3daOv15JksYx4_hKHd5yBWQzA42rgJMxLVMraRVL0XRDdpXfom7I8JgoAtuevYj8_SJzXtzysE33W9g5A=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "Husky",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
+          "label": "Husky",
+          "url": "https://oopbuy.com/product/weidian/7645159707?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "69$(SET)"
+      "text": "78$(SET)"
+    },
+    "col_6": {
+      "text": "24$(SET)"
     },
     "col_7": {
-      "text": "DRAGON",
+      "text": "husky/budget",
       "links": [
         {
-          "label": "DRAGON",
-          "url": "https://noghost.x.yupoo.com/albums/190651296?uid=1&isSubCate=false&referrercate=4660873"
+          "label": "husky",
+          "url": "https://huskyreps.x.yupoo.com/albums/221007965?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
         }
       ]
     },
     "col_8": {
-      "text": "set 69$ - hoodie 36$ - pants 33$"
+      "text": "set 67$ - hoodie 40$ - pants 38$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0563"
+  }
 }

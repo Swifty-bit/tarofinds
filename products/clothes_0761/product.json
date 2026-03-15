@@ -1,87 +1,61 @@
 {
-  "name": "Diagonal Raised Fleece Hoodie5 Colors",
+  "name": "Piquet Striped Collar Polo3 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "CPRepsCN",
   "best_batch_links": [
     {
       "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982415077923%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/982415077923?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/982421821266?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/982421821266?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F756743794908%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "38$",
-  "budget_price": "13$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "18$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://cprepscn.x.yupoo.com/albums/161313208?uid=1&isSubCate=false&referrercate=4543871"
-    },
-    {
-      "label": "budget",
-      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/167557844?uid=1&isSubCate=false&referrercate=4543871"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxBqfZ5twpoDgA9Kj9NcSRAE7I2MGi0zjmWSOji7AZU2dQJEHpBXTCi_LmWGjqEwJfE75IQpsifqbwiNkx2TntH5eMC-mRRr29Ylsi0IC0xt9m-347fL2ndmo4Soq5HeN-ZVvpqBzZI4ayg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwdGQTLJMPdmFfF0JTsaYIx-I_w44WthhkELiRGYBD2VJgK0Wpa1ZSP_EIUhSw5oQbSjcBOXJIv9VfF6q60YMBYtrutpt5kwmEVvRe5N4Emdmjl8LUC_DhGoHisAu4u8MWbMgH2XUBFVGYP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0761",
   "raw_cells": {
     "col_0": {
-      "text": "252"
+      "text": "248"
     },
     "col_1": {
-      "text": "Diagonal Raised Fleece Hoodie5 Colors"
+      "text": "Piquet Striped Collar Polo3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxBqfZ5twpoDgA9Kj9NcSRAE7I2MGi0zjmWSOji7AZU2dQJEHpBXTCi_LmWGjqEwJfE75IQpsifqbwiNkx2TntH5eMC-mRRr29Ylsi0IC0xt9m-347fL2ndmo4Soq5HeN-ZVvpqBzZI4ayg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwdGQTLJMPdmFfF0JTsaYIx-I_w44WthhkELiRGYBD2VJgK0Wpa1ZSP_EIUhSw5oQbSjcBOXJIv9VfF6q60YMBYtrutpt5kwmEVvRe5N4Emdmjl8LUC_DhGoHisAu4u8MWbMgH2XUBFVGYP=w143-h110"
     },
     "col_3": {
       "text": "CPRepsCN",
       "links": [
         {
           "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/982415077923?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/756743794908?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/982421821266?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
-    },
-    "col_6": {
-      "text": "13$"
+      "text": "18$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://cprepscn.x.yupoo.com/albums/161313208?uid=1&isSubCate=false&referrercate=4543871"
-        },
-        {
-          "label": "budget",
-          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/756743794908"
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/167557844?uid=1&isSubCate=false&referrercate=4543871"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0761"
+  }
 }

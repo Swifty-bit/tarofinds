@@ -1,30 +1,30 @@
 {
-  "name": "Hellstar Sport Logo T-Shirt",
+  "name": "Hellstar Studios Cranium T-Shirt Cream",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805640262963%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/805640262963?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/805535611646?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/805535611646?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/802896750934?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "28$",
+  "best_price": "23$",
   "budget_price": "6$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://pikachushop.x.yupoo.com/albums/163974588?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/147014754?uid=1"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9bHDCBZMH5Oxf3Oh6DF0_rqgikI4ihYtycqLq_2oX5ER5iKphgY_KZjFPRk4c1jQbv5N3ZtX7Cs9opsUldNA9oTyzjusqE03mUOM0xknHDH7YfrjYZVhUAcbdzEGE5qt3L8qW7ouC3Jui=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyhuA6JdGEGZZyqhFJoEnQFOwIhCykfnMnZTEImpJnk8V7G1UbNUWHSqN0TgmszAhror47PRohU3JRP3hTEcnFxyjL5VRPOXUX_WNOuQif-NANxeOrm61O1XR3xBMc0rwVMG6IVJsdGxA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1057",
   "raw_cells": {
     "col_0": {
-      "text": "606"
+      "text": "602"
     },
     "col_1": {
-      "text": "Hellstar Sport Logo T-Shirt"
+      "text": "Hellstar Studios Cranium T-Shirt Cream"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9bHDCBZMH5Oxf3Oh6DF0_rqgikI4ihYtycqLq_2oX5ER5iKphgY_KZjFPRk4c1jQbv5N3ZtX7Cs9opsUldNA9oTyzjusqE03mUOM0xknHDH7YfrjYZVhUAcbdzEGE5qt3L8qW7ouC3Jui=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyhuA6JdGEGZZyqhFJoEnQFOwIhCykfnMnZTEImpJnk8V7G1UbNUWHSqN0TgmszAhror47PRohU3JRP3hTEcnFxyjL5VRPOXUX_WNOuQif-NANxeOrm61O1XR3xBMc0rwVMG6IVJsdGxA=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/805640262963?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/805535611646?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,7 +65,7 @@
       ]
     },
     "col_5": {
-      "text": "28$"
+      "text": "23$"
     },
     "col_6": {
       "text": "6$"
@@ -73,7 +75,7 @@
       "links": [
         {
           "label": "best",
-          "url": "https://pikachushop.x.yupoo.com/albums/163974588?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/147014754?uid=1"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1057"
+  }
 }

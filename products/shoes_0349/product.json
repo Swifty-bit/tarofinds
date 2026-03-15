@@ -1,47 +1,50 @@
 {
-  "name": "Air Yeezy 2Red October",
+  "name": "Yeezy Knit RNR",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWTOP",
+  "best_batch": "A1",
   "best_batch_links": [
     {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565901092%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565901092?inviteCode=29TOTHGNH"
+      "label": "A1",
+      "url": "https://litbuy.com/product/weidian/4479628437?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4479628437?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "108$",
+  "best_price": "43$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AypdG0UL3Zeu991zmIoKtOZW52mAInW2pVxpNx1ke_0RS1UaFD09Q2jYjwVGRWWygLkzxHpLxwAtwFFsg1s-AXl4-DoNVEOV0YTZ-wc5PtfT57wAWD2z9NvxQe6XjCbr2hYlaCAfvQhyg5a=w143-h110",
+  "notes": "Size up 1 (knit are smaller)",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRaRiIdoBD2XepSYY_kf8Bky__kfnkWLEnUjza8zvJgmm6ZhDU2VEGY6hYn4IcoUa780suaYBYG_xDDfNNQ4IeUOmvru6AdQzOYmNzdlsrUsAcreZXIgLXeXpXc1fFjjL6EtNIhB3PJEGS=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0349",
   "raw_cells": {
     "col_0": {
       "text": "380"
     },
     "col_1": {
-      "text": "Air Yeezy 2Red October"
+      "text": "Yeezy Knit RNR"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AypdG0UL3Zeu991zmIoKtOZW52mAInW2pVxpNx1ke_0RS1UaFD09Q2jYjwVGRWWygLkzxHpLxwAtwFFsg1s-AXl4-DoNVEOV0YTZ-wc5PtfT57wAWD2z9NvxQe6XjCbr2hYlaCAfvQhyg5a=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRaRiIdoBD2XepSYY_kf8Bky__kfnkWLEnUjza8zvJgmm6ZhDU2VEGY6hYn4IcoUa780suaYBYG_xDDfNNQ4IeUOmvru6AdQzOYmNzdlsrUsAcreZXIgLXeXpXc1fFjjL6EtNIhB3PJEGS=w143-h110"
     },
     "col_3": {
-      "text": "WWTOP",
+      "text": "A1",
       "links": [
         {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7565901092?inviteCode=29TOTHGNH"
+          "label": "A1",
+          "url": "https://oopbuy.com/product/weidian/4479628437?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "108$"
+      "text": "43$"
+    },
+    "col_7": {
+      "text": "Size up 1 (knit are smaller)"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0349"
+  }
 }

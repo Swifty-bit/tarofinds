@@ -1,61 +1,61 @@
 {
-  "name": "GucciZipped Cardigan2 Colors",
+  "name": "BurberryMesh Covers Cap",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "ogwave",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F940682489028%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/940682489028?inviteCode=29TOTHGNH"
+      "label": "ogwave",
+      "url": "https://litbuy.com/product/weidian/7434992192?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7434992192?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "36$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "19$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973575866484613122?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://ogwave.x.yupoo.com/albums/176446395?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AydrV6Z2ha9vEtfXXqrcO7p71IvRH9hArpPLExzW1fx0dUzF7t3qYroCO4Qw7bRKYiQ_1LSVcicwBRhmOiiPesAnjzQRmWdMZ5hIun27iBW6bPessj86xM1wf7X6yKpV_4uPg-3JYRTEj9x=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax0GLurt2YhVxle3KtWQDk2m786TOGdxcKPytYse3pX7JtVGlsd9Ku0nTtJ5BIU2xhIXspMW05SagQCFuD9G8Lioga5KGpPYgxGa5q0sTufrdnfMR_v2Y_tIihLQOfEyaWA5-x1NwJgV3cV=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1416",
   "raw_cells": {
     "col_0": {
-      "text": "1025"
+      "text": "1019"
     },
     "col_1": {
-      "text": "GucciZipped Cardigan2 Colors"
+      "text": "BurberryMesh Covers Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AydrV6Z2ha9vEtfXXqrcO7p71IvRH9hArpPLExzW1fx0dUzF7t3qYroCO4Qw7bRKYiQ_1LSVcicwBRhmOiiPesAnjzQRmWdMZ5hIun27iBW6bPessj86xM1wf7X6yKpV_4uPg-3JYRTEj9x=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax0GLurt2YhVxle3KtWQDk2m786TOGdxcKPytYse3pX7JtVGlsd9Ku0nTtJ5BIU2xhIXspMW05SagQCFuD9G8Lioga5KGpPYgxGa5q0sTufrdnfMR_v2Y_tIihLQOfEyaWA5-x1NwJgV3cV=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "ogwave",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/940682489028?inviteCode=29TOTHGNH"
+          "label": "ogwave",
+          "url": "https://www.oopbuy.com/product/weidian/7434992192?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "36$"
+    "col_5": {
+      "text": "19$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973575866484613122?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://ogwave.x.yupoo.com/albums/176446395?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1416"
+  }
 }

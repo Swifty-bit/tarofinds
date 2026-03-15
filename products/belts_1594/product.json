@@ -1,0 +1,61 @@
+{
+  "name": "Mertra",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/1953253569860135025592?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/1953253569860135025592?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "30$",
+  "budget_price": "",
+  "pics_text": "pics",
+  "pics_links": [
+    {
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/208871567?uid=1&isSubCate=false&referrercate=4906533"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw9uv-6kdYNd07j4K1wVIjLFWnAKq3tJVNfr7wQUU0vOfwmNIvRgNGgyn6UakmtkxDdyQe8fukOcWzdPk1xFbhKY4zN2Sa-wv6JrXFw91hELWtpvJwp6zAGM0wEFvn3gBQU2rJVKEuxQQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1594",
+  "raw_cells": {
+    "col_0": {
+      "text": "51"
+    },
+    "col_1": {
+      "text": "Mertra"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw9uv-6kdYNd07j4K1wVIjLFWnAKq3tJVNfr7wQUU0vOfwmNIvRgNGgyn6UakmtkxDdyQe8fukOcWzdPk1xFbhKY4zN2Sa-wv6JrXFw91hELWtpvJwp6zAGM0wEFvn3gBQU2rJVKEuxQQ=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/1953253569860135025592?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "pics",
+      "links": [
+        {
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/208871567?uid=1&isSubCate=false&referrercate=4906533"
+        }
+      ]
+    }
+  }
+}

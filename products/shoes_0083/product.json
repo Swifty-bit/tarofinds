@@ -1,12 +1,12 @@
 {
-  "name": "Michigan State",
+  "name": "Medium Olive",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyoPLVUlzfnJK9qOyQg911ZPjbT0jywvh5bnAYuG7sdq5QKVqweGwklCvEEBc-uBwvMDeRBgmylLkvQCIVpvOrF9OpPRTduwixikIv7G43E8SPM5pPoOX6KoBqTfBUSOuNN86WweW7v7ZgR=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azj1eVw8LoPvgcsfagRApu_AUjUOVy5fNdn0Lsx0eD0bCjGFWDiGq3_pKcBpQmCVvS_I3NEgnGbirocu05WFzIa5RODJtjINJkkwZSLw4hi8kmuAq4Bco6vO-wRDsgTt5pv7jW3guOcnw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0083",
   "raw_cells": {
     "col_0": {
       "text": "92"
     },
     "col_1": {
-      "text": "Michigan State"
+      "text": "Medium Olive"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyoPLVUlzfnJK9qOyQg911ZPjbT0jywvh5bnAYuG7sdq5QKVqweGwklCvEEBc-uBwvMDeRBgmylLkvQCIVpvOrF9OpPRTduwixikIv7G43E8SPM5pPoOX6KoBqTfBUSOuNN86WweW7v7ZgR=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azj1eVw8LoPvgcsfagRApu_AUjUOVy5fNdn0Lsx0eD0bCjGFWDiGq3_pKcBpQmCVvS_I3NEgnGbirocu05WFzIa5RODJtjINJkkwZSLw4hi8kmuAq4Bco6vO-wRDsgTt5pv7jW3guOcnw=w143-h110"
     },
     "col_3": {
       "text": "M",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "44$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0083"
+  }
 }

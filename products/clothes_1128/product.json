@@ -1,5 +1,5 @@
 {
-  "name": "CASABLANCAT-ShirtMany Styles",
+  "name": "CarsickoTracksuitBlack",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,57 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7431356564%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7431356564?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/764758749251?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "8$",
+  "budget_price": "27$(SET)",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/ali1688/704265368581"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxwG43kzZZo0KRpNXi3ki3vNZXVpBE4oJ2ZcH71b-Q0ZcHL-tZVsHHvwwTQPIIniDE18JaYEq4RMQl0XMy0PcvBQLM4OxS3FHhVPmUUGdq5z4n-MZ6qgStCi0Uk9mpWlwqLXQm6nhls3Ctu=w143-h110",
+  "notes": "set 27$ - top 14$ - bottom 13$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMJciutqa6_9fU_Q4x6y8xWshJL-qdrWwGMWIZg4gQU2nBBC4zPBkn60m8WozeEQmKHcbbojhubClmkZnam1dEtBsb_jYzuXHBZpgYhCojYoREKp_wSI-gAmA3GZ2at_TjF7SZ1ZJF0PM9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1128",
   "raw_cells": {
     "col_0": {
-      "text": "689"
+      "text": "681"
     },
     "col_1": {
-      "text": "CASABLANCAT-ShirtMany Styles"
+      "text": "CarsickoTracksuitBlack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxwG43kzZZo0KRpNXi3ki3vNZXVpBE4oJ2ZcH71b-Q0ZcHL-tZVsHHvwwTQPIIniDE18JaYEq4RMQl0XMy0PcvBQLM4OxS3FHhVPmUUGdq5z4n-MZ6qgStCi0Uk9mpWlwqLXQm6nhls3Ctu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMJciutqa6_9fU_Q4x6y8xWshJL-qdrWwGMWIZg4gQU2nBBC4zPBkn60m8WozeEQmKHcbbojhubClmkZnam1dEtBsb_jYzuXHBZpgYhCojYoREKp_wSI-gAmA3GZ2at_TjF7SZ1ZJF0PM9=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7431356564?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "8$"
+      "text": "27$(SET)"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/ali1688/704265368581"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 27$ - top 14$ - bottom 13$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1128"
+  }
 }

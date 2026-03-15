@@ -1,20 +1,20 @@
 {
-  "name": "BelugaHoodie Onyx/Yellow",
+  "name": "OG WEBHoodieBlack",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F929837250887%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/929837250887?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/930874004236?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/930874004236?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/738347006278?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,28 +24,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/177014539?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/177014420?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azo90UrmGVBOUN5iW-SOlSW1l9VvfFrugaX70fRPL0u9tiD3670huNCahncdwfFgQv2RRdhezisFzMAzWq0asJ3f2CDmZB7t4I6d3S0MEr6X4OHLEeZitCArwqyt6DG86s77KkmweN6SMs8=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aye3VTl1trdQERPkpfDzY7ga8q4MOcAUrXgBLmK-HogKs27Bz1OIcBzM7h1ztfTW1bRccPkclWCvqR6rJxevbLVlD0mhEgl8XUQSx7JLuvL30gtZZf4R-WJ20iW8_26TB5Xbc4metohBg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1323",
   "raw_cells": {
     "col_0": {
-      "text": "918"
+      "text": "914"
     },
     "col_1": {
-      "text": "BelugaHoodie Onyx/Yellow"
+      "text": "OG WEBHoodieBlack"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azo90UrmGVBOUN5iW-SOlSW1l9VvfFrugaX70fRPL0u9tiD3670huNCahncdwfFgQv2RRdhezisFzMAzWq0asJ3f2CDmZB7t4I6d3S0MEr6X4OHLEeZitCArwqyt6DG86s77KkmweN6SMs8=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aye3VTl1trdQERPkpfDzY7ga8q4MOcAUrXgBLmK-HogKs27Bz1OIcBzM7h1ztfTW1bRccPkclWCvqR6rJxevbLVlD0mhEgl8XUQSx7JLuvL30gtZZf4R-WJ20iW8_26TB5Xbc4metohBg=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/929837250887?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/930874004236?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/177014539?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/177014420?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1323"
+  }
 }

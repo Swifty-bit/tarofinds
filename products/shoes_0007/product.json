@@ -6,7 +6,7 @@
   "best_batch_links": [
     {
       "label": "A1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6531496384%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/6531496384?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/6531496384?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "G",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7325694820%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7325694820?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7325694820?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,7 +23,9 @@
   "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyR4JopSkVMAfBFKEFPyzUu6Of_RxpFrocaKkKA4lCg0TAMVzhk8II5QH3vPP6JDr2lo3EjMK2E_-ElXHSQN7WWgyr11ocbW2g2DcxZ7qU0cEuUx4OvieiuaNar2PwU5hdJ0uv8DRa2KFfn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUYosyYTIwef-35mhzIhfKDB3vGw8Tk2LImRnmtU7V-aeOCkn-u76cEEytEQPSpl8UxrIcP3_wfg9DCX8qPUFlOZZy5k2xkiI7YoV84LXfmEa-bWWP_7bLseW9LyAqGiQ5oPrXDR-xJe8V=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0007",
   "raw_cells": {
     "col_0": {
       "text": "14"
@@ -33,7 +35,7 @@
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyR4JopSkVMAfBFKEFPyzUu6Of_RxpFrocaKkKA4lCg0TAMVzhk8II5QH3vPP6JDr2lo3EjMK2E_-ElXHSQN7WWgyr11ocbW2g2DcxZ7qU0cEuUx4OvieiuaNar2PwU5hdJ0uv8DRa2KFfn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUYosyYTIwef-35mhzIhfKDB3vGw8Tk2LImRnmtU7V-aeOCkn-u76cEEytEQPSpl8UxrIcP3_wfg9DCX8qPUFlOZZy5k2xkiI7YoV84LXfmEa-bWWP_7bLseW9LyAqGiQ5oPrXDR-xJe8V=w143-h110"
     },
     "col_3": {
       "text": "A1",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0007"
+  }
 }

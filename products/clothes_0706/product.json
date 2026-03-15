@@ -1,61 +1,78 @@
 {
-  "name": "Gallery DeptLA RIOTT-Shirt",
+  "name": "Gallery Dept T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "tophotfashion/Singor",
   "best_batch_links": [
     {
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/821638759937?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/821638759937?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F766205658585%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/766205658585?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/696263273208?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/696263273208?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "26$ / 16$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "tophot/singor",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1895958248338042882?action=discord&cid=1942512167859859457"
+      "label": "tophot",
+      "url": "https://tophotfashion.x.yupoo.com/albums/170420341?uid=1&isSubCate=false&referrercate=4643937"
+    },
+    {
+      "label": "singor",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1934053720683782146?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxM5qKo1qJKiEnqiWaj4gfNY-9I2FLyg8AvsJm5CRUspCB5LGcHXk8GI_MH0Uw9dLa9fqRo9CfzjnUJLlpZG2yiMy6Ubl18-JFPxU1PFO6X9t5aXClcbKd6G4Q_X3kT=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxPCzAXBePqU5k5r4OlBvyYmuxnMy0F3eqesZ789gA5gO-nwSIhTIs2RLEFk8RaW9jQh78YXqaDvTMN7dumvUYmRsnduVIPGDO3pjC2NAXDoij6kKmym0JAqCdk-pwMSky5CBo9rhup64Pr=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0706",
   "raw_cells": {
     "col_0": {
-      "text": "189"
+      "text": "185"
     },
     "col_1": {
-      "text": "Gallery DeptLA RIOTT-Shirt"
+      "text": "Gallery Dept T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxM5qKo1qJKiEnqiWaj4gfNY-9I2FLyg8AvsJm5CRUspCB5LGcHXk8GI_MH0Uw9dLa9fqRo9CfzjnUJLlpZG2yiMy6Ubl18-JFPxU1PFO6X9t5aXClcbKd6G4Q_X3kT=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxPCzAXBePqU5k5r4OlBvyYmuxnMy0F3eqesZ789gA5gO-nwSIhTIs2RLEFk8RaW9jQh78YXqaDvTMN7dumvUYmRsnduVIPGDO3pjC2NAXDoij6kKmym0JAqCdk-pwMSky5CBo9rhup64Pr=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "tophotfashion/Singor",
       "links": [
         {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/1/821638759937?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/766205658585?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/696263273208?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "26$ / 16$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "tophot/singor",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1895958248338042882?action=discord&cid=1942512167859859457"
+          "label": "tophot",
+          "url": "https://tophotfashion.x.yupoo.com/albums/170420341?uid=1&isSubCate=false&referrercate=4643937"
+        },
+        {
+          "label": "singor",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1934053720683782146?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0706"
+  }
 }

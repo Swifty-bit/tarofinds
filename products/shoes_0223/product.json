@@ -1,20 +1,25 @@
 {
-  "name": "Motorsports",
+  "name": "Fire Red",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "RFA/GX",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6623070951%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6623070951?inviteCode=29TOTHGNH"
+      "label": "RFA",
+      "url": "https://litbuy.com/product/taobao/5791543640?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,24 +28,30 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8GDMoqhKcSH8tIOEUPRlQpjIgHBODD2uVUjQQfRYFdjCk3HT8EiVBYUkvsu-Pm2BBSCdSEn_LTsaxa0FMsBP7VcdS3HmXF3qO-xiq1QbnqAtBA4epe0vUE6_RIoqF0GJbm9xiLAwtLaJy=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5Ms7doEHhtUvuH_JCgEMKf8nrqBJX5tKMqboAu8L6-Rsx5-hX5ZO6LK1ZVsJ_Wmy_9f7-zQYVPR1TGlS8IwFRlbNJ8UPCmfkt7HR_EH9gFvT4Rlp6C1DGzrxwcP6pApQjTNQmGFzlpN3C=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0223",
   "raw_cells": {
     "col_0": {
       "text": "238"
     },
     "col_1": {
-      "text": "Motorsports"
+      "text": "Fire Red"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8GDMoqhKcSH8tIOEUPRlQpjIgHBODD2uVUjQQfRYFdjCk3HT8EiVBYUkvsu-Pm2BBSCdSEn_LTsaxa0FMsBP7VcdS3HmXF3qO-xiq1QbnqAtBA4epe0vUE6_RIoqF0GJbm9xiLAwtLaJy=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5Ms7doEHhtUvuH_JCgEMKf8nrqBJX5tKMqboAu8L6-Rsx5-hX5ZO6LK1ZVsJ_Wmy_9f7-zQYVPR1TGlS8IwFRlbNJ8UPCmfkt7HR_EH9gFvT4Rlp6C1DGzrxwcP6pApQjTNQmGFzlpN3C=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "RFA/GX",
       "links": [
         {
-          "label": "OG",
-          "url": "https://oopbuy.com/product/2/6623070951?inviteCode=29TOTHGNH"
+          "label": "RFA",
+          "url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -59,7 +70,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0223"
+  }
 }

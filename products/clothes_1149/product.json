@@ -1,45 +1,47 @@
 {
-  "name": "Acne StudiosChecked Shirt2 Colors",
+  "name": "Acne StudiosHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "i795",
+  "best_batch": "Topacney",
   "best_batch_links": [
     {
-      "label": "i795",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F798794509657%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/798794509657?inviteCode=29TOTHGNH"
+      "label": "Topacney",
+      "url": "https://litbuy.com/product/weidian/983760309161?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983760309161?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
   "best_price": "44$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://plug4.me/item/798794509657?channel=taobao&platformName=cnfans&discordChannelId=1328470009227378729"
+      "label": "pics",
+      "url": "https://topacney.x.yupoo.com/albums/146008594?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNZCr5jaM6us2bC1ipWPr47k-E60E5sHmZyhWu5ypueK9fTRLN2O96jNF0GW5ZMRpx9k-466YJkXcSOQ7Ohx0yMmmnQNATZ3Thqp6pKuFSkPYcusApssrOdplrVTknslhXBXkSzScYfw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxfGSmNal-inzrUY9gmJnBOIBXG3Zs9HnT2_-KaJ6sk4lWPAcB_6odhnX1RAh8RMFT3XvPqW7c5OqggD8LFEcHPraMQMTvGjmMp6RBnMzqGegu0wyuWkgyyks0TZql2BXglYmdLN9wz0g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1149",
   "raw_cells": {
     "col_0": {
-      "text": "712"
+      "text": "708"
     },
     "col_1": {
-      "text": "Acne StudiosChecked Shirt2 Colors"
+      "text": "Acne StudiosHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNZCr5jaM6us2bC1ipWPr47k-E60E5sHmZyhWu5ypueK9fTRLN2O96jNF0GW5ZMRpx9k-466YJkXcSOQ7Ohx0yMmmnQNATZ3Thqp6pKuFSkPYcusApssrOdplrVTknslhXBXkSzScYfw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxfGSmNal-inzrUY9gmJnBOIBXG3Zs9HnT2_-KaJ6sk4lWPAcB_6odhnX1RAh8RMFT3XvPqW7c5OqggD8LFEcHPraMQMTvGjmMp6RBnMzqGegu0wyuWkgyyks0TZql2BXglYmdLN9wz0g=w143-h110"
     },
     "col_3": {
-      "text": "i795",
+      "text": "Topacney",
       "links": [
         {
-          "label": "i795",
-          "url": "https://oopbuy.com/product/1/798794509657?inviteCode=29TOTHGNH"
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/983760309161?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -47,15 +49,13 @@
       "text": "44$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://plug4.me/item/798794509657?channel=taobao&platformName=cnfans&discordChannelId=1328470009227378729"
+          "label": "pics",
+          "url": "https://topacney.x.yupoo.com/albums/146008594?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1149"
+  }
 }

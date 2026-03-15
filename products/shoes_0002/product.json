@@ -6,7 +6,7 @@
   "best_batch_links": [
     {
       "label": "RFA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7347942592%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7347942592?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7347942592?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,12 +14,12 @@
   "budget_batch_links": [
     {
       "label": "WTG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7359778608%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7359778608?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7359778608?inviteCode=29TOTHGNH"
     },
     {
       "label": "PT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7385722667%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7385722667?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7385722667?inviteCode=29TOTHGNH"
     }
   ],
@@ -28,7 +28,9 @@
   "pics_text": "17$ / 13$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay75wdfI1dv0kViT5parGdl78Fi7Hq_DtUulpdnBRjngNbbxoQSCGprkvvHPF9QHWsl_pDv-5bhs9kBxFIEG0SSbMm_WAbjWaP9LPsSB2Y_z9wZ4LkWDpXltOCK2Gey0kSIrixZQuFvjgrE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJJ_IKkRuySQGQYn8sKKycEmpJD7K2O1EgJELI_sDBLvUrhS1KfFqDEbTGyiKBGAaZOCimNL4WX7ZkbHkoj5qwV3fnIYMKgPYXzL_KAchBYWIfQeVKq1CVRUeav8lDOkgyW7oXhQD9mAHj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0002",
   "raw_cells": {
     "col_0": {
       "text": "9"
@@ -38,7 +40,7 @@
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay75wdfI1dv0kViT5parGdl78Fi7Hq_DtUulpdnBRjngNbbxoQSCGprkvvHPF9QHWsl_pDv-5bhs9kBxFIEG0SSbMm_WAbjWaP9LPsSB2Y_z9wZ4LkWDpXltOCK2Gey0kSIrixZQuFvjgrE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJJ_IKkRuySQGQYn8sKKycEmpJD7K2O1EgJELI_sDBLvUrhS1KfFqDEbTGyiKBGAaZOCimNL4WX7ZkbHkoj5qwV3fnIYMKgPYXzL_KAchBYWIfQeVKq1CVRUeav8lDOkgyW7oXhQD9mAHj=w143-h110"
     },
     "col_3": {
       "text": "RFA",
@@ -68,7 +70,5 @@
     "col_6": {
       "text": "17$ / 13$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0002"
+  }
 }

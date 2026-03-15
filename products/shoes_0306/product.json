@@ -1,13 +1,13 @@
 {
-  "name": "PSG Off Noir",
+  "name": "Wolf Grey",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7233099529%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7233099529?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/weidian/7239346781?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyEYnbxaRr8eL8mSX_pZbodrxN2Ivh9IBzP8ZpdUDpzUTtdiRxcvzTMs5A1XI-SK32kNP9drE2hJSEo8IVjZsIf9aC1dfStOl5N4KK32u3hHImTE6ZHJiY1sMLhBWvJr5Y3cndEplnm7O5B=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az39fbb0NUH6wOSqAo14YXe6plRS2N2GW9IEuWPh_0fgCsdK9Dao4BPJjFO0CTSwa_fJTVtEjpNtvgvLS7I2yvrp2UuxNjDYQMqkRuFSoaMF8KwmXBtWKOXu-xtuqyOYwBgIR_eJZuj9PSd=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0306",
   "raw_cells": {
     "col_0": {
       "text": "323"
     },
     "col_1": {
-      "text": "PSG Off Noir"
+      "text": "Wolf Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyEYnbxaRr8eL8mSX_pZbodrxN2Ivh9IBzP8ZpdUDpzUTtdiRxcvzTMs5A1XI-SK32kNP9drE2hJSEo8IVjZsIf9aC1dfStOl5N4KK32u3hHImTE6ZHJiY1sMLhBWvJr5Y3cndEplnm7O5B=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az39fbb0NUH6wOSqAo14YXe6plRS2N2GW9IEuWPh_0fgCsdK9Dao4BPJjFO0CTSwa_fJTVtEjpNtvgvLS7I2yvrp2UuxNjDYQMqkRuFSoaMF8KwmXBtWKOXu-xtuqyOYwBgIR_eJZuj9PSd=w143-h110"
     },
     "col_3": {
-      "text": "GX",
+      "text": "LJR",
       "links": [
         {
-          "label": "GX",
-          "url": "https://oopbuy.com/product/weidian/7233099529?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0306"
+  }
 }

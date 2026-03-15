@@ -1,38 +1,46 @@
 {
-  "name": "Eric Emanuel x DONDAKanye WestShorts",
+  "name": "Eric EmanuelCamo Shorts3 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792718020125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/792718020125?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "UnionKingdom",
+  "budget_batch_links": [
+    {
+      "label": "UnionKingdom",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "23$",
-  "budget_price": "",
+  "budget_price": "15$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/110911135?uid=1&isSubCate=false&referrercate=3848500"
+      "url": "https://angelking47.x.yupoo.com/albums/140237688?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwHryfq_0Tgq3ZSUsm-7XceheFZAfBCry3AKCTB2nEJ2SHldwCxXxBlCMs4elyHnp5qCtxMFG0Bb2pmgoTb3pwZnZk8NfY5a8-t3WNKCM6BhkWLSjq2kGLf_wZ3snINgKaCER00i8B1UtBL=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzIrHw8HAVLUGdULJ6wgE5goK6Hm5W3qLvnBpkRmp9X7KLFOkYn71XT6w4AP4pMah1gp7fTQwSxUI4rgMd_zIR_9HDfWArMvm2-WWuWE3SQetW9mQbTbjfUrtbDHo-foIsP8N8U4xixymzj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1376",
   "raw_cells": {
     "col_0": {
-      "text": "977"
+      "text": "973"
     },
     "col_1": {
-      "text": "Eric Emanuel x DONDAKanye WestShorts"
+      "text": "Eric EmanuelCamo Shorts3 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwHryfq_0Tgq3ZSUsm-7XceheFZAfBCry3AKCTB2nEJ2SHldwCxXxBlCMs4elyHnp5qCtxMFG0Bb2pmgoTb3pwZnZk8NfY5a8-t3WNKCM6BhkWLSjq2kGLf_wZ3snINgKaCER00i8B1UtBL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzIrHw8HAVLUGdULJ6wgE5goK6Hm5W3qLvnBpkRmp9X7KLFOkYn71XT6w4AP4pMah1gp7fTQwSxUI4rgMd_zIR_9HDfWArMvm2-WWuWE3SQetW9mQbTbjfUrtbDHo-foIsP8N8U4xixymzj=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
@@ -43,19 +51,29 @@
         }
       ]
     },
+    "col_4": {
+      "text": "UnionKingdom",
+      "links": [
+        {
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "23$"
+    },
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/110911135?uid=1&isSubCate=false&referrercate=3848500"
+          "url": "https://angelking47.x.yupoo.com/albums/140237688?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1376"
+  }
 }

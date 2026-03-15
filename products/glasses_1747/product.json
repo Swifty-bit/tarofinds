@@ -1,0 +1,61 @@
+{
+  "name": "Supreme Smith Cariboo OTGSki Goggles",
+  "category": "Glasses",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/576122079394?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/576122079394?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1956159192325771266?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwLgF-7yv1c07yh_ABwGAXnpA5Y_zjp8EIkFoI-ubsSZKdBZJcPLwiCC2fzLb0J_hHqTXmgdyWCFomwmQv1vXQC6vCphbzYONuokxZ_2vJAPusETXSYthpvJMyb-NTSHuI-Ui36YqZXlniI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "glasses_1747",
+  "raw_cells": {
+    "col_0": {
+      "text": "16"
+    },
+    "col_1": {
+      "text": "Supreme Smith Cariboo OTGSki Goggles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwLgF-7yv1c07yh_ABwGAXnpA5Y_zjp8EIkFoI-ubsSZKdBZJcPLwiCC2fzLb0J_hHqTXmgdyWCFomwmQv1vXQC6vCphbzYONuokxZ_2vJAPusETXSYthpvJMyb-NTSHuI-Ui36YqZXlniI=w143-h110"
+    },
+    "col_4": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/1/576122079394?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1956159192325771266?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

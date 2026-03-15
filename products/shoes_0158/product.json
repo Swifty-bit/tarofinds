@@ -1,47 +1,65 @@
 {
-  "name": "ChicagoBlack Toe (2016)",
+  "name": "Lost and Found(Chicago 2022)",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
+  "best_batch": "PK",
   "best_batch_links": [
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5533395980%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/5533395980?inviteCode=29TOTHGNH"
+      "label": "PK",
+      "url": "https://litbuy.com/product/weidian/7565902946?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "71$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "63$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azt4KD2Rg52dbzt73-xfrZe5HOaGoe3SINjYBBvz8ifzu5K-uhsEUSJ5nqFKqCEdYJwx3tCUP0KuqA4IABoDuKYoPakp0P0yGOpDI7wp6xELNEGmFWTPeRS_rBV_yxYCAxR6QiMfM4yZ50A=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxqZp_g7CrirJ0Os8iNdlXbqmhUSVdP3dflGSzSbxK7O-HL8IdFY9EFyrNhi14Z1RtfWZYp8unddziUcAkHMn-IrkILKfgTDVQLqHn82enNiQjLgYuSXsSkZIuaudKLB4SFnujbclfhSg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0158",
   "raw_cells": {
     "col_0": {
       "text": "169"
     },
     "col_1": {
-      "text": "ChicagoBlack Toe (2016)"
+      "text": "Lost and Found(Chicago 2022)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azt4KD2Rg52dbzt73-xfrZe5HOaGoe3SINjYBBvz8ifzu5K-uhsEUSJ5nqFKqCEdYJwx3tCUP0KuqA4IABoDuKYoPakp0P0yGOpDI7wp6xELNEGmFWTPeRS_rBV_yxYCAxR6QiMfM4yZ50A=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxqZp_g7CrirJ0Os8iNdlXbqmhUSVdP3dflGSzSbxK7O-HL8IdFY9EFyrNhi14Z1RtfWZYp8unddziUcAkHMn-IrkILKfgTDVQLqHn82enNiQjLgYuSXsSkZIuaudKLB4SFnujbclfhSg=w143-h110"
     },
     "col_3": {
-      "text": "LJR",
+      "text": "PK",
       "links": [
         {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/weidian/5533395980?inviteCode=29TOTHGNH"
+          "label": "PK",
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "71$"
+      "text": "63$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0158"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Supreme 23FW Hoodie",
+  "name": "Supreme23SS ARABIC LOGO Tee",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TeenageClub",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "TeenageClub",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F759201703167%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/759201703167?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/902718470534?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/902718470534?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "55$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "7$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1874290064228954113?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1948548912741191681?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmVMibWJSeJJRfblWhpmxDEKgZ3F16M_ygJAmFZhOZP5yqFPMCCXWNuhHAn2rLmSX7I6Of1hvuJ1HxBNnMKrPTombzkzBKb-vlgwLpa6Xn86i60MQnHT_AXbtNt1zox3LpobxqD6hZxJcY=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwP9OuXXaMB-fGJnvLMMJGz8Aau32Pt8yUDsQXklLwqw58w3DyUyZqwsdp3TnYJVTVr4bVpEN5HeMRK9G7hE6eIxH5SCfffI-u_IqWKsrUON662hg25qbs7B6Bu-LQ6DvLV_FcQ1gJ-7Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1183",
   "raw_cells": {
     "col_0": {
-      "text": "752"
+      "text": "748"
     },
     "col_1": {
-      "text": "Supreme 23FW Hoodie"
+      "text": "Supreme23SS ARABIC LOGO Tee"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmVMibWJSeJJRfblWhpmxDEKgZ3F16M_ygJAmFZhOZP5yqFPMCCXWNuhHAn2rLmSX7I6Of1hvuJ1HxBNnMKrPTombzkzBKb-vlgwLpa6Xn86i60MQnHT_AXbtNt1zox3LpobxqD6hZxJcY=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwP9OuXXaMB-fGJnvLMMJGz8Aau32Pt8yUDsQXklLwqw58w3DyUyZqwsdp3TnYJVTVr4bVpEN5HeMRK9G7hE6eIxH5SCfffI-u_IqWKsrUON662hg25qbs7B6Bu-LQ6DvLV_FcQ1gJ-7Q=w143-h110"
     },
-    "col_3": {
-      "text": "TeenageClub",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "TeenageClub",
-          "url": "https://oopbuy.com/product/1/759201703167?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/902718470534?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "55$"
+    "col_6": {
+      "text": "7$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1874290064228954113?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1948548912741191681?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1183"
+  }
 }

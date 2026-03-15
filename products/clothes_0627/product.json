@@ -1,61 +1,61 @@
 {
-  "name": "Ralph LaurenWOMANV-Neck T-Shirt10 Colours",
+  "name": "Ralph LaurenSwim Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7227940921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7227940921?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/711622556368?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/711622556368?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "12$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "7$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/156454202?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1890929406513352706?action=discord&cid=1839578945794654209"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzSVN6lizZ9h1ElTViV741pljG08VJXUE1I_iNjcmn4kRFf_k4W2eYjtH8WRxpWY3A-SB8hgfcoYf3H9z2QBVEM2YXqN_Jbf7RwW8TD46ENBm6lVDPeaKEpR7IOwoIzkp1YwN-F6Ofd1Kbn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwFx3zaFm6BBxv6UCv53br0SMfNECB56lYooWwYOV-gBYq9YZ5XCK-EUn7nCL--kqoBfaVZEsVrean8E7AocZEYLRKHKOTTEhe4VGQTePVpJCXESygc7UFtSEmwDCzla-WuYDN-NMjXKPD3=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0627",
   "raw_cells": {
     "col_0": {
-      "text": "98"
+      "text": "94"
     },
     "col_1": {
-      "text": "Ralph LaurenWOMANV-Neck T-Shirt10 Colours"
+      "text": "Ralph LaurenSwim Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzSVN6lizZ9h1ElTViV741pljG08VJXUE1I_iNjcmn4kRFf_k4W2eYjtH8WRxpWY3A-SB8hgfcoYf3H9z2QBVEM2YXqN_Jbf7RwW8TD46ENBm6lVDPeaKEpR7IOwoIzkp1YwN-F6Ofd1Kbn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwFx3zaFm6BBxv6UCv53br0SMfNECB56lYooWwYOV-gBYq9YZ5XCK-EUn7nCL--kqoBfaVZEsVrean8E7AocZEYLRKHKOTTEhe4VGQTePVpJCXESygc7UFtSEmwDCzla-WuYDN-NMjXKPD3=w143-h110"
     },
-    "col_3": {
-      "text": "Repkingdom",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/7227940921?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/711622556368?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "12$"
+    "col_6": {
+      "text": "7$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/156454202?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1890929406513352706?action=discord&cid=1839578945794654209"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0627"
+  }
 }

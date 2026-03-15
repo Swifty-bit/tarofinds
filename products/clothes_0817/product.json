@@ -1,61 +1,69 @@
 {
-  "name": "Moncler Beanie5 Colors",
+  "name": "WOMANPom Wool HatBeanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "RepsKing",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F856448561162%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/856448561162?inviteCode=29TOTHGNH"
+      "label": "RepsKing",
+      "url": "https://litbuy.com/product/weidian/7510693678?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7510693678?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "17$",
+  "budget_price": "",
+  "pics_text": "QC Pics/pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2011323516748648450?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://finds.ly/product/TAOBAO/795118326225"
+    },
+    {
+      "label": "pics",
+      "url": "https://repsking.x.yupoo.com/albums/163420113?uid=1&isSubCate=false&referrercate=4544590"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AykXkp2QB2Wh78Z3mqQD6TwVpLxS0xgHDhhnEq-qJazPm674PFw3VkpnV7VRX5azHinNYLQyNLb0aAucIhyCuwY2A0OMtQHCK_-B-RZLONfmcAdSVhE_oLxpAggeIUFAkYRhYBvNn2WQMw5=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPbmQfEAS3Sq4rLtgAZmzf8y-3H-YjpWKXkwStHjjmlQf4OzI3R154_aITVorP3_KJiHLeFy1V8hGMroECNOREndbt6BtEszIHIp1876V7f1A_v6BLNLe2K8Z3_AMqr2N9svK0SPrNds5z=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0817",
   "raw_cells": {
     "col_0": {
-      "text": "312"
+      "text": "308"
     },
     "col_1": {
-      "text": "Moncler Beanie5 Colors"
+      "text": "WOMANPom Wool HatBeanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AykXkp2QB2Wh78Z3mqQD6TwVpLxS0xgHDhhnEq-qJazPm674PFw3VkpnV7VRX5azHinNYLQyNLb0aAucIhyCuwY2A0OMtQHCK_-B-RZLONfmcAdSVhE_oLxpAggeIUFAkYRhYBvNn2WQMw5=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPbmQfEAS3Sq4rLtgAZmzf8y-3H-YjpWKXkwStHjjmlQf4OzI3R154_aITVorP3_KJiHLeFy1V8hGMroECNOREndbt6BtEszIHIp1876V7f1A_v6BLNLe2K8Z3_AMqr2N9svK0SPrNds5z=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "RepsKing",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/856448561162?inviteCode=29TOTHGNH"
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/weidian/7510693678?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "3$"
+    "col_5": {
+      "text": "17$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "QC Pics/pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2011323516748648450?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://finds.ly/product/TAOBAO/795118326225"
+        },
+        {
+          "label": "pics",
+          "url": "https://repsking.x.yupoo.com/albums/163420113?uid=1&isSubCate=false&referrercate=4544590"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0817"
+  }
 }

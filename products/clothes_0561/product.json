@@ -1,5 +1,5 @@
 {
-  "name": "Nike TechWhite",
+  "name": "Nike TechReflectiveLight Grey",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F767458964273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/860250553214?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/860250553214?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "24$(SET)",
-  "pics_text": "budget",
+  "budget_price": "31$(SET)",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyjHVlS63ThAb0AHCH0jdmZtvjSoqvGLqjvy5Mdj8y05DsM_KJFCeO7f2TEX8ZtEmhxRD5mjf9e8w9kKJSG-1gSkBnmS1PSPAUvr9KARjIdI-jaH9eZfbFVtJFzL_sSCrLY0sBHep4RSQ-M=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqAchiiDGIbVh-9tL51ooYmsQTsOhwlJo-kWJNlk6P-Ii5ltyHUWM2LgWyJu6mPPt8nlGda7r0vuX2ucTW47hwgv6F4Yf6rHzlbu5ns-aGds1Nz8B0YufofIveHlRe-iYNYhvFEtF0sgCr=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0561",
   "raw_cells": {
     "col_0": {
-      "text": "26"
+      "text": "22"
     },
     "col_1": {
-      "text": "Nike TechWhite"
+      "text": "Nike TechReflectiveLight Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyjHVlS63ThAb0AHCH0jdmZtvjSoqvGLqjvy5Mdj8y05DsM_KJFCeO7f2TEX8ZtEmhxRD5mjf9e8w9kKJSG-1gSkBnmS1PSPAUvr9KARjIdI-jaH9eZfbFVtJFzL_sSCrLY0sBHep4RSQ-M=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqAchiiDGIbVh-9tL51ooYmsQTsOhwlJo-kWJNlk6P-Ii5ltyHUWM2LgWyJu6mPPt8nlGda7r0vuX2ucTW47hwgv6F4Yf6rHzlbu5ns-aGds1Nz8B0YufofIveHlRe-iYNYhvFEtF0sgCr=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/860250553214?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "24$(SET)"
+      "text": "31$(SET)"
     },
     "col_7": {
-      "text": "budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0561"
+  }
 }

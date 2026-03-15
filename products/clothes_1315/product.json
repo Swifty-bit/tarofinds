@@ -1,87 +1,61 @@
 {
-  "name": "Bape Shark Head Camouflage Shorts",
+  "name": "Bape x Inter MiamiJersey3 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Lufilo",
   "best_batch_links": [
     {
       "label": "Lufilo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F831660496914%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/831660496914?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/975462768804?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F639804338495%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/639804338495?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "38$",
-  "budget_price": "14$",
-  "pics_text": "lufilo/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "33$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "lufilo",
-      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831660496914"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924269021631397889?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=Miami"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJ4YqXxtKrnPoEMNgsXfwFeWSUUxhWtsJdEsCOxhzu3U9yRvQ9ZMfMwgGzban4pn6JizSJ9yeCMIptnPsMfvmfdVld64CXCf2PgeqegHQ0pV2HCy_rQcI-aQ_Ya5fQyJ9wI-JimIcEODRi=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwSA9KixqiRf6X0lzOpnemZpzLuqsBzM2e_9ar-0SvXAENPmUCxPmSzB3litGn8XZSKgQQKTntfn1vle3CtyeADP2o2x6m2RLZc-k9qA2XQSVbUrQ5I1sGDsvNO7DrajxyKr4duiBymuWQ1=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1315",
   "raw_cells": {
     "col_0": {
-      "text": "908"
+      "text": "904"
     },
     "col_1": {
-      "text": "Bape Shark Head Camouflage Shorts"
+      "text": "Bape x Inter MiamiJersey3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJ4YqXxtKrnPoEMNgsXfwFeWSUUxhWtsJdEsCOxhzu3U9yRvQ9ZMfMwgGzban4pn6JizSJ9yeCMIptnPsMfvmfdVld64CXCf2PgeqegHQ0pV2HCy_rQcI-aQ_Ya5fQyJ9wI-JimIcEODRi=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwSA9KixqiRf6X0lzOpnemZpzLuqsBzM2e_9ar-0SvXAENPmUCxPmSzB3litGn8XZSKgQQKTntfn1vle3CtyeADP2o2x6m2RLZc-k9qA2XQSVbUrQ5I1sGDsvNO7DrajxyKr4duiBymuWQ1=w143-h110"
     },
     "col_3": {
       "text": "Lufilo",
       "links": [
         {
           "label": "Lufilo",
-          "url": "https://oopbuy.com/product/1/831660496914?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/1/639804338495?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
-    },
-    "col_6": {
-      "text": "14$"
+      "text": "33$"
     },
     "col_7": {
-      "text": "lufilo/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "lufilo",
-          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=831660496914"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924269021631397889?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=Miami"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1315"
+  }
 }

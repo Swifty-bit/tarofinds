@@ -1,47 +1,56 @@
 {
-  "name": "Marni Slides",
+  "name": "Ultra Mini Platform Boot",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "FS/here",
   "best_batch_links": [
     {
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7549055256?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F682113946236%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/682113946236?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/6622428433?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6622428433?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "74$",
+  "best_price": "32$ / 39$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyX8ZMKtCKoKysfKlNVt1yOygMlXXuSgIE31lDTtW3uYDriygz5fmDLtO4n_oDMzaFe0BdgzBEb6RUgpjCt4tcj-9dyLxR5spRbR1EOuFKrrYKBolfl1CHCSmiwWNhI0XClbM9uyq-LyQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2YEpPAUtmdjycUBNtwe3uZx6ZNNOiWvNxHisRwb95GxjXtFL3Z4QXdDuNAA2fijiL6qa0rV9_LZiEQJXwCE90kiOIQPUWOlpxVj4JexhVMooeTE9AIY3SzMgTtyvdxRJ3-dtbshcYuQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0524",
   "raw_cells": {
     "col_0": {
-      "text": "635"
+      "text": "633"
     },
     "col_1": {
-      "text": "Marni Slides"
+      "text": "Ultra Mini Platform Boot"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyX8ZMKtCKoKysfKlNVt1yOygMlXXuSgIE31lDTtW3uYDriygz5fmDLtO4n_oDMzaFe0BdgzBEb6RUgpjCt4tcj-9dyLxR5spRbR1EOuFKrrYKBolfl1CHCSmiwWNhI0XClbM9uyq-LyQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2YEpPAUtmdjycUBNtwe3uZx6ZNNOiWvNxHisRwb95GxjXtFL3Z4QXdDuNAA2fijiL6qa0rV9_LZiEQJXwCE90kiOIQPUWOlpxVj4JexhVMooeTE9AIY3SzMgTtyvdxRJ3-dtbshcYuQ=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "FS/here",
       "links": [
         {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "here",
-          "url": "https://www.oopbuy.com/product/1/682113946236?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/6622428433?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "74$"
+      "text": "32$ / 39$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0524"
+  }
 }

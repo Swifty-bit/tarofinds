@@ -1,61 +1,61 @@
 {
-  "name": "Ralph LaurenLong Sleeves POLO4 Colours",
+  "name": "Ralph Lauren Oxford Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
     {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7540036928%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7540036928?inviteCode=29TOTHGNH"
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/559955571476?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/559955571476?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "24$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/208719267?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1892379317356302337?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQ19S34Ez-o0_wb7DiUvk5EI0ZiH3XkTYocrqX0naunXWuuZY35oJ_9fiYwu0unqm83rzfB4v_7gGaKvbOGI6sqpH3c-PkXm5-ZkHlceo9a27-rlWChUKEeP4tD80vihKmgV99FXbTzZ6O=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyOn4QnsmpL_m7T2XYnYovNGG8D9l96lWKRrVNUH0Y-Pvdcrb0f7GRGD6InRF9JGZjoq0Vc__dnoli7UY7ZBSLgUzd5BRkrTs8rWfldCmP_qDWVuCOfZJhr291c6rMRVBKw6Hm1QX-XEP8u=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0608",
   "raw_cells": {
     "col_0": {
-      "text": "79"
+      "text": "75"
     },
     "col_1": {
-      "text": "Ralph LaurenLong Sleeves POLO4 Colours"
+      "text": "Ralph Lauren Oxford Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQ19S34Ez-o0_wb7DiUvk5EI0ZiH3XkTYocrqX0naunXWuuZY35oJ_9fiYwu0unqm83rzfB4v_7gGaKvbOGI6sqpH3c-PkXm5-ZkHlceo9a27-rlWChUKEeP4tD80vihKmgV99FXbTzZ6O=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyOn4QnsmpL_m7T2XYnYovNGG8D9l96lWKRrVNUH0Y-Pvdcrb0f7GRGD6InRF9JGZjoq0Vc__dnoli7UY7ZBSLgUzd5BRkrTs8rWfldCmP_qDWVuCOfZJhr291c6rMRVBKw6Hm1QX-XEP8u=w143-h110"
     },
-    "col_3": {
-      "text": "Repkingdom",
+    "col_4": {
+      "text": "CloudShop",
       "links": [
         {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/weidian/7540036928?inviteCode=29TOTHGNH"
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/559955571476?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "24$"
+    "col_6": {
+      "text": "13$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/208719267?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1892379317356302337?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0608"
+  }
 }

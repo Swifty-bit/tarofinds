@@ -1,61 +1,87 @@
 {
-  "name": "Moose Knuckles Ballistic BomberPuffer Jacket7 Colors",
+  "name": "Canada GooseArctic Disc ToqueBeanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "palmmoose",
+  "best_batch": "TopGoosey",
   "best_batch_links": [
     {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F780411324828%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/780411324828?inviteCode=29TOTHGNH"
+      "label": "TopGoosey",
+      "url": "https://litbuy.com/product/weidian/1005137524072?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1005137524072?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "86$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7233391519?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7233391519?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "30$",
+  "budget_price": "3$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2013122045213233154?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192755455?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2009168955091013634?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxDppEjxZk7gB-0AQC4sykpZCe46JXBS6CmmZPxdxHvREPfgpYyhy8wQwxSTxx6liNEg4XCQdXVSl0X2mj39mG-JWg9d0Y84l-5Hf14oaBkVAYOm3i8A61Qq_H-_loBUfsQiS_YU7pZiw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwKnt64Ky3O13uDDcJmzjErL_KvYrSZK-rgDyxi3b8r4NsffAZmHwzmgIkeNs6NClRkVCZToG_Z02skU7JwalbWNgtIeaIDAH83A5nuCHDZi-M9Pdh4SuzhdKqtbb7u9Y6Lwq0RIbhFmRgi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1484",
   "raw_cells": {
     "col_0": {
-      "text": "1107"
+      "text": "1101"
     },
     "col_1": {
-      "text": "Moose Knuckles Ballistic BomberPuffer Jacket7 Colors"
+      "text": "Canada GooseArctic Disc ToqueBeanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxDppEjxZk7gB-0AQC4sykpZCe46JXBS6CmmZPxdxHvREPfgpYyhy8wQwxSTxx6liNEg4XCQdXVSl0X2mj39mG-JWg9d0Y84l-5Hf14oaBkVAYOm3i8A61Qq_H-_loBUfsQiS_YU7pZiw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwKnt64Ky3O13uDDcJmzjErL_KvYrSZK-rgDyxi3b8r4NsffAZmHwzmgIkeNs6NClRkVCZToG_Z02skU7JwalbWNgtIeaIDAH83A5nuCHDZi-M9Pdh4SuzhdKqtbb7u9Y6Lwq0RIbhFmRgi=w143-h110"
     },
     "col_3": {
-      "text": "palmmoose",
+      "text": "TopGoosey",
       "links": [
         {
-          "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/780411324828?inviteCode=29TOTHGNH"
+          "label": "TopGoosey",
+          "url": "https://oopbuy.com/product/1/1005137524072?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7233391519?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "86$"
+      "text": "30$"
+    },
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2013122045213233154?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192755455?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2009168955091013634?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1484"
+  }
 }

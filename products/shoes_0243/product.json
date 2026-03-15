@@ -1,35 +1,65 @@
 {
-  "name": "Tiffany",
+  "name": "Blue Thunder",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "-",
-  "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "-",
-  "budget_price": "",
-  "pics_text": "",
+  "best_batch": "ZX",
+  "best_batch_links": [
+    {
+      "label": "ZX",
+      "url": "https://litbuy.com/product/weidian/7312363719?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7312363719?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "KX2.0",
+  "budget_batch_links": [
+    {
+      "label": "KX2.0",
+      "url": "https://litbuy.com/product/taobao/7249836913?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "65$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxHhs2Cu-dncsw-phUAJcVS16v5e0uiPErAWrONcrFCjKAyctfXhEkSzNL0CpP25lcySGSh2o5J-OU46WG5EERPu0NR3BHatu9T2wbP8HHR4B8aKn-GUeSHEmOk2IGqj963zSyUwS8l_ZP2=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzOh3nAw96JY_w-tcVtvsOMb46fS4Yp4xLybQByTlzbGAxv1YHZXkEKUKG3QuH_RXLfmlheRhhTTJYLyBeLZtmqw5V2Lzjm6_BEk17UPmn34w3Epip0afH2I-6tdm5G8xC7GAtVunzZaJsl=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0243",
   "raw_cells": {
     "col_0": {
       "text": "258"
     },
     "col_1": {
-      "text": "Tiffany"
+      "text": "Blue Thunder"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxHhs2Cu-dncsw-phUAJcVS16v5e0uiPErAWrONcrFCjKAyctfXhEkSzNL0CpP25lcySGSh2o5J-OU46WG5EERPu0NR3BHatu9T2wbP8HHR4B8aKn-GUeSHEmOk2IGqj963zSyUwS8l_ZP2=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzOh3nAw96JY_w-tcVtvsOMb46fS4Yp4xLybQByTlzbGAxv1YHZXkEKUKG3QuH_RXLfmlheRhhTTJYLyBeLZtmqw5V2Lzjm6_BEk17UPmn34w3Epip0afH2I-6tdm5G8xC7GAtVunzZaJsl=w143-h110"
     },
     "col_3": {
-      "text": "-"
+      "text": "ZX",
+      "links": [
+        {
+          "label": "ZX",
+          "url": "https://oopbuy.com/product/weidian/7312363719?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "KX2.0",
+      "links": [
+        {
+          "label": "KX2.0",
+          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "-"
+      "text": "65$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0243"
+  }
 }

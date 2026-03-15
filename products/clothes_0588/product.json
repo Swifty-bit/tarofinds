@@ -1,61 +1,61 @@
 {
-  "name": "StussySURFWALK Crewneck",
+  "name": "Stussy8-Ball T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Chaosmade",
   "best_batch_links": [
     {
       "label": "Chaosmade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7283428350%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7283428350?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7247494807?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7247494807?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "21$",
+  "best_price": "15$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://chaosmade.x.yupoo.com/albums/176655602?uid=1&isSubCate=false&referrercate=3536981"
+      "url": "https://chaosmade.x.yupoo.com/albums/168608903?uid=1&isSubCate=false&referrercate=3536981"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzHEi0XJsy-Fixz8AkrfhW7osMBsmX5YllYnLSgYKWcx36hvFXh_FFoKuvq9kCtU2xYVZMzi0QGIIm-VY0uF8i57Yi8RRD-SzKZAJxf6mz1zwaY6CjCERwITuk1W5PJJPiD337JAA6Od1pI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0kLcd7ItpVdZe6oRjL0E1NDOuV27BB4R0R2tyJEGx8KXmr-j_DfHcxKHGEGuFhDb91DdGUbd2EObOT7yG113cjm0KPCHXCsh4DRph6T1vA0FLViJvk8j9UuDYea2EBUiuUaUdU_5Rx3R7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0588",
   "raw_cells": {
     "col_0": {
-      "text": "57"
+      "text": "53"
     },
     "col_1": {
-      "text": "StussySURFWALK Crewneck"
+      "text": "Stussy8-Ball T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzHEi0XJsy-Fixz8AkrfhW7osMBsmX5YllYnLSgYKWcx36hvFXh_FFoKuvq9kCtU2xYVZMzi0QGIIm-VY0uF8i57Yi8RRD-SzKZAJxf6mz1zwaY6CjCERwITuk1W5PJJPiD337JAA6Od1pI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0kLcd7ItpVdZe6oRjL0E1NDOuV27BB4R0R2tyJEGx8KXmr-j_DfHcxKHGEGuFhDb91DdGUbd2EObOT7yG113cjm0KPCHXCsh4DRph6T1vA0FLViJvk8j9UuDYea2EBUiuUaUdU_5Rx3R7=w143-h110"
     },
     "col_3": {
       "text": "Chaosmade",
       "links": [
         {
           "label": "Chaosmade",
-          "url": "https://www.oopbuy.com/product/weidian/7283428350?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7247494807?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "21$"
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://chaosmade.x.yupoo.com/albums/176655602?uid=1&isSubCate=false&referrercate=3536981"
+          "url": "https://chaosmade.x.yupoo.com/albums/168608903?uid=1&isSubCate=false&referrercate=3536981"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0588"
+  }
 }

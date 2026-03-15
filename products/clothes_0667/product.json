@@ -1,61 +1,87 @@
 {
-  "name": "Corteiz AlcatrazFull printT-Shirt",
+  "name": "Corteiz Timebomb TeeWhite",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653846961%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653846961?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656884072?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656884072?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "13$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/817436479234?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "12$",
+  "budget_price": "7$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official.x.yupoo.com/albums/133528510?uid=1"
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/145612356?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFPNR3PXt4NFT7asLCzVvy3bnH4UGo1e3-19uN2u8ooDUXE-NAURD5AlWkmqms_K-czbg5bmd5sQCRLi92Zgn2edEUvbVojyTZwrvi4lRi7FEA8kTIaqbJrE2Vie4hrFrQpo4WH5fyQg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyynR2yvGUv8hLHoVD4dH7T_m7k6JStnLMa8Vo-WMhoXWyAeLadI9rWRu_GABqgjQGqBal1X2rOw2UaYXDEFFw-9gxf8VSMOixVCAALHBJiVtiG3FHahJnOFrRb3XfR1b7vwOL4Fe_4CYDP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0667",
   "raw_cells": {
     "col_0": {
-      "text": "148"
+      "text": "144"
     },
     "col_1": {
-      "text": "Corteiz AlcatrazFull printT-Shirt"
+      "text": "Corteiz Timebomb TeeWhite"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFPNR3PXt4NFT7asLCzVvy3bnH4UGo1e3-19uN2u8ooDUXE-NAURD5AlWkmqms_K-czbg5bmd5sQCRLi92Zgn2edEUvbVojyTZwrvi4lRi7FEA8kTIaqbJrE2Vie4hrFrQpo4WH5fyQg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyynR2yvGUv8hLHoVD4dH7T_m7k6JStnLMa8Vo-WMhoXWyAeLadI9rWRu_GABqgjQGqBal1X2rOw2UaYXDEFFw-9gxf8VSMOixVCAALHBJiVtiG3FHahJnOFrRb3XfR1b7vwOL4Fe_4CYDP=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653846961?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656884072?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "12$"
+    },
+    "col_6": {
+      "text": "7$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official.x.yupoo.com/albums/133528510?uid=1"
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/145612356?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0667"
+  }
 }

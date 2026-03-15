@@ -1,65 +1,56 @@
 {
-  "name": "Air Jordan 1 LowDior",
+  "name": "Air Jordan 1 Low",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LW",
+  "best_batch": "DT/DT",
   "best_batch_links": [
     {
-      "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240575804%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240575804?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "R1",
-  "budget_batch_links": [
+      "label": "DT",
+      "url": "https://litbuy.com/product/weidian/7563997069?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563997069?inviteCode=29TOTHGNH"
+    },
     {
-      "label": "R1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7574426686%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7574426686?inviteCode=29TOTHGNH"
+      "label": "DT",
+      "url": "https://litbuy.com/product/taobao/7327983224?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327983224?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "126$",
-  "budget_price": "32$",
-  "pics_text": "32$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEI-Pibsy2SdMWqbrpVLmhtMTOBlb8-AEovdTqCVf64DmIlBk6dnLp023n5uyQnoLMYRFLp-6xxDqbJihBs0lnntdaLGQmxhBynjwXtjzK7s8rgf_VhwnZ3VqmWdnZSVJtHS6rL8cnjX2w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyAtQaekfNRPnKqbC0uvgULitUNvhjT0ixSG93mj8_1wKUo4UFsbTos8oLhPVP2dxEu3YBZQ6h6qpDUv0zxt0o3YW4Alcx-DWJk_8pY0ZNEbsE5nLt0TMU3DAqu8Xyy-X8U-Y8t2ZWg9Tsu=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0137",
   "raw_cells": {
     "col_0": {
       "text": "148"
     },
     "col_1": {
-      "text": "Air Jordan 1 LowDior"
+      "text": "Air Jordan 1 Low"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEI-Pibsy2SdMWqbrpVLmhtMTOBlb8-AEovdTqCVf64DmIlBk6dnLp023n5uyQnoLMYRFLp-6xxDqbJihBs0lnntdaLGQmxhBynjwXtjzK7s8rgf_VhwnZ3VqmWdnZSVJtHS6rL8cnjX2w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyAtQaekfNRPnKqbC0uvgULitUNvhjT0ixSG93mj8_1wKUo4UFsbTos8oLhPVP2dxEu3YBZQ6h6qpDUv0zxt0o3YW4Alcx-DWJk_8pY0ZNEbsE5nLt0TMU3DAqu8Xyy-X8U-Y8t2ZWg9Tsu=w143-h110"
     },
     "col_3": {
-      "text": "LW",
+      "text": "DT/DT",
       "links": [
         {
-          "label": "LW",
-          "url": "https://oopbuy.com/product/2/7240575804?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "R1",
-      "links": [
+          "label": "DT",
+          "url": "https://oopbuy.com/product/weidian/7563997069?inviteCode=29TOTHGNH"
+        },
         {
-          "label": "R1",
-          "url": "https://oopbuy.com/product/weidian/7574426686?inviteCode=29TOTHGNH"
+          "label": "DT",
+          "url": "https://oopbuy.com/product/2/7327983224?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "126$"
-    },
-    "col_6": {
       "text": "32$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0137"
+  }
 }

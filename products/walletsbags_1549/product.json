@@ -1,0 +1,61 @@
+{
+  "name": "EssentialTravel Mini Bag",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/844023126654?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/844023126654?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "5$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1971761888594845698?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyF39xTlN8SWfe5rVtdP-OxCV6Wo5roOtMHEnvYt0lMv8JkVouwoLhSPPdFT-Eq8y38va92IgR28WVlcJmTMwaTcSwR2gZaBuhTdyrKwjv1KpzQ1gU85ynv_TaKsjZs3af3vKiQ_he382sx=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1549",
+  "raw_cells": {
+    "col_0": {
+      "text": "51"
+    },
+    "col_1": {
+      "text": "EssentialTravel Mini Bag"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyF39xTlN8SWfe5rVtdP-OxCV6Wo5roOtMHEnvYt0lMv8JkVouwoLhSPPdFT-Eq8y38va92IgR28WVlcJmTMwaTcSwR2gZaBuhTdyrKwjv1KpzQ1gU85ynv_TaKsjZs3af3vKiQ_he382sx=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/844023126654?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "5$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1971761888594845698?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

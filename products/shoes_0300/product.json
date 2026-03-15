@@ -1,13 +1,13 @@
 {
-  "name": "Tokyo T23(454783-701)",
+  "name": "Wings (2025)",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
+  "best_batch": "PK",
   "best_batch_links": [
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7239346781%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+      "label": "PK",
+      "url": "https://litbuy.com/product/weidian/7564001027?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564001027?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyWKlnsaOV8RwEuXrH-JjumnfZZhb2MNjuzz2tfAre5yjkNqAPmp6xe1Q6Fi7VWWy1chMwihEiOUNrlK48rbx5y4I_PutM3qyl8Dg-dPFHfm8Mnn_5N764zkOUoomu_a8pqD6B7VYZ2gw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmBGcbfB_bi8WcXlnoJVcMg7CGMy1hyZa6e8sCfDcJ8-2Y9DCTsnPAo_qUj4iHDHCZL5HHUeGBxDSvGpp4jExADIsikvPNrXEbFIXwRUuqOONhAmSdx_V4NM9hiX5LrNeGZ2V2_djh3RlG=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0300",
   "raw_cells": {
     "col_0": {
       "text": "317"
     },
     "col_1": {
-      "text": "Tokyo T23(454783-701)"
+      "text": "Wings (2025)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWKlnsaOV8RwEuXrH-JjumnfZZhb2MNjuzz2tfAre5yjkNqAPmp6xe1Q6Fi7VWWy1chMwihEiOUNrlK48rbx5y4I_PutM3qyl8Dg-dPFHfm8Mnn_5N764zkOUoomu_a8pqD6B7VYZ2gw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmBGcbfB_bi8WcXlnoJVcMg7CGMy1hyZa6e8sCfDcJ8-2Y9DCTsnPAo_qUj4iHDHCZL5HHUeGBxDSvGpp4jExADIsikvPNrXEbFIXwRUuqOONhAmSdx_V4NM9hiX5LrNeGZ2V2_djh3RlG=w143-h110"
     },
     "col_3": {
-      "text": "LJR",
+      "text": "PK",
       "links": [
         {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+          "label": "PK",
+          "url": "https://oopbuy.com/product/weidian/7564001027?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0300"
+  }
 }

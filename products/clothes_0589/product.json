@@ -1,61 +1,61 @@
 {
-  "name": "StussyxCPFMHoodie",
+  "name": "StussyRegal Crown T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PikaPikaGo",
+  "best_batch": "Chaosmade",
   "best_batch_links": [
     {
-      "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F823340876705%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/823340876705?inviteCode=29TOTHGNH"
+      "label": "Chaosmade",
+      "url": "https://litbuy.com/product/taobao/7248371252?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7248371252?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "22$",
+  "best_price": "15$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/156255838?uid=1&isSubCate=false&referrercate=4066351"
+      "url": "https://chaosmade.x.yupoo.com/albums/168609018?uid=1&isSubCate=false&referrercate=3536981"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxC8aaI32yybHnxnDg9TE1f3NrdsqP3gTU4LR8F5Fjn7enHdzQoGyv0472IsQ73j39XduBwobCXCDJbBNhAfEJvkdXFtVzKgPUWAHjBtSbeQIWBBuM_fLIsr4JljKVnP71E5lYa1W_f32M4=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awc9OND4XleHeGefUVfdxOkRHXc_EV_HeMRF_uiaY9RQOQEIXn3iRxL77QX9qJFglfmOOmPxEXpPGNYWrGcrULyALg1iJoIXf-dP-f_KfnNPEatwAOyfp1-vAy2karT0SyDBAFkWeKLuqgR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0589",
   "raw_cells": {
     "col_0": {
-      "text": "58"
+      "text": "54"
     },
     "col_1": {
-      "text": "StussyxCPFMHoodie"
+      "text": "StussyRegal Crown T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxC8aaI32yybHnxnDg9TE1f3NrdsqP3gTU4LR8F5Fjn7enHdzQoGyv0472IsQ73j39XduBwobCXCDJbBNhAfEJvkdXFtVzKgPUWAHjBtSbeQIWBBuM_fLIsr4JljKVnP71E5lYa1W_f32M4=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awc9OND4XleHeGefUVfdxOkRHXc_EV_HeMRF_uiaY9RQOQEIXn3iRxL77QX9qJFglfmOOmPxEXpPGNYWrGcrULyALg1iJoIXf-dP-f_KfnNPEatwAOyfp1-vAy2karT0SyDBAFkWeKLuqgR=w143-h110"
     },
     "col_3": {
-      "text": "PikaPikaGo",
+      "text": "Chaosmade",
       "links": [
         {
-          "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/823340876705?inviteCode=29TOTHGNH"
+          "label": "Chaosmade",
+          "url": "https://oopbuy.com/product/2/7248371252?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/156255838?uid=1&isSubCate=false&referrercate=4066351"
+          "url": "https://chaosmade.x.yupoo.com/albums/168609018?uid=1&isSubCate=false&referrercate=3536981"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0589"
+  }
 }

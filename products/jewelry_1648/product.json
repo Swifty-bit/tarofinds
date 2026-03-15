@@ -1,0 +1,47 @@
+{
+  "name": "GucciBracelet / Necklace",
+  "category": "Jewelry",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/taobao/7267590550?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7267590550?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$ / 71$",
+  "budget_price": "",
+  "pics_text": "",
+  "pics_links": [],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwD08qUghIJZt3_fLIAM2XumAeQ7ssvNr9NHp83NnaC_UGJavDQIXAcU_qrufwHk9lMaJtduuP_Fp0QZ74SZKW3hkVqoRtV7XofzVrPb4oKwTZDL6CQmgxPhXu7xadm8maGlS8MrLlqr66g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1648",
+  "raw_cells": {
+    "col_0": {
+      "text": "57"
+    },
+    "col_1": {
+      "text": "GucciBracelet / Necklace"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwD08qUghIJZt3_fLIAM2XumAeQ7ssvNr9NHp83NnaC_UGJavDQIXAcU_qrufwHk9lMaJtduuP_Fp0QZ74SZKW3hkVqoRtV7XofzVrPb4oKwTZDL6CQmgxPhXu7xadm8maGlS8MrLlqr66g=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/2/7267590550?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "36$ / 71$"
+    }
+  }
+}

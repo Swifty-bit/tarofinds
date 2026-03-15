@@ -1,61 +1,61 @@
 {
-  "name": "Nike Elite",
+  "name": "LacosteShoulder Bag3 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "FrenchFish",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F2225747304%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/2225747304?inviteCode=29TOTHGNH"
+      "label": "FrenchFish",
+      "url": "https://litbuy.com/product/weidian/7427906429?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7427906429?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "34$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574392350334977?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1953623292079857666?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMfOVR3-OswLZrapZLcFLniNpjxdouv3qC1ZbIcil7yiXGD7MYOFDjOFTHMDb4mcng0PHx1hQUtWSbnE7mfI98VtId7VGE2fdCUv-7YFyyRNKqrmlxtBCS9wiy42BXOkLBFGnGgqtxmQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay5HSx65xuhUEwuNpdtnrEClqE8lcmn-M6cTmOdUBfCxLzbD63OKAYWmB9IoIOqeSXZ2rL97scAbSJlbMLqvDa_u2nXvm7_csoUZSaHnt18odYg7bu2DXFxy-x8myS66d_PwZzOMhd1aEqF=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1541",
   "raw_cells": {
     "col_0": {
-      "text": "47"
+      "text": "43"
     },
     "col_1": {
-      "text": "Nike Elite"
+      "text": "LacosteShoulder Bag3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMfOVR3-OswLZrapZLcFLniNpjxdouv3qC1ZbIcil7yiXGD7MYOFDjOFTHMDb4mcng0PHx1hQUtWSbnE7mfI98VtId7VGE2fdCUv-7YFyyRNKqrmlxtBCS9wiy42BXOkLBFGnGgqtxmQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay5HSx65xuhUEwuNpdtnrEClqE8lcmn-M6cTmOdUBfCxLzbD63OKAYWmB9IoIOqeSXZ2rL97scAbSJlbMLqvDa_u2nXvm7_csoUZSaHnt18odYg7bu2DXFxy-x8myS66d_PwZzOMhd1aEqF=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "FrenchFish",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/2/2225747304?inviteCode=29TOTHGNH"
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7427906429?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "15$"
+    "col_5": {
+      "text": "34$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574392350334977?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1953623292079857666?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1541"
+  }
 }

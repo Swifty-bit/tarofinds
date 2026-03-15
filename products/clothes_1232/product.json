@@ -1,61 +1,47 @@
 {
-  "name": "EvisuxPALACEKnit Sweater",
+  "name": "True ReligionJeans Shorts(Jorts)",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "TR",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7495983395%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7495983395?inviteCode=29TOTHGNH"
+      "label": "TR",
+      "url": "https://litbuy.com/product/weidian/784701250704?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/784701250704?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "47$",
+  "best_price": "13$",
   "budget_price": "",
-  "pics_text": "pics",
-  "pics_links": [
-    {
-      "label": "pics",
-      "url": "https://dragonrep333.x.yupoo.com/albums/207847279?uid=1"
-    }
-  ],
+  "pics_text": "",
+  "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axwga73w6OD3mYiRdVB9pcfPaopIMbq3tRsTKeHS7n1g3850Gp_fmAwli7lqWqoGkOxGuOPKsBMrX1jlqBntVoRsKYVgOzGj5l48VPP24kcE7N-gQIE_UU8XLdvf9hhd9fJuv0GE5E0sptD=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxM8vweIR6Dz6WL_wIEGcFdS2RUNS45EsrRTh_ygC0lacqriOInEtaoPQa5dQne0mCXPhSP5J94Fzx9PVUfl2i5brd4LUHDqcS8VbTwxzBn9atNjaQn4Kju_7X2nA_SdeUXK25-gUdtnQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1232",
   "raw_cells": {
     "col_0": {
-      "text": "811"
+      "text": "805"
     },
     "col_1": {
-      "text": "EvisuxPALACEKnit Sweater"
+      "text": "True ReligionJeans Shorts(Jorts)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axwga73w6OD3mYiRdVB9pcfPaopIMbq3tRsTKeHS7n1g3850Gp_fmAwli7lqWqoGkOxGuOPKsBMrX1jlqBntVoRsKYVgOzGj5l48VPP24kcE7N-gQIE_UU8XLdvf9hhd9fJuv0GE5E0sptD=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxM8vweIR6Dz6WL_wIEGcFdS2RUNS45EsrRTh_ygC0lacqriOInEtaoPQa5dQne0mCXPhSP5J94Fzx9PVUfl2i5brd4LUHDqcS8VbTwxzBn9atNjaQn4Kju_7X2nA_SdeUXK25-gUdtnQ=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "TR",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7495983395?inviteCode=29TOTHGNH"
+          "label": "TR",
+          "url": "https://www.oopbuy.com/product/1/784701250704?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "47$"
-    },
-    "col_7": {
-      "text": "pics",
-      "links": [
-        {
-          "label": "pics",
-          "url": "https://dragonrep333.x.yupoo.com/albums/207847279?uid=1"
-        }
-      ]
+      "text": "13$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1232"
+  }
 }

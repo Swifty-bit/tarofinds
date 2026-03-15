@@ -1,56 +1,83 @@
 {
-  "name": "Maison MargielaGATSWhite",
+  "name": "Maison MargielaGATSGerman Army Trainer",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "H/BL",
+  "best_batch": "H/Version1",
   "best_batch_links": [
     {
       "label": "H",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563973209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7563973209?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
     },
     {
-      "label": "BL",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4689600987%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "label": "Version1",
+      "url": "https://litbuy.com/product/weidian/4689600987?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "56$ / 54$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "FS/budget",
+  "budget_batch_links": [
+    {
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7459302369?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7459302369?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/863569549781?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/863569549781?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "56$ / 65$",
+  "budget_price": "47$ / 20$",
+  "pics_text": "47$ / 20$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyF2j4YqJ94UunzIbJdqRWQ-3_glESSTMUjKde5imJS_Qb4ipdF8nnvwj4u-P1ExoMOMUCYISm5vGxddtxsMkraKHd_EhYt3sb8NNezJ3Wvb6mSkz68c8KS-3ZGK7_1_gO0AYF14hBMMFGI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwjX5gHoG9XTcIBrbMsVP0bveDdEGcmbOge-myAmjo26aMNierTjZS-ZQKK_ywMmj-MrUM7dn8rb117su55IpOZBm2U5BG6wwmFIXW2s-G_YeUhufnIvAaRgRMyhlyI-3JSfh_o_7dAXZ8f=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0483",
   "raw_cells": {
     "col_0": {
       "text": "558"
     },
     "col_1": {
-      "text": "Maison MargielaGATSWhite"
+      "text": "Maison MargielaGATSGerman Army Trainer"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyF2j4YqJ94UunzIbJdqRWQ-3_glESSTMUjKde5imJS_Qb4ipdF8nnvwj4u-P1ExoMOMUCYISm5vGxddtxsMkraKHd_EhYt3sb8NNezJ3Wvb6mSkz68c8KS-3ZGK7_1_gO0AYF14hBMMFGI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwjX5gHoG9XTcIBrbMsVP0bveDdEGcmbOge-myAmjo26aMNierTjZS-ZQKK_ywMmj-MrUM7dn8rb117su55IpOZBm2U5BG6wwmFIXW2s-G_YeUhufnIvAaRgRMyhlyI-3JSfh_o_7dAXZ8f=w143-h110"
     },
     "col_3": {
-      "text": "H/BL",
+      "text": "H/Version1",
       "links": [
         {
           "label": "H",
           "url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
         },
         {
-          "label": "BL",
+          "label": "Version1",
           "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_4": {
+      "text": "FS/budget",
+      "links": [
+        {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7459302369?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/863569549781?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
-      "text": "56$ / 54$"
+      "text": "56$ / 65$"
+    },
+    "col_6": {
+      "text": "47$ / 20$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0483"
+  }
 }

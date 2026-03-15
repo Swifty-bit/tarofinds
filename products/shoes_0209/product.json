@@ -1,47 +1,47 @@
 {
-  "name": "Jordan 4 RM5 Colors",
+  "name": "Kobe Bryant",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "W",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7258440856%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7258440856?inviteCode=29TOTHGNH"
+      "label": "W",
+      "url": "https://litbuy.com/product/weidian/7312934130?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "41$",
+  "best_price": "63$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxyR2KU--QjcAym7hrr4jYzj3G-YB1GUgQ7_3I0v_ih6pRQnIWdmbNE5biAsuEUHFOREc9PtvUZ1pJLBdFFYXK-xQQ2PSclWooRf_a1sWYSiZaNs48uA_fQ_LYrqNXNreq_RybMPUX4sSxj=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxMFZxXfVUstSb-9APUyjPcic3zhciaFiqrkN2DD-AcXUfhltj3bH6MOClWFbgyEOoIB0rIz6qtHn3uxfhzEWI-p7IQHxBTTlnrnv4TfcKmyU5iQTmvUQYZeHJ1dEHPcvy_VO47w461iU2Y=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0209",
   "raw_cells": {
     "col_0": {
-      "text": "224"
+      "text": "222"
     },
     "col_1": {
-      "text": "Jordan 4 RM5 Colors"
+      "text": "Kobe Bryant"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxyR2KU--QjcAym7hrr4jYzj3G-YB1GUgQ7_3I0v_ih6pRQnIWdmbNE5biAsuEUHFOREc9PtvUZ1pJLBdFFYXK-xQQ2PSclWooRf_a1sWYSiZaNs48uA_fQ_LYrqNXNreq_RybMPUX4sSxj=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMFZxXfVUstSb-9APUyjPcic3zhciaFiqrkN2DD-AcXUfhltj3bH6MOClWFbgyEOoIB0rIz6qtHn3uxfhzEWI-p7IQHxBTTlnrnv4TfcKmyU5iQTmvUQYZeHJ1dEHPcvy_VO47w461iU2Y=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "W",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/2/7258440856?inviteCode=29TOTHGNH"
+          "label": "W",
+          "url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "41$"
+      "text": "63$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0209"
+  }
 }

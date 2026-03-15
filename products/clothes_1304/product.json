@@ -1,64 +1,61 @@
 {
-  "name": "LacosteTracksuit2 Colors",
+  "name": "LacosteHoodie2 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "FrenchFish",
   "best_batch_links": [
     {
       "label": "FrenchFish",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7285901330%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7285901330?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7262185112?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7262185112?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "72$(SET)",
+  "best_price": "38$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1916289218962337794?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1965965067943501825?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "set 72$ - jacket 38$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyfdmQ5MIA_7Y6utOgjgUrZgWVAyNLwDB4J4JUvHCiG7pVo8S1jLthnt--v3kO0wX8ebh7_DCZuXS-YWyUH4LQ1gO2V5CeGAtVIfTFDxH5J90C0pLr8zlPLrLBIKCRwiIuPXVOnHo9w0w=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyezPdzPXj1wYh228rz_dVpYCOZeTnCE_XObiKkaPvpgGtOfIxUsIIgYew8ZxE9kv_LvVVOmm6fDjY6-2emOvtiGiYFUxja5UeRINZQbifV98YRE67fA3SGSF7mSt6NyxHKumGdlpTU_lLI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1304",
   "raw_cells": {
     "col_0": {
-      "text": "895"
+      "text": "891"
     },
     "col_1": {
-      "text": "LacosteTracksuit2 Colors"
+      "text": "LacosteHoodie2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyfdmQ5MIA_7Y6utOgjgUrZgWVAyNLwDB4J4JUvHCiG7pVo8S1jLthnt--v3kO0wX8ebh7_DCZuXS-YWyUH4LQ1gO2V5CeGAtVIfTFDxH5J90C0pLr8zlPLrLBIKCRwiIuPXVOnHo9w0w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyezPdzPXj1wYh228rz_dVpYCOZeTnCE_XObiKkaPvpgGtOfIxUsIIgYew8ZxE9kv_LvVVOmm6fDjY6-2emOvtiGiYFUxja5UeRINZQbifV98YRE67fA3SGSF7mSt6NyxHKumGdlpTU_lLI=w143-h110"
     },
     "col_3": {
       "text": "FrenchFish",
       "links": [
         {
           "label": "FrenchFish",
-          "url": "https://oopbuy.com/product/weidian/7285901330?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7262185112?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "72$(SET)"
+      "text": "38$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1916289218962337794?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1965965067943501825?action=discord&type=1&cid=1942512167859859457"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 72$ - jacket 38$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1304"
+  }
 }

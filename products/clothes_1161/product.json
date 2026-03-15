@@ -1,61 +1,61 @@
 {
-  "name": "MM6T-Shirt100 Styles",
+  "name": "Acne StudiosChecked Wool Fringe Scarf",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Topacney",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F778901408294%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/778901408294?inviteCode=29TOTHGNH"
+      "label": "Topacney",
+      "url": "https://litbuy.com/product/weidian/982932127042?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/982932127042?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "10$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "35$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1921733059017752578?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://topacney.x.yupoo.com/albums/143048589?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxrOsoP3g4NzQeVatarg_yIhV4wzN9oerKpf5zmko-DsRosTiQTTOAhXMfNKrLHEjtOeENaAqOC3Do31VWv0Rh8UtR0Mvmjx6nliXg_4LHgMkx5nnEZktedEipved5seVb4b48GxElWeX1c=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFolzw_h7sEIPgKN-QVTtJ6vZ1hZ3ViFZGjNxt9r2nW2bwInfm33DN9lAchkXYMLMD6GkGyyOosa7i2NbzrDQnlqZW1IXXAJIexvT9gzroMCX5VkblxbDFE2QAHvvS14VxaGn7jrNXSiU7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1161",
   "raw_cells": {
     "col_0": {
-      "text": "726"
+      "text": "720"
     },
     "col_1": {
-      "text": "MM6T-Shirt100 Styles"
+      "text": "Acne StudiosChecked Wool Fringe Scarf"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxrOsoP3g4NzQeVatarg_yIhV4wzN9oerKpf5zmko-DsRosTiQTTOAhXMfNKrLHEjtOeENaAqOC3Do31VWv0Rh8UtR0Mvmjx6nliXg_4LHgMkx5nnEZktedEipved5seVb4b48GxElWeX1c=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFolzw_h7sEIPgKN-QVTtJ6vZ1hZ3ViFZGjNxt9r2nW2bwInfm33DN9lAchkXYMLMD6GkGyyOosa7i2NbzrDQnlqZW1IXXAJIexvT9gzroMCX5VkblxbDFE2QAHvvS14VxaGn7jrNXSiU7=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Topacney",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/778901408294?inviteCode=29TOTHGNH"
+          "label": "Topacney",
+          "url": "https://oopbuy.com/product/1/982932127042?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "10$"
+    "col_5": {
+      "text": "35$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1921733059017752578?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://topacney.x.yupoo.com/albums/143048589?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1161"
+  }
 }

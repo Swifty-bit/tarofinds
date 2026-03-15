@@ -1,87 +1,61 @@
 {
-  "name": "Denim TearsHoodie11 Colors",
+  "name": "Syna X New Era9FIFTY SNAPBACK CAP",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
+  "best_batch": "elephant",
   "best_batch_links": [
     {
-      "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1001952763181%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1001952763181?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7499838481?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7499838481?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "33TRENTE",
-  "budget_batch_links": [
-    {
-      "label": "33TRENTE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680415390619%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "47$",
-  "budget_price": "22$",
-  "pics_text": "angelking/33trente",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "12$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "angelking",
-      "url": "https://louisangelking.x.yupoo.com/search/album?uid=1&sort=&q=1001952763181"
-    },
-    {
-      "label": "33trente",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://baymaxsocks.x.yupoo.com/albums/176704951?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNiAs0ea6g598_CVj6BYEzjilkocXq7olu94cEKb9FYJyHyBrvHOVlpf0jVru-SkwMVdmrOGvyUyghs8z0TPVI7PjaRp1hs5ub4e-lTRQ-IPiGY7463BLS9VllEjzixRgdBbcz4NyFSw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwevgyhZ0bWTUqYNhJg_SYC719mLTRDnP-nxMh3j1UN0YU-qsNq6HumFGQ08RWkBeXmMZkYFzWV3i-LLDCgomqKxnjzuDmpwuqcyPfHRWXskC76L6IXxipnBrTMKb8L0VeATwMnOUBbzQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0944",
   "raw_cells": {
     "col_0": {
-      "text": "473"
+      "text": "467"
     },
     "col_1": {
-      "text": "Denim TearsHoodie11 Colors"
+      "text": "Syna X New Era9FIFTY SNAPBACK CAP"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNiAs0ea6g598_CVj6BYEzjilkocXq7olu94cEKb9FYJyHyBrvHOVlpf0jVru-SkwMVdmrOGvyUyghs8z0TPVI7PjaRp1hs5ub4e-lTRQ-IPiGY7463BLS9VllEjzixRgdBbcz4NyFSw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwevgyhZ0bWTUqYNhJg_SYC719mLTRDnP-nxMh3j1UN0YU-qsNq6HumFGQ08RWkBeXmMZkYFzWV3i-LLDCgomqKxnjzuDmpwuqcyPfHRWXskC76L6IXxipnBrTMKb8L0VeATwMnOUBbzQ=w143-h110"
     },
     "col_3": {
-      "text": "Angelking",
+      "text": "elephant",
       "links": [
         {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/1001952763181?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "33TRENTE",
-      "links": [
-        {
-          "label": "33TRENTE",
-          "url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7499838481?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "47$"
-    },
-    "col_6": {
-      "text": "22$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "angelking/33trente",
+      "text": "pics",
       "links": [
         {
-          "label": "angelking",
-          "url": "https://louisangelking.x.yupoo.com/search/album?uid=1&sort=&q=1001952763181"
-        },
-        {
-          "label": "33trente",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://baymaxsocks.x.yupoo.com/albums/176704951?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0944"
+  }
 }

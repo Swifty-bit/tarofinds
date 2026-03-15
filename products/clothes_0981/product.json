@@ -1,69 +1,61 @@
 {
-  "name": "Stone IslandBadge",
+  "name": "Stone Island24SS Crewneck20 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "repsbrothers",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1007366411320%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1007366411320?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/949973341766?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/949973341766?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "3$",
-  "budget_price": "",
-  "pics_text": "link/pics",
+  "best_price": "",
+  "budget_price": "9$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "link",
-      "url": "https://repsbrothers.x.yupoo.com/albums/221980374?uid=1"
-    },
-    {
-      "label": "pics",
-      "url": "https://hooohooo.x.yupoo.com/albums/221991540?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1987344936434999298?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AykucNfMXFoJanjLXLkjIp_RCkxU3PspfuDu0Bb47mKOS2OiuLao_CFXANEujb7KaKxNpt-sMfqOroKoD6mLyLDQDlIAXF2-QHe8BXS7uEEt3YqUXta-LTud37F3kvXrIgw3ETeD1iD5A=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzBHrkqlSzyaHPjONs5E98YSPqSAFWKI6mfD-H560kyq9s096aoxnFDwCky-XuSUZFtTT9GlIpnGqJIhaIBp6PP4kM6tIFIHfURYVfnSsrJATzlQyrZqYfrsAsXwGZoEN7qGpcdzvzD-dtt=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0981",
   "raw_cells": {
     "col_0": {
-      "text": "516"
+      "text": "512"
     },
     "col_1": {
-      "text": "Stone IslandBadge"
+      "text": "Stone Island24SS Crewneck20 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AykucNfMXFoJanjLXLkjIp_RCkxU3PspfuDu0Bb47mKOS2OiuLao_CFXANEujb7KaKxNpt-sMfqOroKoD6mLyLDQDlIAXF2-QHe8BXS7uEEt3YqUXta-LTud37F3kvXrIgw3ETeD1iD5A=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzBHrkqlSzyaHPjONs5E98YSPqSAFWKI6mfD-H560kyq9s096aoxnFDwCky-XuSUZFtTT9GlIpnGqJIhaIBp6PP4kM6tIFIHfURYVfnSsrJATzlQyrZqYfrsAsXwGZoEN7qGpcdzvzD-dtt=w143-h110"
     },
-    "col_3": {
-      "text": "repsbrothers",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/1007366411320?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/949973341766?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "3$"
+    "col_6": {
+      "text": "9$"
     },
     "col_7": {
-      "text": "link/pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "link",
-          "url": "https://repsbrothers.x.yupoo.com/albums/221980374?uid=1"
-        },
-        {
-          "label": "pics",
-          "url": "https://hooohooo.x.yupoo.com/albums/221991540?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1987344936434999298?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0981"
+  }
 }

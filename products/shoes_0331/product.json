@@ -1,47 +1,47 @@
 {
-  "name": "Spezial",
+  "name": "Superstar",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "TS",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "VT",
+  "budget_batch_links": [
     {
-      "label": "TS",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7387481338%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7387481338?inviteCode=29TOTHGNH"
+      "label": "VT",
+      "url": "https://litbuy.com/product/taobao/6716436399?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6716436399?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "24$",
-  "budget_price": "",
-  "pics_text": "",
+  "best_price": "",
+  "budget_price": "22$",
+  "pics_text": "22$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZmNJ-xhMxfBETW0yjLrb_z76BYWAuG4w0qi0SiXr2WxCpuWIHtC2CJBmZblOZ0wd4gbPZGXnEwUw4YZM1FFQYotZeazzsDv8dTGJdXOU4SllAhJ9SIrIIXFFkCZa0HG-HHdLgrMetqYuv=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFbJ39p8JOvnEJSU7DmCv2Ol2HjOWm5MjFThmVdf4sG2GyS1oUpzj7JR2uD3kTnXQ68T2UBy5hbL4Tq1VIiuoZ2WtGWg8gNYhbIK0xAHYAsnYV3qbKEjFQxLg7tJ1ZktU0LIDYX08mJ0FP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0331",
   "raw_cells": {
     "col_0": {
       "text": "360"
     },
     "col_1": {
-      "text": "Spezial"
+      "text": "Superstar"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZmNJ-xhMxfBETW0yjLrb_z76BYWAuG4w0qi0SiXr2WxCpuWIHtC2CJBmZblOZ0wd4gbPZGXnEwUw4YZM1FFQYotZeazzsDv8dTGJdXOU4SllAhJ9SIrIIXFFkCZa0HG-HHdLgrMetqYuv=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFbJ39p8JOvnEJSU7DmCv2Ol2HjOWm5MjFThmVdf4sG2GyS1oUpzj7JR2uD3kTnXQ68T2UBy5hbL4Tq1VIiuoZ2WtGWg8gNYhbIK0xAHYAsnYV3qbKEjFQxLg7tJ1ZktU0LIDYX08mJ0FP=w143-h110"
     },
-    "col_3": {
-      "text": "TS",
+    "col_4": {
+      "text": "VT",
       "links": [
         {
-          "label": "TS",
-          "url": "https://oopbuy.com/product/weidian/7387481338?inviteCode=29TOTHGNH"
+          "label": "VT",
+          "url": "https://oopbuy.com/product/2/6716436399?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "24$"
+    "col_6": {
+      "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0331"
+  }
 }

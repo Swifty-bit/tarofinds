@@ -1,61 +1,38 @@
 {
-  "name": "iPhoneStone IslandCase",
+  "name": "Harry PotterHogwarts Castle",
   "category": "Room Accessories",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
-    {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F837404564540%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/837404564540?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "/",
+  "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "0,50$",
+  "best_price": "70$ / 88$",
   "budget_price": "",
-  "pics_text": "QC Pics",
-  "pics_links": [
-    {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058735025971202?action=discord&type=1&cid=1942512167859859457"
-    }
-  ],
+  "pics_text": "/",
+  "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzkFMc7W_ymQ7vgU7GnNJ9GldocwcmRRtVOMPIwKBEoGY1gA670BgV6Ij7os2j10A9Ifjy4QMynVqFsQL19DkxPbqJo4hTeI0lepJ5WmwLfvRsnQzPt26J-CdFnW__Vq0WNyIJQ3S9Tztnh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzctfcZxx3kvcJzNYH_N50Y403_tIQ6hVb1sMbXfCap2drjsp6KokVLvrdTqPfO0B-OlTMZBCiDQxZA-Qh21KApWq06PVO90O2MZZ3hd9sC6bIkjJMubgmJLogtoFF23pBwrj4t4FuxRiuD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1670",
   "raw_cells": {
     "col_0": {
-      "text": "36"
+      "text": "26"
     },
     "col_1": {
-      "text": "iPhoneStone IslandCase"
+      "text": "Harry PotterHogwarts Castle"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzkFMc7W_ymQ7vgU7GnNJ9GldocwcmRRtVOMPIwKBEoGY1gA670BgV6Ij7os2j10A9Ifjy4QMynVqFsQL19DkxPbqJo4hTeI0lepJ5WmwLfvRsnQzPt26J-CdFnW__Vq0WNyIJQ3S9Tztnh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzctfcZxx3kvcJzNYH_N50Y403_tIQ6hVb1sMbXfCap2drjsp6KokVLvrdTqPfO0B-OlTMZBCiDQxZA-Qh21KApWq06PVO90O2MZZ3hd9sC6bIkjJMubgmJLogtoFF23pBwrj4t4FuxRiuD=w143-h110"
     },
     "col_3": {
-      "text": "here",
-      "links": [
-        {
-          "label": "here",
-          "url": "https://www.oopbuy.com/product/0/837404564540?inviteCode=29TOTHGNH"
-        }
-      ]
+      "text": "/"
     },
     "col_5": {
-      "text": "0,50$"
+      "text": "70$ / 88$"
     },
     "col_7": {
-      "text": "QC Pics",
-      "links": [
-        {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058735025971202?action=discord&type=1&cid=1942512167859859457"
-        }
-      ]
+      "text": "/"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1670"
+  }
 }

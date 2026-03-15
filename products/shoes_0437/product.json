@@ -1,47 +1,47 @@
 {
-  "name": "Crocs",
+  "name": "Arena",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWTOP",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565970218%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565970218?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/538558645207?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/538558645207?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "68$",
-  "budget_price": "",
-  "pics_text": "",
+  "best_price": "",
+  "budget_price": "40$",
+  "pics_text": "40$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySogMUxJvhPNKzIp2vg8HG4XtfHwJPJQRRgD71I2DlAfFsPXRN-fNSMjUb8xxtHGtL_Y7FEb3RrRFKo7IorHArWVeRkuWmsG50j1fZ9NHtDEWnGix9540KwB-xK4HSv04OQbR6XW29mw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzYCJV0iHX98IGARsllMy7r7rldgPy9d6ARMJxmXyYZjwVcHtn6PNb7Aw9l0OgZaaG7jbvZyzwUj_qi6OQsq3O8YxKYzqiCe9RntWMqTYbXOtCOlTR1YfQLytyWZfq8Zg3Ue26aEOsQonUL=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0437",
   "raw_cells": {
     "col_0": {
       "text": "496"
     },
     "col_1": {
-      "text": "Crocs"
+      "text": "Arena"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySogMUxJvhPNKzIp2vg8HG4XtfHwJPJQRRgD71I2DlAfFsPXRN-fNSMjUb8xxtHGtL_Y7FEb3RrRFKo7IorHArWVeRkuWmsG50j1fZ9NHtDEWnGix9540KwB-xK4HSv04OQbR6XW29mw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzYCJV0iHX98IGARsllMy7r7rldgPy9d6ARMJxmXyYZjwVcHtn6PNb7Aw9l0OgZaaG7jbvZyzwUj_qi6OQsq3O8YxKYzqiCe9RntWMqTYbXOtCOlTR1YfQLytyWZfq8Zg3Ue26aEOsQonUL=w143-h110"
     },
-    "col_3": {
-      "text": "WWTOP",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7565970218?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/1/538558645207?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "68$"
+    "col_6": {
+      "text": "40$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0437"
+  }
 }

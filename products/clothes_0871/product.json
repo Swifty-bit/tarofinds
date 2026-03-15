@@ -1,61 +1,61 @@
 {
-  "name": "Prada Windbreaker",
+  "name": "Prada Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "1to1",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F942506740520%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/942506740520?inviteCode=29TOTHGNH"
+      "label": "1to1",
+      "url": "https://litbuy.com/product/taobao/7248115258?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7248115258?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "22$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "42$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2012040786030448642?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/167816673?uid=1&isSubCate=false&referrercate=4357344"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az0DKstxmgsWesGHArRKp-GjTqndzTHdoLNwg0Xzp4XyYQq9uAyj3us4_vDqW3scEiT59LiasHpz7wyQGKS1qAMuS0xiAWNL02eU5AYU_-i-rgMzVYpv36Uxd73MhID_w8OpSK6mp3-Iptq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2VFFpBLK4STaB6JyVsoDUibJ6MHZ4LILVnWuM9lw0ejeHHN44YQIpMVvKW6oPfJwWDa1KvIz8SvmaeF_Jfp0IJPvNA1w9xSnxItLGrnbEFOsEf3CDA2oPhPxXpthg8qkdqLsGIIbXrA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0871",
   "raw_cells": {
     "col_0": {
-      "text": "384"
+      "text": "380"
     },
     "col_1": {
-      "text": "Prada Windbreaker"
+      "text": "Prada Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0DKstxmgsWesGHArRKp-GjTqndzTHdoLNwg0Xzp4XyYQq9uAyj3us4_vDqW3scEiT59LiasHpz7wyQGKS1qAMuS0xiAWNL02eU5AYU_-i-rgMzVYpv36Uxd73MhID_w8OpSK6mp3-Iptq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2VFFpBLK4STaB6JyVsoDUibJ6MHZ4LILVnWuM9lw0ejeHHN44YQIpMVvKW6oPfJwWDa1KvIz8SvmaeF_Jfp0IJPvNA1w9xSnxItLGrnbEFOsEf3CDA2oPhPxXpthg8qkdqLsGIIbXrA=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "1to1",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/942506740520?inviteCode=29TOTHGNH"
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/2/7248115258?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "22$"
+    "col_5": {
+      "text": "42$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2012040786030448642?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/167816673?uid=1&isSubCate=false&referrercate=4357344"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0871"
+  }
 }

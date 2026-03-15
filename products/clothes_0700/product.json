@@ -1,61 +1,61 @@
 {
-  "name": "Gallery DeptCOACHT-Shirt3 Colors",
+  "name": "CorteizBolo V2Jacket Puffer",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "GOAT",
   "best_batch_links": [
     {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F782254805804%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/782254805804?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7656824960?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656824960?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "18$",
+  "best_price": "87$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1927089383213678594?action=discord&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/152901453?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyqYtC-nyLtXT6ZC2vQK_rknNe4UYN9_Tr0O9hOkE2k4CidWPYWlzu0t5TmKL1FZdvauGWFDSGIg_1ADIR-OykmXP6sJMJaVU_Gdw9SIuU8koLkDnBUJXUQXLsI3Q9Md--xiHcpL8aRCkKn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1XRhgjiE-aqYXPB_MYha4RvjTc-Q9YEPtob5wC9Gs_Q2MLOfpCHHKZIK9tTl4zJggs_XWunp7jK0W5FFVq2eiHduGZkzA_KkrtRENG-ZyzhejqUTN6D7pt69j3RycDAnxnZ9c6tI71JQi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0700",
   "raw_cells": {
     "col_0": {
-      "text": "183"
+      "text": "177"
     },
     "col_1": {
-      "text": "Gallery DeptCOACHT-Shirt3 Colors"
+      "text": "CorteizBolo V2Jacket Puffer"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyqYtC-nyLtXT6ZC2vQK_rknNe4UYN9_Tr0O9hOkE2k4CidWPYWlzu0t5TmKL1FZdvauGWFDSGIg_1ADIR-OykmXP6sJMJaVU_Gdw9SIuU8koLkDnBUJXUQXLsI3Q9Md--xiHcpL8aRCkKn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1XRhgjiE-aqYXPB_MYha4RvjTc-Q9YEPtob5wC9Gs_Q2MLOfpCHHKZIK9tTl4zJggs_XWunp7jK0W5FFVq2eiHduGZkzA_KkrtRENG-ZyzhejqUTN6D7pt69j3RycDAnxnZ9c6tI71JQi=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "GOAT",
       "links": [
         {
-          "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/782254805804?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7656824960?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
+      "text": "87$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1927089383213678594?action=discord&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/152901453?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0700"
+  }
 }

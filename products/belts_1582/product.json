@@ -1,61 +1,87 @@
 {
-  "name": "Fendi",
+  "name": "Christian Dior",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "MissChen",
+  "best_batch_links": [
+    {
+      "label": "MissChen",
+      "url": "https://litbuy.com/product/weidian/3049062970?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/3049062970?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F768485960230%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/768485960230?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/895938691358?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/895938691358?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "best_price": "33$",
   "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969226603050917890?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969949835626373122?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzlZb2FwyodhrhlCgs2IsqGvwTiPqHCy2hRT5NDrEes4KmcqeLlOxpAo4GYSQ_UNYqaGXU4f7SYZF_T5a3KXGy9iBjRZsK4UU5ApcLSF48PKdu0wtspdDCRl5hVXhhHbj03Nc3yZDSl70WY=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyYibp_T7f7LAbqOnw09nGVCIKL1vRNVt-obu7gl2gAo0M433sJckjVmQAZCuRG38gJdgzcqjGjAmS5qIfpO03RuQbEPOcY5VMDm9ud5MN_5-J45obj33jUJZy_Mzj5250OLvlIm4N9HJ9g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1582",
   "raw_cells": {
     "col_0": {
-      "text": "44"
+      "text": "39"
     },
     "col_1": {
-      "text": "Fendi"
+      "text": "Christian Dior"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzlZb2FwyodhrhlCgs2IsqGvwTiPqHCy2hRT5NDrEes4KmcqeLlOxpAo4GYSQ_UNYqaGXU4f7SYZF_T5a3KXGy9iBjRZsK4UU5ApcLSF48PKdu0wtspdDCRl5hVXhhHbj03Nc3yZDSl70WY=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyYibp_T7f7LAbqOnw09nGVCIKL1vRNVt-obu7gl2gAo0M433sJckjVmQAZCuRG38gJdgzcqjGjAmS5qIfpO03RuQbEPOcY5VMDm9ud5MN_5-J45obj33jUJZy_Mzj5250OLvlIm4N9HJ9g=w143-h110"
+    },
+    "col_3": {
+      "text": "MissChen",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/3049062970?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/768485960230?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/895938691358?inviteCode=29TOTHGNH"
         }
       ]
+    },
+    "col_5": {
+      "text": "33$"
     },
     "col_6": {
       "text": "3$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969226603050917890?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969949835626373122?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1582"
+  }
 }

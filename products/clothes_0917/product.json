@@ -1,61 +1,61 @@
 {
-  "name": "Palm AngelsOversize NecklogoLong Sleeve",
+  "name": "Palm AngelsBroken Tree T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F963104018177%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/963104018177?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/963751529582?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/963751529582?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "29$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repsbro.x.yupoo.com/albums/205540208?uid=1&isSubCate=false&referrercate=4971731"
+      "url": "https://repsbro.x.yupoo.com/albums/205539936?uid=1&isSubCate=false&referrercate=4971731"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwejWVb4qevfUJeBdGFLE2boC8bloiuw8Tw-Bc2BJsDO_3Gq68tNzEbpwjs-MGPvABPnAka8NeerzISy6rlXtj_vKU1utCzLwFxHegMPkxu4roAF3LP4M-4rPmKXqJTF59NAjxdYPeu6A=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzT9o_BWT9lPQFVYhMcA-huab_Y7ZNYGJFePnuHTGvZpvBM19i46GAU0r6tl9vQ__7rDzi-5Red3kd8JY-oHB-uc2yOflpurPzRE_TCj3mtbpPl3p1DImd21Nh_BJycezL7jja0lchbvoNi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0917",
   "raw_cells": {
     "col_0": {
-      "text": "442"
+      "text": "438"
     },
     "col_1": {
-      "text": "Palm AngelsOversize NecklogoLong Sleeve"
+      "text": "Palm AngelsBroken Tree T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwejWVb4qevfUJeBdGFLE2boC8bloiuw8Tw-Bc2BJsDO_3Gq68tNzEbpwjs-MGPvABPnAka8NeerzISy6rlXtj_vKU1utCzLwFxHegMPkxu4roAF3LP4M-4rPmKXqJTF59NAjxdYPeu6A=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzT9o_BWT9lPQFVYhMcA-huab_Y7ZNYGJFePnuHTGvZpvBM19i46GAU0r6tl9vQ__7rDzi-5Red3kd8JY-oHB-uc2yOflpurPzRE_TCj3mtbpPl3p1DImd21Nh_BJycezL7jja0lchbvoNi=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/963104018177?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/963751529582?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "29$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://repsbro.x.yupoo.com/albums/205540208?uid=1&isSubCate=false&referrercate=4971731"
+          "url": "https://repsbro.x.yupoo.com/albums/205539936?uid=1&isSubCate=false&referrercate=4971731"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0917"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga Planet Earth T-shirt",
+  "name": "EA7Emporio ArmaniPuffer6 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "AshMade",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "AshMade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7392567379%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7392567379?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/687997648489?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/687997648489?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "24$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "7$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1940214266142519298?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1919196181370552321?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azd4hpBAB5B4yw74E024sDBfyN6nMdy_tTBxtTyrPQ-T6FLGJ7_p9YvwXi53_mJobLKA9YddRFbLIPNND19pMDr8E6y9nFbo4wp4cj_NHp_Nx1v3nyS1luVQXGVbFGzKZhSQNYbndwSxXfw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxdJ9rTRje5gmxRTtFsmCeZLVxR_Lxsl3y3fiUFtPnI7bIkozfpnqs3ynS8swsQyzyhm5--XmR6cUp2anZvl9Rfg4EqYXzCtei0e8Bl3JPTcgGkWs_6akBiKcmymKmXPHw9WKKdsDTLcA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1252",
   "raw_cells": {
     "col_0": {
-      "text": "841"
+      "text": "835"
     },
     "col_1": {
-      "text": "Balenciaga Planet Earth T-shirt"
+      "text": "EA7Emporio ArmaniPuffer6 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azd4hpBAB5B4yw74E024sDBfyN6nMdy_tTBxtTyrPQ-T6FLGJ7_p9YvwXi53_mJobLKA9YddRFbLIPNND19pMDr8E6y9nFbo4wp4cj_NHp_Nx1v3nyS1luVQXGVbFGzKZhSQNYbndwSxXfw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxdJ9rTRje5gmxRTtFsmCeZLVxR_Lxsl3y3fiUFtPnI7bIkozfpnqs3ynS8swsQyzyhm5--XmR6cUp2anZvl9Rfg4EqYXzCtei0e8Bl3JPTcgGkWs_6akBiKcmymKmXPHw9WKKdsDTLcA=w143-h110"
     },
-    "col_3": {
-      "text": "AshMade",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "AshMade",
-          "url": "https://oopbuy.com/product/weidian/7392567379?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/687997648489?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "24$"
+    "col_6": {
+      "text": "7$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1940214266142519298?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1919196181370552321?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1252"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "HokaClifton 9",
+  "name": "OnCloudtilt 2.0",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "XC",
+  "best_batch": "WWTOP",
   "best_batch_links": [
     {
-      "label": "XC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7501701058%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7501701058?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7564050515?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564050515?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "26$",
+  "best_price": "35$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLFodkzJGU3hKjGgart-qwd1SjNeraAkm94iDL1C58dmONISGgMFc7O4Dw8Xl0IuV-CyNzZ3bAfFlju2bAcK-ry_D2FW0TdGgNhLLQ-Qtfvr8boiAgXlCqSP2Ov-LKhtEIzCPk-VI2yw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwnXtq9Des5Lcs2z0Q9865tDESZa7JzQq5kYdBU2K-YlDD8ymohSfaBrThzyek7HaYQm9DRQMjM2_ysBEg8JS2-n9PLXwu04TclIuSwxGNd037vgN7aOdXP8dq6uIAzmoy1OC5HXH9oQqyS=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0501",
   "raw_cells": {
     "col_0": {
-      "text": "592"
+      "text": "588"
     },
     "col_1": {
-      "text": "HokaClifton 9"
+      "text": "OnCloudtilt 2.0"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLFodkzJGU3hKjGgart-qwd1SjNeraAkm94iDL1C58dmONISGgMFc7O4Dw8Xl0IuV-CyNzZ3bAfFlju2bAcK-ry_D2FW0TdGgNhLLQ-Qtfvr8boiAgXlCqSP2Ov-LKhtEIzCPk-VI2yw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwnXtq9Des5Lcs2z0Q9865tDESZa7JzQq5kYdBU2K-YlDD8ymohSfaBrThzyek7HaYQm9DRQMjM2_ysBEg8JS2-n9PLXwu04TclIuSwxGNd037vgN7aOdXP8dq6uIAzmoy1OC5HXH9oQqyS=w143-h110"
     },
     "col_3": {
-      "text": "XC",
+      "text": "WWTOP",
       "links": [
         {
-          "label": "XC",
-          "url": "https://oopbuy.com/product/weidian/7501701058?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7564050515?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$"
+      "text": "35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0501"
+  }
 }

@@ -1,61 +1,87 @@
 {
-  "name": "DD ShellMixed Hooded Wool Cardigan",
+  "name": "Cotton Goggle Beanie2 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "CPRepsCN",
   "best_batch_links": [
     {
       "label": "CPRepsCN",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F990544466822%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/990544466822?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/983090948682?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983090948682?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "83$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/750986539714?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/750986539714?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "13$",
+  "budget_price": "4$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://cprepscn.x.yupoo.com/albums/199752772?uid=1&isSubCate=false&referrercate=4543871"
+      "label": "best",
+      "url": "https://cprepscn.x.yupoo.com/albums/161312020?uid=1&isSubCate=false&referrercate=4543871"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2008420818630037505?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxYhujQNOsg03r9lf4cjcCYOVqhfHDvBU1etwt3zQXEXwAkiItYQbPquATqservjI02A0V7FCq_xd8mElNaEXpYY8JVQt4fm1rlDsd9-Dh6D3uzqB1W3vZzrbhGzeCcxQUO53DH68MktLbP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyOjNXTfr6eF9wSvMZe-bPE89u5gVtIAh5ktKm4-gnllXn6LAuQIJHUAe70t5BVu6xIKBCuhZi8osoVxJ5G6LZ8LhYxjwQ2GFmg1xA6CIf_QrYyqtSemMXBDxMTtllanl1-AYydBle6Brto=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0771",
   "raw_cells": {
     "col_0": {
-      "text": "262"
+      "text": "258"
     },
     "col_1": {
-      "text": "DD ShellMixed Hooded Wool Cardigan"
+      "text": "Cotton Goggle Beanie2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxYhujQNOsg03r9lf4cjcCYOVqhfHDvBU1etwt3zQXEXwAkiItYQbPquATqservjI02A0V7FCq_xd8mElNaEXpYY8JVQt4fm1rlDsd9-Dh6D3uzqB1W3vZzrbhGzeCcxQUO53DH68MktLbP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyOjNXTfr6eF9wSvMZe-bPE89u5gVtIAh5ktKm4-gnllXn6LAuQIJHUAe70t5BVu6xIKBCuhZi8osoVxJ5G6LZ8LhYxjwQ2GFmg1xA6CIf_QrYyqtSemMXBDxMTtllanl1-AYydBle6Brto=w143-h110"
     },
     "col_3": {
       "text": "CPRepsCN",
       "links": [
         {
           "label": "CPRepsCN",
-          "url": "https://oopbuy.com/product/1/990544466822?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/983090948682?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/750986539714?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "83$"
+      "text": "13$"
+    },
+    "col_6": {
+      "text": "4$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://cprepscn.x.yupoo.com/albums/199752772?uid=1&isSubCate=false&referrercate=4543871"
+          "label": "best",
+          "url": "https://cprepscn.x.yupoo.com/albums/161312020?uid=1&isSubCate=false&referrercate=4543871"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2008420818630037505?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0771"
+  }
 }

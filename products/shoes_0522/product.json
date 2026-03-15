@@ -1,47 +1,56 @@
 {
-  "name": "Chrome Hearts Boot",
+  "name": "Ugg Tazz",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "FS/here",
   "best_batch_links": [
     {
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7549055256?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F559146919587%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/559146919587?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7279961466?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "41$",
+  "best_price": "31$ / 42$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLHKxPgIayeaaecB3d0W2CqwmOjs9DT7I4w2of-g-jCyhQ4lCWm-6aUyzCUjJAIWOZXlkMl_UPpZGa_0NuXrEOc0bVGlJ0Rhe4m3HA0D247xoZEU3-GyNTlI68ICf8HrSzfUf83PNFTg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_KJXJ5FsDH5PkowLoaTS2Gh7PTtfYo4focF7taOUtRaIDmEQjRQ-arXmf06gRousK-CgYkRCxcXGnm-pwMY7shzoXAuQl0hsnCEKGQt79zQkhs0Et24dtaMh_lj3tULmNPCJUAMjl1Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0522",
   "raw_cells": {
     "col_0": {
       "text": "631"
     },
     "col_1": {
-      "text": "Chrome Hearts Boot"
+      "text": "Ugg Tazz"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLHKxPgIayeaaecB3d0W2CqwmOjs9DT7I4w2of-g-jCyhQ4lCWm-6aUyzCUjJAIWOZXlkMl_UPpZGa_0NuXrEOc0bVGlJ0Rhe4m3HA0D247xoZEU3-GyNTlI68ICf8HrSzfUf83PNFTg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_KJXJ5FsDH5PkowLoaTS2Gh7PTtfYo4focF7taOUtRaIDmEQjRQ-arXmf06gRousK-CgYkRCxcXGnm-pwMY7shzoXAuQl0hsnCEKGQt79zQkhs0Et24dtaMh_lj3tULmNPCJUAMjl1Q=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "FS/here",
       "links": [
         {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "here",
-          "url": "https://oopbuy.com/product/1/559146919587?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "41$"
+      "text": "31$ / 42$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0522"
+  }
 }

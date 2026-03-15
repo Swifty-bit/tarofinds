@@ -1,0 +1,61 @@
+{
+  "name": "Galaxy Watch6",
+  "category": "Electronics",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "ThebigY",
+  "budget_batch_links": [
+    {
+      "label": "ThebigY",
+      "url": "https://litbuy.com/product/weidian/7271524716?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7271524716?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "30$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1926080988378116098?action=discord&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azp7ouZRUYjpWUmBCV4rO1STKy0qFeXHQX8ZRlh5U2uUC8PIM3iQqyVuE4XLZqcsT668LoZxc4mPXZ9SL-fzKfG7ecFWu7zbKIhEcCCXeUhhgffR6BGO5jksztfTgSwtk1z5bHzEpLtG_F_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "electronics_1708",
+  "raw_cells": {
+    "col_0": {
+      "text": "17"
+    },
+    "col_1": {
+      "text": "Galaxy Watch6"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azp7ouZRUYjpWUmBCV4rO1STKy0qFeXHQX8ZRlh5U2uUC8PIM3iQqyVuE4XLZqcsT668LoZxc4mPXZ9SL-fzKfG7ecFWu7zbKIhEcCCXeUhhgffR6BGO5jksztfTgSwtk1z5bHzEpLtG_F_=w143-h110"
+    },
+    "col_4": {
+      "text": "ThebigY",
+      "links": [
+        {
+          "label": "ThebigY",
+          "url": "https://www.oopbuy.com/product/weidian/7271524716?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1926080988378116098?action=discord&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

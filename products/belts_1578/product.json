@@ -1,87 +1,61 @@
 {
-  "name": "Christian Dior",
+  "name": "Balenciaga",
   "category": "Belts",
   "subcategory": "",
   "best_batch": "MissChen",
   "best_batch_links": [
     {
       "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F4394339391%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/4394339391?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/3058103906?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/3058103906?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F895938691358%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/895938691358?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "39$",
-  "budget_price": "3$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "40$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1928262356624785409?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1969949835626373122?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967414288030720002?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwwU5eC3u2RGqTz2ekC6BrF7SkjhHqGia8iX0unMWTz_4hctJT8d_RSzubzgrP1e7qk3yCcLgj4E6B9Zn5vDueZQgZPMp5XKc3hQtSsc383SGHWChx8A88RbYeLuXfqKOJfDDMKO0yeNvus=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxTGBpvBohQ4c0khTKabAjseetSiPgSRvyGtD6EMw_4aoe_XHILNWrfLAUvbHLsiBK3n-kXWr6mdbfOXi2PtAcQ-lpYn8VeAeFSLfkVj05cKEavulhHq-v_vNGbJK4Rl53Zk60uOIy-SBJG=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1578",
   "raw_cells": {
     "col_0": {
-      "text": "40"
+      "text": "35"
     },
     "col_1": {
-      "text": "Christian Dior"
+      "text": "Balenciaga"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwwU5eC3u2RGqTz2ekC6BrF7SkjhHqGia8iX0unMWTz_4hctJT8d_RSzubzgrP1e7qk3yCcLgj4E6B9Zn5vDueZQgZPMp5XKc3hQtSsc383SGHWChx8A88RbYeLuXfqKOJfDDMKO0yeNvus=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxTGBpvBohQ4c0khTKabAjseetSiPgSRvyGtD6EMw_4aoe_XHILNWrfLAUvbHLsiBK3n-kXWr6mdbfOXi2PtAcQ-lpYn8VeAeFSLfkVj05cKEavulhHq-v_vNGbJK4Rl53Zk60uOIy-SBJG=w143-h110"
     },
     "col_3": {
       "text": "MissChen",
       "links": [
         {
           "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/4394339391?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/895938691358?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/3058103906?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "39$"
-    },
-    "col_6": {
-      "text": "3$"
+      "text": "40$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1928262356624785409?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1969949835626373122?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967414288030720002?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1578"
+  }
 }

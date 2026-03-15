@@ -1,55 +1,57 @@
 {
-  "name": "Ralph LaurenShort Socks",
+  "name": "Ralph LaurenBaseball Cap",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "CND ISLAND",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "CND ISLAND",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7592621583%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7592621583?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/taobao/6991067503?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6991067503?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F842628826623%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/842017633078?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/842017633078?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "5$(6 Pairs)",
-  "budget_price": "1$",
+  "best_price": "11$",
+  "budget_price": "6$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
+      "url": "https://repkingdom.x.yupoo.com/albums/151683572?uid=1"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1917746190047297537?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbErRBUP3qpTbnpIG9kjxrAQupJemiqPkaTSbjT7j3XJYfxSmHzNnQXxp0_a-q1HrKjLC5FS0ciWd4NNXRFxjV5B3rIm6-La9i3EubkqAJNUAEzQwsXybunYxL4zSQm63opCAOrf9M9g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeabWfe9XJr49HgEzmcUSG-5ZfSdGkvMgdXx_lY4CTpDwOhiyqwd66XBzAWq_OKICOmm7d11dwiEuNypct1JE6qu-Kw2mvDlAxK_TQjrJFl3sa0YDCVoV-CbzcS4ArQfFT433ZuGGFwWjC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0641",
   "raw_cells": {
     "col_0": {
-      "text": "112"
+      "text": "108"
     },
     "col_1": {
-      "text": "Ralph LaurenShort Socks"
+      "text": "Ralph LaurenBaseball Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbErRBUP3qpTbnpIG9kjxrAQupJemiqPkaTSbjT7j3XJYfxSmHzNnQXxp0_a-q1HrKjLC5FS0ciWd4NNXRFxjV5B3rIm6-La9i3EubkqAJNUAEzQwsXybunYxL4zSQm63opCAOrf9M9g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeabWfe9XJr49HgEzmcUSG-5ZfSdGkvMgdXx_lY4CTpDwOhiyqwd66XBzAWq_OKICOmm7d11dwiEuNypct1JE6qu-Kw2mvDlAxK_TQjrJFl3sa0YDCVoV-CbzcS4ArQfFT433ZuGGFwWjC=w143-h110"
     },
     "col_3": {
-      "text": "CND ISLAND",
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "CND ISLAND",
-          "url": "https://oopbuy.com/product/weidian/7592621583?inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/6991067503?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -58,30 +60,28 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/842017633078?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "5$(6 Pairs)"
+      "text": "11$"
     },
     "col_6": {
-      "text": "1$"
+      "text": "6$"
     },
     "col_7": {
       "text": "best/budget",
       "links": [
         {
           "label": "best",
-          "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
+          "url": "https://repkingdom.x.yupoo.com/albums/151683572?uid=1"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1917746190047297537?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0641"
+  }
 }

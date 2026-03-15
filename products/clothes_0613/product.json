@@ -1,87 +1,61 @@
 {
-  "name": "Ralph LaurenOld SeasonZipped Hoodie",
+  "name": "Ralph Lauren Roundneck Sweatshirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7423551790%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7423551790?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/taobao/7161615777?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7161615777?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F736469349863%3F%26inviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "28$",
-  "budget_price": "15$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "16$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://newdp.x.yupoo.com/albums/176447946?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/153528829?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axooz8TbXC5Y-5Pd81InUwNpnK5FoDXBone51SSZ3THzXI1bR9e9FtFl6sQo2YPNI1lwto79PXBIpQy6SjQjvpt9TIBFvUwp8daeqsQTIeqrddpeAEQO9IyvP3_eCF7e4RpYYh_sUhQhtVr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awx2t4Buf9SKH0zazzwpM6FApyWIfjUDn7iJsmVxTl9-ETeaZPnt9cMgUONWsFkL8fOXGUO5BleU_AmP6mn83FFRskqi4JadzIT7an7dzgXVIXEJCTl24CEDy2ze-g0Tx-MGV8qVNnAOEAQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0613",
   "raw_cells": {
     "col_0": {
-      "text": "84"
+      "text": "80"
     },
     "col_1": {
-      "text": "Ralph LaurenOld SeasonZipped Hoodie"
+      "text": "Ralph Lauren Roundneck Sweatshirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axooz8TbXC5Y-5Pd81InUwNpnK5FoDXBone51SSZ3THzXI1bR9e9FtFl6sQo2YPNI1lwto79PXBIpQy6SjQjvpt9TIBFvUwp8daeqsQTIeqrddpeAEQO9IyvP3_eCF7e4RpYYh_sUhQhtVr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awx2t4Buf9SKH0zazzwpM6FApyWIfjUDn7iJsmVxTl9-ETeaZPnt9cMgUONWsFkL8fOXGUO5BleU_AmP6mn83FFRskqi4JadzIT7an7dzgXVIXEJCTl24CEDy2ze-g0Tx-MGV8qVNnAOEAQ=w143-h110"
     },
     "col_3": {
-      "text": "NEWDP",
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://oopbuy.com/product/weidian/7423551790?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/7161615777?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
-    },
-    "col_6": {
-      "text": "15$"
+      "text": "16$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://newdp.x.yupoo.com/albums/176447946?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/153528829?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0613"
+  }
 }

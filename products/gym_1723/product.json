@@ -1,61 +1,61 @@
 {
-  "name": "GYMSHARKSocks3 Pairs",
+  "name": "GYMSHARKLong Sleeves3 Colors",
   "category": "Gym",
   "subcategory": "",
-  "best_batch": "CND ISLAND",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "CND ISLAND",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7522811624%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7522811624?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/744430826172?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/744430826172?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "6$(3 Pairs)",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "6$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2009469680350220290?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1943475810372546561?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyVaeXQBTteca8DNEo32HPC5ZWPaWf1TGBHcc1rEG3t2LUpuX0NfFbpxGXcv042vIpgzRaDje6un47O1Ld52z5N7eOopZ3ezDDtImJ1-Y7FhuWdiU5Ik3baMT9_J10vDJ3ULvYgtimNeA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwLgqRA_KorwS2w3fgei6bBWKO0NI1pFXinCNi_gUefq4Pzu3rdbs1NxCzr8feDDB7BVMJIvbInMk8Foj1aEIYWEpPM-BZthRne73FqQZo4zDSNlbflqwLLVLTC_Tm_rzB2v66hxXcf7ez2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1723",
   "raw_cells": {
     "col_0": {
-      "text": "24"
+      "text": "16"
     },
     "col_1": {
-      "text": "GYMSHARKSocks3 Pairs"
+      "text": "GYMSHARKLong Sleeves3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyVaeXQBTteca8DNEo32HPC5ZWPaWf1TGBHcc1rEG3t2LUpuX0NfFbpxGXcv042vIpgzRaDje6un47O1Ld52z5N7eOopZ3ezDDtImJ1-Y7FhuWdiU5Ik3baMT9_J10vDJ3ULvYgtimNeA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwLgqRA_KorwS2w3fgei6bBWKO0NI1pFXinCNi_gUefq4Pzu3rdbs1NxCzr8feDDB7BVMJIvbInMk8Foj1aEIYWEpPM-BZthRne73FqQZo4zDSNlbflqwLLVLTC_Tm_rzB2v66hxXcf7ez2=w143-h110"
     },
-    "col_3": {
-      "text": "CND ISLAND",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "CND ISLAND",
-          "url": "https://oopbuy.com/product/weidian/7522811624?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/744430826172?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "6$(3 Pairs)"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2009469680350220290?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1943475810372546561?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1723"
+  }
 }

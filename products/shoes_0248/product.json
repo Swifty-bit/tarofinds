@@ -1,65 +1,65 @@
 {
-  "name": "Canyon Purple",
+  "name": "Lightning",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4284806706%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4284806706?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX2.0",
+  "budget_batch": "KX",
   "budget_batch_links": [
     {
-      "label": "KX2.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7249836913%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+      "label": "KX",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "63$",
+  "best_price": "66$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxRWZiPwRmNrZmLia2IAdhmiYPKmK5mkUK7yLoxVoKvVQig--0k-_n5Msp3SKB1WYBkTZCacAuW9MN6fNLsV5R2pia5PwJAuytzoXqAU8nbHjqUe1GAEw28dvqn6qyStPng41dsiWIoYVm1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQiJv3-OjTkYZGx9qSVZLS3Y05wTUUrOTTId4It8s7Qw8kGz6-cYMO9gfULEwJYJG1-2aSlaZyyQQ6ACkUkJS_ZjLb91XqcbyywCiwhyT1kM5Xcs582l59x_c5tgL0LNdayfM0JlfF9-7v=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0248",
   "raw_cells": {
     "col_0": {
       "text": "263"
     },
     "col_1": {
-      "text": "Canyon Purple"
+      "text": "Lightning"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxRWZiPwRmNrZmLia2IAdhmiYPKmK5mkUK7yLoxVoKvVQig--0k-_n5Msp3SKB1WYBkTZCacAuW9MN6fNLsV5R2pia5PwJAuytzoXqAU8nbHjqUe1GAEw28dvqn6qyStPng41dsiWIoYVm1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQiJv3-OjTkYZGx9qSVZLS3Y05wTUUrOTTId4It8s7Qw8kGz6-cYMO9gfULEwJYJG1-2aSlaZyyQQ6ACkUkJS_ZjLb91XqcbyywCiwhyT1kM5Xcs582l59x_c5tgL0LNdayfM0JlfF9-7v=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "GX",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/2/4284806706?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "KX2.0",
+      "text": "KX",
       "links": [
         {
-          "label": "KX2.0",
-          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "63$"
+      "text": "66$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0248"
+  }
 }

@@ -1,87 +1,61 @@
 {
-  "name": "Ralph Lauren Zipped Hoodie",
+  "name": "Ralph LaurenHalf-Zip Sweatshirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Repkingdom",
   "best_batch_links": [
     {
       "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6990966530%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6990966530?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/6871018208?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6871018208?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F736469349863%3F%26inviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "28$",
-  "budget_price": "15$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "24$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://repkingdom.x.yupoo.com/albums/151671645?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/149753236?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeHhPse2CqimMcojg4GhlQEwSsbWWzwaI-HTbsiZB0RCsNdaHoNMUWODcTuFCAFWsihkfRYwsl7d6WRurEghR14zUUf1EXY-K_lW5pXAq-8eKTauLwip8XundsqpbB2JfWATVh4_NXWA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxaMKbMlzJFCYbEL0SvNL57rnG8ov9cVpJZS4Mrd4j0EmAcEVJYJaMtPcProObqleiAuDTObvJREv93mqVzSQytbcQjDQftZSj4izVUAZbFxWMgvGB3JAL1yjZVvxpkN8qupUmR3FfjpJZv=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0614",
   "raw_cells": {
     "col_0": {
-      "text": "85"
+      "text": "81"
     },
     "col_1": {
-      "text": "Ralph Lauren Zipped Hoodie"
+      "text": "Ralph LaurenHalf-Zip Sweatshirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeHhPse2CqimMcojg4GhlQEwSsbWWzwaI-HTbsiZB0RCsNdaHoNMUWODcTuFCAFWsihkfRYwsl7d6WRurEghR14zUUf1EXY-K_lW5pXAq-8eKTauLwip8XundsqpbB2JfWATVh4_NXWA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxaMKbMlzJFCYbEL0SvNL57rnG8ov9cVpJZS4Mrd4j0EmAcEVJYJaMtPcProObqleiAuDTObvJREv93mqVzSQytbcQjDQftZSj4izVUAZbFxWMgvGB3JAL1yjZVvxpkN8qupUmR3FfjpJZv=w143-h110"
     },
     "col_3": {
       "text": "Repkingdom",
       "links": [
         {
           "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/6990966530?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/1/736469349863?&inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/6871018208?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
-    },
-    "col_6": {
-      "text": "15$"
+      "text": "24$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://repkingdom.x.yupoo.com/albums/151671645?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424849990356993?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/149753236?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0614"
+  }
 }

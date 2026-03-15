@@ -1,5 +1,5 @@
 {
-  "name": "FendiSummer Set",
+  "name": "DiorSummer Set",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,7 +8,7 @@
   "budget_batch_links": [
     {
       "label": "Mangobuy",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7238024762%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7238024762?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7238024762?inviteCode=29TOTHGNH"
     }
   ],
@@ -22,17 +22,19 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLf5IdN6eDantoU8cYJQ-wwMXOjUg50lK8XSMEofUtyr39UoJpKws_zUzsGCuDbAV-Dk3TrT-Zl1sRcugKQ5Tf_58TNHwvlfxyRadiDDKR2D-9i9tC42yMPzOy7j0KF9vFrbXRYOGAUHfr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwRTZy9nT26NWFnKaBBDHAxizjlock3oE1NIFwnrhOh5IFADyIraKGFWoDJuRjoe7XxPEVC5b7UKEiNBubfz4PaZ7AokX2h84IfWy5hhBFTJOTm6CI3M-Tg8qYUKTjIfi7IJO9P7q8z6tTJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0842",
   "raw_cells": {
     "col_0": {
-      "text": "343"
+      "text": "337"
     },
     "col_1": {
-      "text": "FendiSummer Set"
+      "text": "DiorSummer Set"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLf5IdN6eDantoU8cYJQ-wwMXOjUg50lK8XSMEofUtyr39UoJpKws_zUzsGCuDbAV-Dk3TrT-Zl1sRcugKQ5Tf_58TNHwvlfxyRadiDDKR2D-9i9tC42yMPzOy7j0KF9vFrbXRYOGAUHfr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwRTZy9nT26NWFnKaBBDHAxizjlock3oE1NIFwnrhOh5IFADyIraKGFWoDJuRjoe7XxPEVC5b7UKEiNBubfz4PaZ7AokX2h84IfWy5hhBFTJOTm6CI3M-Tg8qYUKTjIfi7IJO9P7q8z6tTJ=w143-h110"
     },
     "col_4": {
       "text": "Mangobuy",
@@ -55,7 +57,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0842"
+  }
 }

@@ -1,55 +1,57 @@
 {
-  "name": "Ferragamo",
+  "name": "Burberry",
   "category": "Belts",
   "subcategory": "",
   "best_batch": "K8",
   "best_batch_links": [
     {
       "label": "K8",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7241913020%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7241913020?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7237735641?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7237735641?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F908065154082%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/769980002213?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/769980002213?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "34$",
+  "best_price": "35$",
   "budget_price": "2$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967777567391440897?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967414884611743745?action=discord&type=1&cid=1942512167859859457"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1987345362832138241?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUL6IT-KVVbqDDnYIapcv94AC-oifSnyMsD8lqxXWFbE7x6a_mxxgnvz68_Kja70gQhWd3003y4As8kgv_TLb5ItrURScGVJ4Rm2KQp79qdYBObxDz8t79SH9y2nvESUKWLTl5R8B6NT6W=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNo4PxKC8Klk_g6me3vX8zIpPYE3vcyhF2lNajoxqEoINj7xBbpo8hFOXOcV1vxjmTE1ydBiwq0a16jIuTYZUKwSm_YgSVGkFT3ULO91YPI9_wQl_CcvdI4bRI65ACar7MHQq5TQQZWQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1571",
   "raw_cells": {
     "col_0": {
-      "text": "33"
+      "text": "28"
     },
     "col_1": {
-      "text": "Ferragamo"
+      "text": "Burberry"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUL6IT-KVVbqDDnYIapcv94AC-oifSnyMsD8lqxXWFbE7x6a_mxxgnvz68_Kja70gQhWd3003y4As8kgv_TLb5ItrURScGVJ4Rm2KQp79qdYBObxDz8t79SH9y2nvESUKWLTl5R8B6NT6W=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNo4PxKC8Klk_g6me3vX8zIpPYE3vcyhF2lNajoxqEoINj7xBbpo8hFOXOcV1vxjmTE1ydBiwq0a16jIuTYZUKwSm_YgSVGkFT3ULO91YPI9_wQl_CcvdI4bRI65ACar7MHQq5TQQZWQ=w143-h110"
     },
     "col_3": {
       "text": "K8",
       "links": [
         {
           "label": "K8",
-          "url": "https://www.oopbuy.com/product/weidian/7241913020?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7237735641?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -58,12 +60,12 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/769980002213?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "34$"
+      "text": "35$"
     },
     "col_6": {
       "text": "2$"
@@ -73,15 +75,13 @@
       "links": [
         {
           "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967777567391440897?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967414884611743745?action=discord&type=1&cid=1942512167859859457"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1987345362832138241?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1571"
+  }
 }

@@ -1,47 +1,74 @@
 {
-  "name": "Odsy-100015 Colours",
+  "name": "Out Of Office White \"For Walking\"",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Shark",
+  "best_batch": "GZ/Shark",
   "best_batch_links": [
     {
+      "label": "GZ",
+      "url": "https://litbuy.com/product/weidian/7565966270?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "Shark",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7617194368%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7617194368?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7614176437?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "49$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "YC",
+  "budget_batch_links": [
+    {
+      "label": "YC",
+      "url": "https://litbuy.com/product/weidian/7614207865?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "52$ / 50$",
+  "budget_price": "33$",
+  "pics_text": "33$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxibaHXVMZQE775OEGy4KjNTWlM7rNkKRLIT_2g-VspOr8e5Nwy5Jp5mrxChDGMB1UdDXnJ-ka4HdeonP9X-YZQgp2K2LYb7S2FJPvIvuY22-_b2TVnXO06T1igK3DZ9S6UBRAsxsFDmg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awxg3vrtkJeT__6KZ_LejGqEqRXL6ivGkQ9lmTMf1qzdtRSde80P-XEJpyeDow5i6ir7X5tDOYJXFgvLJFxUabGlwwpnEx5_XzQ7RGzfLOkuCFck49ZuwuPYOQ5m-qRJwDHSw16db-600Dt=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0373",
   "raw_cells": {
     "col_0": {
       "text": "412"
     },
     "col_1": {
-      "text": "Odsy-100015 Colours"
+      "text": "Out Of Office White \"For Walking\""
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxibaHXVMZQE775OEGy4KjNTWlM7rNkKRLIT_2g-VspOr8e5Nwy5Jp5mrxChDGMB1UdDXnJ-ka4HdeonP9X-YZQgp2K2LYb7S2FJPvIvuY22-_b2TVnXO06T1igK3DZ9S6UBRAsxsFDmg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awxg3vrtkJeT__6KZ_LejGqEqRXL6ivGkQ9lmTMf1qzdtRSde80P-XEJpyeDow5i6ir7X5tDOYJXFgvLJFxUabGlwwpnEx5_XzQ7RGzfLOkuCFck49ZuwuPYOQ5m-qRJwDHSw16db-600Dt=w143-h110"
     },
     "col_3": {
-      "text": "Shark",
+      "text": "GZ/Shark",
       "links": [
         {
+          "label": "GZ",
+          "url": "https://oopbuy.com/product/weidian/7565966270?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "Shark",
-          "url": "https://oopbuy.com/product/weidian/7617194368?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7614176437?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "YC",
+      "links": [
+        {
+          "label": "YC",
+          "url": "https://oopbuy.com/product/weidian/7614207865?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "49$"
+      "text": "52$ / 50$"
+    },
+    "col_6": {
+      "text": "33$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0373"
+  }
 }

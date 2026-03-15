@@ -1,61 +1,87 @@
 {
-  "name": "CorteizHMP 3 StarPants",
+  "name": "Corteiz Alcatraz Basic PantsBlack/Black",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653809351%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653809351?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656813088?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656813088?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "26$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/741488778477?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "27$",
+  "budget_price": "14$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official.x.yupoo.com/albums/151236429?uid=1"
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/128077655?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9u7CzJPQLjLvLo-o_UNtejyBY1jfiRS3ip6BCc3WMphsgiKmPPiLyjkAE8H9JXTA9fWBcs-cByJVFDcjULFIhACFcpgvNg_BKW_Celh5LjCoc4hYn9NRWXMIGwsWNYkeAfByQn18pcG8R=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygkJI-KCbCaxduURZRiFE5yYisQeq2OyFfO2eShraJ-uo3F_urgpIr_5cZKNv7XtC6dRc9bA__udUP4LmBcBIOO9utreEFo8oUwWWjoQAIsZwKHDGJeV53NiU9GtY83nsdPpDGDcdElVq7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0676",
   "raw_cells": {
     "col_0": {
-      "text": "157"
+      "text": "153"
     },
     "col_1": {
-      "text": "CorteizHMP 3 StarPants"
+      "text": "Corteiz Alcatraz Basic PantsBlack/Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9u7CzJPQLjLvLo-o_UNtejyBY1jfiRS3ip6BCc3WMphsgiKmPPiLyjkAE8H9JXTA9fWBcs-cByJVFDcjULFIhACFcpgvNg_BKW_Celh5LjCoc4hYn9NRWXMIGwsWNYkeAfByQn18pcG8R=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygkJI-KCbCaxduURZRiFE5yYisQeq2OyFfO2eShraJ-uo3F_urgpIr_5cZKNv7XtC6dRc9bA__udUP4LmBcBIOO9utreEFo8oUwWWjoQAIsZwKHDGJeV53NiU9GtY83nsdPpDGDcdElVq7=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653809351?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656813088?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$"
+      "text": "27$"
+    },
+    "col_6": {
+      "text": "14$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official.x.yupoo.com/albums/151236429?uid=1"
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/128077655?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0676"
+  }
 }

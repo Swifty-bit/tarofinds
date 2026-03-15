@@ -1,47 +1,47 @@
 {
-  "name": "Stone IslandFuelCellRC Elite v2",
+  "name": "9060",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWTOP",
+  "best_batch": "M",
   "best_batch_links": [
     {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564111689%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564111689?inviteCode=29TOTHGNH"
+      "label": "M",
+      "url": "https://litbuy.com/product/taobao/7328075760?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7328075760?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "46$",
+  "best_price": "29$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwwJ9zK-_EhZVjLXPPulJdsh_GkQfZkdfC_ZWWhj_eynpltvwZg7f8_scyRjpFClq1XAhSHkujUzDNoPzdIfCkprAey9x9yjUObN-ALqcKoInomUMITS8whgG5MBgNWIi-y6i5bv-m-LMmC=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzUExk1W_HWhXtHvGv5eOs5lKbx_SVQ1rBSbQvRMiteHhwVTTaJLCYF0n0tEqLffjSg8CHugGjxN_pyD3DXbEoZekv8QYKoATGc5a_39dhBCCOi7CvQSOBw4nev3J-LLfQt3zMoRSuj3rA9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0362",
   "raw_cells": {
     "col_0": {
       "text": "395"
     },
     "col_1": {
-      "text": "Stone IslandFuelCellRC Elite v2"
+      "text": "9060"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwwJ9zK-_EhZVjLXPPulJdsh_GkQfZkdfC_ZWWhj_eynpltvwZg7f8_scyRjpFClq1XAhSHkujUzDNoPzdIfCkprAey9x9yjUObN-ALqcKoInomUMITS8whgG5MBgNWIi-y6i5bv-m-LMmC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzUExk1W_HWhXtHvGv5eOs5lKbx_SVQ1rBSbQvRMiteHhwVTTaJLCYF0n0tEqLffjSg8CHugGjxN_pyD3DXbEoZekv8QYKoATGc5a_39dhBCCOi7CvQSOBw4nev3J-LLfQt3zMoRSuj3rA9=w143-h110"
     },
     "col_3": {
-      "text": "WWTOP",
+      "text": "M",
       "links": [
         {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7564111689?inviteCode=29TOTHGNH"
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7328075760?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0362"
+  }
 }

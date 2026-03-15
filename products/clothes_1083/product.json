@@ -1,30 +1,30 @@
 {
-  "name": "MertraBigstep Denim(Black) Jeans",
+  "name": "MertraJogger Pants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
+  "best_batch": "pengreps",
   "best_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7540282851%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7540282851?inviteCode=29TOTHGNH"
+      "label": "pengreps",
+      "url": "https://litbuy.com/product/weidian/7482426844?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7482426844?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "30$",
-  "budget_price": "20$",
-  "pics_text": "elephant/budget",
+  "budget_price": "17$",
+  "pics_text": "pengreps/budget",
   "pics_links": [
     {
-      "label": "elephant",
-      "url": "https://elephant-factory.x.yupoo.com/albums/208987362?uid=1&isSubCate=false&referrercate=5000643"
+      "label": "pengreps",
+      "url": "https://pengreps.x.yupoo.com/albums/197629939?uid=1&isSubCate=false&referrercate=4856023"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyP0hilivo30mgckuZSbEYMrXl9Xq1CNrNWqGrgRIDecyoaN9AnJ2ut1fyvMzdE89RRvrkDY1Nn2vRIYTOK09PKqafprW8Pgki_pRLc6EtbJBi6u8_SAkc-q5A3yB5TD16sZwHEK-aBwI6s=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AysiR89gO-Ccls6wLggVXzR-GHHhvD0ybnIXE6sTlU_qgf5T2ftb2ClQ_kHrtyfqxM9ydkqTlX-70ZUNN4LWnV2JDtdIb7Cy9c59T18p0PTuHYIwW9bn16LV66HLHaISPNASg531fWvVA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1083",
   "raw_cells": {
     "col_0": {
-      "text": "634"
+      "text": "630"
     },
     "col_1": {
-      "text": "MertraBigstep Denim(Black) Jeans"
+      "text": "MertraJogger Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyP0hilivo30mgckuZSbEYMrXl9Xq1CNrNWqGrgRIDecyoaN9AnJ2ut1fyvMzdE89RRvrkDY1Nn2vRIYTOK09PKqafprW8Pgki_pRLc6EtbJBi6u8_SAkc-q5A3yB5TD16sZwHEK-aBwI6s=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AysiR89gO-Ccls6wLggVXzR-GHHhvD0ybnIXE6sTlU_qgf5T2ftb2ClQ_kHrtyfqxM9ydkqTlX-70ZUNN4LWnV2JDtdIb7Cy9c59T18p0PTuHYIwW9bn16LV66HLHaISPNASg531fWvVA=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
+      "text": "pengreps",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7540282851?inviteCode=29TOTHGNH"
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7482426844?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -66,14 +68,14 @@
       "text": "30$"
     },
     "col_6": {
-      "text": "20$"
+      "text": "17$"
     },
     "col_7": {
-      "text": "elephant/budget",
+      "text": "pengreps/budget",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://elephant-factory.x.yupoo.com/albums/208987362?uid=1&isSubCate=false&referrercate=5000643"
+          "label": "pengreps",
+          "url": "https://pengreps.x.yupoo.com/albums/197629939?uid=1&isSubCate=false&referrercate=4856023"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1083"
+  }
 }

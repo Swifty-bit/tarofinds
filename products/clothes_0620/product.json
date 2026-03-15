@@ -1,90 +1,61 @@
 {
-  "name": "Ralph LaurenHalf-Zip Sweater",
+  "name": "Ralph Lauren FW24Zipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Repkingdom",
   "best_batch_links": [
     {
       "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6989768087%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6989768087?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7289304864?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7289304864?&inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "CloudShop",
-  "budget_batch_links": [
-    {
-      "label": "CloudShop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F829912346081%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/829912346081?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "34$",
-  "budget_price": "22$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "37$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://repkingdom.x.yupoo.com/albums/151657988?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1890204541917433858?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/177687898?uid=1&isSubCate=false&referrercate=4373091"
     }
   ],
-  "notes": "90% Wool, 10% Cashmere",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3b_5ikwwGnXopWcv_q418DBWUwvwmc1corO6vQIqnOp2ItdZxwa5NF3hwTlYJ4EakzltaAIexlter37_E2Rt-ihLtu-wG2tE93q2kxE8wbqBXOgSQmlwfZ9SpjFLhv5eJ5QgERTqqhw=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayco2WKqCnAV5vfcsHPxG8YkY3afBUSJPIijnjWU-twB3qziQy66lDTPNpPSEke3ef2BtWtnmMw7VvnKMdcBowJxugIpl6E4-VumSfM9Tao2QNw8dpAUI23f17csE-RcqNIZBDdxBh7Do3i=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0620",
   "raw_cells": {
     "col_0": {
-      "text": "91"
+      "text": "87"
     },
     "col_1": {
-      "text": "Ralph LaurenHalf-Zip Sweater"
+      "text": "Ralph Lauren FW24Zipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3b_5ikwwGnXopWcv_q418DBWUwvwmc1corO6vQIqnOp2ItdZxwa5NF3hwTlYJ4EakzltaAIexlter37_E2Rt-ihLtu-wG2tE93q2kxE8wbqBXOgSQmlwfZ9SpjFLhv5eJ5QgERTqqhw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayco2WKqCnAV5vfcsHPxG8YkY3afBUSJPIijnjWU-twB3qziQy66lDTPNpPSEke3ef2BtWtnmMw7VvnKMdcBowJxugIpl6E4-VumSfM9Tao2QNw8dpAUI23f17csE-RcqNIZBDdxBh7Do3i=w143-h110"
     },
     "col_3": {
       "text": "Repkingdom",
       "links": [
         {
           "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/6989768087?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "CloudShop",
-      "links": [
-        {
-          "label": "CloudShop",
-          "url": "https://www.oopbuy.com/product/1/829912346081?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7289304864?&inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "34$"
-    },
-    "col_6": {
-      "text": "22$"
+      "text": "37$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://repkingdom.x.yupoo.com/albums/151657988?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1890204541917433858?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/177687898?uid=1&isSubCate=false&referrercate=4373091"
         }
       ]
-    },
-    "col_8": {
-      "text": "90% Wool, 10% Cashmere"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0620"
+  }
 }

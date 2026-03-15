@@ -1,13 +1,13 @@
 {
-  "name": "Birkenstock Arizona",
+  "name": "Dolce & GabbanaSlides",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234183359%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234183359?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/3698127594?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/3698127594?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyiSbaSMHGtY1DA1L_kIOEbJtIkPM0W0NWU_1LlbgtymVOfbnmXBqiXfCRMOuGRPlTV6P_-SanZmJH3xTp_x7F6iGeaOkwVXX9waVlwMSRvWX8TJuAQX2n3bl0yoc_KTJgBUuV-9etIWw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmlD2QlMw7v87Rg2tn_NRqL9vVCrlHCLoyZ3v2DVtb-emI5vrDc1rxXPSBIMJ4fAvN7E6OU5lH319H6iKu2I5e_MBkcfnkj0yR73UWhgJK_123jNraCaeoflYUnKJLgbZ2yiWA8pqNeA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0514",
   "raw_cells": {
     "col_0": {
-      "text": "621"
+      "text": "615"
     },
     "col_1": {
-      "text": "Birkenstock Arizona"
+      "text": "Dolce & GabbanaSlides"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyiSbaSMHGtY1DA1L_kIOEbJtIkPM0W0NWU_1LlbgtymVOfbnmXBqiXfCRMOuGRPlTV6P_-SanZmJH3xTp_x7F6iGeaOkwVXX9waVlwMSRvWX8TJuAQX2n3bl0yoc_KTJgBUuV-9etIWw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmlD2QlMw7v87Rg2tn_NRqL9vVCrlHCLoyZ3v2DVtb-emI5vrDc1rxXPSBIMJ4fAvN7E6OU5lH319H6iKu2I5e_MBkcfnkj0yR73UWhgJK_123jNraCaeoflYUnKJLgbZ2yiWA8pqNeA=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7234183359?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/3698127594?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0514"
+  }
 }

@@ -1,33 +1,35 @@
 {
-  "name": "Flight Club",
+  "name": "Cozy Girl",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "73$",
+  "best_price": "72$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwkRXwworL86GngA4bCUe8jyMQOoyYOejrcGAaA66fkgmCEo3lcLVP4OO9R8EhLfxFtueULO94gItgVg-dKxk156DyRQG27mdgXjGBbL3IChFsXIeCX0mLYUmCqOlD7Lhs3gzU7-pGDgT26=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzR-BFRkyy6sMlf-5bDQCNHqwTF0cPXIENMS7C125AFO_h0W6nm7QpurQtj0onSpz5m_4CdLPl9kWvRUAykwon0Uy5Grh8peJwfZ6du3r5NBDdeMm04wqW5ZRdxf_iXLu5ouLecE2DMzw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0280",
   "raw_cells": {
     "col_0": {
       "text": "295"
     },
     "col_1": {
-      "text": "Flight Club"
+      "text": "Cozy Girl"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwkRXwworL86GngA4bCUe8jyMQOoyYOejrcGAaA66fkgmCEo3lcLVP4OO9R8EhLfxFtueULO94gItgVg-dKxk156DyRQG27mdgXjGBbL3IChFsXIeCX0mLYUmCqOlD7Lhs3gzU7-pGDgT26=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzR-BFRkyy6sMlf-5bDQCNHqwTF0cPXIENMS7C125AFO_h0W6nm7QpurQtj0onSpz5m_4CdLPl9kWvRUAykwon0Uy5Grh8peJwfZ6du3r5NBDdeMm04wqW5ZRdxf_iXLu5ouLecE2DMzw=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -39,9 +41,7 @@
       ]
     },
     "col_5": {
-      "text": "73$"
+      "text": "72$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0280"
+  }
 }

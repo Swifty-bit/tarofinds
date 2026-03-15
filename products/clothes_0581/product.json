@@ -1,13 +1,13 @@
 {
-  "name": "Nike x StussySweatpants",
+  "name": "Nike x StussyHoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "NEWDP",
   "best_batch_links": [
     {
       "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7597050652%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7597050652?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7595144607?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7595144607?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://newdp.x.yupoo.com/albums/177083415?uid=1"
+      "url": "https://newdp.x.yupoo.com/albums/177083389?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awx9P2PhFlJOMUeflYSa4PAbm-fp3t_V6F040fDRkyJwcO8cWPHBugwVRlETzmDM0G1Qcu8MsTvuBv74IsHOobLpnnwwC7fQvfyuBSowSUlOHZQYH3sj9Qu10hXXfqRrNsre7fXzrmBWA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awjai-CReixkfco5_cOFqMiALdw-hwHpLTD4CdJigNa8E3Yt-7wrZmaTU9Ik1FuaV8ItSoYv4ZePTiktY8yAWfAmb_4TtS9HyQzYH0R-x4rvbLEA-9lwqD8_BIgd3k0MnoBKIKvZ-lgYg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0581",
   "raw_cells": {
     "col_0": {
-      "text": "48"
+      "text": "44"
     },
     "col_1": {
-      "text": "Nike x StussySweatpants"
+      "text": "Nike x StussyHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awx9P2PhFlJOMUeflYSa4PAbm-fp3t_V6F040fDRkyJwcO8cWPHBugwVRlETzmDM0G1Qcu8MsTvuBv74IsHOobLpnnwwC7fQvfyuBSowSUlOHZQYH3sj9Qu10hXXfqRrNsre7fXzrmBWA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awjai-CReixkfco5_cOFqMiALdw-hwHpLTD4CdJigNa8E3Yt-7wrZmaTU9Ik1FuaV8ItSoYv4ZePTiktY8yAWfAmb_4TtS9HyQzYH0R-x4rvbLEA-9lwqD8_BIgd3k0MnoBKIKvZ-lgYg=w143-h110"
     },
     "col_3": {
       "text": "NEWDP",
       "links": [
         {
           "label": "NEWDP",
-          "url": "https://oopbuy.com/product/weidian/7597050652?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7595144607?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://newdp.x.yupoo.com/albums/177083415?uid=1"
+          "url": "https://newdp.x.yupoo.com/albums/177083389?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0581"
+  }
 }

@@ -1,58 +1,61 @@
 {
-  "name": "here",
+  "name": "KsubiSweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "Bigd",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F848328829850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/848328829850?inviteCode=29TOTHGNH"
+      "label": "Bigd",
+      "url": "https://litbuy.com/product/weidian/738251831542?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/738251831542?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "6$",
+  "best_price": "22$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2029026125315919874?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://finds.ly/product/taobao/738251831542"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXndp4xMhjEMqFFxl0lWC1hyXDDBceo55CNTfALk2lUVoL-kXewUPSzRI7sZ-sikBA5L_FyWH68lCuUnb1xfTOTaA0Uigp1EjHjjUTCeRfGK8BKrjJY0SJ5Orpl_6vZLSbJ9uDr8S4qozg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azi-IBu-UYvxqn78vD2UTGNbxnHZeD01X5wdKC8zpJ996e85xe3Y0FTnf0TQiJXOWE_mpB2-8y6PfOz6kaYEr-IhTtsepaNIOU3Co-uXqScnkgQXql0cvVGttj0528vI8g1hekYQgDLrpHF=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1242",
   "raw_cells": {
     "col_0": {
-      "text": "827"
+      "text": "819"
+    },
+    "col_1": {
+      "text": "KsubiSweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXndp4xMhjEMqFFxl0lWC1hyXDDBceo55CNTfALk2lUVoL-kXewUPSzRI7sZ-sikBA5L_FyWH68lCuUnb1xfTOTaA0Uigp1EjHjjUTCeRfGK8BKrjJY0SJ5Orpl_6vZLSbJ9uDr8S4qozg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azi-IBu-UYvxqn78vD2UTGNbxnHZeD01X5wdKC8zpJ996e85xe3Y0FTnf0TQiJXOWE_mpB2-8y6PfOz6kaYEr-IhTtsepaNIOU3Co-uXqScnkgQXql0cvVGttj0528vI8g1hekYQgDLrpHF=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "Bigd",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/848328829850?inviteCode=29TOTHGNH"
+          "label": "Bigd",
+          "url": "https://www.oopbuy.com/product/1/738251831542?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "6$"
+      "text": "22$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2029026125315919874?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://finds.ly/product/taobao/738251831542"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1242"
+  }
 }

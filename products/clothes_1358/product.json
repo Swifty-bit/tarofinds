@@ -1,61 +1,87 @@
 {
-  "name": "Chrome HeartsJeans Pants",
+  "name": "Chrome Hearts Zipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
+    {
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/7504551047?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7504551047?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F826782381094%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/826782381094?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/854990248735?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/854990248735?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "14$",
-  "pics_text": "QC Pics",
+  "best_price": "46$",
+  "budget_price": "18$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/ali1688/826782381094"
+      "label": "best",
+      "url": "https://tophotfashion.x.yupoo.com/albums/170539183?uid=1&isSubCate=false&referrercate=4644883"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2023223841025773569?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyKa6cNx-rVCLsTkWRfN4TL2MyJURJS_e_Wqs5KxfbM8Fw8gNQfC6NRFNxVTejspsiPVqPP06wwgofp4TeP0QGEtlw9_z0BwixgoWyRn-0HOOgCBWvb4VHhu3iuBp7ibpvpeBf7bY-_zaEg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw74YLYHUjJHL2F-gomjK7KqZZ09xOr1nWMV7cs_Ts9NOxQoOZFmEmhdziK5bkkvyaOcAnPuGqoj7oNct7HxPEgIzJlqwJWK6ooQ1dnEaegolLQGf1IDCEQPDLlv8P3obY0diAups0U7TA7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1358",
   "raw_cells": {
     "col_0": {
-      "text": "957"
+      "text": "953"
     },
     "col_1": {
-      "text": "Chrome HeartsJeans Pants"
+      "text": "Chrome Hearts Zipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyKa6cNx-rVCLsTkWRfN4TL2MyJURJS_e_Wqs5KxfbM8Fw8gNQfC6NRFNxVTejspsiPVqPP06wwgofp4TeP0QGEtlw9_z0BwixgoWyRn-0HOOgCBWvb4VHhu3iuBp7ibpvpeBf7bY-_zaEg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw74YLYHUjJHL2F-gomjK7KqZZ09xOr1nWMV7cs_Ts9NOxQoOZFmEmhdziK5bkkvyaOcAnPuGqoj7oNct7HxPEgIzJlqwJWK6ooQ1dnEaegolLQGf1IDCEQPDLlv8P3obY0diAups0U7TA7=w143-h110"
+    },
+    "col_3": {
+      "text": "tophotfashion",
+      "links": [
+        {
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/weidian/7504551047?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/826782381094?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/854990248735?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "46$"
+    },
     "col_6": {
-      "text": "14$"
+      "text": "18$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/ali1688/826782381094"
+          "label": "best",
+          "url": "https://tophotfashion.x.yupoo.com/albums/170539183?uid=1&isSubCate=false&referrercate=4644883"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2023223841025773569?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1358"
+  }
 }

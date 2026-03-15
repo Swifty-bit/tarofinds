@@ -1,61 +1,61 @@
 {
-  "name": "Anti SocialSocial ClubT-Shirt109 Colors",
+  "name": "MM6 Pants4 Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "FFCP",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F764402013330%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/764402013330?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/818388363141?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/818388363141?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "6$",
+  "budget_price": "14$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/taobao/764402013330"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1990606931411161089?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxoQtYGix7lr_4QTC9h1QeP0rrYKlwpne2uVNCpYnw3G_xMpCroV-QNSZSczyALG3E1S-SEW1QVYkk2P1TwTMR5VPrtnhNx-A-Szv4-uDtmrtrE3L4Cx3Xfy0IVUEz4mmLZSARnc6dBC8lp=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AywLoUVdNAviaFw8WI2S-Oei8AMFLQInFJ16lcRH3TioG6hy49E3FUlYXkN96cTmtuvj4hbfn-PDzpG99iwdJpuI7BUTgKzLKy9s6H8T-xLnc6L1Zw-bpGDkD5Xxx0lXG6ujTVXJopuIg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1174",
   "raw_cells": {
     "col_0": {
-      "text": "741"
+      "text": "735"
     },
     "col_1": {
-      "text": "Anti SocialSocial ClubT-Shirt109 Colors"
+      "text": "MM6 Pants4 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxoQtYGix7lr_4QTC9h1QeP0rrYKlwpne2uVNCpYnw3G_xMpCroV-QNSZSczyALG3E1S-SEW1QVYkk2P1TwTMR5VPrtnhNx-A-Szv4-uDtmrtrE3L4Cx3Xfy0IVUEz4mmLZSARnc6dBC8lp=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AywLoUVdNAviaFw8WI2S-Oei8AMFLQInFJ16lcRH3TioG6hy49E3FUlYXkN96cTmtuvj4hbfn-PDzpG99iwdJpuI7BUTgKzLKy9s6H8T-xLnc6L1Zw-bpGDkD5Xxx0lXG6ujTVXJopuIg=w143-h110"
     },
     "col_4": {
-      "text": "FFCP",
+      "text": "budget",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/764402013330?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/818388363141?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "6$"
+      "text": "14$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/taobao/764402013330"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1990606931411161089?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1174"
+  }
 }

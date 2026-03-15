@@ -1,47 +1,47 @@
 {
-  "name": "Off Court 3.0",
+  "name": "Out Of OfficeVulcanized High7 Colours",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OW STUDIO",
   "best_batch_links": [
     {
       "label": "OW STUDIO",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F693057351423%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/693057351423?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/711257320393?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/711257320393?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "84$",
+  "best_price": "81$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyhLNFk_qDmuPZJOga99RmC-4l9mM1uuDfX8k2WJm1rCwjfROINEvX9L3aTCCUdQk-9UA1mWEoeEP7qX_edn_B2KdJNG9P6NZ1WYWdLyEwIIjdGKi97hVAl86gmGgiwcXG3-3H-0YOJz2AZ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9OqADmicWnUBAzp6xONgJjCehlifgk62KqPH8zj8Ws-D9ari4RQstf1GwSvQY-aerYYqRq3098vqe7ii-gzITOnKNiYWF3C3Hu5O5pkqP80HVah_ljiOu2idPaK-rki6HtJFApF4dYeMM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0375",
   "raw_cells": {
     "col_0": {
       "text": "414"
     },
     "col_1": {
-      "text": "Off Court 3.0"
+      "text": "Out Of OfficeVulcanized High7 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyhLNFk_qDmuPZJOga99RmC-4l9mM1uuDfX8k2WJm1rCwjfROINEvX9L3aTCCUdQk-9UA1mWEoeEP7qX_edn_B2KdJNG9P6NZ1WYWdLyEwIIjdGKi97hVAl86gmGgiwcXG3-3H-0YOJz2AZ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9OqADmicWnUBAzp6xONgJjCehlifgk62KqPH8zj8Ws-D9ari4RQstf1GwSvQY-aerYYqRq3098vqe7ii-gzITOnKNiYWF3C3Hu5O5pkqP80HVah_ljiOu2idPaK-rki6HtJFApF4dYeMM=w143-h110"
     },
     "col_3": {
       "text": "OW STUDIO",
       "links": [
         {
           "label": "OW STUDIO",
-          "url": "https://oopbuy.com/product/1/693057351423?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/711257320393?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "84$"
+      "text": "81$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0375"
+  }
 }

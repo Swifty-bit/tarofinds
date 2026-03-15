@@ -1,56 +1,47 @@
 {
-  "name": "Gazelle",
+  "name": "Spezial",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Repsun/WWTOP",
+  "best_batch": "TS",
   "best_batch_links": [
     {
-      "label": "Repsun",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7603723914%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7603723914?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564014839%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564014839?inviteCode=29TOTHGNH"
+      "label": "TS",
+      "url": "https://litbuy.com/product/weidian/7387481338?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7387481338?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "24$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azds0CEzh502E3zTwIMxGEFUsU-ywdYtGuGuSfuYhlitPgg2JgtLrShGIQ-_8ayhjj8UjmBSbbCbtFpBHEfpKL1BMxUy0gVzMvqmk5jjNfSc012178vMcP_nfYfwyc3cAWKAsEHfvDq_N8u=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axo2C0aPDU8yqyl34eD7fXdiHFEVHUczKBdi9K6cnHldbend8Jhg60nsaw3kaZMD6zVczk6wwOCbNRpTKQ0KRkHqzPxDHlonaLrgGudbxGhLt2FANRC5gLUIsxSuKY_ed-KRYTi1Xr714E3=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0332",
   "raw_cells": {
     "col_0": {
       "text": "361"
     },
     "col_1": {
-      "text": "Gazelle"
+      "text": "Spezial"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azds0CEzh502E3zTwIMxGEFUsU-ywdYtGuGuSfuYhlitPgg2JgtLrShGIQ-_8ayhjj8UjmBSbbCbtFpBHEfpKL1BMxUy0gVzMvqmk5jjNfSc012178vMcP_nfYfwyc3cAWKAsEHfvDq_N8u=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axo2C0aPDU8yqyl34eD7fXdiHFEVHUczKBdi9K6cnHldbend8Jhg60nsaw3kaZMD6zVczk6wwOCbNRpTKQ0KRkHqzPxDHlonaLrgGudbxGhLt2FANRC5gLUIsxSuKY_ed-KRYTi1Xr714E3=w143-h110"
     },
     "col_3": {
-      "text": "Repsun/WWTOP",
+      "text": "TS",
       "links": [
         {
-          "label": "Repsun",
-          "url": "https://oopbuy.com/product/weidian/7603723914?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7564014839?inviteCode=29TOTHGNH"
+          "label": "TS",
+          "url": "https://oopbuy.com/product/weidian/7387481338?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "24$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0332"
+  }
 }

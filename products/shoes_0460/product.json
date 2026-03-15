@@ -1,65 +1,47 @@
 {
-  "name": "Skeleton",
+  "name": "Waterfront MuleSlidesBlack / White",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Alexander",
+  "best_batch": "GZ",
   "best_batch_links": [
     {
-      "label": "Alexander",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7232607440%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7232607440?inviteCode=29TOTHGNH"
+      "label": "GZ",
+      "url": "https://litbuy.com/product/weidian/7312690227?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7312690227?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F853596245560%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/853596245560?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "86$",
-  "budget_price": "20$",
-  "pics_text": "20$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "27$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCkSEmY8VTEXSFOFea-OHxBdTJtbkrf8LY7vIfIiUNbLRKKnrH3RltGiRQ9nO-YsNljh4c6pazmcV9D15cjAeOTylF_jc4OPe7eGotxSbYIcFjVw4lqHsmceBdPS_znTN1w4m_UpsZlmdw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7eB77A9lmc5bt6P26D6JFfw8xZijjJTVA7JOpNpQQCZkHASTf6C_5k6-ovjKqqxQLPYiVBI3OGJ5-bZnnzGmBcD-X1wDbBqtR6SC3zhDUHypTas47ie-c5PeuBXLyOFFbNLV3Y5NPHbke=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0460",
   "raw_cells": {
     "col_0": {
-      "text": "523"
+      "text": "521"
     },
     "col_1": {
-      "text": "Skeleton"
+      "text": "Waterfront MuleSlidesBlack / White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCkSEmY8VTEXSFOFea-OHxBdTJtbkrf8LY7vIfIiUNbLRKKnrH3RltGiRQ9nO-YsNljh4c6pazmcV9D15cjAeOTylF_jc4OPe7eGotxSbYIcFjVw4lqHsmceBdPS_znTN1w4m_UpsZlmdw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7eB77A9lmc5bt6P26D6JFfw8xZijjJTVA7JOpNpQQCZkHASTf6C_5k6-ovjKqqxQLPYiVBI3OGJ5-bZnnzGmBcD-X1wDbBqtR6SC3zhDUHypTas47ie-c5PeuBXLyOFFbNLV3Y5NPHbke=w143-h110"
     },
     "col_3": {
-      "text": "Alexander",
+      "text": "GZ",
       "links": [
         {
-          "label": "Alexander",
-          "url": "https://oopbuy.com/product/2/7232607440?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/853596245560?inviteCode=29TOTHGNH"
+          "label": "GZ",
+          "url": "https://oopbuy.com/product/weidian/7312690227?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "86$"
-    },
-    "col_6": {
-      "text": "20$"
+      "text": "27$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0460"
+  }
 }

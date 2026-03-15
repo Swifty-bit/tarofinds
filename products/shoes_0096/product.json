@@ -1,12 +1,12 @@
 {
-  "name": "Supreme Stars Green",
+  "name": "Supreme Stars Barkroot Brown",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245075709%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7245075709?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyhT-DVit6VJF8VaEwWnEHo_o8Lm9MLxNybUKF86gjezDwexjE6XecaBHzh2QOwgNZKZxcdpNZBz9EBcTP-pqFEZMDhXeBnJB-zfOzAVB3hKRPRYwPmFCX4RIXPbYK6e3kG9-iwvMzaQaTS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnaUYkJPPrLYPHzDptfWXHI7U-_KOs3yA9FNd0tlot-dkVzIu4LYWTFbe0A0a02wWIy1l8wcJTgU2K4Ep3AeU7RpAm9-Hn5JKwGYjrQPdvoreTBB1Qe0Gj4-O75rA01tgBjMzjsja08mNA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0096",
   "raw_cells": {
     "col_0": {
       "text": "105"
     },
     "col_1": {
-      "text": "Supreme Stars Green"
+      "text": "Supreme Stars Barkroot Brown"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyhT-DVit6VJF8VaEwWnEHo_o8Lm9MLxNybUKF86gjezDwexjE6XecaBHzh2QOwgNZKZxcdpNZBz9EBcTP-pqFEZMDhXeBnJB-zfOzAVB3hKRPRYwPmFCX4RIXPbYK6e3kG9-iwvMzaQaTS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnaUYkJPPrLYPHzDptfWXHI7U-_KOs3yA9FNd0tlot-dkVzIu4LYWTFbe0A0a02wWIy1l8wcJTgU2K4Ep3AeU7RpAm9-Hn5JKwGYjrQPdvoreTBB1Qe0Gj4-O75rA01tgBjMzjsja08mNA=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "59$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0096"
+  }
 }

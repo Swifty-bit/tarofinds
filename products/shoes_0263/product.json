@@ -1,65 +1,47 @@
 {
-  "name": "Oxidized Green",
+  "name": "Toro Bravo",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX",
-  "budget_batch_links": [
-    {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
-    }
-  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
   "best_price": "66$",
-  "budget_price": "50$",
-  "pics_text": "50$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzSBNs2woOLV4SYl_P6GSQpv6VdhNTeLJk6VpOt72Jyj_udhdt52Hkf1VTs6o-XL_sosHPu5w7C9diziMPKK5XKlQv7WXeQ8X83ZSWZDR84oWXmWCHPWvf4Jho0ZOb9NIlqUZ697Ktglr4C=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4TBorif2a9jNDJ8SIJ8q5KhuTWyvUycpdI-jxg1FTVsKUmyEk4M1nYI-0pnhKs4nc44bEnrYdA13pk8XYOQsOEY9BVkH0jkxhP-1biLe0-wDeVux4YO_xbsEXA-orBckGKtUVkeog8A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0263",
   "raw_cells": {
     "col_0": {
       "text": "278"
     },
     "col_1": {
-      "text": "Oxidized Green"
+      "text": "Toro Bravo"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzSBNs2woOLV4SYl_P6GSQpv6VdhNTeLJk6VpOt72Jyj_udhdt52Hkf1VTs6o-XL_sosHPu5w7C9diziMPKK5XKlQv7WXeQ8X83ZSWZDR84oWXmWCHPWvf4Jho0ZOb9NIlqUZ697Ktglr4C=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4TBorif2a9jNDJ8SIJ8q5KhuTWyvUycpdI-jxg1FTVsKUmyEk4M1nYI-0pnhKs4nc44bEnrYdA13pk8XYOQsOEY9BVkH0jkxhP-1biLe0-wDeVux4YO_xbsEXA-orBckGKtUVkeog8A=w143-h110"
     },
     "col_3": {
       "text": "GX",
       "links": [
         {
           "label": "GX",
-          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "KX",
-      "links": [
-        {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "66$"
-    },
-    "col_6": {
-      "text": "50$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0263"
+  }
 }

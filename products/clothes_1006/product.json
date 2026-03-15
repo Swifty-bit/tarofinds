@@ -1,64 +1,61 @@
 {
-  "name": "Saint AlexanderHoodie2 Colors",
+  "name": "Knit SweaterHeater Gray",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "hotdog-official",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F862852791296%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
+      "label": "hotdog-official",
+      "url": "https://litbuy.com/product/weidian/7342510584?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7342510584?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "26$",
+  "best_price": "30$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://hotdog-official.x.yupoo.com/albums/158110758?uid=1"
     }
   ],
-  "notes": "80% Cotton / 20% Cotton Blend",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awui94x7pGNx_r2uyWzqW6lJTg-G5Tp0N9Kn3mnVUCvHBY4sgEzzP_3mhR2dEDOnB0f1drylsdBaSfWir83-bqRK6ZaT3B-4ylAjPALovKaG5p72PRxDlqjCKRICALADILLiN-moJOkQQ=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axs43g_V6kBqBlTZKAx18XapDwS85FhtxQ4Yb-m2trGjl2dnrvi3NgLGyXqYAwusmetY7pFialFgCZBHfEcis8deAdAWv2iydadzpu9n91s-lAI_2G6wHTccGo92wFE-FgTHVJV6uzEOg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1006",
   "raw_cells": {
     "col_0": {
-      "text": "545"
+      "text": "539"
     },
     "col_1": {
-      "text": "Saint AlexanderHoodie2 Colors"
+      "text": "Knit SweaterHeater Gray"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awui94x7pGNx_r2uyWzqW6lJTg-G5Tp0N9Kn3mnVUCvHBY4sgEzzP_3mhR2dEDOnB0f1drylsdBaSfWir83-bqRK6ZaT3B-4ylAjPALovKaG5p72PRxDlqjCKRICALADILLiN-moJOkQQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axs43g_V6kBqBlTZKAx18XapDwS85FhtxQ4Yb-m2trGjl2dnrvi3NgLGyXqYAwusmetY7pFialFgCZBHfEcis8deAdAWv2iydadzpu9n91s-lAI_2G6wHTccGo92wFE-FgTHVJV6uzEOg=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "hotdog-official",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
+          "label": "hotdog-official",
+          "url": "https://www.oopbuy.com/product/weidian/7342510584?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "26$"
+      "text": "30$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://hotdog-official.x.yupoo.com/albums/158110758?uid=1"
         }
       ]
-    },
-    "col_8": {
-      "text": "80% Cotton / 20% Cotton Blend"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1006"
+  }
 }

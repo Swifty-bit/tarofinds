@@ -1,61 +1,61 @@
 {
-  "name": "LacosteWoolKnit Sweater4 Colors",
+  "name": "LacosteHalf-Zip Sweatshirt7 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "FrenchFish",
   "best_batch_links": [
     {
       "label": "FrenchFish",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7280264052%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7280264052?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7262161224?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7262161224?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "38$",
+  "best_price": "36$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1953986077842300930?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1922094751354503169?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwbK7GeHpY4bGZI0IVG925ok2OTu0j39jCz77gkNlYYgwghYRPtjpOkU5Q1fylAcz1wySwpWnaOeMlUAjvHra0sHWGNO8XW53Cp9w3zEYGi7Q2IwWiQBScXJSl7HETWlRaQyGlA7XOrOw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzGbR_jZHGsfu9km8gOjbpS4Vpr3V1BF4olrePrhp0w-Kc5daJKDIiBm7eu_HTR1RSJt9Nd1DOiOxgHSHxvoEUKlGeUrytrv7H4CXqiNKbvBtJb8bBJj286-uK0MaWCCvkQeQOPFNW3nYwW=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1303",
   "raw_cells": {
     "col_0": {
-      "text": "894"
+      "text": "890"
     },
     "col_1": {
-      "text": "LacosteWoolKnit Sweater4 Colors"
+      "text": "LacosteHalf-Zip Sweatshirt7 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwbK7GeHpY4bGZI0IVG925ok2OTu0j39jCz77gkNlYYgwghYRPtjpOkU5Q1fylAcz1wySwpWnaOeMlUAjvHra0sHWGNO8XW53Cp9w3zEYGi7Q2IwWiQBScXJSl7HETWlRaQyGlA7XOrOw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzGbR_jZHGsfu9km8gOjbpS4Vpr3V1BF4olrePrhp0w-Kc5daJKDIiBm7eu_HTR1RSJt9Nd1DOiOxgHSHxvoEUKlGeUrytrv7H4CXqiNKbvBtJb8bBJj286-uK0MaWCCvkQeQOPFNW3nYwW=w143-h110"
     },
     "col_3": {
       "text": "FrenchFish",
       "links": [
         {
           "label": "FrenchFish",
-          "url": "https://oopbuy.com/product/weidian/7280264052?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7262161224?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "36$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1953986077842300930?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1922094751354503169?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1303"
+  }
 }

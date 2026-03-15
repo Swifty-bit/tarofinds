@@ -1,0 +1,61 @@
+{
+  "name": "MCM Backpacks",
+  "category": "Wallets/Bags",
+  "subcategory": "",
+  "best_batch": "MissChen",
+  "best_batch_links": [
+    {
+      "label": "MissChen",
+      "url": "https://litbuy.com/product/weidian/7289694722?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7289694722?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "89$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1962320496931987458?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFGQCTl9yz7Iz-8lxHEW8i8bX_GoEG4dObf8erv0diO44p9cA1Ob0eKTyzaBw1cJe0iBnJZmU69uf7e8FSWsrKsfVLKIsXpfhdMYNRt5E-7kIFdC6-on9xpN2tUaYJ5U85NPSqYxOJZ40u=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1546",
+  "raw_cells": {
+    "col_0": {
+      "text": "48"
+    },
+    "col_1": {
+      "text": "MCM Backpacks"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFGQCTl9yz7Iz-8lxHEW8i8bX_GoEG4dObf8erv0diO44p9cA1Ob0eKTyzaBw1cJe0iBnJZmU69uf7e8FSWsrKsfVLKIsXpfhdMYNRt5E-7kIFdC6-on9xpN2tUaYJ5U85NPSqYxOJZ40u=w143-h110"
+    },
+    "col_3": {
+      "text": "MissChen",
+      "links": [
+        {
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/7289694722?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "89$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1962320496931987458?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

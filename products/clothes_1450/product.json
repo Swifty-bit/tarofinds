@@ -1,65 +1,61 @@
 {
-  "name": "TNF T-ShirtMany Styles",
+  "name": "JEORDIEDown Vest",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "CPRepsCN",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F904286366070%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/904286366070?inviteCode=29TOTHGNH"
+      "label": "CPRepsCN",
+      "url": "https://litbuy.com/product/weidian/983068812934?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/983068812934?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "5$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "64$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924269105349705729?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://cprepscn.x.yupoo.com/albums/200087445?uid=1&isSubCate=false&referrercate=4543872"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw2NeJFzy3aN5JgHzHSJ6OXrTd5iN-EknKkdUQXT7UIW6nTpySQBGHryIm7_6MExoIOYw2sgF65tPhWkroJgDtVXEFipKUTpEag_nB_ODX_c4ON_ckj41jyVnKURnvZpKySBvdgvkRp3Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbtVyLICrjoz_7e10_IRJKqnuYpQ7jDCpZXWk5O75sgBbdgo6BhSvU4rsss-kPSq4Pam-W2YsiQUNKePdXciDPjtqLFI6OYCKTYYc8Kxbeqti2VsmozgCnhuwEqlbzeiQkCwdiXGSpGg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1450",
   "raw_cells": {
     "col_0": {
-      "text": "1069"
+      "text": "1063"
     },
     "col_1": {
-      "text": "TNF T-ShirtMany Styles"
+      "text": "JEORDIEDown Vest"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw2NeJFzy3aN5JgHzHSJ6OXrTd5iN-EknKkdUQXT7UIW6nTpySQBGHryIm7_6MExoIOYw2sgF65tPhWkroJgDtVXEFipKUTpEag_nB_ODX_c4ON_ckj41jyVnKURnvZpKySBvdgvkRp3Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbtVyLICrjoz_7e10_IRJKqnuYpQ7jDCpZXWk5O75sgBbdgo6BhSvU4rsss-kPSq4Pam-W2YsiQUNKePdXciDPjtqLFI6OYCKTYYc8Kxbeqti2VsmozgCnhuwEqlbzeiQkCwdiXGSpGg=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "CPRepsCN",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/904286366070?inviteCode=29TOTHGNH"
+          "label": "CPRepsCN",
+          "url": "https://oopbuy.com/product/1/983068812934?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "5$"
+    "col_5": {
+      "text": "64$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924269105349705729?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://cprepscn.x.yupoo.com/albums/200087445?uid=1&isSubCate=false&referrercate=4543872"
         }
       ]
-    },
-    "col_8": {
-      "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0g-1on229PKS5_uwxHCCixrMdsn1h_lTJ697eQ-1usNJC5g1Oky0pbMSErQJNte2Hj27IX7HKXivLtxbhFNiZffgpb2_1TfwLqQ6KfdTCTjWgbFDo3XBI76me77D7Vm18V10gp2rhcgcT=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1450"
+  }
 }

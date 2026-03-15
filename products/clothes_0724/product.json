@@ -1,61 +1,61 @@
 {
-  "name": "Gallery DeptCap",
+  "name": "Gallery DeptFlared Pants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F721614548490%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/721614548490?inviteCode=29TOTHGNH"
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/821637859540?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/821637859540?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "41$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1999667521303695361?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/170420386?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZYzorhHzz6lqXiIr5vsNZr8gNFpdxRcZGgf7syYJGkXeXwn0HlpfW-3nqFsNeL3FAHa4MPRWyFxAumS3knfgL3_JcWQjH7tDu4KD8Je65HNggEnc7_9fIqZT-c-6z9YVcQA-gwvk6Ew=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzpbfiYwZR47VlyKJePzA9zl8EFQGqL_HH5w2s0MhnAln6A1YLybAGcCF0KQxANxI7CJchMs9WT7SwjjEYTwHOZe36LNhy9L1g64KPgAa7fmD8t4Fy4jokb3jccTmO-BzlCUfwk5vVTXg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0724",
   "raw_cells": {
     "col_0": {
-      "text": "207"
+      "text": "203"
     },
     "col_1": {
-      "text": "Gallery DeptCap"
+      "text": "Gallery DeptFlared Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZYzorhHzz6lqXiIr5vsNZr8gNFpdxRcZGgf7syYJGkXeXwn0HlpfW-3nqFsNeL3FAHa4MPRWyFxAumS3knfgL3_JcWQjH7tDu4KD8Je65HNggEnc7_9fIqZT-c-6z9YVcQA-gwvk6Ew=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzpbfiYwZR47VlyKJePzA9zl8EFQGqL_HH5w2s0MhnAln6A1YLybAGcCF0KQxANxI7CJchMs9WT7SwjjEYTwHOZe36LNhy9L1g64KPgAa7fmD8t4Fy4jokb3jccTmO-BzlCUfwk5vVTXg=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "tophotfashion",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/721614548490?inviteCode=29TOTHGNH"
+          "label": "tophotfashion",
+          "url": "https://www.oopbuy.com/product/1/821637859540?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "3$"
+    "col_5": {
+      "text": "41$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1999667521303695361?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/170420386?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0724"
+  }
 }

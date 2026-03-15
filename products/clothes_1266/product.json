@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga Laurel Shorts Black",
+  "name": "BalenciagaParis SoccerZip Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "JennyTurtle",
+  "best_batch": "ApexMade",
   "best_batch_links": [
     {
-      "label": "JennyTurtle",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7431339379%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7431339379?inviteCode=29TOTHGNH"
+      "label": "ApexMade",
+      "url": "https://litbuy.com/product/weidian/763706333392?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/763706333392?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "22$",
+  "best_price": "46$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://doppel.fit/item/weidian/7431339379"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2024161602740772866?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygvPnL9lNB_KUpD1kdBMyph3hEqWPy8tr8rdzgX-xT4L8jX0dihQo-kmPA3eW9INy8plcz5pNuQrOTif6Ms87eLGIPG4_vCIW-JjNQbCk8e0AaV1S4vx6ovPthrFBW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax15SRpNe1JE1Cl902jLjWobllGX6RgETNbyA7LF_JkYmV4FO1aaz4BKL2AWypCAhBqRkeIhKBm8Fz9JmfexLHZvKeiaIjwPh_hwE_hwoIFdvBShe3p7YJja6EvSaasCvXY4U7KH4dilmNE=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1266",
   "raw_cells": {
     "col_0": {
-      "text": "855"
+      "text": "851"
     },
     "col_1": {
-      "text": "Balenciaga Laurel Shorts Black"
+      "text": "BalenciagaParis SoccerZip Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygvPnL9lNB_KUpD1kdBMyph3hEqWPy8tr8rdzgX-xT4L8jX0dihQo-kmPA3eW9INy8plcz5pNuQrOTif6Ms87eLGIPG4_vCIW-JjNQbCk8e0AaV1S4vx6ovPthrFBW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax15SRpNe1JE1Cl902jLjWobllGX6RgETNbyA7LF_JkYmV4FO1aaz4BKL2AWypCAhBqRkeIhKBm8Fz9JmfexLHZvKeiaIjwPh_hwE_hwoIFdvBShe3p7YJja6EvSaasCvXY4U7KH4dilmNE=w143-h110"
     },
     "col_3": {
-      "text": "JennyTurtle",
+      "text": "ApexMade",
       "links": [
         {
-          "label": "JennyTurtle",
-          "url": "https://oopbuy.com/product/weidian/7431339379?inviteCode=29TOTHGNH"
+          "label": "ApexMade",
+          "url": "https://oopbuy.com/product/1/763706333392?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "46$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://doppel.fit/item/weidian/7431339379"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2024161602740772866?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1266"
+  }
 }

@@ -1,49 +1,49 @@
 {
-  "name": "GYMSHARKBeanie2 Colors",
+  "name": "GYMSHARKLong Sleeves3 Colors",
   "category": "Gym",
   "subcategory": "",
   "best_batch": "/",
   "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "19$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1931434006039072769?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1929305458533777410?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwKPums8sRqHk0z4fITn2hC0Gf2tuNBGiLHZHybK1FkXcDvepkMPSm49Mj1ByF7L7-UdYjl2Uu2XzhSa-T8LmTc0iTVee6OLFTu1Dfx5SqgJ4yaHPDKFZT-iJT2f00e78lNV1w6F-2NRmIK=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwFGKdHyDjRLxe5LvvDTQTU3rwQ3gFjXXalEOlFhDc05m5TY2Mr1dNIYqhUW0Gr4dW9rLazwyTjDdnt7bt2H129pXKl2v3LLwGCgbyaiVC2w8bNjImTmwVON1udaIf7G7mgDNjGfSR_V0sP=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1722",
   "raw_cells": {
     "col_0": {
-      "text": "23"
+      "text": "15"
     },
     "col_1": {
-      "text": "GYMSHARKBeanie2 Colors"
+      "text": "GYMSHARKLong Sleeves3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwKPums8sRqHk0z4fITn2hC0Gf2tuNBGiLHZHybK1FkXcDvepkMPSm49Mj1ByF7L7-UdYjl2Uu2XzhSa-T8LmTc0iTVee6OLFTu1Dfx5SqgJ4yaHPDKFZT-iJT2f00e78lNV1w6F-2NRmIK=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwFGKdHyDjRLxe5LvvDTQTU3rwQ3gFjXXalEOlFhDc05m5TY2Mr1dNIYqhUW0Gr4dW9rLazwyTjDdnt7bt2H129pXKl2v3LLwGCgbyaiVC2w8bNjImTmwVON1udaIf7G7mgDNjGfSR_V0sP=w143-h110"
     },
     "col_3": {
       "text": "/"
     },
     "col_5": {
-      "text": "13$"
+      "text": "19$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1931434006039072769?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1929305458533777410?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1722"
+  }
 }

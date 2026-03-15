@@ -1,47 +1,47 @@
 {
-  "name": "GoreTex Off Noir",
+  "name": "Raging Bull",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "H12",
+  "best_batch": "Y3",
   "best_batch_links": [
     {
-      "label": "H12",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7222802270%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7222802270?inviteCode=29TOTHGNH"
+      "label": "Y3",
+      "url": "https://litbuy.com/product/taobao/7251929780?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "63$",
+  "best_price": "65$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3muw6l2hEjWkAVPA0pXS9NLn0tig9dyj81cBDonJlOXNZBBRnG_4hBBg4m5fa0dHoXNNTgHispvqf4-pUi01i5wqyUNn504U-XNCgXsrYe1vShFIiciTR916JFTEzA97UDGlcbTEH8GlV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwVRtQ7hahQ5GuqiSNUidbDcYiOZMl3FJ7ro4Q51L6MwTyV1tURdHPHxZIgn_SIavldKA41DE5zeQEUQFphw1JBBkXOw-ZM4X1XSPQPfrPlKEMsNPlb8dMEjN878uBIYNutkfWaP0GJ8OPM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0295",
   "raw_cells": {
     "col_0": {
       "text": "312"
     },
     "col_1": {
-      "text": "GoreTex Off Noir"
+      "text": "Raging Bull"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3muw6l2hEjWkAVPA0pXS9NLn0tig9dyj81cBDonJlOXNZBBRnG_4hBBg4m5fa0dHoXNNTgHispvqf4-pUi01i5wqyUNn504U-XNCgXsrYe1vShFIiciTR916JFTEzA97UDGlcbTEH8GlV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwVRtQ7hahQ5GuqiSNUidbDcYiOZMl3FJ7ro4Q51L6MwTyV1tURdHPHxZIgn_SIavldKA41DE5zeQEUQFphw1JBBkXOw-ZM4X1XSPQPfrPlKEMsNPlb8dMEjN878uBIYNutkfWaP0GJ8OPM=w143-h110"
     },
     "col_3": {
-      "text": "H12",
+      "text": "Y3",
       "links": [
         {
-          "label": "H12",
-          "url": "https://www.oopbuy.com/product/weidian/7222802270?inviteCode=29TOTHGNH"
+          "label": "Y3",
+          "url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "63$"
+      "text": "65$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0295"
+  }
 }

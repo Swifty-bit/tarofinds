@@ -1,69 +1,95 @@
 {
-  "name": "GUI Gilet Vest",
+  "name": "Hooded Wool Cardigan",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565757076%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565757076?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7587843794?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7587843794?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "43$",
-  "budget_price": "",
-  "pics_text": "QC Pics/pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/994916423749?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/994916423749?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "82$",
+  "budget_price": "50$",
+  "pics_text": "QC Pics/yupoo/budget",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1932603909837787138?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1935503134824669185?action=discord&cid=1840597081113280514"
     },
     {
-      "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/161600282?uid=1"
+      "label": "yupoo",
+      "url": "https://repsking.x.yupoo.com/albums/161308545?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2020344951378890754?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxpNIBrbUM8X3YEyJwadEdpLcCg1BTpwubOpOQc3zdSnBZyg9V_eajWxLF-aRw9zCsKJcPhpKhpxei77FVBx8KY97gHVjGpqSj-iA-F1dLPGHMCXFBw8iT7zWt1Myx8xDRXLXFl_O766Udq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxE6OunyKyKHJX5Nzn8JLYoaLKYxIJO1lrR7TnQA-tzENAGPBJEBPQikcgqFfzqlCWaHkO2V7ARCmQcOJUoQpRFyA1zXA_uNQLT1WJF6izILPJKnZjep9LHwRSFrcnCvmNEXkPBCU00LwGI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0801",
   "raw_cells": {
     "col_0": {
-      "text": "296"
+      "text": "292"
     },
     "col_1": {
-      "text": "GUI Gilet Vest"
+      "text": "Hooded Wool Cardigan"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxpNIBrbUM8X3YEyJwadEdpLcCg1BTpwubOpOQc3zdSnBZyg9V_eajWxLF-aRw9zCsKJcPhpKhpxei77FVBx8KY97gHVjGpqSj-iA-F1dLPGHMCXFBw8iT7zWt1Myx8xDRXLXFl_O766Udq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxE6OunyKyKHJX5Nzn8JLYoaLKYxIJO1lrR7TnQA-tzENAGPBJEBPQikcgqFfzqlCWaHkO2V7ARCmQcOJUoQpRFyA1zXA_uNQLT1WJF6izILPJKnZjep9LHwRSFrcnCvmNEXkPBCU00LwGI=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7565757076?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7587843794?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/994916423749?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
+      "text": "82$"
+    },
+    "col_6": {
+      "text": "50$"
     },
     "col_7": {
-      "text": "QC Pics/pics",
+      "text": "QC Pics/yupoo/budget",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1932603909837787138?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1935503134824669185?action=discord&cid=1840597081113280514"
         },
         {
-          "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/161600282?uid=1"
+          "label": "yupoo",
+          "url": "https://repsking.x.yupoo.com/albums/161308545?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2020344951378890754?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0801"
+  }
 }

@@ -1,79 +1,61 @@
 {
-  "name": "Into the AbyssT-Shirt",
+  "name": "Stone IslandZipped Hoodie9 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "hotdog-official",
-  "best_batch_links": [
-    {
-      "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341546365%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7341546365?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "FFCP",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F740512418980%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/785196702098?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/785196702098?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "16$",
-  "budget_price": "8$",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "12$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/156520040?uid=1&isSubCate=false&referrercate=4098105"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1984447222890176513?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUqFO1HOcduUCwI4nelHs_SLvnLqDiM-kRyFdsOYZcFirmDO5IXixeR6K2rnn35yBfVJ-FhPhcFvoemJWPSJapKILMpzDMumWn2nXSCaaDIpmciDJTU-MkpZ1w30x0IyPdqN7bHoPrcnMz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw9U-pISH0gl_hJ8Mi5meV13BwxZPT4XdsYgJ_ghDVvh0AnFHvqSAfbly_9KRSuYpel-Wa8wcn1rHZz_BZigK1UdFMiNLUwvzpaKMNHGearGH2l698KiutNWajk1ExGNHocgDLafU_yQ36G=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0982",
   "raw_cells": {
     "col_0": {
-      "text": "519"
+      "text": "513"
     },
     "col_1": {
-      "text": "Into the AbyssT-Shirt"
+      "text": "Stone IslandZipped Hoodie9 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUqFO1HOcduUCwI4nelHs_SLvnLqDiM-kRyFdsOYZcFirmDO5IXixeR6K2rnn35yBfVJ-FhPhcFvoemJWPSJapKILMpzDMumWn2nXSCaaDIpmciDJTU-MkpZ1w30x0IyPdqN7bHoPrcnMz=w143-h110"
-    },
-    "col_3": {
-      "text": "hotdog-official",
-      "links": [
-        {
-          "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7341546365?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw9U-pISH0gl_hJ8Mi5meV13BwxZPT4XdsYgJ_ghDVvh0AnFHvqSAfbly_9KRSuYpel-Wa8wcn1rHZz_BZigK1UdFMiNLUwvzpaKMNHGearGH2l698KiutNWajk1ExGNHocgDLafU_yQ36G=w143-h110"
     },
     "col_4": {
-      "text": "FFCP",
+      "text": "budget",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/785196702098?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "16$"
-    },
     "col_6": {
-      "text": "8$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/156520040?uid=1&isSubCate=false&referrercate=4098105"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1984447222890176513?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0982"
+  }
 }

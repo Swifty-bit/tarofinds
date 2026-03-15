@@ -1,30 +1,30 @@
 {
-  "name": "Hellstar Studios Cranium T-Shirt Cream",
+  "name": "HellstarClassic T-ShirtApricot / Black",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805535611646%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/805535611646?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/811109587736?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/811109587736?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/802896750934?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "23$",
+  "best_price": "30$",
   "budget_price": "6$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://pikachushop.x.yupoo.com/albums/147014754?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/168167259?uid=1"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbJpg0wW-dwgsa5uLqItSHwGgvP8T86SrH8wkKYIWXtn3agYY939Exsx-kq-BYBc1asCWtsF9ljqDkAQ0G3fHnc7FAbPomZUhL19iUu-WvwjUmuoLsF1svwMcFQlRKfnwPMhu2Tvi2CQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax0IIo3hRVOMzbAfZlTnjgyF2Ub4zLwRvATQj4NgZFz43A_XLFrJLya9NfU5nUGBzwhU2BRB13AP9iY9hec-4IF_E86bWH5BdgiXFo5d3LxpC9Xeh5-qOYDVKrynvvi5neZivaxHWkdJQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1053",
   "raw_cells": {
     "col_0": {
-      "text": "602"
+      "text": "598"
     },
     "col_1": {
-      "text": "Hellstar Studios Cranium T-Shirt Cream"
+      "text": "HellstarClassic T-ShirtApricot / Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbJpg0wW-dwgsa5uLqItSHwGgvP8T86SrH8wkKYIWXtn3agYY939Exsx-kq-BYBc1asCWtsF9ljqDkAQ0G3fHnc7FAbPomZUhL19iUu-WvwjUmuoLsF1svwMcFQlRKfnwPMhu2Tvi2CQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax0IIo3hRVOMzbAfZlTnjgyF2Ub4zLwRvATQj4NgZFz43A_XLFrJLya9NfU5nUGBzwhU2BRB13AP9iY9hec-4IF_E86bWH5BdgiXFo5d3LxpC9Xeh5-qOYDVKrynvvi5neZivaxHWkdJQ=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/805535611646?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/811109587736?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,7 +65,7 @@
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "30$"
     },
     "col_6": {
       "text": "6$"
@@ -73,7 +75,7 @@
       "links": [
         {
           "label": "best",
-          "url": "https://pikachushop.x.yupoo.com/albums/147014754?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/168167259?uid=1"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1053"
+  }
 }

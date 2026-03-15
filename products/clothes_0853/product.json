@@ -1,61 +1,61 @@
 {
-  "name": "Under ArmourJacket",
+  "name": "YSLJacket with back embroidery",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "here",
-  "budget_batch_links": [
+  "best_batch": "tophotfashion",
+  "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F974438056546%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/974438056546?inviteCode=29TOTHGNH"
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/taobao/7271513718?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7271513718?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "11$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "92$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finderqc.com/product/Ali1688/974438056546"
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/174933891?uid=1&isSubCate=false&referrercate=4680044"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwTmUQOs9c74j9loZNX2tOxs4oTKRfkIZWkkEoAIOP2Lw830sIldlbazJsfRjJWnaJ2RUKcXtY5bTmaME13SG6FzeRvGAkFYmrxTq-DkDpc1fZ4U-JN7dx2qn0vwlVvulBeQo9uxAH8S8dy=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxH-rBGHrkB_Kviwvi7D9t2ABZHy4I8DLI-BYpSHiKZTWCmUDZi2IVtLQop7axYtZh01ZdFNPFVFRTgvoIIJCiiyIWc6Li5oGwPJ_K9G-5DYZppltJamBmgFzAzNB9B1GAGwQHCXnik2eMq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0853",
   "raw_cells": {
     "col_0": {
-      "text": "362"
+      "text": "354"
     },
     "col_1": {
-      "text": "Under ArmourJacket"
+      "text": "YSLJacket with back embroidery"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwTmUQOs9c74j9loZNX2tOxs4oTKRfkIZWkkEoAIOP2Lw830sIldlbazJsfRjJWnaJ2RUKcXtY5bTmaME13SG6FzeRvGAkFYmrxTq-DkDpc1fZ4U-JN7dx2qn0vwlVvulBeQo9uxAH8S8dy=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxH-rBGHrkB_Kviwvi7D9t2ABZHy4I8DLI-BYpSHiKZTWCmUDZi2IVtLQop7axYtZh01ZdFNPFVFRTgvoIIJCiiyIWc6Li5oGwPJ_K9G-5DYZppltJamBmgFzAzNB9B1GAGwQHCXnik2eMq=w143-h110"
     },
-    "col_4": {
-      "text": "here",
+    "col_3": {
+      "text": "tophotfashion",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/974438056546?inviteCode=29TOTHGNH"
+          "label": "tophotfashion",
+          "url": "https://oopbuy.com/product/2/7271513718?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "11$"
+    "col_5": {
+      "text": "92$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finderqc.com/product/Ali1688/974438056546"
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/174933891?uid=1&isSubCate=false&referrercate=4680044"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0853"
+  }
 }

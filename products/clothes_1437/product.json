@@ -1,61 +1,61 @@
 {
-  "name": "CarharttSocks28 Styles",
+  "name": "CarharttJ140 Cotton Heavy Jacket2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "LambClub",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F705247780302%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH"
+      "label": "LambClub",
+      "url": "https://litbuy.com/product/weidian/694161566473?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/694161566473?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "1$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1915589868544143362?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2016379145968242689?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWfzEe3xfkLN4BmR2zzIworkoRGBX4I6MwcJWJoJTq6mhuLHk0_7enx1lrtWbBKjx8m-ZKiNJrm2A1ni-Iu_UU9O8QiNShbwrTkLl1rUe92yu2ASyQlX5pZSTvcSYLPTNtLrCsEDxnNlXh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw5wiQ9ykdldtZnGzUXzEuoLmIdGVfemOV8KsR-IJsWZz3m2vSC5KxxtuwGMMMacMW6bSg__JhlkwJslUMB8L3S53_dFagMFFsN7EPZE4oXP8pZevdUBKcPC03yw6sGk2KTaA5MjkObLw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1437",
   "raw_cells": {
     "col_0": {
-      "text": "1048"
+      "text": "1044"
     },
     "col_1": {
-      "text": "CarharttSocks28 Styles"
+      "text": "CarharttJ140 Cotton Heavy Jacket2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWfzEe3xfkLN4BmR2zzIworkoRGBX4I6MwcJWJoJTq6mhuLHk0_7enx1lrtWbBKjx8m-ZKiNJrm2A1ni-Iu_UU9O8QiNShbwrTkLl1rUe92yu2ASyQlX5pZSTvcSYLPTNtLrCsEDxnNlXh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw5wiQ9ykdldtZnGzUXzEuoLmIdGVfemOV8KsR-IJsWZz3m2vSC5KxxtuwGMMMacMW6bSg__JhlkwJslUMB8L3S53_dFagMFFsN7EPZE4oXP8pZevdUBKcPC03yw6sGk2KTaA5MjkObLw=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "LambClub",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/705247780302?inviteCode=29TOTHGNH"
+          "label": "LambClub",
+          "url": "https://www.oopbuy.com/product/0/694161566473?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "1$"
+    "col_5": {
+      "text": "36$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1915589868544143362?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2016379145968242689?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1437"
+  }
 }

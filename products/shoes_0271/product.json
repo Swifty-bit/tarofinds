@@ -1,56 +1,65 @@
 {
-  "name": "Nigel SylvesterBrick by Brick",
+  "name": "Orchid",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR/GX",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7482723964%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7482723964?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "71$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://litbuy.com/product/taobao/7240378209?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "68$",
+  "budget_price": "42$",
+  "pics_text": "42$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbsQc5kUQExZwlm1InVxPXG-wQ_STLHgIAHAyOS_oQn_WgqY-HFBYESilNgk8zGmjvGfCt8ceCUUuzvDsEHkZlW_N9ycq1lPpwUKRVa7TT2XpufR4UCgT8gtzpbgMQ6CnB4ppaJgAoFnG5=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axz9wu1zz86mQGPf25Yo5kBB-HPdyzFfapUidJqqDdOt-ArCa-pbKaOKThYZLUeXJPTtqRxJCMhSxtGiiPdE4sRneL6aYypAcePszRFze9_3ivEOf8ObnArFnkzyr11v9wu8hpBb_voxw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0271",
   "raw_cells": {
     "col_0": {
       "text": "286"
     },
     "col_1": {
-      "text": "Nigel SylvesterBrick by Brick"
+      "text": "Orchid"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbsQc5kUQExZwlm1InVxPXG-wQ_STLHgIAHAyOS_oQn_WgqY-HFBYESilNgk8zGmjvGfCt8ceCUUuzvDsEHkZlW_N9ycq1lPpwUKRVa7TT2XpufR4UCgT8gtzpbgMQ6CnB4ppaJgAoFnG5=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axz9wu1zz86mQGPf25Yo5kBB-HPdyzFfapUidJqqDdOt-ArCa-pbKaOKThYZLUeXJPTtqRxJCMhSxtGiiPdE4sRneL6aYypAcePszRFze9_3ivEOf8ObnArFnkzyr11v9wu8hpBb_voxw=w143-h110"
     },
     "col_3": {
-      "text": "LJR/GX",
+      "text": "GX",
       "links": [
-        {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/weidian/7482723964?inviteCode=29TOTHGNH"
-        },
         {
           "label": "GX",
           "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
-      "text": "71$"
+      "text": "68$"
+    },
+    "col_6": {
+      "text": "42$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0271"
+  }
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Grateful Dead Bears Yellow",
+  "name": "Grateful Dead Bears Green",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245075709%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7245075709?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2eAzl6DSSmCPe7M3NiIrmsBiFjZ7iaQDvuQTwVGfebv7XckUb356gGIJNpZQUkabjE3wLk5i-UuEmD7oyLYzQVy9WjjpTO-B4hr17y07rhZuOG3ORH8PpoQvfVMYLtcmQIUr_VBdV0g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az9Y3L1pnWvmETD7mHtzFyybXxzz2LS7JTDJdOLf8teXRVKPpfQsBM4yeFPW7hpVbaRQcDPx_MIXw33Vs3uZwS6d3EajaUW9sur30MMLicvjG8CxrFZPVcQP4H3nBym9JtjVtRa-GOOnYoK=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0107",
   "raw_cells": {
     "col_0": {
       "text": "116"
     },
     "col_1": {
-      "text": "Grateful Dead Bears Yellow"
+      "text": "Grateful Dead Bears Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2eAzl6DSSmCPe7M3NiIrmsBiFjZ7iaQDvuQTwVGfebv7XckUb356gGIJNpZQUkabjE3wLk5i-UuEmD7oyLYzQVy9WjjpTO-B4hr17y07rhZuOG3ORH8PpoQvfVMYLtcmQIUr_VBdV0g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az9Y3L1pnWvmETD7mHtzFyybXxzz2LS7JTDJdOLf8teXRVKPpfQsBM4yeFPW7hpVbaRQcDPx_MIXw33Vs3uZwS6d3EajaUW9sur30MMLicvjG8CxrFZPVcQP4H3nBym9JtjVtRa-GOOnYoK=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "53$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0107"
+  }
 }

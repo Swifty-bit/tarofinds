@@ -1,61 +1,61 @@
 {
-  "name": "Moose KnucklesPuffer Jacket",
+  "name": "Moose Knuckles 3QPuffer Jacket9 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "palmmoose",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F738918978161%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/738918978161?inviteCode=29TOTHGNH"
+      "label": "palmmoose",
+      "url": "https://litbuy.com/product/weidian/604197281808?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/604197281808?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "70$",
+  "best_price": "86$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1977200421719597057?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2006916940289888258?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCsEleg8dpuZapV4Yeu9LPznhIyq8k4y-jJIIkT4B0PkjGEL_EUu5EDRruxFegXORREAqXps4sZZqWYAudWZMoRFg0COySwW1ks9Z62rErk7yqiwFeKr6bHxxvl9UqYsRz7vd-P6ivS7LI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awg32v5Ld3C2s-AS7ZFvYXD_qCpvFG9EXUwPzJUvqy6Ah7SySmJ89_traZKWLLRSYuEV1F5ZSohYMAsCp27FdT0DU3ti7-WvE2_WYEsdJwWvxUxoiX_wcZHDuJ_mNJCPzOtNerGacLWbfam=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1487",
   "raw_cells": {
     "col_0": {
-      "text": "1110"
+      "text": "1106"
     },
     "col_1": {
-      "text": "Moose KnucklesPuffer Jacket"
+      "text": "Moose Knuckles 3QPuffer Jacket9 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCsEleg8dpuZapV4Yeu9LPznhIyq8k4y-jJIIkT4B0PkjGEL_EUu5EDRruxFegXORREAqXps4sZZqWYAudWZMoRFg0COySwW1ks9Z62rErk7yqiwFeKr6bHxxvl9UqYsRz7vd-P6ivS7LI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awg32v5Ld3C2s-AS7ZFvYXD_qCpvFG9EXUwPzJUvqy6Ah7SySmJ89_traZKWLLRSYuEV1F5ZSohYMAsCp27FdT0DU3ti7-WvE2_WYEsdJwWvxUxoiX_wcZHDuJ_mNJCPzOtNerGacLWbfam=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "palmmoose",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/738918978161?inviteCode=29TOTHGNH"
+          "label": "palmmoose",
+          "url": "https://oopbuy.com/product/0/604197281808?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "70$"
+      "text": "86$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1977200421719597057?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006916940289888258?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1487"
+  }
 }

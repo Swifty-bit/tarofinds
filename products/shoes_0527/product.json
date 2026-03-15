@@ -1,47 +1,56 @@
 {
-  "name": "Clog Saetta McQueen(with lights)",
+  "name": "Ugg Lowmel",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "FS/here",
   "best_batch_links": [
     {
+      "label": "FS",
+      "url": "https://litbuy.com/product/weidian/7549055256?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F812515220023%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/812515220023?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7279961466?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "11$",
+  "best_price": "43$ / 56$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDdYdDLmfp8ewnur5dO_Eh0DQFHbm4mgKB5fP6EFmoV5yr_HzJDB8ywOVyePlaC9KPAOFjivI31vTxDcpzZ_mpbpdzOjoibS1eop_zXYcUG1d9ra8AO1aKS5HXKN231r-4JprnwqG4ypVL=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxBKDkb_p8rLipE5L1q7B9LgWS-_0_tqC-kx4RnpDMtDRpi-qTaIYQ3NoSwqGPAb99CsCWEcMx_xhIOr_fMJJ2YwjuAvMMT81v3CSD2IEki--VxTap3vmcyBY2nPlPBGFR0C9Q3OWv4kQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0527",
   "raw_cells": {
     "col_0": {
-      "text": "640"
+      "text": "636"
     },
     "col_1": {
-      "text": "Clog Saetta McQueen(with lights)"
+      "text": "Ugg Lowmel"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDdYdDLmfp8ewnur5dO_Eh0DQFHbm4mgKB5fP6EFmoV5yr_HzJDB8ywOVyePlaC9KPAOFjivI31vTxDcpzZ_mpbpdzOjoibS1eop_zXYcUG1d9ra8AO1aKS5HXKN231r-4JprnwqG4ypVL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxBKDkb_p8rLipE5L1q7B9LgWS-_0_tqC-kx4RnpDMtDRpi-qTaIYQ3NoSwqGPAb99CsCWEcMx_xhIOr_fMJJ2YwjuAvMMT81v3CSD2IEki--VxTap3vmcyBY2nPlPBGFR0C9Q3OWv4kQ=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "FS/here",
       "links": [
         {
+          "label": "FS",
+          "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "here",
-          "url": "https://oopbuy.com/product/0/812515220023?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "11$"
+      "text": "43$ / 56$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0527"
+  }
 }

@@ -1,47 +1,65 @@
 {
-  "name": "Court Purple(2018)",
+  "name": "Pine Green",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "XP",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "XP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565902946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/5533395980?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5533395980?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "54$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "71$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awx7PYHDOsVYUVY0P4zo_jXfOEUwEESSgZ46iajfUavFyjhE88Bm69j6Hr1VB1WKHZi2mYX86zjqBVAP3xZa7S9ubZjuqOhtfGumQN1bduMaEidZHFnVsdC6l8VZq4920CLoFOwCmwCaQ=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azl4NwSANLTy2UKqLPrfyFizhs3p9Q9990B4uVmbqk1WGAEYDOm_r4YE8YK2zFqpErsFuty9bkcfrVP77YmdsjeY7k-MJMricZyBZaaAtLANCtOIauemaoyYXzQokh0B2rOExadisL5fepa=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0166",
   "raw_cells": {
     "col_0": {
       "text": "177"
     },
     "col_1": {
-      "text": "Court Purple(2018)"
+      "text": "Pine Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awx7PYHDOsVYUVY0P4zo_jXfOEUwEESSgZ46iajfUavFyjhE88Bm69j6Hr1VB1WKHZi2mYX86zjqBVAP3xZa7S9ubZjuqOhtfGumQN1bduMaEidZHFnVsdC6l8VZq4920CLoFOwCmwCaQ=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azl4NwSANLTy2UKqLPrfyFizhs3p9Q9990B4uVmbqk1WGAEYDOm_r4YE8YK2zFqpErsFuty9bkcfrVP77YmdsjeY7k-MJMricZyBZaaAtLANCtOIauemaoyYXzQokh0B2rOExadisL5fepa=w143-h100"
     },
     "col_3": {
-      "text": "XP",
+      "text": "LJR",
       "links": [
         {
-          "label": "XP",
-          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/5533395980?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "54$"
+      "text": "71$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0166"
+  }
 }

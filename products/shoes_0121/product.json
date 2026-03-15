@@ -1,47 +1,47 @@
 {
-  "name": "CLOT Cork",
+  "name": "CLOT Fragment",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7242327027?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "44$",
+  "best_price": "51$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayfrhp3JEvF27yuLAvsloa051cln5DSQR1vaVIUauuZ4fmtnGSCc15bRY2UcV33QvK-rR9CnBozTwymFQNW9BzsQ6Ar-6BPopNNJ3aamFw_alStC2vnav824NeHaw8RoYAEhBk5hu1WckT_=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AynfuMLwxOy6sVPGwlTl_gltCeBP3BRpDiQKs9S5enamXUG5AFwqbMvB_xjj9MlLvYO5lh8GM-Qg1VuK3IS5JM4Pe2RMXsS0vaJK42MfcrgivC_j7-rXFCkmVJp-6WPpsclADJBCeYBjq3-=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0121",
   "raw_cells": {
     "col_0": {
       "text": "130"
     },
     "col_1": {
-      "text": "CLOT Cork"
+      "text": "CLOT Fragment"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayfrhp3JEvF27yuLAvsloa051cln5DSQR1vaVIUauuZ4fmtnGSCc15bRY2UcV33QvK-rR9CnBozTwymFQNW9BzsQ6Ar-6BPopNNJ3aamFw_alStC2vnav824NeHaw8RoYAEhBk5hu1WckT_=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AynfuMLwxOy6sVPGwlTl_gltCeBP3BRpDiQKs9S5enamXUG5AFwqbMvB_xjj9MlLvYO5lh8GM-Qg1VuK3IS5JM4Pe2RMXsS0vaJK42MfcrgivC_j7-rXFCkmVJp-6WPpsclADJBCeYBjq3-=w143-h110"
     },
     "col_3": {
       "text": "M",
       "links": [
         {
           "label": "M",
-          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7242327027?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "44$"
+      "text": "51$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0121"
+  }
 }

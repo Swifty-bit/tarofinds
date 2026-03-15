@@ -1,47 +1,47 @@
 {
-  "name": "Burgundy",
+  "name": "Racer Blue",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "A1 Y3",
+  "best_batch": "OG",
   "best_batch_links": [
     {
-      "label": "A1 Y3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7436775411%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7436775411?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/weidian/7251929780?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7251929780?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "65$",
+  "best_price": "66$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyoGZlwBCML9bCk_IdVcdAly_rcs1IOh6m_DOFqXXGL4LK0br0doZTRfx6mBUaabDda0HnifXKVyjDuwExkgBAECsU3pm1u7GLsQOZo9uuEn1X9dQWldnPcpZ1cXzz9EUc0F_9LU1XF0w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azq5Ccs82gQE0H71rgmuBjdbk-KopGJA9UNCezJAgvqTW2A_-ffoL_6JHIqDOG__XksGeeCzQOcfw_-EiEBkPgNqIfz6kC1FB15bsb-KyrZaTNAgo-Rbteguz2bYLY5cJCdO19efOjPHQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0288",
   "raw_cells": {
     "col_0": {
       "text": "305"
     },
     "col_1": {
-      "text": "Burgundy"
+      "text": "Racer Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyoGZlwBCML9bCk_IdVcdAly_rcs1IOh6m_DOFqXXGL4LK0br0doZTRfx6mBUaabDda0HnifXKVyjDuwExkgBAECsU3pm1u7GLsQOZo9uuEn1X9dQWldnPcpZ1cXzz9EUc0F_9LU1XF0w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azq5Ccs82gQE0H71rgmuBjdbk-KopGJA9UNCezJAgvqTW2A_-ffoL_6JHIqDOG__XksGeeCzQOcfw_-EiEBkPgNqIfz6kC1FB15bsb-KyrZaTNAgo-Rbteguz2bYLY5cJCdO19efOjPHQ=w143-h110"
     },
     "col_3": {
-      "text": "A1 Y3",
+      "text": "OG",
       "links": [
         {
-          "label": "A1 Y3",
-          "url": "https://oopbuy.com/product/weidian/7436775411?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://oopbuy.com/product/weidian/7251929780?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "65$"
+      "text": "66$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0288"
+  }
 }

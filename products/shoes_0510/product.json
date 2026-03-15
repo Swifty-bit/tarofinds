@@ -1,47 +1,47 @@
 {
-  "name": "Dolce & GabbanaSlides",
+  "name": "YSL Court Classic",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F3698127594%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/3698127594?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/875601401464?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/875601401464?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "22$",
-  "budget_price": "",
-  "pics_text": "",
+  "best_price": "",
+  "budget_price": "36$",
+  "pics_text": "36$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-Jr6p_vJayLDemAbgjaNjkOHFcAOMRSwxGWV9cTzHsIC7PfWArjjJ4EUj4zlL0AXv2E64fusQ1Qp4Cg-wUxU4UDVtygYbLtUTbSgnBXFJnAWVY4Wy7dy8HGLHp4duffKLFkaXsXcUFA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw_slngeOy24VZUOMI8YSoVI1mBvk_pVIuFH11LREqaohaPYDmzdsW2mDeCxaT_WX7mrq5e1QpzZbf0TXAwRLYDozBNheg-MWNY2SANZg8d89Sut723KsqiFUijxyaWNH2QKoZGNUyEVusJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0510",
   "raw_cells": {
     "col_0": {
-      "text": "611"
+      "text": "607"
     },
     "col_1": {
-      "text": "Dolce & GabbanaSlides"
+      "text": "YSL Court Classic"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-Jr6p_vJayLDemAbgjaNjkOHFcAOMRSwxGWV9cTzHsIC7PfWArjjJ4EUj4zlL0AXv2E64fusQ1Qp4Cg-wUxU4UDVtygYbLtUTbSgnBXFJnAWVY4Wy7dy8HGLHp4duffKLFkaXsXcUFA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw_slngeOy24VZUOMI8YSoVI1mBvk_pVIuFH11LREqaohaPYDmzdsW2mDeCxaT_WX7mrq5e1QpzZbf0TXAwRLYDozBNheg-MWNY2SANZg8d89Sut723KsqiFUijxyaWNH2QKoZGNUyEVusJ=w143-h110"
     },
-    "col_3": {
-      "text": "here",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/weidian/3698127594?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/875601401464?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "22$"
+    "col_6": {
+      "text": "36$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0510"
+  }
 }

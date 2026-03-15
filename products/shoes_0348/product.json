@@ -1,50 +1,68 @@
 {
-  "name": "Yeezy Knit RNR",
+  "name": "Yeezy Foam Runner",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "A1",
+  "best_batch": "GX/LW",
   "best_batch_links": [
     {
-      "label": "A1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4479628437%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4479628437?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239131429?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239131429?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "43$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "LW B GRADE",
+  "budget_batch_links": [
+    {
+      "label": "LW B GRADE",
+      "url": "https://litbuy.com/product/weidian/7613684637?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "21$",
+  "budget_price": "7$",
+  "pics_text": "7$",
   "pics_links": [],
-  "notes": "Size up 1 (knit are smaller)",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aziy4DbYFQRqFMdKq6ZuwnzDfFSHbHkLPJ8_lEvnoBdpOpn9V5OlnJ2SofXnoxA0CEItPAqdzWnJFZ_C7mCeg8PpMrf-Fu8xGPnLwY7qjy6V3DbNkTX52vW7f6qvRFfsAMgBVZ22F67VtsI=w143-h110",
+  "notes": "Size up 1/1.5 EU size for GX/ZOK/LW(runners are smaller)",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwbxHp2tVORyTIDvakJPogeqkyPD0gTcN9XSgbhCD1PLzCBwNOS92tMyt2SoYzmfkTjCTZQ94dqXhnUS9JZM0ENMLah8OlRKVESRsOaHc4YMMkQyppg5H-l4tX015RESuApwb9RWhWMjtJo=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0348",
   "raw_cells": {
     "col_0": {
       "text": "379"
     },
     "col_1": {
-      "text": "Yeezy Knit RNR"
+      "text": "Yeezy Foam Runner"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aziy4DbYFQRqFMdKq6ZuwnzDfFSHbHkLPJ8_lEvnoBdpOpn9V5OlnJ2SofXnoxA0CEItPAqdzWnJFZ_C7mCeg8PpMrf-Fu8xGPnLwY7qjy6V3DbNkTX52vW7f6qvRFfsAMgBVZ22F67VtsI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwbxHp2tVORyTIDvakJPogeqkyPD0gTcN9XSgbhCD1PLzCBwNOS92tMyt2SoYzmfkTjCTZQ94dqXhnUS9JZM0ENMLah8OlRKVESRsOaHc4YMMkQyppg5H-l4tX015RESuApwb9RWhWMjtJo=w143-h110"
     },
     "col_3": {
-      "text": "A1",
+      "text": "GX/LW",
       "links": [
         {
-          "label": "A1",
-          "url": "https://oopbuy.com/product/weidian/4479628437?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239131429?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "LW B GRADE",
+      "links": [
+        {
+          "label": "LW B GRADE",
+          "url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
+      "text": "21$"
+    },
+    "col_6": {
+      "text": "7$"
     },
     "col_7": {
-      "text": "Size up 1 (knit are smaller)"
+      "text": "Size up 1/1.5 EU size for GX/ZOK/LW(runners are smaller)"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0348"
+  }
 }

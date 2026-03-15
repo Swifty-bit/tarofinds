@@ -1,61 +1,61 @@
 {
-  "name": "Ami ParisSweaterMany Colors",
+  "name": "Ami Paris3D BadgeHoodie3 Colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "TOPAMI",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7268904344%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7268904344?inviteCode=29TOTHGNH"
+      "label": "TOPAMI",
+      "url": "https://litbuy.com/product/weidian/754299842818?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/754299842818?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "21$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "51$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/exploreMore/1853614324016807938"
+      "label": "pics",
+      "url": "https://amiparis.x.yupoo.com/albums/172689016?uid=1&isSubCate=false&referrercate=4672363"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtivD_0GdL0zL-Me93XeIiTysmvvThiSG1CqVU37-IfaEdbOO9gIz3tO2_9L6hcmsXdjKQ8aaj6bCcgpL1_yXNcTzaZymFDXGZJkFsjpIqWYnaxI2K_k9WDzoWJiar-XRyOyqQROWGvB25=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQQHDnJ14YjOrYYsVDgYEQrqoO_P81BbyNmHJ7G1aLeSR50pcQvAY3attTLvBsT4DjjtZovX9dRUHfnIneJNIlnO-wY3zu2DEBLx7_DfZz78BsqKW8F_QiOH2Mk1prfF5VTDtQJ4l0roJM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0966",
   "raw_cells": {
     "col_0": {
-      "text": "497"
+      "text": "493"
     },
     "col_1": {
-      "text": "Ami ParisSweaterMany Colors"
+      "text": "Ami Paris3D BadgeHoodie3 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtivD_0GdL0zL-Me93XeIiTysmvvThiSG1CqVU37-IfaEdbOO9gIz3tO2_9L6hcmsXdjKQ8aaj6bCcgpL1_yXNcTzaZymFDXGZJkFsjpIqWYnaxI2K_k9WDzoWJiar-XRyOyqQROWGvB25=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQQHDnJ14YjOrYYsVDgYEQrqoO_P81BbyNmHJ7G1aLeSR50pcQvAY3attTLvBsT4DjjtZovX9dRUHfnIneJNIlnO-wY3zu2DEBLx7_DfZz78BsqKW8F_QiOH2Mk1prfF5VTDtQJ4l0roJM=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "TOPAMI",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7268904344?inviteCode=29TOTHGNH"
+          "label": "TOPAMI",
+          "url": "https://www.oopbuy.com/product/1/754299842818?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "21$"
+    "col_5": {
+      "text": "51$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/exploreMore/1853614324016807938"
+          "label": "pics",
+          "url": "https://amiparis.x.yupoo.com/albums/172689016?uid=1&isSubCate=false&referrercate=4672363"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0966"
+  }
 }

@@ -1,104 +1,87 @@
 {
-  "name": "Burberry Puffer",
+  "name": "Burberry Check Shorts",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Thunder",
   "best_batch_links": [
     {
       "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7615029218%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7615029218?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7469225308?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7469225308?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget1/budget2",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "budget1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7296704356%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7296704356?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F869373032949%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/869373032949?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7243271599?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7243271599?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "138$",
-  "budget_price": "43$ / 25$",
-  "pics_text": "best/budget1/budget2",
+  "best_price": "36$",
+  "budget_price": "15$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://thethunder.x.yupoo.com/albums/145056454?uid=1&isSubCate=false&referrercate=3972377"
+      "url": "https://thethunder.x.yupoo.com/albums/137893051?uid=1&isSubCate=false&referrercate=3972377"
     },
     {
-      "label": "budget1",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1854071239645659137?action=discord&cid=1840597081113280514"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2021097769228390402?action=discord&type=1&cid=1942512167859859457"
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631228877684738?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEnyOgVtfLbcSwuE9IzOGohsDz5r8Jj2OVysHMS9HiboTr3_N9H_PEeHzhBx3WHttgM48YH5dExUmlmmRMVBM382TGFD2CO_yMrr4Gd2rj-kwRRMpptqZB1-zW-cHcrWVSTcZjWY2RkxCS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwRekoDf0Z5msAgURZty2Sf-StLNNhnoyMwRolMB86T_lcxHoCESM8iCkI26VbIwcpBjiDEaHh8sAwLFp0aPhgRzMSFQ25CBAN3simkrYyeXDfXLZkBaccLp-HubxCngAbJWE7m2kfhuqxR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1403",
   "raw_cells": {
     "col_0": {
-      "text": "1010"
+      "text": "1006"
     },
     "col_1": {
-      "text": "Burberry Puffer"
+      "text": "Burberry Check Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEnyOgVtfLbcSwuE9IzOGohsDz5r8Jj2OVysHMS9HiboTr3_N9H_PEeHzhBx3WHttgM48YH5dExUmlmmRMVBM382TGFD2CO_yMrr4Gd2rj-kwRRMpptqZB1-zW-cHcrWVSTcZjWY2RkxCS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwRekoDf0Z5msAgURZty2Sf-StLNNhnoyMwRolMB86T_lcxHoCESM8iCkI26VbIwcpBjiDEaHh8sAwLFp0aPhgRzMSFQ25CBAN3simkrYyeXDfXLZkBaccLp-HubxCngAbJWE7m2kfhuqxR=w143-h110"
     },
     "col_3": {
       "text": "Thunder",
       "links": [
         {
           "label": "Thunder",
-          "url": "https://oopbuy.com/product/weidian/7615029218?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7469225308?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget1/budget2",
+      "text": "budget",
       "links": [
         {
-          "label": "budget1",
-          "url": "https://oopbuy.com/product/weidian/7296704356?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget2",
-          "url": "https://oopbuy.com/product/1/869373032949?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/7243271599?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "138$"
+      "text": "36$"
     },
     "col_6": {
-      "text": "43$ / 25$"
+      "text": "15$"
     },
     "col_7": {
-      "text": "best/budget1/budget2",
+      "text": "best/budget",
       "links": [
         {
           "label": "best",
-          "url": "https://thethunder.x.yupoo.com/albums/145056454?uid=1&isSubCate=false&referrercate=3972377"
+          "url": "https://thethunder.x.yupoo.com/albums/137893051?uid=1&isSubCate=false&referrercate=3972377"
         },
         {
-          "label": "budget1",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1854071239645659137?action=discord&cid=1840597081113280514"
-        },
-        {
-          "label": "budget2",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2021097769228390402?action=discord&type=1&cid=1942512167859859457"
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631228877684738?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1403"
+  }
 }

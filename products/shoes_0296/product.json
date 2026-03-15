@@ -1,47 +1,47 @@
 {
-  "name": "Oregon Ducks",
+  "name": "GoreTex Off Noir",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "H12",
   "best_batch_links": [
     {
       "label": "H12",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7221816175%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7221816175?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7222802270?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7222802270?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "65$",
+  "best_price": "63$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwxUqw3Osc-ZlqWZSNYotzoXzjjjAjIsj9wx4Af08GUwCg4sa9iYXwSIjk7ckH0FRQGsGwzWwzOw33fEx9P4WEW8DjvH2uCH6o_zVxF5XKVABjwmZ4i1IKPFm-MH2YiqXL5QOhdyRu7tw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awqph7UXQPTW7-fK4XENukaoSWSkSWP5NbU-ENlqbB5v-TMzsaVsl7Ftta7hDaqpKbPWng9gNKjiq-SenTk9oDWK5O5kvKIrsTq6YtfnLMqFA1en3eZkGspNDWOFMHYDFJNCRdZ5iQ2r9kd=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0296",
   "raw_cells": {
     "col_0": {
       "text": "313"
     },
     "col_1": {
-      "text": "Oregon Ducks"
+      "text": "GoreTex Off Noir"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwxUqw3Osc-ZlqWZSNYotzoXzjjjAjIsj9wx4Af08GUwCg4sa9iYXwSIjk7ckH0FRQGsGwzWwzOw33fEx9P4WEW8DjvH2uCH6o_zVxF5XKVABjwmZ4i1IKPFm-MH2YiqXL5QOhdyRu7tw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awqph7UXQPTW7-fK4XENukaoSWSkSWP5NbU-ENlqbB5v-TMzsaVsl7Ftta7hDaqpKbPWng9gNKjiq-SenTk9oDWK5O5kvKIrsTq6YtfnLMqFA1en3eZkGspNDWOFMHYDFJNCRdZ5iQ2r9kd=w143-h110"
     },
     "col_3": {
       "text": "H12",
       "links": [
         {
           "label": "H12",
-          "url": "https://www.oopbuy.com/product/weidian/7221816175?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7222802270?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "65$"
+      "text": "63$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0296"
+  }
 }

@@ -1,61 +1,73 @@
 {
-  "name": "Vetements RammsteinT-Shirt",
+  "name": "KroenTwo-color Embroidery Sports Suit",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "vetementsshop",
+  "best_batch": "GOAT/GOAT",
   "best_batch_links": [
     {
-      "label": "vetementsshop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F677669318476%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/677669318476?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653876419?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653876419?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653829061?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653829061?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "52$",
+  "best_price": "59$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://vetementsshop.x.yupoo.com/albums/64753567?uid=1"
+      "url": "https://goat-official222.x.yupoo.com/albums/201194592?uid=1&isSubCate=false&referrercate=4943474"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9Knm-D0il61aUY0QzLUR6__DNauT3G4VpD_j_ZBpZomCaNr1drAVuVYvNnp7hGBx-MktrnrTco2bO18C4EAmipGXwZtplMO6zXw-720_R4KL-BFq1SijBS_q2eeCz41G8OrqQ1lsYuQ=w143-h110",
+  "notes": "set 59$ - top 30$ - bottom 29$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXINw0EpNE5T77ICHdmU2zCQogK2DCQnFdLGrfL1dHSTv1MJ3BzkWwZph-B8IwxFkAR0dqBrxdqiVYXzDPir_sB2ZvFMwNeopuC9aAhb8_orcVO3aSoQsP_F9yiT2CBtTB-Ss4K22jFSV9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1104",
   "raw_cells": {
     "col_0": {
-      "text": "659"
+      "text": "653"
     },
     "col_1": {
-      "text": "Vetements RammsteinT-Shirt"
+      "text": "KroenTwo-color Embroidery Sports Suit"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9Knm-D0il61aUY0QzLUR6__DNauT3G4VpD_j_ZBpZomCaNr1drAVuVYvNnp7hGBx-MktrnrTco2bO18C4EAmipGXwZtplMO6zXw-720_R4KL-BFq1SijBS_q2eeCz41G8OrqQ1lsYuQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXINw0EpNE5T77ICHdmU2zCQogK2DCQnFdLGrfL1dHSTv1MJ3BzkWwZph-B8IwxFkAR0dqBrxdqiVYXzDPir_sB2ZvFMwNeopuC9aAhb8_orcVO3aSoQsP_F9yiT2CBtTB-Ss4K22jFSV9=w143-h110"
     },
     "col_3": {
-      "text": "vetementsshop",
+      "text": "GOAT/GOAT",
       "links": [
         {
-          "label": "vetementsshop",
-          "url": "https://oopbuy.com/product/1/677669318476?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653876419?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653829061?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "52$"
+      "text": "59$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://vetementsshop.x.yupoo.com/albums/64753567?uid=1"
+          "url": "https://goat-official222.x.yupoo.com/albums/201194592?uid=1&isSubCate=false&referrercate=4943474"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 59$ - top 30$ - bottom 29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1104"
+  }
 }

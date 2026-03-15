@@ -1,12 +1,12 @@
 {
-  "name": "Cherry",
+  "name": "Legend Blue",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240644396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240644396?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjmR3ZD67PtpM2oApz4MRVZyaMWsoAAjkbJtGeEo9i4glVi0uce11UwcaWvuzCo14T4BzapsiL7274AOFcmdIdZr1pFP2h42yZGS83My55bgnqRGgGaChKGjWT6HP590YOMk8TGKjpxw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awg70YGrjFw-6fz3ZyaVxjVmdU6oVi5PO8Z47GhZmWGLYJ5YzmLPowKnYftQ_QHNTzorwTnJmAyJ37T2KD-OoV1nVY8Ck1FavUPeBxTL0TGk6XktScM9pjf07A25PLSCaCpIj-nldkIOpyt=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0318",
   "raw_cells": {
     "col_0": {
       "text": "341"
     },
     "col_1": {
-      "text": "Cherry"
+      "text": "Legend Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjmR3ZD67PtpM2oApz4MRVZyaMWsoAAjkbJtGeEo9i4glVi0uce11UwcaWvuzCo14T4BzapsiL7274AOFcmdIdZr1pFP2h42yZGS83My55bgnqRGgGaChKGjWT6HP590YOMk8TGKjpxw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awg70YGrjFw-6fz3ZyaVxjVmdU6oVi5PO8Z47GhZmWGLYJ5YzmLPowKnYftQ_QHNTzorwTnJmAyJ37T2KD-OoV1nVY8Ck1FavUPeBxTL0TGk6XktScM9pjf07A25PLSCaCpIj-nldkIOpyt=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "70$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0318"
+  }
 }

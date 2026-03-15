@@ -1,30 +1,30 @@
 {
-  "name": "MertraBigstep Jorts (Blue) Shorts",
+  "name": "MertraShorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
+  "best_batch": "pengreps",
   "best_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7542166860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7542166860?inviteCode=29TOTHGNH"
+      "label": "pengreps",
+      "url": "https://litbuy.com/product/weidian/7436855327?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7436855327?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "22$",
-  "budget_price": "16$",
-  "pics_text": "elephant/budget",
+  "best_price": "20$",
+  "budget_price": "14$",
+  "pics_text": "pengreps/budget",
   "pics_links": [
     {
-      "label": "elephant",
-      "url": "https://elephant-factory.x.yupoo.com/albums/208987324?uid=1&isSubCate=false&referrercate=5000643"
+      "label": "pengreps",
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7436855327"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aws0ZzOQ4_RGVMIRrb6xwTL9rB0o7XOFJCko8PmFRjx396S2BoyKUD__Fhph3TOYBHYvfZFw47b70dDgVqrV_bg3qi-esEvPQkIyG6qQi4Muc5Tuk0ZRJ1ZLKNjZOTDiL0vor2cmBgHirzh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwRpTAc9qBmaxmENwOklC4EM0QVkpAQCqXvXg9Vp4i4V4PGFokSh8WbvJx5XD41EFEsLwOoM_tUxB5TTa-Ho8pqZn2Jxuii-xU9VeBMg1EEooEuA-kH9fclyGYUf9S0zVgi09VFuM2JXg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1085",
   "raw_cells": {
     "col_0": {
-      "text": "636"
+      "text": "632"
     },
     "col_1": {
-      "text": "MertraBigstep Jorts (Blue) Shorts"
+      "text": "MertraShorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aws0ZzOQ4_RGVMIRrb6xwTL9rB0o7XOFJCko8PmFRjx396S2BoyKUD__Fhph3TOYBHYvfZFw47b70dDgVqrV_bg3qi-esEvPQkIyG6qQi4Muc5Tuk0ZRJ1ZLKNjZOTDiL0vor2cmBgHirzh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwRpTAc9qBmaxmENwOklC4EM0QVkpAQCqXvXg9Vp4i4V4PGFokSh8WbvJx5XD41EFEsLwOoM_tUxB5TTa-Ho8pqZn2Jxuii-xU9VeBMg1EEooEuA-kH9fclyGYUf9S0zVgi09VFuM2JXg=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
+      "text": "pengreps",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7542166860?inviteCode=29TOTHGNH"
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7436855327?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,17 +65,17 @@
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "20$"
     },
     "col_6": {
-      "text": "16$"
+      "text": "14$"
     },
     "col_7": {
-      "text": "elephant/budget",
+      "text": "pengreps/budget",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://elephant-factory.x.yupoo.com/albums/208987324?uid=1&isSubCate=false&referrercate=5000643"
+          "label": "pengreps",
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7436855327"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1085"
+  }
 }

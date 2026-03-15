@@ -1,87 +1,65 @@
 {
-  "name": "Akimbo ClubZipped Hoodie",
+  "name": "whales jorts",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "firerep",
   "best_batch_links": [
     {
       "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7596037672%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7596037672?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/992915480238?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/992915480238?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "3MadMan",
-  "budget_batch_links": [
-    {
-      "label": "3MadMan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F902000743084%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/902000743084?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "31$",
-  "budget_price": "22$",
-  "pics_text": "firerep/3madman",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "firerep",
-      "url": "https://firerep.x.yupoo.com/albums/174890733?uid=1&isSubCate=false&referrercate=4666904"
-    },
-    {
-      "label": "3madman",
-      "url": "https://3madman.x.yupoo.com/albums/190070381?uid=1&isSubCate=false&referrercate=5014159"
+      "label": "pics",
+      "url": "https://hotders.x.yupoo.com/albums/204106611?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay1OXO9TdhjaxFri8cPDza1BDlggAfzW5iJLO65X4t29dNyNle0DMf0jmfey0dE3SUX7ufDbPW6WclfcfJTU-uioGyyVVI6oltcvOOBfl6MqWYZRJbEnra_b6PmiI-qzrsNI0pR4POzBN9w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw60q6tkr8yTPz5Hcu7bexlw9K6omjSrFO24NCEZCBGeXbtxJwlrdb5FQWjlRqXimU2v_8vgOBmuTcKr8gHgPF7t6uD1g_eNxXnFTxt1R87o1Ki4HJad62HsjgJ-8PqGrNa2A0i0iikNw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0894",
   "raw_cells": {
     "col_0": {
-      "text": "413"
+      "text": "407"
     },
     "col_1": {
-      "text": "Akimbo ClubZipped Hoodie"
+      "text": "whales jorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay1OXO9TdhjaxFri8cPDza1BDlggAfzW5iJLO65X4t29dNyNle0DMf0jmfey0dE3SUX7ufDbPW6WclfcfJTU-uioGyyVVI6oltcvOOBfl6MqWYZRJbEnra_b6PmiI-qzrsNI0pR4POzBN9w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw60q6tkr8yTPz5Hcu7bexlw9K6omjSrFO24NCEZCBGeXbtxJwlrdb5FQWjlRqXimU2v_8vgOBmuTcKr8gHgPF7t6uD1g_eNxXnFTxt1R87o1Ki4HJad62HsjgJ-8PqGrNa2A0i0iikNw=w143-h110"
     },
     "col_3": {
       "text": "firerep",
       "links": [
         {
           "label": "firerep",
-          "url": "https://oopbuy.com/product/weidian/7596037672?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "3MadMan",
-      "links": [
-        {
-          "label": "3MadMan",
-          "url": "https://oopbuy.com/product/1/902000743084?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/992915480238?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "31$"
-    },
-    "col_6": {
-      "text": "22$"
+      "text": "38$"
     },
     "col_7": {
-      "text": "firerep/3madman",
+      "text": "pics",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://firerep.x.yupoo.com/albums/174890733?uid=1&isSubCate=false&referrercate=4666904"
-        },
-        {
-          "label": "3madman",
-          "url": "https://3madman.x.yupoo.com/albums/190070381?uid=1&isSubCate=false&referrercate=5014159"
+          "label": "pics",
+          "url": "https://hotders.x.yupoo.com/albums/204106611?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVcZMW9EoIMN1AG-s27FpWKA_ztYp0SYgSZETzyzhxyuKJC6wijdBVJqsHU3q1MBMFT6Q0HRD73xpQap5uMQDDyiffKLKZoQdv0z078m1vbmtx7uLUxl3TOSGemt9vNNLguLUVHQVIofLN=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0894"
+  }
 }

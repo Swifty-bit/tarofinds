@@ -1,81 +1,62 @@
 {
-  "name": "Ralph Lauren T-Shirt(Different Tag)",
+  "name": "Stussy 8 Ball Sherpa Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "CloudShop/budget",
-  "budget_batch_links": [
+  "best_batch": "CHIC",
+  "best_batch_links": [
     {
-      "label": "CloudShop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1020261554954%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1020261554954?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F909303378737%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/909303378737?inviteCode=29TOTHGNH"
+      "label": "CHIC",
+      "url": "https://litbuy.com/product/weidian/7282826103?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7282826103?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "8$ / 4$",
-  "pics_text": "cloudshop/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "42$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "cloudshop",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924269052354674690?action=discord&cid=1840597081113280514"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631385287475202?action=discord&cid=1840597081113280514"
+      "label": "QC Pics",
+      "url": "https://imgur.com/a/wcRZE0A"
     }
   ],
-  "notes": "For the budget 4$ link, size up 2",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwvxY43OcBs_M3nBFqjG7qVyya9SsDsUgiSy4ie6HlsqmM6gEWJxrrE31hQmTmaaGB9DAPOuCxGPYrA-nw2Viemz26HG-IA3wegHhnrpQWXdeEbbytX7WwB4rxkqAu_RfGsvmje0uThbKCo=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axupa--fvEGJU4-QGe-q7faZlHWQnNywiSnA4MFBmxVxmxxMoTdYGrtoponbpnoZfHHeSKD-gtpEAiqKwJKdl6v4ZQaHN0fvlnFyu9W9e9-HUTP5KcRU8GoF2qfkto1Iy5hU3Rx4nC-v2Z4=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0598",
   "raw_cells": {
     "col_0": {
-      "text": "69"
+      "text": "63"
     },
     "col_1": {
-      "text": "Ralph Lauren T-Shirt(Different Tag)"
+      "text": "Stussy 8 Ball Sherpa Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwvxY43OcBs_M3nBFqjG7qVyya9SsDsUgiSy4ie6HlsqmM6gEWJxrrE31hQmTmaaGB9DAPOuCxGPYrA-nw2Viemz26HG-IA3wegHhnrpQWXdeEbbytX7WwB4rxkqAu_RfGsvmje0uThbKCo=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axupa--fvEGJU4-QGe-q7faZlHWQnNywiSnA4MFBmxVxmxxMoTdYGrtoponbpnoZfHHeSKD-gtpEAiqKwJKdl6v4ZQaHN0fvlnFyu9W9e9-HUTP5KcRU8GoF2qfkto1Iy5hU3Rx4nC-v2Z4=w143-h110"
     },
-    "col_4": {
-      "text": "CloudShop/budget",
+    "col_3": {
+      "text": "CHIC",
       "links": [
         {
-          "label": "CloudShop",
-          "url": "https://oopbuy.com/product/1/1020261554954?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/909303378737?inviteCode=29TOTHGNH"
+          "label": "CHIC",
+          "url": "https://oopbuy.com/product/weidian/7282826103?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "8$ / 4$"
+    "col_5": {
+      "text": "42$"
     },
     "col_7": {
-      "text": "cloudshop/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "cloudshop",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924269052354674690?action=discord&cid=1840597081113280514"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631385287475202?action=discord&cid=1840597081113280514"
+          "label": "QC Pics",
+          "url": "https://imgur.com/a/wcRZE0A"
         }
-      ]
-    },
-    "col_8": {
-      "text": "For the budget 4$ link, size up 2"
+      ],
+      "image": "https://imgur.com/a/wcRZE0A"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0598"
+  }
 }

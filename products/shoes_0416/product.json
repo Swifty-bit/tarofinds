@@ -1,47 +1,65 @@
 {
-  "name": "Dior B31",
+  "name": "Dior B27",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Alison",
+  "best_batch": "Ice Cream",
   "best_batch_links": [
     {
-      "label": "Alison",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F746862597840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/746862597840?inviteCode=29TOTHGNH"
+      "label": "Ice Cream",
+      "url": "https://litbuy.com/product/weidian/7519418083?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7519418083?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "80$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "GD",
+  "budget_batch_links": [
+    {
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7475255237?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7475255237?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "91$",
+  "budget_price": "61$",
+  "pics_text": "61$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwrIBdF5mNlWI7Rtf5WTEYyKlqLIPfd7oV2VFQ7jen7sNHrqRgjj19d4vg69yD44I6s4xWlpPBwH5ybCth_b5Wbr0xoBJApbQN4377iqDamceyrca5CW60tv5e4eLBCKldH5wbBFxxklA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw8lcLhdFs6p0JBqeAMhJunt9dPr2p6BjzojXcMvaR4xl4XRVsUNIwEG6oad6JyMLjl2IXXvHDal61JaID8RF8E7Q1pgMi5JOJmkB0aIe1M7T7eshC-x5ByoDL-i1mj6dsVm2qGz7KpeabO=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0416",
   "raw_cells": {
     "col_0": {
       "text": "473"
     },
     "col_1": {
-      "text": "Dior B31"
+      "text": "Dior B27"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwrIBdF5mNlWI7Rtf5WTEYyKlqLIPfd7oV2VFQ7jen7sNHrqRgjj19d4vg69yD44I6s4xWlpPBwH5ybCth_b5Wbr0xoBJApbQN4377iqDamceyrca5CW60tv5e4eLBCKldH5wbBFxxklA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw8lcLhdFs6p0JBqeAMhJunt9dPr2p6BjzojXcMvaR4xl4XRVsUNIwEG6oad6JyMLjl2IXXvHDal61JaID8RF8E7Q1pgMi5JOJmkB0aIe1M7T7eshC-x5ByoDL-i1mj6dsVm2qGz7KpeabO=w143-h110"
     },
     "col_3": {
-      "text": "Alison",
+      "text": "Ice Cream",
       "links": [
         {
-          "label": "Alison",
-          "url": "https://www.oopbuy.com/product/1/746862597840?inviteCode=29TOTHGNH"
+          "label": "Ice Cream",
+          "url": "https://oopbuy.com/product/weidian/7519418083?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "GD",
+      "links": [
+        {
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7475255237?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "80$"
+      "text": "91$"
+    },
+    "col_6": {
+      "text": "61$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0416"
+  }
 }

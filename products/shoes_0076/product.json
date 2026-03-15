@@ -1,46 +1,48 @@
 {
-  "name": "St. John'sUniversity Red",
+  "name": "Syracuse",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "VT",
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "44$",
+  "best_price": "46$",
   "budget_price": "23$",
   "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azya3w1mCwzFJwhP-g8hV2XRlsoKPa-RuEdLLFVYqg4xHnqteTsGfgNtg8L8YfLzJRx_OLMzucdXCzWoVjosmJXCrQY4de8sr7oUOCCVZOGgpL4382B2_oaY8m8PV1LDE3WkkqKTTkbPknI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axv0Lipeft7sDbbA2wDAH5ksC5JITDRQ52-hsXx6NQDfu8bt8hEXwGRUJmEIwXCE7MWI2pz0ztNOtNFdtc2YXMQOGrKcrU6Vo2rUIg6IPksb20f3dMdqfykehiovzS55_Md7Wm2pB0HmE-o=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0076",
   "raw_cells": {
     "col_0": {
       "text": "85"
     },
     "col_1": {
-      "text": "St. John'sUniversity Red"
+      "text": "Syracuse"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azya3w1mCwzFJwhP-g8hV2XRlsoKPa-RuEdLLFVYqg4xHnqteTsGfgNtg8L8YfLzJRx_OLMzucdXCzWoVjosmJXCrQY4de8sr7oUOCCVZOGgpL4382B2_oaY8m8PV1LDE3WkkqKTTkbPknI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axv0Lipeft7sDbbA2wDAH5ksC5JITDRQ52-hsXx6NQDfu8bt8hEXwGRUJmEIwXCE7MWI2pz0ztNOtNFdtc2YXMQOGrKcrU6Vo2rUIg6IPksb20f3dMdqfykehiovzS55_Md7Wm2pB0HmE-o=w143-h110"
     },
     "col_3": {
       "text": "M",
       "links": [
         {
           "label": "M",
-          "url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "44$"
+      "text": "46$"
     },
     "col_6": {
       "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0076"
+  }
 }

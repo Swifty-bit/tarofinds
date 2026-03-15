@@ -1,61 +1,87 @@
 {
-  "name": "JacquemusLe Grand Bambino",
+  "name": "GucciOphidia Small Shoulder Bag",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "Scarlett",
+  "best_batch": "MissChen",
   "best_batch_links": [
     {
-      "label": "Scarlett",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7227913903%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7227913903?inviteCode=29TOTHGNH"
+      "label": "MissChen",
+      "url": "https://litbuy.com/product/weidian/7482451106?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7482451106?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "145$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/783219021617?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/783219021617?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "107$",
+  "budget_price": "20$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1911222822841192449?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1951449031770198019?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1972486933227069441?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay67SwjQJS4CW75dRYQgqQx_JaB3N5N1E1P7Kyfi5DztypzWVeMkXA8-BwMjIOeAXW0R3bO0O6fbdf6RjnDqgQjrBrpwiCiVEXxeApd227-X6OIxWeeSWRtirmqN2t-hT4AVcsz1V6MhcmS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzyOCTxfjTjpTerFnZ72TGZW2obKKAbxPtSbMxHjTj3uhaedKYqkox0cgNlt5B1U7xYtQ2A5blQxhVs0_QZac1BeLmDdq_YYmOsVaqOXPHyaXpObFWZNmn6wb6iSgcBPbhIsart7RhXrA82=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1538",
   "raw_cells": {
     "col_0": {
-      "text": "44"
+      "text": "40"
     },
     "col_1": {
-      "text": "JacquemusLe Grand Bambino"
+      "text": "GucciOphidia Small Shoulder Bag"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay67SwjQJS4CW75dRYQgqQx_JaB3N5N1E1P7Kyfi5DztypzWVeMkXA8-BwMjIOeAXW0R3bO0O6fbdf6RjnDqgQjrBrpwiCiVEXxeApd227-X6OIxWeeSWRtirmqN2t-hT4AVcsz1V6MhcmS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzyOCTxfjTjpTerFnZ72TGZW2obKKAbxPtSbMxHjTj3uhaedKYqkox0cgNlt5B1U7xYtQ2A5blQxhVs0_QZac1BeLmDdq_YYmOsVaqOXPHyaXpObFWZNmn6wb6iSgcBPbhIsart7RhXrA82=w143-h110"
     },
     "col_3": {
-      "text": "Scarlett",
+      "text": "MissChen",
       "links": [
         {
-          "label": "Scarlett",
-          "url": "https://oopbuy.com/product/2/7227913903?inviteCode=29TOTHGNH"
+          "label": "MissChen",
+          "url": "https://www.oopbuy.com/product/weidian/7482451106?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/783219021617?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "145$"
+      "text": "107$"
+    },
+    "col_6": {
+      "text": "20$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1911222822841192449?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1951449031770198019?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1972486933227069441?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1538"
+  }
 }

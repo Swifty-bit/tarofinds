@@ -1,64 +1,90 @@
 {
-  "name": "Supreme x DucatiTracksuit",
+  "name": "SupremeTracksuit4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
       "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7589589759%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7589589759?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/982922629033?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/982922629033?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "79$(SET)",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/998953231462?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/998953231462?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "80$(SET)",
+  "budget_price": "50$(SET)",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/171784064?uid=1"
+      "label": "best",
+      "url": "https://noghost.x.yupoo.com/albums/176427625?uid=1&isSubCate=false&referrercate=4686229"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2025397266657923074?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "set 79$ - jacket 41$ - pants 38$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUCBFwL75RcNKr_HCFagZAlpC5jzN9jbhNd-aQjKyEbkeiGeeJcALPgSi48Uj9rlOyX2acZcGnAfOhxseqTDpMpRQDhOFKWXRGesqd8GYDqbg-QGK2AEL8RGLlD7QHmyx-M9MKkG-Mu58_=w143-h110",
+  "notes": "set 80$ - jacket 40$ - pants 40$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5FAn_Y0g-F82GVFBjllGDfTeoacTCuHP-72dBvZm9tEsGmwdtYmhQJcg-ZnSX8dcVP1CsPcIcfp5IOQ0ruIIGcfr9VnzNSb0PQ88x65Rtq3C5fZ_hrk48Ro-GSVj9u_asxKdZmuxxVSxY=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1191",
   "raw_cells": {
     "col_0": {
-      "text": "760"
+      "text": "756"
     },
     "col_1": {
-      "text": "Supreme x DucatiTracksuit"
+      "text": "SupremeTracksuit4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUCBFwL75RcNKr_HCFagZAlpC5jzN9jbhNd-aQjKyEbkeiGeeJcALPgSi48Uj9rlOyX2acZcGnAfOhxseqTDpMpRQDhOFKWXRGesqd8GYDqbg-QGK2AEL8RGLlD7QHmyx-M9MKkG-Mu58_=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5FAn_Y0g-F82GVFBjllGDfTeoacTCuHP-72dBvZm9tEsGmwdtYmhQJcg-ZnSX8dcVP1CsPcIcfp5IOQ0ruIIGcfr9VnzNSb0PQ88x65Rtq3C5fZ_hrk48Ro-GSVj9u_asxKdZmuxxVSxY=w143-h110"
     },
     "col_3": {
       "text": "DRAGONREP",
       "links": [
         {
           "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7589589759?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/982922629033?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/998953231462?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "79$(SET)"
+      "text": "80$(SET)"
+    },
+    "col_6": {
+      "text": "50$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/171784064?uid=1"
+          "label": "best",
+          "url": "https://noghost.x.yupoo.com/albums/176427625?uid=1&isSubCate=false&referrercate=4686229"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2025397266657923074?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     },
     "col_8": {
-      "text": "set 79$ - jacket 41$ - pants 38$"
+      "text": "set 80$ - jacket 40$ - pants 40$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1191"
+  }
 }

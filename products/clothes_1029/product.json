@@ -1,64 +1,64 @@
 {
-  "name": "CDG PlayDouble HeartT-Shirt3 Colors",
+  "name": "Drama CallTRACKEHPants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "repsbrothers",
+  "best_batch": "hotdog-official",
   "best_batch_links": [
     {
-      "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F976288568920%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/976288568920?inviteCode=29TOTHGNH"
+      "label": "hotdog-official",
+      "url": "https://litbuy.com/product/taobao/7342494670?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7342494670?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "21$",
+  "best_price": "26$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repbros.x.yupoo.com/albums/206698480?uid=1&isSubCate=false&referrercate=4980597"
+      "url": "https://hotdog-official.x.yupoo.com/albums/177994087?uid=1&isSubCate=false&referrercate=4589391"
     }
   ],
-  "notes": "100% Cotton",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtDNkZCENumVEasfNbaOH6KqMFtP9AYlGIvl2JffZoWQYJBqZSvVmrKEAaq_l33qGYTK2uQaeVovgG57XJ0fkeEe6SEnfPr4aCWj-GR050WqykwOPOQMS8Sh_zm1aPDs3MnPm_IiZAnNX_=w143-h110",
+  "notes": "set 57$ - top 31$ - bottom 26$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyKG6Vm1bq58UwGM574TJNyDYStP8iY6pFslfdr4QppNaKnJsPR9AEBozyRcnnJGHZUbE_SM8clvVSeaFVbtDbY1NWY_9nCAoBAw0_P6462J7st-8uZXD8NDunD5jZ9rwHudVbppyLfxQ9F=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1029",
   "raw_cells": {
     "col_0": {
-      "text": "574"
+      "text": "568"
     },
     "col_1": {
-      "text": "CDG PlayDouble HeartT-Shirt3 Colors"
+      "text": "Drama CallTRACKEHPants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtDNkZCENumVEasfNbaOH6KqMFtP9AYlGIvl2JffZoWQYJBqZSvVmrKEAaq_l33qGYTK2uQaeVovgG57XJ0fkeEe6SEnfPr4aCWj-GR050WqykwOPOQMS8Sh_zm1aPDs3MnPm_IiZAnNX_=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyKG6Vm1bq58UwGM574TJNyDYStP8iY6pFslfdr4QppNaKnJsPR9AEBozyRcnnJGHZUbE_SM8clvVSeaFVbtDbY1NWY_9nCAoBAw0_P6462J7st-8uZXD8NDunD5jZ9rwHudVbppyLfxQ9F=w143-h110"
     },
     "col_3": {
-      "text": "repsbrothers",
+      "text": "hotdog-official",
       "links": [
         {
-          "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/976288568920?inviteCode=29TOTHGNH"
+          "label": "hotdog-official",
+          "url": "https://oopbuy.com/product/2/7342494670?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "21$"
+      "text": "26$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://repbros.x.yupoo.com/albums/206698480?uid=1&isSubCate=false&referrercate=4980597"
+          "url": "https://hotdog-official.x.yupoo.com/albums/177994087?uid=1&isSubCate=false&referrercate=4589391"
         }
       ]
     },
     "col_8": {
-      "text": "100% Cotton"
+      "text": "set 57$ - top 31$ - bottom 26$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1029"
+  }
 }

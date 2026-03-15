@@ -1,61 +1,61 @@
 {
-  "name": "ACW T-Shirt10 Styles",
+  "name": "CarharttPuffer Jacket2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "FFCP",
-  "budget_batch_links": [
+  "best_batch": "LambClub",
+  "best_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F621389387238%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH"
+      "label": "LambClub",
+      "url": "https://litbuy.com/product/weidian/835083762522?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/835083762522?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "8$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "51$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/668964833777"
+      "url": "https://doppel.fit/item/1688/835083762522"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axv3jf3lL58CxuOke_T6j3BiiLZ-pTJwejtEdRbbwYois_QbSEdNmYihFVEYe1qgO4EzGcTZuJ-SPlwyWzFKgKuag9LSMzPL7Hv2DnRQFmWCftljTiAVHnfn4SvW-beK26BMECMxgkHXlFX=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AziDgxFWNAEItmGT6hKzA2ncDR_KJMicUoBrwAloztNrAk7bDFDp34fPrS1s0iBoAoTOB51GAYfVeP6ZXDoINUetphCqd5QMR7G2tskcP8uAYTrtyRXY5815MfjclqtwyGkFLx59chqlA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1438",
   "raw_cells": {
     "col_0": {
-      "text": "1051"
+      "text": "1045"
     },
     "col_1": {
-      "text": "ACW T-Shirt10 Styles"
+      "text": "CarharttPuffer Jacket2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axv3jf3lL58CxuOke_T6j3BiiLZ-pTJwejtEdRbbwYois_QbSEdNmYihFVEYe1qgO4EzGcTZuJ-SPlwyWzFKgKuag9LSMzPL7Hv2DnRQFmWCftljTiAVHnfn4SvW-beK26BMECMxgkHXlFX=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AziDgxFWNAEItmGT6hKzA2ncDR_KJMicUoBrwAloztNrAk7bDFDp34fPrS1s0iBoAoTOB51GAYfVeP6ZXDoINUetphCqd5QMR7G2tskcP8uAYTrtyRXY5815MfjclqtwyGkFLx59chqlA=w143-h110"
     },
-    "col_4": {
-      "text": "FFCP",
+    "col_3": {
+      "text": "LambClub",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH"
+          "label": "LambClub",
+          "url": "https://www.oopbuy.com/product/0/835083762522?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "8$"
+    "col_5": {
+      "text": "51$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/668964833777"
+          "url": "https://doppel.fit/item/1688/835083762522"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1438"
+  }
 }

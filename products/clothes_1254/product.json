@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaReverse T-Shirt",
+  "name": "BalenciagaTape T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "1to1",
   "best_batch_links": [
     {
       "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7244440590%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7244440590?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/6187744799?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6187744799?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "35$",
+  "best_price": "38$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/166662315?uid=1&isSubCate=false&referrercate=3984024"
+      "url": "https://1to1.x.yupoo.com/albums/132463695?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyL3hUifuRQhKv_T4Pkbav84YKjcxRRDpgpbgV6etDiFDFtVFfmgxr0Y0df6kTLWZYO83rQb7lJu2A29VAWe35lLDZ3Wqhgsu6sKXlKfqfmA1kw_CZ6hXZMpfY6Kb3UNMDxU-axJ7eDuz-2=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwMM95jXv52fONZD4ZIrd4YhMHPkdxQwUJoHBc7WgxvF44eNdEOgttol4A0GrIbizUYHlS0SlKx_gLOz8Qp6CdqeQMIDW4fRe9ZrKxVLYqjeVx01AYOUL1t5ahHLOnFvbsExcKkK__U2Rmk=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1254",
   "raw_cells": {
     "col_0": {
-      "text": "843"
+      "text": "839"
     },
     "col_1": {
-      "text": "BalenciagaReverse T-Shirt"
+      "text": "BalenciagaTape T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyL3hUifuRQhKv_T4Pkbav84YKjcxRRDpgpbgV6etDiFDFtVFfmgxr0Y0df6kTLWZYO83rQb7lJu2A29VAWe35lLDZ3Wqhgsu6sKXlKfqfmA1kw_CZ6hXZMpfY6Kb3UNMDxU-axJ7eDuz-2=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMM95jXv52fONZD4ZIrd4YhMHPkdxQwUJoHBc7WgxvF44eNdEOgttol4A0GrIbizUYHlS0SlKx_gLOz8Qp6CdqeQMIDW4fRe9ZrKxVLYqjeVx01AYOUL1t5ahHLOnFvbsExcKkK__U2Rmk=w143-h110"
     },
     "col_3": {
       "text": "1to1",
       "links": [
         {
           "label": "1to1",
-          "url": "https://oopbuy.com/product/2/7244440590?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/6187744799?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
+      "text": "38$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/166662315?uid=1&isSubCate=false&referrercate=3984024"
+          "url": "https://1to1.x.yupoo.com/albums/132463695?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1254"
+  }
 }

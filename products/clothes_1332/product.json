@@ -1,61 +1,79 @@
 {
-  "name": "Palace Facemask Zip Up Hoodie",
+  "name": "P*NK V2 Sweatpants Black",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7498013346%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7498013346?inviteCode=29TOTHGNH"
+      "label": "PikaPikaGo",
+      "url": "https://litbuy.com/product/weidian/823211449420?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/823211449420?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "54$",
-  "budget_price": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/738347006278?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "16$(sale)",
+  "budget_price": "14$",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://dragonrep333.x.yupoo.com/albums/207875487?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/177009869?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeVtkB27S8qxCuO4z-gTQsNkwHqlnIk-Q-hSuq9ZJo-zpny8N1HMiCrEtNwCpUxz-AhHBVQV2EjLm2MKWnMLmIRFWlMX0x0xuBIATBirNfdosOTZi5PuQ5iEtgC8W6FJ5oCHWqc9nZa_zG=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzeENPTKdpPVmfSgM6zW9XkAcblhJh2vOlSXfqjO3BwHnRfyqx2QOJuRQ-guu-IqqSGfdyFM-HzBZtzrNdwM7dbWPumY4jnh-WeBc6czLTqcieyyF2DlaKW5hzC3lffsH9bDljGa_Vl-weB=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1332",
   "raw_cells": {
     "col_0": {
-      "text": "929"
+      "text": "923"
     },
     "col_1": {
-      "text": "Palace Facemask Zip Up Hoodie"
+      "text": "P*NK V2 Sweatpants Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeVtkB27S8qxCuO4z-gTQsNkwHqlnIk-Q-hSuq9ZJo-zpny8N1HMiCrEtNwCpUxz-AhHBVQV2EjLm2MKWnMLmIRFWlMX0x0xuBIATBirNfdosOTZi5PuQ5iEtgC8W6FJ5oCHWqc9nZa_zG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzeENPTKdpPVmfSgM6zW9XkAcblhJh2vOlSXfqjO3BwHnRfyqx2QOJuRQ-guu-IqqSGfdyFM-HzBZtzrNdwM7dbWPumY4jnh-WeBc6czLTqcieyyF2DlaKW5hzC3lffsH9bDljGa_Vl-weB=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "PikaPikaGo",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7498013346?inviteCode=29TOTHGNH"
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/823211449420?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "54$"
+      "text": "16$(sale)"
+    },
+    "col_6": {
+      "text": "14$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://dragonrep333.x.yupoo.com/albums/207875487?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/177009869?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1332"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "GucciCardholder",
+  "name": "Dior Pouch with Shoulder Strap in Dior Oblique Jacquard",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "MissChen",
   "best_batch_links": [
     {
       "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7421463371%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7421463371?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7421514579?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7421514579?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "46$",
+  "best_price": "122$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1932329660357644289?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1932329663415291907?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNhxGodrdHcxCl8_kNTFtjAF7V0BboxlfouXSIF9pM_Enf4pqlVgnfDb_cQqjNj2dtwsO-j7nndhthffG_pZcl8XDt9UgA2_4pJ3QLcYSr3Pyf-DT5ojWsXfeVtMi8r0fhcUUujrUbkoaK=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFJ-OeZgv6emm0s9UBnL31bEB7Wj8v_pTGm1XNhgRMsV3F3H5TeDdnYkII5mGgIuw3mF7NkgMxK9hB2TlW1kMrIwBaeTo1uydWo8KVEdQ8xddool30Ww-u6EhMyuGcAShUjrawZVMLrKOw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1531",
   "raw_cells": {
     "col_0": {
-      "text": "37"
+      "text": "33"
     },
     "col_1": {
-      "text": "GucciCardholder"
+      "text": "Dior Pouch with Shoulder Strap in Dior Oblique Jacquard"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNhxGodrdHcxCl8_kNTFtjAF7V0BboxlfouXSIF9pM_Enf4pqlVgnfDb_cQqjNj2dtwsO-j7nndhthffG_pZcl8XDt9UgA2_4pJ3QLcYSr3Pyf-DT5ojWsXfeVtMi8r0fhcUUujrUbkoaK=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFJ-OeZgv6emm0s9UBnL31bEB7Wj8v_pTGm1XNhgRMsV3F3H5TeDdnYkII5mGgIuw3mF7NkgMxK9hB2TlW1kMrIwBaeTo1uydWo8KVEdQ8xddool30Ww-u6EhMyuGcAShUjrawZVMLrKOw=w143-h110"
     },
     "col_3": {
       "text": "MissChen",
       "links": [
         {
           "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/7421463371?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7421514579?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "122$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1932329660357644289?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1932329663415291907?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1531"
+  }
 }

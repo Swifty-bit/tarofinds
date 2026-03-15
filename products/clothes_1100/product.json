@@ -1,73 +1,87 @@
 {
-  "name": "KroenTwo-color Embroidery Sports Suit",
+  "name": "MertraHeat Reactive Puffer Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT/GOAT",
+  "best_batch": "elephant",
   "best_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653876419%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653876419?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653829061%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653829061?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7575194879?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7575194879?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "59$(SET)",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "77$",
+  "budget_price": "48$",
+  "pics_text": "elephant/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official222.x.yupoo.com/albums/201194592?uid=1&isSubCate=false&referrercate=4943474"
+      "label": "elephant",
+      "url": "https://elephant-factory.x.yupoo.com/albums/213654129?uid=1&isSubCate=false&referrercate=5000643"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "set 59$ - top 30$ - bottom 29$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyjycbBlhVyAQsg0pywG3uN-9OfSyvxhr-JzcUJnnwLq6bEHu_mbell9_dLnxaiGE6A2QaCvr2JaKYEbHXFsa6DJ6nT7AXvgaL71wpEQL7cQ-6n3hPE_4NCJixLSQTfoq01etu27UTw1iHa=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzGU_wyhIrT0TCdU-vJwwAFcLZFqajgZfcFgshglSXHZrSHfVNQ5Ud--gFfOusDd7Dqbb04_rW1feQVmEVSHhlzbC3msoYecET1ynLcNhRY8zrOQ2Or2uskmbvomRuuFBj58lhSvY4Wpw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1100",
   "raw_cells": {
     "col_0": {
-      "text": "653"
+      "text": "647"
     },
     "col_1": {
-      "text": "KroenTwo-color Embroidery Sports Suit"
+      "text": "MertraHeat Reactive Puffer Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyjycbBlhVyAQsg0pywG3uN-9OfSyvxhr-JzcUJnnwLq6bEHu_mbell9_dLnxaiGE6A2QaCvr2JaKYEbHXFsa6DJ6nT7AXvgaL71wpEQL7cQ-6n3hPE_4NCJixLSQTfoq01etu27UTw1iHa=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzGU_wyhIrT0TCdU-vJwwAFcLZFqajgZfcFgshglSXHZrSHfVNQ5Ud--gFfOusDd7Dqbb04_rW1feQVmEVSHhlzbC3msoYecET1ynLcNhRY8zrOQ2Or2uskmbvomRuuFBj58lhSvY4Wpw=w143-h110"
     },
     "col_3": {
-      "text": "GOAT/GOAT",
+      "text": "elephant",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653876419?inviteCode=29TOTHGNH"
-        },
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7575194879?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653829061?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "59$(SET)"
+      "text": "77$"
+    },
+    "col_6": {
+      "text": "48$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "elephant/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official222.x.yupoo.com/albums/201194592?uid=1&isSubCate=false&referrercate=4943474"
+          "label": "elephant",
+          "url": "https://elephant-factory.x.yupoo.com/albums/213654129?uid=1&isSubCate=false&referrercate=5000643"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 59$ - top 30$ - bottom 29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1100"
+  }
 }

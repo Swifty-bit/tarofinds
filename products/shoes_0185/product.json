@@ -1,65 +1,47 @@
 {
-  "name": "Union LA Bephies Beauty Supply Summer of '96",
+  "name": "AMM(A Ma Maniere)",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LW",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328044528%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328044528?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/6079375814?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6079375814?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "DG",
-  "budget_batch_links": [
-    {
-      "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "64$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "75$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPil_yXb1xc2Y_s3eFeG7lmzML1n5OThXrX7WsRfqQx6az_aN-A_x1E3uMrTP7UwmGcenNWLlzNpH4-dHy-xnfvNv9olSy_qzVCgs61X53_uwsKXdwwqVEvYGGJe2CpZX0tAWslw8oSC3_=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxnndjV5YqH-tGG8054czqPf-Vrch0aUjWkO3hDBqKjJunWVPf988kmEQFiJ4vLmNE1inszKOPYVDU2dDvG7m4Y9HSOGbqhtH36yLEaw-1fPslOdjlutekN_d5-eZYMtVbDgw2K10Jq4w=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0185",
   "raw_cells": {
     "col_0": {
       "text": "196"
     },
     "col_1": {
-      "text": "Union LA Bephies Beauty Supply Summer of '96"
+      "text": "AMM(A Ma Maniere)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPil_yXb1xc2Y_s3eFeG7lmzML1n5OThXrX7WsRfqQx6az_aN-A_x1E3uMrTP7UwmGcenNWLlzNpH4-dHy-xnfvNv9olSy_qzVCgs61X53_uwsKXdwwqVEvYGGJe2CpZX0tAWslw8oSC3_=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxnndjV5YqH-tGG8054czqPf-Vrch0aUjWkO3hDBqKjJunWVPf988kmEQFiJ4vLmNE1inszKOPYVDU2dDvG7m4Y9HSOGbqhtH36yLEaw-1fPslOdjlutekN_d5-eZYMtVbDgw2K10Jq4w=w143-h100"
     },
     "col_3": {
-      "text": "LW",
+      "text": "LJR",
       "links": [
         {
-          "label": "LW",
-          "url": "https://oopbuy.com/product/2/7328044528?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "DG",
-      "links": [
-        {
-          "label": "DG",
-          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/6079375814?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "64$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "75$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0185"
+  }
 }

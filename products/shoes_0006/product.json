@@ -6,7 +6,7 @@
   "best_batch_links": [
     {
       "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563993265%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7563993265?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7563993265?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "D",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5342584897%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/5342584897?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/5342584897?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,7 +23,9 @@
   "pics_text": "44$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxRwTrhDh02uZ8SLMN7Uej9EQ750c84cWJeam_jKw_P4n9RGXgRLE3DaR1cOvUu9limJEbMiVYzEjfAnU-78Ev0a-ETbuCipUEmGJqPPUvLqKzA9U7huFM-ulfVLtRL0sm9taUWr3mXPvN5=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzUF_xOHdG4n5Z9bU2OP1bX_ai0-EUM706NL7mGRRxihR6o4hX-QsXjYyrJ6ZaqNfpZgmW4HBtzFRMy4LPppj75HbP5YVOby92HzhFaOf2T52KMLUyLfKmYkmu9Kgnsd1RE0BKw3vxfN7wG=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0006",
   "raw_cells": {
     "col_0": {
       "text": "13"
@@ -33,7 +35,7 @@
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxRwTrhDh02uZ8SLMN7Uej9EQ750c84cWJeam_jKw_P4n9RGXgRLE3DaR1cOvUu9limJEbMiVYzEjfAnU-78Ev0a-ETbuCipUEmGJqPPUvLqKzA9U7huFM-ulfVLtRL0sm9taUWr3mXPvN5=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzUF_xOHdG4n5Z9bU2OP1bX_ai0-EUM706NL7mGRRxihR6o4hX-QsXjYyrJ6ZaqNfpZgmW4HBtzFRMy4LPppj75HbP5YVOby92HzhFaOf2T52KMLUyLfKmYkmu9Kgnsd1RE0BKw3vxfN7wG=w143-h110"
     },
     "col_3": {
       "text": "WWTOP",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "44$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0006"
+  }
 }

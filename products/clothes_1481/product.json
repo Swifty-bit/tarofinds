@@ -1,61 +1,87 @@
 {
-  "name": "Canada GooseThermal Toque Hat Beanie",
+  "name": "Canada GooseCrofton",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TopGoosey",
+  "best_batch": "Chaoren",
   "best_batch_links": [
     {
-      "label": "TopGoosey",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1004396113066%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1004396113066?inviteCode=29TOTHGNH"
+      "label": "Chaoren",
+      "url": "https://litbuy.com/product/weidian/846696288977?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/846696288977?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "38$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/822552249187?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/822552249187?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "205$",
+  "budget_price": "85$",
+  "pics_text": "chaoren/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://topgoosey-01.x.yupoo.com/albums/192756684?uid=1"
+      "label": "chaoren",
+      "url": "https://chaorenqihaodian.x.yupoo.com/categories/697594?isSubCate=true"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967050881318346753?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwyvD-LBHjLBETJ7PXF0s8pVguWS-E9wavkGxhsnJNcBKHhvttnMwiAKaVupe0CNggaXwE93q-W71OmYpQhNbVxSsY85tlOU7MRt3GcYCjV75PzdlJyEx1_yhTYg4rd3BAH5LuMdvJV1EZz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUr-Cl87OH0dkqpaJPlL5keAAP1M7WKwzUYIw6COlCXSjLuX-MVq-C1fND0XBGmsZ_SqIoH8iadXw26kwdVv4ias7qdLvgj2cymKcomRsjRSLvtGy6T5ucDBQWh8OeBKI2nrLEcT8P2Nts=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1481",
   "raw_cells": {
     "col_0": {
-      "text": "1102"
+      "text": "1098"
     },
     "col_1": {
-      "text": "Canada GooseThermal Toque Hat Beanie"
+      "text": "Canada GooseCrofton"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwyvD-LBHjLBETJ7PXF0s8pVguWS-E9wavkGxhsnJNcBKHhvttnMwiAKaVupe0CNggaXwE93q-W71OmYpQhNbVxSsY85tlOU7MRt3GcYCjV75PzdlJyEx1_yhTYg4rd3BAH5LuMdvJV1EZz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUr-Cl87OH0dkqpaJPlL5keAAP1M7WKwzUYIw6COlCXSjLuX-MVq-C1fND0XBGmsZ_SqIoH8iadXw26kwdVv4ias7qdLvgj2cymKcomRsjRSLvtGy6T5ucDBQWh8OeBKI2nrLEcT8P2Nts=w143-h110"
     },
     "col_3": {
-      "text": "TopGoosey",
+      "text": "Chaoren",
       "links": [
         {
-          "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1004396113066?inviteCode=29TOTHGNH"
+          "label": "Chaoren",
+          "url": "https://oopbuy.com/product/1/846696288977?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/822552249187?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "205$"
+    },
+    "col_6": {
+      "text": "85$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "chaoren/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://topgoosey-01.x.yupoo.com/albums/192756684?uid=1"
+          "label": "chaoren",
+          "url": "https://chaorenqihaodian.x.yupoo.com/categories/697594?isSubCate=true"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967050881318346753?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1481"
+  }
 }

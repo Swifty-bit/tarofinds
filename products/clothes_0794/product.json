@@ -1,61 +1,61 @@
 {
-  "name": "Reppe Jacket",
+  "name": "Moncler SweatshirtMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "RepsKing",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7474648215%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7474648215?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/910528851266?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/910528851266?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "43$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "11$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/161893635?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1992781279865688066?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzycPmvpwxiwpv52QJuxyZzSt5h28Sm1P0h6IYHdrzPUcZfRbcKEOkb6ll6EHrr66WkP8F7DoCPt5w1jnCoeF0qJvaGxl0uJnmdRU8JufhSUbwmdZnd-Gq-9ewHCRbmVrdIc9p9t11xbw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJRmnhaRhgWQ_BR6z58LRxMS0e9kfQetOoZ0H95j8Nap6soOz9J3ph4NDF3QUac9b6KsfBgGSfpvSrv591Wa-Om0E9M_bnGQljsxpCrph8nDlaEDgn32XdUforEe-HTqHLJZlc7oGIRISf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0794",
   "raw_cells": {
     "col_0": {
-      "text": "289"
+      "text": "285"
     },
     "col_1": {
-      "text": "Reppe Jacket"
+      "text": "Moncler SweatshirtMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzycPmvpwxiwpv52QJuxyZzSt5h28Sm1P0h6IYHdrzPUcZfRbcKEOkb6ll6EHrr66WkP8F7DoCPt5w1jnCoeF0qJvaGxl0uJnmdRU8JufhSUbwmdZnd-Gq-9ewHCRbmVrdIc9p9t11xbw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJRmnhaRhgWQ_BR6z58LRxMS0e9kfQetOoZ0H95j8Nap6soOz9J3ph4NDF3QUac9b6KsfBgGSfpvSrv591Wa-Om0E9M_bnGQljsxpCrph8nDlaEDgn32XdUforEe-HTqHLJZlc7oGIRISf=w143-h110"
     },
-    "col_3": {
-      "text": "RepsKing",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7474648215?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/910528851266?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "43$"
+    "col_6": {
+      "text": "11$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/161893635?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1992781279865688066?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0794"
+  }
 }

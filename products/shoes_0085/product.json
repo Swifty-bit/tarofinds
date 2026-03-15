@@ -1,33 +1,41 @@
 {
-  "name": "Vintage Green",
+  "name": "Light Bone White",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "VT",
+  "budget_batch_links": [
+    {
+      "label": "VT",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "44$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "22$",
+  "pics_text": "22$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYsJ_GSRT9fycmAE-0i8VLwQSnhn11wFvULCeLZHBpTnHe3wZK24Z_KZQ2Gq5so6772A-0mHkI9ybIHTLSjMpHgLO6u-1D45A-frYjD-Yc7WNR_E6IA4oLXLu-6L90iYO9h9SjDnRdxuq5=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzSaX92RbGxaKBwX7QkGDRhNaA7sV8aWYaOl5jZA0pSSy30MqmiNkiJdNoSVlcabjlyQSzxKckPDyfds8ZEBrG1ik37XH7mqmIQBPWdmKjdnRpjiCOyPvhOg5vBdOCAyQ6AIquzDI8WgQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0085",
   "raw_cells": {
     "col_0": {
       "text": "94"
     },
     "col_1": {
-      "text": "Vintage Green"
+      "text": "Light Bone White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYsJ_GSRT9fycmAE-0i8VLwQSnhn11wFvULCeLZHBpTnHe3wZK24Z_KZQ2Gq5so6772A-0mHkI9ybIHTLSjMpHgLO6u-1D45A-frYjD-Yc7WNR_E6IA4oLXLu-6L90iYO9h9SjDnRdxuq5=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzSaX92RbGxaKBwX7QkGDRhNaA7sV8aWYaOl5jZA0pSSy30MqmiNkiJdNoSVlcabjlyQSzxKckPDyfds8ZEBrG1ik37XH7mqmIQBPWdmKjdnRpjiCOyPvhOg5vBdOCAyQ6AIquzDI8WgQ=w143-h110"
     },
     "col_3": {
       "text": "M",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "VT",
+      "links": [
+        {
+          "label": "VT",
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "44$"
+    },
+    "col_6": {
+      "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0085"
+  }
 }

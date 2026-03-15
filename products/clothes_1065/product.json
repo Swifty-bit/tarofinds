@@ -1,61 +1,61 @@
 {
-  "name": "Hellstar Uniform Hoodie",
+  "name": "HellstarLong SleeveQR Christ T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F820412320421%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/820412320421?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/805640522489?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/805640522489?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "58$",
+  "best_price": "15$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/170619830?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/166136793?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyU2rU63qVbUChbLpUsBANkTbWXzW31NigX-a4TQiHjdEf-FM9iuwdJIQHXjtoj3CKx47wyFODqgcy7BBI_1MscGtdGEGipI-CoWW2413kefmSsyRdXdh4Y5YOiFd-ajKWFRYh-xy8V8gsq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5ugHWHi2WU_W8O7_Py28FR3RMnIsQk1LN3KkmDq8Qv-EeFgZNskwqxaVtQIa1nVzJV-BhIA4bRVZRHv_SP6yEVxhiDvnSQ3DhU0fuLwhvoInwdGMbPAPAwSGsIJSex0SqKLzR-QK-ww=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1065",
   "raw_cells": {
     "col_0": {
-      "text": "614"
+      "text": "610"
     },
     "col_1": {
-      "text": "Hellstar Uniform Hoodie"
+      "text": "HellstarLong SleeveQR Christ T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyU2rU63qVbUChbLpUsBANkTbWXzW31NigX-a4TQiHjdEf-FM9iuwdJIQHXjtoj3CKx47wyFODqgcy7BBI_1MscGtdGEGipI-CoWW2413kefmSsyRdXdh4Y5YOiFd-ajKWFRYh-xy8V8gsq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5ugHWHi2WU_W8O7_Py28FR3RMnIsQk1LN3KkmDq8Qv-EeFgZNskwqxaVtQIa1nVzJV-BhIA4bRVZRHv_SP6yEVxhiDvnSQ3DhU0fuLwhvoInwdGMbPAPAwSGsIJSex0SqKLzR-QK-ww=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/820412320421?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/805640522489?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "58$"
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/170619830?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/166136793?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1065"
+  }
 }

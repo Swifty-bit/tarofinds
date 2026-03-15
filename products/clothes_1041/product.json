@@ -1,13 +1,13 @@
 {
-  "name": "CDG PlayBig Black HeartZip Up Sweatshirt",
+  "name": "CDG PlayZip Up Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F975516309970%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/975516309970?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/975522325315?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/975522325315?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repbros.x.yupoo.com/albums/206698529?uid=1&isSubCate=false&referrercate=4980597"
+      "url": "https://repbros.x.yupoo.com/albums/206698404?uid=1&isSubCate=false&referrercate=4980597"
     }
   ],
-  "notes": "100% Polyester",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyP3nSBw0IBoTAz1GqE6qRhqddSQS-trxrOboOPIz-qooHElUUfflVr8J85D0aUpUAjewXIHveciqANtbmcpmzQn6GxkeRsvVpbvhpDs9xAD7TNzcG3ptgoFp6S7D-d2_kdVpJ4CV5rRQ=w143-h110",
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay5pjviMOIpDIUCM5AvWrbOJtepJQ32OzsRjM3P5jNIVp51PAww7Dw9b1ABAmuNAk-Mt7Kg3OwdS8NwTl3hwo97o5fGLpBWnzUPqe--QAMDXxQMPQ4hQgTGd6PZlP8JmAWdqrlGL4TjfXhB=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1041",
   "raw_cells": {
     "col_0": {
-      "text": "586"
+      "text": "582"
     },
     "col_1": {
-      "text": "CDG PlayBig Black HeartZip Up Sweatshirt"
+      "text": "CDG PlayZip Up Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyP3nSBw0IBoTAz1GqE6qRhqddSQS-trxrOboOPIz-qooHElUUfflVr8J85D0aUpUAjewXIHveciqANtbmcpmzQn6GxkeRsvVpbvhpDs9xAD7TNzcG3ptgoFp6S7D-d2_kdVpJ4CV5rRQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay5pjviMOIpDIUCM5AvWrbOJtepJQ32OzsRjM3P5jNIVp51PAww7Dw9b1ABAmuNAk-Mt7Kg3OwdS8NwTl3hwo97o5fGLpBWnzUPqe--QAMDXxQMPQ4hQgTGd6PZlP8JmAWdqrlGL4TjfXhB=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/975516309970?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/975522325315?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,14 +53,12 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://repbros.x.yupoo.com/albums/206698529?uid=1&isSubCate=false&referrercate=4980597"
+          "url": "https://repbros.x.yupoo.com/albums/206698404?uid=1&isSubCate=false&referrercate=4980597"
         }
       ]
     },
     "col_8": {
-      "text": "100% Polyester"
+      "text": "100% Cotton"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1041"
+  }
 }

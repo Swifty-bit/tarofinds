@@ -1,87 +1,65 @@
 {
-  "name": "MertraHeat Reactive Puffer Jacket",
+  "name": "MertraJacket GrayWater Reactive",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
+  "best_batch": "pengreps",
   "best_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7575194879%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7575194879?inviteCode=29TOTHGNH"
+      "label": "pengreps",
+      "url": "https://litbuy.com/product/weidian/7528768542?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7528768542?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "77$",
-  "budget_price": "48$",
-  "pics_text": "elephant/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "elephant",
-      "url": "https://elephant-factory.x.yupoo.com/albums/213654129?uid=1&isSubCate=false&referrercate=5000643"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://pengreps.x.yupoo.com/albums/211641526?uid=1&isSubCate=false&referrercate=5074803"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayci-BXyhZ1dgFyt2-rAeaATRnwkdEr9UmksUjN9xMNtGFE-XomKb8MyjUCOCdA11U-Pgx1_tMcOwglFqFpu3MmWbqHP2GRgNIIGpdR8PSk2guDkCGxkU-4ZdKhADA_pn7A53mA2_lHcQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AycrVR8OMAaTiH9oLpotnQ-l0pzEhi55JU88vym-5k_SqPSkJteQzbaIwLWKlqnRF69swZJHvg-h2NbG9NA1NSo8BtYte0olcgDA6Fn_fUDzL5uSC9RTTufxXiODwWVmvbYXOcTUqsvALhb=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1096",
   "raw_cells": {
     "col_0": {
-      "text": "647"
+      "text": "643"
     },
     "col_1": {
-      "text": "MertraHeat Reactive Puffer Jacket"
+      "text": "MertraJacket GrayWater Reactive"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayci-BXyhZ1dgFyt2-rAeaATRnwkdEr9UmksUjN9xMNtGFE-XomKb8MyjUCOCdA11U-Pgx1_tMcOwglFqFpu3MmWbqHP2GRgNIIGpdR8PSk2guDkCGxkU-4ZdKhADA_pn7A53mA2_lHcQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AycrVR8OMAaTiH9oLpotnQ-l0pzEhi55JU88vym-5k_SqPSkJteQzbaIwLWKlqnRF69swZJHvg-h2NbG9NA1NSo8BtYte0olcgDA6Fn_fUDzL5uSC9RTTufxXiODwWVmvbYXOcTUqsvALhb=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
+      "text": "pengreps",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7575194879?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7528768542?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "77$"
-    },
-    "col_6": {
-      "text": "48$"
+      "text": "36$"
     },
     "col_7": {
-      "text": "elephant/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://elephant-factory.x.yupoo.com/albums/213654129?uid=1&isSubCate=false&referrercate=5000643"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1979737239329529857?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://pengreps.x.yupoo.com/albums/211641526?uid=1&isSubCate=false&referrercate=5074803"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxMpMO7MzbWn2KpmtZTi5IKIbdsncKA_8lYRoTf_chtZBclb221qjDevjfidwrxqwx1m8p9Mz_iEjA9Xkk0KguLzX3bW1VRRuqMeXaPQD_n8lx0N_LPED4u-cFNk9j_dqcKsBhp8gDkVY5v=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1096"
+  }
 }

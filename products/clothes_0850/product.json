@@ -1,61 +1,61 @@
 {
-  "name": "ALD x PorscheT-Shirt2 Colors",
+  "name": "Chanel Beanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7496040221%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7496040221?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/864759881020?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/864759881020?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "12$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://dragonrep333.x.yupoo.com/albums/194531570?uid=1&isSubCate=false&referrercate=4855951"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1990246427622723585?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNeC0rkoHEcLLOOmyydv2_yxIZUVs2sa3pbL-S7GG58u2gSvqMXIyskyEXOA5l--5nWayHR0rVT06RkzySeZv1-9IudowAKYu0XbDFp_XvObQtmhkgkdHvbDXqk4JsmqEomnrYsjLG6hqz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyczKgczIsjMBuKjYC1hIWMK85r_VGErevsIkNm1MZBNvM1HjqCcZJ8C3GwWjCJs_e4hv7UQ0PWBgOYycGRBN_3uobyI5IA-0jUadTs1KqhhYIpdhS1nUSpfwxzU5qpZixTFaI9XXQnCXs5=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0850",
   "raw_cells": {
     "col_0": {
-      "text": "357"
+      "text": "349"
     },
     "col_1": {
-      "text": "ALD x PorscheT-Shirt2 Colors"
+      "text": "Chanel Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNeC0rkoHEcLLOOmyydv2_yxIZUVs2sa3pbL-S7GG58u2gSvqMXIyskyEXOA5l--5nWayHR0rVT06RkzySeZv1-9IudowAKYu0XbDFp_XvObQtmhkgkdHvbDXqk4JsmqEomnrYsjLG6hqz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyczKgczIsjMBuKjYC1hIWMK85r_VGErevsIkNm1MZBNvM1HjqCcZJ8C3GwWjCJs_e4hv7UQ0PWBgOYycGRBN_3uobyI5IA-0jUadTs1KqhhYIpdhS1nUSpfwxzU5qpZixTFaI9XXQnCXs5=w143-h110"
     },
-    "col_3": {
-      "text": "DRAGONREP",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7496040221?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/864759881020?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "12$"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://dragonrep333.x.yupoo.com/albums/194531570?uid=1&isSubCate=false&referrercate=4855951"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1990246427622723585?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0850"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "Dior Chrono",
+  "name": "Dior B31",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "GD",
-  "budget_batch_links": [
+  "best_batch": "Alison",
+  "best_batch_links": [
     {
-      "label": "GD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7459551063%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7459551063?inviteCode=29TOTHGNH"
+      "label": "Alison",
+      "url": "https://litbuy.com/product/weidian/746862597840?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/746862597840?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "61$",
-  "pics_text": "61$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "80$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axku7vdOME85Z6y5y0gDPNpl4C4Wz_yokyxLE7qDhgV0ErbJIYHFIc-RB_ws_gfu3QiqXa-Nbld7eiY6ZL3cjQ9Sfkljf5gJBHVCg1oRZ6hck1nZnop_R_Ue6lbmQeQn_YBL51Q8SM9Z74J=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwNRjsUEb_9bhXzcUkXgSSlkJ2xKEswPYLLxTLazwWkoNzClqgC4NSDZC2cqZfMv0cfGfWhDQFkubaeuNaO1n_mU72M4-OdznltxpH4qrHjibzxFD3SD9UvR2K8Nj2YGccvxsQtFDqfHw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0419",
   "raw_cells": {
     "col_0": {
       "text": "476"
     },
     "col_1": {
-      "text": "Dior Chrono"
+      "text": "Dior B31"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axku7vdOME85Z6y5y0gDPNpl4C4Wz_yokyxLE7qDhgV0ErbJIYHFIc-RB_ws_gfu3QiqXa-Nbld7eiY6ZL3cjQ9Sfkljf5gJBHVCg1oRZ6hck1nZnop_R_Ue6lbmQeQn_YBL51Q8SM9Z74J=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwNRjsUEb_9bhXzcUkXgSSlkJ2xKEswPYLLxTLazwWkoNzClqgC4NSDZC2cqZfMv0cfGfWhDQFkubaeuNaO1n_mU72M4-OdznltxpH4qrHjibzxFD3SD9UvR2K8Nj2YGccvxsQtFDqfHw=w143-h110"
     },
-    "col_4": {
-      "text": "GD",
+    "col_3": {
+      "text": "Alison",
       "links": [
         {
-          "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7459551063?inviteCode=29TOTHGNH"
+          "label": "Alison",
+          "url": "https://www.oopbuy.com/product/1/746862597840?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "61$"
+    "col_5": {
+      "text": "80$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0419"
+  }
 }

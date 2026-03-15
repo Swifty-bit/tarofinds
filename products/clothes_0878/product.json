@@ -1,65 +1,61 @@
 {
-  "name": "\"lotus v2\" longsleeve KnitSweater",
+  "name": "New EraBeanie9 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "firerep//////////",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7535031631%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7535031631?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/754051118067?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/754051118067?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "46$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "2$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotders.x.yupoo.com/albums/207397055?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1965498710698815489?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxNVrKJulTruoWAfQy50w-be3Tvxk10hFgaUtcdIZWT8OGd_5q7QBayJf9W-qvOSPqx-63zONYTxLnEniQfDPZDalasCPOp5iyFTJ5Sf6QdYYkxnERHQfOi75LX7mqreY3WYk-5dKoy8DCv=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw7yoiJVoIaJ9mtiSN1n6xdHg9vx0UpDktxVOYc07K1vruhOkXM2FaoZ-TjN3UAyiZW5htQNQzg7WP5RQ2SLhUw3wpfrd5ZDWmvH3B-dpLqHyn1fBMF8sLxu9jsAhqMJtC8JCqVyenpKByi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0878",
   "raw_cells": {
     "col_0": {
-      "text": "395"
+      "text": "389"
     },
     "col_1": {
-      "text": "\"lotus v2\" longsleeve KnitSweater"
+      "text": "New EraBeanie9 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxNVrKJulTruoWAfQy50w-be3Tvxk10hFgaUtcdIZWT8OGd_5q7QBayJf9W-qvOSPqx-63zONYTxLnEniQfDPZDalasCPOp5iyFTJ5Sf6QdYYkxnERHQfOi75LX7mqreY3WYk-5dKoy8DCv=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw7yoiJVoIaJ9mtiSN1n6xdHg9vx0UpDktxVOYc07K1vruhOkXM2FaoZ-TjN3UAyiZW5htQNQzg7WP5RQ2SLhUw3wpfrd5ZDWmvH3B-dpLqHyn1fBMF8sLxu9jsAhqMJtC8JCqVyenpKByi=w143-h110"
     },
-    "col_3": {
-      "text": "firerep//////////",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://oopbuy.com/product/weidian/7535031631?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/754051118067?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "46$"
+    "col_6": {
+      "text": "2$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotders.x.yupoo.com/albums/207397055?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1965498710698815489?action=discord&type=1&cid=1942512167859859457"
         }
       ]
-    },
-    "col_8": {
-      "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxAWKtTeCUIJpSOnQI1WGDCsMaeq1zfOxjs6j_4grGqi2i8UP673JAoO9BjjVOpjyTwFh2-PQaJnIUk0qD44xQDvtQlKV1lYZLik_3atHoEkkPOmsSWZXqEsc4x1n6XfE192d6JXVORY-mz=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0878"
+  }
 }

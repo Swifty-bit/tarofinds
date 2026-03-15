@@ -1,78 +1,104 @@
 {
-  "name": "Diesel",
+  "name": "Louis Vuitton",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget/budget",
-  "budget_batch_links": [
+  "best_batch": "K8",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F691288783273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/691288783273?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F684515169000%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/684515169000?inviteCode=29TOTHGNH"
+      "label": "K8",
+      "url": "https://litbuy.com/product/weidian/7562740887?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7562740887?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$ / 1$",
-  "pics_text": "budget/budget",
-  "pics_links": [
+  "budget_batch": "budget1/budget2",
+  "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1969589344131440641?action=discord&type=1&cid=1942512167859859457"
+      "label": "budget1",
+      "url": "https://litbuy.com/product/weidian/7431380126?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7431380126?inviteCode=29TOTHGNH"
     },
     {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1969950945200136194?action=discord&type=1&cid=1942512167859859457"
+      "label": "budget2",
+      "url": "https://litbuy.com/product/weidian/783959210130?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/783959210130?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "35$",
+  "budget_price": "15$ / 1$",
+  "pics_text": "K8/budget1/budget2",
+  "pics_links": [
+    {
+      "label": "K8",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1921733792295337986?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1960145347709329409?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969951417218719745?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyytHfSQMQ_2qNdfMX6RCBbhvBbtLoJ-Y81v5JSuwnDVXGO-6zQt1_IkTpQY36eidAZjYgMsdH3PL2SEvC0QVSHOxH5_VUqWn_J5fw5gpkLgqFM4plLooL4uHF_stKWCRL_enlgodIWVIR=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyXJQvhXdOVDFb_7aojlcNNMM_xAtujozSjgd0YMV17AmwxXCwiavJAISZqnqB84xuk-gc3U8chrh5KqjbJW_hGm56rU-wSJnI9io5Zu2leHobG-JIqM018sCkXe0hJEcR3MnFCHf7zj_k=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1553",
   "raw_cells": {
     "col_0": {
-      "text": "15"
+      "text": "10"
     },
     "col_1": {
-      "text": "Diesel"
+      "text": "Louis Vuitton"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyytHfSQMQ_2qNdfMX6RCBbhvBbtLoJ-Y81v5JSuwnDVXGO-6zQt1_IkTpQY36eidAZjYgMsdH3PL2SEvC0QVSHOxH5_VUqWn_J5fw5gpkLgqFM4plLooL4uHF_stKWCRL_enlgodIWVIR=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyXJQvhXdOVDFb_7aojlcNNMM_xAtujozSjgd0YMV17AmwxXCwiavJAISZqnqB84xuk-gc3U8chrh5KqjbJW_hGm56rU-wSJnI9io5Zu2leHobG-JIqM018sCkXe0hJEcR3MnFCHf7zj_k=w143-h110"
     },
-    "col_4": {
-      "text": "budget/budget",
+    "col_3": {
+      "text": "K8",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/691288783273?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/684515169000?inviteCode=29TOTHGNH"
+          "label": "K8",
+          "url": "https://oopbuy.com/product/weidian/7562740887?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$ / 1$"
-    },
-    "col_7": {
-      "text": "budget/budget",
+    "col_4": {
+      "text": "budget1/budget2",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1969589344131440641?action=discord&type=1&cid=1942512167859859457"
+          "label": "budget1",
+          "url": "https://oopbuy.com/product/weidian/7431380126?inviteCode=29TOTHGNH"
         },
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1969950945200136194?action=discord&type=1&cid=1942512167859859457"
+          "label": "budget2",
+          "url": "https://oopbuy.com/product/0/783959210130?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "35$"
+    },
+    "col_6": {
+      "text": "15$ / 1$"
+    },
+    "col_7": {
+      "text": "K8/budget1/budget2",
+      "links": [
+        {
+          "label": "K8",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1921733792295337986?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1960145347709329409?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969951417218719745?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1553"
+  }
 }

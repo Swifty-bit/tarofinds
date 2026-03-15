@@ -1,39 +1,41 @@
 {
-  "name": "Black Cats(2020)",
+  "name": "Military Blue(2024)",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "NEW R1",
+  "budget_batch": "KX",
   "budget_batch_links": [
     {
-      "label": "NEW R1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328101882%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+      "label": "KX",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "66$",
-  "budget_price": "45$",
-  "pics_text": "45$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awm0q08kurOqWnakFDsS1fEh5bX_GRzI1uw9A7sFB00tl_HgXV2D0QCNArEN4NhOGD0a43m0rtPfOSw4CS3U_q7vbsnrj9QX2qA8ZnkwLqeL-8URarf6v-J_kjLFo7Tadf1IqQQ4fbgBg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay6Rti2yIHVUrDMLmetY1VkRY_DL544bz-3ObSwoCBS0fAALi7Qxh9I7LdG47WC9omzR9tIG6Wfmbp7IzowueJE6vBKCvJT2N3FIfuDOEHRNxaxAi6Q4boVU-7nVAsicrnNHyqxZtOGJxhg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0217",
   "raw_cells": {
     "col_0": {
       "text": "232"
     },
     "col_1": {
-      "text": "Black Cats(2020)"
+      "text": "Military Blue(2024)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awm0q08kurOqWnakFDsS1fEh5bX_GRzI1uw9A7sFB00tl_HgXV2D0QCNArEN4NhOGD0a43m0rtPfOSw4CS3U_q7vbsnrj9QX2qA8ZnkwLqeL-8URarf6v-J_kjLFo7Tadf1IqQQ4fbgBg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay6Rti2yIHVUrDMLmetY1VkRY_DL544bz-3ObSwoCBS0fAALi7Qxh9I7LdG47WC9omzR9tIG6Wfmbp7IzowueJE6vBKCvJT2N3FIfuDOEHRNxaxAi6Q4boVU-7nVAsicrnNHyqxZtOGJxhg=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -45,11 +47,11 @@
       ]
     },
     "col_4": {
-      "text": "NEW R1",
+      "text": "KX",
       "links": [
         {
-          "label": "NEW R1",
-          "url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -57,9 +59,7 @@
       "text": "66$"
     },
     "col_6": {
-      "text": "45$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0217"
+  }
 }

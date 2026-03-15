@@ -1,87 +1,61 @@
 {
-  "name": "Corteiz Timebomb TeeWhite",
+  "name": "F1 JacketsMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT",
-  "best_batch_links": [
-    {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656884072%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656884072?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F817436479234%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/729893742020?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/729893742020?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "12$",
-  "budget_price": "7$",
-  "pics_text": "best/budget",
+  "best_price": "",
+  "budget_price": "16$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/145612356?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1908686596670066690?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxAApJLsAfHUqdOWQ1UudkIKnjLAK9ZQKWb9tELatFccD5yD_QCXIQPMO3fyws-7uwG8ncqazaT2IYhgxFqm2D6_an-3pby6F-3sleaQX1RAIBxEgHzvE27kyUc3rC0908oLdOpNDjstoEQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwLKzMV_-lBeS403muyc5B_3nr6S04nVSDsOjkWn-YPwm3lnVHgsq4wpyIgXcuRBZGNOeezb8dQxTgjN91QVtOgYuUzQiJu-7UB8pPNLROx9JI-L-WMCLpQ8MTQSpFxGuJzMDLeEOtnjA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0663",
   "raw_cells": {
     "col_0": {
-      "text": "144"
+      "text": "138"
     },
     "col_1": {
-      "text": "Corteiz Timebomb TeeWhite"
+      "text": "F1 JacketsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxAApJLsAfHUqdOWQ1UudkIKnjLAK9ZQKWb9tELatFccD5yD_QCXIQPMO3fyws-7uwG8ncqazaT2IYhgxFqm2D6_an-3pby6F-3sleaQX1RAIBxEgHzvE27kyUc3rC0908oLdOpNDjstoEQ=w143-h110"
-    },
-    "col_3": {
-      "text": "GOAT",
-      "links": [
-        {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656884072?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwLKzMV_-lBeS403muyc5B_3nr6S04nVSDsOjkWn-YPwm3lnVHgsq4wpyIgXcuRBZGNOeezb8dQxTgjN91QVtOgYuUzQiJu-7UB8pPNLROx9JI-L-WMCLpQ8MTQSpFxGuJzMDLeEOtnjA=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/729893742020?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "12$"
-    },
     "col_6": {
-      "text": "7$"
+      "text": "16$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/145612356?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1908686596670066690?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0663"
+  }
 }

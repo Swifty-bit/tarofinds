@@ -1,33 +1,50 @@
 {
-  "name": "Metallic Red",
+  "name": "Metallic Purple",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "best_price": "66$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awb01tyryzMfSzU0o7LqbRIFIGWfgDOjqK4x2QfrXgB25TDjBJn6T_zX4GpE7q0oC4XMNMTnWnBwZ5iFF-fFfovhmfy1LodGT3drSDZ22O9x_0orIKOjPDLEQ5cd70ugKIWNoHMGQqImLaU=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzWM1yehFDgDaDBXYK1PP_ZfKicEvKjonykmcRT0epVLapbIUYYTdmz0hv_clcyt0ksw-ne5VdM6W8utBmmpgUVInY9dclUVs0GX3uReaLE7gs-CbrBo0fwKOmczYyTuF-Zv0qszv7DV-VT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0227",
   "raw_cells": {
     "col_0": {
       "text": "242"
     },
     "col_1": {
-      "text": "Metallic Red"
+      "text": "Metallic Purple"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awb01tyryzMfSzU0o7LqbRIFIGWfgDOjqK4x2QfrXgB25TDjBJn6T_zX4GpE7q0oC4XMNMTnWnBwZ5iFF-fFfovhmfy1LodGT3drSDZ22O9x_0orIKOjPDLEQ5cd70ugKIWNoHMGQqImLaU=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzWM1yehFDgDaDBXYK1PP_ZfKicEvKjonykmcRT0epVLapbIUYYTdmz0hv_clcyt0ksw-ne5VdM6W8utBmmpgUVInY9dclUVs0GX3uReaLE7gs-CbrBo0fwKOmczYyTuF-Zv0qszv7DV-VT=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "KX",
@@ -38,10 +55,11 @@
         }
       ]
     },
+    "col_5": {
+      "text": "66$"
+    },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0227"
+  }
 }

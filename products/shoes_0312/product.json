@@ -1,12 +1,12 @@
 {
-  "name": "SoleFly Mi Casa Es Su Casa",
+  "name": "Playoffs (2023)",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "DG",
   "best_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7517028132%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7517028132?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7517028132?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjYokALt5eRiinKMMsBlFdadlRZnlVi-TamcKpwyZx9fcoFOIE3GmxeGFhriw1yzpqqAtMfBNdFHZhHhCI8Zk4qGxESYT7fqT1J278jhoP8OibBejIF6RCEt_LFKKDAh_UNFiM-P5PZgKq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyDnytuymFTD6gjXeR5TcxZvJ2_8-E-r6i-ASQ0JbSluW4XrcyhTIY1q5OW7leAZNVqJ2jw5CDC8kPE5WgdWizz0Y_lPHkXwuMrVUELXeERdX8RU0oVYELhRdiGVUbPlhOwM__dumfJRA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0312",
   "raw_cells": {
     "col_0": {
       "text": "333"
     },
     "col_1": {
-      "text": "SoleFly Mi Casa Es Su Casa"
+      "text": "Playoffs (2023)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjYokALt5eRiinKMMsBlFdadlRZnlVi-TamcKpwyZx9fcoFOIE3GmxeGFhriw1yzpqqAtMfBNdFHZhHhCI8Zk4qGxESYT7fqT1J278jhoP8OibBejIF6RCEt_LFKKDAh_UNFiM-P5PZgKq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyDnytuymFTD6gjXeR5TcxZvJ2_8-E-r6i-ASQ0JbSluW4XrcyhTIY1q5OW7leAZNVqJ2jw5CDC8kPE5WgdWizz0Y_lPHkXwuMrVUELXeERdX8RU0oVYELhRdiGVUbPlhOwM__dumfJRA=w143-h110"
     },
     "col_3": {
       "text": "DG",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "67$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0312"
+  }
 }

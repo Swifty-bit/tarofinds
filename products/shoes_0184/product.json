@@ -1,47 +1,65 @@
 {
-  "name": "AMM(A Ma Maniere)",
+  "name": "UnionLos AngelesStorm Blue",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
+  "best_batch": "TOPY",
   "best_batch_links": [
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6079375814%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6079375814?inviteCode=29TOTHGNH"
+      "label": "TOPY",
+      "url": "https://litbuy.com/product/taobao/4030122428?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4030122428?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "75$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "85$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azf5jp37jZP_xG1kSZKMx44YE46lnh6Mrg8f9yCetwPVKTEMEzOogwWRVSxWPytNWVp0Rziiv9-jShRwDrGYIE3MAS1fo5YFdVBeshuJK_BBNUoCOx3-zcjzf0AVUoB7inSu9U6eUSMeQ=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axk7UWqNOCZG9Q5QAlSBfpHmAp2rwAFEY5IDm8OwfFDrBRxBMOU1H_7euz8bFLfR0VHCsZwwG4W30n0KN8lYN9tlj3-lR_G4_fyYX4XaggwdZfkjctt9XZ2HNowM70nou75CK_IO83Sdg=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0184",
   "raw_cells": {
     "col_0": {
       "text": "195"
     },
     "col_1": {
-      "text": "AMM(A Ma Maniere)"
+      "text": "UnionLos AngelesStorm Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azf5jp37jZP_xG1kSZKMx44YE46lnh6Mrg8f9yCetwPVKTEMEzOogwWRVSxWPytNWVp0Rziiv9-jShRwDrGYIE3MAS1fo5YFdVBeshuJK_BBNUoCOx3-zcjzf0AVUoB7inSu9U6eUSMeQ=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axk7UWqNOCZG9Q5QAlSBfpHmAp2rwAFEY5IDm8OwfFDrBRxBMOU1H_7euz8bFLfR0VHCsZwwG4W30n0KN8lYN9tlj3-lR_G4_fyYX4XaggwdZfkjctt9XZ2HNowM70nou75CK_IO83Sdg=w143-h100"
     },
     "col_3": {
-      "text": "LJR",
+      "text": "TOPY",
       "links": [
         {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/2/6079375814?inviteCode=29TOTHGNH"
+          "label": "TOPY",
+          "url": "https://oopbuy.com/product/2/4030122428?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "75$"
+      "text": "85$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0184"
+  }
 }

@@ -1,61 +1,64 @@
 {
-  "name": "Nike STRIKE SNOOD",
+  "name": "Nike TNTracksuitBaby Blue",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F654018261946%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/654018261946?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7531310193?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7531310193?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "87$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1879264927997833218?action=discord&cid=-1"
+      "label": "pics",
+      "url": "https://noghost.x.yupoo.com/albums/158633267?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7Hg9lsiTuvYTEY821cEMdXXpYdIQAwm-9wVxgHSHZXedXwrCeYZ3Igvd6HgnbrKo0j3sqEp9vH1rFWPdABYMHH_0ZEB24yVOGZ-_ye70xHFdRIU9HLraPR_G5S5tex15UOfeCEb0Etw=w143-h110",
+  "notes": "set 87$ - top 45$ - pants 42$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxosXeJt1X3XCtrn2glsTbEDmR6qvSW1IldBosKal6OK66xO7ASXzarmopIWEbbwgmZilSwR73HQjCbDp_Vc1PhxzQXpbNR0Wtlb6Xz4Egm-7zPBRv5aa45p5uvD5xVOpbqSUkS5zXHfzRf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0571",
   "raw_cells": {
     "col_0": {
-      "text": "36"
+      "text": "32"
     },
     "col_1": {
-      "text": "Nike STRIKE SNOOD"
+      "text": "Nike TNTracksuitBaby Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7Hg9lsiTuvYTEY821cEMdXXpYdIQAwm-9wVxgHSHZXedXwrCeYZ3Igvd6HgnbrKo0j3sqEp9vH1rFWPdABYMHH_0ZEB24yVOGZ-_ye70xHFdRIU9HLraPR_G5S5tex15UOfeCEb0Etw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxosXeJt1X3XCtrn2glsTbEDmR6qvSW1IldBosKal6OK66xO7ASXzarmopIWEbbwgmZilSwR73HQjCbDp_Vc1PhxzQXpbNR0Wtlb6Xz4Egm-7zPBRv5aa45p5uvD5xVOpbqSUkS5zXHfzRf=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/654018261946?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7531310193?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "3$"
+    "col_5": {
+      "text": "87$(SET)"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1879264927997833218?action=discord&cid=-1"
+          "label": "pics",
+          "url": "https://noghost.x.yupoo.com/albums/158633267?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 87$ - top 45$ - pants 42$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0571"
+  }
 }

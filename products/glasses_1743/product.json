@@ -1,0 +1,61 @@
+{
+  "name": "Louis Vuitton",
+  "category": "Glasses",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/800555531871?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/800555531871?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "18$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1939126998053023745?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0WkdtVyI4qyBpavNsAVKFU1D9dXE-OAJf3s-fiegZ7vijQVZEE3oHDgsTbYAflu822Sa9dO0gWXuWSCQaY7meoLv0yGjxfuCp_kPj1qReeYyA-u19OgkAgxLit2nO9voAJE3r0ihrmRZx=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "glasses_1743",
+  "raw_cells": {
+    "col_0": {
+      "text": "12"
+    },
+    "col_1": {
+      "text": "Louis Vuitton"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0WkdtVyI4qyBpavNsAVKFU1D9dXE-OAJf3s-fiegZ7vijQVZEE3oHDgsTbYAflu822Sa9dO0gWXuWSCQaY7meoLv0yGjxfuCp_kPj1qReeYyA-u19OgkAgxLit2nO9voAJE3r0ihrmRZx=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/800555531871?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "18$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1939126998053023745?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

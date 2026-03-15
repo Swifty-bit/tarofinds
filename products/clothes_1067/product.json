@@ -1,61 +1,61 @@
 {
-  "name": "Hellstar Racer Sweatpants Vintage Black",
+  "name": "Hellstar No Guts No Glory Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "PikaPikaGo",
   "best_batch_links": [
     {
       "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805640386823%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/805640386823?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/823298978366?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/823298978366?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "46$",
+  "best_price": "59$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pikachushop.x.yupoo.com/albums/150378057?uid=1"
+      "url": "https://pikachushop.x.yupoo.com/albums/171865743?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzwB5tjzGEDpG8IdDbQVZxRv4v5szVhaOQraiI4O5C3erzARLJ-TbdA_XXgur1Uy_kJsOTU2HSlgJ_Y3qBehNbLzAlXr1CeeXJfGeeTzqxCDYbX4s5PDHYVm9WEtkUGK0ciSfZufQFTHK8o=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzBqX3WyXq41sf1aQVRnusashDXIJ3B-W9N1XFBDonaOXvDw_z4jsLu9ivMzfEPBv-MGDHgP8kW50oA5ZOa4zFITScxAMUMqtxnKQrkRmi6Lk-0d3VfGhZOQXJ4Uvtj85Ba_LSmchqjuA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1067",
   "raw_cells": {
     "col_0": {
-      "text": "616"
+      "text": "612"
     },
     "col_1": {
-      "text": "Hellstar Racer Sweatpants Vintage Black"
+      "text": "Hellstar No Guts No Glory Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzwB5tjzGEDpG8IdDbQVZxRv4v5szVhaOQraiI4O5C3erzARLJ-TbdA_XXgur1Uy_kJsOTU2HSlgJ_Y3qBehNbLzAlXr1CeeXJfGeeTzqxCDYbX4s5PDHYVm9WEtkUGK0ciSfZufQFTHK8o=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzBqX3WyXq41sf1aQVRnusashDXIJ3B-W9N1XFBDonaOXvDw_z4jsLu9ivMzfEPBv-MGDHgP8kW50oA5ZOa4zFITScxAMUMqtxnKQrkRmi6Lk-0d3VfGhZOQXJ4Uvtj85Ba_LSmchqjuA=w143-h110"
     },
     "col_3": {
       "text": "PikaPikaGo",
       "links": [
         {
           "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/805640386823?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/823298978366?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "59$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://pikachushop.x.yupoo.com/albums/150378057?uid=1"
+          "url": "https://pikachushop.x.yupoo.com/albums/171865743?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1067"
+  }
 }

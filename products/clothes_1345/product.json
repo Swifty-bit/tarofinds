@@ -6,56 +6,59 @@
   "best_batch_links": [
     {
       "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7504550961%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7504550961?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7505571487?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7505571487?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "28$",
+  "best_price": "27$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://tophotfashion.x.yupoo.com/albums/170538879?uid=1&isSubCate=false&referrercate=4644883"
+      "url": "https://tophotfashion.x.yupoo.com/albums/186884431?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZf6gCnJzzH1X1-XkIexBBVxJikgVVx118iQUWfcqWlVktMQCFREPgAlMII7kZTqaPAGqgtX4VH2ULUDjTIuGLxi457HKT-nrgVKLh7PXNlXvyxQFphQWZT1U18vSrMZcX7fYt1jE0BA=w143-h110",
+  "notes": "tophotfashion (ex Cloyad)",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPVOy-mvtyROry-wtV2DvjofQahjvEG_Vfl2qkZMxlk7u91H-gGKTEjte7Xw8ZBZOsNThSFhRe8p6mJyKLJiy84vNAccGyNw7HPdvyXWBaUJdbfjSVHDgj78SEmKjDN5ByoGwomTmAa_JM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1345",
   "raw_cells": {
     "col_0": {
-      "text": "944"
+      "text": "940"
     },
     "col_1": {
       "text": "Chrome Hearts Tee"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZf6gCnJzzH1X1-XkIexBBVxJikgVVx118iQUWfcqWlVktMQCFREPgAlMII7kZTqaPAGqgtX4VH2ULUDjTIuGLxi457HKT-nrgVKLh7PXNlXvyxQFphQWZT1U18vSrMZcX7fYt1jE0BA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPVOy-mvtyROry-wtV2DvjofQahjvEG_Vfl2qkZMxlk7u91H-gGKTEjte7Xw8ZBZOsNThSFhRe8p6mJyKLJiy84vNAccGyNw7HPdvyXWBaUJdbfjSVHDgj78SEmKjDN5ByoGwomTmAa_JM=w143-h110"
     },
     "col_3": {
       "text": "tophotfashion",
       "links": [
         {
           "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/weidian/7504550961?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7505571487?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
+      "text": "27$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://tophotfashion.x.yupoo.com/albums/170538879?uid=1&isSubCate=false&referrercate=4644883"
+          "url": "https://tophotfashion.x.yupoo.com/albums/186884431?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "tophotfashion (ex Cloyad)"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1345"
+  }
 }

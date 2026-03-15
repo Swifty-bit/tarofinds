@@ -1,87 +1,64 @@
 {
-  "name": "HellstarOnlineT-Shirt White",
+  "name": "CDG PlayCardigan",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PikaPikaGo",
+  "best_batch": "repsbrothers",
   "best_batch_links": [
     {
-      "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F814497144800%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/814497144800?inviteCode=29TOTHGNH"
+      "label": "repsbrothers",
+      "url": "https://litbuy.com/product/weidian/976281760913?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/976281760913?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "32$",
-  "budget_price": "6$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "57$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://pikachushop.x.yupoo.com/albums/168830395?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206698417?uid=1&isSubCate=false&referrercate=4980597"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwIEC0OIo4qXVv1XdhzLq-FKJT8K3UivRAi_juwlb8n7Khl1m4jhbAdWG3rCR-ivZIZoikpkT-dT3q1tJjyoQVOPsBHqaCafhqftdgyAcFD6PtL-a5kKySffJAu1vl5toV-RnuE2o2pjLyZ=w143-h110",
+  "notes": "100% Wool",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az9kqMe-8ONsQP6Gyed2MQ-rrNygohBBCNtaeXi2Qvz4jrffYgznvvIoTH0Lu8C7f7PV7f65dOuv2ckSddSW3z_kpLiKttiMphquegw9iDmUYE2xEs6uh39hL8QbiSvMhvP4dUpP43v8TwC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1048",
   "raw_cells": {
     "col_0": {
-      "text": "597"
+      "text": "589"
     },
     "col_1": {
-      "text": "HellstarOnlineT-Shirt White"
+      "text": "CDG PlayCardigan"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwIEC0OIo4qXVv1XdhzLq-FKJT8K3UivRAi_juwlb8n7Khl1m4jhbAdWG3rCR-ivZIZoikpkT-dT3q1tJjyoQVOPsBHqaCafhqftdgyAcFD6PtL-a5kKySffJAu1vl5toV-RnuE2o2pjLyZ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az9kqMe-8ONsQP6Gyed2MQ-rrNygohBBCNtaeXi2Qvz4jrffYgznvvIoTH0Lu8C7f7PV7f65dOuv2ckSddSW3z_kpLiKttiMphquegw9iDmUYE2xEs6uh39hL8QbiSvMhvP4dUpP43v8TwC=w143-h110"
     },
     "col_3": {
-      "text": "PikaPikaGo",
+      "text": "repsbrothers",
       "links": [
         {
-          "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/814497144800?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/976281760913?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
-    },
-    "col_6": {
-      "text": "6$"
+      "text": "57$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://pikachushop.x.yupoo.com/albums/168830395?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206698417?uid=1&isSubCate=false&referrercate=4980597"
         }
       ]
+    },
+    "col_8": {
+      "text": "100% Wool"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1048"
+  }
 }

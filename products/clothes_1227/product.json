@@ -1,47 +1,61 @@
 {
-  "name": "True ReligionDenim Jeans Jacket2 Colors",
+  "name": "DSQ2 Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TR",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "TR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F862527874499%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/862527874499?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/668392485330?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/668392485330?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "42$",
+  "best_price": "40$",
   "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/668392485330"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZtoQ2P-Icd209wZIxrYTdc6VFUHYF0GUTCNBE7JhvSe1vG-solBwpz0cKWZyns4pvE8LRwRwpLLtUml7joC_NIuTTk6t1OgAYZ5V6A_7JcXLRbp9OfF_xLDrlU4_Fv2RBRwRhY3yiNjxE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4kIqSwVrXmhbng17WIocKDDNiXp5bEnMiMpMntiPkd1MarmrCMDmb8JWsRRFKBI_Mt4rayzmTOz4v5VkBKnLibc82rCDYuJg9uYcakczS-S5pSBSBQfn1yp4xrSaerCnYFa4PGpI2Orzm=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1227",
   "raw_cells": {
     "col_0": {
-      "text": "804"
+      "text": "798"
     },
     "col_1": {
-      "text": "True ReligionDenim Jeans Jacket2 Colors"
+      "text": "DSQ2 Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZtoQ2P-Icd209wZIxrYTdc6VFUHYF0GUTCNBE7JhvSe1vG-solBwpz0cKWZyns4pvE8LRwRwpLLtUml7joC_NIuTTk6t1OgAYZ5V6A_7JcXLRbp9OfF_xLDrlU4_Fv2RBRwRhY3yiNjxE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4kIqSwVrXmhbng17WIocKDDNiXp5bEnMiMpMntiPkd1MarmrCMDmb8JWsRRFKBI_Mt4rayzmTOz4v5VkBKnLibc82rCDYuJg9uYcakczS-S5pSBSBQfn1yp4xrSaerCnYFa4PGpI2Orzm=w143-h110"
     },
     "col_3": {
-      "text": "TR",
+      "text": "here",
       "links": [
         {
-          "label": "TR",
-          "url": "https://www.oopbuy.com/product/1/862527874499?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://www.oopbuy.com/product/1/668392485330?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "42$"
+      "text": "40$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/668392485330"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1227"
+  }
 }

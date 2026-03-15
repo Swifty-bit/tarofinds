@@ -1,61 +1,61 @@
 {
-  "name": "StussyRegal Crown T-Shirt",
+  "name": "Nike x StussySweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Chaosmade",
+  "best_batch": "NEWDP",
   "best_batch_links": [
     {
-      "label": "Chaosmade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7248371252%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7248371252?inviteCode=29TOTHGNH"
+      "label": "NEWDP",
+      "url": "https://litbuy.com/product/weidian/7597050652?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7597050652?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "15$",
+  "best_price": "23$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://chaosmade.x.yupoo.com/albums/168609018?uid=1&isSubCate=false&referrercate=3536981"
+      "url": "https://newdp.x.yupoo.com/albums/177083415?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw4CNDXXhF06VadbtJuWXuk-VlDe1Y2WcOFDwZFpWlJmheLrIoLX6Cv0G2JUVRjtaKILy6phY4jnauTC4IgJ4LaG8ypNQsiGZRg_cbUxRCNM-uVXNQyA5u_D-9Ndo35kMeF6BS8g1BGSDw4=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxipooGN0FlIgnqNHov6KGE2EDJEBMihivRfOhCxqNL9YlXMzKEQ8Oh7xAyGUWg6wHjXKhQgO7szjqXYrEYq0IvxN4ujnszXRBNdtyYpfaHL5SR42TAhLVy2_fe6_mCn9kaC_fiEPI_3Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0585",
   "raw_cells": {
     "col_0": {
-      "text": "54"
+      "text": "48"
     },
     "col_1": {
-      "text": "StussyRegal Crown T-Shirt"
+      "text": "Nike x StussySweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw4CNDXXhF06VadbtJuWXuk-VlDe1Y2WcOFDwZFpWlJmheLrIoLX6Cv0G2JUVRjtaKILy6phY4jnauTC4IgJ4LaG8ypNQsiGZRg_cbUxRCNM-uVXNQyA5u_D-9Ndo35kMeF6BS8g1BGSDw4=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxipooGN0FlIgnqNHov6KGE2EDJEBMihivRfOhCxqNL9YlXMzKEQ8Oh7xAyGUWg6wHjXKhQgO7szjqXYrEYq0IvxN4ujnszXRBNdtyYpfaHL5SR42TAhLVy2_fe6_mCn9kaC_fiEPI_3Q=w143-h110"
     },
     "col_3": {
-      "text": "Chaosmade",
+      "text": "NEWDP",
       "links": [
         {
-          "label": "Chaosmade",
-          "url": "https://oopbuy.com/product/2/7248371252?inviteCode=29TOTHGNH"
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7597050652?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "23$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://chaosmade.x.yupoo.com/albums/168609018?uid=1&isSubCate=false&referrercate=3536981"
+          "url": "https://newdp.x.yupoo.com/albums/177083415?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0585"
+  }
 }

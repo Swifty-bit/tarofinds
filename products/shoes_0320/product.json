@@ -1,12 +1,12 @@
 {
-  "name": "Jubilee 25th Anniversary",
+  "name": "Gamma Blue",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240644396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240644396?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZ_X3wvQmHq9diNbhSwfnBrpXT6vSBYY3FbRG-MrJnfgujHpaA8Hrg8khNDD7yXP4tI90UWLVMwhH_5wj4gWmXhS8Wb_LKtMXw1Uoen6sq2cpP3RvvqkHDRHtKVR8WPbSeopfhEFEfAnJN=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzI6ICu7HDjsPyF2TkEmRwvkNH0i9nW0bVItHWhjy7LMVH4bEmM_J-Ka9ZsmIzowi7H1RLtyJ83vUtwyy4z8H5f7cQW1LJ36nKQznwEvT8rIGzPN3cW4EXgO9Qb5mY35omr1lrZFUUTovJE=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0320",
   "raw_cells": {
     "col_0": {
       "text": "343"
     },
     "col_1": {
-      "text": "Jubilee 25th Anniversary"
+      "text": "Gamma Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZ_X3wvQmHq9diNbhSwfnBrpXT6vSBYY3FbRG-MrJnfgujHpaA8Hrg8khNDD7yXP4tI90UWLVMwhH_5wj4gWmXhS8Wb_LKtMXw1Uoen6sq2cpP3RvvqkHDRHtKVR8WPbSeopfhEFEfAnJN=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzI6ICu7HDjsPyF2TkEmRwvkNH0i9nW0bVItHWhjy7LMVH4bEmM_J-Ka9ZsmIzowi7H1RLtyJ83vUtwyy4z8H5f7cQW1LJ36nKQznwEvT8rIGzPN3cW4EXgO9Qb5mY35omr1lrZFUUTovJE=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "70$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0320"
+  }
 }

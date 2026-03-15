@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosChecked Wool Fringe Scarf",
+  "name": "Acne StudiosCamouflage Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Topacney",
+  "best_batch": "i795",
   "best_batch_links": [
     {
-      "label": "Topacney",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F982932127042%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/982932127042?inviteCode=29TOTHGNH"
+      "label": "i795",
+      "url": "https://litbuy.com/product/weidian/799544942560?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/799544942560?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "35$",
+  "best_price": "47$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://topacney.x.yupoo.com/albums/143048589?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1946374618246385666?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax-Zg191ysWlV09OMp1wWDG3qa5AONZmtYYWRMnHiRfJe-7zP2s2jH1nD62xUkynvX05R43uolUwv72_lACfaBcd5j8Jhp1ASMtXDL0lZsSssPAmUVX1pUrTmG2rAENAJVsL8BQ1edPwgL7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTp9-cZ8aRAPCyD8vJxe8Kj9VU6saQ32QSCLOGoW7lya8HUCKWqvSWD22og_ewDGQdGEfbwCYAmoZKFPGSyYys9UzQRnCn4f5S7XwgO6gTbwpJLgCZiHe4p-XLHNjX-hMMyol3G0nXZQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1157",
   "raw_cells": {
     "col_0": {
-      "text": "720"
+      "text": "716"
     },
     "col_1": {
-      "text": "Acne StudiosChecked Wool Fringe Scarf"
+      "text": "Acne StudiosCamouflage Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax-Zg191ysWlV09OMp1wWDG3qa5AONZmtYYWRMnHiRfJe-7zP2s2jH1nD62xUkynvX05R43uolUwv72_lACfaBcd5j8Jhp1ASMtXDL0lZsSssPAmUVX1pUrTmG2rAENAJVsL8BQ1edPwgL7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTp9-cZ8aRAPCyD8vJxe8Kj9VU6saQ32QSCLOGoW7lya8HUCKWqvSWD22og_ewDGQdGEfbwCYAmoZKFPGSyYys9UzQRnCn4f5S7XwgO6gTbwpJLgCZiHe4p-XLHNjX-hMMyol3G0nXZQ=w143-h110"
     },
     "col_3": {
-      "text": "Topacney",
+      "text": "i795",
       "links": [
         {
-          "label": "Topacney",
-          "url": "https://oopbuy.com/product/1/982932127042?inviteCode=29TOTHGNH"
+          "label": "i795",
+          "url": "https://oopbuy.com/product/1/799544942560?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
+      "text": "47$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://topacney.x.yupoo.com/albums/143048589?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1946374618246385666?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1157"
+  }
 }

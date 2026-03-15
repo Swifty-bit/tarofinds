@@ -1,13 +1,13 @@
 {
-  "name": "Awake NYRacer Blue",
+  "name": "Tokyo T23(454783-701)",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Y3",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "Y3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7251929780?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/weidian/7239346781?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -17,31 +17,31 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AznHbaiBq473-Givj94a_NPvefQwE5MDCa4ppYwIJQiw5jTbB5xC1JjIXRA98FhRQje0HPJ9_GJ6sVoaiZQUZ0VlT3xZbGpDTl6F3nntW4FLDLIfvxxOYAsINmAZ_YBSgf1DqUAf_Unuei-=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awc50TQ9KYT7zHlJPODAFNYDfK0WgUIOYat0AXVIQ9eI1mvF1E7FlVVEFu43Vz41HmR5k-iOTCXgtqd2Qj0s_dcp5ChvahPdLZJXVcksMyiKhlaU5JNPPMXBG5RYoYiGo-y8vUIan3YTA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0301",
   "raw_cells": {
     "col_0": {
       "text": "318"
     },
     "col_1": {
-      "text": "Awake NYRacer Blue"
+      "text": "Tokyo T23(454783-701)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AznHbaiBq473-Givj94a_NPvefQwE5MDCa4ppYwIJQiw5jTbB5xC1JjIXRA98FhRQje0HPJ9_GJ6sVoaiZQUZ0VlT3xZbGpDTl6F3nntW4FLDLIfvxxOYAsINmAZ_YBSgf1DqUAf_Unuei-=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awc50TQ9KYT7zHlJPODAFNYDfK0WgUIOYat0AXVIQ9eI1mvF1E7FlVVEFu43Vz41HmR5k-iOTCXgtqd2Qj0s_dcp5ChvahPdLZJXVcksMyiKhlaU5JNPPMXBG5RYoYiGo-y8vUIan3YTA=w143-h110"
     },
     "col_3": {
-      "text": "Y3",
+      "text": "LJR",
       "links": [
         {
-          "label": "Y3",
-          "url": "https://oopbuy.com/product/weidian/7251929780?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0301"
+  }
 }

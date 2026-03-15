@@ -1,61 +1,61 @@
 {
-  "name": "Chrome Hearts Tee",
+  "name": "Palace PufferDown Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "tophotfashion",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7506393346%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7506393346?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/856825352530?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/856825352530?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "28$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "22$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://tophotfashion.x.yupoo.com/albums/170538859?uid=1&isSubCate=false&referrercate=4644883"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2001840609248235522?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw46dgvNWPw7DLctH2uKxkEqfXZIMbx_bMcOdIDhxS_0ENSAuv75d8lKz8BTdK9NLjLKj_GbsYUm73rorQwsLR41cgV_T668NnUV98zgc5s_IGvKQ7o4SrJ4MIWhDhaTzhMJUWskriAzDmV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azbg8z6Wcn0JAroQULfuVXOn9RU-kqNc4q-aK7SX0rTLsI4pGTKti9HzIupA1aEHYMbEAUB-Xi6LW2qplb-vR-jTxBlXxw647e-5P1tv_7zJop4oOZ1gEanrI9QcaGDELjiE9MHDhmC--xd=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1342",
   "raw_cells": {
     "col_0": {
-      "text": "941"
+      "text": "935"
     },
     "col_1": {
-      "text": "Chrome Hearts Tee"
+      "text": "Palace PufferDown Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw46dgvNWPw7DLctH2uKxkEqfXZIMbx_bMcOdIDhxS_0ENSAuv75d8lKz8BTdK9NLjLKj_GbsYUm73rorQwsLR41cgV_T668NnUV98zgc5s_IGvKQ7o4SrJ4MIWhDhaTzhMJUWskriAzDmV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azbg8z6Wcn0JAroQULfuVXOn9RU-kqNc4q-aK7SX0rTLsI4pGTKti9HzIupA1aEHYMbEAUB-Xi6LW2qplb-vR-jTxBlXxw647e-5P1tv_7zJop4oOZ1gEanrI9QcaGDELjiE9MHDhmC--xd=w143-h110"
     },
-    "col_3": {
-      "text": "tophotfashion",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/weidian/7506393346?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/856825352530?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "28$"
+    "col_6": {
+      "text": "22$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://tophotfashion.x.yupoo.com/albums/170538859?uid=1&isSubCate=false&referrercate=4644883"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2001840609248235522?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1342"
+  }
 }

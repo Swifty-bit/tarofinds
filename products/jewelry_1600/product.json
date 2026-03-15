@@ -1,61 +1,61 @@
 {
-  "name": "SwarovskiNecklaces",
+  "name": "GivenchyBracelet",
   "category": "Jewelry",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7271517944%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7271517944?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7461153636?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7461153636?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "22$",
+  "best_price": "44$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287464471097345?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://doppel.fit/item/weidian/7461153636"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwN9nWN-8544qrFKqCD3208w1j3btDfs0U1OivECQvut1wbuXrklV6-C-erp2nX55VcTHDjcVpv4SnpVzTPtlc7dUybU-8THwiCe_DBZorfWtO5aWR_-V_zhUNJz4D4NMl15klRxanC1JeW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AztXojuTh3AkMtfxn9gWZL4d5_F_9sQ5z8Frw6r5Es6SYxM_KxgJJsn64kqJz9GfgrFnoNnw_OpsgRXWViYoaGMWln3tKHVQRXWMqZmYJJuXmFZtZSiiNJf3CYopsOr=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1600",
   "raw_cells": {
     "col_0": {
-      "text": "14"
+      "text": "9"
     },
     "col_1": {
-      "text": "SwarovskiNecklaces"
+      "text": "GivenchyBracelet"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwN9nWN-8544qrFKqCD3208w1j3btDfs0U1OivECQvut1wbuXrklV6-C-erp2nX55VcTHDjcVpv4SnpVzTPtlc7dUybU-8THwiCe_DBZorfWtO5aWR_-V_zhUNJz4D4NMl15klRxanC1JeW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AztXojuTh3AkMtfxn9gWZL4d5_F_9sQ5z8Frw6r5Es6SYxM_KxgJJsn64kqJz9GfgrFnoNnw_OpsgRXWViYoaGMWln3tKHVQRXWMqZmYJJuXmFZtZSiiNJf3CYopsOr=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/2/7271517944?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7461153636?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "22$"
+      "text": "44$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287464471097345?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://doppel.fit/item/weidian/7461153636"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1600"
+  }
 }

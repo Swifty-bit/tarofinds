@@ -1,5 +1,5 @@
 {
-  "name": "YSL T-Shirts4 Colors",
+  "name": "Fendi Capw/ Box",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,57 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F882950026983%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/882950026983?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/888001677242?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/888001677242?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "4$",
+  "budget_price": "18$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://plug4.me/item/882950026983?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1990606557505736706?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "size up 2",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwafXUCmsgbrOYjTAlm47i9q6Dj8OmxFBm8LZhakpftKjL1zV32FPdvv7zhyV6CY2ITVevVNeABbJAdr2KPWvex6eCftEV0R-nUrgnOQQ7qLvZBQyqpPVhyKKL8P-sKo2H1dMugBSZpQg=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyxACqPn888Xn89U4KryTDazTzgBg4Sj877icgZ1vyNvryjcixxvQXNPxSL-quNExgPzCb6SQk4rTrkveehpLtOhI1b_z2dHH2hb0dtI0BSWwgmtDwQP5XxrysM-_trYf_3r0f5qX6MGw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0847",
   "raw_cells": {
     "col_0": {
-      "text": "352"
+      "text": "344"
     },
     "col_1": {
-      "text": "YSL T-Shirts4 Colors"
+      "text": "Fendi Capw/ Box"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwafXUCmsgbrOYjTAlm47i9q6Dj8OmxFBm8LZhakpftKjL1zV32FPdvv7zhyV6CY2ITVevVNeABbJAdr2KPWvex6eCftEV0R-nUrgnOQQ7qLvZBQyqpPVhyKKL8P-sKo2H1dMugBSZpQg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyxACqPn888Xn89U4KryTDazTzgBg4Sj877icgZ1vyNvryjcixxvQXNPxSL-quNExgPzCb6SQk4rTrkveehpLtOhI1b_z2dHH2hb0dtI0BSWwgmtDwQP5XxrysM-_trYf_3r0f5qX6MGw=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/882950026983?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/888001677242?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "4$"
+      "text": "18$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://plug4.me/item/882950026983?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1990606557505736706?action=discord&type=1&cid=1942512167859859457"
         }
       ]
-    },
-    "col_8": {
-      "text": "size up 2"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0847"
+  }
 }

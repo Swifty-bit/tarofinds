@@ -1,61 +1,61 @@
 {
-  "name": "Moose Knuckles Stagg BomberPuffer Jacket",
+  "name": "Canada GooseDust Bag",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "palmmoose",
+  "best_batch": "TopGoosey",
   "best_batch_links": [
     {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F839875839985%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/839875839985?inviteCode=29TOTHGNH"
+      "label": "TopGoosey",
+      "url": "https://litbuy.com/product/weidian/1005159864470?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1005159864470?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "94$",
+  "best_price": "7$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1991343996641316866?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192727205?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwNd60yOp67bALkMj0DfZAGaPEZWrE3d0p0_VT2uKobjl_CMHB6-uoVzw0K7TjkfPEEjkFGmBJTHpD4S6wDyi6YX6mEKa9nXyd0uKz4n9BXcovf-flV1AEomSCO8ksKzVWIkS9FZamWg7Du=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCoMCQdAbcl4bqWAuw1rJPr_KhgQ7SP4BsOZQCeK1ZWFmp8ri-4ipOvlelFIb-Y9MY1tIjTXAnVfnTBIi6kV3KafZYW4oOuB_Ark59m1hqqHg1n7ij76qnkStr5f4-plS-o2In5o-Nu5hH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1486",
   "raw_cells": {
     "col_0": {
-      "text": "1109"
+      "text": "1103"
     },
     "col_1": {
-      "text": "Moose Knuckles Stagg BomberPuffer Jacket"
+      "text": "Canada GooseDust Bag"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwNd60yOp67bALkMj0DfZAGaPEZWrE3d0p0_VT2uKobjl_CMHB6-uoVzw0K7TjkfPEEjkFGmBJTHpD4S6wDyi6YX6mEKa9nXyd0uKz4n9BXcovf-flV1AEomSCO8ksKzVWIkS9FZamWg7Du=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCoMCQdAbcl4bqWAuw1rJPr_KhgQ7SP4BsOZQCeK1ZWFmp8ri-4ipOvlelFIb-Y9MY1tIjTXAnVfnTBIi6kV3KafZYW4oOuB_Ark59m1hqqHg1n7ij76qnkStr5f4-plS-o2In5o-Nu5hH=w143-h110"
     },
     "col_3": {
-      "text": "palmmoose",
+      "text": "TopGoosey",
       "links": [
         {
-          "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/839875839985?inviteCode=29TOTHGNH"
+          "label": "TopGoosey",
+          "url": "https://oopbuy.com/product/1/1005159864470?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "94$"
+      "text": "7$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1991343996641316866?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192727205?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1486"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "RepresentThoroughbred T-Shirt",
+  "name": "Eric EmanuelShorts56 Colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "UnionKingdom",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "UnionKingdom",
+  "budget_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F759531972189%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/759531972189?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "18$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://unionkingdom.x.yupoo.com/albums/150509097?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1905424804963520513?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayb6xE35GWWTsosTmZyTvp4xdzVHZ7FuvE_pk4eYA4yvxUKhpUgafhHFGR5bXC-HU3MH2sePf3RATNQD_3qXvj5vXmMEJR5_OckcVJQSLaG10lonVrUZl7V8WLbr3zoK-oZIaSsldGvjLy_=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwLiiVfKlLLC7jOTkbIKI38PPcQRphzSJ8e5JR9Sm3ltoH8q-NsNPW_1rsjQvEF00Zo2NqjYPpwEgYL6xbdPsaacF7LSu7VHUq3bBLewgaWilv1d7QRoX_sM3NRXGWWVkUfMatqV5-cZw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1382",
   "raw_cells": {
     "col_0": {
-      "text": "985"
+      "text": "979"
     },
     "col_1": {
-      "text": "RepresentThoroughbred T-Shirt"
+      "text": "Eric EmanuelShorts56 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayb6xE35GWWTsosTmZyTvp4xdzVHZ7FuvE_pk4eYA4yvxUKhpUgafhHFGR5bXC-HU3MH2sePf3RATNQD_3qXvj5vXmMEJR5_OckcVJQSLaG10lonVrUZl7V8WLbr3zoK-oZIaSsldGvjLy_=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwLiiVfKlLLC7jOTkbIKI38PPcQRphzSJ8e5JR9Sm3ltoH8q-NsNPW_1rsjQvEF00Zo2NqjYPpwEgYL6xbdPsaacF7LSu7VHUq3bBLewgaWilv1d7QRoX_sM3NRXGWWVkUfMatqV5-cZw=w143-h110"
     },
-    "col_3": {
+    "col_4": {
       "text": "UnionKingdom",
       "links": [
         {
           "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/759531972189?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "18$"
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://unionkingdom.x.yupoo.com/albums/150509097?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1905424804963520513?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1382"
+  }
 }

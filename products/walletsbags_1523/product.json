@@ -1,5 +1,5 @@
 {
-  "name": "GoyardCisalpin Backpack4 Colors",
+  "name": "GoyardBelvedereMessenger Bag16 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F847015170142%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/847015170142?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/726771616074?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/726771616074?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "35$",
+  "budget_price": "10$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1993505729825296386?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574038439157762?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjKX-3fiv8E0S4FQ_UZEQ7ljmaCu6B3raVz_vr0dywI648d3hJufW0uuMnuJHd0L2duOnMS7huCSDRTgMpMzFWHvH3O4cCLMj6nXO8C9N8QQeP5l8-YK3kq1MFldGXY5ZSZd5jOyIfQA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aye7Z5TAV9yIIjeapki1zARhGTxqr6rIx-fP6OP7w0qhSczU-cUhOePhhjySCrwNuZxr6pkHdk1XMYZJEIWdixX4cPH61vW3YNMPmSlN4j6RMS5gU6U2YWAxuoLBq6vKUkgYsuLdgZ4Qv5N=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1523",
   "raw_cells": {
     "col_0": {
-      "text": "29"
+      "text": "25"
     },
     "col_1": {
-      "text": "GoyardCisalpin Backpack4 Colors"
+      "text": "GoyardBelvedereMessenger Bag16 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjKX-3fiv8E0S4FQ_UZEQ7ljmaCu6B3raVz_vr0dywI648d3hJufW0uuMnuJHd0L2duOnMS7huCSDRTgMpMzFWHvH3O4cCLMj6nXO8C9N8QQeP5l8-YK3kq1MFldGXY5ZSZd5jOyIfQA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aye7Z5TAV9yIIjeapki1zARhGTxqr6rIx-fP6OP7w0qhSczU-cUhOePhhjySCrwNuZxr6pkHdk1XMYZJEIWdixX4cPH61vW3YNMPmSlN4j6RMS5gU6U2YWAxuoLBq6vKUkgYsuLdgZ4Qv5N=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/847015170142?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/726771616074?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "35$"
+      "text": "10$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1993505729825296386?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574038439157762?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1523"
+  }
 }

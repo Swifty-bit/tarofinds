@@ -1,33 +1,50 @@
 {
-  "name": "Varsity Green",
+  "name": "Lottery Pack Malachite Green",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "M",
+  "best_batch_links": [
+    {
+      "label": "M",
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "VT",
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "best_price": "44$",
   "budget_price": "22$",
   "pics_text": "22$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzeKyZQ9vnKL99fQcxJzYhW8zkoG1-h5F7OKdkYWWndJExm1BQ55-xlKuvUpvkSL0fbNSOmeM1gq4qhgfTJSWFfmsmc_NZ1ujeizYG8lHUsgSncOQ-Shk2FHsLlSRVWZ3Bkwspd45BREg2l=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awwh4bWNS8NfNk4vRjqpU48jup6RXhfA4ASXxgJreEUAhA59HQKa4ivrrRU9wFRAzGh-nk6r8DyPlAh6PfHJ2OiZSDIQqT6yq_F2Fy2leB7P1ZqjdRTKvw50y1JlNfciAXLUg8FnzAg7g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0081",
   "raw_cells": {
     "col_0": {
       "text": "90"
     },
     "col_1": {
-      "text": "Varsity Green"
+      "text": "Lottery Pack Malachite Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzeKyZQ9vnKL99fQcxJzYhW8zkoG1-h5F7OKdkYWWndJExm1BQ55-xlKuvUpvkSL0fbNSOmeM1gq4qhgfTJSWFfmsmc_NZ1ujeizYG8lHUsgSncOQ-Shk2FHsLlSRVWZ3Bkwspd45BREg2l=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awwh4bWNS8NfNk4vRjqpU48jup6RXhfA4ASXxgJreEUAhA59HQKa4ivrrRU9wFRAzGh-nk6r8DyPlAh6PfHJ2OiZSDIQqT6yq_F2Fy2leB7P1ZqjdRTKvw50y1JlNfciAXLUg8FnzAg7g=w143-h110"
+    },
+    "col_3": {
+      "text": "M",
+      "links": [
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "VT",
@@ -38,10 +55,11 @@
         }
       ]
     },
+    "col_5": {
+      "text": "44$"
+    },
     "col_6": {
       "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0081"
+  }
 }

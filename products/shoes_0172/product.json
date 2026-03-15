@@ -1,20 +1,20 @@
 {
-  "name": "Turbo Green",
+  "name": "Hyper Royal",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4327889542%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4327889542?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7565902946?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "DG",
   "budget_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,24 +23,26 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayva3rKpgK93L31ADqQvWzNzu5e5Tu23tV9sW6ZJnLi8SNVxtDE6GVPiOtG3gSj_Ndgz2JfTJ0gx1tOTWNFMTLgckfPUCLJhyOeffMycaJY16q6G2UHrvlrbPBFzEnrS4Zf3QhNOXHkos2p=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtQrroSw1-F_ZXldkYX2vSIii2bowG8M292uTF4Fd8Brsp7hOx5lJgqzau2quxnF-xKqI-umdOzeMjMi-e1N1e8Z31cNO66O5SpGj8TuLhPDGmucnlMPRsv8V58dCLc4jol2eOQiHVVp6L=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0172",
   "raw_cells": {
     "col_0": {
       "text": "183"
     },
     "col_1": {
-      "text": "Turbo Green"
+      "text": "Hyper Royal"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayva3rKpgK93L31ADqQvWzNzu5e5Tu23tV9sW6ZJnLi8SNVxtDE6GVPiOtG3gSj_Ndgz2JfTJ0gx1tOTWNFMTLgckfPUCLJhyOeffMycaJY16q6G2UHrvlrbPBFzEnrS4Zf3QhNOXHkos2p=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtQrroSw1-F_ZXldkYX2vSIii2bowG8M292uTF4Fd8Brsp7hOx5lJgqzau2quxnF-xKqI-umdOzeMjMi-e1N1e8Z31cNO66O5SpGj8TuLhPDGmucnlMPRsv8V58dCLc4jol2eOQiHVVp6L=w143-h100"
     },
     "col_3": {
       "text": "LJR",
       "links": [
         {
           "label": "LJR",
-          "url": "https://oopbuy.com/product/2/4327889542?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0172"
+  }
 }

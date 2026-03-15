@@ -1,61 +1,61 @@
 {
-  "name": "Chrome Hearts Tee",
+  "name": "Palace Oakley Beanie2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "tophotfashion",
+  "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
-      "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7504562431%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7504562431?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/7498043064?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7498043064?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "28$",
+  "best_price": "15$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://tophotfashion.x.yupoo.com/albums/170538891?uid=1&isSubCate=false&referrercate=4644883"
+      "url": "https://dragonrep333.x.yupoo.com/albums/207877223?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwKV8lwwcaztmiijst_s_8R8s9KDjg4OHmhW_6qw2wagLLaHDKUn-HJfukZ8NadAxmA1epyedUWqco6iWLImtgS4bFEj8LTcPVC9MdzBCHysxVLF7T7i-R4W0LPiXfshh4b-DaztaVOpZxV=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AybI-Dhv9n1m03Ec3tXNlB20i4VWnPFw033ke0yECPSiAXYl3m_oPepfdUkTn83Y1_uDZRBkuodDsqvQ_SJnTCYzeFfRiDldEMrd-3bT0zXZ5NFp87ENL5RqFl6dlcu44-L1j4BxKgOwQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1343",
   "raw_cells": {
     "col_0": {
-      "text": "942"
+      "text": "936"
     },
     "col_1": {
-      "text": "Chrome Hearts Tee"
+      "text": "Palace Oakley Beanie2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwKV8lwwcaztmiijst_s_8R8s9KDjg4OHmhW_6qw2wagLLaHDKUn-HJfukZ8NadAxmA1epyedUWqco6iWLImtgS4bFEj8LTcPVC9MdzBCHysxVLF7T7i-R4W0LPiXfshh4b-DaztaVOpZxV=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AybI-Dhv9n1m03Ec3tXNlB20i4VWnPFw033ke0yECPSiAXYl3m_oPepfdUkTn83Y1_uDZRBkuodDsqvQ_SJnTCYzeFfRiDldEMrd-3bT0zXZ5NFp87ENL5RqFl6dlcu44-L1j4BxKgOwQ=w143-h110"
     },
     "col_3": {
-      "text": "tophotfashion",
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/weidian/7504562431?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/weidian/7498043064?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "28$"
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://tophotfashion.x.yupoo.com/albums/170538891?uid=1&isSubCate=false&referrercate=4644883"
+          "url": "https://dragonrep333.x.yupoo.com/albums/207877223?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1343"
+  }
 }

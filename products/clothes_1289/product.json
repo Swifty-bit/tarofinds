@@ -1,61 +1,61 @@
 {
-  "name": "Lacoste T-Shirt6 Colors",
+  "name": "Balenciaga 25SS Corner Missing Campaign Baseball Cap",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
+  "best_batch": "JennyTurtle",
   "best_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7309162557%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7309162557?inviteCode=29TOTHGNH"
+      "label": "JennyTurtle",
+      "url": "https://litbuy.com/product/weidian/7403374439?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7403374439?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "12$",
+  "best_price": "17$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://newdp.x.yupoo.com/albums/177003344?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969367691394347010?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw9blc-ZK2rfTyOH9Qbou-wXWSGuoCeFfT4PuWDqbqPuQHoyTngOjWkLNp3_t0JcOmnOmgqFq4VnZaeMYqLdmb-dX_2IQB_C2fz1JuYGDNXAsA8bYEfQTGRDwLc01vB6sfEuWdCZPW66A=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxEv4LLnWYK_AX7FDkQlgLKdBSp0hFOUKbWF9UrkL1yn6GVgdFBX1ISBwhbbaA_6THfdRqfjWKGJM7ot2pNDjt00wtcoeK5FQwkn7r622RxkvmVdnNqbq_KiCsf8ernm8ZPIClMkvIDWA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1289",
   "raw_cells": {
     "col_0": {
-      "text": "880"
+      "text": "874"
     },
     "col_1": {
-      "text": "Lacoste T-Shirt6 Colors"
+      "text": "Balenciaga 25SS Corner Missing Campaign Baseball Cap"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw9blc-ZK2rfTyOH9Qbou-wXWSGuoCeFfT4PuWDqbqPuQHoyTngOjWkLNp3_t0JcOmnOmgqFq4VnZaeMYqLdmb-dX_2IQB_C2fz1JuYGDNXAsA8bYEfQTGRDwLc01vB6sfEuWdCZPW66A=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxEv4LLnWYK_AX7FDkQlgLKdBSp0hFOUKbWF9UrkL1yn6GVgdFBX1ISBwhbbaA_6THfdRqfjWKGJM7ot2pNDjt00wtcoeK5FQwkn7r622RxkvmVdnNqbq_KiCsf8ernm8ZPIClMkvIDWA=w143-h110"
     },
     "col_3": {
-      "text": "NEWDP",
+      "text": "JennyTurtle",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://www.oopbuy.com/product/weidian/7309162557?inviteCode=29TOTHGNH"
+          "label": "JennyTurtle",
+          "url": "https://oopbuy.com/product/weidian/7403374439?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "12$"
+      "text": "17$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://newdp.x.yupoo.com/albums/177003344?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969367691394347010?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1289"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Space TrailsHoodie",
+  "name": "Heartless Love T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341530407%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7341530407?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7342568978?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7342568978?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "15$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/164532096?uid=1&isSubCate=false&referrercate=4098105"
+      "url": "https://hotdog-official.x.yupoo.com/albums/159100342?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbKFF32C9Km97J2SikGF2HaAV3URP70TA92mvxyCotGXwpWwH0L22bXk_3Ztef-Lnvmb_0aH_dT3HpL4W-lK6wZM7N35TkonVX5O7x5YzlKuAqp8QS8k5V8WGY1tIPzkDxQLSYtbCIgEbM=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwcOQ5hyiTRdBGRCTmNthqpklkBpsaFoK5zSFWYmUmOz1GdBF-hO74SgER3rWNEt-NGfHd9a86Pg0xWsKAS3nkzkIYrSWwol2QhSLhgDO_OUKUPpnaWjG7EEglBsVZar0pzXixGN8H7qVHs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0988",
   "raw_cells": {
     "col_0": {
-      "text": "525"
+      "text": "521"
     },
     "col_1": {
-      "text": "Space TrailsHoodie"
+      "text": "Heartless Love T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbKFF32C9Km97J2SikGF2HaAV3URP70TA92mvxyCotGXwpWwH0L22bXk_3Ztef-Lnvmb_0aH_dT3HpL4W-lK6wZM7N35TkonVX5O7x5YzlKuAqp8QS8k5V8WGY1tIPzkDxQLSYtbCIgEbM=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwcOQ5hyiTRdBGRCTmNthqpklkBpsaFoK5zSFWYmUmOz1GdBF-hO74SgER3rWNEt-NGfHd9a86Pg0xWsKAS3nkzkIYrSWwol2QhSLhgDO_OUKUPpnaWjG7EEglBsVZar0pzXixGN8H7qVHs=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7341530407?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7342568978?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "15$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/164532096?uid=1&isSubCate=false&referrercate=4098105"
+          "url": "https://hotdog-official.x.yupoo.com/albums/159100342?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0988"
+  }
 }

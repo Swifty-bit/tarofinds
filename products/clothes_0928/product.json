@@ -1,61 +1,61 @@
 {
-  "name": "Syna WorldOff WhiteT-Shirt",
+  "name": "Palm AngelsVarsity Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7374384343%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7374384343?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/679257031030?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/679257031030?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "13$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "17$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/184641262?uid=1&isSubCate=false&referrercate=4564614"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1910745267547222017?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwSGK6Mv4d2pUPMHJZ_2gIEAlAnvrzuqSs3H8dXfXZ6ZgfisTm_PJhqAx7VSxHaE5Ux_pP-BFKRokjhuGh6B9xxwlUI0WVyBBWBjNKEA5-qFHvlkutC0lzn16GI4kGCJoEplWxxETYZrw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxeQ_5qKT4KBvveidNibfCS06G-uUngedQYCiQUSwr7M-nv6dA2h44CbZN2eEffwfQ2o6HvTcqiC-zERgsbZicC6RSAAWQwgYvNH-nxYIKvoo-u-yeKLvMFbGpHIRGOEPMKny9iX6nfm0Gh=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0928",
   "raw_cells": {
     "col_0": {
-      "text": "455"
+      "text": "449"
     },
     "col_1": {
-      "text": "Syna WorldOff WhiteT-Shirt"
+      "text": "Palm AngelsVarsity Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwSGK6Mv4d2pUPMHJZ_2gIEAlAnvrzuqSs3H8dXfXZ6ZgfisTm_PJhqAx7VSxHaE5Ux_pP-BFKRokjhuGh6B9xxwlUI0WVyBBWBjNKEA5-qFHvlkutC0lzn16GI4kGCJoEplWxxETYZrw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxeQ_5qKT4KBvveidNibfCS06G-uUngedQYCiQUSwr7M-nv6dA2h44CbZN2eEffwfQ2o6HvTcqiC-zERgsbZicC6RSAAWQwgYvNH-nxYIKvoo-u-yeKLvMFbGpHIRGOEPMKny9iX6nfm0Gh=w143-h110"
     },
-    "col_3": {
-      "text": "elephant",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/2/7374384343?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/679257031030?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "13$"
+    "col_6": {
+      "text": "17$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/184641262?uid=1&isSubCate=false&referrercate=4564614"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1910745267547222017?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0928"
+  }
 }

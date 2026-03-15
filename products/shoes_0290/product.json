@@ -1,47 +1,47 @@
 {
-  "name": "Olive Green",
+  "name": "Aqua",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Y3",
+  "best_batch": "DGC",
   "best_batch_links": [
     {
-      "label": "Y3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7432227614%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7432227614?inviteCode=29TOTHGNH"
+      "label": "DGC",
+      "url": "https://litbuy.com/product/taobao/5614921437?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/5614921437?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "71$",
+  "best_price": "67$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwEdMWs3Yf0ucyOen3NGY0xtI8g7CrXnJQeKsDaIb7hPTDXpSYQA0GZH7-z0zRRQym-HiEzg52ZubXFzdSPMtAC-HL8YkgljdCiOIz2k_mERf5XdIa16LalLBenFrN6Lm7G2dXzKiyyC7e1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzY7xJOIjqeNZOdFuf0wCrPkZuN97o4OnNwX8nEdLUtSKEvf_izAp9VlTchtVV2SwqjKo_pNWnPE7wwkY3O_YOK_skrgwhYX0NiFj4c7GnnaRjZERxwsvRI8YjotkbZ2Likja61k71PLSuD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0290",
   "raw_cells": {
     "col_0": {
       "text": "307"
     },
     "col_1": {
-      "text": "Olive Green"
+      "text": "Aqua"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwEdMWs3Yf0ucyOen3NGY0xtI8g7CrXnJQeKsDaIb7hPTDXpSYQA0GZH7-z0zRRQym-HiEzg52ZubXFzdSPMtAC-HL8YkgljdCiOIz2k_mERf5XdIa16LalLBenFrN6Lm7G2dXzKiyyC7e1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzY7xJOIjqeNZOdFuf0wCrPkZuN97o4OnNwX8nEdLUtSKEvf_izAp9VlTchtVV2SwqjKo_pNWnPE7wwkY3O_YOK_skrgwhYX0NiFj4c7GnnaRjZERxwsvRI8YjotkbZ2Likja61k71PLSuD=w143-h110"
     },
     "col_3": {
-      "text": "Y3",
+      "text": "DGC",
       "links": [
         {
-          "label": "Y3",
-          "url": "https://oopbuy.com/product/weidian/7432227614?inviteCode=29TOTHGNH"
+          "label": "DGC",
+          "url": "https://oopbuy.com/product/2/5614921437?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "71$"
+      "text": "67$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0290"
+  }
 }

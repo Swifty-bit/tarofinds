@@ -1,61 +1,87 @@
 {
-  "name": "Studio Pro",
+  "name": "Airpods Max",
   "category": "Electronics",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "MAXV3TB",
+  "best_batch_links": [
+    {
+      "label": "MAXV3TB",
+      "url": "https://litbuy.com/product/weidian/7385095307?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7385095307?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "ThebigY",
   "budget_batch_links": [
     {
       "label": "ThebigY",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7270917929%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7270917929?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7270577821?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7270577821?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "24$",
-  "pics_text": "QC Pics",
+  "best_price": "140$",
+  "budget_price": "80$",
+  "pics_text": "MAXV3TB/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1953988499436298242?action=discord&cid=1942512167859859457"
+      "label": "MAXV3TB",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1946012373553352706?action=discord&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1952902409044451329?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az9QwUGIKDxua0xZ0hjfKlRnO0RhNvljfpqqB8yR1OwEAb4UUKTwmEcWg-U-YZwhQ3TPxc1IzOS0P3Xr2Bf-Yh7aCqVB1z8B7JA3K2lxLcy2nRctQ5VN199AA4LFwQl6O66GMHE8uuoFYoH=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8Sqc3X_aWzGgF45IIC5789gkt2igDM5q5ak2YVp0pPXWyERv7duCnpTgcoBxYbin5jDiE_B3yj7aG-UVkVhaE75dVixXonOfWt7H-hGmtFNtzNhaBHe8Hy3SDX9ekOzj1MurXCRTlQQV7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "electronics_1705",
   "raw_cells": {
     "col_0": {
-      "text": "22"
+      "text": "14"
     },
     "col_1": {
-      "text": "Studio Pro"
+      "text": "Airpods Max"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az9QwUGIKDxua0xZ0hjfKlRnO0RhNvljfpqqB8yR1OwEAb4UUKTwmEcWg-U-YZwhQ3TPxc1IzOS0P3Xr2Bf-Yh7aCqVB1z8B7JA3K2lxLcy2nRctQ5VN199AA4LFwQl6O66GMHE8uuoFYoH=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8Sqc3X_aWzGgF45IIC5789gkt2igDM5q5ak2YVp0pPXWyERv7duCnpTgcoBxYbin5jDiE_B3yj7aG-UVkVhaE75dVixXonOfWt7H-hGmtFNtzNhaBHe8Hy3SDX9ekOzj1MurXCRTlQQV7=w143-h110"
+    },
+    "col_3": {
+      "text": "MAXV3TB",
+      "links": [
+        {
+          "label": "MAXV3TB",
+          "url": "https://oopbuy.com/product/weidian/7385095307?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "ThebigY",
       "links": [
         {
           "label": "ThebigY",
-          "url": "https://www.oopbuy.com/product/weidian/7270917929?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/7270577821?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "140$"
+    },
     "col_6": {
-      "text": "24$"
+      "text": "80$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "MAXV3TB/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1953988499436298242?action=discord&cid=1942512167859859457"
+          "label": "MAXV3TB",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1946012373553352706?action=discord&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1952902409044451329?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "electronics_1705"
+  }
 }

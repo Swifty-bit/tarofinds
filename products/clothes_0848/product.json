@@ -1,87 +1,61 @@
 {
-  "name": "YSL Knit Sweater",
+  "name": "Fendi CapMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "kungfu",
-  "best_batch_links": [
-    {
-      "label": "kungfu",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7234570265%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7234570265?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F695238507342%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/695238507342?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/925219590971?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/925219590971?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "70$",
-  "budget_price": "23$",
-  "pics_text": "best/budget",
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1950361471031529474?action=discord&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1950361438873800706?action=discord&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1992418650705973250?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwgZh69k1y-eTfuKFlGJx6F7ZQv7sDH2NW0XtWs1WMuAEQLJDxvFVoRdYb-wlSIjkAdQqTsXXkYjjRe5SKUIpkhhO41DylJYBDM2DgiGPomNOR6sRj9MgQM6rfHAmEyOIvKLXTtCOzHrYmu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw2GqnWwA7eiqQp_Ha1XggLewcDt1c5DGoFrtO7pYba5UQ7U3mvE11N-b_wvCC5hT1-gulH_OPGZAuaIFIXxFf_3HOGsIdELphedjcWobwuhQk5nemFNoqYgqEyR3T4I5VPlU1haR5CKjB9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0848",
   "raw_cells": {
     "col_0": {
-      "text": "353"
+      "text": "345"
     },
     "col_1": {
-      "text": "YSL Knit Sweater"
+      "text": "Fendi CapMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwgZh69k1y-eTfuKFlGJx6F7ZQv7sDH2NW0XtWs1WMuAEQLJDxvFVoRdYb-wlSIjkAdQqTsXXkYjjRe5SKUIpkhhO41DylJYBDM2DgiGPomNOR6sRj9MgQM6rfHAmEyOIvKLXTtCOzHrYmu=w143-h110"
-    },
-    "col_3": {
-      "text": "kungfu",
-      "links": [
-        {
-          "label": "kungfu",
-          "url": "https://oopbuy.com/product/2/7234570265?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw2GqnWwA7eiqQp_Ha1XggLewcDt1c5DGoFrtO7pYba5UQ7U3mvE11N-b_wvCC5hT1-gulH_OPGZAuaIFIXxFf_3HOGsIdELphedjcWobwuhQk5nemFNoqYgqEyR3T4I5VPlU1haR5CKjB9=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/695238507342?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/925219590971?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "70$"
-    },
     "col_6": {
-      "text": "23$"
+      "text": "15$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1950361471031529474?action=discord&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1950361438873800706?action=discord&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1992418650705973250?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0848"
+  }
 }

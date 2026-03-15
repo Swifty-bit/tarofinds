@@ -1,12 +1,12 @@
 {
-  "name": "Midnight Navy",
+  "name": "Craft Lvory",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "OG",
   "best_batch_links": [
     {
       "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239164979?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwXxfXpVSub7vvKodGCAB51cNWKtZ2i1kmS5NtyhvU_XLGTWWI9ymQ2m0uorwzyxSrR85bZ4OY8tdVex0SFoE-WeDmX43WV8lXbzEjqvTeiPlr-fWteuyKfmDrwT-jVj89yw7Kssc-JTg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay0cVe7MktDDMXpIBM2timgGH2HT1u9RgnBwroViE0TPq03SXvBC--GRBgprKYU_WNEBRT45_Yt2ZOpqCybjf2oYkQLgkRUUy_HMAS9Clroyo1OuZojFCqh4t4q6vFzLzfTSyBwDEFxpg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0203",
   "raw_cells": {
     "col_0": {
       "text": "216"
     },
     "col_1": {
-      "text": "Midnight Navy"
+      "text": "Craft Lvory"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwXxfXpVSub7vvKodGCAB51cNWKtZ2i1kmS5NtyhvU_XLGTWWI9ymQ2m0uorwzyxSrR85bZ4OY8tdVex0SFoE-WeDmX43WV8lXbzEjqvTeiPlr-fWteuyKfmDrwT-jVj89yw7Kssc-JTg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay0cVe7MktDDMXpIBM2timgGH2HT1u9RgnBwroViE0TPq03SXvBC--GRBgprKYU_WNEBRT45_Yt2ZOpqCybjf2oYkQLgkRUUy_HMAS9Clroyo1OuZojFCqh4t4q6vFzLzfTSyBwDEFxpg=w143-h110"
     },
     "col_3": {
       "text": "OG",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0203"
+  }
 }

@@ -1,87 +1,61 @@
 {
-  "name": "Louis VuittonPochette Voyage MM",
+  "name": "Louis VuittonKeepall 55",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "MissChen",
-  "best_batch_links": [
-    {
-      "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7221570759%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7221570759?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F950842574171%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/950842574171?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/940248509675?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/940248509675?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "55$",
-  "budget_price": "15$",
-  "pics_text": "misschen/budget",
+  "best_price": "",
+  "budget_price": "25$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "misschen",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1964516464741933057?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574024182718465?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1972849952247341057?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzlHfqV6qPsC28s5jbwyCpz_Vm9TDSSdJMvaGGG2LGkPKZL5o2R-q9smWpRraIumL6wNKXLhuWRHoenq5zOKDG0GOo4tpqtuDxTmgJwJ4-fL38kTovgkabwE7_fkHa58wAcShkKJYxKC-Nd=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwyCJv6WNrVxyyMdhkWzJSfVEt3rfVRr_ngAmAgRROLU-GEJFmRV6taac0SrjPwkL6JG9-KlWc66u49Fxu76HXHIKelgrRfpMthSd0hev68oUhdBv5vY8jo8EXfjub5iGVuStTcsDlKsA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1514",
   "raw_cells": {
     "col_0": {
-      "text": "20"
+      "text": "16"
     },
     "col_1": {
-      "text": "Louis VuittonPochette Voyage MM"
+      "text": "Louis VuittonKeepall 55"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzlHfqV6qPsC28s5jbwyCpz_Vm9TDSSdJMvaGGG2LGkPKZL5o2R-q9smWpRraIumL6wNKXLhuWRHoenq5zOKDG0GOo4tpqtuDxTmgJwJ4-fL38kTovgkabwE7_fkHa58wAcShkKJYxKC-Nd=w143-h110"
-    },
-    "col_3": {
-      "text": "MissChen",
-      "links": [
-        {
-          "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/7221570759?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwyCJv6WNrVxyyMdhkWzJSfVEt3rfVRr_ngAmAgRROLU-GEJFmRV6taac0SrjPwkL6JG9-KlWc66u49Fxu76HXHIKelgrRfpMthSd0hev68oUhdBv5vY8jo8EXfjub5iGVuStTcsDlKsA=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/950842574171?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/940248509675?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "55$"
-    },
     "col_6": {
-      "text": "15$"
+      "text": "25$"
     },
     "col_7": {
-      "text": "misschen/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "misschen",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1964516464741933057?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574024182718465?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1972849952247341057?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1514"
+  }
 }

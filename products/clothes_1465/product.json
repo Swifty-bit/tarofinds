@@ -1,104 +1,61 @@
 {
-  "name": "Canada GooseFreestyle Crew Vest",
+  "name": "Canada GooseStormont Halfzip",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TopGoosey",
+  "best_batch": "Topgoosey",
   "best_batch_links": [
     {
-      "label": "TopGoosey",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1004418245368%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1004418245368?inviteCode=29TOTHGNH"
+      "label": "Topgoosey",
+      "url": "https://litbuy.com/product/weidian/1003007767181?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1003007767181?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "palmmoose/budget2",
-  "budget_batch_links": [
-    {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F675358399697%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/675358399697?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F846804383146%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/846804383146?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "92$",
-  "budget_price": "30$ / 20$",
-  "pics_text": "best/palmmoose/budget2",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "79$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://topgoosey-01.x.yupoo.com/albums/192732148?uid=1"
-    },
-    {
-      "label": "palmmoose",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1857272321863159810"
-    },
-    {
-      "label": "budget2",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1890204552927481857?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/221013697?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AysWjDxKKZmm9Wixy_CgsesfJGDLujc11zvsAwQUkKy9_1QqbSV5vZigzrHg3F5djAgJotK4FnMsUVnCSMMWUtbv8nElM5lJgmV9dW0YD065Kx1qrenOexgM0V7NFEEGBJLZHkkUcl7ww=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2LgmPHrvz01a2YykrUbvC7LqnMkIfgljV15xGmCyebbg1M8hEzGCYAHKwALT3KtJbGy4fgLvvAYx16dXlmwdDODgrn3L5LtuPtf18tzrEbzgBn97yD827RquCeqUAbNYZq_UQLC-BDQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1465",
   "raw_cells": {
     "col_0": {
-      "text": "1086"
+      "text": "1082"
     },
     "col_1": {
-      "text": "Canada GooseFreestyle Crew Vest"
+      "text": "Canada GooseStormont Halfzip"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AysWjDxKKZmm9Wixy_CgsesfJGDLujc11zvsAwQUkKy9_1QqbSV5vZigzrHg3F5djAgJotK4FnMsUVnCSMMWUtbv8nElM5lJgmV9dW0YD065Kx1qrenOexgM0V7NFEEGBJLZHkkUcl7ww=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2LgmPHrvz01a2YykrUbvC7LqnMkIfgljV15xGmCyebbg1M8hEzGCYAHKwALT3KtJbGy4fgLvvAYx16dXlmwdDODgrn3L5LtuPtf18tzrEbzgBn97yD827RquCeqUAbNYZq_UQLC-BDQ=w143-h110"
     },
     "col_3": {
-      "text": "TopGoosey",
+      "text": "Topgoosey",
       "links": [
         {
-          "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1004418245368?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "palmmoose/budget2",
-      "links": [
-        {
-          "label": "palmmoose",
-          "url": "https://www.oopbuy.com/product/0/675358399697?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "budget2",
-          "url": "https://www.oopbuy.com/product/0/846804383146?inviteCode=29TOTHGNH"
+          "label": "Topgoosey",
+          "url": "https://oopbuy.com/product/1/1003007767181?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "92$"
-    },
-    "col_6": {
-      "text": "30$ / 20$"
+      "text": "79$"
     },
     "col_7": {
-      "text": "best/palmmoose/budget2",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://topgoosey-01.x.yupoo.com/albums/192732148?uid=1"
-        },
-        {
-          "label": "palmmoose",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1857272321863159810"
-        },
-        {
-          "label": "budget2",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1890204552927481857?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/221013697?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1465"
+  }
 }

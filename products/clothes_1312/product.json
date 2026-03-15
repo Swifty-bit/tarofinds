@@ -1,61 +1,61 @@
 {
-  "name": "BapeT-Shirts110 Styles",
+  "name": "LacostePants4 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Lufilo",
+  "best_batch": "FrenchFish",
   "best_batch_links": [
     {
-      "label": "Lufilo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F975462768804%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
+      "label": "FrenchFish",
+      "url": "https://litbuy.com/product/weidian/7340500675?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7340500675?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "27$",
+  "best_price": "40$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=975462768804"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1926081097371299841?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axzc4p-1BWN5oN3AMjSFbqw-jGzIuu9VtvulOj-ID7Q7jnWGkHP-SerPaS64iHsmhcV4Ar5TU6ssq6UJj0kbcCV3sGsksxPCacdZlqd4C-c6Q8ZQTKlcoxcL2IegIT7lPzkAZU1f1nvLnZJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6ACdaUSRC6Mdf07RQuOkYQbyHzekIidligbmkzMDK25000Wl-vHL9kWkpWTUJuz7_onbsmItx4HEdupRscukwUfKxZOyvU2ibnbt3IgIdOF2eJ4d2hVlYeoHKjxmVuTgeYU8X3C3pFVQD=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1312",
   "raw_cells": {
     "col_0": {
-      "text": "905"
+      "text": "899"
     },
     "col_1": {
-      "text": "BapeT-Shirts110 Styles"
+      "text": "LacostePants4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axzc4p-1BWN5oN3AMjSFbqw-jGzIuu9VtvulOj-ID7Q7jnWGkHP-SerPaS64iHsmhcV4Ar5TU6ssq6UJj0kbcCV3sGsksxPCacdZlqd4C-c6Q8ZQTKlcoxcL2IegIT7lPzkAZU1f1nvLnZJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6ACdaUSRC6Mdf07RQuOkYQbyHzekIidligbmkzMDK25000Wl-vHL9kWkpWTUJuz7_onbsmItx4HEdupRscukwUfKxZOyvU2ibnbt3IgIdOF2eJ4d2hVlYeoHKjxmVuTgeYU8X3C3pFVQD=w143-h110"
     },
     "col_3": {
-      "text": "Lufilo",
+      "text": "FrenchFish",
       "links": [
         {
-          "label": "Lufilo",
-          "url": "https://oopbuy.com/product/1/975462768804?inviteCode=29TOTHGNH"
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7340500675?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "40$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://lufilostudio.x.yupoo.com/search/album?uid=1&sort=&q=975462768804"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1926081097371299841?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1312"
+  }
 }

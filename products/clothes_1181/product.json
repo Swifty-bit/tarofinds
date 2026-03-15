@@ -1,61 +1,61 @@
 {
-  "name": "Supreme x CDGComme Des GarconsLong Sleeves",
+  "name": "Supreme x Tiffany21FW Tee",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "TeenageClub",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F990999601398%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/990999601398?inviteCode=29TOTHGNH"
+      "label": "TeenageClub",
+      "url": "https://litbuy.com/product/weidian/678038699098?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/678038699098?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "15$",
+  "best_price": "16$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/200533423?uid=1&isSubCate=false&referrercate=5128217"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1955437494507008002?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwpFhqUeaRUvRoQzmUG46rrBan5eMB7nPkg7agEYhzMV5Hx3LHu7H4EwLfg3XYtQcWGM9UA-9cnprM6BDVSHahxGVkBsq-zQd0aL-L9vIoFcg1qyY43XSZ3a_GE_07HxTNcifBq484i3Q6R=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2wb6uC1E-dZ_m9aWnF-b350qyGW00Gaj2zg66ykWS4g9nq56ReECrJH4B3RyVf8FHpXzrWhVUWNfE4CfZMLdDITWdZn4d6BQbQmGoR5X4DqCUFUMaeb9tBBQdIxa7rqexhGkwFAdRx8L0=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1181",
   "raw_cells": {
     "col_0": {
-      "text": "750"
+      "text": "746"
     },
     "col_1": {
-      "text": "Supreme x CDGComme Des GarconsLong Sleeves"
+      "text": "Supreme x Tiffany21FW Tee"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwpFhqUeaRUvRoQzmUG46rrBan5eMB7nPkg7agEYhzMV5Hx3LHu7H4EwLfg3XYtQcWGM9UA-9cnprM6BDVSHahxGVkBsq-zQd0aL-L9vIoFcg1qyY43XSZ3a_GE_07HxTNcifBq484i3Q6R=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2wb6uC1E-dZ_m9aWnF-b350qyGW00Gaj2zg66ykWS4g9nq56ReECrJH4B3RyVf8FHpXzrWhVUWNfE4CfZMLdDITWdZn4d6BQbQmGoR5X4DqCUFUMaeb9tBBQdIxa7rqexhGkwFAdRx8L0=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "TeenageClub",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/1/990999601398?inviteCode=29TOTHGNH"
+          "label": "TeenageClub",
+          "url": "https://www.oopbuy.com/product/1/678038699098?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "15$"
+      "text": "16$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/200533423?uid=1&isSubCate=false&referrercate=5128217"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1955437494507008002?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1181"
+  }
 }

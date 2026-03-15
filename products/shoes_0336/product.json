@@ -1,59 +1,47 @@
 {
-  "name": "Yeezy 350 v2ReflectiveNon-Reflective",
+  "name": "Yeezy 350 v1",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LW/LW",
+  "best_batch": "OG / LW",
   "best_batch_links": [
     {
-      "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7246010237%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7246010237?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7247046086%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7247046086?inviteCode=29TOTHGNH"
+      "label": "OG / LW",
+      "url": "https://litbuy.com/product/weidian/4879571903?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4879571903?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "62$ / 59$",
+  "best_price": "62$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
-  "notes": "Size up 0.5 EU size",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZbN3Vd7uYFef4Jdw7OV3EIgODNY8ar9MF0XtArjT4KqJKMpIwYkhLJZl8WRVn7bAy560S195pjYx8btXlxSQWjxkEIm_elBesoMztyb-VAtaJc-mVLm_30dYHvAPONcNAsCWkJ2VoM6ns=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7MivCF9yxJtvXBDrGJgb3NZd_3KWrp0R6K4v0-DeHZZRa0fPzJURCPNb5uzt0OGD_uGnhyo7UK2mue9YhcSugu7fGDSFOBw_yhP0oGjtWSu1JWE2n_ApevnHmOndXSbo1_U4FLMEQsyRf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0336",
   "raw_cells": {
     "col_0": {
       "text": "367"
     },
     "col_1": {
-      "text": "Yeezy 350 v2ReflectiveNon-Reflective"
+      "text": "Yeezy 350 v1"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZbN3Vd7uYFef4Jdw7OV3EIgODNY8ar9MF0XtArjT4KqJKMpIwYkhLJZl8WRVn7bAy560S195pjYx8btXlxSQWjxkEIm_elBesoMztyb-VAtaJc-mVLm_30dYHvAPONcNAsCWkJ2VoM6ns=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7MivCF9yxJtvXBDrGJgb3NZd_3KWrp0R6K4v0-DeHZZRa0fPzJURCPNb5uzt0OGD_uGnhyo7UK2mue9YhcSugu7fGDSFOBw_yhP0oGjtWSu1JWE2n_ApevnHmOndXSbo1_U4FLMEQsyRf=w143-h110"
     },
     "col_3": {
-      "text": "LW/LW",
+      "text": "OG / LW",
       "links": [
         {
-          "label": "LW",
-          "url": "https://oopbuy.com/product/2/7246010237?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "LW",
-          "url": "https://oopbuy.com/product/2/7247046086?inviteCode=29TOTHGNH"
+          "label": "OG / LW",
+          "url": "https://oopbuy.com/product/weidian/4879571903?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "62$ / 59$"
-    },
-    "col_7": {
-      "text": "Size up 0.5 EU size"
+      "text": "62$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0336"
+  }
 }

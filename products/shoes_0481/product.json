@@ -1,74 +1,56 @@
 {
-  "name": "Maison MargielaGATSBlack",
+  "name": "MMY Baker",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "H/Version1",
-  "best_batch_links": [
-    {
-      "label": "H",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563973209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "Version1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4689600987%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "budget",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "GOTA/budget",
   "budget_batch_links": [
     {
+      "label": "GOTA",
+      "url": "https://litbuy.com/product/weidian/7405205441?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7405205441?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F705562729612%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7409269418?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7409269418?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "56$ / 65$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "best_price": "",
+  "budget_price": "39$ / 29$",
+  "pics_text": "39$ / 29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwY76IOXTToI4ynd1Cjzqxqu9qz7xU23zH7_X-CyoE_K2a7ly4oNpF7I3Z43pIVOztyH5YYwAJSU6AJCCkMeAeNHcI5Z9slYTkj4k7m8rtGs8tPmBvMDuaUff8Uc-c_FHgFq2I4KHGXrA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxITdkbMml149n1NZLUdZpzmQLlFOR3S33YvGXpjp5FKCB3kphgWvPbK7csSQKR95AifzsZnp_B8fO4lQTKYRNQ9Kn4fTz9vp2e_ErUMAxpVWXmyCBvMCiuRLQKfqEC-y3F0-9-9LVqDOSh=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0481",
   "raw_cells": {
     "col_0": {
-      "text": "556"
+      "text": "554"
     },
     "col_1": {
-      "text": "Maison MargielaGATSBlack"
+      "text": "MMY Baker"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwY76IOXTToI4ynd1Cjzqxqu9qz7xU23zH7_X-CyoE_K2a7ly4oNpF7I3Z43pIVOztyH5YYwAJSU6AJCCkMeAeNHcI5Z9slYTkj4k7m8rtGs8tPmBvMDuaUff8Uc-c_FHgFq2I4KHGXrA=w143-h110"
-    },
-    "col_3": {
-      "text": "H/Version1",
-      "links": [
-        {
-          "label": "H",
-          "url": "https://oopbuy.com/product/weidian/7563973209?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "Version1",
-          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxITdkbMml149n1NZLUdZpzmQLlFOR3S33YvGXpjp5FKCB3kphgWvPbK7csSQKR95AifzsZnp_B8fO4lQTKYRNQ9Kn4fTz9vp2e_ErUMAxpVWXmyCBvMCiuRLQKfqEC-y3F0-9-9LVqDOSh=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "GOTA/budget",
       "links": [
         {
+          "label": "GOTA",
+          "url": "https://oopbuy.com/product/weidian/7405205441?inviteCode=29TOTHGNH"
+        },
+        {
           "label": "budget",
-          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7409269418?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "56$ / 65$"
-    },
     "col_6": {
-      "text": "37$"
+      "text": "39$ / 29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0481"
+  }
 }

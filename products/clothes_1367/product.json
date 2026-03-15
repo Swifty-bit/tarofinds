@@ -1,20 +1,20 @@
 {
-  "name": "Eric EmanuelBones Shorts3 Colours",
+  "name": "Eric EmanuelShorts SS238 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792691452297%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/792523315502?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792523315502?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "UnionKingdom",
   "budget_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,28 +24,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/151745163?uid=1"
+      "url": "https://angelking47.x.yupoo.com/albums/146646918?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwoYemFePziq0xmBEsiUC7CHpTkOV0KE5IRHxq-s4vhXdrBu25DES5NsMNSRsA0cCzzXCFSmC7IxtnrATwtT3-k8-nxXdswp3BLX0F5ks1Qax92GLZO6ufTiLldk6n4IPTBohtLdVGlTmpg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzfT17yfuIiAOmo0maYV_UWwYsJxeN6sou3ZuJqJEGtIkCN71qfMpxOm6AwsUu3s9TrMPQuQOkQlrGEfr2CofEYxYgaVTpKIxr8-hgb9fiBLvGQd5UyIYkGZNqvLmY-BJEGU0yiw0trMQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1367",
   "raw_cells": {
     "col_0": {
-      "text": "968"
+      "text": "964"
     },
     "col_1": {
-      "text": "Eric EmanuelBones Shorts3 Colours"
+      "text": "Eric EmanuelShorts SS238 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwoYemFePziq0xmBEsiUC7CHpTkOV0KE5IRHxq-s4vhXdrBu25DES5NsMNSRsA0cCzzXCFSmC7IxtnrATwtT3-k8-nxXdswp3BLX0F5ks1Qax92GLZO6ufTiLldk6n4IPTBohtLdVGlTmpg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzfT17yfuIiAOmo0maYV_UWwYsJxeN6sou3ZuJqJEGtIkCN71qfMpxOm6AwsUu3s9TrMPQuQOkQlrGEfr2CofEYxYgaVTpKIxr8-hgb9fiBLvGQd5UyIYkGZNqvLmY-BJEGU0yiw0trMQ=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/792523315502?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/151745163?uid=1"
+          "url": "https://angelking47.x.yupoo.com/albums/146646918?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1367"
+  }
 }

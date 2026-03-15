@@ -1,65 +1,47 @@
 {
-  "name": "Travis Scott Mocha Low",
+  "name": "Air Jordan 1 LowMocha",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK4.0",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "PK4.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7632127461%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7632127461?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/weidian/7266500495?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7266500495?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "PK4.0 B GRADE",
-  "budget_batch_links": [
-    {
-      "label": "PK4.0 B GRADE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327454526%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "60$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "59$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzwRpPCiYBEWLIDXdLKqr89PG4q2XAJ7I0PDm2FhTzcxcPAP83ZNq7BHkAhibnyX-PMb25jo4YDlnoaG02Vv6vyszIl-jblgz1qDc81YQAVS22YtYXGUHCYqRX3DFwJmwVSvSa9hBY3fw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6ZVSIw18HJFLXHD0MrQCY3mg5YiUkgV3OyRqzjhnPmm25y5hj0PTy7Bub_l5oZe7HkCHrD5iwl-sGVvVzrNgr_gWaX94mKdbuZ_lSZBQ98j17bCBCFWJuplwDIsGme4kR9tfRAra61g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0139",
   "raw_cells": {
     "col_0": {
       "text": "150"
     },
     "col_1": {
-      "text": "Travis Scott Mocha Low"
+      "text": "Air Jordan 1 LowMocha"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzwRpPCiYBEWLIDXdLKqr89PG4q2XAJ7I0PDm2FhTzcxcPAP83ZNq7BHkAhibnyX-PMb25jo4YDlnoaG02Vv6vyszIl-jblgz1qDc81YQAVS22YtYXGUHCYqRX3DFwJmwVSvSa9hBY3fw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6ZVSIw18HJFLXHD0MrQCY3mg5YiUkgV3OyRqzjhnPmm25y5hj0PTy7Bub_l5oZe7HkCHrD5iwl-sGVvVzrNgr_gWaX94mKdbuZ_lSZBQ98j17bCBCFWJuplwDIsGme4kR9tfRAra61g=w143-h110"
     },
     "col_3": {
-      "text": "PK4.0",
+      "text": "LJR",
       "links": [
         {
-          "label": "PK4.0",
-          "url": "https://oopbuy.com/product/weidian/7632127461?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "PK4.0 B GRADE",
-      "links": [
-        {
-          "label": "PK4.0 B GRADE",
-          "url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7266500495?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "60$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "59$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0139"
+  }
 }

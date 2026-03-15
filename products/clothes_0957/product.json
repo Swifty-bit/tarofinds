@@ -1,61 +1,90 @@
 {
-  "name": "Ami ParisShirt2 Colours",
+  "name": "Ami ParisMedium LogoT-Shirt4 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "TOPAMI",
   "best_batch_links": [
     {
       "label": "TOPAMI",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F699808872481%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/699808872481?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/710811694138?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/710811694138?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "40$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/887458204908?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/887458204908?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "20$",
+  "budget_price": "4$",
+  "pics_text": "TOPAMI/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://amiparis.x.yupoo.com/albums/172695604?uid=1"
+      "label": "TOPAMI",
+      "url": "https://amiparis.x.yupoo.com/albums/172737841?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1959783579627642882?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxACedg5K2X6572_O-7PkuWvdBx9VVbdO5RzFAgOcx-IjX8KYw45VIjBczr6vE43wZE6mMhFl-MnuWKGvKAZKbVMouTBZS5qUso2uEN7XHjf7HjUgUT2Q8OLVIaedFAjTy3hPqL2LFgrCbe=w143-h110",
+  "notes": "For the budget link, size up 2",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awon-VHCtQVC68UT6yRc9KAkaxmyCFOWzJjUu-G0fuu7S1ggin_Y3x0Yvc8hObv9Fp6MltQ3koIPXrhMces8N2Qwf1uih-7hZyQHQJiBJDSG69RAE4B0B4tYrNgTfd0mdUEtMfqrapIkg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0957",
   "raw_cells": {
     "col_0": {
-      "text": "488"
+      "text": "484"
     },
     "col_1": {
-      "text": "Ami ParisShirt2 Colours"
+      "text": "Ami ParisMedium LogoT-Shirt4 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxACedg5K2X6572_O-7PkuWvdBx9VVbdO5RzFAgOcx-IjX8KYw45VIjBczr6vE43wZE6mMhFl-MnuWKGvKAZKbVMouTBZS5qUso2uEN7XHjf7HjUgUT2Q8OLVIaedFAjTy3hPqL2LFgrCbe=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awon-VHCtQVC68UT6yRc9KAkaxmyCFOWzJjUu-G0fuu7S1ggin_Y3x0Yvc8hObv9Fp6MltQ3koIPXrhMces8N2Qwf1uih-7hZyQHQJiBJDSG69RAE4B0B4tYrNgTfd0mdUEtMfqrapIkg=w143-h110"
     },
     "col_3": {
       "text": "TOPAMI",
       "links": [
         {
           "label": "TOPAMI",
-          "url": "https://oopbuy.com/product/1/699808872481?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/710811694138?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/887458204908?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "40$"
+      "text": "20$"
+    },
+    "col_6": {
+      "text": "4$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "TOPAMI/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://amiparis.x.yupoo.com/albums/172695604?uid=1"
+          "label": "TOPAMI",
+          "url": "https://amiparis.x.yupoo.com/albums/172737841?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1959783579627642882?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "For the budget link, size up 2"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0957"
+  }
 }

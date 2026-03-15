@@ -1,12 +1,12 @@
 {
-  "name": "Lucky Green",
+  "name": "Pine Green",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "X",
   "best_batch_links": [
     {
       "label": "X",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312934130%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7312934130?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJ_u4daTVYrXoHvA48vl84UdWi9rDanga9z7xtP4Uf91LeNmIDaAZg7QLe_ROUNh78B4ZMc0VCVjItaZGnvG0JgqdcKLoly-lTSxCrkQq-R9MgiyBnp4VEq9u3_HeUpkNS0G5P36xVrg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax69xpeQrYLIlOlGVJGmgGURm4_tdHPKIOF29eXcpjivMVbBSUC3xxQO0FXKJpr_y6o4g70xbtzWzVNxZAfo-8l71Hxr5mUQjqkEUGAdoN17a62jHsGMqqjey6vKsgO1xH-_rxmpdVRrg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0207",
   "raw_cells": {
     "col_0": {
       "text": "220"
     },
     "col_1": {
-      "text": "Lucky Green"
+      "text": "Pine Green"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJ_u4daTVYrXoHvA48vl84UdWi9rDanga9z7xtP4Uf91LeNmIDaAZg7QLe_ROUNh78B4ZMc0VCVjItaZGnvG0JgqdcKLoly-lTSxCrkQq-R9MgiyBnp4VEq9u3_HeUpkNS0G5P36xVrg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax69xpeQrYLIlOlGVJGmgGURm4_tdHPKIOF29eXcpjivMVbBSUC3xxQO0FXKJpr_y6o4g70xbtzWzVNxZAfo-8l71Hxr5mUQjqkEUGAdoN17a62jHsGMqqjey6vKsgO1xH-_rxmpdVRrg=w143-h110"
     },
     "col_3": {
       "text": "X",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "63$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0207"
+  }
 }

@@ -1,69 +1,61 @@
 {
-  "name": "Strip SideSwim Shorts",
+  "name": "MarqueDown Jacket",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7469687474%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7469687474?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/981784229619?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/981784229619?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "23$",
+  "best_price": "111$",
   "budget_price": "",
-  "pics_text": "QC Pics/pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/794535431977"
-    },
-    {
       "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/161741637?uid=1&isSubCate=false&referrercate=4544589"
+      "url": "https://repscn.x.yupoo.com/albums/164991862?uid=1&isSubCate=false&referrercate=4729926"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyL1lvUbBzj-Ff4YqGQ4GZ-Nmur6CwoGxjcInCJBcsqmkFrrIz-b5TuShDsRhb8RV5v78L2eGPDSeuJezEdnu1nrupBvZI4g2VlzMPJcXtUOH6_ZEPzMCOqQ3qkUk5XMZK0Xgd6-CG8yxGq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayi4LJjkYVm65tkb67mxIeotvbl8breV1e3MYf0Y95wZNLyoSWzQX5426gjoOiabiMvJhN95BsVneYM1RX77N2x1kMal0u6OHzApjACFwn5b6JlV2PdmLM956m4LI_bPBAXROLBAgNa2Eyw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0809",
   "raw_cells": {
     "col_0": {
-      "text": "304"
+      "text": "300"
     },
     "col_1": {
-      "text": "Strip SideSwim Shorts"
+      "text": "MarqueDown Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyL1lvUbBzj-Ff4YqGQ4GZ-Nmur6CwoGxjcInCJBcsqmkFrrIz-b5TuShDsRhb8RV5v78L2eGPDSeuJezEdnu1nrupBvZI4g2VlzMPJcXtUOH6_ZEPzMCOqQ3qkUk5XMZK0Xgd6-CG8yxGq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayi4LJjkYVm65tkb67mxIeotvbl8breV1e3MYf0Y95wZNLyoSWzQX5426gjoOiabiMvJhN95BsVneYM1RX77N2x1kMal0u6OHzApjACFwn5b6JlV2PdmLM956m4LI_bPBAXROLBAgNa2Eyw=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7469687474?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/981784229619?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "23$"
+      "text": "111$"
     },
     "col_7": {
-      "text": "QC Pics/pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/794535431977"
-        },
-        {
           "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/161741637?uid=1&isSubCate=false&referrercate=4544589"
+          "url": "https://repscn.x.yupoo.com/albums/164991862?uid=1&isSubCate=false&referrercate=4729926"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0809"
+  }
 }

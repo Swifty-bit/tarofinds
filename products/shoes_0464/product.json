@@ -1,47 +1,47 @@
 {
-  "name": "Court High",
+  "name": "Skeleton High",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "ZZZTOPXX",
   "best_batch_links": [
     {
       "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6273721865%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6273721865?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/6686392320?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6686392320?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "76$",
+  "best_price": "92$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyCbpykpOjmY8o_DunJzclw74MhaOGKuoWmr56kMaAhKmATdZA29jxx9BhlxwLAkC_-RDp5PiPbCASalTsKNNo3CKOrQNbDJgLvKcLWRLI8V14N46yhHdeKHre6izPy3qIV8qpejTZorlHf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3q-fTDYk8TtujY4cyOwVnwJ3Zk_7dgRTYVENVtFi-ef6CnNkKkoO3wL4boTSQKKkGfwYLSpvGIR9rKKXNCptbGSHdYHRFEgBie_eMWqAOozR_QpWar07zOPta7Cf10jSf5eHnxHc98vgT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0464",
   "raw_cells": {
     "col_0": {
       "text": "527"
     },
     "col_1": {
-      "text": "Court High"
+      "text": "Skeleton High"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyCbpykpOjmY8o_DunJzclw74MhaOGKuoWmr56kMaAhKmATdZA29jxx9BhlxwLAkC_-RDp5PiPbCASalTsKNNo3CKOrQNbDJgLvKcLWRLI8V14N46yhHdeKHre6izPy3qIV8qpejTZorlHf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3q-fTDYk8TtujY4cyOwVnwJ3Zk_7dgRTYVENVtFi-ef6CnNkKkoO3wL4boTSQKKkGfwYLSpvGIR9rKKXNCptbGSHdYHRFEgBie_eMWqAOozR_QpWar07zOPta7Cf10jSf5eHnxHc98vgT=w143-h110"
     },
     "col_3": {
       "text": "ZZZTOPXX",
       "links": [
         {
           "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/2/6273721865?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/6686392320?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "76$"
+      "text": "92$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0464"
+  }
 }

@@ -1,20 +1,20 @@
 {
-  "name": "CorteizRule the WorldPants",
+  "name": "Corteiz Alcatraz Basic Pants",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653841035%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653841035?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656868326?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656868326?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "FFCP",
   "budget_batch_links": [
     {
       "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741488778477%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/741488778477?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,7 +24,7 @@
   "pics_links": [
     {
       "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/115252398?uid=1"
+      "url": "https://goat-official.x.yupoo.com/albums/142359590?uid=1"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyWKx4a0Lb0x3VM1IWEeZVPhBG9tJYyfaAKgryCaEs5UC7790DlAR3VUc6_fSHv3EeNVDzDA5BZwjLPX4SYTH9m6vHEnc75dY6R9cVqVpmD7ez2GQWSi1uyY_yv0VCFaFwjYQk_UVuR5GL9=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPenq3Zo_RiPQWEcfWnV_0QqGH02hfO2SGunDwxXBCPs-XwSw-DDhoSEh8BUzlRgFW-wt0fFSoOIX6aV5Sbw0xAy1jv0tvQgMg8uNVBVY53Y6dB3MrYYfGdUXzygayb7EuzBI8mJB3oh_v=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0674",
   "raw_cells": {
     "col_0": {
-      "text": "155"
+      "text": "151"
     },
     "col_1": {
-      "text": "CorteizRule the WorldPants"
+      "text": "Corteiz Alcatraz Basic Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWKx4a0Lb0x3VM1IWEeZVPhBG9tJYyfaAKgryCaEs5UC7790DlAR3VUc6_fSHv3EeNVDzDA5BZwjLPX4SYTH9m6vHEnc75dY6R9cVqVpmD7ez2GQWSi1uyY_yv0VCFaFwjYQk_UVuR5GL9=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPenq3Zo_RiPQWEcfWnV_0QqGH02hfO2SGunDwxXBCPs-XwSw-DDhoSEh8BUzlRgFW-wt0fFSoOIX6aV5Sbw0xAy1jv0tvQgMg8uNVBVY53Y6dB3MrYYfGdUXzygayb7EuzBI8mJB3oh_v=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653841035?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656868326?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -73,7 +75,7 @@
       "links": [
         {
           "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/115252398?uid=1"
+          "url": "https://goat-official.x.yupoo.com/albums/142359590?uid=1"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0674"
+  }
 }

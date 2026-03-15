@@ -1,38 +1,55 @@
 {
-  "name": "Sp5derHoodies / PantsMany Styles",
+  "name": "BelugaHoodie Red",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "PikaPikaGo",
+  "best_batch_links": [
+    {
+      "label": "PikaPikaGo",
+      "url": "https://litbuy.com/product/weidian/822861003462?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/822861003462?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F738347006278%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/738347006278?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "best_price": "21$(sale)",
   "budget_price": "14$",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/exploreMore/1853614311786217473"
+      "label": "pics",
+      "url": "https://pikachushop.x.yupoo.com/albums/177005497?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwNuxBvBaWpesiaXwbdSDZaxhJp2FPX5BxDJy6KeNVPS6Vww20ZNRppOLwb9TWaWHNM4TWyEUDn-yMLIDEEGQrJtWPExxVAsZSzsZdhKJmLn6pLElunrO6qncUxke6Zrs2vnQuAyHY_3q4S=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxywQkJWIcZsJmJ3XqQpMrKCUM__Q1Qvoh9YVrOk836UlfthijQNZI7J1jN1-iNFbgPGbcI6lUSAdiU7Qs-TEpfuByfA3uJcyYJeB7zO3GTykBO6zUJ8d7fEdSIkAQ1ly1fu1KhYzz5Vg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1329",
   "raw_cells": {
     "col_0": {
-      "text": "924"
+      "text": "920"
     },
     "col_1": {
-      "text": "Sp5derHoodies / PantsMany Styles"
+      "text": "BelugaHoodie Red"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwNuxBvBaWpesiaXwbdSDZaxhJp2FPX5BxDJy6KeNVPS6Vww20ZNRppOLwb9TWaWHNM4TWyEUDn-yMLIDEEGQrJtWPExxVAsZSzsZdhKJmLn6pLElunrO6qncUxke6Zrs2vnQuAyHY_3q4S=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxywQkJWIcZsJmJ3XqQpMrKCUM__Q1Qvoh9YVrOk836UlfthijQNZI7J1jN1-iNFbgPGbcI6lUSAdiU7Qs-TEpfuByfA3uJcyYJeB7zO3GTykBO6zUJ8d7fEdSIkAQ1ly1fu1KhYzz5Vg=w143-h110"
+    },
+    "col_3": {
+      "text": "PikaPikaGo",
+      "links": [
+        {
+          "label": "PikaPikaGo",
+          "url": "https://oopbuy.com/product/1/822861003462?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
@@ -43,19 +60,20 @@
         }
       ]
     },
+    "col_5": {
+      "text": "21$(sale)"
+    },
     "col_6": {
       "text": "14$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/exploreMore/1853614311786217473"
+          "label": "pics",
+          "url": "https://pikachushop.x.yupoo.com/albums/177005497?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1329"
+  }
 }

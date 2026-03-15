@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga x Adidas T-Shirt",
+  "name": "Balenciaga Jersey",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "1to1",
+  "best_batch": "Thunder",
   "best_batch_links": [
     {
-      "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6133510407%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6133510407?inviteCode=29TOTHGNH"
+      "label": "Thunder",
+      "url": "https://litbuy.com/product/taobao/7474037007?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7474037007?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "35$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/130749223?uid=1&isSubCate=false&referrercate=3984024"
+      "url": "https://thethunder.x.yupoo.com/albums/156945044?uid=1&isSubCate=false&referrercate=3972294"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwF3IcfHPiAbwMDNzI0PvtNUnsvHkYANRRI5KMnmfTpzeyApexdr4yJANS0ytYRuWjQzwqaSQabUTcUjnw4YZO5oPp8qWh-GNX88jl65VBkvPa9YdOjdf5TxEu98LRa_6yCqHY6eLDbfw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyaJ4uE-q69xWD7_TxHaFJVSny9gFKO7TkPsCHPg1lpyj-oDok4vyI0-FEEx8NxFeBCsXym_gfcEnj_hgc9YZexAMKdxyOnPC0NM6k2u1-6CX2Cf3F0D5YM0ssUDsMKs5TDR3c7Q1boBA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1253",
   "raw_cells": {
     "col_0": {
-      "text": "842"
+      "text": "838"
     },
     "col_1": {
-      "text": "Balenciaga x Adidas T-Shirt"
+      "text": "Balenciaga Jersey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwF3IcfHPiAbwMDNzI0PvtNUnsvHkYANRRI5KMnmfTpzeyApexdr4yJANS0ytYRuWjQzwqaSQabUTcUjnw4YZO5oPp8qWh-GNX88jl65VBkvPa9YdOjdf5TxEu98LRa_6yCqHY6eLDbfw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyaJ4uE-q69xWD7_TxHaFJVSny9gFKO7TkPsCHPg1lpyj-oDok4vyI0-FEEx8NxFeBCsXym_gfcEnj_hgc9YZexAMKdxyOnPC0NM6k2u1-6CX2Cf3F0D5YM0ssUDsMKs5TDR3c7Q1boBA=w143-h110"
     },
     "col_3": {
-      "text": "1to1",
+      "text": "Thunder",
       "links": [
         {
-          "label": "1to1",
-          "url": "https://oopbuy.com/product/2/6133510407?inviteCode=29TOTHGNH"
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/2/7474037007?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "35$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/130749223?uid=1&isSubCate=false&referrercate=3984024"
+          "url": "https://thethunder.x.yupoo.com/albums/156945044?uid=1&isSubCate=false&referrercate=3972294"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1253"
+  }
 }

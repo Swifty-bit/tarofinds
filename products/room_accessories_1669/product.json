@@ -1,61 +1,38 @@
 {
-  "name": "iPhoneRIMOWA Case",
+  "name": "1989 Batmobile",
   "category": "Room Accessories",
   "subcategory": "",
-  "best_batch": "here",
-  "best_batch_links": [
-    {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F953788689249%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/953788689249?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "/",
+  "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "8$",
+  "best_price": "68$",
   "budget_price": "",
-  "pics_text": "QC Pics",
-  "pics_links": [
-    {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1993144493551996930?action=discord&type=1&cid=1942512167859859457"
-    }
-  ],
+  "pics_text": "/",
+  "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzCcEfPeBHRVEnLiYqbdsAbyh67C6ZVugsyZ1bwEXC_Xe_wmwOUqhYqqaKdoNJX_hBLpTSzRkZiPUht3SPflDndgyVEyrxE9-fm8ZeNKRYuplB9d_KNGxCfMEdj164rezMtMnP8BAltS7nf=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzrsRKgtaA0hQv5sBOqOnhR8YK_jZaeTwsol4f5jSbur_jmt5cGdaUpaebIuLu1SnGSBhe1v7JHJ0Hy1R3H3m2YQDJ8JRZnNC5fb5fBsBR_92Tn9cm4b2HlntgTaK1kv9eYklr7rvk93Jsq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1669",
   "raw_cells": {
     "col_0": {
-      "text": "35"
+      "text": "25"
     },
     "col_1": {
-      "text": "iPhoneRIMOWA Case"
+      "text": "1989 Batmobile"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzCcEfPeBHRVEnLiYqbdsAbyh67C6ZVugsyZ1bwEXC_Xe_wmwOUqhYqqaKdoNJX_hBLpTSzRkZiPUht3SPflDndgyVEyrxE9-fm8ZeNKRYuplB9d_KNGxCfMEdj164rezMtMnP8BAltS7nf=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzrsRKgtaA0hQv5sBOqOnhR8YK_jZaeTwsol4f5jSbur_jmt5cGdaUpaebIuLu1SnGSBhe1v7JHJ0Hy1R3H3m2YQDJ8JRZnNC5fb5fBsBR_92Tn9cm4b2HlntgTaK1kv9eYklr7rvk93Jsq=w143-h110"
     },
     "col_3": {
-      "text": "here",
-      "links": [
-        {
-          "label": "here",
-          "url": "https://oopbuy.com/product/0/953788689249?inviteCode=29TOTHGNH"
-        }
-      ]
+      "text": "/"
     },
     "col_5": {
-      "text": "8$"
+      "text": "68$"
     },
     "col_7": {
-      "text": "QC Pics",
-      "links": [
-        {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1993144493551996930?action=discord&type=1&cid=1942512167859859457"
-        }
-      ]
+      "text": "/"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1669"
+  }
 }

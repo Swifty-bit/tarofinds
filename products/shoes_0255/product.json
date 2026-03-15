@@ -1,33 +1,50 @@
 {
-  "name": "Levi's White",
+  "name": "AMM 2024(A Ma Maniere)",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "GX",
+  "best_batch_links": [
+    {
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "KX",
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240378209?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "best_price": "79$",
+  "budget_price": "47$",
+  "pics_text": "47$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxTbFq4LWO3h-dqRdhmejdvcWjnDq_0EIHYS2gG7GmJoS3mj4l4WGfORrjIMoohgENzse7SU6VxWOvLSsO9Z_9FqfUWDmKA9gsawy1TF4iuoDcl6Fky_lAsIvi7JsecKX3pL5VATChfmXPh=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6iLswb06-0DCctnEDFOfLZ4tGT52inr4qquk0_HwO0PBrrNpe_xuK8pgki1tw1UDiPAMcVUHunU1pC9BD6qIqPfL_1IQ2D7Gc2BiN-tQyho59DqdIfy1VxCAX9JmTfo3GmvCKk8uQtR_C=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0255",
   "raw_cells": {
     "col_0": {
       "text": "270"
     },
     "col_1": {
-      "text": "Levi's White"
+      "text": "AMM 2024(A Ma Maniere)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxTbFq4LWO3h-dqRdhmejdvcWjnDq_0EIHYS2gG7GmJoS3mj4l4WGfORrjIMoohgENzse7SU6VxWOvLSsO9Z_9FqfUWDmKA9gsawy1TF4iuoDcl6Fky_lAsIvi7JsecKX3pL5VATChfmXPh=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6iLswb06-0DCctnEDFOfLZ4tGT52inr4qquk0_HwO0PBrrNpe_xuK8pgki1tw1UDiPAMcVUHunU1pC9BD6qIqPfL_1IQ2D7Gc2BiN-tQyho59DqdIfy1VxCAX9JmTfo3GmvCKk8uQtR_C=w143-h110"
+    },
+    "col_3": {
+      "text": "GX",
+      "links": [
+        {
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "KX",
@@ -38,10 +55,11 @@
         }
       ]
     },
+    "col_5": {
+      "text": "79$"
+    },
     "col_6": {
-      "text": "37$"
+      "text": "47$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0255"
+  }
 }

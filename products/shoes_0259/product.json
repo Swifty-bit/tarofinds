@@ -1,65 +1,65 @@
 {
-  "name": "Infrared",
+  "name": "Seafoam",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "RFA X/K",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "RFA X/K",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4629696344%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4629696344?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX",
+  "budget_batch": "NEW R1",
   "budget_batch_links": [
     {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+      "label": "NEW R1",
+      "url": "https://litbuy.com/product/taobao/7328101882?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "83$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "best_price": "66$",
+  "budget_price": "45$",
+  "pics_text": "45$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPsVOkvpv7s3he3FEjEOFGLPqy786VMRlmactFrixiABPaXwVWMdtFvDegS_m0bbOgwCpue4NOyLSFEAgPYI0-HEX-dROUKgFoqO_wL-Zpu9XpIf_w6L9L_Njaii-jzseoq81Fynbct7vz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw4qe_7GK1BqJJLmu2nmILPs2uq9mwZUIBpWn7IYpHex5-0XRIl17OAhcCsStGVxi_CdY9ki3iDg_-LyRM6RToZIoHprR6XDIkNXitSnZtRugHHs1htkRMUpr_4xibRNs4vSDByUP0Uekel=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0259",
   "raw_cells": {
     "col_0": {
       "text": "274"
     },
     "col_1": {
-      "text": "Infrared"
+      "text": "Seafoam"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPsVOkvpv7s3he3FEjEOFGLPqy786VMRlmactFrixiABPaXwVWMdtFvDegS_m0bbOgwCpue4NOyLSFEAgPYI0-HEX-dROUKgFoqO_wL-Zpu9XpIf_w6L9L_Njaii-jzseoq81Fynbct7vz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw4qe_7GK1BqJJLmu2nmILPs2uq9mwZUIBpWn7IYpHex5-0XRIl17OAhcCsStGVxi_CdY9ki3iDg_-LyRM6RToZIoHprR6XDIkNXitSnZtRugHHs1htkRMUpr_4xibRNs4vSDByUP0Uekel=w143-h110"
     },
     "col_3": {
-      "text": "RFA X/K",
+      "text": "GX",
       "links": [
         {
-          "label": "RFA X/K",
-          "url": "https://oopbuy.com/product/2/4629696344?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "KX",
+      "text": "NEW R1",
       "links": [
         {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+          "label": "NEW R1",
+          "url": "https://oopbuy.com/product/2/7328101882?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "83$"
+      "text": "66$"
     },
     "col_6": {
-      "text": "37$"
+      "text": "45$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0259"
+  }
 }

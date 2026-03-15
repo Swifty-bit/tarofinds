@@ -1,87 +1,61 @@
 {
-  "name": "Canada GooseWyndhamBlack Lable",
+  "name": "Canada GooseGarson VestBlack Lable",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "TopGoosey",
   "best_batch_links": [
     {
       "label": "TopGoosey",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1003618838005%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1003618838005?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/1003004007132?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1003004007132?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "palmmoose",
-  "budget_batch_links": [
-    {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F644521966774%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/644521966774?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "222$",
-  "budget_price": "60$",
-  "pics_text": "topgoosey/palmmoose",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "92$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "topgoosey",
-      "url": "https://topgoosey-01.x.yupoo.com/albums/192752556?uid=1"
-    },
-    {
-      "label": "palmmoose",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2009495477999980546?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192711152?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyYWJNRX6rSnPAsp_8hOBNkkkhgQVhU4nvMpMPrapL2z__GEbAivydnH2IkMbzEXKVSVEYGqlwBqVsqPyv5XoD-DoIGcUCUAdZQV2wepUtMNBFb3L1acE0CLl5oNJSRu_pqMBcVYBaAPg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzRM2MDlnqAhVcssDCtPoRj2QRVrkX3CuR2h00o5_6SGxkdrHR9Qn8Pqi3SyDgXWEv78hcbhvRt9CqteaFGzgIZQ07VHCn5GwtFP2zDx110blviY0epSoyigT4BwEKKe16Te4oOdT9nC5du=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1471",
   "raw_cells": {
     "col_0": {
-      "text": "1092"
+      "text": "1088"
     },
     "col_1": {
-      "text": "Canada GooseWyndhamBlack Lable"
+      "text": "Canada GooseGarson VestBlack Lable"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyYWJNRX6rSnPAsp_8hOBNkkkhgQVhU4nvMpMPrapL2z__GEbAivydnH2IkMbzEXKVSVEYGqlwBqVsqPyv5XoD-DoIGcUCUAdZQV2wepUtMNBFb3L1acE0CLl5oNJSRu_pqMBcVYBaAPg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzRM2MDlnqAhVcssDCtPoRj2QRVrkX3CuR2h00o5_6SGxkdrHR9Qn8Pqi3SyDgXWEv78hcbhvRt9CqteaFGzgIZQ07VHCn5GwtFP2zDx110blviY0epSoyigT4BwEKKe16Te4oOdT9nC5du=w143-h110"
     },
     "col_3": {
       "text": "TopGoosey",
       "links": [
         {
           "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1003618838005?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "palmmoose",
-      "links": [
-        {
-          "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/644521966774?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/1003004007132?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "222$"
-    },
-    "col_6": {
-      "text": "60$"
+      "text": "92$"
     },
     "col_7": {
-      "text": "topgoosey/palmmoose",
+      "text": "pics",
       "links": [
         {
-          "label": "topgoosey",
-          "url": "https://topgoosey-01.x.yupoo.com/albums/192752556?uid=1"
-        },
-        {
-          "label": "palmmoose",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2009495477999980546?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192711152?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1471"
+  }
 }

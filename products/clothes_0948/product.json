@@ -1,38 +1,59 @@
 {
-  "name": "Denim TearsHoodie and PantsMany Styles",
+  "name": "Denim TearsHoodie11 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "Angelking",
+  "best_batch_links": [
+    {
+      "label": "Angelking",
+      "url": "https://litbuy.com/product/weidian/1001952763181?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1001952763181?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "33TRENTE",
   "budget_batch_links": [
     {
       "label": "33TRENTE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F680415390619%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/680415390619?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "42$(SET)",
-  "pics_text": "QC Pics",
+  "best_price": "47$",
+  "budget_price": "22$",
+  "pics_text": "angelking/33trente",
   "pics_links": [
     {
-      "label": "QC Pics",
+      "label": "angelking",
+      "url": "https://louisangelking.x.yupoo.com/search/album?uid=1&sort=&q=1001952763181"
+    },
+    {
+      "label": "33trente",
       "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "set 42$ - hoodie 21$ - pants 21$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXyl_miSOrYpdEpTyZA3MarY_46SC5aWi9a2d8c2fauwqwrDIgZsvxMyK9dvPqH-6lONXekQKeWxAQWZqcjoSTC-r-snDn4oa7zXkLkTAx0q10DJHZ9gaT-P5ONQTucFhiBEV-IYPGLGA6=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AywprnkEYkes1bDQTh0nRfKaSrc6R7KWAvOYSw7vIVpFG9rQG-aa4UkAu2uJDR1vpuh6QDU-KZ7glHi_dx3sO2vmCYUfLyhw4rpBDkw2C86dVFXEvozUsfJ21N6aCfHFQnr_d13rh2INQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0948",
   "raw_cells": {
     "col_0": {
-      "text": "477"
+      "text": "473"
     },
     "col_1": {
-      "text": "Denim TearsHoodie and PantsMany Styles"
+      "text": "Denim TearsHoodie11 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXyl_miSOrYpdEpTyZA3MarY_46SC5aWi9a2d8c2fauwqwrDIgZsvxMyK9dvPqH-6lONXekQKeWxAQWZqcjoSTC-r-snDn4oa7zXkLkTAx0q10DJHZ9gaT-P5ONQTucFhiBEV-IYPGLGA6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AywprnkEYkes1bDQTh0nRfKaSrc6R7KWAvOYSw7vIVpFG9rQG-aa4UkAu2uJDR1vpuh6QDU-KZ7glHi_dx3sO2vmCYUfLyhw4rpBDkw2C86dVFXEvozUsfJ21N6aCfHFQnr_d13rh2INQ=w143-h110"
+    },
+    "col_3": {
+      "text": "Angelking",
+      "links": [
+        {
+          "label": "Angelking",
+          "url": "https://oopbuy.com/product/1/1001952763181?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "33TRENTE",
@@ -43,22 +64,24 @@
         }
       ]
     },
+    "col_5": {
+      "text": "47$"
+    },
     "col_6": {
-      "text": "42$(SET)"
+      "text": "22$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "angelking/33trente",
       "links": [
         {
-          "label": "QC Pics",
+          "label": "angelking",
+          "url": "https://louisangelking.x.yupoo.com/search/album?uid=1&sort=&q=1001952763181"
+        },
+        {
+          "label": "33trente",
           "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 42$ - hoodie 21$ - pants 21$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0948"
+  }
 }

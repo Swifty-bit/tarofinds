@@ -1,56 +1,47 @@
 {
-  "name": "Ugg Tazz",
+  "name": "Birkenstock Arizona",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "FS/here",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "FS",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7549055256%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
-    },
-    {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7279961466%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7234183359?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7234183359?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "31$ / 42$",
+  "best_price": "22$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjXzPen-JN9olmcCsZCUbSgJqHgs5sFmCG350ftfx4hoaeJj-aX843wvooLabBGVMaCNVOryExegs60MPnJqfMRXJ6Y9ENRtX5nu1j6THPhxG3D_KZF_zs5BvXM9amiv0rzUcWvm1Znw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw7ZNFXK8rHmo-08lc5gT9rSEV6IJQK1LPh_Zyk-xJkg6KayElG5g-8eRXQtssr8ZC8B_nZ-QxsftREtmMxb_Fje1ox8V6uyLWOk5kRV6cNaBNT44i3m-kZU4Ese5xbqsw8I695SHyFCw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0518",
   "raw_cells": {
     "col_0": {
-      "text": "627"
+      "text": "625"
     },
     "col_1": {
-      "text": "Ugg Tazz"
+      "text": "Birkenstock Arizona"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjXzPen-JN9olmcCsZCUbSgJqHgs5sFmCG350ftfx4hoaeJj-aX843wvooLabBGVMaCNVOryExegs60MPnJqfMRXJ6Y9ENRtX5nu1j6THPhxG3D_KZF_zs5BvXM9amiv0rzUcWvm1Znw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw7ZNFXK8rHmo-08lc5gT9rSEV6IJQK1LPh_Zyk-xJkg6KayElG5g-8eRXQtssr8ZC8B_nZ-QxsftREtmMxb_Fje1ox8V6uyLWOk5kRV6cNaBNT44i3m-kZU4Ese5xbqsw8I695SHyFCw=w143-h110"
     },
     "col_3": {
-      "text": "FS/here",
+      "text": "here",
       "links": [
         {
-          "label": "FS",
-          "url": "https://oopbuy.com/product/weidian/7549055256?inviteCode=29TOTHGNH"
-        },
-        {
           "label": "here",
-          "url": "https://oopbuy.com/product/2/7279961466?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7234183359?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "31$ / 42$"
+      "text": "22$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0518"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Acne StudiosDown Jacket2 Colors",
+  "name": "Acne Studio1981 JeansMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "i795",
+  "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
-      "label": "i795",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F848051179401%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/848051179401?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/876474890181?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/876474890181?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "85$",
+  "best_price": "52$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924258958891126786?action=discord&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/categories/4963095"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7-gkSRgm4bTAfXCL-vDXrO8RgEaqngaQ8zj9AzUtKFZgW7te0In4QGpOu2nbqlJM6lUzsgkbeJHPgKmKc_Hedkz5uS4qD6iHSeMxHTvXU44kh3DpcdYL9lijc6JMJx4fZ5856P3A7RLX1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzugBEpOeFjKhwLAXftnUsRAXU0lCQtiGDzoUf-2WHkaKUOqDemlbuXIJL2gP8qjB4GH9ByDf-7BRbaVrVdhMciM0i64Y1ozkhaWQJaRxWo1MVmrFJMVGwvzzQYeOY4DWZ3zf0LkQJ4vQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1156",
   "raw_cells": {
     "col_0": {
-      "text": "719"
+      "text": "715"
     },
     "col_1": {
-      "text": "Acne StudiosDown Jacket2 Colors"
+      "text": "Acne Studio1981 JeansMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7-gkSRgm4bTAfXCL-vDXrO8RgEaqngaQ8zj9AzUtKFZgW7te0In4QGpOu2nbqlJM6lUzsgkbeJHPgKmKc_Hedkz5uS4qD6iHSeMxHTvXU44kh3DpcdYL9lijc6JMJx4fZ5856P3A7RLX1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzugBEpOeFjKhwLAXftnUsRAXU0lCQtiGDzoUf-2WHkaKUOqDemlbuXIJL2gP8qjB4GH9ByDf-7BRbaVrVdhMciM0i64Y1ozkhaWQJaRxWo1MVmrFJMVGwvzzQYeOY4DWZ3zf0LkQJ4vQ=w143-h110"
     },
     "col_3": {
-      "text": "i795",
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "i795",
-          "url": "https://oopbuy.com/product/1/848051179401?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/876474890181?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "85$"
+      "text": "52$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924258958891126786?action=discord&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/categories/4963095"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1156"
+  }
 }

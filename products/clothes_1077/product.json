@@ -6,7 +6,7 @@
   "best_batch_links": [
     {
       "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7512716331%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7512716331?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7512716331?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
     }
   ],
@@ -32,17 +32,19 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzOI7Kfup-V5Ri26yl0G7UykPTVxgdDKNA15tZnn4OFvJZiodehsNa4QZvdQIK5aaTFYj9oyeYiBppPkvHN5NChxDAWNFpicmwqepTr5f7siDnXthvOq3-Fhc0BKPrXdZexr5bA_lWrAuGJ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyasgB71rTRDN0PDWhoLk_xFRGCWvvzmIENMoSVLDVMomX9IOPuXRY8ykjG8m8S2Kw6cF48YWbqNbzM9vvPtWcUgxZiLUKjowxq1hT4_LQc6ucriSyw2s43fVAVAH42PpNwAwbbkBUfwYol=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1077",
   "raw_cells": {
     "col_0": {
-      "text": "628"
+      "text": "624"
     },
     "col_1": {
       "text": "MertraGingham Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzOI7Kfup-V5Ri26yl0G7UykPTVxgdDKNA15tZnn4OFvJZiodehsNa4QZvdQIK5aaTFYj9oyeYiBppPkvHN5NChxDAWNFpicmwqepTr5f7siDnXthvOq3-Fhc0BKPrXdZexr5bA_lWrAuGJ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyasgB71rTRDN0PDWhoLk_xFRGCWvvzmIENMoSVLDVMomX9IOPuXRY8ykjG8m8S2Kw6cF48YWbqNbzM9vvPtWcUgxZiLUKjowxq1hT4_LQc6ucriSyw2s43fVAVAH42PpNwAwbbkBUfwYol=w143-h110"
     },
     "col_3": {
       "text": "pengreps",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1077"
+  }
 }

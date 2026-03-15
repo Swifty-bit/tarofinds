@@ -1,61 +1,61 @@
 {
-  "name": "Burberry Cap",
+  "name": "Burberry Reversible Windbreaker",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "ogwave",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "ogwave",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7435192170%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7435192170?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/902061632487?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/902061632487?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "19$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "55$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://ogwave.x.yupoo.com/albums/176446436?uid=1&isSubCate=false&referrercate=4687632"
+      "label": "QC Pics",
+      "url": "https://doppel.fit/item/1688/902061632487"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUozbVYSQigOqEDK2QPK3IBorMfXM-SQqcziEj9DoVuUyuhQ-CZZDTFZXjicdV7EiAnpII3bKI9B84MF3R78e62gfbr7QTUEzXUj1EmWJW_-obTSPiXlJ7pJnIOc0xwPSsta6CxFDw7w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxkggPPcp1NyfGMd5H7Fzg2uJlwOO4pth0KEBxp25U2Fa83yyI8VtssAbSZzVZ4CRk1Pw7Wm7Ci6RsAWbWRkDQUXN63Ed0NfCXBfQJuMYvtXLTU8-QSGOORfrLcB_TqgOePHNpVmiFR6cTi=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1408",
   "raw_cells": {
     "col_0": {
-      "text": "1015"
+      "text": "1011"
     },
     "col_1": {
-      "text": "Burberry Cap"
+      "text": "Burberry Reversible Windbreaker"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUozbVYSQigOqEDK2QPK3IBorMfXM-SQqcziEj9DoVuUyuhQ-CZZDTFZXjicdV7EiAnpII3bKI9B84MF3R78e62gfbr7QTUEzXUj1EmWJW_-obTSPiXlJ7pJnIOc0xwPSsta6CxFDw7w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxkggPPcp1NyfGMd5H7Fzg2uJlwOO4pth0KEBxp25U2Fa83yyI8VtssAbSZzVZ4CRk1Pw7Wm7Ci6RsAWbWRkDQUXN63Ed0NfCXBfQJuMYvtXLTU8-QSGOORfrLcB_TqgOePHNpVmiFR6cTi=w143-h110"
     },
-    "col_3": {
-      "text": "ogwave",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "ogwave",
-          "url": "https://www.oopbuy.com/product/weidian/7435192170?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/902061632487?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "19$"
+    "col_6": {
+      "text": "55$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://ogwave.x.yupoo.com/albums/176446436?uid=1&isSubCate=false&referrercate=4687632"
+          "label": "QC Pics",
+          "url": "https://doppel.fit/item/1688/902061632487"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1408"
+  }
 }

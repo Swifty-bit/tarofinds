@@ -1,61 +1,87 @@
 {
-  "name": "CorteizMula Guerillaz Shorts4 Colours",
+  "name": "CorteizDenimShorts Jeans",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653795529%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653795529?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656888000?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656888000?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "11$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/753380910952?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/753380910952?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "32$",
+  "budget_price": "15$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official.x.yupoo.com/albums/116401908?uid=1"
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/147648341?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1880888331555934210"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyVWI2Krj8l4PfHe2xhJ8MlIrODa73nuHXWERci_YNI0bjSe5ZnVsakD4eoMyuLHXjT3GkLYXbLcxoHILWsUQV-pT3f4mMdAFjAHofWK4RXT5QDvn1PNHSxrpUDjapULF8OlXv32k6Sw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AziCgxOf5AaeEJha56nlBjZq_ypgE8s1LyhsvOHb8uYD2yvXVycy0zaYUEXhTk1LjvH1ZrA0-mdYGuheiO1lnCE2lj62XVSjGjtM9EujWXEYE1ae9Fva66_Wl6n-eR4YaC0ujGukNPPvYyw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0693",
   "raw_cells": {
     "col_0": {
-      "text": "174"
+      "text": "170"
     },
     "col_1": {
-      "text": "CorteizMula Guerillaz Shorts4 Colours"
+      "text": "CorteizDenimShorts Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyVWI2Krj8l4PfHe2xhJ8MlIrODa73nuHXWERci_YNI0bjSe5ZnVsakD4eoMyuLHXjT3GkLYXbLcxoHILWsUQV-pT3f4mMdAFjAHofWK4RXT5QDvn1PNHSxrpUDjapULF8OlXv32k6Sw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AziCgxOf5AaeEJha56nlBjZq_ypgE8s1LyhsvOHb8uYD2yvXVycy0zaYUEXhTk1LjvH1ZrA0-mdYGuheiO1lnCE2lj62XVSjGjtM9EujWXEYE1ae9Fva66_Wl6n-eR4YaC0ujGukNPPvYyw=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653795529?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656888000?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/753380910952?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "11$"
+      "text": "32$"
+    },
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official.x.yupoo.com/albums/116401908?uid=1"
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/147648341?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1880888331555934210"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0693"
+  }
 }

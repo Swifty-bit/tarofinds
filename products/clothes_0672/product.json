@@ -1,87 +1,61 @@
 {
-  "name": "Corteiz Alcatraz Basic PantsBlack/Black",
+  "name": "CorteizLong SleeveT-Shirt18 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT",
-  "best_batch_links": [
-    {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656813088%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656813088?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "FFCP",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741488778477%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/800483848396?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/800483848396?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "27$",
-  "budget_price": "14$",
-  "pics_text": "best/budget",
+  "best_price": "",
+  "budget_price": "11$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/128077655?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1977923265986387969?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySWE6zBgaoUDF6oKslMGOt8EEazL4wAo8W8SqraroZR88rZ3COTXP7vExpxL37Mnx0syKQpd6KGHkZ8FFBGnqa86KLDrSeNZUe1_xiJ5mcQUzV1tBUdogHbTUk0KftTtHF3O1VOH9cTSt0=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyN8qsSm_bDNPG-JbNhTiqeWEbxWjgZjcHHa8hQ6583VqnMYQjZduEUwarmGh0tcmiAwTjBncry-KeQGKeYXV1-YE0RrXJA_9hucgiKTzOZ1R5nvkpge7yjE9ymoZ9PMyliVIhDrDk0L9Dq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0672",
   "raw_cells": {
     "col_0": {
-      "text": "153"
+      "text": "149"
     },
     "col_1": {
-      "text": "Corteiz Alcatraz Basic PantsBlack/Black"
+      "text": "CorteizLong SleeveT-Shirt18 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySWE6zBgaoUDF6oKslMGOt8EEazL4wAo8W8SqraroZR88rZ3COTXP7vExpxL37Mnx0syKQpd6KGHkZ8FFBGnqa86KLDrSeNZUe1_xiJ5mcQUzV1tBUdogHbTUk0KftTtHF3O1VOH9cTSt0=w143-h110"
-    },
-    "col_3": {
-      "text": "GOAT",
-      "links": [
-        {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656813088?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyN8qsSm_bDNPG-JbNhTiqeWEbxWjgZjcHHa8hQ6583VqnMYQjZduEUwarmGh0tcmiAwTjBncry-KeQGKeYXV1-YE0RrXJA_9hucgiKTzOZ1R5nvkpge7yjE9ymoZ9PMyliVIhDrDk0L9Dq=w143-h110"
     },
     "col_4": {
-      "text": "FFCP",
+      "text": "budget",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/800483848396?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "27$"
-    },
     "col_6": {
-      "text": "14$"
+      "text": "11$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/128077655?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1977923265986387969?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0672"
+  }
 }

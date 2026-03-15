@@ -1,87 +1,61 @@
 {
-  "name": "Palm AngelsTrack Jacket",
+  "name": "Palm AngelsYellow LettersOversize T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F962611323620%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/962611323620?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/964353452753?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/964353452753?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F747897258427%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/747897258427?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "43$",
-  "budget_price": "12$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "29$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=962611323620"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1920646166054223873?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://repsbro.x.yupoo.com/albums/205540213?uid=1&isSubCate=false&referrercate=4971731"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZXZtgqIGBE9KEMvajsbFvni2REEzGckONS6y-AGC09w09HmpNp93iaRinGdTBP75u_uTpPVqD5lJI-YXNmOTQ_F7_Gm52LELAFQ4i7LwNlHN_lf8OhttF9EfH49bOMm9ccJoPyGv0Lk1y=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzIgDCbifkH3t0Qn3_eBOe5ZtWFa83xLP68i_QgygHAZnJVD0mS8VQPQaqALtKJV2l1ifQls9ajhtgHuZA8S3FtBZTx1ew5cMPgoeH2UMKoOl4R0tSAJoTQrCbMmMd64JKslnOh2tOIEJGH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0920",
   "raw_cells": {
     "col_0": {
-      "text": "445"
+      "text": "441"
     },
     "col_1": {
-      "text": "Palm AngelsTrack Jacket"
+      "text": "Palm AngelsYellow LettersOversize T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZXZtgqIGBE9KEMvajsbFvni2REEzGckONS6y-AGC09w09HmpNp93iaRinGdTBP75u_uTpPVqD5lJI-YXNmOTQ_F7_Gm52LELAFQ4i7LwNlHN_lf8OhttF9EfH49bOMm9ccJoPyGv0Lk1y=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzIgDCbifkH3t0Qn3_eBOe5ZtWFa83xLP68i_QgygHAZnJVD0mS8VQPQaqALtKJV2l1ifQls9ajhtgHuZA8S3FtBZTx1ew5cMPgoeH2UMKoOl4R0tSAJoTQrCbMmMd64JKslnOh2tOIEJGH=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/962611323620?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/747897258427?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/964353452753?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
-    },
-    "col_6": {
-      "text": "12$"
+      "text": "29$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://repsbro.x.yupoo.com/search/album?uid=1&sort=&q=962611323620"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1920646166054223873?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://repsbro.x.yupoo.com/albums/205540213?uid=1&isSubCate=false&referrercate=4971731"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0920"
+  }
 }

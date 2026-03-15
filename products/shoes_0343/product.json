@@ -1,56 +1,47 @@
 {
-  "name": "Yeezy 700 v3",
+  "name": "Yeezy 700 v2",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LW/G",
+  "best_batch": "LW",
   "best_batch_links": [
     {
       "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4479608569%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4479608569?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "G",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564066155%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564066155?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7565960310?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565960310?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "67$",
+  "best_price": "59$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az_jEq0_wU2-UyKlLnIg75elozQaT0dsMCzNm7Uin03dFOx44QsCABytBHXWCyHTHBxaZGn6HMrl__Wn7LgIeSJ5UG8VS3u4AsF4y5yTqU418EMBLTjUrN9UeNBPTvqNFFKz0Zgw66yf00K=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzzviVMl9XDWFfbSExVsdcjIBnjmnPIAXP6xLddzZ8YekmewNaUDlJkhhV-uNzBp_jc1O5UE2RQZkxeJsAYpxuntzF3b7drdfZZpV0Bm-cGZcir8po0kfdk2mCbFTdT-HhSzSyScwgtiamQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0343",
   "raw_cells": {
     "col_0": {
       "text": "374"
     },
     "col_1": {
-      "text": "Yeezy 700 v3"
+      "text": "Yeezy 700 v2"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az_jEq0_wU2-UyKlLnIg75elozQaT0dsMCzNm7Uin03dFOx44QsCABytBHXWCyHTHBxaZGn6HMrl__Wn7LgIeSJ5UG8VS3u4AsF4y5yTqU418EMBLTjUrN9UeNBPTvqNFFKz0Zgw66yf00K=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzzviVMl9XDWFfbSExVsdcjIBnjmnPIAXP6xLddzZ8YekmewNaUDlJkhhV-uNzBp_jc1O5UE2RQZkxeJsAYpxuntzF3b7drdfZZpV0Bm-cGZcir8po0kfdk2mCbFTdT-HhSzSyScwgtiamQ=w143-h110"
     },
     "col_3": {
-      "text": "LW/G",
+      "text": "LW",
       "links": [
         {
           "label": "LW",
-          "url": "https://oopbuy.com/product/weidian/4479608569?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "G",
-          "url": "https://oopbuy.com/product/weidian/7564066155?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7565960310?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "67$"
+      "text": "59$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0343"
+  }
 }

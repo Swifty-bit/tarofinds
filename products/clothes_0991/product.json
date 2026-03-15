@@ -1,61 +1,61 @@
 {
-  "name": "PerformanceZipped Hoodie",
+  "name": "Out of the ShadowsHoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341475215%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7341475215?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7342530434?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7342530434?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "35$",
+  "best_price": "30$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/151503472?uid=1&isSubCate=false&referrercate=4098105"
+      "url": "https://hotdog-official.x.yupoo.com/albums/138685201?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLVM1V7kTTyGOU4g53RMMFtc4ERA6IsmSKERggE6iP2pPG_0QtIh2GbgJv46qfDczBlW7wRp9v2Il9SCGvOvZDyDKoSdBeWAzQ1skIqtTmo6iAEwT6ZsugNAXZJNPb-_b9xXjiGyI3qQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-J6amunsUMmsH6pbgOaVKonnU7Xdwp5NQlZkoFZVyqfq-_OvgUqnwbTPy7XdTmWI9YNSMN0pQYdKFyHnavQS5fj9ViQq48ZGmqsFBxWu2U-KFzOlLpsNpw9rvs1VOMCWnyBvHCLFarzSz=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0991",
   "raw_cells": {
     "col_0": {
-      "text": "528"
+      "text": "524"
     },
     "col_1": {
-      "text": "PerformanceZipped Hoodie"
+      "text": "Out of the ShadowsHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLVM1V7kTTyGOU4g53RMMFtc4ERA6IsmSKERggE6iP2pPG_0QtIh2GbgJv46qfDczBlW7wRp9v2Il9SCGvOvZDyDKoSdBeWAzQ1skIqtTmo6iAEwT6ZsugNAXZJNPb-_b9xXjiGyI3qQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-J6amunsUMmsH6pbgOaVKonnU7Xdwp5NQlZkoFZVyqfq-_OvgUqnwbTPy7XdTmWI9YNSMN0pQYdKFyHnavQS5fj9ViQq48ZGmqsFBxWu2U-KFzOlLpsNpw9rvs1VOMCWnyBvHCLFarzSz=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7341475215?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7342530434?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
+      "text": "30$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/151503472?uid=1&isSubCate=false&referrercate=4098105"
+          "url": "https://hotdog-official.x.yupoo.com/albums/138685201?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0991"
+  }
 }

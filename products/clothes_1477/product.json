@@ -1,87 +1,104 @@
 {
-  "name": "Canada GooseCrofton",
+  "name": "Canada GooseMacmillanBlack Lable",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Chaoren",
+  "best_batch": "TopGoosey",
   "best_batch_links": [
     {
-      "label": "Chaoren",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F846696288977%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/846696288977?inviteCode=29TOTHGNH"
+      "label": "TopGoosey",
+      "url": "https://litbuy.com/product/weidian/1003627742899?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1003627742899?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "ZZZTOPXX/palmmoose",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F822552249187%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/822552249187?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "205$",
-  "budget_price": "85$",
-  "pics_text": "chaoren/budget",
-  "pics_links": [
-    {
-      "label": "chaoren",
-      "url": "https://chaorenqihaodian.x.yupoo.com/categories/697594?isSubCate=true"
+      "label": "ZZZTOPXX",
+      "url": "https://litbuy.com/product/weidian/6911947172?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6911947172?inviteCode=29TOTHGNH"
     },
     {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1967050881318346753?action=discord&type=1&cid=1942512167859859457"
+      "label": "palmmoose",
+      "url": "https://litbuy.com/product/weidian/654795917931?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/654795917931?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "184$",
+  "budget_price": "130$ / 55$",
+  "pics_text": "topgoosey/zzztopxx/palmmoose",
+  "pics_links": [
+    {
+      "label": "topgoosey",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/220709750?uid=1"
+    },
+    {
+      "label": "zzztopxx",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1920572679265005570?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "palmmoose",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1891586784264531970?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwgPD29xbhkVYt83rVxufFp3mkh44MyOqiYJ0HgZr7lc4dxy-izdehPOWFxEL17nffpka1AM1hjOePUgYnziKErR2rrGCdw3W0cz-8WHWS7T857xk_-lmCEaMLkElIYJG1l3Ee_cwL_aTeP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxyNSuj0iwKbFihFWWFvyG5K5gqqaWy11EDT3iXEjHPbsuifq074jR8qEZBBhalUoN-rFE9bo1HWhhwgA_gT9UOUxyM7z23ujsyvv3ldyJd__ldQ9v2hqEiXms8D4sa_Lj9JivNzvolz2Jj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1477",
   "raw_cells": {
     "col_0": {
-      "text": "1098"
+      "text": "1094"
     },
     "col_1": {
-      "text": "Canada GooseCrofton"
+      "text": "Canada GooseMacmillanBlack Lable"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwgPD29xbhkVYt83rVxufFp3mkh44MyOqiYJ0HgZr7lc4dxy-izdehPOWFxEL17nffpka1AM1hjOePUgYnziKErR2rrGCdw3W0cz-8WHWS7T857xk_-lmCEaMLkElIYJG1l3Ee_cwL_aTeP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxyNSuj0iwKbFihFWWFvyG5K5gqqaWy11EDT3iXEjHPbsuifq074jR8qEZBBhalUoN-rFE9bo1HWhhwgA_gT9UOUxyM7z23ujsyvv3ldyJd__ldQ9v2hqEiXms8D4sa_Lj9JivNzvolz2Jj=w143-h110"
     },
     "col_3": {
-      "text": "Chaoren",
+      "text": "TopGoosey",
       "links": [
         {
-          "label": "Chaoren",
-          "url": "https://oopbuy.com/product/1/846696288977?inviteCode=29TOTHGNH"
+          "label": "TopGoosey",
+          "url": "https://oopbuy.com/product/1/1003627742899?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "ZZZTOPXX/palmmoose",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/822552249187?inviteCode=29TOTHGNH"
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/weidian/6911947172?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "palmmoose",
+          "url": "https://oopbuy.com/product/0/654795917931?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "205$"
+      "text": "184$"
     },
     "col_6": {
-      "text": "85$"
+      "text": "130$ / 55$"
     },
     "col_7": {
-      "text": "chaoren/budget",
+      "text": "topgoosey/zzztopxx/palmmoose",
       "links": [
         {
-          "label": "chaoren",
-          "url": "https://chaorenqihaodian.x.yupoo.com/categories/697594?isSubCate=true"
+          "label": "topgoosey",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/220709750?uid=1"
         },
         {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1967050881318346753?action=discord&type=1&cid=1942512167859859457"
+          "label": "zzztopxx",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1920572679265005570?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "palmmoose",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1891586784264531970?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1477"
+  }
 }

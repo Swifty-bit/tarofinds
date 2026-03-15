@@ -1,61 +1,61 @@
 {
-  "name": "Ralph Lauren Hoodie5 Colors",
+  "name": "Ralph LaurenLong Sleeves POLO4 Colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7292847466%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7292847466?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/weidian/7540036928?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7540036928?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "21$",
+  "best_price": "24$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://newdp.x.yupoo.com/albums/176448051?uid=1"
+      "url": "https://repkingdom.x.yupoo.com/albums/208719267?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXqjKqp7W1ctShJXbeQRH77fuJKbxsRYwUVnH0NA0JesrEIbg2X0tvYv6Goj-NygdGnXjogrJlJWgytSk0KDvIIU6SHY2dPXkAtMzHzHO10Gs0_wyqirhedbdLotPCxt_XIW6jGDqO9Bfs=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay7cGTfkpOhSfS23tiV0wGbsFnbfXFtxw5__zKyHeIDLGe0OW0OxRfNaKI7Bw34m_HvjnWn7f7Z80rDt81YKHC-Ak04QTHSkULFIesgauo0-Vuutek8OFbL5ABilQLPPnULB-zdCe4XQ3JT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0612",
   "raw_cells": {
     "col_0": {
-      "text": "83"
+      "text": "79"
     },
     "col_1": {
-      "text": "Ralph Lauren Hoodie5 Colors"
+      "text": "Ralph LaurenLong Sleeves POLO4 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXqjKqp7W1ctShJXbeQRH77fuJKbxsRYwUVnH0NA0JesrEIbg2X0tvYv6Goj-NygdGnXjogrJlJWgytSk0KDvIIU6SHY2dPXkAtMzHzHO10Gs0_wyqirhedbdLotPCxt_XIW6jGDqO9Bfs=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay7cGTfkpOhSfS23tiV0wGbsFnbfXFtxw5__zKyHeIDLGe0OW0OxRfNaKI7Bw34m_HvjnWn7f7Z80rDt81YKHC-Ak04QTHSkULFIesgauo0-Vuutek8OFbL5ABilQLPPnULB-zdCe4XQ3JT=w143-h110"
     },
     "col_3": {
-      "text": "NEWDP",
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://oopbuy.com/product/weidian/7292847466?inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/weidian/7540036928?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "21$"
+      "text": "24$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://newdp.x.yupoo.com/albums/176448051?uid=1"
+          "url": "https://repkingdom.x.yupoo.com/albums/208719267?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0612"
+  }
 }

@@ -1,104 +1,61 @@
 {
-  "name": "Canada GooseWyndhamRed Lable",
+  "name": "Canada GooseGarson VestRed Lable",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "TopGoosey",
   "best_batch_links": [
     {
       "label": "TopGoosey",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1003615402050%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1003615402050?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/1003004007132?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1003004007132?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "ZZZTOPXX/palmmoose",
-  "budget_batch_links": [
-    {
-      "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F2%2F6495705868%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/2/6495705868?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F644521966774%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/644521966774?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "222$",
-  "budget_price": "100$ / 60$",
-  "pics_text": "topgoosey/ZZTOPXX/palmmoose",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "92$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "topgoosey",
-      "url": "https://topgoosey-01.x.yupoo.com/albums/192753795?uid=1"
-    },
-    {
-      "label": "ZZTOPXX",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2005603603497177089?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "palmmoose",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2009495477999980546?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192721270?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axiv1RyYicW12LwU4qNgFGh-KFQjYvfbD6PmvjSXXNPdRnGMl2ShuOKGlB33OtpOScTHIVtH0_LlBWFb1D0AjHF675PJ3WqzzClZr7vdzCKmvGLhM-DIYlXoX9JNTlFRS-cqKaRHflKcQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxVo5az9vKGmbQ_86JD4qmRA10hU9EBvInIWOx_SBkYURiqv3c4qf_sqfVwfURkTrcSek7N3LvvHyDsr3anZb1TfoAHK9GrCjL7xZXX3yTNzd4ewksydpqjOh56vPnwjSht9IISj2ZJrA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1470",
   "raw_cells": {
     "col_0": {
-      "text": "1091"
+      "text": "1087"
     },
     "col_1": {
-      "text": "Canada GooseWyndhamRed Lable"
+      "text": "Canada GooseGarson VestRed Lable"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axiv1RyYicW12LwU4qNgFGh-KFQjYvfbD6PmvjSXXNPdRnGMl2ShuOKGlB33OtpOScTHIVtH0_LlBWFb1D0AjHF675PJ3WqzzClZr7vdzCKmvGLhM-DIYlXoX9JNTlFRS-cqKaRHflKcQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVo5az9vKGmbQ_86JD4qmRA10hU9EBvInIWOx_SBkYURiqv3c4qf_sqfVwfURkTrcSek7N3LvvHyDsr3anZb1TfoAHK9GrCjL7xZXX3yTNzd4ewksydpqjOh56vPnwjSht9IISj2ZJrA=w143-h110"
     },
     "col_3": {
       "text": "TopGoosey",
       "links": [
         {
           "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1003615402050?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "ZZZTOPXX/palmmoose",
-      "links": [
-        {
-          "label": "ZZZTOPXX",
-          "url": "https://www.oopbuy.com/product/2/6495705868?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/644521966774?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/1003004007132?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "222$"
-    },
-    "col_6": {
-      "text": "100$ / 60$"
+      "text": "92$"
     },
     "col_7": {
-      "text": "topgoosey/ZZTOPXX/palmmoose",
+      "text": "pics",
       "links": [
         {
-          "label": "topgoosey",
-          "url": "https://topgoosey-01.x.yupoo.com/albums/192753795?uid=1"
-        },
-        {
-          "label": "ZZTOPXX",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2005603603497177089?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "palmmoose",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2009495477999980546?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192721270?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1470"
+  }
 }

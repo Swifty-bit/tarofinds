@@ -1,0 +1,61 @@
+{
+  "name": "Maison MargielaMM6",
+  "category": "Belts",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/742016452167?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/742016452167?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "7$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968863316161421314?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awa-4yMPkqkMsL00jX6sB0K8ToUvbi0c5rY99MQsygAI_WWmvtEtheH_QX3_nQKg01o3P-tJzUMxS4ALk8Kbu6josifyL8cyjb_tS6hPDyhElpuwRNUV0HvvEsy6YV5PUlY3dM7o0HOCEgQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1595",
+  "raw_cells": {
+    "col_0": {
+      "text": "52"
+    },
+    "col_1": {
+      "text": "Maison MargielaMM6"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awa-4yMPkqkMsL00jX6sB0K8ToUvbi0c5rY99MQsygAI_WWmvtEtheH_QX3_nQKg01o3P-tJzUMxS4ALk8Kbu6josifyL8cyjb_tS6hPDyhElpuwRNUV0HvvEsy6YV5PUlY3dM7o0HOCEgQ=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/742016452167?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "7$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968863316161421314?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

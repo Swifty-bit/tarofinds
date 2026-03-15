@@ -1,87 +1,64 @@
 {
-  "name": "Burberry Check Shorts",
+  "name": "BurberryZipped Hoodie(hood pattern and NO front logo)",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
-  "best_batch_links": [
-    {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7474068277%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7474068277?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6148247309%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6148247309?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/734027491649?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/734027491649?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "42$",
+  "best_price": "",
   "budget_price": "15$",
-  "pics_text": "best/budget",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://thethunder.x.yupoo.com/albums/163666771?uid=1&isSubCate=false&referrercate=3972377"
-    },
-    {
-      "label": "budget",
-      "url": "https://finds.ly/product/WEIDIAN/6148247309"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287421471092738?action=discord&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbLjDS_MTvXgv6KSQ9dy6ZdSis61rB0CQ_sLTheIrkmMADREXxJt6yZegyWCJDTTpiSvmH3ck_Q1GaMgfTrCV36z1fy1pp-Jvqb_Xw8CAzunxhuhmfpgkh6gBHLjuQkxvhZZzy5g1lYQ=w143-h110",
+  "notes": "Hood pattern onlyNo front logo",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzlQr5_mkGvWvbvXdOjbhn-hc8wuJrK-uxFe4KHf2m9RBo4ZGQCcHLamKIhACGkeoIqL27_nrjkHbmX2QVGmwxElYxIFPXTdGiq1QppmvlkRtCvphFglDa_4XvB2XLFHBXFvvp902tgeA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1398",
   "raw_cells": {
     "col_0": {
-      "text": "1005"
+      "text": "1001"
     },
     "col_1": {
-      "text": "Burberry Check Shorts"
+      "text": "BurberryZipped Hoodie(hood pattern and NO front logo)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbLjDS_MTvXgv6KSQ9dy6ZdSis61rB0CQ_sLTheIrkmMADREXxJt6yZegyWCJDTTpiSvmH3ck_Q1GaMgfTrCV36z1fy1pp-Jvqb_Xw8CAzunxhuhmfpgkh6gBHLjuQkxvhZZzy5g1lYQ=w143-h110"
-    },
-    "col_3": {
-      "text": "Thunder",
-      "links": [
-        {
-          "label": "Thunder",
-          "url": "https://oopbuy.com/product/2/7474068277?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzlQr5_mkGvWvbvXdOjbhn-hc8wuJrK-uxFe4KHf2m9RBo4ZGQCcHLamKIhACGkeoIqL27_nrjkHbmX2QVGmwxElYxIFPXTdGiq1QppmvlkRtCvphFglDa_4XvB2XLFHBXFvvp902tgeA=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/6148247309?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/734027491649?inviteCode=29TOTHGNH"
         }
       ]
-    },
-    "col_5": {
-      "text": "42$"
     },
     "col_6": {
       "text": "15$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://thethunder.x.yupoo.com/albums/163666771?uid=1&isSubCate=false&referrercate=3972377"
-        },
-        {
-          "label": "budget",
-          "url": "https://finds.ly/product/WEIDIAN/6148247309"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287421471092738?action=discord&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "Hood pattern onlyNo front logo"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1398"
+  }
 }

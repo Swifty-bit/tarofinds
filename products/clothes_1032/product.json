@@ -1,64 +1,64 @@
 {
-  "name": "CDG PlayPOLO",
+  "name": "CDG PlayT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F974430911124%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/974430911124?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/974427059839?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/974427059839?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "21$",
+  "best_price": "18$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repbros.x.yupoo.com/albums/206698430?uid=1&isSubCate=false&referrercate=4980597"
+      "url": "https://repbros.x.yupoo.com/albums/206698493?uid=1&isSubCate=false&referrercate=4980597"
     }
   ],
   "notes": "100% Cotton",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw6XOWvMHajLiWT91479vqO1HWt0myxpUR1dxv_HdNmPWJJr5oFNr1fYdHlG_-LSWHTxtRl0Fn8cj89iOt99mmblZ_xcnv39d_5G6k-lmltsaItMDw4ZxrwFNNZ-323NcOmxR-Fj59zMfYW=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1cpSCESf40YUIB8b4Ip1QHlweySax9cCSiX2Sh9x6OeWYMXAisB1u4RnI_a5LU-4Sk_LHcrRp-kS-mniJ37PuD-Quqp1jJ6xX91woMqP_mlTfTTq35vxOPPHfvaFJKbwF5v2ZAEbQ8hQs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1032",
   "raw_cells": {
     "col_0": {
-      "text": "577"
+      "text": "573"
     },
     "col_1": {
-      "text": "CDG PlayPOLO"
+      "text": "CDG PlayT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw6XOWvMHajLiWT91479vqO1HWt0myxpUR1dxv_HdNmPWJJr5oFNr1fYdHlG_-LSWHTxtRl0Fn8cj89iOt99mmblZ_xcnv39d_5G6k-lmltsaItMDw4ZxrwFNNZ-323NcOmxR-Fj59zMfYW=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1cpSCESf40YUIB8b4Ip1QHlweySax9cCSiX2Sh9x6OeWYMXAisB1u4RnI_a5LU-4Sk_LHcrRp-kS-mniJ37PuD-Quqp1jJ6xX91woMqP_mlTfTTq35vxOPPHfvaFJKbwF5v2ZAEbQ8hQs=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/974430911124?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/974427059839?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "21$"
+      "text": "18$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://repbros.x.yupoo.com/albums/206698430?uid=1&isSubCate=false&referrercate=4980597"
+          "url": "https://repbros.x.yupoo.com/albums/206698493?uid=1&isSubCate=false&referrercate=4980597"
         }
       ]
     },
     "col_8": {
       "text": "100% Cotton"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1032"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Palm AngelsBasic T-shirt",
+  "name": "VLONE Tee110 Colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "repsbrothers",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
     {
-      "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F964384156044%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/964384156044?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/746168218060?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/746168218060?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "29$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repsbro.x.yupoo.com/albums/205539075?uid=1&isSubCate=false&referrercate=4971731"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/746168218060"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTTMtQnHTxnmpcJU6RT6Snjpa5MumE0DKfT4Jo9ZzcKJ5GRqa3ey0D69HSY3y7cmVpz7KOfoOG5_mQCAZ0E9-oZJAyAA_LMSoXKIibk3v-sBWVmFJ2PpL1x_kKuYvuKpEydNpJUY0aYFBm=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBWsyAtcO4IbHTw7Y77ECVZ520-e0owgxVJ5Bnk9iYL-ojUvMiRf2CGiRz19sl5yNWI_vkcnlKm7aVk1RYaAp3DWw6ttxBd7gCxagOHx2-BmNo3_JSVuPcx1C4eVHSuVQ4AdSO93gQiA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0902",
   "raw_cells": {
     "col_0": {
-      "text": "427"
+      "text": "419"
     },
     "col_1": {
-      "text": "Palm AngelsBasic T-shirt"
+      "text": "VLONE Tee110 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTTMtQnHTxnmpcJU6RT6Snjpa5MumE0DKfT4Jo9ZzcKJ5GRqa3ey0D69HSY3y7cmVpz7KOfoOG5_mQCAZ0E9-oZJAyAA_LMSoXKIibk3v-sBWVmFJ2PpL1x_kKuYvuKpEydNpJUY0aYFBm=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBWsyAtcO4IbHTw7Y77ECVZ520-e0owgxVJ5Bnk9iYL-ojUvMiRf2CGiRz19sl5yNWI_vkcnlKm7aVk1RYaAp3DWw6ttxBd7gCxagOHx2-BmNo3_JSVuPcx1C4eVHSuVQ4AdSO93gQiA=w143-h110"
     },
-    "col_3": {
-      "text": "repsbrothers",
+    "col_4": {
+      "text": "FFCP",
       "links": [
         {
-          "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/964384156044?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/746168218060?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "29$"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repsbro.x.yupoo.com/albums/205539075?uid=1&isSubCate=false&referrercate=4971731"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/746168218060"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0902"
+  }
 }

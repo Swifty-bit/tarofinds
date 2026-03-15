@@ -1,33 +1,40 @@
 {
-  "name": "Gucci Necklace",
+  "name": "Gucci Ring",
   "category": "Jewelry",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7266547265%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7266547265?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7266547265?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "50$",
+  "best_price": "30$",
   "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwWnAN08sRQhb8T-kMPuTEuoGyakSsqJO7RIRwWd6Trf2x08frK-uYavCT6TjnGJMs2ostLWEaksQ1QlvIoGNjMKLFZdI2N1DvzbsXGbXUEbt3KIGdzsHB1PDdq0bd7rB1yIuxPq8cYJy7N=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwVgqvNuK79xq6wsB8iAB1PUNoYgmivC7Nh97Uvrq2r7j6vEQOSJ9Sxi4oCAmzQWx8RauVa0JA0YK8QoMLO6L45r_qNbboC12Wo37kAmSrT7LQFhA4TsJerFSdutCZxCg5PSeEZEggTPg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1643",
   "raw_cells": {
     "col_0": {
-      "text": "57"
+      "text": "52"
     },
     "col_1": {
-      "text": "Gucci Necklace"
+      "text": "Gucci Ring"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwWnAN08sRQhb8T-kMPuTEuoGyakSsqJO7RIRwWd6Trf2x08frK-uYavCT6TjnGJMs2ostLWEaksQ1QlvIoGNjMKLFZdI2N1DvzbsXGbXUEbt3KIGdzsHB1PDdq0bd7rB1yIuxPq8cYJy7N=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwVgqvNuK79xq6wsB8iAB1PUNoYgmivC7Nh97Uvrq2r7j6vEQOSJ9Sxi4oCAmzQWx8RauVa0JA0YK8QoMLO6L45r_qNbboC12Wo37kAmSrT7LQFhA4TsJerFSdutCZxCg5PSeEZEggTPg=w143-h110"
     },
     "col_3": {
       "text": "here",
@@ -39,9 +46,16 @@
       ]
     },
     "col_5": {
-      "text": "50$"
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2005702562257391617?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1643"
+  }
 }

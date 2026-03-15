@@ -1,64 +1,61 @@
 {
-  "name": "CarsickoTracksuitGrey",
+  "name": "VetementsFitted Zip Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "mvt-shop01",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F764758749251%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/853153553264?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/853153553264?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "27$(SET)",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "60$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://mvt-shop01.x.yupoo.com/albums/175947399?uid=1&isSubCate=false&referrercate=4651184"
     }
   ],
-  "notes": "set 27$ - top 14$ - bottom 13$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxisopaogqWrAQnTz5ArILCNTHuxNWWHAnZ6QyfavFqzvzLl8wYUk2zcr2232Adpg7g7NYTZ114fUwORv4aPekclKrGnKNU9nq4qmzVsfKr-Vj5BmUoeCFyOcXkvWGlNf4-lB5zdzenKfhL=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxBrw4IRgOcFlX_59o54Hh3I9KFbVeS01X7Gx_x9Pqu1E5Ja9guG0zF-z3X5pjt87UnP2AFloqRcVqMK2-7j7x96-qEpI9SXOf7Yhg0MlgrNv1LeILttgufiaHolnJDiht83sSYg7TclEmX=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1125",
   "raw_cells": {
     "col_0": {
-      "text": "682"
+      "text": "676"
     },
     "col_1": {
-      "text": "CarsickoTracksuitGrey"
+      "text": "VetementsFitted Zip Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxisopaogqWrAQnTz5ArILCNTHuxNWWHAnZ6QyfavFqzvzLl8wYUk2zcr2232Adpg7g7NYTZ114fUwORv4aPekclKrGnKNU9nq4qmzVsfKr-Vj5BmUoeCFyOcXkvWGlNf4-lB5zdzenKfhL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxBrw4IRgOcFlX_59o54Hh3I9KFbVeS01X7Gx_x9Pqu1E5Ja9guG0zF-z3X5pjt87UnP2AFloqRcVqMK2-7j7x96-qEpI9SXOf7Yhg0MlgrNv1LeILttgufiaHolnJDiht83sSYg7TclEmX=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/764758749251?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/853153553264?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "27$(SET)"
+    "col_5": {
+      "text": "60$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1923906486537338882?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://mvt-shop01.x.yupoo.com/albums/175947399?uid=1&isSubCate=false&referrercate=4651184"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 27$ - top 14$ - bottom 13$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1125"
+  }
 }

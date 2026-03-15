@@ -1,33 +1,50 @@
 {
-  "name": "Archeo Pink",
+  "name": "St. John'sUniversity Red",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "M",
+  "best_batch_links": [
+    {
+      "label": "M",
+      "url": "https://litbuy.com/product/weidian/7243326840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "VT",
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "best_price": "44$",
   "budget_price": "23$",
   "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyULIzpA0qZrHre2Y926O3CYIDNU9_o0wxD2r5ygytEIMauF8eAQ9gEKjiKJF-eVQNQNj-YB9NIfixQkVY9rBO14m9TIrG35rHRo1fTN6Z-aSX_iJxFZZjQAEiu2qKm-Gj9kmWcSJYAvG9H=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyT1zzfdcjihohovSa8hD1jYmde0t_8ai2qG6_T4L1zhtWGELPk4lpWoyUaNDcV5eVAo_b64gyWIIXh8ooYU4iKPcZ3GWAH8-pzKp8fkhdAyTTWh4j3azaWus3diA84Wo58rc5qoRsEoupc=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0077",
   "raw_cells": {
     "col_0": {
       "text": "86"
     },
     "col_1": {
-      "text": "Archeo Pink"
+      "text": "St. John'sUniversity Red"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyULIzpA0qZrHre2Y926O3CYIDNU9_o0wxD2r5ygytEIMauF8eAQ9gEKjiKJF-eVQNQNj-YB9NIfixQkVY9rBO14m9TIrG35rHRo1fTN6Z-aSX_iJxFZZjQAEiu2qKm-Gj9kmWcSJYAvG9H=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyT1zzfdcjihohovSa8hD1jYmde0t_8ai2qG6_T4L1zhtWGELPk4lpWoyUaNDcV5eVAo_b64gyWIIXh8ooYU4iKPcZ3GWAH8-pzKp8fkhdAyTTWh4j3azaWus3diA84Wo58rc5qoRsEoupc=w143-h110"
+    },
+    "col_3": {
+      "text": "M",
+      "links": [
+        {
+          "label": "M",
+          "url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "VT",
@@ -38,10 +55,11 @@
         }
       ]
     },
+    "col_5": {
+      "text": "44$"
+    },
     "col_6": {
       "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0077"
+  }
 }

@@ -1,33 +1,41 @@
 {
-  "name": "Black Cats (2024)",
+  "name": "White Cement",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7297925857%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7297925857?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "63$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "29$",
+  "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aysx25CmCbFm8IUSdGInpR5NE9BKm5uGDiVr44oqhYP461KD7XK9-5dumOWpxmaevt-S71yeAS3B158NOafa81aGN1brSEtDLgmaVk0j5__2mLoAFLHOPEltx3I6FoEqSsauUMmRi8Wlf1P=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwCyCeFFbClXbh3TsUK52kvQuGz7CylD8fCzTWUKzOY-xf3PWTI7IG0_qG-JHqp1Gx6KHOlnozZdQRLuDCTS74MLXwuOMpCsJBdITOxr8stb4JrkQmyujcL29_klEY0gSJu5dU4QDUL4y3N=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0188",
   "raw_cells": {
     "col_0": {
       "text": "201"
     },
     "col_1": {
-      "text": "Black Cats (2024)"
+      "text": "White Cement"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aysx25CmCbFm8IUSdGInpR5NE9BKm5uGDiVr44oqhYP461KD7XK9-5dumOWpxmaevt-S71yeAS3B158NOafa81aGN1brSEtDLgmaVk0j5__2mLoAFLHOPEltx3I6FoEqSsauUMmRi8Wlf1P=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwCyCeFFbClXbh3TsUK52kvQuGz7CylD8fCzTWUKzOY-xf3PWTI7IG0_qG-JHqp1Gx6KHOlnozZdQRLuDCTS74MLXwuOMpCsJBdITOxr8stb4JrkQmyujcL29_klEY0gSJu5dU4QDUL4y3N=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "63$"
+    },
+    "col_6": {
+      "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0188"
+  }
 }

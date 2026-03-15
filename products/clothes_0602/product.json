@@ -1,87 +1,81 @@
 {
-  "name": "Ralph Lauren Oxford Short-Sleeved Shirt",
+  "name": "Ralph Lauren T-Shirt(Different Tag)",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Repkingdom",
-  "best_batch_links": [
-    {
-      "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7421924519%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7421924519?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "CloudShop",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "CloudShop/budget",
   "budget_batch_links": [
     {
       "label": "CloudShop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F910355527749%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/910355527749?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/1020261554954?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1020261554954?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/909303378737?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/909303378737?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "18$",
-  "budget_price": "14$",
-  "pics_text": "best/cloudshop",
+  "best_price": "",
+  "budget_price": "8$ / 4$",
+  "pics_text": "cloudshop/budget",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://repkingdom.x.yupoo.com/albums/188542278?uid=1"
+      "label": "cloudshop",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924269052354674690?action=discord&cid=1840597081113280514"
     },
     {
-      "label": "cloudshop",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1928877906006687746?action=discord&type=1&cid=1942512167859859457"
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631385287475202?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBHUIISygT98xqvUPDHlnzJxALhvTJA2ouoJLF5bFRRYWFRtahV3pjQMCPG9Pcls9GTpAenWq9nB0De-PyuPQeJ5MmCIjWWDoUHsczeF3vljbys00lKnYxpBJBV_6f3TG9POcq4Vr_fg=w143-h110",
+  "notes": "For the budget 4$ link, size up 2",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZXrNfXIqBxx2E5QpyAZ0uP6CNcp5nhck2pCayzmlbbWAoYzMl6cqxQlnmQd_FjwbpEPHkcbdhoLYNFPPjF7tMP82u2OasqJG7JT9SwDe1XtOEXcRtcMNJVFRVBMX-mfmH_Sz39--CnHZp=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0602",
   "raw_cells": {
     "col_0": {
-      "text": "73"
+      "text": "69"
     },
     "col_1": {
-      "text": "Ralph Lauren Oxford Short-Sleeved Shirt"
+      "text": "Ralph Lauren T-Shirt(Different Tag)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBHUIISygT98xqvUPDHlnzJxALhvTJA2ouoJLF5bFRRYWFRtahV3pjQMCPG9Pcls9GTpAenWq9nB0De-PyuPQeJ5MmCIjWWDoUHsczeF3vljbys00lKnYxpBJBV_6f3TG9POcq4Vr_fg=w143-h110"
-    },
-    "col_3": {
-      "text": "Repkingdom",
-      "links": [
-        {
-          "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/weidian/7421924519?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZXrNfXIqBxx2E5QpyAZ0uP6CNcp5nhck2pCayzmlbbWAoYzMl6cqxQlnmQd_FjwbpEPHkcbdhoLYNFPPjF7tMP82u2OasqJG7JT9SwDe1XtOEXcRtcMNJVFRVBMX-mfmH_Sz39--CnHZp=w143-h110"
     },
     "col_4": {
-      "text": "CloudShop",
+      "text": "CloudShop/budget",
       "links": [
         {
           "label": "CloudShop",
-          "url": "https://oopbuy.com/product/1/910355527749?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_5": {
-      "text": "18$"
-    },
-    "col_6": {
-      "text": "14$"
-    },
-    "col_7": {
-      "text": "best/cloudshop",
-      "links": [
-        {
-          "label": "best",
-          "url": "https://repkingdom.x.yupoo.com/albums/188542278?uid=1"
+          "url": "https://oopbuy.com/product/1/1020261554954?inviteCode=29TOTHGNH"
         },
         {
-          "label": "cloudshop",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1928877906006687746?action=discord&type=1&cid=1942512167859859457"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/909303378737?inviteCode=29TOTHGNH"
         }
       ]
+    },
+    "col_6": {
+      "text": "8$ / 4$"
+    },
+    "col_7": {
+      "text": "cloudshop/budget",
+      "links": [
+        {
+          "label": "cloudshop",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924269052354674690?action=discord&cid=1840597081113280514"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631385287475202?action=discord&cid=1840597081113280514"
+        }
+      ]
+    },
+    "col_8": {
+      "text": "For the budget 4$ link, size up 2"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0602"
+  }
 }

@@ -1,92 +1,47 @@
 {
-  "name": "Skate",
+  "name": "TrainersGreen Denim",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Koala/A+/FS",
+  "best_batch": "Jelly",
   "best_batch_links": [
     {
-      "label": "Koala",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F918888917713%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "A+",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6167288771%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "FS",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565909066%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
+      "label": "Jelly",
+      "url": "https://litbuy.com/product/weidian/730428049541?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/730428049541?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget/YOLO TG",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F838219574908%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "YOLO TG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7622551100%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "95$ / 72$ / 72$",
-  "budget_price": "50$ / 32$",
-  "pics_text": "50$ / 32$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "103$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwK1dtm21PXJBDuHpkr_PzWxNLvBUrdJ0VLqDdDt7Am9F2Bmw8SWkT7JW16EUZoG1a1kIf6oAWB7IsAFqqPw-PuJy2wehK09meK3UoyIgn-Mfpb9MO5Wbm8HR8lsBlY8SSkDgcet9nSsC6c=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax703ksR0K4w0su4LbVzU0JitjfOVgwSJYjWS8YxWHRfYaUpr0Wof4T3EQwDgvBxzN9azHjhvXWY2blXbJwVRyYsxqAtY2dQPJidhQz3aRUpB4r_tgEd2mHORJ8zDLMACbUbkX2iHCFJh-b=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0446",
   "raw_cells": {
     "col_0": {
       "text": "507"
     },
     "col_1": {
-      "text": "Skate"
+      "text": "TrainersGreen Denim"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwK1dtm21PXJBDuHpkr_PzWxNLvBUrdJ0VLqDdDt7Am9F2Bmw8SWkT7JW16EUZoG1a1kIf6oAWB7IsAFqqPw-PuJy2wehK09meK3UoyIgn-Mfpb9MO5Wbm8HR8lsBlY8SSkDgcet9nSsC6c=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax703ksR0K4w0su4LbVzU0JitjfOVgwSJYjWS8YxWHRfYaUpr0Wof4T3EQwDgvBxzN9azHjhvXWY2blXbJwVRyYsxqAtY2dQPJidhQz3aRUpB4r_tgEd2mHORJ8zDLMACbUbkX2iHCFJh-b=w143-h110"
     },
     "col_3": {
-      "text": "Koala/A+/FS",
+      "text": "Jelly",
       "links": [
         {
-          "label": "Koala",
-          "url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "A+",
-          "url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "FS",
-          "url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget/YOLO TG",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "YOLO TG",
-          "url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
+          "label": "Jelly",
+          "url": "https://oopbuy.com/product/1/730428049541?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "95$ / 72$ / 72$"
-    },
-    "col_6": {
-      "text": "50$ / 32$"
+      "text": "103$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0446"
+  }
 }

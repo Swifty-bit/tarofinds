@@ -1,47 +1,61 @@
 {
-  "name": "GASPVest Tank Top7 Colors",
+  "name": "GYMSHARKVest Tank Top2 Colors",
   "category": "Gym",
   "subcategory": "",
   "best_batch": "gymshark70",
   "best_batch_links": [
     {
       "label": "gymshark70",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F682832538907%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/682832538907?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/978104468319?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/978104468319?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "28$",
   "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1926631341942685697?action=discord&cid=1942512167859859457"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyxuncGrqi-Cyqqm5w0aQhbn446eXmCKgvFdhKcezxBw74b4WaeHHQIA4FfM2RuFp5Nd5FsOu2LW827AsA5DwwekLVpuAon5QoEEAVQjQ6E735_sW3lqEIGbPQJzOiHUq6o6eUgVtfA7g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxZ0rfnTpWiecvVn0Xik5m0eDX0G29Egkw3q2Vdn0tJYUjZ869zqqNMqrol_8VerPxJqo0-ezmmrf_39aPmWdkCsspsLZfrezN6Fugq08hZXUPIQZT5Bl8KQOcoFrvgmLX8yHn3MC8aQIXj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1726",
   "raw_cells": {
     "col_0": {
-      "text": "29"
+      "text": "19"
     },
     "col_1": {
-      "text": "GASPVest Tank Top7 Colors"
+      "text": "GYMSHARKVest Tank Top2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyxuncGrqi-Cyqqm5w0aQhbn446eXmCKgvFdhKcezxBw74b4WaeHHQIA4FfM2RuFp5Nd5FsOu2LW827AsA5DwwekLVpuAon5QoEEAVQjQ6E735_sW3lqEIGbPQJzOiHUq6o6eUgVtfA7g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxZ0rfnTpWiecvVn0Xik5m0eDX0G29Egkw3q2Vdn0tJYUjZ869zqqNMqrol_8VerPxJqo0-ezmmrf_39aPmWdkCsspsLZfrezN6Fugq08hZXUPIQZT5Bl8KQOcoFrvgmLX8yHn3MC8aQIXj=w143-h110"
     },
     "col_3": {
       "text": "gymshark70",
       "links": [
         {
           "label": "gymshark70",
-          "url": "https://oopbuy.com/product/1/682832538907?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/978104468319?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "28$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1926631341942685697?action=discord&cid=1942512167859859457"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1726"
+  }
 }

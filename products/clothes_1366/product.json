@@ -1,79 +1,61 @@
 {
-  "name": "Eric EmanuelPaisley Shorts6 Colours",
+  "name": "Chrome HeartsBeanieMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
-  "best_batch_links": [
-    {
-      "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792691452297%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
-    }
-  ],
-  "budget_batch": "UnionKingdom",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/989264778109?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/989264778109?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "23$",
-  "budget_price": "15$",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/138210041?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2004042768396144641?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxN-UHYn_mc2zcoq5qBwM6WiAlSXmJdonUaeOb-dMx20BxVjav9ym7Ei-CHGUaqv9i-7G7yXrjH5x_iaqlHDNkSB6VvVxKrl0Zv3xH4o_bOs2ygmVM6P_bNqp1lB4RaEiIQpKbRCZdt7R3g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayq3J6SL_dgNGr8jvjCBtKp3DZBSaEv2HlM-Ofw-GmclRhNOkvozarTjeLlttFTT3L8KuBt0kSbUAL2lHH_1hnq_9vexoNFi91QymL0HIxv_0p5n-MWEYo2uTEeQZ570nNkdo3kKOCpXdx1=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1366",
   "raw_cells": {
     "col_0": {
-      "text": "967"
+      "text": "961"
     },
     "col_1": {
-      "text": "Eric EmanuelPaisley Shorts6 Colours"
+      "text": "Chrome HeartsBeanieMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxN-UHYn_mc2zcoq5qBwM6WiAlSXmJdonUaeOb-dMx20BxVjav9ym7Ei-CHGUaqv9i-7G7yXrjH5x_iaqlHDNkSB6VvVxKrl0Zv3xH4o_bOs2ygmVM6P_bNqp1lB4RaEiIQpKbRCZdt7R3g=w143-h110"
-    },
-    "col_3": {
-      "text": "Angelking",
-      "links": [
-        {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792691452297?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayq3J6SL_dgNGr8jvjCBtKp3DZBSaEv2HlM-Ofw-GmclRhNOkvozarTjeLlttFTT3L8KuBt0kSbUAL2lHH_1hnq_9vexoNFi91QymL0HIxv_0p5n-MWEYo2uTEeQZ570nNkdo3kKOCpXdx1=w143-h110"
     },
     "col_4": {
-      "text": "UnionKingdom",
+      "text": "budget",
       "links": [
         {
-          "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/989264778109?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "23$"
-    },
     "col_6": {
-      "text": "15$"
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/138210041?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2004042768396144641?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1366"
+  }
 }

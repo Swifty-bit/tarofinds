@@ -1,61 +1,87 @@
 {
-  "name": "CorteizHMP Straight Jogging Pants",
+  "name": "CorteizRule the WorldHoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653837017%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653837017?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656852498?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656852498?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "27$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
+    {
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/741488778477?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "32$",
+  "budget_price": "15$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://goat-official.x.yupoo.com/albums/149854944?uid=1"
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/115252398?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBxUM2eWu8mvdCBPZvfTm0oTHyBbMOtI9-HM76lik_bdJcgw8-KNlmrzhwur64Om0-zt-pJGUAyNVwPq32QvSk7nQ6JccLq_U7haf02-y3XVQj4zxsYciLD4Tkw3QMPK_d7S3D1Drd3iJb=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyFKX9aq6CPaLSXPf6Ilqz1pvS_0xgq2DilSr0d-VUF3XheFDnF2t5QG_jMC8MyTRZ2ehjGD-lrQ_UXRcU49ky4dafGrTmb9AuBu0Fuo2xFiP5LAoZ_EJZMNXxzVD_rj11a02p6FQhuKV-A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0677",
   "raw_cells": {
     "col_0": {
-      "text": "158"
+      "text": "154"
     },
     "col_1": {
-      "text": "CorteizHMP Straight Jogging Pants"
+      "text": "CorteizRule the WorldHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBxUM2eWu8mvdCBPZvfTm0oTHyBbMOtI9-HM76lik_bdJcgw8-KNlmrzhwur64Om0-zt-pJGUAyNVwPq32QvSk7nQ6JccLq_U7haf02-y3XVQj4zxsYciLD4Tkw3QMPK_d7S3D1Drd3iJb=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyFKX9aq6CPaLSXPf6Ilqz1pvS_0xgq2DilSr0d-VUF3XheFDnF2t5QG_jMC8MyTRZ2ehjGD-lrQ_UXRcU49ky4dafGrTmb9AuBu0Fuo2xFiP5LAoZ_EJZMNXxzVD_rj11a02p6FQhuKV-A=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653837017?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656852498?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "FFCP",
+      "links": [
+        {
+          "label": "FFCP",
+          "url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "32$"
+    },
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://goat-official.x.yupoo.com/albums/149854944?uid=1"
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/115252398?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0677"
+  }
 }

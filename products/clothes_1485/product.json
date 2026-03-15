@@ -1,61 +1,61 @@
 {
-  "name": "Moose Knuckles Little Rapids Gold BomberPuffer Jacket",
+  "name": "Canada GooseThermal Toque Hat Beanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "palmmoose",
+  "best_batch": "TopGoosey",
   "best_batch_links": [
     {
-      "label": "palmmoose",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F672956561297%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/672956561297?inviteCode=29TOTHGNH"
+      "label": "TopGoosey",
+      "url": "https://litbuy.com/product/weidian/1004396113066?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1004396113066?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "86$",
+  "best_price": "38$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1986703929809915906?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://topgoosey-01.x.yupoo.com/albums/192756684?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzwEB8cXPcWOhr7zJljnKJy-gOaQ6gJn1iMV3W4z-oHuRag3CtwPzh3GYn6k4AO7oKegWsHEZbIz3rgiVjcSOG_2k4gjqHbAf9KKZNNcnYGMckGkxxQsZKCHYcP-Ha0Vz9HhwvgZoq_g3FU=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmpPbAaynJcoJqgBa-zaVwoYcVMsSXAj1cfi6df0K5jtqoLINS7Ny-gu2EP90cygEXqY2x-HV-GnTSTMvxXmjRIgPHCeoKvdieIuVVhh0O98uICRE8jhfKsmwF1fTonqfbPs4kPSegZxkx=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1485",
   "raw_cells": {
     "col_0": {
-      "text": "1108"
+      "text": "1102"
     },
     "col_1": {
-      "text": "Moose Knuckles Little Rapids Gold BomberPuffer Jacket"
+      "text": "Canada GooseThermal Toque Hat Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzwEB8cXPcWOhr7zJljnKJy-gOaQ6gJn1iMV3W4z-oHuRag3CtwPzh3GYn6k4AO7oKegWsHEZbIz3rgiVjcSOG_2k4gjqHbAf9KKZNNcnYGMckGkxxQsZKCHYcP-Ha0Vz9HhwvgZoq_g3FU=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmpPbAaynJcoJqgBa-zaVwoYcVMsSXAj1cfi6df0K5jtqoLINS7Ny-gu2EP90cygEXqY2x-HV-GnTSTMvxXmjRIgPHCeoKvdieIuVVhh0O98uICRE8jhfKsmwF1fTonqfbPs4kPSegZxkx=w143-h110"
     },
     "col_3": {
-      "text": "palmmoose",
+      "text": "TopGoosey",
       "links": [
         {
-          "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/672956561297?inviteCode=29TOTHGNH"
+          "label": "TopGoosey",
+          "url": "https://oopbuy.com/product/1/1004396113066?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "86$"
+      "text": "38$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1986703929809915906?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://topgoosey-01.x.yupoo.com/albums/192756684?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1485"
+  }
 }

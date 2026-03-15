@@ -1,41 +1,92 @@
 {
-  "name": "MMY PetersonHigh",
+  "name": "Lanvin Curb",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
-  "budget_batch": "/",
-  "budget_batch_links": [],
-  "best_price": "/",
-  "budget_price": "/",
-  "pics_text": "/",
+  "best_batch": "Alison/Alison/here/Foshan",
+  "best_batch_links": [
+    {
+      "label": "Alison",
+      "url": "https://litbuy.com/product/weidian/740608584588?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/740608584588?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Alison",
+      "url": "https://litbuy.com/product/weidian/739955315924?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/739955315924?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/652133206752?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/652133206752?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Foshan",
+      "url": "https://litbuy.com/product/weidian/7617138156?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7617138156?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/770317478684?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/770317478684?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "90$ / 84$ / 70$",
+  "budget_price": "30$",
+  "pics_text": "30$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUyvHil23fqGZGCRK-ObgG3SDWAuLXlXpocHuffksnbs43FPQ8leRjSl6NfbmVi6qEdkF1ophUCbfPYrasoLhOzZBaxs8ULF26EeUrTJOcnZJ5yY0txv_dUEmS-vRqPQpmn7-9a1HAmJqS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyJ_X15oJ_lfbwjcvVlWLZI4P5X1KWnXDJHukKCv0MRL-yy0iOWQX9ev23icGfrSjuldR70F5loi3EKsr_UAo03ugIQWQYGzmoTOZhaZmUED5yoctqjNoP3uvzDdd4uEScH77uprniZaCNn=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0477",
   "raw_cells": {
     "col_0": {
-      "text": "550"
+      "text": "546"
     },
     "col_1": {
-      "text": "MMY PetersonHigh"
+      "text": "Lanvin Curb"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUyvHil23fqGZGCRK-ObgG3SDWAuLXlXpocHuffksnbs43FPQ8leRjSl6NfbmVi6qEdkF1ophUCbfPYrasoLhOzZBaxs8ULF26EeUrTJOcnZJ5yY0txv_dUEmS-vRqPQpmn7-9a1HAmJqS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyJ_X15oJ_lfbwjcvVlWLZI4P5X1KWnXDJHukKCv0MRL-yy0iOWQX9ev23icGfrSjuldR70F5loi3EKsr_UAo03ugIQWQYGzmoTOZhaZmUED5yoctqjNoP3uvzDdd4uEScH77uprniZaCNn=w143-h110"
     },
     "col_3": {
-      "text": "/"
+      "text": "Alison/Alison/here/Foshan",
+      "links": [
+        {
+          "label": "Alison",
+          "url": "https://oopbuy.com/product/1/740608584588?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Alison",
+          "url": "https://oopbuy.com/product/1/739955315924?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/652133206752?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Foshan",
+          "url": "https://oopbuy.com/product/weidian/7617138156?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
-      "text": "/"
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/770317478684?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "/"
+      "text": "90$ / 84$ / 70$"
     },
     "col_6": {
-      "text": "/"
+      "text": "30$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0477"
+  }
 }

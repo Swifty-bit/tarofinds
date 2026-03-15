@@ -1,87 +1,61 @@
 {
-  "name": "Essentials25SSHoodie",
+  "name": "Essentials T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "GmanClub",
   "best_batch_links": [
     {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F912287276651%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/912287276651?inviteCode=29TOTHGNH"
+      "label": "GmanClub",
+      "url": "https://litbuy.com/product/weidian/627747643961?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/627747643961?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "Yishan",
-  "budget_batch_links": [
-    {
-      "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F921379201779%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/921379201779?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "37$",
-  "budget_price": "22$",
-  "pics_text": "singor/yishan",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "10$",
+  "budget_price": "",
+  "pics_text": "gmanclub",
   "pics_links": [
     {
-      "label": "singor",
-      "url": "https://steven-1989.x.yupoo.com/albums/192385710?uid=1&isSubCate=false&referrercate=3018541"
-    },
-    {
-      "label": "yishan",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2003291545816616961?action=discord&type=1&cid=1942512167859859457"
+      "label": "gmanclub",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1944925076999761921?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzvBrjq5NQpNUu44jeIVs8oSOVcjtyjLr9TRK0ttKtUP_VfEIm3Vn4a4wt6lF2uT2XGJ1wope0fV8w1NwrqRifoV1UWW9CAU3dY1QVLQCBnOb5gz0kCP1PRoC475u6IFb-ywQoXn2UF394w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2Iiiu8OwRJiBMmxIg8VFRedycdgapn4ObEE0N5lfoqTTQ--_DDUO4bzMpo2k7J_eVLitQJkXkRa2ORxCazFWxVmW5rGFYLj6HRJl_DLL7OI3LeNoLG5k104w9x89G0EJYVj77qbHbIAEQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0731",
   "raw_cells": {
     "col_0": {
-      "text": "216"
+      "text": "212"
     },
     "col_1": {
-      "text": "Essentials25SSHoodie"
+      "text": "Essentials T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzvBrjq5NQpNUu44jeIVs8oSOVcjtyjLr9TRK0ttKtUP_VfEIm3Vn4a4wt6lF2uT2XGJ1wope0fV8w1NwrqRifoV1UWW9CAU3dY1QVLQCBnOb5gz0kCP1PRoC475u6IFb-ywQoXn2UF394w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2Iiiu8OwRJiBMmxIg8VFRedycdgapn4ObEE0N5lfoqTTQ--_DDUO4bzMpo2k7J_eVLitQJkXkRa2ORxCazFWxVmW5rGFYLj6HRJl_DLL7OI3LeNoLG5k104w9x89G0EJYVj77qbHbIAEQ=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "GmanClub",
       "links": [
         {
-          "label": "Singor",
-          "url": "https://oopbuy.com/product/1/912287276651?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "Yishan",
-      "links": [
-        {
-          "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/921379201779?inviteCode=29TOTHGNH"
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/627747643961?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "37$"
-    },
-    "col_6": {
-      "text": "22$"
+      "text": "10$"
     },
     "col_7": {
-      "text": "singor/yishan",
+      "text": "gmanclub",
       "links": [
         {
-          "label": "singor",
-          "url": "https://steven-1989.x.yupoo.com/albums/192385710?uid=1&isSubCate=false&referrercate=3018541"
-        },
-        {
-          "label": "yishan",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2003291545816616961?action=discord&type=1&cid=1942512167859859457"
+          "label": "gmanclub",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1944925076999761921?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0731"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "REVENGEHoodie90 Styles",
+  "name": "RepresentT-Shirt60 Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F630857535433%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/630857535433?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/676799150973?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/676799150973?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "15$",
+  "budget_price": "8$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/630857535433"
+      "url": "https://finds.ly/product/TAOBAO/676799150973"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az5Nr3Yc8xNt7te_d8Kq9P3Ko-QP68SNY5d-0moXqANeqj0ZSLRiu8rrKaMPZznE47EC6Q9AyoC1sUCTEQ6lKwCpeIGQV5tGsbamIXehE-0HnqXRxnQPOyY9bhJhrTePc6H0fMIJ88JAQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQAGOHTPJUnbhv_HfU_DzGho4BW2ISA-Xk2O-mGGr-UvZaj-YTl7f1H1HnzWv-kNwA7GLvp4HnZmHmc7WLbtSwpkPm-q4F3OH7-NnjSP5PHvyqcIUTCnTdHbQDRC4gZTp9GVu73gam_g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1389",
   "raw_cells": {
     "col_0": {
-      "text": "994"
+      "text": "988"
     },
     "col_1": {
-      "text": "REVENGEHoodie90 Styles"
+      "text": "RepresentT-Shirt60 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az5Nr3Yc8xNt7te_d8Kq9P3Ko-QP68SNY5d-0moXqANeqj0ZSLRiu8rrKaMPZznE47EC6Q9AyoC1sUCTEQ6lKwCpeIGQV5tGsbamIXehE-0HnqXRxnQPOyY9bhJhrTePc6H0fMIJ88JAQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQAGOHTPJUnbhv_HfU_DzGho4BW2ISA-Xk2O-mGGr-UvZaj-YTl7f1H1HnzWv-kNwA7GLvp4HnZmHmc7WLbtSwpkPm-q4F3OH7-NnjSP5PHvyqcIUTCnTdHbQDRC4gZTp9GVu73gam_g=w143-h110"
     },
     "col_4": {
       "text": "FFCP",
       "links": [
         {
           "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/630857535433?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/676799150973?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "15$"
+      "text": "8$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/630857535433"
+          "url": "https://finds.ly/product/TAOBAO/676799150973"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1389"
+  }
 }

@@ -1,87 +1,61 @@
 {
-  "name": "Canada GooseArctic Disc ToqueBeanie",
+  "name": "Canada GooseExpedition 2024No Fur",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TopGoosey",
+  "best_batch": "KOG",
   "best_batch_links": [
     {
-      "label": "TopGoosey",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1005137524072%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1005137524072?inviteCode=29TOTHGNH"
+      "label": "KOG",
+      "url": "https://litbuy.com/product/weidian/7283010120?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7283010120?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7233391519%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7233391519?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "30$",
-  "budget_price": "3$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "222$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://topgoosey-01.x.yupoo.com/albums/192755455?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2009168955091013634?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://kog001.x.yupoo.com/albums/176451411?uid=1&isSubCate=false&referrercate=3852408"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-15XlWrzN2We_Jbq3hMjuK4T3vNJKy9IVV3fG6tsqHBjZ_AuLZy9S9FI4YQUvXKBzpjBRHIwUUJPcBeWo9gV5kUxKmw3b8GS8WlLvl9LxpFGZxbiA0j9jXWb5I_fJ4-d944lOqO-l5doE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzT7eUyXymegS323vowP6H5w_Mp3x0mtutxqGQNbEmJEQvVbA8NhQx_7XnK_ZpQMYVlTx5Qqblo1sbVg-r02P0bCeNgnI-6PTLXF854G8CH9unNGnd5ORU8CPBy9mhkV3ifJZ-N5fIZug=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1480",
   "raw_cells": {
     "col_0": {
-      "text": "1101"
+      "text": "1097"
     },
     "col_1": {
-      "text": "Canada GooseArctic Disc ToqueBeanie"
+      "text": "Canada GooseExpedition 2024No Fur"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-15XlWrzN2We_Jbq3hMjuK4T3vNJKy9IVV3fG6tsqHBjZ_AuLZy9S9FI4YQUvXKBzpjBRHIwUUJPcBeWo9gV5kUxKmw3b8GS8WlLvl9LxpFGZxbiA0j9jXWb5I_fJ4-d944lOqO-l5doE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzT7eUyXymegS323vowP6H5w_Mp3x0mtutxqGQNbEmJEQvVbA8NhQx_7XnK_ZpQMYVlTx5Qqblo1sbVg-r02P0bCeNgnI-6PTLXF854G8CH9unNGnd5ORU8CPBy9mhkV3ifJZ-N5fIZug=w143-h110"
     },
     "col_3": {
-      "text": "TopGoosey",
+      "text": "KOG",
       "links": [
         {
-          "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1005137524072?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7233391519?inviteCode=29TOTHGNH"
+          "label": "KOG",
+          "url": "https://oopbuy.com/product/weidian/7283010120?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
-    },
-    "col_6": {
-      "text": "3$"
+      "text": "222$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://topgoosey-01.x.yupoo.com/albums/192755455?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2009168955091013634?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://kog001.x.yupoo.com/albums/176451411?uid=1&isSubCate=false&referrercate=3852408"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1480"
+  }
 }

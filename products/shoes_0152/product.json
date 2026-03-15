@@ -1,47 +1,65 @@
 {
-  "name": "Air Jordan 1 HighDior",
+  "name": "Air Jordan 1 HighOff-WhiteEuro White",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LW",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240575804%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240575804?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/weidian/7564058443?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564058443?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "155$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "DG",
+  "budget_batch_links": [
+    {
+      "label": "DG",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "78$",
+  "budget_price": "39$",
+  "pics_text": "39$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxVKVO_gI6VILssV3RvBEKUncSwqhrEePHoOq-v6RCNil5fq8dz1LE16w4AvlXCmavmn7slDd7MNgkwb7I6VlQNVclK_Cl7B311GJMA6BzC4ed1d4kf8T-Bn-xiKfCOub_pToQA3T5EJ7mr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzqzQ6O0GHs5J160gw1NZVHzpbWLiqa12L3QNtKWTDPmMxcfnm-i9eOs2SKiMCwwo3Qe6iRlvg8O0-P6aCtdybeiL9HPJxXc-DNZ0efT2dihR1y2ucgOlUi12QI9mT-a4ft8bkbVYx3zUeO=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0152",
   "raw_cells": {
     "col_0": {
       "text": "163"
     },
     "col_1": {
-      "text": "Air Jordan 1 HighDior"
+      "text": "Air Jordan 1 HighOff-WhiteEuro White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVKVO_gI6VILssV3RvBEKUncSwqhrEePHoOq-v6RCNil5fq8dz1LE16w4AvlXCmavmn7slDd7MNgkwb7I6VlQNVclK_Cl7B311GJMA6BzC4ed1d4kf8T-Bn-xiKfCOub_pToQA3T5EJ7mr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzqzQ6O0GHs5J160gw1NZVHzpbWLiqa12L3QNtKWTDPmMxcfnm-i9eOs2SKiMCwwo3Qe6iRlvg8O0-P6aCtdybeiL9HPJxXc-DNZ0efT2dihR1y2ucgOlUi12QI9mT-a4ft8bkbVYx3zUeO=w143-h110"
     },
     "col_3": {
-      "text": "LW",
+      "text": "LJR",
       "links": [
         {
-          "label": "LW",
-          "url": "https://oopbuy.com/product/2/7240575804?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7564058443?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "DG",
+      "links": [
+        {
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "155$"
+      "text": "78$"
+    },
+    "col_6": {
+      "text": "39$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0152"
+  }
 }

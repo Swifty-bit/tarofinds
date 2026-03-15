@@ -1,61 +1,61 @@
 {
-  "name": "RepresentHoodieMany Styles",
+  "name": "RepresentThoroughbred T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "UnionKingdom",
   "best_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F653999987536%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/653999987536?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/759531972189?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/759531972189?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "33$",
+  "best_price": "18$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://unionkingdom.x.yupoo.com/albums/100645727?uid=1"
+      "url": "https://unionkingdom.x.yupoo.com/albums/150509097?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax5-yU7N6z-tjTKkWFo3JUVsUqbLtgsJ5whso11acgAhXGD6e3exVeKFovBjE64dQZaZAHumFZyVb_fYS-_x0wxzVLvWabaRVtMEyH16RPQ3GawIlzluzZeljGRmF4Ah5RNvfk1M3CwT-yX=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyWQCgh4-KQJAgSIbpvcMyG3viSBja7mx6f8H-mFoTHH_xeciZVJMIcR_-_ksyfPXNNXQQsS05Yum2kzuo25iH9rIMlon2flBfRuxMQ-HdKYKiTyrC_5GR6tVitZS1L3fOmTSyqbdrpIkNO=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1386",
   "raw_cells": {
     "col_0": {
-      "text": "989"
+      "text": "985"
     },
     "col_1": {
-      "text": "RepresentHoodieMany Styles"
+      "text": "RepresentThoroughbred T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax5-yU7N6z-tjTKkWFo3JUVsUqbLtgsJ5whso11acgAhXGD6e3exVeKFovBjE64dQZaZAHumFZyVb_fYS-_x0wxzVLvWabaRVtMEyH16RPQ3GawIlzluzZeljGRmF4Ah5RNvfk1M3CwT-yX=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWQCgh4-KQJAgSIbpvcMyG3viSBja7mx6f8H-mFoTHH_xeciZVJMIcR_-_ksyfPXNNXQQsS05Yum2kzuo25iH9rIMlon2flBfRuxMQ-HdKYKiTyrC_5GR6tVitZS1L3fOmTSyqbdrpIkNO=w143-h110"
     },
     "col_3": {
       "text": "UnionKingdom",
       "links": [
         {
           "label": "UnionKingdom",
-          "url": "https://oopbuy.com/product/1/653999987536?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/759531972189?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "33$"
+      "text": "18$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://unionkingdom.x.yupoo.com/albums/100645727?uid=1"
+          "url": "https://unionkingdom.x.yupoo.com/albums/150509097?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1386"
+  }
 }

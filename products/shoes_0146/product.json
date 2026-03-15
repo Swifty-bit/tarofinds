@@ -1,20 +1,20 @@
 {
-  "name": "Travis ScottCanary Yellow",
+  "name": "Travis ScottBlack Phantom Low",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "PK4.0",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7312872656%3F%26inviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7312872656?&inviteCode=29TOTHGNH"
+      "label": "PK4.0",
+      "url": "https://litbuy.com/product/weidian/7632127461?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7632127461?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "PK4.0 B GRADE",
   "budget_batch_links": [
     {
       "label": "PK4.0 B GRADE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327454526%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7327454526?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,24 +23,26 @@
   "pics_text": "34$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzQ7QaDYqrJheweN7oOrq9PUT72DnRbLzzpFtTpGpQlPMhzICgecXN7wvqY9kjZG1x8QdTOuE6OGqYlyru7_wrPj4X0HFron7xuacwjKsBW466vbeqBGrfOCPx2SnbR9fVYeriQIyMZ6g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw3BDNQjgZGElsyFds92jg3tQUR8tNSLlnRGYzpqOKTt6C-Z0AdBLNS1RTcNy01UVDDAt6guviLSZXkJguRiozeb8Qtu7m_0ZXzlQ7PsxJhL3ECblwiqR-nJ7-XoA6K3YYb4563XAGqBQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0146",
   "raw_cells": {
     "col_0": {
       "text": "157"
     },
     "col_1": {
-      "text": "Travis ScottCanary Yellow"
+      "text": "Travis ScottBlack Phantom Low"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzQ7QaDYqrJheweN7oOrq9PUT72DnRbLzzpFtTpGpQlPMhzICgecXN7wvqY9kjZG1x8QdTOuE6OGqYlyru7_wrPj4X0HFron7xuacwjKsBW466vbeqBGrfOCPx2SnbR9fVYeriQIyMZ6g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw3BDNQjgZGElsyFds92jg3tQUR8tNSLlnRGYzpqOKTt6C-Z0AdBLNS1RTcNy01UVDDAt6guviLSZXkJguRiozeb8Qtu7m_0ZXzlQ7PsxJhL3ECblwiqR-nJ7-XoA6K3YYb4563XAGqBQ=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "PK4.0",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/weidian/7312872656?&inviteCode=29TOTHGNH"
+          "label": "PK4.0",
+          "url": "https://oopbuy.com/product/weidian/7632127461?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "34$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0146"
+  }
 }

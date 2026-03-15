@@ -1,61 +1,61 @@
 {
-  "name": "CarharttLoose Pants4 Colors",
+  "name": "TNF X GucciBeanie4 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "LambClub",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "LambClub",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F705547817875%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/705547817875?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7234438372?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7234438372?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "21$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "4$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1984809455260344322?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1926443491670962177?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awhpt2pyuhTBUv5C4ZIIrTXZIIYgH-K_SlPPuLgz-Keo1WTQZfrtS9sieSKw2A6IkpkXi7pZ7s4T79BVN8iFH7ABePZDaneVi8eI2zOQH71BuKQMH1QHHjRZu0SsreHppEnr9585CrjBMVH=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyHjoNiI4OsmHEcB5-y-3ZNtjSx7UCg6W9p4OKqmGnGZagDilNPnr2iYMMjpDLaMrOZW1rGokmr-xdLVtQRIwuiwlUry6aaPKHUUCWLCge4QVZbdmdFhGqxs_v6P7eSrbY9L1sADNqgI5fO=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1426",
   "raw_cells": {
     "col_0": {
-      "text": "1037"
+      "text": "1031"
     },
     "col_1": {
-      "text": "CarharttLoose Pants4 Colors"
+      "text": "TNF X GucciBeanie4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awhpt2pyuhTBUv5C4ZIIrTXZIIYgH-K_SlPPuLgz-Keo1WTQZfrtS9sieSKw2A6IkpkXi7pZ7s4T79BVN8iFH7ABePZDaneVi8eI2zOQH71BuKQMH1QHHjRZu0SsreHppEnr9585CrjBMVH=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyHjoNiI4OsmHEcB5-y-3ZNtjSx7UCg6W9p4OKqmGnGZagDilNPnr2iYMMjpDLaMrOZW1rGokmr-xdLVtQRIwuiwlUry6aaPKHUUCWLCge4QVZbdmdFhGqxs_v6P7eSrbY9L1sADNqgI5fO=w143-h110"
     },
-    "col_3": {
-      "text": "LambClub",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "LambClub",
-          "url": "https://oopbuy.com/product/0/705547817875?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7234438372?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "21$"
+    "col_6": {
+      "text": "4$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1984809455260344322?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1926443491670962177?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1426"
+  }
 }

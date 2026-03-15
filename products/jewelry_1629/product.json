@@ -1,61 +1,61 @@
 {
-  "name": "Chrome HeartsBraceletsMany Styles",
+  "name": "Chrome HeartsRings30 Styles",
   "category": "Jewelry",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "here",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F688462436447%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/688462436447?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/7262513326?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7262513326?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1955079061133938689?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1977198099232808961?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyB3FpsX7DKtQ2Py91nwhtmSGbXSaAt7ZQ_-aRkwznS0nxKnF6YwiX3LsvbEPAYnjbUCcIlVplJbJiu3Gqu3ubpQqlYUlBywkezeV7C7__MsXyU3Etpx12_eJUU-QnNJCrGpDGK60FLyAkx=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzNmOEe246ccIVVb83GlDyvZhM5jONvBCRzxA2bOcwoSDqYAbSyktC5GUmzvwWeyodn5nV4jAXLs3F2am9zCjEX-uaIFXRUbdSnue2Fy12fr6fTljNjjJEE0E0Y4z_KJUNtNIgHF_x_kNw6=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1629",
   "raw_cells": {
     "col_0": {
-      "text": "43"
+      "text": "38"
     },
     "col_1": {
-      "text": "Chrome HeartsBraceletsMany Styles"
+      "text": "Chrome HeartsRings30 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyB3FpsX7DKtQ2Py91nwhtmSGbXSaAt7ZQ_-aRkwznS0nxKnF6YwiX3LsvbEPAYnjbUCcIlVplJbJiu3Gqu3ubpQqlYUlBywkezeV7C7__MsXyU3Etpx12_eJUU-QnNJCrGpDGK60FLyAkx=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzNmOEe246ccIVVb83GlDyvZhM5jONvBCRzxA2bOcwoSDqYAbSyktC5GUmzvwWeyodn5nV4jAXLs3F2am9zCjEX-uaIFXRUbdSnue2Fy12fr6fTljNjjJEE0E0Y4z_KJUNtNIgHF_x_kNw6=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "here",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/688462436447?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/weidian/7262513326?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$"
+    "col_5": {
+      "text": "32$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1955079061133938689?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1977198099232808961?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1629"
+  }
 }

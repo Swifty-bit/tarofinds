@@ -1,46 +1,48 @@
 {
-  "name": "Maison MargielaFuture High",
+  "name": "Maison MargielaGATSPaint Splatter",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "BL",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7337653369%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7337653369?inviteCode=29TOTHGNH"
+      "label": "BL",
+      "url": "https://litbuy.com/product/weidian/4689600987?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F678013089482%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/678013089482?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/705562729612?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "96$",
-  "budget_price": "40$",
-  "pics_text": "40$",
+  "best_price": "54$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxV3ZgmeG8FrGIwRD7xuiif2isxPGejF84KTQx3r7lDtSnk4T0q-lcZWD3bfleX9my3GA5GjgN_j5UBXv0NLGQNIx2ggNLSdZXg5ZKhAPMxF7OdIwgsary6x53zUUbkClekI4FTZwU5xs4a=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzN0JJf6KcOxuF8NmEvTmUf6LeN-fAfx49AuS2npCvYsfSG7zj1MUcqS8jsroiZoRXW42i15qEZlaHncdQwpdFjvb-ES1ooWo-7a-B6Z7jsjYdZGcjGwNwQpCirAZJutlHo-9w7hpUQh5J0=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0489",
   "raw_cells": {
     "col_0": {
       "text": "564"
     },
     "col_1": {
-      "text": "Maison MargielaFuture High"
+      "text": "Maison MargielaGATSPaint Splatter"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxV3ZgmeG8FrGIwRD7xuiif2isxPGejF84KTQx3r7lDtSnk4T0q-lcZWD3bfleX9my3GA5GjgN_j5UBXv0NLGQNIx2ggNLSdZXg5ZKhAPMxF7OdIwgsary6x53zUUbkClekI4FTZwU5xs4a=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzN0JJf6KcOxuF8NmEvTmUf6LeN-fAfx49AuS2npCvYsfSG7zj1MUcqS8jsroiZoRXW42i15qEZlaHncdQwpdFjvb-ES1ooWo-7a-B6Z7jsjYdZGcjGwNwQpCirAZJutlHo-9w7hpUQh5J0=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "BL",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7337653369?inviteCode=29TOTHGNH"
+          "label": "BL",
+          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -49,17 +51,15 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/1/678013089482?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "96$"
+      "text": "54$"
     },
     "col_6": {
-      "text": "40$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0489"
+  }
 }

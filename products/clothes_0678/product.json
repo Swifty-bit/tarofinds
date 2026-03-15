@@ -1,38 +1,59 @@
 {
-  "name": "CorteizTracksuits",
+  "name": "CorteizRule the WorldPants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "GOAT",
+  "best_batch_links": [
+    {
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653841035?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653841035?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "FFCP",
   "budget_batch_links": [
     {
       "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741488778477%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/741488778477?inviteCode=REPTARO",
       "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "31$(SET)",
-  "pics_text": "QC Pics",
+  "best_price": "27$",
+  "budget_price": "14$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1935140729770811393?action=discord&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://goat-official.x.yupoo.com/albums/115252398?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
     }
   ],
-  "notes": "set 31$ - top 16$ - bottom 15$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax0hl6NgEzEnc4Yg56QY7DA0zxwNYbJ7yQ3-gaZR5yDTGI9Ffmr9VJNiLKSHFB717JeLTeU7zNltHgBKWVBis79qfNtmVYVbIkZnvfst-bNlyeH_0ssGytjIiRLClHE_WEIMw1yrO2YU7BA=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4NzztA3VqgbvKF-xjRGa-rcU-QJw_6oIA7dTKKwXOIL836L51aviv9U1iHgwirsxfIoY8TlaBdQYTveiHz5ehQNocv10FxkwGgLt3wSqleGoyCuv1OlivP4Vz_jlnSs9aURidZk5ZciTT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0678",
   "raw_cells": {
     "col_0": {
-      "text": "159"
+      "text": "155"
     },
     "col_1": {
-      "text": "CorteizTracksuits"
+      "text": "CorteizRule the WorldPants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax0hl6NgEzEnc4Yg56QY7DA0zxwNYbJ7yQ3-gaZR5yDTGI9Ffmr9VJNiLKSHFB717JeLTeU7zNltHgBKWVBis79qfNtmVYVbIkZnvfst-bNlyeH_0ssGytjIiRLClHE_WEIMw1yrO2YU7BA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4NzztA3VqgbvKF-xjRGa-rcU-QJw_6oIA7dTKKwXOIL836L51aviv9U1iHgwirsxfIoY8TlaBdQYTveiHz5ehQNocv10FxkwGgLt3wSqleGoyCuv1OlivP4Vz_jlnSs9aURidZk5ZciTT=w143-h110"
+    },
+    "col_3": {
+      "text": "GOAT",
+      "links": [
+        {
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653841035?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "FFCP",
@@ -43,22 +64,24 @@
         }
       ]
     },
+    "col_5": {
+      "text": "27$"
+    },
     "col_6": {
-      "text": "31$(SET)"
+      "text": "14$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1935140729770811393?action=discord&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://goat-official.x.yupoo.com/albums/115252398?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 31$ - top 16$ - bottom 15$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0678"
+  }
 }

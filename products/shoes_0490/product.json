@@ -1,47 +1,65 @@
 {
-  "name": "Isabel MarantBekett Sneakers",
+  "name": "Maison MargielaGATSPaint Splatter",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GD",
+  "best_batch": "BL",
   "best_batch_links": [
     {
-      "label": "GD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7625042457%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7625042457?inviteCode=29TOTHGNH"
+      "label": "BL",
+      "url": "https://litbuy.com/product/weidian/4689600987?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "77$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/705562729612?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "54$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZOM5ohVJy63TFZJFh5l87tmxceScPfj-geylzkUKelm6TGNGHAu80ZgbNFv4MaR7ZYlyLYhsCvXtAxGB_mjv1JiR9bi5J7qT9Q0HfcxD-khEKUp-v28GE_A9DkgOSL0aUNPujp8j5ltwb=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awolpryk6yFDFWrfkSNexhobbX0eQCwRDQrDJb54N6PWrR4jB60Uv8ia-8GL30wtRbP4CE-99iSSp8vPTz9OPdmPkov1UmpKd3LBkuxZaMrHtWYxfBh078m9oFybgYdMKLZS0u4S5Vfp90A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0490",
   "raw_cells": {
     "col_0": {
-      "text": "567"
+      "text": "565"
     },
     "col_1": {
-      "text": "Isabel MarantBekett Sneakers"
+      "text": "Maison MargielaGATSPaint Splatter"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZOM5ohVJy63TFZJFh5l87tmxceScPfj-geylzkUKelm6TGNGHAu80ZgbNFv4MaR7ZYlyLYhsCvXtAxGB_mjv1JiR9bi5J7qT9Q0HfcxD-khEKUp-v28GE_A9DkgOSL0aUNPujp8j5ltwb=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awolpryk6yFDFWrfkSNexhobbX0eQCwRDQrDJb54N6PWrR4jB60Uv8ia-8GL30wtRbP4CE-99iSSp8vPTz9OPdmPkov1UmpKd3LBkuxZaMrHtWYxfBh078m9oFybgYdMKLZS0u4S5Vfp90A=w143-h110"
     },
     "col_3": {
-      "text": "GD",
+      "text": "BL",
       "links": [
         {
-          "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7625042457?inviteCode=29TOTHGNH"
+          "label": "BL",
+          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "77$"
+      "text": "54$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0490"
+  }
 }

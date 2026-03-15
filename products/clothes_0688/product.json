@@ -1,87 +1,61 @@
 {
-  "name": "CorteizDenim JeansBlack",
+  "name": "CorteizC Star MohairKnit Sweater",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653905935%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653905935?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656807190?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656807190?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F753380910952%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/753380910952?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "34$",
-  "budget_price": "17$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "28$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/157876704?uid=1&isSubCate=false&referrercate=3847505"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1880888331555934210"
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/174325373?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzvN4vBXS6rUNzTMByFCezH_iOqfCTtPK8K4qOhO3-dul0BKHWoy9vDsguku6Va8Yxr1k0c1aFF_bqT-qL6_8Lg9xgUd0pE_LgfdlbHI5zV31yn-mU2b1yvAp2I_GJFzec-6s0WZTRO_l8l=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZ4SM5JxcnH3usm0uPey0qMqCHal0C6JEeBfgE71heJi5UvD6YexYKXpcZD5VGuB7e60pSNp_20g5gbiGZqQw0dfng5w7iEexy3bKrWPTo3YMJaEOAyi_Iu45NjMp4krBwyVtWGaxC1Key=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0688",
   "raw_cells": {
     "col_0": {
-      "text": "169"
+      "text": "165"
     },
     "col_1": {
-      "text": "CorteizDenim JeansBlack"
+      "text": "CorteizC Star MohairKnit Sweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzvN4vBXS6rUNzTMByFCezH_iOqfCTtPK8K4qOhO3-dul0BKHWoy9vDsguku6Va8Yxr1k0c1aFF_bqT-qL6_8Lg9xgUd0pE_LgfdlbHI5zV31yn-mU2b1yvAp2I_GJFzec-6s0WZTRO_l8l=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZ4SM5JxcnH3usm0uPey0qMqCHal0C6JEeBfgE71heJi5UvD6YexYKXpcZD5VGuB7e60pSNp_20g5gbiGZqQw0dfng5w7iEexy3bKrWPTo3YMJaEOAyi_Iu45NjMp4krBwyVtWGaxC1Key=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653905935?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/753380910952?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656807190?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "34$"
-    },
-    "col_6": {
-      "text": "17$"
+      "text": "28$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/157876704?uid=1&isSubCate=false&referrercate=3847505"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1880888331555934210"
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/174325373?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0688"
+  }
 }

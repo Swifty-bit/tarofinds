@@ -1,65 +1,47 @@
 {
-  "name": "BAPE Sta Low",
+  "name": "Odsy-100015 Colours",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M / Version1",
+  "best_batch": "Shark",
   "best_batch_links": [
     {
-      "label": "M / Version1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7563983179%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7563983179?inviteCode=29TOTHGNH"
+      "label": "Shark",
+      "url": "https://litbuy.com/product/weidian/7617194368?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7617194368?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "TJ",
-  "budget_batch_links": [
-    {
-      "label": "TJ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4608345170%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4608345170?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "53$",
-  "budget_price": "22$",
-  "pics_text": "22$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "49$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJX4AD491VVKJdiMwo2k4ZyhOOGJ1P0IH7zLnmi3lWMx7k26tVOIojJ4x2qHKT3N9JpAGz0BHUfBzADsbIxZZxBvOIAWC6_NejseZjJCtHNvkcmfiJZm-RPLHJE_kKkywztz65oRDA_Ejq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSl-LU265iBqBVCiIHxbVM9kV6yfJkWZlGMMkseuaFksHLjjwXntIZEhVa1gtdooEn8HxUU2XY2dhLTcGUP86hzKxPya0rUluOXiugWFE2RmWX1buja6XSUuzXP7YyruZzpbaHonvteQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0376",
   "raw_cells": {
     "col_0": {
-      "text": "417"
+      "text": "415"
     },
     "col_1": {
-      "text": "BAPE Sta Low"
+      "text": "Odsy-100015 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJX4AD491VVKJdiMwo2k4ZyhOOGJ1P0IH7zLnmi3lWMx7k26tVOIojJ4x2qHKT3N9JpAGz0BHUfBzADsbIxZZxBvOIAWC6_NejseZjJCtHNvkcmfiJZm-RPLHJE_kKkywztz65oRDA_Ejq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSl-LU265iBqBVCiIHxbVM9kV6yfJkWZlGMMkseuaFksHLjjwXntIZEhVa1gtdooEn8HxUU2XY2dhLTcGUP86hzKxPya0rUluOXiugWFE2RmWX1buja6XSUuzXP7YyruZzpbaHonvteQ=w143-h110"
     },
     "col_3": {
-      "text": "M / Version1",
+      "text": "Shark",
       "links": [
         {
-          "label": "M / Version1",
-          "url": "https://oopbuy.com/product/weidian/7563983179?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "TJ",
-      "links": [
-        {
-          "label": "TJ",
-          "url": "https://oopbuy.com/product/2/4608345170?inviteCode=29TOTHGNH"
+          "label": "Shark",
+          "url": "https://oopbuy.com/product/weidian/7617194368?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "53$"
-    },
-    "col_6": {
-      "text": "22$"
+      "text": "49$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0376"
+  }
 }

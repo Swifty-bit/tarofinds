@@ -1,61 +1,121 @@
 {
-  "name": "TNF Beanie5 Colors",
+  "name": "TNF Puffer RetroMany colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "ZOK/Repsun/WWTOP",
+  "best_batch_links": [
+    {
+      "label": "ZOK",
+      "url": "https://litbuy.com/product/weidian/7236798489?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7236798489?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/weidian/7282258959?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7282258959?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7564066215?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564066215?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234471794%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234471794?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/796232153163?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/796232153163?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "best_price": "72$ / 46$ / 56$",
+  "budget_price": "13$",
+  "pics_text": "zok/repsun/wwtop/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2005835346909155329?action=discord&type=1&cid=1942512167859859457"
+      "label": "zok",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1907713005691940865?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "repsun",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1908686854179360769?action=discord&cid=1942512167859859457"
+    },
+    {
+      "label": "wwtop",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1932241387976757250?action=discord&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1897814802148986882?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzeKTF60bXyAsCnK6Cj6Jw1KCGaL12wkPeG4niUMlOVPh7MI790FaGIZB7JxujRTWlvX8w9rKHtMYbU_0Zxb2VAszPDokEQz__RyfWj6xs_OsVD0BuEjifr4w8N1zswWdlJguvxUHNn1rTD=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyV5U-GChzF7enygQkXRM-6gW-YkYlH4H7QaZd5GGp8EzL2wcv1CHYkd2g_2eh_m8ZZak34-m6eDrQz4HrBcAQxUQaLHg_gPp0cgSz4zzscexdEApkdMupYg8hewW-6Dam7HWjoVeGgOFfZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1455",
   "raw_cells": {
     "col_0": {
-      "text": "1074"
+      "text": "1070"
     },
     "col_1": {
-      "text": "TNF Beanie5 Colors"
+      "text": "TNF Puffer RetroMany colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzeKTF60bXyAsCnK6Cj6Jw1KCGaL12wkPeG4niUMlOVPh7MI790FaGIZB7JxujRTWlvX8w9rKHtMYbU_0Zxb2VAszPDokEQz__RyfWj6xs_OsVD0BuEjifr4w8N1zswWdlJguvxUHNn1rTD=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyV5U-GChzF7enygQkXRM-6gW-YkYlH4H7QaZd5GGp8EzL2wcv1CHYkd2g_2eh_m8ZZak34-m6eDrQz4HrBcAQxUQaLHg_gPp0cgSz4zzscexdEApkdMupYg8hewW-6Dam7HWjoVeGgOFfZ=w143-h110"
+    },
+    "col_3": {
+      "text": "ZOK/Repsun/WWTOP",
+      "links": [
+        {
+          "label": "ZOK",
+          "url": "https://oopbuy.com/product/weidian/7236798489?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Repsun",
+          "url": "https://www.oopbuy.com/product/weidian/7282258959?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7564066215?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7234471794?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/796232153163?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "72$ / 46$ / 56$"
+    },
     "col_6": {
-      "text": "3$"
+      "text": "13$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "zok/repsun/wwtop/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2005835346909155329?action=discord&type=1&cid=1942512167859859457"
+          "label": "zok",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1907713005691940865?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "repsun",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1908686854179360769?action=discord&cid=1942512167859859457"
+        },
+        {
+          "label": "wwtop",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1932241387976757250?action=discord&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1897814802148986882?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1455"
+  }
 }

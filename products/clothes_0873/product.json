@@ -1,61 +1,61 @@
 {
-  "name": "Syna X New Era9FIFTY SNAPBACK CAP",
+  "name": "Prada Beanie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7499838481%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7499838481?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/6840841548?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6840841548?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "12$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://baymaxsocks.x.yupoo.com/albums/176704951?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2008422564215476226?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzHChqQqV6yp5-oU0lTCXgJz2yv4EQjQmWRcf0JSKp-NL8Yy-JgdM_Uj_I2ex2T3OwhJNtP8QirnLKwZHnY4knltym7Ha4j_bn7DjGR4FuqXE_V3wimB2b4yQMCVgAeiPoqjHwC4VWs_Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax0XlH6IjXJn_Ka9JuRniRHid95Q6SvX2KjaVcvp9d7FYAxjfI8SL9oHRsw2EPvD-poRD9ZMXtXh0iPr490vkeLnVmNDYUqYy_NZvyx4G00JHfVmrJhsdXK0FTCzMqsjkaHyiTH5n03_Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0873",
   "raw_cells": {
     "col_0": {
-      "text": "388"
+      "text": "382"
     },
     "col_1": {
-      "text": "Syna X New Era9FIFTY SNAPBACK CAP"
+      "text": "Prada Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzHChqQqV6yp5-oU0lTCXgJz2yv4EQjQmWRcf0JSKp-NL8Yy-JgdM_Uj_I2ex2T3OwhJNtP8QirnLKwZHnY4knltym7Ha4j_bn7DjGR4FuqXE_V3wimB2b4yQMCVgAeiPoqjHwC4VWs_Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax0XlH6IjXJn_Ka9JuRniRHid95Q6SvX2KjaVcvp9d7FYAxjfI8SL9oHRsw2EPvD-poRD9ZMXtXh0iPr490vkeLnVmNDYUqYy_NZvyx4G00JHfVmrJhsdXK0FTCzMqsjkaHyiTH5n03_Q=w143-h110"
     },
-    "col_3": {
-      "text": "elephant",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7499838481?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/6840841548?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "12$"
+    "col_6": {
+      "text": "4$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://baymaxsocks.x.yupoo.com/albums/176704951?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2008422564215476226?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0873"
+  }
 }

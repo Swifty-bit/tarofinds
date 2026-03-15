@@ -1,61 +1,64 @@
 {
-  "name": "6PM x True ReligionT-Shirt",
+  "name": "Saint AlexanderHoodie2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "hotdog-official",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342574736%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7342574736?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/862852791296?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "26$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/171264932?uid=1&isSubCate=false&referrercate=4589391"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awb6eEe1PPmQkyF_2JaWPQyIE1S5XF-NDhBxgyYeZbDRzyiak4OxfSjI7jO0fgTCe9RCT7LegvBXkUqSczUF1Z8dtzNEBnQroVbHWsZcuhSPFnZ2OyEZv7OJSHO6kK8wJnncFgQi7h5pyKk=w143-h110",
+  "notes": "80% Cotton / 20% Cotton Blend",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzBFcgKsvHgh1TmCSkVFDDrHMZx4oLLqxx-9xwCPvDV0Mw5aDWPV1-YgCNb7wDQdBywoHxASMOrYjfMlysI4sy_4NSOe4U8knwmO_2NejXEZ3ls8R2Wpl-srQt-9Of-JJbTtu7xFVjRQg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1010",
   "raw_cells": {
     "col_0": {
-      "text": "551"
+      "text": "545"
     },
     "col_1": {
-      "text": "6PM x True ReligionT-Shirt"
+      "text": "Saint AlexanderHoodie2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awb6eEe1PPmQkyF_2JaWPQyIE1S5XF-NDhBxgyYeZbDRzyiak4OxfSjI7jO0fgTCe9RCT7LegvBXkUqSczUF1Z8dtzNEBnQroVbHWsZcuhSPFnZ2OyEZv7OJSHO6kK8wJnncFgQi7h5pyKk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzBFcgKsvHgh1TmCSkVFDDrHMZx4oLLqxx-9xwCPvDV0Mw5aDWPV1-YgCNb7wDQdBywoHxASMOrYjfMlysI4sy_4NSOe4U8knwmO_2NejXEZ3ls8R2Wpl-srQt-9Of-JJbTtu7xFVjRQg=w143-h110"
     },
     "col_3": {
-      "text": "hotdog-official",
+      "text": "here",
       "links": [
         {
-          "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7342574736?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/862852791296?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "26$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/171264932?uid=1&isSubCate=false&referrercate=4589391"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961232842958135297?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "80% Cotton / 20% Cotton Blend"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1010"
+  }
 }

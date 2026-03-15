@@ -1,61 +1,61 @@
 {
-  "name": "Trapstar x NOFSHoodie Grey-Marl",
+  "name": "Ami ParisClassic LogoShorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
+  "best_batch": "TOPAMI",
   "best_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7326959282%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7326959282?inviteCode=29TOTHGNH"
+      "label": "TOPAMI",
+      "url": "https://litbuy.com/product/weidian/710355476266?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/710355476266?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "24$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/182662632?uid=1&isSubCate=false&referrercate=3770851"
+      "url": "https://amiparis.x.yupoo.com/albums/174124881?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw0Xa1c8ITdI_5UL0ezjkRrKdZO5oPNnBbbawNeK5uLQ_BDzrucaEe1n-yb1FAxzbjgVdrON9j5huOJ9LFTW45X2sd_sFz_qTiDg-xwRDyARcAGgVmUz0BsFz8QRopnWjIus6OEvpwOKNsk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwGm1L3BhKusS_zXO4MIzaUyzKWgSfOJFStDnyWMxXXQzOJVlTWhHQ6whuPcIvTMaVo23nL3hJa-fG15ESC96BXxDrXp1_Eu4xEJYjWq3sd-Vo6ym5ApbMWRvMiPveiCaKcV1dGZOiaqKiT=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0974",
   "raw_cells": {
     "col_0": {
-      "text": "507"
+      "text": "501"
     },
     "col_1": {
-      "text": "Trapstar x NOFSHoodie Grey-Marl"
+      "text": "Ami ParisClassic LogoShorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw0Xa1c8ITdI_5UL0ezjkRrKdZO5oPNnBbbawNeK5uLQ_BDzrucaEe1n-yb1FAxzbjgVdrON9j5huOJ9LFTW45X2sd_sFz_qTiDg-xwRDyARcAGgVmUz0BsFz8QRopnWjIus6OEvpwOKNsk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwGm1L3BhKusS_zXO4MIzaUyzKWgSfOJFStDnyWMxXXQzOJVlTWhHQ6whuPcIvTMaVo23nL3hJa-fG15ESC96BXxDrXp1_Eu4xEJYjWq3sd-Vo6ym5ApbMWRvMiPveiCaKcV1dGZOiaqKiT=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
+      "text": "TOPAMI",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://www.oopbuy.com/product/weidian/7326959282?inviteCode=29TOTHGNH"
+          "label": "TOPAMI",
+          "url": "https://oopbuy.com/product/1/710355476266?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "24$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/182662632?uid=1&isSubCate=false&referrercate=3770851"
+          "url": "https://amiparis.x.yupoo.com/albums/174124881?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0974"
+  }
 }

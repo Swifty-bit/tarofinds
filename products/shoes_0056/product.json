@@ -1,47 +1,47 @@
 {
-  "name": "Air More Uptempo",
+  "name": "Mind 001Slides",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "CK",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "CK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4428475535%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4428475535?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/weidian/7691612160?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7691612160?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "38$",
+  "best_price": "31$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw8ZdK5FCM63I17DB6-oDdZq5PMvRC8CojyM0xBTUDqxlJbB2i7RmfvWdrghpJFdMbFIMxuQWPT7S9-bHvK37nubJO5xWlhtDW8pzP2cbvfNqHwnIkvvNOPyMTENnpKIFrlkUe43BmZTWY_=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUTXQd15EwOM5IZF55xhTgJ9TpyRsp0FvIdW4RomCy5e-BJg3Men1bm4v1yd2vCe7z6YhUWy9MxDiZYUBsgKvf30EPTu3bS_0pe68nuEmPBImkT2yP6CV2YcZgVqJIIGLOyTnSDAQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0056",
   "raw_cells": {
     "col_0": {
       "text": "63"
     },
     "col_1": {
-      "text": "Air More Uptempo"
+      "text": "Mind 001Slides"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw8ZdK5FCM63I17DB6-oDdZq5PMvRC8CojyM0xBTUDqxlJbB2i7RmfvWdrghpJFdMbFIMxuQWPT7S9-bHvK37nubJO5xWlhtDW8pzP2cbvfNqHwnIkvvNOPyMTENnpKIFrlkUe43BmZTWY_=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUTXQd15EwOM5IZF55xhTgJ9TpyRsp0FvIdW4RomCy5e-BJg3Men1bm4v1yd2vCe7z6YhUWy9MxDiZYUBsgKvf30EPTu3bS_0pe68nuEmPBImkT2yP6CV2YcZgVqJIIGLOyTnSDAQ=w143-h110"
     },
     "col_3": {
-      "text": "CK",
+      "text": "GX",
       "links": [
         {
-          "label": "CK",
-          "url": "https://oopbuy.com/product/2/4428475535?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/weidian/7691612160?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$"
+      "text": "31$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0056"
+  }
 }

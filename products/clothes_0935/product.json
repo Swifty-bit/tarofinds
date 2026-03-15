@@ -1,61 +1,61 @@
 {
-  "name": "Syna Tracksuits10 Styles",
+  "name": "Syna TracksuitHoodie & ShortsGreen",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "GOAT",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F736632475800%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
+      "label": "GOAT",
+      "url": "https://litbuy.com/product/weidian/7653797433?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653797433?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "10$(SET)",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "46$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
+      "label": "pics",
+      "url": "https://goat-official222.x.yupoo.com/albums/149230835?uid=1&isSubCate=false&referrercate=4215138"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1QRnbZWjVRE4QXY9zQ3IN1Tw_Obg1L39OUBvKgm7b13ZJmNsCw3k5jAD7W2vBCnv0gghToxVEcsXljm_X1YZvpOI9B_swjsUB7PjwS6KAZ87pG2LmQiJlNMJe4h7_VtXxaJOgm7b2H2P5=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJvSofdzXRw7XOi06pJfp1lcbKeceveal1GNiUWul_5Ro7BjvwICg1qzgZ9wBG8mgE7oIUXXlHqaoBDnWFy7JZ46nzFb1G4rBrP--gnCthaowzwdoMOHj7mrapFx0DLZxKCCedY99-pP3y=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0935",
   "raw_cells": {
     "col_0": {
-      "text": "462"
+      "text": "458"
     },
     "col_1": {
-      "text": "Syna Tracksuits10 Styles"
+      "text": "Syna TracksuitHoodie & ShortsGreen"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1QRnbZWjVRE4QXY9zQ3IN1Tw_Obg1L39OUBvKgm7b13ZJmNsCw3k5jAD7W2vBCnv0gghToxVEcsXljm_X1YZvpOI9B_swjsUB7PjwS6KAZ87pG2LmQiJlNMJe4h7_VtXxaJOgm7b2H2P5=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJvSofdzXRw7XOi06pJfp1lcbKeceveal1GNiUWul_5Ro7BjvwICg1qzgZ9wBG8mgE7oIUXXlHqaoBDnWFy7JZ46nzFb1G4rBrP--gnCthaowzwdoMOHj7mrapFx0DLZxKCCedY99-pP3y=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "GOAT",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
+          "label": "GOAT",
+          "url": "https://oopbuy.com/product/weidian/7653797433?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "10$(SET)"
+    "col_5": {
+      "text": "46$(SET)"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
+          "label": "pics",
+          "url": "https://goat-official222.x.yupoo.com/albums/149230835?uid=1&isSubCate=false&referrercate=4215138"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0935"
+  }
 }

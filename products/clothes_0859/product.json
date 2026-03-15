@@ -1,61 +1,61 @@
 {
-  "name": "Celine Polo",
+  "name": "Under ArmourPants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "1to1",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
     {
-      "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6190603723%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6190603723?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/864363947481?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/864363947481?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "44$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "6$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/215422538?uid=1&isSubCate=false&referrercate=5012627"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1961957829805432833?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLjMCAwLva9kkWzJAkUbIDRouRkz77g3z-QyG9DBA6eUPRG_0bqcZl_aokWc1fgnLsuOGI9D-ymFnQ9nlg9W4kqzZuXT-aoZL8Wlm6uSDmRQtnWwbdAmiZLEax8CG-FTROTZvS3tERQw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwVWnZ7_SXLrkkKBFwCzhgo4zlzLi8J7DRw675X3tlm_T32re34gFAXeBHFRHUuXu3hWlzkaYtc5PgefKmvX9rCNWRP1iCWtIyyAF7SiWcrtEP-WoiGhH0Bb3ZL2qO9Bo0yt6ED6KEbkw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0859",
   "raw_cells": {
     "col_0": {
-      "text": "370"
+      "text": "364"
     },
     "col_1": {
-      "text": "Celine Polo"
+      "text": "Under ArmourPants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLjMCAwLva9kkWzJAkUbIDRouRkz77g3z-QyG9DBA6eUPRG_0bqcZl_aokWc1fgnLsuOGI9D-ymFnQ9nlg9W4kqzZuXT-aoZL8Wlm6uSDmRQtnWwbdAmiZLEax8CG-FTROTZvS3tERQw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwVWnZ7_SXLrkkKBFwCzhgo4zlzLi8J7DRw675X3tlm_T32re34gFAXeBHFRHUuXu3hWlzkaYtc5PgefKmvX9rCNWRP1iCWtIyyAF7SiWcrtEP-WoiGhH0Bb3ZL2qO9Bo0yt6ED6KEbkw=w143-h110"
     },
-    "col_3": {
-      "text": "1to1",
+    "col_4": {
+      "text": "here",
       "links": [
         {
-          "label": "1to1",
-          "url": "https://oopbuy.com/product/weidian/6190603723?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/864363947481?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "44$"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/215422538?uid=1&isSubCate=false&referrercate=5012627"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1961957829805432833?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0859"
+  }
 }

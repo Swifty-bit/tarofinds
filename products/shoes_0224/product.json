@@ -1,47 +1,65 @@
 {
-  "name": "Motorsports Alternate",
+  "name": "Motorsports",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "KX2.0",
-  "budget_batch_links": [
+  "best_batch": "OG",
+  "best_batch_links": [
     {
-      "label": "KX2.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7249836913%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/taobao/6623070951?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6623070951?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
+  "budget_batch": "KX",
+  "budget_batch_links": [
+    {
+      "label": "KX",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "66$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayq73pu77l1cz51ZcVLxXl-G_Q5PF2ZjyPACdwz5PS50vJLJQYqvJM8op_uho-WA1W_AlmcBBN7dHizchw5XpaOBDxs1_ZUWkg517N-mbQP2-kMZ7aQmr4FEmSLcuhMisQSUcdHfyIHYg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwGAAvC73QzotZHHHrpAiFChrvmKf6f1NecXcJeiSOR1AscYEwkuzpXEwe7ML6zi1_IMwgkEV4oRkv1aGhrL4BiOXM27zCR8Hcf5bZo3B2Ed5I6Z5lmeBk78h_nz4NbaWs0yH0Eh83Y53Rh=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0224",
   "raw_cells": {
     "col_0": {
       "text": "239"
     },
     "col_1": {
-      "text": "Motorsports Alternate"
+      "text": "Motorsports"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayq73pu77l1cz51ZcVLxXl-G_Q5PF2ZjyPACdwz5PS50vJLJQYqvJM8op_uho-WA1W_AlmcBBN7dHizchw5XpaOBDxs1_ZUWkg517N-mbQP2-kMZ7aQmr4FEmSLcuhMisQSUcdHfyIHYg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwGAAvC73QzotZHHHrpAiFChrvmKf6f1NecXcJeiSOR1AscYEwkuzpXEwe7ML6zi1_IMwgkEV4oRkv1aGhrL4BiOXM27zCR8Hcf5bZo3B2Ed5I6Z5lmeBk78h_nz4NbaWs0yH0Eh83Y53Rh=w143-h110"
     },
-    "col_4": {
-      "text": "KX2.0",
+    "col_3": {
+      "text": "OG",
       "links": [
         {
-          "label": "KX2.0",
-          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/6623070951?inviteCode=29TOTHGNH"
         }
       ]
+    },
+    "col_4": {
+      "text": "KX",
+      "links": [
+        {
+          "label": "KX",
+          "url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "66$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0224"
+  }
 }

@@ -1,37 +1,48 @@
 {
-  "name": "AMM(A Ma Maniere)Dawn",
+  "name": "Metallic",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Y3",
+  "best_batch": "LJR/Y3",
   "best_batch_links": [
     {
+      "label": "LJR",
+      "url": "https://litbuy.com/product/weidian/7239346781?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+    },
+    {
       "label": "Y3",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251929780%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251929780?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "66$",
+  "best_price": "75$ / 65$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax0Hk9oqOozgK7xEumVOFB7tby7aFE2-iDALfk41vYE0J244WR3O1CIW_tXFknj-nJ4uFMuM25uHS2ZltBH-BMf4RqAqG4sNP2cOqez8Bq603h4ZyTcCra9XJoOVsbf-bxfh60-ftZbxzA1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPrgWMQxxDm3bH_xd898cPLVZzPCyAaZRd1FZIcp4AZyZoJ9mBaEQmDV7PDd05PKhaE5DmG9K0mqZNIcdm-OKoo4ZkJntg36Biysxq9MHve_kmu8sWcGjB6jFu3mQ953stdo3I9KDHzrnz=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0285",
   "raw_cells": {
     "col_0": {
       "text": "302"
     },
     "col_1": {
-      "text": "AMM(A Ma Maniere)Dawn"
+      "text": "Metallic"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax0Hk9oqOozgK7xEumVOFB7tby7aFE2-iDALfk41vYE0J244WR3O1CIW_tXFknj-nJ4uFMuM25uHS2ZltBH-BMf4RqAqG4sNP2cOqez8Bq603h4ZyTcCra9XJoOVsbf-bxfh60-ftZbxzA1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPrgWMQxxDm3bH_xd898cPLVZzPCyAaZRd1FZIcp4AZyZoJ9mBaEQmDV7PDd05PKhaE5DmG9K0mqZNIcdm-OKoo4ZkJntg36Biysxq9MHve_kmu8sWcGjB6jFu3mQ953stdo3I9KDHzrnz=w143-h110"
     },
     "col_3": {
-      "text": "Y3",
+      "text": "LJR/Y3",
       "links": [
+        {
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+        },
         {
           "label": "Y3",
           "url": "https://oopbuy.com/product/2/7251929780?inviteCode=29TOTHGNH"
@@ -39,9 +50,7 @@
       ]
     },
     "col_5": {
-      "text": "66$"
+      "text": "75$ / 65$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0285"
+  }
 }

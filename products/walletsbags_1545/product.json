@@ -1,5 +1,5 @@
 {
-  "name": "EssentialBag",
+  "name": "Nike Elite",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F766471732355%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/766471732355?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/2225747304?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/2225747304?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "8$",
+  "budget_price": "15$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1984960516830863361?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574392350334977?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzhpSItDOEUnBrMeb3QvmDyLtq-5YTZvfXEclXW3_mQGKjohVEbwz0mNQV6waibyPAIkSE8KX0qtquAVuFKDNBxFiqprvwhnKpmwGHmolE06z4tABBEvw6mkue4N8BC_aoal2WLrvtH894g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw1unnEOqfyTJxsbkNG69iT_Wsd6p5feT1zj_QpPaDj0cF9ycrQYJ7Xnj39VrzJhenuaKxvgFJOKZLPqe1xoQix84bCf2wmYe6SRtd-DEpWEoEBIMTTALx8vfGbs0KzNfW7eLU7rcpzIA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1545",
   "raw_cells": {
     "col_0": {
-      "text": "51"
+      "text": "47"
     },
     "col_1": {
-      "text": "EssentialBag"
+      "text": "Nike Elite"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzhpSItDOEUnBrMeb3QvmDyLtq-5YTZvfXEclXW3_mQGKjohVEbwz0mNQV6waibyPAIkSE8KX0qtquAVuFKDNBxFiqprvwhnKpmwGHmolE06z4tABBEvw6mkue4N8BC_aoal2WLrvtH894g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw1unnEOqfyTJxsbkNG69iT_Wsd6p5feT1zj_QpPaDj0cF9ycrQYJ7Xnj39VrzJhenuaKxvgFJOKZLPqe1xoQix84bCf2wmYe6SRtd-DEpWEoEBIMTTALx8vfGbs0KzNfW7eLU7rcpzIA=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/766471732355?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/2225747304?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "8$"
+      "text": "15$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1984960516830863361?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574392350334977?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1545"
+  }
 }

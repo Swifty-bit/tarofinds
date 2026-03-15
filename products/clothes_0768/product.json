@@ -1,61 +1,61 @@
 {
-  "name": "CP Company Extrafine Wool Goggle Balaclava Beanie",
+  "name": "CP CompanyCargo Pants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F964834770634%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/964834770634?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/773727106211?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/773727106211?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "22$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "15$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/176536729?uid=1"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/ali1688/773727106211"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxGuBeOtaWvFdaeCsnwP4xk5Dt2t60hAUGNgddqMzzpNC-2WOBkjjZ-tLbj39nTFrwQAO0AFTlWt8GDr7kNt2JX2RclmM0aWRwE64wiqViGm1-ACOm_touuo6yquIzgGymd6Y7nTVIWWg9v=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay0RbNgwDPK-XSuoAfqBoL-brU1cp-7TbL4ajh1uhbWYLZgqFQmisQB7nfXTtjE8xwW6__G5-OmHLrdGAO3eSVAWPnN9Odp5efaFzO3CLtY5KPnybrwjDKew3iW0evt2rA4nwRLs5ruJ3JS=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0768",
   "raw_cells": {
     "col_0": {
-      "text": "259"
+      "text": "255"
     },
     "col_1": {
-      "text": "CP Company Extrafine Wool Goggle Balaclava Beanie"
+      "text": "CP CompanyCargo Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxGuBeOtaWvFdaeCsnwP4xk5Dt2t60hAUGNgddqMzzpNC-2WOBkjjZ-tLbj39nTFrwQAO0AFTlWt8GDr7kNt2JX2RclmM0aWRwE64wiqViGm1-ACOm_touuo6yquIzgGymd6Y7nTVIWWg9v=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay0RbNgwDPK-XSuoAfqBoL-brU1cp-7TbL4ajh1uhbWYLZgqFQmisQB7nfXTtjE8xwW6__G5-OmHLrdGAO3eSVAWPnN9Odp5efaFzO3CLtY5KPnybrwjDKew3iW0evt2rA4nwRLs5ruJ3JS=w143-h110"
     },
-    "col_3": {
-      "text": "DRAGONREP",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/1/964834770634?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/773727106211?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "22$"
+    "col_6": {
+      "text": "15$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/176536729?uid=1"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/ali1688/773727106211"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0768"
+  }
 }

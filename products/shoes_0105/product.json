@@ -1,47 +1,47 @@
 {
-  "name": "There Skateboards",
+  "name": "April Skateboards",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "TOP/S2",
+  "best_batch": "M",
   "best_batch_links": [
     {
-      "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251543921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+      "label": "M",
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "48$",
+  "best_price": "47$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw6I5pY-96SVRZTdwM7wjmdJFDY1ENDrX2xHop7i4rChOvOJ89clvJs5BxWCTG-Uw5sMxE2_jblXLLAXplXk1R0KVoPbxxAi4L8liOshGcA1L9ZbuufNFrHQgU6W4iSfB1fKjaISS65Ng=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AygyrHLb7hdFeFUKMg44c92xcBO6Qm0Ktk6E16sCHVJR3GJMk_XH8OD-_0EhtZLRvqNj7PL4EiY4j6WSuet3uz2H-zMac2e7N_GLscoNDyLubH5C33bqrqXEqyxPDus4rIWggN2uAFWoQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0105",
   "raw_cells": {
     "col_0": {
       "text": "114"
     },
     "col_1": {
-      "text": "There Skateboards"
+      "text": "April Skateboards"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw6I5pY-96SVRZTdwM7wjmdJFDY1ENDrX2xHop7i4rChOvOJ89clvJs5BxWCTG-Uw5sMxE2_jblXLLAXplXk1R0KVoPbxxAi4L8liOshGcA1L9ZbuufNFrHQgU6W4iSfB1fKjaISS65Ng=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AygyrHLb7hdFeFUKMg44c92xcBO6Qm0Ktk6E16sCHVJR3GJMk_XH8OD-_0EhtZLRvqNj7PL4EiY4j6WSuet3uz2H-zMac2e7N_GLscoNDyLubH5C33bqrqXEqyxPDus4rIWggN2uAFWoQ=w143-h110"
     },
     "col_3": {
-      "text": "TOP/S2",
+      "text": "M",
       "links": [
         {
-          "label": "TOP/S2",
-          "url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "48$"
+      "text": "47$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0105"
+  }
 }

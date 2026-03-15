@@ -1,39 +1,35 @@
 {
-  "name": "SB Navy (2025)",
+  "name": "UNDEFEATEDUNDFTD 2025",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX",
-  "budget_batch_links": [
-    {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "68$",
-  "budget_price": "42$",
-  "pics_text": "42$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "69$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az0aJWS1cOWu9I_T73_58Yr8xqy6nGjuH-u2lEKXORjTwgEoLSV-dpVVJ33ckKIKak9z4vvOl2OWpbPRWvYcJ4Dz8Qe4MVdIN67VHnWLbwqHu8fykOMB38IpHunnTuWa6ucO-zsl-YmCENC=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1DLX6h1jQOv3_vTvccMTyVeadqYpJmwHZa47I7HiR8JVGgoCHraD_Fw1Z9VJ3t0_OiBH2BdZ5dV2eqOn5DSs8ELz1dXi4iltN8P0oGo9jcyhxTS2WdZeNFA-YPVHv8-KJgTMcQGn1PS1J=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0273",
   "raw_cells": {
     "col_0": {
       "text": "288"
     },
     "col_1": {
-      "text": "SB Navy (2025)"
+      "text": "UNDEFEATEDUNDFTD 2025"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az0aJWS1cOWu9I_T73_58Yr8xqy6nGjuH-u2lEKXORjTwgEoLSV-dpVVJ33ckKIKak9z4vvOl2OWpbPRWvYcJ4Dz8Qe4MVdIN67VHnWLbwqHu8fykOMB38IpHunnTuWa6ucO-zsl-YmCENC=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1DLX6h1jQOv3_vTvccMTyVeadqYpJmwHZa47I7HiR8JVGgoCHraD_Fw1Z9VJ3t0_OiBH2BdZ5dV2eqOn5DSs8ELz1dXi4iltN8P0oGo9jcyhxTS2WdZeNFA-YPVHv8-KJgTMcQGn1PS1J=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -44,22 +40,8 @@
         }
       ]
     },
-    "col_4": {
-      "text": "KX",
-      "links": [
-        {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
     "col_5": {
-      "text": "68$"
-    },
-    "col_6": {
-      "text": "42$"
+      "text": "69$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0273"
+  }
 }

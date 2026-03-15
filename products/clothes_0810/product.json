@@ -1,61 +1,81 @@
 {
-  "name": "MonclerSwim Shorts10 Colors",
+  "name": "Montbeliard Down Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "topangels/RepsKing",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F734987351273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/734987351273?inviteCode=29TOTHGNH"
+      "label": "topangels",
+      "url": "https://litbuy.com/product/weidian/745273431005?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/745273431005?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "RepsKing",
+      "url": "https://litbuy.com/product/weidian/7467864325?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7467864325?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "9$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "220$ / 100$",
+  "budget_price": "",
+  "pics_text": "topangels/repsking",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1940214111435616257?action=discord&cid=1942512167859859457"
+      "label": "topangels",
+      "url": "https://topangelscn.x.yupoo.com/albums/208605259?uid=1&isSubCate=false&referrercate=5000388"
+    },
+    {
+      "label": "repsking",
+      "url": "https://repscn.x.yupoo.com/albums/163628060?uid=1&isSubCate=false&referrercate=4014737"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AySQfQh1Rr2F2_kkOp9T9gwK_l6E7SYqF1LdyIo7jdxfyGX7PazHHhYWMjBzjLVwHUealBMPZMe4mydKYufZcZOXzqrfqTb46e5bOXeds3OyvGK3k30OlsIZucrwMX_ALpVXNbJHBGDmjaF=w143-h110",
+  "notes": "topangels use goose downRepsking use duck down",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axvx2PZbMIBtnO3VdK5-5iHPc2BqTapJkY0VlXWX6bR3OcMICB7ETXKNakDnNrzFyFzsVJDExuIcqpEWWlwusBUDTQLT8BgDNDi_Hgj9OYtVgFV6gQ3lBVv3ORlIomDtdDyMODOYgLVh_we=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0810",
   "raw_cells": {
     "col_0": {
-      "text": "305"
+      "text": "301"
     },
     "col_1": {
-      "text": "MonclerSwim Shorts10 Colors"
+      "text": "Montbeliard Down Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AySQfQh1Rr2F2_kkOp9T9gwK_l6E7SYqF1LdyIo7jdxfyGX7PazHHhYWMjBzjLVwHUealBMPZMe4mydKYufZcZOXzqrfqTb46e5bOXeds3OyvGK3k30OlsIZucrwMX_ALpVXNbJHBGDmjaF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axvx2PZbMIBtnO3VdK5-5iHPc2BqTapJkY0VlXWX6bR3OcMICB7ETXKNakDnNrzFyFzsVJDExuIcqpEWWlwusBUDTQLT8BgDNDi_Hgj9OYtVgFV6gQ3lBVv3ORlIomDtdDyMODOYgLVh_we=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "topangels/RepsKing",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/734987351273?inviteCode=29TOTHGNH"
+          "label": "topangels",
+          "url": "https://oopbuy.com/product/1/745273431005?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/weidian/7467864325?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "9$"
+    "col_5": {
+      "text": "220$ / 100$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "topangels/repsking",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1940214111435616257?action=discord&cid=1942512167859859457"
+          "label": "topangels",
+          "url": "https://topangelscn.x.yupoo.com/albums/208605259?uid=1&isSubCate=false&referrercate=5000388"
+        },
+        {
+          "label": "repsking",
+          "url": "https://repscn.x.yupoo.com/albums/163628060?uid=1&isSubCate=false&referrercate=4014737"
         }
       ]
+    },
+    "col_8": {
+      "text": "topangels use goose downRepsking use duck down"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0810"
+  }
 }

@@ -1,61 +1,58 @@
 {
-  "name": "ACW T-Shirt10 Styles",
+  "name": "CarharttPuffer Jacket2 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "FFCP",
+  "budget_batch": "CND ISLAND",
   "budget_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F621389387238%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH"
+      "label": "CND ISLAND",
+      "url": "https://litbuy.com/product/weidian/7289603809?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7289603809?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "8$",
-  "pics_text": "QC Pics",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/621389387238"
+      "label": "pics",
+      "url": "https://baymaxcloth.x.yupoo.com/albums/178048056?uid=1&isSubCate=false&referrercate=4681789"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxRSdNIDUhKOEcZIOj29-9rcn5XNc5bjwCzfpiLlyCDHoVox_xLc4Lbf-tPjmhpS4khSyxLrgWOxDET7jbIcEZ-sTal3dsXUIOsX-xX2tblyyKZWBB4KxWoqB8mzPF7z_VGECFMcVkV--GN=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayx5BGiyu3fAPOpIHKXW7AKkU9fNR-yukp_tnjsv1uWYDjqk2MjypMJtuqZUgu0xZU9y63lxLvoUZbOFJ-DwqanWvnLR4W954u-N-BjD3KrYcXmJE8XrgtFqlVe4d07K8xDS3phAI-s2g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1439",
   "raw_cells": {
     "col_0": {
-      "text": "1052"
+      "text": "1046"
     },
     "col_1": {
-      "text": "ACW T-Shirt10 Styles"
+      "text": "CarharttPuffer Jacket2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxRSdNIDUhKOEcZIOj29-9rcn5XNc5bjwCzfpiLlyCDHoVox_xLc4Lbf-tPjmhpS4khSyxLrgWOxDET7jbIcEZ-sTal3dsXUIOsX-xX2tblyyKZWBB4KxWoqB8mzPF7z_VGECFMcVkV--GN=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayx5BGiyu3fAPOpIHKXW7AKkU9fNR-yukp_tnjsv1uWYDjqk2MjypMJtuqZUgu0xZU9y63lxLvoUZbOFJ-DwqanWvnLR4W954u-N-BjD3KrYcXmJE8XrgtFqlVe4d07K8xDS3phAI-s2g=w143-h110"
     },
     "col_4": {
-      "text": "FFCP",
+      "text": "CND ISLAND",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/621389387238?inviteCode=29TOTHGNH"
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7289603809?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "8$"
-    },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/621389387238"
+          "label": "pics",
+          "url": "https://baymaxcloth.x.yupoo.com/albums/178048056?uid=1&isSubCate=false&referrercate=4681789"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1439"
+  }
 }

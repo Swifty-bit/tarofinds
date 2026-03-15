@@ -1,61 +1,64 @@
 {
-  "name": "Ralph LaurenSwim Shorts",
+  "name": "Ralph Lauren Sweater9 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "budget",
+  "budget_batch": "CloudShop",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F711622556368%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/711622556368?inviteCode=29TOTHGNH"
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/760438413422?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/760438413422?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "7$",
+  "budget_price": "14$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1890929406513352706?action=discord&cid=1839578945794654209"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1892912024184262658?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSEoTxl4y5A2NppkHKEnWGHvr9n4oF4OJr8z9G7-rrveQe_Q60cZdbM84ewgOnKqpUwVBvO9pUtNS9nyolymJ0920GND9YQeE2CR1m34eWn9NVzg4tggfOm2k-zAJBwyha1O85S7A8dvbD=w143-h110",
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzrBEDaR6e4WCfmcbObdGbOP-okJ9ePtJZA88v6ODOaRC427CVXgopY4KfnDt8yhCRR6O_lvCC05MRG2G9md3E4KAN0KYWoXTnGssEc9ifP5T2zVZFZapCdWatJjpqy5zLtNPOG1rijwNZU=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0623",
   "raw_cells": {
     "col_0": {
-      "text": "94"
+      "text": "90"
     },
     "col_1": {
-      "text": "Ralph LaurenSwim Shorts"
+      "text": "Ralph Lauren Sweater9 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSEoTxl4y5A2NppkHKEnWGHvr9n4oF4OJr8z9G7-rrveQe_Q60cZdbM84ewgOnKqpUwVBvO9pUtNS9nyolymJ0920GND9YQeE2CR1m34eWn9NVzg4tggfOm2k-zAJBwyha1O85S7A8dvbD=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzrBEDaR6e4WCfmcbObdGbOP-okJ9ePtJZA88v6ODOaRC427CVXgopY4KfnDt8yhCRR6O_lvCC05MRG2G9md3E4KAN0KYWoXTnGssEc9ifP5T2zVZFZapCdWatJjpqy5zLtNPOG1rijwNZU=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "CloudShop",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/1/711622556368?inviteCode=29TOTHGNH"
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/760438413422?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "7$"
+      "text": "14$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1890929406513352706?action=discord&cid=1839578945794654209"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1892912024184262658?action=discord&cid=1840597081113280514"
         }
       ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0623"
+  }
 }

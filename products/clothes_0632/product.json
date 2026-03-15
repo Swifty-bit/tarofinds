@@ -1,87 +1,61 @@
 {
-  "name": "Ralph Lauren Vest",
+  "name": "Ralph LaurenWOMAN5 Button POLO8 Colours",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595175937%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7595175937?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/taobao/7224385846?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7224385846?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F717025897524%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/717025897524?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "59$",
-  "budget_price": "18$",
-  "pics_text": "NEWDP/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "22$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "NEWDP",
-      "url": "https://newdp.x.yupoo.com/albums/176448033?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1996045165050023937?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/155097990?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az7s_vYK_7_AB-LoYlH_Gax8z0iWP2MlKhgUZ7PRsMZrOgrCzrten0VfCb_NUT-Jq4MmfowF6atw91uB6xPoTNTIgHNpZpnqhW4jTkZGL2r-8EZsVjMUNcS4KSe53tRtijN0i6_g1HjfQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwMl8lOGgKKGD07l3FEJvCVFYujaIn6_phMc3EG47IQYn8qPvhgFgtGxrtz92-jgPB_Q75xKQ1TCI6sTu78eNvGX42Xw5fyciyb9IUsfCNtLX0sCUQmKBGG2Z9u3lVioDjXnuqdFB6ZR9nz=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0632",
   "raw_cells": {
     "col_0": {
-      "text": "103"
+      "text": "99"
     },
     "col_1": {
-      "text": "Ralph Lauren Vest"
+      "text": "Ralph LaurenWOMAN5 Button POLO8 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az7s_vYK_7_AB-LoYlH_Gax8z0iWP2MlKhgUZ7PRsMZrOgrCzrten0VfCb_NUT-Jq4MmfowF6atw91uB6xPoTNTIgHNpZpnqhW4jTkZGL2r-8EZsVjMUNcS4KSe53tRtijN0i6_g1HjfQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMl8lOGgKKGD07l3FEJvCVFYujaIn6_phMc3EG47IQYn8qPvhgFgtGxrtz92-jgPB_Q75xKQ1TCI6sTu78eNvGX42Xw5fyciyb9IUsfCNtLX0sCUQmKBGG2Z9u3lVioDjXnuqdFB6ZR9nz=w143-h110"
     },
     "col_3": {
-      "text": "NEWDP",
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://oopbuy.com/product/weidian/7595175937?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/717025897524?inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/7224385846?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "59$"
-    },
-    "col_6": {
-      "text": "18$"
+      "text": "22$"
     },
     "col_7": {
-      "text": "NEWDP/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://newdp.x.yupoo.com/albums/176448033?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1996045165050023937?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/155097990?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0632"
+  }
 }

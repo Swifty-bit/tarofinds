@@ -1,61 +1,61 @@
 {
-  "name": "Balancinga Laurel Polo White",
+  "name": "Balenciaga Planet Earth T-shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "JennyTurtle",
+  "best_batch": "AshMade",
   "best_batch_links": [
     {
-      "label": "JennyTurtle",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7433244546%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7433244546?inviteCode=29TOTHGNH"
+      "label": "AshMade",
+      "url": "https://litbuy.com/product/weidian/7392567379?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7392567379?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "25$",
+  "best_price": "24$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://doppel.fit/item/weidian/7433244546"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1940214266142519298?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxwdA9sj-f9yG_dUrvTNl2wckvS6CkW3kHjZiZZ6FOb8RIYXXDrcnJOskTbH4ljheDyKZl_4AC0hzwcKr76mThh1wZ00OtNx72n7esN6dGVzjuPaRSedilI_G13OuDMtjljQxFLocd9GhjL=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwaJG5vSeBnxo0_4SErjpSsrw1gpfSFDCLtrQtL2K5qbVVwLgBEDnuh97wUZIZ3WuHTtsmqyYlyud-4IaVsFOT3Ugkx7HNRduWpV1fuMUQbhxjixAqkO-rt7zYhnE-yHBbxXBJZqCthEql9=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1256",
   "raw_cells": {
     "col_0": {
-      "text": "845"
+      "text": "841"
     },
     "col_1": {
-      "text": "Balancinga Laurel Polo White"
+      "text": "Balenciaga Planet Earth T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxwdA9sj-f9yG_dUrvTNl2wckvS6CkW3kHjZiZZ6FOb8RIYXXDrcnJOskTbH4ljheDyKZl_4AC0hzwcKr76mThh1wZ00OtNx72n7esN6dGVzjuPaRSedilI_G13OuDMtjljQxFLocd9GhjL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwaJG5vSeBnxo0_4SErjpSsrw1gpfSFDCLtrQtL2K5qbVVwLgBEDnuh97wUZIZ3WuHTtsmqyYlyud-4IaVsFOT3Ugkx7HNRduWpV1fuMUQbhxjixAqkO-rt7zYhnE-yHBbxXBJZqCthEql9=w143-h110"
     },
     "col_3": {
-      "text": "JennyTurtle",
+      "text": "AshMade",
       "links": [
         {
-          "label": "JennyTurtle",
-          "url": "https://oopbuy.com/product/weidian/7433244546?inviteCode=29TOTHGNH"
+          "label": "AshMade",
+          "url": "https://oopbuy.com/product/weidian/7392567379?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "25$"
+      "text": "24$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://doppel.fit/item/weidian/7433244546"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1940214266142519298?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1256"
+  }
 }

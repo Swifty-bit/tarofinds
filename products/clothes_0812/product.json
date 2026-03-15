@@ -1,69 +1,95 @@
 {
-  "name": "Tricolor StripeWool Beanie",
+  "name": "Logo PatchSwim Shorts",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7566316828%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7566316828?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7565928320?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565928320?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "13$",
-  "budget_price": "",
-  "pics_text": "QC Pics/pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/918093709324?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/918093709324?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "23$",
+  "budget_price": "14$",
+  "pics_text": "QC Pics/repsking/budget",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1966688787993550849?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1933691005792493569?action=discord&cid=1840597081113280514"
     },
     {
-      "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/202042491?uid=1&isSubCate=false&referrercate=4544590"
+      "label": "repsking",
+      "url": "https://repsking.x.yupoo.com/albums/161741181?uid=1&isSubCate=false&referrercate=4544589"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938039870258802689?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw-bKt1sUeXK1YeKcQn6L2PSZ7SSLsiJVa3ipREzDF6Olitne3L_O3N1qZ8HZN0aIcmT6SUMCCrfSnO5vpkWnyPC5Rt18JqzZumF07yVJKYvcizrKg3wngBOoxwreEs6zKQD_dpN65h_g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmB40rSZw4ZmKdDqNeuzWiJUHVNwMTOj5eHVr4xe69AY6lFPiYbEuMrCiRzdWhiamIzn2BBW3YSQhR4FmgBfcrfOhs1i3PZKVHMGfY_ABJzD5opvyO-xvP1MIBoFiyvl4AmePyog-kpQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0812",
   "raw_cells": {
     "col_0": {
-      "text": "307"
+      "text": "303"
     },
     "col_1": {
-      "text": "Tricolor StripeWool Beanie"
+      "text": "Logo PatchSwim Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw-bKt1sUeXK1YeKcQn6L2PSZ7SSLsiJVa3ipREzDF6Olitne3L_O3N1qZ8HZN0aIcmT6SUMCCrfSnO5vpkWnyPC5Rt18JqzZumF07yVJKYvcizrKg3wngBOoxwreEs6zKQD_dpN65h_g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmB40rSZw4ZmKdDqNeuzWiJUHVNwMTOj5eHVr4xe69AY6lFPiYbEuMrCiRzdWhiamIzn2BBW3YSQhR4FmgBfcrfOhs1i3PZKVHMGfY_ABJzD5opvyO-xvP1MIBoFiyvl4AmePyog-kpQ=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7566316828?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7565928320?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/918093709324?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "13$"
+      "text": "23$"
+    },
+    "col_6": {
+      "text": "14$"
     },
     "col_7": {
-      "text": "QC Pics/pics",
+      "text": "QC Pics/repsking/budget",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1966688787993550849?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1933691005792493569?action=discord&cid=1840597081113280514"
         },
         {
-          "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/202042491?uid=1&isSubCate=false&referrercate=4544590"
+          "label": "repsking",
+          "url": "https://repsking.x.yupoo.com/albums/161741181?uid=1&isSubCate=false&referrercate=4544589"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938039870258802689?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0812"
+  }
 }

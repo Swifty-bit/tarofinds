@@ -1,61 +1,61 @@
 {
-  "name": "DiorZip Hoodie4 Colors",
+  "name": "LVSwim ShortsMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "tophotfashion",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "tophotfashion",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F948265050471%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/948265050471?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7567336748?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7567336748?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "65$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "17$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://tophotfashion.x.yupoo.com/albums/201881188?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1942388523127664641?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBLt7vOwhti4-lUTL2ybNB2HTFVFo1s_AWAxxZ3AFIkm8af2VpHyMjLIkEznBp4j5s8Nckj44N9F9N1ycr90ojgSdkQeVWptYGTB29sltq_DwyD8A5HgyD17Js-eg5ri_1Plqn28b2iA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw3haSRDdeLxi4vnDRoD7XJkjLVqQAUnO1V2DzugZSzVaNSM2cmUV0iDCCJE9a4n-YygGWCxcXuOrKX4-Cxo0RvLNrIl67CluTed5IRsyqHsJAvB7jG6TZCeuLWyIpPCb9bVUEREniGU3mC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0839",
   "raw_cells": {
     "col_0": {
-      "text": "338"
+      "text": "332"
     },
     "col_1": {
-      "text": "DiorZip Hoodie4 Colors"
+      "text": "LVSwim ShortsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBLt7vOwhti4-lUTL2ybNB2HTFVFo1s_AWAxxZ3AFIkm8af2VpHyMjLIkEznBp4j5s8Nckj44N9F9N1ycr90ojgSdkQeVWptYGTB29sltq_DwyD8A5HgyD17Js-eg5ri_1Plqn28b2iA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw3haSRDdeLxi4vnDRoD7XJkjLVqQAUnO1V2DzugZSzVaNSM2cmUV0iDCCJE9a4n-YygGWCxcXuOrKX4-Cxo0RvLNrIl67CluTed5IRsyqHsJAvB7jG6TZCeuLWyIpPCb9bVUEREniGU3mC=w143-h110"
     },
-    "col_3": {
-      "text": "tophotfashion",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "tophotfashion",
-          "url": "https://oopbuy.com/product/1/948265050471?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7567336748?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "65$"
+    "col_6": {
+      "text": "17$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://tophotfashion.x.yupoo.com/albums/201881188?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1942388523127664641?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0839"
+  }
 }

@@ -1,47 +1,74 @@
 {
-  "name": "OnCloudtilt 2.0",
+  "name": "Burberry Slides",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "WWTOP",
+  "best_batch": "YMDD/Repsun",
   "best_batch_links": [
     {
-      "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564050515%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564050515?inviteCode=29TOTHGNH"
+      "label": "YMDD",
+      "url": "https://litbuy.com/product/weidian/7248369398?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7248369398?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/weidian/7514733956?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7514733956?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "35$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/729184689324?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/729184689324?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "45$ / 30$",
+  "budget_price": "14$",
+  "pics_text": "14$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2V6sQ-aiV1MBNBWQ5EzLTbv3lZlMvnsKhWbo_uAWfpCuzNYSGCFKjmyt7LZawTdj26d59duTFf8uUCtE1fOYueHuysSQLbGSeOhkTxPQOXvKJ64vZxueuTV2SDICwH_C5gMNMW3h-uhjd=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyRMDIOOtbtrpPrSuHkJqL623DwcjaxB3rtJhdpF5ESf-G7V4_a9WCwG9-FPLb0bEA2FmHhk6EcJ1xaoALo9Z5vFoFSnmirN1_iRj6RsKGCgVZghkDOzWmkeaBSPJlppwZs39tVL_IgNNfI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0497",
   "raw_cells": {
     "col_0": {
-      "text": "584"
+      "text": "580"
     },
     "col_1": {
-      "text": "OnCloudtilt 2.0"
+      "text": "Burberry Slides"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2V6sQ-aiV1MBNBWQ5EzLTbv3lZlMvnsKhWbo_uAWfpCuzNYSGCFKjmyt7LZawTdj26d59duTFf8uUCtE1fOYueHuysSQLbGSeOhkTxPQOXvKJ64vZxueuTV2SDICwH_C5gMNMW3h-uhjd=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyRMDIOOtbtrpPrSuHkJqL623DwcjaxB3rtJhdpF5ESf-G7V4_a9WCwG9-FPLb0bEA2FmHhk6EcJ1xaoALo9Z5vFoFSnmirN1_iRj6RsKGCgVZghkDOzWmkeaBSPJlppwZs39tVL_IgNNfI=w143-h110"
     },
     "col_3": {
-      "text": "WWTOP",
+      "text": "YMDD/Repsun",
       "links": [
         {
-          "label": "WWTOP",
-          "url": "https://oopbuy.com/product/weidian/7564050515?inviteCode=29TOTHGNH"
+          "label": "YMDD",
+          "url": "https://oopbuy.com/product/weidian/7248369398?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/weidian/7514733956?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/729184689324?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
+      "text": "45$ / 30$"
+    },
+    "col_6": {
+      "text": "14$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0497"
+  }
 }

@@ -1,61 +1,87 @@
 {
-  "name": "Syna World Down Jacket Puffer",
+  "name": "Syna TracksuitHoodie & Pants4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "elephant",
   "best_batch_links": [
     {
       "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7239134558%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7239134558?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7287375148?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7287375148?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "78$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/736632475800?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "46$(SET)",
+  "budget_price": "10$(SET)",
+  "pics_text": "elephant/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/163523504?uid=1"
+      "label": "elephant",
+      "url": "https://elephant-factory.x.yupoo.com/albums/177358626?uid=1&isSubCate=false&referrercate=4564614"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxtuQ1D2QW5Wh6XXcXgdDbAKzUsC7qRxvGylVtLxq3ChcuOU7M-jT__PXkZCE54mj9ccY2-fM1TFFcQvnvCcMS8Aa20xDxyFUcLtndo6d31uem-5Slrq3fZSuA5SzJOll0bEWjs0BV5uKfp=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwdGipWAUFggLli-1He1jQ3rSole029t7aEuk61AWrnChFL4Sla2pO-yBzSKOTIETul8Welgut1mrPbc85CR_iMY31S1hr4zsOu6rwLeigi48yQtfvowWd6p1RMxhWnOhvx2V-cMgztrWFf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0936",
   "raw_cells": {
     "col_0": {
-      "text": "463"
+      "text": "459"
     },
     "col_1": {
-      "text": "Syna World Down Jacket Puffer"
+      "text": "Syna TracksuitHoodie & Pants4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxtuQ1D2QW5Wh6XXcXgdDbAKzUsC7qRxvGylVtLxq3ChcuOU7M-jT__PXkZCE54mj9ccY2-fM1TFFcQvnvCcMS8Aa20xDxyFUcLtndo6d31uem-5Slrq3fZSuA5SzJOll0bEWjs0BV5uKfp=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwdGipWAUFggLli-1He1jQ3rSole029t7aEuk61AWrnChFL4Sla2pO-yBzSKOTIETul8Welgut1mrPbc85CR_iMY31S1hr4zsOu6rwLeigi48yQtfvowWd6p1RMxhWnOhvx2V-cMgztrWFf=w143-h110"
     },
     "col_3": {
       "text": "elephant",
       "links": [
         {
           "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7239134558?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7287375148?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/736632475800?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "78$"
+      "text": "46$(SET)"
+    },
+    "col_6": {
+      "text": "10$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "elephant/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/163523504?uid=1"
+          "label": "elephant",
+          "url": "https://elephant-factory.x.yupoo.com/albums/177358626?uid=1&isSubCate=false&referrercate=4564614"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/736632475800"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0936"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "F1 JacketsMany Styles",
+  "name": "OFFWHITE Tee100 Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F729893742020%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/729893742020?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/724213294911?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/724213294911?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "16$",
+  "budget_price": "8$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1908686596670066690?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1876077772932722689?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3nLJtMGOv4T5N9M6VzSvYhqG87DPYlVYa4wCgHo31F_3aZeYTLhvKUoAt8hjJl8CPEUBXtTTCzCbwvoN8Je-Ar6zrvexvTF4l_CjD9Dn4HDXF6901yMQq8AWQe4jaDyq67QspkiHWHA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzYD2xUpSroMz_A3sWAtE1ryScL4kEytwdu9mVgwZeBly4zMk4DS0oF-_JtNBZtqPWwxhSKnR_Lh55j1Wg2lx2nhkkTmuOityR_RHXjcmbzG02w8HHLv54pusezJF4vQMeyv2yN_jGUPTHI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0659",
   "raw_cells": {
     "col_0": {
-      "text": "138"
+      "text": "132"
     },
     "col_1": {
-      "text": "F1 JacketsMany Styles"
+      "text": "OFFWHITE Tee100 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3nLJtMGOv4T5N9M6VzSvYhqG87DPYlVYa4wCgHo31F_3aZeYTLhvKUoAt8hjJl8CPEUBXtTTCzCbwvoN8Je-Ar6zrvexvTF4l_CjD9Dn4HDXF6901yMQq8AWQe4jaDyq67QspkiHWHA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzYD2xUpSroMz_A3sWAtE1ryScL4kEytwdu9mVgwZeBly4zMk4DS0oF-_JtNBZtqPWwxhSKnR_Lh55j1Wg2lx2nhkkTmuOityR_RHXjcmbzG02w8HHLv54pusezJF4vQMeyv2yN_jGUPTHI=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/1/729893742020?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/724213294911?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "16$"
+      "text": "8$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1908686596670066690?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1876077772932722689?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0659"
+  }
 }

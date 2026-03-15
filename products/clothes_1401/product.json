@@ -1,64 +1,64 @@
 {
-  "name": "Burberry Check ShortsMany Styles",
+  "name": "Burberry Equestrian Knight Sweater",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "kungfu",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7243271599%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7243271599?inviteCode=29TOTHGNH"
+      "label": "kungfu",
+      "url": "https://litbuy.com/product/weidian/7564564626?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564564626?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "62$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631228877684738?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://madebykungfu.x.yupoo.com/albums/211866811?uid=1&isSubCate=false&referrercate=4654696"
     }
   ],
-  "notes": "It doesn't have \"Burberry\" inside tag",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzURF1PeeXgCI7hJpyaMTjOh51uw9ny2kEIBTZU3mLxUcO_StOb07SOywgHpXeBbxfW1joFqJ24BK-4rXkISec0vUFuuHwtlBlL2kavaNixEXY88F6WsGxxHT4PjtM9rDKmCJ5mETdSih53=w143-h110",
+  "notes": "100% Wool",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwiGnjnbJBBt_ILS9tgRTG2FSNU-0aqJWbQYgZJObSKte4toLuY3iMKq9zyP05rnKhDcD4_z0CaCXlAoaCycu2qDwfYymPxEUAG3pUT_VXJ1_Cu0WOg0KsiXzvXPHqq3Dk3CCTF7vqxyHbv=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1401",
   "raw_cells": {
     "col_0": {
-      "text": "1008"
+      "text": "1004"
     },
     "col_1": {
-      "text": "Burberry Check ShortsMany Styles"
+      "text": "Burberry Equestrian Knight Sweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzURF1PeeXgCI7hJpyaMTjOh51uw9ny2kEIBTZU3mLxUcO_StOb07SOywgHpXeBbxfW1joFqJ24BK-4rXkISec0vUFuuHwtlBlL2kavaNixEXY88F6WsGxxHT4PjtM9rDKmCJ5mETdSih53=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwiGnjnbJBBt_ILS9tgRTG2FSNU-0aqJWbQYgZJObSKte4toLuY3iMKq9zyP05rnKhDcD4_z0CaCXlAoaCycu2qDwfYymPxEUAG3pUT_VXJ1_Cu0WOg0KsiXzvXPHqq3Dk3CCTF7vqxyHbv=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "kungfu",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/weidian/7243271599?inviteCode=29TOTHGNH"
+          "label": "kungfu",
+          "url": "https://oopbuy.com/product/weidian/7564564626?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "15$"
+    "col_5": {
+      "text": "62$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631228877684738?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://madebykungfu.x.yupoo.com/albums/211866811?uid=1&isSubCate=false&referrercate=4654696"
         }
       ]
     },
     "col_8": {
-      "text": "It doesn't have \"Burberry\" inside tag"
+      "text": "100% Wool"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1401"
+  }
 }

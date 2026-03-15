@@ -1,47 +1,56 @@
 {
-  "name": "TrainersBlack Embossed Monogram",
+  "name": "TrainersBlue Denim",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "A+",
+  "best_batch": "PONE/Foshan",
   "best_batch_links": [
     {
-      "label": "A+",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5925479942%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/5925479942?inviteCode=29TOTHGNH"
+      "label": "PONE",
+      "url": "https://litbuy.com/product/weidian/7215295063?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7215295063?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "Foshan",
+      "url": "https://litbuy.com/product/weidian/7564004903?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "79$",
+  "best_price": "103$ / 75$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az2GqAIPa02KBXQZYKiEtnuxh7GO7LGX7-LvLFaPn6M3d9KYpQ8FEmTIEr0R-9mNXjTcOTlLYmbIN0BQuz8s8HwmY2V66gtROMH8e71PQy2OcTK1UL9flTQduiqBL90lwW1Os6XbzxYcw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwsdeqkXpTGL5WwdOCNhCHlGSmSIXjoB2tG_HmMTjXwPSugxp7a97d4BVSDbxkcC30Syk4rsltRv5b4HtigB3mCKG5ytkay_h_-Id-XLA4ACRh1xu7CoE6Mfcy4EaB7FCUOu2ZXRMLWPA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0445",
   "raw_cells": {
     "col_0": {
       "text": "506"
     },
     "col_1": {
-      "text": "TrainersBlack Embossed Monogram"
+      "text": "TrainersBlue Denim"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az2GqAIPa02KBXQZYKiEtnuxh7GO7LGX7-LvLFaPn6M3d9KYpQ8FEmTIEr0R-9mNXjTcOTlLYmbIN0BQuz8s8HwmY2V66gtROMH8e71PQy2OcTK1UL9flTQduiqBL90lwW1Os6XbzxYcw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwsdeqkXpTGL5WwdOCNhCHlGSmSIXjoB2tG_HmMTjXwPSugxp7a97d4BVSDbxkcC30Syk4rsltRv5b4HtigB3mCKG5ytkay_h_-Id-XLA4ACRh1xu7CoE6Mfcy4EaB7FCUOu2ZXRMLWPA=w143-h110"
     },
     "col_3": {
-      "text": "A+",
+      "text": "PONE/Foshan",
       "links": [
         {
-          "label": "A+",
-          "url": "https://oopbuy.com/product/weidian/5925479942?inviteCode=29TOTHGNH"
+          "label": "PONE",
+          "url": "https://oopbuy.com/product/weidian/7215295063?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "Foshan",
+          "url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "79$"
+      "text": "103$ / 75$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0445"
+  }
 }

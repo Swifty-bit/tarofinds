@@ -1,47 +1,47 @@
 {
-  "name": "Off White Sail",
+  "name": "Flight Club",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LJR",
+  "best_batch": "GX",
   "best_batch_links": [
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7239346781%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+      "label": "GX",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "83$",
+  "best_price": "73$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azkl_1-gKGaILRpLPCwIlTh_9MDAIUGrn4ujHFZetrwvPupT519B7oNrss_h4Uw3BlN1qCJNF9ndyAOF099XPJJ6geqKbyCXCzoDAf7Nh0MfOJcnvfDUEdwyMYOtCkpgw4y0f-D2fUGbb9K=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyxtcV6paV-x-tSACh_MJWP5uE3EZMyQ9VmGLgzpymbzl50EO4cZ-vPZAs5CTsDYzRSZ2nY4jURJaHuo7La8WNdTgFz9tfcf-ZNVvdVJeVCGMZB7LCWVX27XaONbaUi0vqq17ZuFdGKJVqM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0281",
   "raw_cells": {
     "col_0": {
-      "text": "298"
+      "text": "296"
     },
     "col_1": {
-      "text": "Off White Sail"
+      "text": "Flight Club"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azkl_1-gKGaILRpLPCwIlTh_9MDAIUGrn4ujHFZetrwvPupT519B7oNrss_h4Uw3BlN1qCJNF9ndyAOF099XPJJ6geqKbyCXCzoDAf7Nh0MfOJcnvfDUEdwyMYOtCkpgw4y0f-D2fUGbb9K=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyxtcV6paV-x-tSACh_MJWP5uE3EZMyQ9VmGLgzpymbzl50EO4cZ-vPZAs5CTsDYzRSZ2nY4jURJaHuo7La8WNdTgFz9tfcf-ZNVvdVJeVCGMZB7LCWVX27XaONbaUi0vqq17ZuFdGKJVqM=w143-h110"
     },
     "col_3": {
-      "text": "LJR",
+      "text": "GX",
       "links": [
         {
-          "label": "LJR",
-          "url": "https://oopbuy.com/product/weidian/7239346781?inviteCode=29TOTHGNH"
+          "label": "GX",
+          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "83$"
+      "text": "73$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0281"
+  }
 }

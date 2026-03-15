@@ -1,87 +1,61 @@
 {
-  "name": "Ralph Lauren Down Jacket",
+  "name": "Ralph Lauren Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
+  "best_batch": "Repkingdom",
   "best_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595156431%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7595156431?inviteCode=29TOTHGNH"
+      "label": "Repkingdom",
+      "url": "https://litbuy.com/product/taobao/7234346962?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7234346962?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F721727168241%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/721727168241?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "76$",
-  "budget_price": "24$",
-  "pics_text": "NEWDP/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "45$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "NEWDP",
-      "url": "https://newdp.x.yupoo.com/albums/180112555?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973575916438773762?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repkingdom.x.yupoo.com/albums/160162375?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay2pq9wRCLJvLI2jtem5Z9qOSD6rZZDLbSu_KLcIpUkqc-aHS59gacCaRBNZYuREQluq1vJ2XQScPpElI539Y2665Ad0u4Rn4KNFDWD3-POEqqIkx5j97kUwJXqe2oSQxwGZhoETL4PXg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az7senDjaJljbbr0Suw6lozaV9RrS8_TYcCa8pVKnNIC2qz8qFetxFqCmBtSqtwVzsG32vzGdIvB1ZZjyr9supPiUQTD221IHJBWNsrcFpxQHaLGaf_tLC4-Wd3IcXeRC5TfDp7M38bgA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0634",
   "raw_cells": {
     "col_0": {
-      "text": "105"
+      "text": "101"
     },
     "col_1": {
-      "text": "Ralph Lauren Down Jacket"
+      "text": "Ralph Lauren Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay2pq9wRCLJvLI2jtem5Z9qOSD6rZZDLbSu_KLcIpUkqc-aHS59gacCaRBNZYuREQluq1vJ2XQScPpElI539Y2665Ad0u4Rn4KNFDWD3-POEqqIkx5j97kUwJXqe2oSQxwGZhoETL4PXg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az7senDjaJljbbr0Suw6lozaV9RrS8_TYcCa8pVKnNIC2qz8qFetxFqCmBtSqtwVzsG32vzGdIvB1ZZjyr9supPiUQTD221IHJBWNsrcFpxQHaLGaf_tLC4-Wd3IcXeRC5TfDp7M38bgA=w143-h110"
     },
     "col_3": {
-      "text": "NEWDP",
+      "text": "Repkingdom",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://oopbuy.com/product/weidian/7595156431?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/721727168241?inviteCode=29TOTHGNH"
+          "label": "Repkingdom",
+          "url": "https://oopbuy.com/product/2/7234346962?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "76$"
-    },
-    "col_6": {
-      "text": "24$"
+      "text": "45$"
     },
     "col_7": {
-      "text": "NEWDP/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://newdp.x.yupoo.com/albums/180112555?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973575916438773762?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repkingdom.x.yupoo.com/albums/160162375?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0634"
+  }
 }

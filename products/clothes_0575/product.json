@@ -1,61 +1,61 @@
 {
-  "name": "Nike x Stussy8Ball 22FWT-Shirt",
+  "name": "Nike STRIKE SNOOD",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7539011575%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7539011575?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/654018261946?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/654018261946?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "14$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://steven-1989.x.yupoo.com/albums/130872110?uid=1&isSubCate=false&referrercate=3018569"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1879264927997833218?action=discord&cid=-1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax-nWuns4fD0n_L-6I9QOnuT_vJ4c9NyhCiEYQnZoYMoP9JqvYs2UehVmS9sxDf272iO9qcEmkGBjjrbJMRtMQqx_vwqdyMeOb3mMup1uPSRqnkAIySTkzD4yqaQpVur1uVNw47ZGNl9zeu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzHk7hZredIRMmBKr6DvHEWVjwa82rMglJuqHIIMBCLolwblcc-zujNoYtHKTVrLyRkbwe1hskO_jxOrNdb-FP-7r8Vt4b6m5lRlDg0I37tSx5TnB_7qj3dMnn383fY0wnz-tBZSb7Jfw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0575",
   "raw_cells": {
     "col_0": {
-      "text": "42"
+      "text": "36"
     },
     "col_1": {
-      "text": "Nike x Stussy8Ball 22FWT-Shirt"
+      "text": "Nike STRIKE SNOOD"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax-nWuns4fD0n_L-6I9QOnuT_vJ4c9NyhCiEYQnZoYMoP9JqvYs2UehVmS9sxDf272iO9qcEmkGBjjrbJMRtMQqx_vwqdyMeOb3mMup1uPSRqnkAIySTkzD4yqaQpVur1uVNw47ZGNl9zeu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzHk7hZredIRMmBKr6DvHEWVjwa82rMglJuqHIIMBCLolwblcc-zujNoYtHKTVrLyRkbwe1hskO_jxOrNdb-FP-7r8Vt4b6m5lRlDg0I37tSx5TnB_7qj3dMnn383fY0wnz-tBZSb7Jfw=w143-h110"
     },
-    "col_3": {
-      "text": "Singor",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "Singor",
-          "url": "https://oopbuy.com/product/weidian/7539011575?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/654018261946?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "14$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://steven-1989.x.yupoo.com/albums/130872110?uid=1&isSubCate=false&referrercate=3018569"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1879264927997833218?action=discord&cid=-1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0575"
+  }
 }

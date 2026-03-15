@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaBlack TackyZip Hoodie",
+  "name": "BalenciagaAW17 ParisHoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "mvt-shop01",
+  "best_batch": "MADEBYSWAG",
   "best_batch_links": [
     {
-      "label": "mvt-shop01",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F974028037348%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/974028037348?inviteCode=29TOTHGNH"
+      "label": "MADEBYSWAG",
+      "url": "https://litbuy.com/product/weidian/737088869292?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/737088869292?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "72$",
+  "best_price": "76$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://mvt-shop01.x.yupoo.com/albums/190118656?uid=1&isSubCate=false&referrercate=4736074"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1999305107701846017?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzJHFNZGQM-mHrctxdvrFSez7oZU7YEE6Grr0zvC1dBVd3ONvngQrJRZa1CRJAIz8hYtaQGN1zY0Oper2P0XR3qhXpeKWL5wkPSOjGxz49Ql92UJKvgo1lUPOPhZvDxN7pfcXmvip1PHtd8=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxUpcNymlYJefzcXpOCVrumeH3iE5pEsTObKue89JLbYBPNRE0JOrT-Nu7TXERnFNN_Nw35F4E7eYfcyIum5pC-QyG7lkFwFu7QklOS939QkvIzkhzgoYaUd0EkesYv0s4NCbMjG_y1QA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1264",
   "raw_cells": {
     "col_0": {
-      "text": "853"
+      "text": "849"
     },
     "col_1": {
-      "text": "BalenciagaBlack TackyZip Hoodie"
+      "text": "BalenciagaAW17 ParisHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzJHFNZGQM-mHrctxdvrFSez7oZU7YEE6Grr0zvC1dBVd3ONvngQrJRZa1CRJAIz8hYtaQGN1zY0Oper2P0XR3qhXpeKWL5wkPSOjGxz49Ql92UJKvgo1lUPOPhZvDxN7pfcXmvip1PHtd8=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxUpcNymlYJefzcXpOCVrumeH3iE5pEsTObKue89JLbYBPNRE0JOrT-Nu7TXERnFNN_Nw35F4E7eYfcyIum5pC-QyG7lkFwFu7QklOS939QkvIzkhzgoYaUd0EkesYv0s4NCbMjG_y1QA=w143-h110"
     },
     "col_3": {
-      "text": "mvt-shop01",
+      "text": "MADEBYSWAG",
       "links": [
         {
-          "label": "mvt-shop01",
-          "url": "https://oopbuy.com/product/1/974028037348?inviteCode=29TOTHGNH"
+          "label": "MADEBYSWAG",
+          "url": "https://oopbuy.com/product/1/737088869292?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "72$"
+      "text": "76$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://mvt-shop01.x.yupoo.com/albums/190118656?uid=1&isSubCate=false&referrercate=4736074"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1999305107701846017?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1264"
+  }
 }

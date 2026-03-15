@@ -1,47 +1,47 @@
 {
-  "name": "1906R",
+  "name": "740",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "M",
+  "best_batch": "Repsun",
   "best_batch_links": [
     {
-      "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564014899%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564014899?inviteCode=29TOTHGNH"
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/taobao/7461125846?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7461125846?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "41$",
+  "best_price": "33$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxqDxqsLu-TXNWRjpEIgFiKHtWIfp3ql2nsVdF6AHDawKTtz1sLXJr8Zh50b2zpHR-VwvOq1y6610I4AFUNsng0UrfGLC0b7KZCiqBE_FvP28cjpbKQAIRcWsPSndCgYMpoZbesnJEg_yT-=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzIsE5WB4yimMA40Y3YHD6sJxf9J8tBJSbM-uyUXQ9C5qTVXzgZ7eLVVMrf8V7WHy_bO93gmCW8GnUaa5ewBCz0fmw-wpFqHgmlfS0_pc4ia4JZG1DvMogsMrK8wDELGqiI3dfJiFJ_OA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0354",
   "raw_cells": {
     "col_0": {
       "text": "387"
     },
     "col_1": {
-      "text": "1906R"
+      "text": "740"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxqDxqsLu-TXNWRjpEIgFiKHtWIfp3ql2nsVdF6AHDawKTtz1sLXJr8Zh50b2zpHR-VwvOq1y6610I4AFUNsng0UrfGLC0b7KZCiqBE_FvP28cjpbKQAIRcWsPSndCgYMpoZbesnJEg_yT-=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzIsE5WB4yimMA40Y3YHD6sJxf9J8tBJSbM-uyUXQ9C5qTVXzgZ7eLVVMrf8V7WHy_bO93gmCW8GnUaa5ewBCz0fmw-wpFqHgmlfS0_pc4ia4JZG1DvMogsMrK8wDELGqiI3dfJiFJ_OA=w143-h110"
     },
     "col_3": {
-      "text": "M",
+      "text": "Repsun",
       "links": [
         {
-          "label": "M",
-          "url": "https://oopbuy.com/product/weidian/7564014899?inviteCode=29TOTHGNH"
+          "label": "Repsun",
+          "url": "https://oopbuy.com/product/2/7461125846?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "41$"
+      "text": "33$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0354"
+  }
 }

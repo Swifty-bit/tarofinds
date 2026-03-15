@@ -1,0 +1,61 @@
+{
+  "name": "GYMSHARKWrist Straps5 Colors",
+  "category": "Gym",
+  "subcategory": "",
+  "best_batch": "gymshark70",
+  "best_batch_links": [
+    {
+      "label": "gymshark70",
+      "url": "https://litbuy.com/product/weidian/836574503566?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/836574503566?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "13$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2013661363491659777?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AztuYDS3jlmrR-WO3RFTDixi_xI9O4GqmIzC5yZ21P5iwBRtaezvtf_c33mSgKTUfHyPZwO-KSfqVGQ-8dEAeEk2O6mYm5cBd4OQMnbLNJfZoVjLkDlXppgeb5d8FL8qYU6xa-MN4i5f89P=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1733",
+  "raw_cells": {
+    "col_0": {
+      "text": "26"
+    },
+    "col_1": {
+      "text": "GYMSHARKWrist Straps5 Colors"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AztuYDS3jlmrR-WO3RFTDixi_xI9O4GqmIzC5yZ21P5iwBRtaezvtf_c33mSgKTUfHyPZwO-KSfqVGQ-8dEAeEk2O6mYm5cBd4OQMnbLNJfZoVjLkDlXppgeb5d8FL8qYU6xa-MN4i5f89P=w143-h110"
+    },
+    "col_3": {
+      "text": "gymshark70",
+      "links": [
+        {
+          "label": "gymshark70",
+          "url": "https://oopbuy.com/product/1/836574503566?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2013661363491659777?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

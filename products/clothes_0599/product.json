@@ -1,61 +1,62 @@
 {
-  "name": "Ralph LaurenStriped T-Shirt",
+  "name": "Stussy Beanie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "CloudShop",
+  "budget_batch": "here",
   "budget_batch_links": [
     {
-      "label": "CloudShop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F674028271083%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/674028271083?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/694552695562?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/694552695562?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "9$",
-  "pics_text": "QC Pics",
+  "budget_price": "2$",
+  "pics_text": "QC pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1991806548215173121?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC pics",
+      "url": "https://imgur.com/a/yl2vToK"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awbhysj_dAmJJsE4ulyD8nHng1ONp-kbrIJuTeB5hFivoRBFj_ABUY_nLgZgpeEmMVpkrb6VjY7Vn3PM57DrZvUy0SotEVRcEXwNBB1Cq3rfgMywMzijBddaIhZBdJdv1bEqgl8m8iDwz4s=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyLibLNqMrkj1ht0KmDLF8v1RSe0cxv7kWK5yt2FYwqygP02IpEobsT2fhp1DlMl0YaIerzOaZOfilkz8ToEHBT3TzwKvnYIbaNeKePJJb9ZyHSPqUNg7ERKzQqNt9t8IhOsfVQy41kCjDh=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0599",
   "raw_cells": {
     "col_0": {
-      "text": "70"
+      "text": "64"
     },
     "col_1": {
-      "text": "Ralph LaurenStriped T-Shirt"
+      "text": "Stussy Beanie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awbhysj_dAmJJsE4ulyD8nHng1ONp-kbrIJuTeB5hFivoRBFj_ABUY_nLgZgpeEmMVpkrb6VjY7Vn3PM57DrZvUy0SotEVRcEXwNBB1Cq3rfgMywMzijBddaIhZBdJdv1bEqgl8m8iDwz4s=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyLibLNqMrkj1ht0KmDLF8v1RSe0cxv7kWK5yt2FYwqygP02IpEobsT2fhp1DlMl0YaIerzOaZOfilkz8ToEHBT3TzwKvnYIbaNeKePJJb9ZyHSPqUNg7ERKzQqNt9t8IhOsfVQy41kCjDh=w143-h110"
     },
     "col_4": {
-      "text": "CloudShop",
+      "text": "here",
       "links": [
         {
-          "label": "CloudShop",
-          "url": "https://oopbuy.com/product/1/674028271083?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/694552695562?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "9$"
+      "text": "2$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "QC pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1991806548215173121?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC pics",
+          "url": "https://imgur.com/a/yl2vToK"
         }
-      ]
+      ],
+      "image": "https://imgur.com/a/yl2vToK"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0599"
+  }
 }

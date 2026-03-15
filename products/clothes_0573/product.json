@@ -1,5 +1,5 @@
 {
-  "name": "Nike Gloves",
+  "name": "Nike Windbreaker",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F869641927614%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/869641927614?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/941585275771?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/941585275771?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "5$",
+  "budget_price": "14$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1987346903181893634?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1984447272240357378?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8gE5PYsVzVw0V3n2U8bAgQzGR2PKLhI_t5F5h4ryF2vkdju2N56tWwxbGQXq_KoMwRxmJVzRZ0cHLRCpD1NjS6jqISZCQfc8o4kMT28XTGVOlomNdwJWXx8RCQ78ac5HX9X9V85krqbEI=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLccp2JjJRv4A3OZLO4ckqYTDgtBLyIbA_IXoFudHm4hZbDIVF62GJyF6O1H-Qn4WG28WYlVuQII_6xYmj4J7scg726r0rR6JaANNs8vry9gwPgo1ChThOLb275z9ikl16XvezUoLGcHNO=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0573",
   "raw_cells": {
     "col_0": {
-      "text": "38"
+      "text": "34"
     },
     "col_1": {
-      "text": "Nike Gloves"
+      "text": "Nike Windbreaker"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8gE5PYsVzVw0V3n2U8bAgQzGR2PKLhI_t5F5h4ryF2vkdju2N56tWwxbGQXq_KoMwRxmJVzRZ0cHLRCpD1NjS6jqISZCQfc8o4kMT28XTGVOlomNdwJWXx8RCQ78ac5HX9X9V85krqbEI=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLccp2JjJRv4A3OZLO4ckqYTDgtBLyIbA_IXoFudHm4hZbDIVF62GJyF6O1H-Qn4WG28WYlVuQII_6xYmj4J7scg726r0rR6JaANNs8vry9gwPgo1ChThOLb275z9ikl16XvezUoLGcHNO=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/869641927614?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/941585275771?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "5$"
+      "text": "14$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1987346903181893634?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1984447272240357378?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0573"
+  }
 }

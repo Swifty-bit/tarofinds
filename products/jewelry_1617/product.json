@@ -1,47 +1,61 @@
 {
-  "name": "Louis VuittonNecklace",
+  "name": "Louis VuittonBracelet",
   "category": "Jewelry",
   "subcategory": "",
   "best_batch": "here",
   "best_batch_links": [
     {
       "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7266887480%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7266887480?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7258963765?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7258963765?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "69$",
+  "best_price": "58$",
   "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://doppel.fit/item/weidian/7258963765"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxuBnE5V5i3eyygf08VlVGt-k3RIw82tOGLafNUbfVn2i3Pn11mPLusGPdQcEOUZuhfBTg3NNj_adxOBgSsCsr1VTw3oEbTXcQcukVajbED61t09YT3I6ukuzjwwx1vLMZ0PA4rPgf0sgyK=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzThm89N5pzdn0TGpgpBo5wibcSrzv7x5bjHAi124-v3-yebnUyDLpBrQ0DQHyrsseGbQtCN1mWt-bL8SR6_gnVMS-3i18gzyeoRdn_IwSNLzL10PPWBdID-PVV0eZA5ZZt-ESHuG5Gn33M=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "jewelry_1617",
   "raw_cells": {
     "col_0": {
-      "text": "31"
+      "text": "26"
     },
     "col_1": {
-      "text": "Louis VuittonNecklace"
+      "text": "Louis VuittonBracelet"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxuBnE5V5i3eyygf08VlVGt-k3RIw82tOGLafNUbfVn2i3Pn11mPLusGPdQcEOUZuhfBTg3NNj_adxOBgSsCsr1VTw3oEbTXcQcukVajbED61t09YT3I6ukuzjwwx1vLMZ0PA4rPgf0sgyK=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzThm89N5pzdn0TGpgpBo5wibcSrzv7x5bjHAi124-v3-yebnUyDLpBrQ0DQHyrsseGbQtCN1mWt-bL8SR6_gnVMS-3i18gzyeoRdn_IwSNLzL10PPWBdID-PVV0eZA5ZZt-ESHuG5Gn33M=w143-h110"
     },
     "col_3": {
       "text": "here",
       "links": [
         {
           "label": "here",
-          "url": "https://oopbuy.com/product/weidian/7266887480?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7258963765?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "69$"
+      "text": "58$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://doppel.fit/item/weidian/7258963765"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "jewelry_1617"
+  }
 }

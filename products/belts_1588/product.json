@@ -1,61 +1,61 @@
 {
-  "name": "Tom Ford",
+  "name": "Fendi",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "MissChen",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F6078351381%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/6078351381?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/784986715762?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/784986715762?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "36$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "3$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1920323066922610690?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay6ZQ5ZVnsb0G5CNE3hI2RG0Tt1W-GuMjODHVZUaG3V2h1XcCZsOatKtnfgiP55EzFHvUNL7WknqV6p6W3MG1K6QZFIsiQFpkA7NOVvoFyroUzmxjO3wR0DG36Wd8840qw8rTNVuV0q9Erv=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax_KeZpGbK27cBsEmJSpNeCRISdj0ox7ulVtHDwzp531amzHZCGADQGORKyAdUSZT1zgdQJocpCXnnmVud5XygmNCmYSnS-l8oG1n8zAd6qM612NXdxSjENgcDTcJbBp-FrO6dErV3ve5kC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1588",
   "raw_cells": {
     "col_0": {
-      "text": "50"
+      "text": "45"
     },
     "col_1": {
-      "text": "Tom Ford"
+      "text": "Fendi"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay6ZQ5ZVnsb0G5CNE3hI2RG0Tt1W-GuMjODHVZUaG3V2h1XcCZsOatKtnfgiP55EzFHvUNL7WknqV6p6W3MG1K6QZFIsiQFpkA7NOVvoFyroUzmxjO3wR0DG36Wd8840qw8rTNVuV0q9Erv=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax_KeZpGbK27cBsEmJSpNeCRISdj0ox7ulVtHDwzp531amzHZCGADQGORKyAdUSZT1zgdQJocpCXnnmVud5XygmNCmYSnS-l8oG1n8zAd6qM612NXdxSjENgcDTcJbBp-FrO6dErV3ve5kC=w143-h110"
     },
-    "col_3": {
-      "text": "MissChen",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/6078351381?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/784986715762?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "36$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1920323066922610690?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1976111995876368386?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1588"
+  }
 }

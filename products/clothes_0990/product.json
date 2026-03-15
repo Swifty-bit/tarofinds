@@ -1,61 +1,61 @@
 {
-  "name": "Turn On The Dark Skeleton Zip Up Hoodie",
+  "name": "Broken PlanetT-Shirt55 Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "hotdog-official",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "FFCP",
+  "budget_batch_links": [
     {
-      "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7341502625%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7341502625?inviteCode=29TOTHGNH"
+      "label": "FFCP",
+      "url": "https://litbuy.com/product/weidian/740512418980?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "33$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "8$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/142512604?uid=1&isSubCate=false&referrercate=4098105"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/740512418980"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPDUwx8DeCpLxJUJKSxQAt77BjmrbIvqsopnATBvEvi1pgAJvOxbm7JUH1NPOC9tHFzurm595LvYLZcTqPwYmY6ux_wHWS_uHCEQavGAmBgEltbTyQESExo6AtUmzaSH_j4oS7Bj88e5we=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awmx7Wr9FZvrvd-fElIQk4Un8Z8NqGfH3CJjcfCqJ6R_oxnSg6urCYVTfzhGXd8fTSVMuxjZnpSxCSYv9dI-44LnSAUMpUXBJZ45P_cO3HThDBmVDfZwY2lQURxUoU0UIT64EfNt4Lr1g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0990",
   "raw_cells": {
     "col_0": {
-      "text": "527"
+      "text": "523"
     },
     "col_1": {
-      "text": "Turn On The Dark Skeleton Zip Up Hoodie"
+      "text": "Broken PlanetT-Shirt55 Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPDUwx8DeCpLxJUJKSxQAt77BjmrbIvqsopnATBvEvi1pgAJvOxbm7JUH1NPOC9tHFzurm595LvYLZcTqPwYmY6ux_wHWS_uHCEQavGAmBgEltbTyQESExo6AtUmzaSH_j4oS7Bj88e5we=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awmx7Wr9FZvrvd-fElIQk4Un8Z8NqGfH3CJjcfCqJ6R_oxnSg6urCYVTfzhGXd8fTSVMuxjZnpSxCSYv9dI-44LnSAUMpUXBJZ45P_cO3HThDBmVDfZwY2lQURxUoU0UIT64EfNt4Lr1g=w143-h110"
     },
-    "col_3": {
-      "text": "hotdog-official",
+    "col_4": {
+      "text": "FFCP",
       "links": [
         {
-          "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7341502625?inviteCode=29TOTHGNH"
+          "label": "FFCP",
+          "url": "https://oopbuy.com/product/1/740512418980?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "33$"
+    "col_6": {
+      "text": "8$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/142512604?uid=1&isSubCate=false&referrercate=4098105"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/740512418980"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0990"
+  }
 }

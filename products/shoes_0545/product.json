@@ -1,47 +1,47 @@
 {
-  "name": "Gucci Rhyton",
+  "name": "Supreme Laces",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "here",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://oopbuy.com/product/0/680697169947?inviteCode=29TOTHGNH",
-      "original_url": null
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/39656812576?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/39656812576?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "20$",
-  "pics_text": "20$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "2$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azjy39Gz-UM325lgqXwshC7N_LV2OP5-4RORyk3Ewt5CVduF0uZYAOANiXSQTmMg0ZZR-48zCYZxfmu9T4ClVOavGquhzjK-9u6gDAA0n4hQ9gWcJs3pA8LzKD9D10NGU0HuOVWSJSxRm0W=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzxUHmD5Bb6VOfXL4ETHoKxROJE9EQzlrW8taTQ4QBtN4c6jzXlzxv2i88w6ybkx25jvU93xSBy6H9o4s0rrru1rSm4WCbYL4o54PDDR27t77vVlLQejm3h3AKCtuNk52CGIAgcNFh_ojCQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0545",
   "raw_cells": {
     "col_0": {
-      "text": "595"
+      "text": "664"
     },
     "col_1": {
-      "text": "Gucci Rhyton"
+      "text": "Supreme Laces"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azjy39Gz-UM325lgqXwshC7N_LV2OP5-4RORyk3Ewt5CVduF0uZYAOANiXSQTmMg0ZZR-48zCYZxfmu9T4ClVOavGquhzjK-9u6gDAA0n4hQ9gWcJs3pA8LzKD9D10NGU0HuOVWSJSxRm0W=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzxUHmD5Bb6VOfXL4ETHoKxROJE9EQzlrW8taTQ4QBtN4c6jzXlzxv2i88w6ybkx25jvU93xSBy6H9o4s0rrru1rSm4WCbYL4o54PDDR27t77vVlLQejm3h3AKCtuNk52CGIAgcNFh_ojCQ=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "here",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/680697169947?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/39656812576?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "20$"
+    "col_5": {
+      "text": "2$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0545"
+  }
 }

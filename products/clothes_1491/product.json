@@ -1,61 +1,61 @@
 {
-  "name": "MontbellGrey Puffer",
+  "name": "Moose KnucklesPuffer Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "here",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7586780247%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7586780247?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/738918978161?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/738918978161?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "68$",
+  "best_price": "70$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/210430355?uid=1&isSubCate=false&referrercate=5060836"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1977200421719597057?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azuc-gPJTAyMYXwD8aA5LkO-x9JISP4yWpQj6E_M9XZ69nT0ioqwEO1tclWAUU4eSRWaN82kn8IUCPCcvCHTveebhwiNx_iVMWNH3jSeURuKxibmAQQv2HNIznWMMACIbTkPjX0gfUNYQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aya-WMKiMd6kdnYATionUVljcGTrD2opizFMUHaXUjsh-qvEMXqCl1kae_cPjQSeMZJ3QoEXnBvKVhmNA1f_pod8k9UmjpeLIoEh5z387c7G_c4OkHktu1BAbTfvlWp2aFgQHehBWTGBNCs=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1491",
   "raw_cells": {
     "col_0": {
-      "text": "1118"
+      "text": "1110"
     },
     "col_1": {
-      "text": "MontbellGrey Puffer"
+      "text": "Moose KnucklesPuffer Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azuc-gPJTAyMYXwD8aA5LkO-x9JISP4yWpQj6E_M9XZ69nT0ioqwEO1tclWAUU4eSRWaN82kn8IUCPCcvCHTveebhwiNx_iVMWNH3jSeURuKxibmAQQv2HNIznWMMACIbTkPjX0gfUNYQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aya-WMKiMd6kdnYATionUVljcGTrD2opizFMUHaXUjsh-qvEMXqCl1kae_cPjQSeMZJ3QoEXnBvKVhmNA1f_pod8k9UmjpeLIoEh5z387c7G_c4OkHktu1BAbTfvlWp2aFgQHehBWTGBNCs=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "here",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7586780247?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/738918978161?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "68$"
+      "text": "70$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/210430355?uid=1&isSubCate=false&referrercate=5060836"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1977200421719597057?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1491"
+  }
 }

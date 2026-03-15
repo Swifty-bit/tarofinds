@@ -1,47 +1,47 @@
 {
-  "name": "Fearless",
+  "name": "Washed Black",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "NEWXP",
+  "best_batch": "PG",
   "best_batch_links": [
     {
-      "label": "NEWXP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6084113559%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6084113559?inviteCode=29TOTHGNH"
+      "label": "PG",
+      "url": "https://litbuy.com/product/taobao/4284802940?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4284802940?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "51$",
+  "best_price": "37$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax27CG8x2vAK5A_T5JJE2p9BOX33BLOFY2VoJOkutkBXGjnRhu8OuTncNS-jL8HGKfd8qC2yVMqQw-JmxCDaHqL7ROzu67wV0Uvak-wMXGz9VsJg5UPf3_dj67afy378PVuoGX0rIwGbiP_=w143-h100",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az6sjHupRp6qWxED5i2fbAYGToevOCPLmVxldpF2q_UTIMPgJ002pMKGSz8vpIqxelq_N1X4mQ6W7VgF5DwkoGNZjN41gG5jj4j8uJy_acqW9TeUYz-8tLGJ2IDMXc368PSq0_iIWvB28xQ=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0170",
   "raw_cells": {
     "col_0": {
       "text": "181"
     },
     "col_1": {
-      "text": "Fearless"
+      "text": "Washed Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax27CG8x2vAK5A_T5JJE2p9BOX33BLOFY2VoJOkutkBXGjnRhu8OuTncNS-jL8HGKfd8qC2yVMqQw-JmxCDaHqL7ROzu67wV0Uvak-wMXGz9VsJg5UPf3_dj67afy378PVuoGX0rIwGbiP_=w143-h100"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az6sjHupRp6qWxED5i2fbAYGToevOCPLmVxldpF2q_UTIMPgJ002pMKGSz8vpIqxelq_N1X4mQ6W7VgF5DwkoGNZjN41gG5jj4j8uJy_acqW9TeUYz-8tLGJ2IDMXc368PSq0_iIWvB28xQ=w143-h100"
     },
     "col_3": {
-      "text": "NEWXP",
+      "text": "PG",
       "links": [
         {
-          "label": "NEWXP",
-          "url": "https://oopbuy.com/product/2/6084113559?inviteCode=29TOTHGNH"
+          "label": "PG",
+          "url": "https://oopbuy.com/product/2/4284802940?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "51$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0170"
+  }
 }

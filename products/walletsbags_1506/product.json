@@ -1,65 +1,65 @@
 {
-  "name": "Louis VuittonPocket Organizer3 Colors",
+  "name": "Louis VuittonMarco Wallet6 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Scarlett",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F5926008363%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/5926008363?inviteCode=29TOTHGNH"
+      "label": "Scarlett",
+      "url": "https://litbuy.com/product/weidian/7222369729?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7222369729?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "12$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "48$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1947461802965700609?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1964877229512548353?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwYLI342i8miTvthMLELWk9MzLeBCMPNTLJMQTNyDYACFlU0gcd6-xiiBKNIGeyMy2Fj2lbyDdgEt-uHJXyRSG0VMebdlDZUiiLa4dSToFT7ldlNN5mBG_YundoRgh2H7YBIc_kwWdYzsfz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwAwKJXuzmvddRn57rKecjzJhofFdMTgmAjBsG2s-3YccYHkGvLSIsUSHhfzLrcr1C2jGCJIYjWoEIXmr-yhWelbmwCdhrvrHh871f29JEIhnQoblFglDxID9fFYMokNfpGdEbVbMbg2A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1506",
   "raw_cells": {
     "col_0": {
-      "text": "12"
+      "text": "8"
     },
     "col_1": {
-      "text": "Louis VuittonPocket Organizer3 Colors"
+      "text": "Louis VuittonMarco Wallet6 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwYLI342i8miTvthMLELWk9MzLeBCMPNTLJMQTNyDYACFlU0gcd6-xiiBKNIGeyMy2Fj2lbyDdgEt-uHJXyRSG0VMebdlDZUiiLa4dSToFT7ldlNN5mBG_YundoRgh2H7YBIc_kwWdYzsfz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwAwKJXuzmvddRn57rKecjzJhofFdMTgmAjBsG2s-3YccYHkGvLSIsUSHhfzLrcr1C2jGCJIYjWoEIXmr-yhWelbmwCdhrvrHh871f29JEIhnQoblFglDxID9fFYMokNfpGdEbVbMbg2A=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Scarlett",
       "links": [
         {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/weidian/5926008363?inviteCode=29TOTHGNH"
+          "label": "Scarlett",
+          "url": "https://oopbuy.com/product/weidian/7222369729?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "12$"
+    "col_5": {
+      "text": "48$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1947461802965700609?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1964877229512548353?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AybXsmcldZcn51fHik3sGcVu1SlcX5sHA31r24WjLsA3mZ5T8QTi8JdSF5CWhErAC5UcDWN8VRAy_A5hdKGMUQoth-qOnkBEfLNVK9hHkKpp3V30ZgymkmSW_D4TXOZvjy1JHwLSruY_g=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzKGTD0xz9rDnxg1XTYKH6oXcbG_xwz7xxEdJQebB3DD8OdsYIHu2EJJ9sQBYmj2yXWPFeRQMYL7P8pGxwFwdRjIn1NNOyqDLfxp9MwV7j5rqiGSuV2hm0kIQEMMkR5HyO4btEWuxLM_gxI=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1506"
+  }
 }

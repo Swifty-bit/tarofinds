@@ -1,61 +1,69 @@
 {
-  "name": "Football T-shirt",
+  "name": "Stone IslandBadge",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "hotdog-official",
+  "best_batch": "repsbrothers",
   "best_batch_links": [
     {
-      "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7341485037%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7341485037?inviteCode=29TOTHGNH"
+      "label": "repsbrothers",
+      "url": "https://litbuy.com/product/weidian/1007366411320?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1007366411320?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "17$",
+  "best_price": "3$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "link/pics",
   "pics_links": [
     {
+      "label": "link",
+      "url": "https://repsbrothers.x.yupoo.com/albums/221980374?uid=1"
+    },
+    {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/148427098?uid=1"
+      "url": "https://hooohooo.x.yupoo.com/albums/221991540?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awe1rRiVJczoKG3ASc4t_hNPVkI7x2DbQv8TQT6cOP1d1OOZRCkhaadJdY5imSGqfDKcoVntLV_wQMzsSZHqRSiZ-iOWyUuIsdgqJczkKmFRHya9USNH0AWEbHu_tiy4Mu8kO_1H-hV5Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZ2eAgmMFHDiPsKYlLKxrAxdl3y93tmHkxZj3AdZNLbNooIn01dY5mIMA3b2zjAAPVql9bip15HTVp4RsPbB1ISG2DqWt4DdA7uOAUzxDNPgS_PhsdCi5YH1eyOCFKyl08Q9cwixu-tg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0985",
   "raw_cells": {
     "col_0": {
-      "text": "522"
+      "text": "516"
     },
     "col_1": {
-      "text": "Football T-shirt"
+      "text": "Stone IslandBadge"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awe1rRiVJczoKG3ASc4t_hNPVkI7x2DbQv8TQT6cOP1d1OOZRCkhaadJdY5imSGqfDKcoVntLV_wQMzsSZHqRSiZ-iOWyUuIsdgqJczkKmFRHya9USNH0AWEbHu_tiy4Mu8kO_1H-hV5Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZ2eAgmMFHDiPsKYlLKxrAxdl3y93tmHkxZj3AdZNLbNooIn01dY5mIMA3b2zjAAPVql9bip15HTVp4RsPbB1ISG2DqWt4DdA7uOAUzxDNPgS_PhsdCi5YH1eyOCFKyl08Q9cwixu-tg=w143-h110"
     },
     "col_3": {
-      "text": "hotdog-official",
+      "text": "repsbrothers",
       "links": [
         {
-          "label": "hotdog-official",
-          "url": "https://www.oopbuy.com/product/weidian/7341485037?inviteCode=29TOTHGNH"
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/1007366411320?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "17$"
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "link/pics",
       "links": [
         {
+          "label": "link",
+          "url": "https://repsbrothers.x.yupoo.com/albums/221980374?uid=1"
+        },
+        {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/148427098?uid=1"
+          "url": "https://hooohooo.x.yupoo.com/albums/221991540?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0985"
+  }
 }

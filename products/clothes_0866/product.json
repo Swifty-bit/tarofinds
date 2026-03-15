@@ -1,61 +1,87 @@
 {
-  "name": "PradaRound NeckSweatshirt",
+  "name": "Celine Zip Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
+  "best_batch": "1to1",
   "best_batch_links": [
     {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7475418833%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7475418833?inviteCode=29TOTHGNH"
+      "label": "1to1",
+      "url": "https://litbuy.com/product/weidian/5629754207?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5629754207?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "46$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/744400682605?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/744400682605?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "61$",
+  "budget_price": "13$",
+  "pics_text": "1to1/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://thethunder.x.yupoo.com/albums/127246337?uid=1&isSubCate=false&referrercate=3979789"
+      "label": "1to1",
+      "url": "https://1to1.x.yupoo.com/albums/215422940?uid=1&isSubCate=false&referrercate=5012627"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1950459453137588228?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az53UApLS6byvJx0S8lvmlGziVcLRUGTitDxQpbM0kSFE5cnmkO7oa45w4gi-W_BQCzCcILO3iNWbA6eW-GWbYLEe5wH25R6E5lN6IByL_k6dnAYPWuAa2UD8y4pxse35SH7hDTqa2swQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxwfPnHEAB6dyqE8fbkufr6tFai9TPVbzBIIj5QQaxyppbbfLeuESB5By0IdnQngZKTPE238xzYMWBgoc8dXyL5EkH4l9KR1QR6LzKW3Gw4GiViJSH7V26_RnlUEb75o6mozk5x7y-Jqg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0866",
   "raw_cells": {
     "col_0": {
-      "text": "379"
+      "text": "373"
     },
     "col_1": {
-      "text": "PradaRound NeckSweatshirt"
+      "text": "Celine Zip Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az53UApLS6byvJx0S8lvmlGziVcLRUGTitDxQpbM0kSFE5cnmkO7oa45w4gi-W_BQCzCcILO3iNWbA6eW-GWbYLEe5wH25R6E5lN6IByL_k6dnAYPWuAa2UD8y4pxse35SH7hDTqa2swQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxwfPnHEAB6dyqE8fbkufr6tFai9TPVbzBIIj5QQaxyppbbfLeuESB5By0IdnQngZKTPE238xzYMWBgoc8dXyL5EkH4l9KR1QR6LzKW3Gw4GiViJSH7V26_RnlUEb75o6mozk5x7y-Jqg=w143-h110"
     },
     "col_3": {
-      "text": "Thunder",
+      "text": "1to1",
       "links": [
         {
-          "label": "Thunder",
-          "url": "https://www.oopbuy.com/product/weidian/7475418833?inviteCode=29TOTHGNH"
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/weidian/5629754207?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/744400682605?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "61$"
+    },
+    "col_6": {
+      "text": "13$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "1to1/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://thethunder.x.yupoo.com/albums/127246337?uid=1&isSubCate=false&referrercate=3979789"
+          "label": "1to1",
+          "url": "https://1to1.x.yupoo.com/albums/215422940?uid=1&isSubCate=false&referrercate=5012627"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1950459453137588228?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0866"
+  }
 }

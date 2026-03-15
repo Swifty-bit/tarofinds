@@ -1,47 +1,47 @@
 {
-  "name": "Off WhitePine Green",
+  "name": "CLOT Cork",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "M",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7311969771%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7311969771?inviteCode=29TOTHGNH"
+      "label": "M",
+      "url": "https://litbuy.com/product/taobao/7243326840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "60$",
+  "best_price": "44$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awcy81WpssAhOaNYKFllC7w9Pf0PJjLeQ4Ox-kB0A_tTaFYLDmu__X10s1zb4EwK2JHCX8DmwOSYqwYQlEPFbkYsJZWVgdvoJe31Ea2MIjBAzGrdlxWzy0v6GGqma7GQOyytATm0enB3ENr=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyDpyfn9NzTOObb8WXrd8rYI7-d5aNud_ZtYTkngaJrsF-W9wMy0H2pE8_eKeKvkpaKDcoeoo1x1KVxoLY8EeM_OQnykwWHlrY_fu9WOq-GuKFDvZhNzfeeuHmTZ9uhX5ZvtIF5BQFT9tfu=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0122",
   "raw_cells": {
     "col_0": {
       "text": "131"
     },
     "col_1": {
-      "text": "Off WhitePine Green"
+      "text": "CLOT Cork"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awcy81WpssAhOaNYKFllC7w9Pf0PJjLeQ4Ox-kB0A_tTaFYLDmu__X10s1zb4EwK2JHCX8DmwOSYqwYQlEPFbkYsJZWVgdvoJe31Ea2MIjBAzGrdlxWzy0v6GGqma7GQOyytATm0enB3ENr=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyDpyfn9NzTOObb8WXrd8rYI7-d5aNud_ZtYTkngaJrsF-W9wMy0H2pE8_eKeKvkpaKDcoeoo1x1KVxoLY8EeM_OQnykwWHlrY_fu9WOq-GuKFDvZhNzfeeuHmTZ9uhX5ZvtIF5BQFT9tfu=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "M",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/2/7311969771?inviteCode=29TOTHGNH"
+          "label": "M",
+          "url": "https://oopbuy.com/product/2/7243326840?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "60$"
+      "text": "44$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0122"
+  }
 }

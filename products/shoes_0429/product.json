@@ -1,47 +1,74 @@
 {
-  "name": "Track Hike",
+  "name": "Triple S",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "A1",
+  "best_batch": "GOOD/GOOD",
   "best_batch_links": [
     {
-      "label": "A1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4479670021%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4479670021?inviteCode=29TOTHGNH"
+      "label": "GOOD",
+      "url": "https://litbuy.com/product/weidian/7565918820?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565918820?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "GOOD",
+      "url": "https://litbuy.com/product/weidian/7327022405?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327022405?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "81$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/taobao/3111674330?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/3111674330?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "56$",
+  "budget_price": "42$",
+  "pics_text": "42$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AysZBvwiZywtuireR2iSL0bnfPRNfYczbR8Q2Nf9Xq5yv6VsMuOXWRkIWD5Y0POC9zCgSSBlMbzI0x6yMwJQ1Gf6UL6la-X2rciaAXEsx1uUmhaZOD_CIFpaPhPTYcwFJYFEvT4Cj_xp373=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyTkHmZCBWYCYcpzFJVK5dlos13zfLYfKniddBc0EHwOR6Sw1nO2jCC795daazG2wSiHa-CrrTPHtywKggiaZj9gT_XPkg5p9-M_CJZbNgFRKCq5B9PxL1BUDSg6zFAI-rFS9uX04S6XQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0429",
   "raw_cells": {
     "col_0": {
       "text": "488"
     },
     "col_1": {
-      "text": "Track Hike"
+      "text": "Triple S"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AysZBvwiZywtuireR2iSL0bnfPRNfYczbR8Q2Nf9Xq5yv6VsMuOXWRkIWD5Y0POC9zCgSSBlMbzI0x6yMwJQ1Gf6UL6la-X2rciaAXEsx1uUmhaZOD_CIFpaPhPTYcwFJYFEvT4Cj_xp373=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyTkHmZCBWYCYcpzFJVK5dlos13zfLYfKniddBc0EHwOR6Sw1nO2jCC795daazG2wSiHa-CrrTPHtywKggiaZj9gT_XPkg5p9-M_CJZbNgFRKCq5B9PxL1BUDSg6zFAI-rFS9uX04S6XQ=w143-h110"
     },
     "col_3": {
-      "text": "A1",
+      "text": "GOOD/GOOD",
       "links": [
         {
-          "label": "A1",
-          "url": "https://oopbuy.com/product/weidian/4479670021?inviteCode=29TOTHGNH"
+          "label": "GOOD",
+          "url": "https://oopbuy.com/product/weidian/7565918820?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "GOOD",
+          "url": "https://oopbuy.com/product/weidian/7327022405?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/3111674330?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "81$"
+      "text": "56$"
+    },
+    "col_6": {
+      "text": "42$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0429"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Light Violet Venice",
+  "name": "Archeo Pink",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "",
@@ -8,7 +8,7 @@
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwG6-4aSrn1OcXlVZ7vhRDhuEKD-BBU3AVIx4Bwfxkr13LZmoQVmIQFcujozRBAVtH7m5J6_sbkMVDavYMtbHe70r3LCC11XLIaHpB125VvpW_eQvWQfEq2kRSJlyNBxjE9RHsqcz3eCw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyQaDhGlEVyXjEwJH28ERci_URWlmUJ3NLtKPrxNTY87q86XwGp0C7FoobNJV8cqrZjyKRfn8QDSkelcTACjhTVBfOOF9IRaV1f3gc3W7y7r0D4anWYDy7DxoJfdHZoEtqG77t7WuLePWli=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0078",
   "raw_cells": {
     "col_0": {
       "text": "87"
     },
     "col_1": {
-      "text": "Light Violet Venice"
+      "text": "Archeo Pink"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwG6-4aSrn1OcXlVZ7vhRDhuEKD-BBU3AVIx4Bwfxkr13LZmoQVmIQFcujozRBAVtH7m5J6_sbkMVDavYMtbHe70r3LCC11XLIaHpB125VvpW_eQvWQfEq2kRSJlyNBxjE9RHsqcz3eCw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyQaDhGlEVyXjEwJH28ERci_URWlmUJ3NLtKPrxNTY87q86XwGp0C7FoobNJV8cqrZjyKRfn8QDSkelcTACjhTVBfOOF9IRaV1f3gc3W7y7r0D4anWYDy7DxoJfdHZoEtqG77t7WuLePWli=w143-h110"
     },
     "col_4": {
       "text": "VT",
@@ -41,7 +43,5 @@
     "col_6": {
       "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0078"
+  }
 }

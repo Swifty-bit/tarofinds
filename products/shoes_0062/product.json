@@ -1,33 +1,41 @@
 {
-  "name": "Jordan Jumpman JackTravis Scott Mocha",
+  "name": "Jordan Jumpman JackTravis Scott Red",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "PK",
   "best_batch_links": [
     {
       "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7240073576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7240073576?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7240073576?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "PB",
+  "budget_batch_links": [
+    {
+      "label": "PB",
+      "url": "https://litbuy.com/product/weidian/7212170011?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7212170011?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "69$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax3FZli--W3DbXrflmYAEMSjP-TtpOafuUUEvf3JHiWa10UrQZ8sZqz13nnGFid2inrzqiHM5k2cyQmMj8fR0IDiiEPm4zK3lyEAdkTMHkYgZE5n3PeTOvoz_tvFtDYGGcjBcF83i-WuOcQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwJ9nTkvjSJyaw3VhpXYikSutLqb73YwyGeLJeLH-TebfbSNkGzPWHD3oVgdyzJvn4pfHQ2RJHgX_KRPgNC48O4Pw8-n5AwP9fSvv-wCWNr5O5QS5D4w6WKPiaYmzeJzNDJ47jisAJP80C_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0062",
   "raw_cells": {
     "col_0": {
       "text": "69"
     },
     "col_1": {
-      "text": "Jordan Jumpman JackTravis Scott Mocha"
+      "text": "Jordan Jumpman JackTravis Scott Red"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax3FZli--W3DbXrflmYAEMSjP-TtpOafuUUEvf3JHiWa10UrQZ8sZqz13nnGFid2inrzqiHM5k2cyQmMj8fR0IDiiEPm4zK3lyEAdkTMHkYgZE5n3PeTOvoz_tvFtDYGGcjBcF83i-WuOcQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwJ9nTkvjSJyaw3VhpXYikSutLqb73YwyGeLJeLH-TebfbSNkGzPWHD3oVgdyzJvn4pfHQ2RJHgX_KRPgNC48O4Pw8-n5AwP9fSvv-wCWNr5O5QS5D4w6WKPiaYmzeJzNDJ47jisAJP80C_=w143-h110"
     },
     "col_3": {
       "text": "PK",
@@ -38,10 +46,20 @@
         }
       ]
     },
+    "col_4": {
+      "text": "PB",
+      "links": [
+        {
+          "label": "PB",
+          "url": "https://oopbuy.com/product/weidian/7212170011?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "69$"
+    },
+    "col_6": {
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0062"
+  }
 }

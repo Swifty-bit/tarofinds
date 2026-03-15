@@ -1,5 +1,5 @@
 {
-  "name": "Burberry BeanieMany Colors",
+  "name": "Burberry Check ShortsMany Styles",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,57 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F709047414802%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/709047414802?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/784530207678?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/784530207678?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "3$",
+  "budget_price": "4$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://finds.ly/product/TAOBAO/709047414802"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631432888631298?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCfjH7cSnEOOiN7IIatZ_qlN5wk5gudW7eqdybHRYR7xdSZmUev9aKau_6Oy6km6LZqxpcAtO0W6cXfRWDUYn6zng8QUC8G5AOprkdKPs_ij0wQNglUf-Mtdi1V1oa2pmS2R0W7U24Nw=w143-h110",
+  "notes": "It doesn't have \"Burberry\" inside tag",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awfr4nwobi3TAOhDlauHjcmvepGdXfwVSq5teKti5Pcma-HoS05xyR1x2AMq8DSKz4XvKZHx_dSm6yajqM1Wmvb8jAMSzzp-1rCVUpFMnjDBiFx_4i3oxsnX8OCRqdnwStMTHxF51QAwuxu=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1406",
   "raw_cells": {
     "col_0": {
-      "text": "1013"
+      "text": "1009"
     },
     "col_1": {
-      "text": "Burberry BeanieMany Colors"
+      "text": "Burberry Check ShortsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCfjH7cSnEOOiN7IIatZ_qlN5wk5gudW7eqdybHRYR7xdSZmUev9aKau_6Oy6km6LZqxpcAtO0W6cXfRWDUYn6zng8QUC8G5AOprkdKPs_ij0wQNglUf-Mtdi1V1oa2pmS2R0W7U24Nw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awfr4nwobi3TAOhDlauHjcmvepGdXfwVSq5teKti5Pcma-HoS05xyR1x2AMq8DSKz4XvKZHx_dSm6yajqM1Wmvb8jAMSzzp-1rCVUpFMnjDBiFx_4i3oxsnX8OCRqdnwStMTHxF51QAwuxu=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/1/709047414802?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/784530207678?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "3$"
+      "text": "4$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://finds.ly/product/TAOBAO/709047414802"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631432888631298?action=discord&cid=1840597081113280514"
         }
       ]
+    },
+    "col_8": {
+      "text": "It doesn't have \"Burberry\" inside tag"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1406"
+  }
 }

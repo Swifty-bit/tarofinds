@@ -1,64 +1,64 @@
 {
-  "name": "Burberry Equestrian Knight Sweater",
+  "name": "BurberryZipped Hoodie(hood pattern)",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "kungfu",
+  "best_batch": "NEWDP",
   "best_batch_links": [
     {
-      "label": "kungfu",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564564626%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564564626?inviteCode=29TOTHGNH"
+      "label": "NEWDP",
+      "url": "https://litbuy.com/product/weidian/7650105421?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7650105421?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "62$",
+  "best_price": "30$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://madebykungfu.x.yupoo.com/albums/211866811?uid=1&isSubCate=false&referrercate=4654696"
+      "url": "https://newdp.x.yupoo.com/albums/222102513?uid=1"
     }
   ],
-  "notes": "100% Wool",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwU4EV44XjFActKTBQUlmVxAPIFbc7NaG90G3ZqBsArqejuVEunrxZqeADU6K4WqobxJmhI2EXnb1HTM4c_7mlvjrhbPTHQGcAGcWBmYbPBTHd_M51aztCpm36w-zot4OymOs6ChSPwfl0D=w143-h110",
+  "notes": "Hood pattern only",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw40Ar0GLBZ5ZxhfrlaICqO_v5bSdlb6j4DzM43_YTevihbMfZyIlPayNvPrEx-xcqSHLbCJ0OtLlTYF196dJoYF3K75tstMdG84kzNKr3KC1veNSbn3nDDQGpaq94wiU5faA8w0Syqgami=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1397",
   "raw_cells": {
     "col_0": {
-      "text": "1004"
+      "text": "1000"
     },
     "col_1": {
-      "text": "Burberry Equestrian Knight Sweater"
+      "text": "BurberryZipped Hoodie(hood pattern)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwU4EV44XjFActKTBQUlmVxAPIFbc7NaG90G3ZqBsArqejuVEunrxZqeADU6K4WqobxJmhI2EXnb1HTM4c_7mlvjrhbPTHQGcAGcWBmYbPBTHd_M51aztCpm36w-zot4OymOs6ChSPwfl0D=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw40Ar0GLBZ5ZxhfrlaICqO_v5bSdlb6j4DzM43_YTevihbMfZyIlPayNvPrEx-xcqSHLbCJ0OtLlTYF196dJoYF3K75tstMdG84kzNKr3KC1veNSbn3nDDQGpaq94wiU5faA8w0Syqgami=w143-h110"
     },
     "col_3": {
-      "text": "kungfu",
+      "text": "NEWDP",
       "links": [
         {
-          "label": "kungfu",
-          "url": "https://oopbuy.com/product/weidian/7564564626?inviteCode=29TOTHGNH"
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7650105421?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "62$"
+      "text": "30$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://madebykungfu.x.yupoo.com/albums/211866811?uid=1&isSubCate=false&referrercate=4654696"
+          "url": "https://newdp.x.yupoo.com/albums/222102513?uid=1"
         }
       ]
     },
     "col_8": {
-      "text": "100% Wool"
+      "text": "Hood pattern only"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1397"
+  }
 }

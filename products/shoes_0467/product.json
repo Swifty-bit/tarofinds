@@ -1,86 +1,47 @@
 {
-  "name": "Gel-NYC24 Colors",
+  "name": "Court High",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZC/FC/Tony",
+  "best_batch": "ZZZTOPXX",
   "best_batch_links": [
     {
-      "label": "ZC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7522105691%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7522105691?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "FC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7283070059%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7283070059?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "Tony",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7227437149%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7227437149?inviteCode=29TOTHGNH"
+      "label": "ZZZTOPXX",
+      "url": "https://litbuy.com/product/taobao/6273721865?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6273721865?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F853411634146%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/853411634146?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "38$ / 30$ / 35$",
-  "budget_price": "25$",
-  "pics_text": "25$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "76$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
-  "notes": "ZC for best, other batches for more colors",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyM0dUDJL8_RR6p30yjwPIBAezjH5AlouuSLjomEiDimeZFY5lw9CL0ANOqttLtRbMnpPhvu9pXo_c76XaEhQtNxNM_2cpE4Sbf1vfpMyrIic8RPWbN5n6ZzbdJ8kFDd0_yKPLcXKArBDjn=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw52Kv-8amU0xrHy2xu8ABncJaoooK-sWM_PTQRvBsgcIqEF7GRbXDLAQY_Wt4LGTg5j2oupAEdG2NAxwM3qVDNBs0-WlrLbvPZF2mFWhZsX2c-9iF6E8g9AeqOtxV7cscKdDBNfAKxGY-h=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0467",
   "raw_cells": {
     "col_0": {
-      "text": "532"
+      "text": "530"
     },
     "col_1": {
-      "text": "Gel-NYC24 Colors"
+      "text": "Court High"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyM0dUDJL8_RR6p30yjwPIBAezjH5AlouuSLjomEiDimeZFY5lw9CL0ANOqttLtRbMnpPhvu9pXo_c76XaEhQtNxNM_2cpE4Sbf1vfpMyrIic8RPWbN5n6ZzbdJ8kFDd0_yKPLcXKArBDjn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw52Kv-8amU0xrHy2xu8ABncJaoooK-sWM_PTQRvBsgcIqEF7GRbXDLAQY_Wt4LGTg5j2oupAEdG2NAxwM3qVDNBs0-WlrLbvPZF2mFWhZsX2c-9iF6E8g9AeqOtxV7cscKdDBNfAKxGY-h=w143-h110"
     },
     "col_3": {
-      "text": "ZC/FC/Tony",
+      "text": "ZZZTOPXX",
       "links": [
         {
-          "label": "ZC",
-          "url": "https://oopbuy.com/product/weidian/7522105691?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "FC",
-          "url": "https://oopbuy.com/product/2/7283070059?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "Tony",
-          "url": "https://oopbuy.com/product/2/7227437149?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/853411634146?inviteCode=29TOTHGNH"
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/2/6273721865?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "38$ / 30$ / 35$"
-    },
-    "col_6": {
-      "text": "25$"
-    },
-    "col_7": {
-      "text": "ZC for best, other batches for more colors"
+      "text": "76$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0467"
+  }
 }

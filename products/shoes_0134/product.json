@@ -1,47 +1,47 @@
 {
-  "name": "High MF Doom",
+  "name": "Undefeated 5On It Black",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "3.0",
+  "best_batch": "H12",
   "best_batch_links": [
     {
-      "label": "3.0",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6537580347%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6537580347?inviteCode=29TOTHGNH"
+      "label": "H12",
+      "url": "https://litbuy.com/product/taobao/7222713244?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7222713244?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "91$",
+  "best_price": "43$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyjpYHEEIQHo10NLDBxXxdp32mxzMKnno9aJb9gJTqMju2cJZGkGw3p7rdEbqtmCapmbmXezU-Yj_BuWONTeIjozk0stM9wyNkT3d3CdJEyv5mhgXQXYFMszrpkspqFKKGWGk-9eb7L3MhF=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AywFw9jLnPRsMUtp7CX-5XXprfdXBO4gIi3G9OV6Pggw_1zNPYaziaBhb-MR_2T7j_4FRwLCcR9v9GjaXrSl6ccfqSVCJzuS-iSoUzDEeThQOkH-XYy3ix5LzIKJEJk6KtDbfv52h6poA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0134",
   "raw_cells": {
     "col_0": {
       "text": "143"
     },
     "col_1": {
-      "text": "High MF Doom"
+      "text": "Undefeated 5On It Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyjpYHEEIQHo10NLDBxXxdp32mxzMKnno9aJb9gJTqMju2cJZGkGw3p7rdEbqtmCapmbmXezU-Yj_BuWONTeIjozk0stM9wyNkT3d3CdJEyv5mhgXQXYFMszrpkspqFKKGWGk-9eb7L3MhF=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AywFw9jLnPRsMUtp7CX-5XXprfdXBO4gIi3G9OV6Pggw_1zNPYaziaBhb-MR_2T7j_4FRwLCcR9v9GjaXrSl6ccfqSVCJzuS-iSoUzDEeThQOkH-XYy3ix5LzIKJEJk6KtDbfv52h6poA=w143-h110"
     },
     "col_3": {
-      "text": "3.0",
+      "text": "H12",
       "links": [
         {
-          "label": "3.0",
-          "url": "https://oopbuy.com/product/2/6537580347?inviteCode=29TOTHGNH"
+          "label": "H12",
+          "url": "https://oopbuy.com/product/2/7222713244?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "91$"
+      "text": "43$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0134"
+  }
 }

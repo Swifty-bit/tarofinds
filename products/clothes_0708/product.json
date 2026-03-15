@@ -1,13 +1,13 @@
 {
-  "name": "Gallery DeptBoxing MerchT-Shirt",
+  "name": "Gallery DeptArt That KillsT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Singor",
   "best_batch_links": [
     {
       "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F907431708745%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/907431708745?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/705398937034?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/705398937034?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1927085856768704514?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923284535245639682?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyL8e_pcrY-NLmF9e6uErOk3G5uGJXmQrn6EipmWz4QzhkPrAGMYiyYP2buF_Hp1vnljxUxhJ9IA9JGoGysVnKwkpbm0CII66e8vpsPuVnAYRpU387uIYpqeNzFH0u7PitRu0QTti-TA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayern42lSbwt6id0TdZoePM3LVpHG3WyTX73f4N62hbLLZf8jdC1HfYHFiI31BW5JL6_mce342THvFb1zm5wO_za566rmBtvFger-aEcd0DDYgCtUkKirpLyUokg1pquB9ffW-qkRSKKVzM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0708",
   "raw_cells": {
     "col_0": {
-      "text": "191"
+      "text": "187"
     },
     "col_1": {
-      "text": "Gallery DeptBoxing MerchT-Shirt"
+      "text": "Gallery DeptArt That KillsT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyL8e_pcrY-NLmF9e6uErOk3G5uGJXmQrn6EipmWz4QzhkPrAGMYiyYP2buF_Hp1vnljxUxhJ9IA9JGoGysVnKwkpbm0CII66e8vpsPuVnAYRpU387uIYpqeNzFH0u7PitRu0QTti-TA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayern42lSbwt6id0TdZoePM3LVpHG3WyTX73f4N62hbLLZf8jdC1HfYHFiI31BW5JL6_mce342THvFb1zm5wO_za566rmBtvFger-aEcd0DDYgCtUkKirpLyUokg1pquB9ffW-qkRSKKVzM=w143-h110"
     },
     "col_3": {
       "text": "Singor",
       "links": [
         {
           "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/907431708745?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/705398937034?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1927085856768704514?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923284535245639682?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0708"
+  }
 }

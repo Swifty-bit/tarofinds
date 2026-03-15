@@ -1,56 +1,35 @@
 {
-  "name": "Ultra Mini Boot4 Colours",
+  "name": "Birkenstock Gizeh",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "FS/here",
-  "best_batch_links": [
-    {
-      "label": "FS",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7617179490%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7617179490?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4433451427%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4433451427?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "/",
+  "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "31$ / 31$",
+  "best_price": "18$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwPRogZItxg7pFjqyOUuhaKeBecn3NvcBowOm7WABuFaTYR4HdlAXwRrT8ma_4H3UJ94dMp3iYFypS9d1uhIxpdPNZlD_wqCY7WWS70Ojs6ZSFBCXV1Qs4B3dXhsWJM9pGlg1KhxcitFA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwncQssqUMqqJNyTPWj0ha1IHVPDr8tf7S7wIJS3stWFZTlsPo0VqhkSI0TaSihQLyyJnPC3VOn2lWYGUc3tDRvAG3vTR1skVzVbtI8X1y55DLpUJbCka8Okxt7stNkkBT2je35xErDiIXw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0519",
   "raw_cells": {
     "col_0": {
-      "text": "628"
+      "text": "626"
     },
     "col_1": {
-      "text": "Ultra Mini Boot4 Colours"
+      "text": "Birkenstock Gizeh"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwPRogZItxg7pFjqyOUuhaKeBecn3NvcBowOm7WABuFaTYR4HdlAXwRrT8ma_4H3UJ94dMp3iYFypS9d1uhIxpdPNZlD_wqCY7WWS70Ojs6ZSFBCXV1Qs4B3dXhsWJM9pGlg1KhxcitFA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwncQssqUMqqJNyTPWj0ha1IHVPDr8tf7S7wIJS3stWFZTlsPo0VqhkSI0TaSihQLyyJnPC3VOn2lWYGUc3tDRvAG3vTR1skVzVbtI8X1y55DLpUJbCka8Okxt7stNkkBT2je35xErDiIXw=w143-h110"
     },
     "col_3": {
-      "text": "FS/here",
-      "links": [
-        {
-          "label": "FS",
-          "url": "https://oopbuy.com/product/weidian/7617179490?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "here",
-          "url": "https://oopbuy.com/product/2/4433451427?inviteCode=29TOTHGNH"
-        }
-      ]
+      "text": "/"
     },
     "col_5": {
-      "text": "31$ / 31$"
+      "text": "18$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0519"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Essentials Fall2024 Sweatpants4 Colors",
+  "name": "Essentials 23FW Hoodie",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Singor",
+  "best_batch": "GmanClub",
   "best_batch_links": [
     {
-      "label": "Singor",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F912713621959%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/912713621959?inviteCode=29TOTHGNH"
+      "label": "GmanClub",
+      "url": "https://litbuy.com/product/weidian/756350264897?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "27$",
+  "best_price": "30$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://steven-1989.x.yupoo.com/albums/192715152?uid=1&isSubCate=false&referrercate=3018541"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxsqkT_Ym_JnH0NUF49qYZg6s0ywFGbhQZndBx3hn69n7BWTmbMSQlSzzxFfBUFIYd63Qvbh7R3ahNK3km58Z2tHR35n6AAITcqgOAQfZXhoLh6E9AmIw-w_G6LisDcL2s9W2NaGZfKFAUE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4JF3efgk6D6gva-_sbzEZvfesXM2BbuqdIPvXEpabvZLDhmPA9YipOFErQd4xcx4-j_4S3-Zqbn1QqFLQowOA9SSYsfO-Dm-_kMYTRKH4bdV0-ejZzoMKjcHouGnUn0f3pRPvHJehwhzR=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0736",
   "raw_cells": {
     "col_0": {
-      "text": "221"
+      "text": "217"
     },
     "col_1": {
-      "text": "Essentials Fall2024 Sweatpants4 Colors"
+      "text": "Essentials 23FW Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxsqkT_Ym_JnH0NUF49qYZg6s0ywFGbhQZndBx3hn69n7BWTmbMSQlSzzxFfBUFIYd63Qvbh7R3ahNK3km58Z2tHR35n6AAITcqgOAQfZXhoLh6E9AmIw-w_G6LisDcL2s9W2NaGZfKFAUE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4JF3efgk6D6gva-_sbzEZvfesXM2BbuqdIPvXEpabvZLDhmPA9YipOFErQd4xcx4-j_4S3-Zqbn1QqFLQowOA9SSYsfO-Dm-_kMYTRKH4bdV0-ejZzoMKjcHouGnUn0f3pRPvHJehwhzR=w143-h110"
     },
     "col_3": {
-      "text": "Singor",
+      "text": "GmanClub",
       "links": [
         {
-          "label": "Singor",
-          "url": "https://oopbuy.com/product/1/912713621959?inviteCode=29TOTHGNH"
+          "label": "GmanClub",
+          "url": "https://oopbuy.com/product/1/756350264897?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "30$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://steven-1989.x.yupoo.com/albums/192715152?uid=1&isSubCate=false&referrercate=3018541"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1894553554401726465?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0736"
+  }
 }

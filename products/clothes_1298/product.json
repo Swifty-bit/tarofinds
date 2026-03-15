@@ -1,61 +1,87 @@
 {
-  "name": "Lacoste Sweatshirt5 Colors",
+  "name": "Lacoste PoloClassic 2 Buttons5 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "NEWDP",
+  "best_batch": "FrenchFish",
   "best_batch_links": [
     {
-      "label": "NEWDP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7309186373%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7309186373?inviteCode=29TOTHGNH"
+      "label": "FrenchFish",
+      "url": "https://litbuy.com/product/weidian/7411829715?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7411829715?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "19$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/894916498417?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/894916498417?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "32$",
+  "budget_price": "6$",
+  "pics_text": "frenchfish/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://newdp.x.yupoo.com/albums/177084922?uid=1"
+      "label": "frenchfish",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923864613453139970?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1936952657250455554?action=discord&cid=-1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzSemHz2lYk5qliTdNZw7KRqYjvxd2WfzQNHwJbfdW5pFX31qieugUM3HQQKxDnDLq53zx0n0j9o4xFcDRpEMhgA10F8y35d5mf3D1SBSJl4jhQJVmgvKJ64Mrp2UoFchq-bKjzsGrNigTz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az7gzb4oU4uSHMqhZIcA_iH4UYJckLx7zIiTZXvtWr26A_Kmot0yPB1842OdpvnwL3SaWrtgy_skBeMvZz5xf_CTzAzwyTmQPQoVzSAV6OEqWsfqB-godG1KgOMpV-hrq5JghUIaCskAFtM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1298",
   "raw_cells": {
     "col_0": {
-      "text": "889"
+      "text": "885"
     },
     "col_1": {
-      "text": "Lacoste Sweatshirt5 Colors"
+      "text": "Lacoste PoloClassic 2 Buttons5 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzSemHz2lYk5qliTdNZw7KRqYjvxd2WfzQNHwJbfdW5pFX31qieugUM3HQQKxDnDLq53zx0n0j9o4xFcDRpEMhgA10F8y35d5mf3D1SBSJl4jhQJVmgvKJ64Mrp2UoFchq-bKjzsGrNigTz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az7gzb4oU4uSHMqhZIcA_iH4UYJckLx7zIiTZXvtWr26A_Kmot0yPB1842OdpvnwL3SaWrtgy_skBeMvZz5xf_CTzAzwyTmQPQoVzSAV6OEqWsfqB-godG1KgOMpV-hrq5JghUIaCskAFtM=w143-h110"
     },
     "col_3": {
-      "text": "NEWDP",
+      "text": "FrenchFish",
       "links": [
         {
-          "label": "NEWDP",
-          "url": "https://www.oopbuy.com/product/weidian/7309186373?inviteCode=29TOTHGNH"
+          "label": "FrenchFish",
+          "url": "https://oopbuy.com/product/weidian/7411829715?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/894916498417?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "19$"
+      "text": "32$"
+    },
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "frenchfish/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://newdp.x.yupoo.com/albums/177084922?uid=1"
+          "label": "frenchfish",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923864613453139970?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1936952657250455554?action=discord&cid=-1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1298"
+  }
 }

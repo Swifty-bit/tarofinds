@@ -1,87 +1,61 @@
 {
-  "name": "Essentials8th Season22SST-Shirt",
+  "name": "Gallery DeptSweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "firerep",
+  "best_batch": "tophotfashion",
   "best_batch_links": [
     {
-      "label": "firerep",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F985170574364%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/985170574364?inviteCode=29TOTHGNH"
+      "label": "tophotfashion",
+      "url": "https://litbuy.com/product/weidian/821461263757?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/821461263757?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "Yishan",
-  "budget_batch_links": [
-    {
-      "label": "Yishan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F735781090362%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/735781090362?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "18$",
-  "budget_price": "10$",
-  "pics_text": "firerep/yishan",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "36$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "firerep",
-      "url": "https://firerep.x.yupoo.com/albums/172094158?uid=1&isSubCate=false&referrercate=4640546"
-    },
-    {
-      "label": "yishan",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2001863575675179009?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://tophotfashion.x.yupoo.com/albums/170494807?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxAmJR12fYH11bBOxxoQfyC6VM5vlhhLbTkhcjQVejbPg-smylQNYi0rrEy6onsZIVfjACceIjfzR_fZIOBaHJuwzm3GMuMFD-mVoq7hL2eNHaotTRKcz2iYBUAhCaa92UPytD1VaB1gy6X=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AymtkxvnQ694Tj0I9VCaPb1T2bP2eIiFCZyitV3fc86r9SZA4_pCn8Gf1fobq7UnmlZaWHSc8FeLnSYZovxmLZX4XAw3f8_0Tv3dl8gv7WHmSB6FD5OOD3hEkeUHKxmr87sceiMf9QQ2V94=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0725",
   "raw_cells": {
     "col_0": {
-      "text": "210"
+      "text": "204"
     },
     "col_1": {
-      "text": "Essentials8th Season22SST-Shirt"
+      "text": "Gallery DeptSweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxAmJR12fYH11bBOxxoQfyC6VM5vlhhLbTkhcjQVejbPg-smylQNYi0rrEy6onsZIVfjACceIjfzR_fZIOBaHJuwzm3GMuMFD-mVoq7hL2eNHaotTRKcz2iYBUAhCaa92UPytD1VaB1gy6X=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AymtkxvnQ694Tj0I9VCaPb1T2bP2eIiFCZyitV3fc86r9SZA4_pCn8Gf1fobq7UnmlZaWHSc8FeLnSYZovxmLZX4XAw3f8_0Tv3dl8gv7WHmSB6FD5OOD3hEkeUHKxmr87sceiMf9QQ2V94=w143-h110"
     },
     "col_3": {
-      "text": "firerep",
+      "text": "tophotfashion",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://oopbuy.com/product/1/985170574364?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "Yishan",
-      "links": [
-        {
-          "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/735781090362?inviteCode=29TOTHGNH"
+          "label": "tophotfashion",
+          "url": "https://www.oopbuy.com/product/1/821461263757?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "18$"
-    },
-    "col_6": {
-      "text": "10$"
+      "text": "36$"
     },
     "col_7": {
-      "text": "firerep/yishan",
+      "text": "pics",
       "links": [
         {
-          "label": "firerep",
-          "url": "https://firerep.x.yupoo.com/albums/172094158?uid=1&isSubCate=false&referrercate=4640546"
-        },
-        {
-          "label": "yishan",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2001863575675179009?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://tophotfashion.x.yupoo.com/albums/170494807?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0725"
+  }
 }

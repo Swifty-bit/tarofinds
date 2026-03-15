@@ -1,12 +1,12 @@
 {
-  "name": "Jordan Jumpman JackTravis Scott Red",
+  "name": "Jordan Jumpman JackTravis Scott Sail",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "PK",
   "best_batch_links": [
     {
       "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7240073576%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7240073576?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7240073576?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,7 +14,7 @@
   "budget_batch_links": [
     {
       "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7212170011%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7212170011?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7212170011?inviteCode=29TOTHGNH"
     }
   ],
@@ -23,17 +23,19 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwjktijTu06a3j9wdiYjgAOAfNAjarkmtstjTdEZ_wpWldtOdLRqkJLS1HvV7Yv_QQdK3kHXFNVj-LpTAfdJcwnJlvJT8Qg-7fSaW-lw853hP5LtuE1b0z2qsD2ZlnSbAqoGOrSE4c0IWX9=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AywcSyhgndbuArZ0fLd57T1_ySHG8Zhi1e-grXeONDRYCYKsr8raVSIrXrJ_-_otSP6npL54Mmz8vqQn2MWQZuBv_iPMJIRuKiWPfJLyTt53mQdWw621O5VnxLyNwAxaiaunTkl7np8Mg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0061",
   "raw_cells": {
     "col_0": {
       "text": "68"
     },
     "col_1": {
-      "text": "Jordan Jumpman JackTravis Scott Red"
+      "text": "Jordan Jumpman JackTravis Scott Sail"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwjktijTu06a3j9wdiYjgAOAfNAjarkmtstjTdEZ_wpWldtOdLRqkJLS1HvV7Yv_QQdK3kHXFNVj-LpTAfdJcwnJlvJT8Qg-7fSaW-lw853hP5LtuE1b0z2qsD2ZlnSbAqoGOrSE4c0IWX9=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AywcSyhgndbuArZ0fLd57T1_ySHG8Zhi1e-grXeONDRYCYKsr8raVSIrXrJ_-_otSP6npL54Mmz8vqQn2MWQZuBv_iPMJIRuKiWPfJLyTt53mQdWw621O5VnxLyNwAxaiaunTkl7np8Mg=w143-h110"
     },
     "col_3": {
       "text": "PK",
@@ -59,7 +61,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0061"
+  }
 }

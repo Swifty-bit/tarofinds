@@ -1,47 +1,65 @@
 {
-  "name": "Travis ScottNeutral Olive Low",
+  "name": "Travis ScottMedium Olive Low",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "PK",
+  "best_batch": "LJR",
   "best_batch_links": [
     {
-      "label": "PK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7327963488%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7327963488?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/7240131608?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "57$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "PK4.0 B GRADE",
+  "budget_batch_links": [
+    {
+      "label": "PK4.0 B GRADE",
+      "url": "https://litbuy.com/product/taobao/7327454526?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "72$",
+  "budget_price": "34$",
+  "pics_text": "34$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyvMa0brE_s5tdyaw79ghFN5WqFxnk-SYWlRmd8QddNfUeJtIGVNmxNK_2D2OKtnRTIntYwBiXFF8A8tatNwWQ-sGodG6ukZFUA4uWHqYKvkXX2EKEnV0gtRPGml1F-m4RHGfGmTdnR1w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayty4ds_vIPeSjRLsh70xg_PhsGLQuCYGbsQw66uPpaswK-DzrCGSplHVWi6ps3ppr1aXrFM2yoLFp8srah9CiBDbQDPc5RfFmP4h_5ItDPW4waTDYmY6MeIBcnvbat51Fe3gfaMYGNKw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0143",
   "raw_cells": {
     "col_0": {
       "text": "154"
     },
     "col_1": {
-      "text": "Travis ScottNeutral Olive Low"
+      "text": "Travis ScottMedium Olive Low"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyvMa0brE_s5tdyaw79ghFN5WqFxnk-SYWlRmd8QddNfUeJtIGVNmxNK_2D2OKtnRTIntYwBiXFF8A8tatNwWQ-sGodG6ukZFUA4uWHqYKvkXX2EKEnV0gtRPGml1F-m4RHGfGmTdnR1w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayty4ds_vIPeSjRLsh70xg_PhsGLQuCYGbsQw66uPpaswK-DzrCGSplHVWi6ps3ppr1aXrFM2yoLFp8srah9CiBDbQDPc5RfFmP4h_5ItDPW4waTDYmY6MeIBcnvbat51Fe3gfaMYGNKw=w143-h110"
     },
     "col_3": {
-      "text": "PK",
+      "text": "LJR",
       "links": [
         {
-          "label": "PK",
-          "url": "https://oopbuy.com/product/2/7327963488?inviteCode=29TOTHGNH"
+          "label": "LJR",
+          "url": "https://oopbuy.com/product/2/7240131608?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "PK4.0 B GRADE",
+      "links": [
+        {
+          "label": "PK4.0 B GRADE",
+          "url": "https://oopbuy.com/product/2/7327454526?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "57$"
+      "text": "72$"
+    },
+    "col_6": {
+      "text": "34$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0143"
+  }
 }

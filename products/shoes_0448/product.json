@@ -1,65 +1,47 @@
 {
-  "name": "Skate xBrown Swarovski",
+  "name": "TrainersBlack Embossed Monogram",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Koala",
+  "best_batch": "A+",
   "best_batch_links": [
     {
-      "label": "Koala",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7595571456%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
+      "label": "A+",
+      "url": "https://litbuy.com/product/weidian/5925479942?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5925479942?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7370594492%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "100$",
-  "budget_price": "43$",
-  "pics_text": "43$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "79$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxV8M4ni5rzBhHO9mQPKa1zjS2AejQlkmhA4ZWvjKy3QVdaRacABjq1-LJPMvirtJ9JJ0kOgwS_seUGfj3vWclvX252j1vY6dv4nZ6m7NJjAGXwZ_jIRddUAA44d_MYCcQ8kB9mZnqCaw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzzC1ElSPOqP0rmEIquV7AP2iWiW09YuxwPlBeKe_Z0JmSDBKzL18nGz_NDkfag3nm2lz-K9W8UvrGfTn4Kom_Rn44nbk35Qzn7bdEIG03KL6qgeRg9CzniTwDHtbBmIcICg2fV5sR57g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0448",
   "raw_cells": {
     "col_0": {
       "text": "509"
     },
     "col_1": {
-      "text": "Skate xBrown Swarovski"
+      "text": "TrainersBlack Embossed Monogram"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxV8M4ni5rzBhHO9mQPKa1zjS2AejQlkmhA4ZWvjKy3QVdaRacABjq1-LJPMvirtJ9JJ0kOgwS_seUGfj3vWclvX252j1vY6dv4nZ6m7NJjAGXwZ_jIRddUAA44d_MYCcQ8kB9mZnqCaw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzzC1ElSPOqP0rmEIquV7AP2iWiW09YuxwPlBeKe_Z0JmSDBKzL18nGz_NDkfag3nm2lz-K9W8UvrGfTn4Kom_Rn44nbk35Qzn7bdEIG03KL6qgeRg9CzniTwDHtbBmIcICg2fV5sR57g=w143-h110"
     },
     "col_3": {
-      "text": "Koala",
+      "text": "A+",
       "links": [
         {
-          "label": "Koala",
-          "url": "https://oopbuy.com/product/weidian/7595571456?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/2/7370594492?inviteCode=29TOTHGNH"
+          "label": "A+",
+          "url": "https://oopbuy.com/product/weidian/5925479942?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "100$"
-    },
-    "col_6": {
-      "text": "43$"
+      "text": "79$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0448"
+  }
 }

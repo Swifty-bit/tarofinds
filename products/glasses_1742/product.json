@@ -1,0 +1,61 @@
+{
+  "name": "Cartierwith packaging7 Styles",
+  "category": "Glasses",
+  "subcategory": "",
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/669173517215?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/669173517215?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "13$",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2006191055270137858?action=discord&type=1&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcR1fMtG24EKbx1_Cn1xoph3LpkbZtRqtd7S0PlqrdnSZv-XVWESxqwDEN81wVPV1K6fUp0R8jP1wwKcqtMCTZTXCWwp1irR7pKl1R9RAD5OZ1w8LhBsvbGkVAgLdN3nIIi1zWiv69g6m8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "glasses_1742",
+  "raw_cells": {
+    "col_0": {
+      "text": "11"
+    },
+    "col_1": {
+      "text": "Cartierwith packaging7 Styles"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcR1fMtG24EKbx1_Cn1xoph3LpkbZtRqtd7S0PlqrdnSZv-XVWESxqwDEN81wVPV1K6fUp0R8jP1wwKcqtMCTZTXCWwp1irR7pKl1R9RAD5OZ1w8LhBsvbGkVAgLdN3nIIi1zWiv69g6m8=w143-h110"
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/669173517215?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_6": {
+      "text": "13$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2006191055270137858?action=discord&type=1&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

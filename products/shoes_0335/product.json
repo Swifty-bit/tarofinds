@@ -1,47 +1,47 @@
 {
-  "name": "Yeezy 350 v1",
+  "name": "Adilette 22",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG / LW",
+  "best_batch": "TJ",
   "best_batch_links": [
     {
-      "label": "OG / LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4879571903%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4879571903?inviteCode=29TOTHGNH"
+      "label": "TJ",
+      "url": "https://litbuy.com/product/weidian/5176650505?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/5176650505?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "62$",
+  "best_price": "9$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AydJTOO6-L_72JfjxrzBfRTlj4WbwhYCTjgo4RmcOrjvOvKjhmiRMbafwrHwnQ5cuDygj1_iATgyp66YVpBUi1KkIGpkMGz-zROURO9bg7CPSJCiHTW8Mx13x9rq2jtPnapQeo_uBIKX8zt=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzywnB9nb7abijjD2w-uVfIR6qTK179jRDtDSCEMMCallBVhyfbg-2Beg-3rMo5Y2JpC8e5atl2bkDGXOzp79KRK42EPLE4A-Lr_lYy4IUY7gD3IWfWhaT0__dMSxAjYWS1Z9unoUGSFPmy=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0335",
   "raw_cells": {
     "col_0": {
-      "text": "366"
+      "text": "364"
     },
     "col_1": {
-      "text": "Yeezy 350 v1"
+      "text": "Adilette 22"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AydJTOO6-L_72JfjxrzBfRTlj4WbwhYCTjgo4RmcOrjvOvKjhmiRMbafwrHwnQ5cuDygj1_iATgyp66YVpBUi1KkIGpkMGz-zROURO9bg7CPSJCiHTW8Mx13x9rq2jtPnapQeo_uBIKX8zt=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzywnB9nb7abijjD2w-uVfIR6qTK179jRDtDSCEMMCallBVhyfbg-2Beg-3rMo5Y2JpC8e5atl2bkDGXOzp79KRK42EPLE4A-Lr_lYy4IUY7gD3IWfWhaT0__dMSxAjYWS1Z9unoUGSFPmy=w143-h110"
     },
     "col_3": {
-      "text": "OG / LW",
+      "text": "TJ",
       "links": [
         {
-          "label": "OG / LW",
-          "url": "https://oopbuy.com/product/weidian/4879571903?inviteCode=29TOTHGNH"
+          "label": "TJ",
+          "url": "https://www.oopbuy.com/product/weidian/5176650505?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "62$"
+      "text": "9$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0335"
+  }
 }

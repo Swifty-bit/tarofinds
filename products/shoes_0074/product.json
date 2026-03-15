@@ -1,12 +1,12 @@
 {
-  "name": "J-Pack Chicago",
+  "name": "Lottery Pack Smoke Grey",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7243326840?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,26 +14,28 @@
   "budget_batch_links": [
     {
       "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6163723049%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6163723049?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7245630850?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "50$",
-  "budget_price": "25$",
-  "pics_text": "25$",
+  "budget_price": "23$",
+  "pics_text": "23$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeWku0tWSKr7UK2wtrpbNqHa-jYRQpwZIvdTVqb8MJZc6YstsCRYe_9IsrtVzgiCPIqS95oRtWZI2_P0uCKX9ROmSjb8z7HEbulL5AY4Vjj0ZmjlypPltWVa0-lkwc_l2vLyoO-AM3nA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azm26GhKRUqB19VWImKsZ0u8XbPd9mUNErdB0htHlH_8IojlPLQxhvnvH5EEDOEd4ZTqV73Y72k_tel-ur-iPUBe3ubSfHHVTqIwJPkF1ZCgJnuebim7-GpwHb7tM4Gk1mG-ImUE44QEvbv=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0074",
   "raw_cells": {
     "col_0": {
       "text": "83"
     },
     "col_1": {
-      "text": "J-Pack Chicago"
+      "text": "Lottery Pack Smoke Grey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeWku0tWSKr7UK2wtrpbNqHa-jYRQpwZIvdTVqb8MJZc6YstsCRYe_9IsrtVzgiCPIqS95oRtWZI2_P0uCKX9ROmSjb8z7HEbulL5AY4Vjj0ZmjlypPltWVa0-lkwc_l2vLyoO-AM3nA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azm26GhKRUqB19VWImKsZ0u8XbPd9mUNErdB0htHlH_8IojlPLQxhvnvH5EEDOEd4ZTqV73Y72k_tel-ur-iPUBe3ubSfHHVTqIwJPkF1ZCgJnuebim7-GpwHb7tM4Gk1mG-ImUE44QEvbv=w143-h110"
     },
     "col_3": {
       "text": "M",
@@ -49,7 +51,7 @@
       "links": [
         {
           "label": "VT",
-          "url": "https://oopbuy.com/product/weidian/6163723049?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -57,9 +59,7 @@
       "text": "50$"
     },
     "col_6": {
-      "text": "25$"
+      "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0074"
+  }
 }

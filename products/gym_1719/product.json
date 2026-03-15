@@ -1,49 +1,61 @@
 {
-  "name": "GYMSHARKVest Tank Top6 Colors",
+  "name": "GYMSHARK T-Shirt11 Colors",
   "category": "Gym",
   "subcategory": "",
-  "best_batch": "/",
+  "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "13$",
-  "budget_price": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/611493947097?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/611493947097?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "",
+  "budget_price": "6$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1938764604491558913?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1953783989050339331?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyX1hV1vq0e3lxSSX73RT_DNKaaAcL3TUGwAWutHD3ffYqvGJZJwwQZBZnuYfSLQlQDQ_QIDUSD5jqDk_o32Ebg2vNG8KhteShV18f6zr7QUFm1siIou3AdWY-RKCsf1Gw7d4rat1lt_Q=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aya2q-kXYN3SGxzChXfwMkBH-G_YViT2P4jwJMg74sK5f73kx4DoWD0pFgS6cMzlEh7RO7DR2yqRonT6-nmy0wCu1vo4wVvpunbD0SOCtFYtA-dJByRvvs2GUG2CoKV3andRqpD6KJGiw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1719",
   "raw_cells": {
     "col_0": {
-      "text": "20"
+      "text": "12"
     },
     "col_1": {
-      "text": "GYMSHARKVest Tank Top6 Colors"
+      "text": "GYMSHARK T-Shirt11 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyX1hV1vq0e3lxSSX73RT_DNKaaAcL3TUGwAWutHD3ffYqvGJZJwwQZBZnuYfSLQlQDQ_QIDUSD5jqDk_o32Ebg2vNG8KhteShV18f6zr7QUFm1siIou3AdWY-RKCsf1Gw7d4rat1lt_Q=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aya2q-kXYN3SGxzChXfwMkBH-G_YViT2P4jwJMg74sK5f73kx4DoWD0pFgS6cMzlEh7RO7DR2yqRonT6-nmy0wCu1vo4wVvpunbD0SOCtFYtA-dJByRvvs2GUG2CoKV3andRqpD6KJGiw=w143-h110"
     },
-    "col_3": {
-      "text": "/"
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/611493947097?inviteCode=29TOTHGNH"
+        }
+      ]
     },
-    "col_5": {
-      "text": "13$"
+    "col_6": {
+      "text": "6$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1938764604491558913?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1953783989050339331?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1719"
+  }
 }

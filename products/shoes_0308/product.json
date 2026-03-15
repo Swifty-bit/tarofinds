@@ -1,12 +1,12 @@
 {
-  "name": "Georgetown",
+  "name": "Toro BRAVO",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239331101%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239331101?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239331101?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxsMq-pO8MMB_l0mUATLs-Z0fFx8WniM2HRw2XMhLFSTjk-Hc6o4PqqOpXhGG31eHJD4gKldNjt3RBp1ig1mM8LySl2iTGNkpLl3fgsaYWfbYToc3DdWpHDq6iPPczWMahRjy96hhEbvA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzkvuoSUmu0IsZ0pa4tbUU-xgEJDfhId1mg-RFViCHrOWqCq6HPufSCaLD66C9I3VXP8PPiCjf7T8vuhi_Nem__SLAGnQTLMDrZgKqXAyKnRZy8buO9w6noV03SVs_LQUUWFwOhEvP5v1sZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0308",
   "raw_cells": {
     "col_0": {
       "text": "327"
     },
     "col_1": {
-      "text": "Georgetown"
+      "text": "Toro BRAVO"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxsMq-pO8MMB_l0mUATLs-Z0fFx8WniM2HRw2XMhLFSTjk-Hc6o4PqqOpXhGG31eHJD4gKldNjt3RBp1ig1mM8LySl2iTGNkpLl3fgsaYWfbYToc3DdWpHDq6iPPczWMahRjy96hhEbvA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzkvuoSUmu0IsZ0pa4tbUU-xgEJDfhId1mg-RFViCHrOWqCq6HPufSCaLD66C9I3VXP8PPiCjf7T8vuhi_Nem__SLAGnQTLMDrZgKqXAyKnRZy8buO9w6noV03SVs_LQUUWFwOhEvP5v1sZ=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "71$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0308"
+  }
 }

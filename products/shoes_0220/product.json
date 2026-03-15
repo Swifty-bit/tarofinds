@@ -1,17 +1,17 @@
 {
-  "name": "Red Cement",
+  "name": "White Cement",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "RFA/GX",
   "best_batch_links": [
     {
       "label": "RFA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F5791543640%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/5791543640?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/5791543640?inviteCode=29TOTHGNH"
     },
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239940606%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7239940606?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7239940606?inviteCode=29TOTHGNH"
     }
   ],
@@ -19,7 +19,7 @@
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240401725%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240401725?inviteCode=29TOTHGNH"
     }
   ],
@@ -28,17 +28,19 @@
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax1gtzgajepXL696Cta3OXGiUNb1KfQNsLSbGfPuPMe0k2TK4DuxXX7lyjSmAxWD2pkS3ecsTmZ3zlr439158ZuTKTCpAPLu0tPJXcMZhw5yGOisNWC3lgwml5SNcX5lo3DzMvQ6UM6afeq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay9GQNTdP8bZtHTCA0NahQvi_kArJOTuYEzbfgKWEf6hH_gF2FmfjxsdamE8jmmu9hUltdWNSYt4At9kXbkrX_xZd5Lqp9l3Ffo68veou_i035cVukaS_6s0WMiLM9DUQAkZCtqpRlT2q66=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0220",
   "raw_cells": {
     "col_0": {
       "text": "235"
     },
     "col_1": {
-      "text": "Red Cement"
+      "text": "White Cement"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax1gtzgajepXL696Cta3OXGiUNb1KfQNsLSbGfPuPMe0k2TK4DuxXX7lyjSmAxWD2pkS3ecsTmZ3zlr439158ZuTKTCpAPLu0tPJXcMZhw5yGOisNWC3lgwml5SNcX5lo3DzMvQ6UM6afeq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay9GQNTdP8bZtHTCA0NahQvi_kArJOTuYEzbfgKWEf6hH_gF2FmfjxsdamE8jmmu9hUltdWNSYt4At9kXbkrX_xZd5Lqp9l3Ffo68veou_i035cVukaS_6s0WMiLM9DUQAkZCtqpRlT2q66=w143-h110"
     },
     "col_3": {
       "text": "RFA/GX",
@@ -68,7 +70,5 @@
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0220"
+  }
 }

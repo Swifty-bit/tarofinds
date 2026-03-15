@@ -1,61 +1,61 @@
 {
-  "name": "Trapstar x NOFSJogger Pants Grey-Marl",
+  "name": "Football JerseyGradient",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7326041967%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7326041967?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/760609456390?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/760609456390?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "28$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "7$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/182663987?uid=1&isSubCate=false&referrercate=3770851"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1967414868782440450?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzaYWTBhSs-0xMMx02TfUPx75XmTMPnL4HhSrpdA7zXmjHTaXV9prFYDtuc0GHi-ClLuyRlYhCZY-W1LW8PAr4poEvPmqiY0nD3h1rO9tQqEOpRRxAvbJegPl9HvHvPOnrobCEflFNJBn9m=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxB27fAfqALqJoy9KQEyF3tcvJI5VZ7D7BPem7TqkVg2tv4QvrtD3vzCz_i3v_gpzTrJh9-0q9qy6vXyCm0A077BdxjS2Vr76Mc8vLga5XPnDwL9CsvjYYrBtNYnfZXrTmzjxrMpu3qrQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0975",
   "raw_cells": {
     "col_0": {
-      "text": "508"
+      "text": "504"
     },
     "col_1": {
-      "text": "Trapstar x NOFSJogger Pants Grey-Marl"
+      "text": "Football JerseyGradient"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzaYWTBhSs-0xMMx02TfUPx75XmTMPnL4HhSrpdA7zXmjHTaXV9prFYDtuc0GHi-ClLuyRlYhCZY-W1LW8PAr4poEvPmqiY0nD3h1rO9tQqEOpRRxAvbJegPl9HvHvPOnrobCEflFNJBn9m=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxB27fAfqALqJoy9KQEyF3tcvJI5VZ7D7BPem7TqkVg2tv4QvrtD3vzCz_i3v_gpzTrJh9-0q9qy6vXyCm0A077BdxjS2Vr76Mc8vLga5XPnDwL9CsvjYYrBtNYnfZXrTmzjxrMpu3qrQ=w143-h110"
     },
-    "col_3": {
-      "text": "elephant",
+    "col_4": {
+      "text": "here",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://www.oopbuy.com/product/weidian/7326041967?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/760609456390?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "28$"
+    "col_6": {
+      "text": "7$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/182663987?uid=1&isSubCate=false&referrercate=3770851"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1967414868782440450?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0975"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "Yeezy 500",
+  "name": "Yeezy 450",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "LW",
+  "best_batch": "WWTOP",
   "best_batch_links": [
     {
-      "label": "LW",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F4480410500%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/4480410500?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7564087983?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564087983?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "58$",
+  "best_price": "56$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az89r2q28AkQIedshHt8FjS-ef7S6t-UByvEiH-9-Ppvie4QV5HDZvKe6t5nNEjXw8vVp-7AwG-6Xl0241mTdO3t24docdAyVQTAd-HQn43qDKksjKzPQi9PBUiNMTIl8A9YWEunzFOEiu6=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax7krF2UY85VmRiHYJtfpnciXlA9bDCG91wwc55wAs50_xLDB4DOV0nMSx_beNWY6aeM2YCj8hA9Fpa4K5xtyvLaFT_ToncnBmORw8M51mppKMl_n6qoSS3nWiLqHAmhzCTJGMaXVp-i6XI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0340",
   "raw_cells": {
     "col_0": {
       "text": "371"
     },
     "col_1": {
-      "text": "Yeezy 500"
+      "text": "Yeezy 450"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az89r2q28AkQIedshHt8FjS-ef7S6t-UByvEiH-9-Ppvie4QV5HDZvKe6t5nNEjXw8vVp-7AwG-6Xl0241mTdO3t24docdAyVQTAd-HQn43qDKksjKzPQi9PBUiNMTIl8A9YWEunzFOEiu6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax7krF2UY85VmRiHYJtfpnciXlA9bDCG91wwc55wAs50_xLDB4DOV0nMSx_beNWY6aeM2YCj8hA9Fpa4K5xtyvLaFT_ToncnBmORw8M51mppKMl_n6qoSS3nWiLqHAmhzCTJGMaXVp-i6XI=w143-h110"
     },
     "col_3": {
-      "text": "LW",
+      "text": "WWTOP",
       "links": [
         {
-          "label": "LW",
-          "url": "https://oopbuy.com/product/2/4480410500?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7564087983?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "58$"
+      "text": "56$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0340"
+  }
 }

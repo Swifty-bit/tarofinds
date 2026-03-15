@@ -1,65 +1,91 @@
 {
-  "name": "\"blossom\" selvedge DenimJeans",
+  "name": "\"blossom\" waffle Longsleeve anthracite",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "elephant",
   "best_batch_links": [
     {
       "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7556331115%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7556331115?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7543263569?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7543263569?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "46$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/991639641336?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "16$",
+  "budget_price": "12$",
+  "pics_text": "firerep/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/211117725?uid=1&isSubCate=false&referrercate=5006226"
+      "label": "firerep",
+      "url": "https://elephant-factory.x.yupoo.com/albums/209302541?uid=1&isSubCate=false&referrercate=5006226"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxKNu9vg_k3swSBOWF6KX0v7GOdox05i2ZUqwPNuPSiCWogbQ7fsZsJ024xmDXD566Vb9tuq_LvE_hfDA6wpqj8tb1eynJOn_zgoVQONlLIKyjMtAQya2iFdiI47L-wJkbih7M29RxRFwE6=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtMMBJyI9EN0GaiicDvY6ytJ5nreoVw-va9LurD09ahhF5LX8KC3L4cgRh8TZ2l3NFHONIquFtT0C3H2VKCNj7PYQaXectiLSd5wG1TRaVrY5jEL-KWmroK6TWIKmj21_g0P1UrlGYB9xC=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0880",
   "raw_cells": {
     "col_0": {
-      "text": "397"
+      "text": "393"
     },
     "col_1": {
-      "text": "\"blossom\" selvedge DenimJeans"
+      "text": "\"blossom\" waffle Longsleeve anthracite"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxKNu9vg_k3swSBOWF6KX0v7GOdox05i2ZUqwPNuPSiCWogbQ7fsZsJ024xmDXD566Vb9tuq_LvE_hfDA6wpqj8tb1eynJOn_zgoVQONlLIKyjMtAQya2iFdiI47L-wJkbih7M29RxRFwE6=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtMMBJyI9EN0GaiicDvY6ytJ5nreoVw-va9LurD09ahhF5LX8KC3L4cgRh8TZ2l3NFHONIquFtT0C3H2VKCNj7PYQaXectiLSd5wG1TRaVrY5jEL-KWmroK6TWIKmj21_g0P1UrlGYB9xC=w143-h110"
     },
     "col_3": {
       "text": "elephant",
       "links": [
         {
           "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7556331115?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7543263569?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/991639641336?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "46$"
+      "text": "16$"
+    },
+    "col_6": {
+      "text": "12$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "firerep/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/211117725?uid=1&isSubCate=false&referrercate=5006226"
+          "label": "firerep",
+          "url": "https://elephant-factory.x.yupoo.com/albums/209302541?uid=1&isSubCate=false&referrercate=5006226"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2014198345772388354?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axes1LFQKHit5qOsHezrWvhUV_JjaI-z72VgQXzNzk4bmZ_FNH1u7DeDOVKIkUel3pmc7F7z8XMQ0KZANur8Uh3JlLgZrYQJgHugqAOCER_FQIYBOFWXa_ooxfzz-AeXJNGDTG0p1Y34DqX=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzfVnvLwksJCwndYbh_ZImg5XeBRdvBtRjt2xieCe4P1HF0S4rDpM29akGXRirie3oGAUuWK9e_qMnP3ELFygM8kZTwHhRsD-RjRlk0Me96FzZK2irbXHwaCYDizhYw50ERIZtaY2IJgpBi=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0880"
+  }
 }

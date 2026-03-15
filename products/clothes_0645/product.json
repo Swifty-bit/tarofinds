@@ -1,61 +1,87 @@
 {
-  "name": "Yeezy Gap Hoodie",
+  "name": "Ralph LaurenShort Socks",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "CND ISLAND",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F5357460006%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/5357460006?inviteCode=29TOTHGNH"
+      "label": "CND ISLAND",
+      "url": "https://litbuy.com/product/weidian/7592621583?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7592621583?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "21$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/842628826623?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "5$(6 Pairs)",
+  "budget_price": "1$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1917021081321914369?action=discord&cid=1840597081113280514"
+      "label": "best",
+      "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxLRSyIXNBVo-pycxGwf77n-OOXuqegNw8EmH6UHGh224732LMY3q4qFwB3hnlKlvfSEJ5zWVvWpxqtOYqRchrtbSqfnq1CFUo-4NEbWm64yOVbaicgNAxFAQ_JfFwYy3zumko1GyUGZfYk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyS-yzGn6LBPoAjtAQe0tHXFZzM_eeBk7br1Mtxde0AZfRjRRKwk3OWHItY7sfN5eOIBaNnxMX_d6KsZAD8SCT11slrAhTHZA8rsCafKULRpczCrIuQQV0BOTV_q5H84v0ZDHoiWtYJ9Q=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0645",
   "raw_cells": {
     "col_0": {
-      "text": "118"
+      "text": "112"
     },
     "col_1": {
-      "text": "Yeezy Gap Hoodie"
+      "text": "Ralph LaurenShort Socks"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxLRSyIXNBVo-pycxGwf77n-OOXuqegNw8EmH6UHGh224732LMY3q4qFwB3hnlKlvfSEJ5zWVvWpxqtOYqRchrtbSqfnq1CFUo-4NEbWm64yOVbaicgNAxFAQ_JfFwYy3zumko1GyUGZfYk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyS-yzGn6LBPoAjtAQe0tHXFZzM_eeBk7br1Mtxde0AZfRjRRKwk3OWHItY7sfN5eOIBaNnxMX_d6KsZAD8SCT11slrAhTHZA8rsCafKULRpczCrIuQQV0BOTV_q5H84v0ZDHoiWtYJ9Q=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "CND ISLAND",
       "links": [
         {
-          "label": "here",
-          "url": "https://www.oopbuy.com/product/weidian/5357460006?inviteCode=29TOTHGNH"
+          "label": "CND ISLAND",
+          "url": "https://oopbuy.com/product/weidian/7592621583?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/842628826623?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "21$"
+      "text": "5$(6 Pairs)"
+    },
+    "col_6": {
+      "text": "1$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1917021081321914369?action=discord&cid=1840597081113280514"
+          "label": "best",
+          "url": "https://baymaxsocks.x.yupoo.com/albums/223712646?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2026849938896408578?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0645"
+  }
 }

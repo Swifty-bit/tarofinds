@@ -1,65 +1,74 @@
 {
-  "name": "Dior B27",
+  "name": "Dior B23",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Ice Cream",
+  "best_batch": "Kevin",
   "best_batch_links": [
     {
-      "label": "Ice Cream",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7519418083%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7519418083?inviteCode=29TOTHGNH"
+      "label": "Kevin",
+      "url": "https://litbuy.com/product/weidian/631695846847?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "GD",
+  "budget_batch": "GD/budget",
   "budget_batch_links": [
     {
       "label": "GD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7475255237%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7475255237?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7407567776?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7407567776?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/taobao/4370246933?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "91$",
-  "budget_price": "61$",
-  "pics_text": "61$",
+  "best_price": "81$",
+  "budget_price": "51$ / 62$",
+  "pics_text": "51$ / 62$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwL_InRA3ZGAYivIqzrysc7zDvPOpxDVZ08HFA8RihoHn2JonSD-070Od1xZDaizkxM9_Kxva8Iqt4Q8CV3SjZwYOotcnQh-VXnsruTdrptC_O6TfJVmFwbE-miUvdzXCcOlMJKPA3n8Pjk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzVsVaYW3UziLUb_3ohN5qkmjYZ-UImA-Xgl-Di8kEwHD4ASdXnxf5r6dMCe4eeNA2IFsV-yohgtUZPL1sn2VqvXR1pbnPhubn2_nWtrPSOgii70TLNL6mOdiu6jU_c8Dn6_tY-TdHxkhpf=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0413",
   "raw_cells": {
     "col_0": {
       "text": "470"
     },
     "col_1": {
-      "text": "Dior B27"
+      "text": "Dior B23"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwL_InRA3ZGAYivIqzrysc7zDvPOpxDVZ08HFA8RihoHn2JonSD-070Od1xZDaizkxM9_Kxva8Iqt4Q8CV3SjZwYOotcnQh-VXnsruTdrptC_O6TfJVmFwbE-miUvdzXCcOlMJKPA3n8Pjk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzVsVaYW3UziLUb_3ohN5qkmjYZ-UImA-Xgl-Di8kEwHD4ASdXnxf5r6dMCe4eeNA2IFsV-yohgtUZPL1sn2VqvXR1pbnPhubn2_nWtrPSOgii70TLNL6mOdiu6jU_c8Dn6_tY-TdHxkhpf=w143-h110"
     },
     "col_3": {
-      "text": "Ice Cream",
+      "text": "Kevin",
       "links": [
         {
-          "label": "Ice Cream",
-          "url": "https://oopbuy.com/product/weidian/7519418083?inviteCode=29TOTHGNH"
+          "label": "Kevin",
+          "url": "https://oopbuy.com/product/1/631695846847?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "GD",
+      "text": "GD/budget",
       "links": [
         {
           "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7475255237?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7407567776?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/2/4370246933?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "91$"
+      "text": "81$"
     },
     "col_6": {
-      "text": "61$"
+      "text": "51$ / 62$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0413"
+  }
 }

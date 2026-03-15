@@ -1,65 +1,47 @@
 {
-  "name": "Orchid",
+  "name": "Manila",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7242121077?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7242121077?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "KX",
-  "budget_batch_links": [
-    {
-      "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "68$",
-  "budget_price": "42$",
-  "pics_text": "42$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "86$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwKf6vFoAFC0E8iYZmIe0uwbthajM3CZyGIr_MXF6MRh-T8uCFAABDW9D4-1zErT-cIRfBKj7lnyipVkmN2M6BBYReHjlpxWX-W0Ky2Y8M633KCb8Aj_aQc6jOEC10YDX4hg__aSNpbmA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzogJiQ86jZ7eeiucUQYHin36eBhfKwR-ahsdeiG4pMaup2bsKdhwOGA1YWFmzPWqY-oDXG-caEZNxIaTwkeJ0M-hSoEgDaeKSHqIMB_PbV6ai_XmpuDHEqyNgccx3ZI90yPfHXZDHwghY8=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0270",
   "raw_cells": {
     "col_0": {
       "text": "285"
     },
     "col_1": {
-      "text": "Orchid"
+      "text": "Manila"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwKf6vFoAFC0E8iYZmIe0uwbthajM3CZyGIr_MXF6MRh-T8uCFAABDW9D4-1zErT-cIRfBKj7lnyipVkmN2M6BBYReHjlpxWX-W0Ky2Y8M633KCb8Aj_aQc6jOEC10YDX4hg__aSNpbmA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzogJiQ86jZ7eeiucUQYHin36eBhfKwR-ahsdeiG4pMaup2bsKdhwOGA1YWFmzPWqY-oDXG-caEZNxIaTwkeJ0M-hSoEgDaeKSHqIMB_PbV6ai_XmpuDHEqyNgccx3ZI90yPfHXZDHwghY8=w143-h110"
     },
     "col_3": {
       "text": "GX",
       "links": [
         {
           "label": "GX",
-          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "KX",
-      "links": [
-        {
-          "label": "KX",
-          "url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7242121077?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "68$"
-    },
-    "col_6": {
-      "text": "42$"
+      "text": "86$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0270"
+  }
 }

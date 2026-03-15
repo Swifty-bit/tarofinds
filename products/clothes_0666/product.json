@@ -1,87 +1,61 @@
 {
-  "name": "CorteizALLSTARS T-Shirt",
+  "name": "Corteiz 5 Star Tee2 Colours",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7653821233%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7653821233?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656884070?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656884070?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F817436479234%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
-    }
-  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
   "best_price": "12$",
-  "budget_price": "7$",
-  "pics_text": "best/budget",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/117771201?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+      "label": "pics",
+      "url": "https://goat-official.x.yupoo.com/albums/138748184?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzcbfwujY-xz2LycJGGVhuBin2X9jrDCT5UfUxy9GAgEGp_U5uaYojf8A5kIY8vWAlpxIUFecjVBVtnludC8MN9LpTZ5OoFtLCO-Lo6n0AEk6eFCoexT6nJpjzoZf9nVmlcb9VhTtGaQWWn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwgN4gPF8H8xjNpXA7gOeq5_SlPMmrfu-IbIWVI2LwHWh7Lgm3v-4BlZTzIc5j2c1qBvJPQDqZO4-r3aaAkN11s8691CEoeuysuYEeUiEWdulxxTYldEm7GaqCIMIfyJLHkzaREuEhyShLw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0666",
   "raw_cells": {
     "col_0": {
-      "text": "147"
+      "text": "143"
     },
     "col_1": {
-      "text": "CorteizALLSTARS T-Shirt"
+      "text": "Corteiz 5 Star Tee2 Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzcbfwujY-xz2LycJGGVhuBin2X9jrDCT5UfUxy9GAgEGp_U5uaYojf8A5kIY8vWAlpxIUFecjVBVtnludC8MN9LpTZ5OoFtLCO-Lo6n0AEk6eFCoexT6nJpjzoZf9nVmlcb9VhTtGaQWWn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwgN4gPF8H8xjNpXA7gOeq5_SlPMmrfu-IbIWVI2LwHWh7Lgm3v-4BlZTzIc5j2c1qBvJPQDqZO4-r3aaAkN11s8691CEoeuysuYEeUiEWdulxxTYldEm7GaqCIMIfyJLHkzaREuEhyShLw=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7653821233?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656884070?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "12$"
     },
-    "col_6": {
-      "text": "7$"
-    },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/117771201?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
+          "label": "pics",
+          "url": "https://goat-official.x.yupoo.com/albums/138748184?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0666"
+  }
 }

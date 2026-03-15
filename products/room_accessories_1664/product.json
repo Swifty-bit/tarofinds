@@ -1,49 +1,61 @@
 {
-  "name": "The Simpsons Kwik-E-Mart",
+  "name": "FerrariDaytona SP3",
   "category": "Room Accessories",
   "subcategory": "",
-  "best_batch": "/",
-  "best_batch_links": [],
+  "best_batch": "Qingwen",
+  "best_batch_links": [
+    {
+      "label": "Qingwen",
+      "url": "https://litbuy.com/product/weidian/1006445485209?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1006445485209?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "53$",
+  "best_price": "42$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1956159893219135490?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://doppel.fit/item/TAOBAO/1006445485209"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axq-YyphjCaApObG2mR60Fb963z_sVQQVnhe5pM46wE6Xln6c-DIqtmhptYAhzynPArFW64o2c4l8jj_aEOwuEjlvsKASV9uUbNJnpV3LUa59w18mbzZKCHx0njjZgacgKrg62ItuNl--jZ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-SKJF4taNDN7PsXOJcjRZn-1ibTjNDiMoSgzkXuNZa_WejOZDnt2EbpH5w95EUwIhRTFJibhHRiRyLwPypXgWQBHvcqYjpNizmsARpd44LnZv7z_Weunf1a2YogY4e-CcFerLDBsnCw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1664",
   "raw_cells": {
     "col_0": {
-      "text": "28"
+      "text": "20"
     },
     "col_1": {
-      "text": "The Simpsons Kwik-E-Mart"
+      "text": "FerrariDaytona SP3"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axq-YyphjCaApObG2mR60Fb963z_sVQQVnhe5pM46wE6Xln6c-DIqtmhptYAhzynPArFW64o2c4l8jj_aEOwuEjlvsKASV9uUbNJnpV3LUa59w18mbzZKCHx0njjZgacgKrg62ItuNl--jZ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-SKJF4taNDN7PsXOJcjRZn-1ibTjNDiMoSgzkXuNZa_WejOZDnt2EbpH5w95EUwIhRTFJibhHRiRyLwPypXgWQBHvcqYjpNizmsARpd44LnZv7z_Weunf1a2YogY4e-CcFerLDBsnCw=w143-h110"
     },
     "col_3": {
-      "text": "/"
+      "text": "Qingwen",
+      "links": [
+        {
+          "label": "Qingwen",
+          "url": "https://oopbuy.com/product/1/1006445485209?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_5": {
-      "text": "53$"
+      "text": "42$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1956159893219135490?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://doppel.fit/item/TAOBAO/1006445485209"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "room_accessories_1664"
+  }
 }

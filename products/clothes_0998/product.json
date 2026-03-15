@@ -1,61 +1,64 @@
 {
-  "name": "Denim Jacket",
+  "name": "Performance TracksuitHoodie and Pants",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7341514581%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7341514581?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7342538388?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7342538388?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "43$",
+  "best_price": "61$(SET)",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/158520496?uid=1"
+      "url": "https://hotdog-official.x.yupoo.com/albums/168451635?uid=1&isSubCate=false&referrercate=4098105"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az-x8Jgf514cxh-c7tj3BZjwZiprRIXMEVEtvIt6gl1Hb403vWZFRkukIxCUUO1tT8c-Hpi_R0A2ftQtU-_h975rE0R-vQwiBvfI0S6jq4_xcdjlhnu-a0UxIw3VKtJ-wlPQsnl9ZLkdmDw=w143-h110",
+  "notes": "set 61$ - hoodie 32$ - pants 29$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWPcI2taUrwTzxLafBexZarxtwMcDY2b2TI65CNDEURBdHnjaApl8l-4xLyTLYF8IBACkKod9kiPwyFG6ETMoWvtCpp3Zg71tq1YD5slJOWecSmxFzpvz5Y2D8GjfKLCBsu4Tomb8rFC_e=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0998",
   "raw_cells": {
     "col_0": {
-      "text": "535"
+      "text": "531"
     },
     "col_1": {
-      "text": "Denim Jacket"
+      "text": "Performance TracksuitHoodie and Pants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az-x8Jgf514cxh-c7tj3BZjwZiprRIXMEVEtvIt6gl1Hb403vWZFRkukIxCUUO1tT8c-Hpi_R0A2ftQtU-_h975rE0R-vQwiBvfI0S6jq4_xcdjlhnu-a0UxIw3VKtJ-wlPQsnl9ZLkdmDw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWPcI2taUrwTzxLafBexZarxtwMcDY2b2TI65CNDEURBdHnjaApl8l-4xLyTLYF8IBACkKod9kiPwyFG6ETMoWvtCpp3Zg71tq1YD5slJOWecSmxFzpvz5Y2D8GjfKLCBsu4Tomb8rFC_e=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://www.oopbuy.com/product/weidian/7341514581?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7342538388?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
+      "text": "61$(SET)"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/158520496?uid=1"
+          "url": "https://hotdog-official.x.yupoo.com/albums/168451635?uid=1&isSubCate=false&referrercate=4098105"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 61$ - hoodie 32$ - pants 29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0998"
+  }
 }

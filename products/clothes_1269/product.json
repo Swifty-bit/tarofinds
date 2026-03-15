@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaTriple Waisted Sweatpants",
+  "name": "BalenciagaShorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "ApexMade",
+  "best_batch": "1to1",
   "best_batch_links": [
     {
-      "label": "ApexMade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F940387098196%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/940387098196?inviteCode=29TOTHGNH"
+      "label": "1to1",
+      "url": "https://litbuy.com/product/taobao/6101147259?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6101147259?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "70$",
+  "best_price": "44$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2003291346436182017?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/129758907?uid=1&isSubCate=false&referrercate=3984024"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-NYMIrq3WrSLJkv4RrL848ZyB9C-ZHcJabtHuYjbvgp9mbIY2Qc4hC3ukyfMmutclcKG7UlYXNkcvdKqR39_ZBQN_qNI9okgTolb3CY8GSEuAfHa1AkfVYRIxH9N41JtlVfyke69I1-Tk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxEvhhf6VqRL1z7zLbmnEZTu6JXf3QRZt9OitcMILJSsH5vf7GWbZd9yywjeqqikvZj6zWR5detfqrdRHb-vIDcVwIc4BxJfpjE_btvWe8x4lhmnTdLdtLQDM9pvcxca4vbZaBK2kyevxUg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1269",
   "raw_cells": {
     "col_0": {
-      "text": "858"
+      "text": "854"
     },
     "col_1": {
-      "text": "BalenciagaTriple Waisted Sweatpants"
+      "text": "BalenciagaShorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-NYMIrq3WrSLJkv4RrL848ZyB9C-ZHcJabtHuYjbvgp9mbIY2Qc4hC3ukyfMmutclcKG7UlYXNkcvdKqR39_ZBQN_qNI9okgTolb3CY8GSEuAfHa1AkfVYRIxH9N41JtlVfyke69I1-Tk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxEvhhf6VqRL1z7zLbmnEZTu6JXf3QRZt9OitcMILJSsH5vf7GWbZd9yywjeqqikvZj6zWR5detfqrdRHb-vIDcVwIc4BxJfpjE_btvWe8x4lhmnTdLdtLQDM9pvcxca4vbZaBK2kyevxUg=w143-h110"
     },
     "col_3": {
-      "text": "ApexMade",
+      "text": "1to1",
       "links": [
         {
-          "label": "ApexMade",
-          "url": "https://oopbuy.com/product/1/940387098196?inviteCode=29TOTHGNH"
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/2/6101147259?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "70$"
+      "text": "44$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2003291346436182017?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/129758907?uid=1&isSubCate=false&referrercate=3984024"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1269"
+  }
 }

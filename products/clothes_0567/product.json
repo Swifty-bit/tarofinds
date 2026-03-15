@@ -1,64 +1,64 @@
 {
-  "name": "Nike TNTracksuitBaby Blue",
+  "name": "Nocta TechTF2023 Black",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "DRAGONREP",
   "best_batch_links": [
     {
       "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7531310193%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7531310193?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7531193005?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "87$(SET)",
+  "best_price": "69$(SET)",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "DRAGON",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/158633267?uid=1"
+      "label": "DRAGON",
+      "url": "https://noghost.x.yupoo.com/albums/190651296?uid=1&isSubCate=false&referrercate=4660873"
     }
   ],
-  "notes": "set 87$ - top 45$ - pants 42$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awa4W2xvdaW1ShNUGMLlR89JJUqTmiimHXO5BJany2ItvW5cPj30pmiiyldYE-vz0JrKfpM4Vsyq0fIoKWSx-qbUAc2oNgCWPgf-te0SYV9QQBvDizV3c-XOk_Mt2iE3tZetiO5HKHme1RH=w143-h110",
+  "notes": "set 69$ - hoodie 36$ - pants 33$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az3nNVwSqubXBQ9ChrP7qMKlITg1vmfaZoEzlRvAkA7CWV0TNDpKOdjqBdFG6AJcL8eKtnssCQyGCK6ChvqGFaNW4Lk8VG0BmAxKS_PjLJ8PtbkJfkWsBGDC_JUvSanvrVLNwl5lWWvhA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0567",
   "raw_cells": {
     "col_0": {
-      "text": "32"
+      "text": "28"
     },
     "col_1": {
-      "text": "Nike TNTracksuitBaby Blue"
+      "text": "Nocta TechTF2023 Black"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awa4W2xvdaW1ShNUGMLlR89JJUqTmiimHXO5BJany2ItvW5cPj30pmiiyldYE-vz0JrKfpM4Vsyq0fIoKWSx-qbUAc2oNgCWPgf-te0SYV9QQBvDizV3c-XOk_Mt2iE3tZetiO5HKHme1RH=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az3nNVwSqubXBQ9ChrP7qMKlITg1vmfaZoEzlRvAkA7CWV0TNDpKOdjqBdFG6AJcL8eKtnssCQyGCK6ChvqGFaNW4Lk8VG0BmAxKS_PjLJ8PtbkJfkWsBGDC_JUvSanvrVLNwl5lWWvhA=w143-h110"
     },
     "col_3": {
       "text": "DRAGONREP",
       "links": [
         {
           "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7531310193?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7531193005?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "87$(SET)"
+      "text": "69$(SET)"
     },
     "col_7": {
-      "text": "pics",
+      "text": "DRAGON",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/158633267?uid=1"
+          "label": "DRAGON",
+          "url": "https://noghost.x.yupoo.com/albums/190651296?uid=1&isSubCate=false&referrercate=4660873"
         }
       ]
     },
     "col_8": {
-      "text": "set 87$ - top 45$ - pants 42$"
+      "text": "set 69$ - hoodie 36$ - pants 33$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0567"
+  }
 }

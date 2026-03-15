@@ -1,87 +1,61 @@
 {
-  "name": "GoyardCardholder12 Colors",
+  "name": "Louis VuittonMini PleatyDenim Blue",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "Scarlett",
-  "best_batch_links": [
-    {
-      "label": "Scarlett",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7236975530%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7236975530?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F729293946538%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/729293946538?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/923400141814?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/923400141814?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "45$",
-  "budget_price": "5$",
-  "pics_text": "best/budget",
+  "best_price": "",
+  "budget_price": "28$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1952535580624637953?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574327166656513?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1996044749197365249?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyNoDtdSZqvNbSx0aUSplUsp7qPVU0Qy5bpfB_wBjKgLqHPPenIhAatif0cfw9k3WYk07lHsJsPQ07sbG7_BI6Hlc04Pw1sRY9sBNLJiEQQSLUmZIX0wlNBnB-8kLecJwja6zlKRYea6yMZ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awi8BHbLPhyTivKLo-3OIUIIf6dmWMl7epov46xZS6XVhE2FeTAPJy952b7yO-w8SziZ1L_TYt8L7D5ku7iIXnJSiTSsl-6VBjBZE_vkCkXXkvY7z-9Cw3woAqqRF4kJacnLTdWxflRrZnn=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1517",
   "raw_cells": {
     "col_0": {
-      "text": "23"
+      "text": "19"
     },
     "col_1": {
-      "text": "GoyardCardholder12 Colors"
+      "text": "Louis VuittonMini PleatyDenim Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyNoDtdSZqvNbSx0aUSplUsp7qPVU0Qy5bpfB_wBjKgLqHPPenIhAatif0cfw9k3WYk07lHsJsPQ07sbG7_BI6Hlc04Pw1sRY9sBNLJiEQQSLUmZIX0wlNBnB-8kLecJwja6zlKRYea6yMZ=w143-h110"
-    },
-    "col_3": {
-      "text": "Scarlett",
-      "links": [
-        {
-          "label": "Scarlett",
-          "url": "https://oopbuy.com/product/2/7236975530?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awi8BHbLPhyTivKLo-3OIUIIf6dmWMl7epov46xZS6XVhE2FeTAPJy952b7yO-w8SziZ1L_TYt8L7D5ku7iIXnJSiTSsl-6VBjBZE_vkCkXXkvY7z-9Cw3woAqqRF4kJacnLTdWxflRrZnn=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/729293946538?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/923400141814?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "45$"
-    },
     "col_6": {
-      "text": "5$"
+      "text": "28$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1952535580624637953?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574327166656513?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1996044749197365249?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1517"
+  }
 }

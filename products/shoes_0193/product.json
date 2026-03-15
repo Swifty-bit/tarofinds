@@ -1,46 +1,48 @@
 {
-  "name": "Palomino",
+  "name": "Fire Red (2022)",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "W",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239164979%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+      "label": "W",
+      "url": "https://litbuy.com/product/weidian/7312934130?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "PB",
   "budget_batch_links": [
     {
       "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7251575945?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "62$",
+  "best_price": "63$",
   "budget_price": "29$",
   "pics_text": "29$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxYVKjzauz1s5FPaPiSKLRnzJMEjOLb07Mn-55SzuVC-6dYRKR-LX7OolXJiBSozoSvu7lwJNqPhfUpCcYpqXH4_jMu_YtgfLDuuyifzS8HrMhcoLi8rDWpf0tkzE3dFvJPkitF12tIekAm=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyqO8n5uEYdff6PkwEU1_2NzXQSEwsSJLR7Qwohyg3HlyOEUKlr4HOk97nHQc-WRsxB84Qy-CAwsZo-H_wDFA3PxROTlsQaA4dHf90_cphPR0ocPOReQczO6tr1YuyB_0acHIa_9yOEe_KA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0193",
   "raw_cells": {
     "col_0": {
       "text": "206"
     },
     "col_1": {
-      "text": "Palomino"
+      "text": "Fire Red (2022)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxYVKjzauz1s5FPaPiSKLRnzJMEjOLb07Mn-55SzuVC-6dYRKR-LX7OolXJiBSozoSvu7lwJNqPhfUpCcYpqXH4_jMu_YtgfLDuuyifzS8HrMhcoLi8rDWpf0tkzE3dFvJPkitF12tIekAm=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyqO8n5uEYdff6PkwEU1_2NzXQSEwsSJLR7Qwohyg3HlyOEUKlr4HOk97nHQc-WRsxB84Qy-CAwsZo-H_wDFA3PxROTlsQaA4dHf90_cphPR0ocPOReQczO6tr1YuyB_0acHIa_9yOEe_KA=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "W",
       "links": [
         {
-          "label": "OG",
-          "url": "https://oopbuy.com/product/2/7239164979?inviteCode=29TOTHGNH"
+          "label": "W",
+          "url": "https://oopbuy.com/product/weidian/7312934130?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "62$"
+      "text": "63$"
     },
     "col_6": {
       "text": "29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0193"
+  }
 }

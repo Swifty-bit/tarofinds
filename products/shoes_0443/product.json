@@ -1,47 +1,47 @@
 {
-  "name": "TrainersGreen Denim",
+  "name": "Furry Slide Slippers",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Jelly",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "here",
+  "budget_batch_links": [
     {
-      "label": "Jelly",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F730428049541%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/730428049541?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/692304116168?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/692304116168?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "103$",
-  "budget_price": "",
-  "pics_text": "",
+  "best_price": "",
+  "budget_price": "11$",
+  "pics_text": "11$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxydMbXEJzuDZOE7REkNmRHUwnJYB-tsWYl8nNMJQqUqwu_s4lGwhRWIw6oMiR-8LAmsi2p7NOi0UseTQdz8PQ_X3q4JTUAHFQooYlj9iPJlEqXo-Gbi5LTgmumVI6-iCu1s3gdvIuE4o14=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyT52P3kRvot-BXpWvDgf2Pn5lyPDDgxFTgpclEJZBcoFHDaUx4XK2x1-pA31aYBxXAcr6KaRkwyZRIxEpZvEv3Rnvfy1GgE460KAdPY6FDQ3ltmlvXe9-9D9ra0231eZo5yEzQZkIMMXAH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0443",
   "raw_cells": {
     "col_0": {
-      "text": "504"
+      "text": "502"
     },
     "col_1": {
-      "text": "TrainersGreen Denim"
+      "text": "Furry Slide Slippers"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxydMbXEJzuDZOE7REkNmRHUwnJYB-tsWYl8nNMJQqUqwu_s4lGwhRWIw6oMiR-8LAmsi2p7NOi0UseTQdz8PQ_X3q4JTUAHFQooYlj9iPJlEqXo-Gbi5LTgmumVI6-iCu1s3gdvIuE4o14=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyT52P3kRvot-BXpWvDgf2Pn5lyPDDgxFTgpclEJZBcoFHDaUx4XK2x1-pA31aYBxXAcr6KaRkwyZRIxEpZvEv3Rnvfy1GgE460KAdPY6FDQ3ltmlvXe9-9D9ra0231eZo5yEzQZkIMMXAH=w143-h110"
     },
-    "col_3": {
-      "text": "Jelly",
+    "col_4": {
+      "text": "here",
       "links": [
         {
-          "label": "Jelly",
-          "url": "https://oopbuy.com/product/1/730428049541?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/692304116168?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "103$"
+    "col_6": {
+      "text": "11$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0443"
+  }
 }

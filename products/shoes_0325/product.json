@@ -1,47 +1,47 @@
 {
-  "name": "Jordan 13",
+  "name": "Jordan 12",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "TK",
   "best_batch_links": [
     {
       "label": "TK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7425256276%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7425256276?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7329080788?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7329080788?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "76$",
+  "best_price": "64$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwnW22MomDZuOyVpRAttXnWrAAzgVtGNvwTUadch1jxu7DocWJkizN-1SZ_6ss4Nzy5gYxqxOOkHrYVTfJzm_lFwA_eHn4ktY9Y3Sj0RKzJICkUgLog0fHafjgQH9uyHaj6ryqJQ0Cy1NIz=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjOvqCFaoTV2cPAPQ5-QT2FSMwk5ml5KgsdPWIKR6nA-Z-6AerS6xh0PX_hqXv9fAFeeiqJ9I2Ypuj0u2tQcZ8_GjQJ75m4laXGvLob-BJjHS-UxqwMZ9wI-yuw6HNaJ7SIQ7RS9eD4A=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0325",
   "raw_cells": {
     "col_0": {
-      "text": "352"
+      "text": "350"
     },
     "col_1": {
-      "text": "Jordan 13"
+      "text": "Jordan 12"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwnW22MomDZuOyVpRAttXnWrAAzgVtGNvwTUadch1jxu7DocWJkizN-1SZ_6ss4Nzy5gYxqxOOkHrYVTfJzm_lFwA_eHn4ktY9Y3Sj0RKzJICkUgLog0fHafjgQH9uyHaj6ryqJQ0Cy1NIz=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjOvqCFaoTV2cPAPQ5-QT2FSMwk5ml5KgsdPWIKR6nA-Z-6AerS6xh0PX_hqXv9fAFeeiqJ9I2Ypuj0u2tQcZ8_GjQJ75m4laXGvLob-BJjHS-UxqwMZ9wI-yuw6HNaJ7SIQ7RS9eD4A=w143-h110"
     },
     "col_3": {
       "text": "TK",
       "links": [
         {
           "label": "TK",
-          "url": "https://oopbuy.com/product/2/7425256276?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7329080788?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "76$"
+      "text": "64$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0325"
+  }
 }

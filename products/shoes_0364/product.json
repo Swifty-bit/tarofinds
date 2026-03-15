@@ -1,47 +1,65 @@
 {
-  "name": "Timberland x LVLouis Vuitton2 Colors",
+  "name": "550",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "A+",
+  "best_batch": "PZ",
   "best_batch_links": [
     {
-      "label": "A+",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F6793631199%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/6793631199?inviteCode=29TOTHGNH"
+      "label": "PZ",
+      "url": "https://litbuy.com/product/taobao/7240415704?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7240415704?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "83$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "TJ",
+  "budget_batch_links": [
+    {
+      "label": "TJ",
+      "url": "https://litbuy.com/product/taobao/6480022480?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6480022480?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "26$",
+  "budget_price": "19$",
+  "pics_text": "19$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzXx4Nv48i7POpUMwJs4F26DFgntfUpYvzeOqV-4ZRsoWwQjEmN3sZKV52nMQoq-TkzBj_RmNG9pqsKr1BoLXRv2zEwlr2M1oQHqRdQyOBNCziuXTNST0VBAZ_2JZfRbAx_yfdtgwiPRAZP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwMwC_hyBQcifEVeiu28533do-hth0Kvln-hAMoP26KnOcksWQ-o8kiJkX-Hth9_K2anNHrh1VUTpaIUaRnRyhfmG95eRcjJTPEvD1t7tT8BbzzdKHbO25uUktscMtTqMYwnwrpHl6WO-Vl=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0364",
   "raw_cells": {
     "col_0": {
-      "text": "399"
+      "text": "397"
     },
     "col_1": {
-      "text": "Timberland x LVLouis Vuitton2 Colors"
+      "text": "550"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzXx4Nv48i7POpUMwJs4F26DFgntfUpYvzeOqV-4ZRsoWwQjEmN3sZKV52nMQoq-TkzBj_RmNG9pqsKr1BoLXRv2zEwlr2M1oQHqRdQyOBNCziuXTNST0VBAZ_2JZfRbAx_yfdtgwiPRAZP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwMwC_hyBQcifEVeiu28533do-hth0Kvln-hAMoP26KnOcksWQ-o8kiJkX-Hth9_K2anNHrh1VUTpaIUaRnRyhfmG95eRcjJTPEvD1t7tT8BbzzdKHbO25uUktscMtTqMYwnwrpHl6WO-Vl=w143-h110"
     },
     "col_3": {
-      "text": "A+",
+      "text": "PZ",
       "links": [
         {
-          "label": "A+",
-          "url": "https://oopbuy.com/product/weidian/6793631199?inviteCode=29TOTHGNH"
+          "label": "PZ",
+          "url": "https://oopbuy.com/product/2/7240415704?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "TJ",
+      "links": [
+        {
+          "label": "TJ",
+          "url": "https://oopbuy.com/product/2/6480022480?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "83$"
+      "text": "26$"
+    },
+    "col_6": {
+      "text": "19$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0364"
+  }
 }

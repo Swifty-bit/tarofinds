@@ -1,61 +1,61 @@
 {
-  "name": "Balenciaga 25SS x Under Armour LoopSport T-Shirt",
+  "name": "Balenciaga T-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "SatanMade",
+  "best_batch": "1to1",
   "best_batch_links": [
     {
-      "label": "SatanMade",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7450600960%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7450600960?inviteCode=29TOTHGNH"
+      "label": "1to1",
+      "url": "https://litbuy.com/product/taobao/6082760920?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6082760920?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "12$",
+  "best_price": "33$",
   "budget_price": "",
-  "pics_text": "QC Pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1957970949413888001?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/129094311?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awl6Fd5Y-jaGsE9XfBFSQZRGZhvpPAGb7gTtHbFAc2rvU6z_yUcRlqzV61qS4eIGmv0CXO2eY9oclBzCiJnPNeu9M8BkrzBMPx7rmVu1d1osJXssqYpen5OTyKFfP20kiD5epcKtslOxGsP=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4PB5dP0az_-hx0075IJ-8Yg3hw5mJIxZG5M4RvJYKjlCan8xdBT8dd_0SlvKiB5wpOqzLHkfD332GrYgaPA35hOJnGi9rxQjWVrsfPP54-5z7RgDIeUgw24b-5n11LNUcsa8vrPZ4UQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1255",
   "raw_cells": {
     "col_0": {
-      "text": "844"
+      "text": "840"
     },
     "col_1": {
-      "text": "Balenciaga 25SS x Under Armour LoopSport T-Shirt"
+      "text": "Balenciaga T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awl6Fd5Y-jaGsE9XfBFSQZRGZhvpPAGb7gTtHbFAc2rvU6z_yUcRlqzV61qS4eIGmv0CXO2eY9oclBzCiJnPNeu9M8BkrzBMPx7rmVu1d1osJXssqYpen5OTyKFfP20kiD5epcKtslOxGsP=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4PB5dP0az_-hx0075IJ-8Yg3hw5mJIxZG5M4RvJYKjlCan8xdBT8dd_0SlvKiB5wpOqzLHkfD332GrYgaPA35hOJnGi9rxQjWVrsfPP54-5z7RgDIeUgw24b-5n11LNUcsa8vrPZ4UQ=w143-h110"
     },
     "col_3": {
-      "text": "SatanMade",
+      "text": "1to1",
       "links": [
         {
-          "label": "SatanMade",
-          "url": "https://oopbuy.com/product/weidian/7450600960?inviteCode=29TOTHGNH"
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/2/6082760920?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "12$"
+      "text": "33$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1957970949413888001?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/129094311?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1255"
+  }
 }

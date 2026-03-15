@@ -1,47 +1,47 @@
 {
-  "name": "Knu Skool",
+  "name": "Bape x Undefeated",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "here",
+  "best_batch": "WWT",
   "best_batch_links": [
     {
-      "label": "here",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6107152669%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6107152669?inviteCode=29TOTHGNH"
+      "label": "WWT",
+      "url": "https://litbuy.com/product/weidian/7563993287?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "25$",
+  "best_price": "55$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AycPCuB5yBgyt97qqyQfvH3NbTuF87TJG-DMp--lSjaCuRMyRSnry4d5yQI-psKI2AJB5gbC1VOuhWSW6z807ZDy_XwaPL68bGsh4rTQ1cQfsLlo54pyvZ_AqquGf9q6nJC-fOI5ycKaW8P=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyzGwB6kg_R-Pin9tCt8aX7I5FykeIQSRQBJFHSb2VLvmrpjB0Zg_uI-_IknBf-ST0VnYF7QvGPheKM9CWJlCWf7zHO3cdwHcLMxPuvNzEpzUSgEZM1wW8YUwdrc0FIl_1ZLYiSMPAcCg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0368",
   "raw_cells": {
     "col_0": {
-      "text": "405"
+      "text": "403"
     },
     "col_1": {
-      "text": "Knu Skool"
+      "text": "Bape x Undefeated"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AycPCuB5yBgyt97qqyQfvH3NbTuF87TJG-DMp--lSjaCuRMyRSnry4d5yQI-psKI2AJB5gbC1VOuhWSW6z807ZDy_XwaPL68bGsh4rTQ1cQfsLlo54pyvZ_AqquGf9q6nJC-fOI5ycKaW8P=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyzGwB6kg_R-Pin9tCt8aX7I5FykeIQSRQBJFHSb2VLvmrpjB0Zg_uI-_IknBf-ST0VnYF7QvGPheKM9CWJlCWf7zHO3cdwHcLMxPuvNzEpzUSgEZM1wW8YUwdrc0FIl_1ZLYiSMPAcCg=w143-h110"
     },
     "col_3": {
-      "text": "here",
+      "text": "WWT",
       "links": [
         {
-          "label": "here",
-          "url": "https://oopbuy.com/product/2/6107152669?inviteCode=29TOTHGNH"
+          "label": "WWT",
+          "url": "https://oopbuy.com/product/weidian/7563993287?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "25$"
+      "text": "55$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0368"
+  }
 }

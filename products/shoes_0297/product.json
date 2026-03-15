@@ -1,47 +1,47 @@
 {
-  "name": "DJ KhaledWe The Best Sail",
+  "name": "Oregon Ducks",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Version1",
+  "best_batch": "H12",
   "best_batch_links": [
     {
-      "label": "Version1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F4480462048%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/4480462048?inviteCode=29TOTHGNH"
+      "label": "H12",
+      "url": "https://litbuy.com/product/weidian/7221816175?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7221816175?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "63$",
+  "best_price": "65$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwcIqG36CXyTngml7koPaK2MejvRre7IkC4lqnTgHM2H_LJWaN8kZxtcDKMhnxIdFzinLzxxvwZLEw2y1tvCQqAZzp6C3tbK-9I2xfUYYeantnmaVUMHqaqfnEGYz0L2LDK-hkW-Q0cBn-7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AybSfHrVNIuMFejUHdxIlNHzh7xXtKJPP3Lkb7-OceTq-DbGIPhXwFKMqo8P8OACFLs4ohHWzDBmEz7Q__f2sVie3GNp3aCC10BFcPYOunyQMUIWZ-K2cq3VqM5VW49ML4ZWO6E7nqZJg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0297",
   "raw_cells": {
     "col_0": {
       "text": "314"
     },
     "col_1": {
-      "text": "DJ KhaledWe The Best Sail"
+      "text": "Oregon Ducks"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwcIqG36CXyTngml7koPaK2MejvRre7IkC4lqnTgHM2H_LJWaN8kZxtcDKMhnxIdFzinLzxxvwZLEw2y1tvCQqAZzp6C3tbK-9I2xfUYYeantnmaVUMHqaqfnEGYz0L2LDK-hkW-Q0cBn-7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AybSfHrVNIuMFejUHdxIlNHzh7xXtKJPP3Lkb7-OceTq-DbGIPhXwFKMqo8P8OACFLs4ohHWzDBmEz7Q__f2sVie3GNp3aCC10BFcPYOunyQMUIWZ-K2cq3VqM5VW49ML4ZWO6E7nqZJg=w143-h110"
     },
     "col_3": {
-      "text": "Version1",
+      "text": "H12",
       "links": [
         {
-          "label": "Version1",
-          "url": "https://www.oopbuy.com/product/weidian/4480462048?inviteCode=29TOTHGNH"
+          "label": "H12",
+          "url": "https://www.oopbuy.com/product/weidian/7221816175?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "63$"
+      "text": "65$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0297"
+  }
 }

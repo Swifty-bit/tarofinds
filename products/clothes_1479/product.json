@@ -1,61 +1,87 @@
 {
-  "name": "Canada GooseFur",
+  "name": "Canada GooseExpedition 4660MRed Lable",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Chaoren",
   "best_batch_links": [
     {
       "label": "Chaoren",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F747079053372%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/747079053372?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/755363514015?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/755363514015?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "7$ - 30$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "ZZZTOPXX",
+  "budget_batch_links": [
+    {
+      "label": "ZZZTOPXX",
+      "url": "https://litbuy.com/product/weidian/7096887547?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7096887547?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "265$",
+  "budget_price": "100$",
+  "pics_text": "chaoren/zzztopxx",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1922841637832200193?action=discord&cid=1840597081113280514"
+      "label": "chaoren",
+      "url": "https://chaorenqihaodian.x.yupoo.com/categories/439347?isSubCate=true"
+    },
+    {
+      "label": "zzztopxx",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1914353230994837505?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxspWbVYRKlkFbmqfy-Rd_6_R_DiB_NEsIBT4ixzLaQPRHWBmFIPBBIMm6NJWjQzciEVVrKjIHEo1iiaRXhzpblodJuXr2qxZm-RMVFot1vXqcdsOdGapqdcmll606KVf0l21KzRMWvw9kA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyaomuSo2mtLViUKuQVwm2090eXt8NuRA4giy3H0V19VdNMr1l1BpOqf1spX7GSks6YKJB9Xq-m7Z7DkkDsdgRYZlVScF2ucivrhcPw-VDOF_TNWdr8ZufWRiNVGofDJCgxCv1POzCR7g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1479",
   "raw_cells": {
     "col_0": {
-      "text": "1100"
+      "text": "1096"
     },
     "col_1": {
-      "text": "Canada GooseFur"
+      "text": "Canada GooseExpedition 4660MRed Lable"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxspWbVYRKlkFbmqfy-Rd_6_R_DiB_NEsIBT4ixzLaQPRHWBmFIPBBIMm6NJWjQzciEVVrKjIHEo1iiaRXhzpblodJuXr2qxZm-RMVFot1vXqcdsOdGapqdcmll606KVf0l21KzRMWvw9kA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyaomuSo2mtLViUKuQVwm2090eXt8NuRA4giy3H0V19VdNMr1l1BpOqf1spX7GSks6YKJB9Xq-m7Z7DkkDsdgRYZlVScF2ucivrhcPw-VDOF_TNWdr8ZufWRiNVGofDJCgxCv1POzCR7g=w143-h110"
     },
     "col_3": {
       "text": "Chaoren",
       "links": [
         {
           "label": "Chaoren",
-          "url": "https://www.oopbuy.com/product/1/747079053372?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/755363514015?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "ZZZTOPXX",
+      "links": [
+        {
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/weidian/7096887547?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "7$ - 30$"
+      "text": "265$"
+    },
+    "col_6": {
+      "text": "100$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "chaoren/zzztopxx",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1922841637832200193?action=discord&cid=1840597081113280514"
+          "label": "chaoren",
+          "url": "https://chaorenqihaodian.x.yupoo.com/categories/439347?isSubCate=true"
+        },
+        {
+          "label": "zzztopxx",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1914353230994837505?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1479"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Prada Beanie",
+  "name": "Celine Shorts",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "1to1",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7234458934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
+      "label": "1to1",
+      "url": "https://litbuy.com/product/weidian/6099911936?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6099911936?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "4$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "54$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1950361440761237506?action=discord&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/215422593?uid=1&isSubCate=false&referrercate=5012627"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azttb5UHX8YYX67yEvTBVroZeTtxOEE3indOEWaE_hUfoRMKKRCA5FbxPidWlR5HQghMfIDdCNAFblt9anCd9SyeJS2UzJnfuAEa6AmIoBaE7RdRiH_9xN4Wysz8oESHCL8q-nTTjby3Zfu=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwxC_bJQFPi2SiIOKe3JTRQnZnjuoCURBMGSqEPUNkLjDe72euLzCXI7sxlOxxrKo3GwJbfp31zsTxyD0Yxho3198TPwGc7wbG0_aQJ-T8TIyg6FEpvIVfPXfaWY43xsFSZ_03EQ2QJr1Zj=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0868",
   "raw_cells": {
     "col_0": {
-      "text": "381"
+      "text": "375"
     },
     "col_1": {
-      "text": "Prada Beanie"
+      "text": "Celine Shorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azttb5UHX8YYX67yEvTBVroZeTtxOEE3indOEWaE_hUfoRMKKRCA5FbxPidWlR5HQghMfIDdCNAFblt9anCd9SyeJS2UzJnfuAEa6AmIoBaE7RdRiH_9xN4Wysz8oESHCL8q-nTTjby3Zfu=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwxC_bJQFPi2SiIOKe3JTRQnZnjuoCURBMGSqEPUNkLjDe72euLzCXI7sxlOxxrKo3GwJbfp31zsTxyD0Yxho3198TPwGc7wbG0_aQJ-T8TIyg6FEpvIVfPXfaWY43xsFSZ_03EQ2QJr1Zj=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "1to1",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7234458934?inviteCode=29TOTHGNH"
+          "label": "1to1",
+          "url": "https://oopbuy.com/product/weidian/6099911936?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "4$"
+    "col_5": {
+      "text": "54$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1950361440761237506?action=discord&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/215422593?uid=1&isSubCate=false&referrercate=5012627"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0868"
+  }
 }

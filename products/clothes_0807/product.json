@@ -1,61 +1,141 @@
 {
-  "name": "Moncler x Sp5derPuffer",
+  "name": "Maya Down Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "JIEYI/RepsKing",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7591420096%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7591420096?inviteCode=29TOTHGNH"
+      "label": "JIEYI",
+      "url": "https://litbuy.com/product/weidian/698667801968?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/698667801968?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "RepsKing",
+      "url": "https://litbuy.com/product/weidian/932982805563?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/932982805563?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "133$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "Repsun/budget/budget",
+  "budget_batch_links": [
+    {
+      "label": "Repsun",
+      "url": "https://litbuy.com/product/weidian/7385300455?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7385300455?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7658531423?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7658531423?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/704214021693?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/704214021693?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "197$ / 113$",
+  "budget_price": "92$ / 54$",
+  "pics_text": "jieyi/repsking/repsun/b1/b2",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/208648952?uid=1&isSubCate=false&referrercate=4873628"
+      "label": "jieyi",
+      "url": "https://jieyi168.x.yupoo.com/albums/208586773?uid=1&isSubCate=false&referrercate=4999623"
+    },
+    {
+      "label": "repsking",
+      "url": "https://repsking.x.yupoo.com/albums/161893981?uid=1"
+    },
+    {
+      "label": "repsun",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1917612434448265217?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "b1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1995682419980718081?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "b2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1979895415068778498?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax2hdLfQ2xKz5qnixd6qzkat66fDQSd9zIdWncHws8mq_vXmVS--nJyEQFVadPsk7hhgUrPK5e_vIMOZi6yKj05fVjEPhN8EupaY_Ve0GvDOKXiaDTeqbZfc3poBmkahiLrR1IlHeYEajgm=w143-h110",
+  "notes": "Jieyi use goose downRepsking use duck down",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6iTeQuiFwPH1x745IrOMKaeUPYY26IesROYvDkVIpQIdZUkranCTjpRgCQt8j6XvNF3F_mFwSb8ECf5OLQxaWmM4NYb7dw0sN6FegrfJ73bBL9ZqSIqD2uz1oQHHt0JJFK87MK_6T0g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0807",
   "raw_cells": {
     "col_0": {
-      "text": "302"
+      "text": "298"
     },
     "col_1": {
-      "text": "Moncler x Sp5derPuffer"
+      "text": "Maya Down Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax2hdLfQ2xKz5qnixd6qzkat66fDQSd9zIdWncHws8mq_vXmVS--nJyEQFVadPsk7hhgUrPK5e_vIMOZi6yKj05fVjEPhN8EupaY_Ve0GvDOKXiaDTeqbZfc3poBmkahiLrR1IlHeYEajgm=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6iTeQuiFwPH1x745IrOMKaeUPYY26IesROYvDkVIpQIdZUkranCTjpRgCQt8j6XvNF3F_mFwSb8ECf5OLQxaWmM4NYb7dw0sN6FegrfJ73bBL9ZqSIqD2uz1oQHHt0JJFK87MK_6T0g=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "JIEYI/RepsKing",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7591420096?inviteCode=29TOTHGNH"
+          "label": "JIEYI",
+          "url": "https://oopbuy.com/product/1/698667801968?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "RepsKing",
+          "url": "https://oopbuy.com/product/1/932982805563?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "Repsun/budget/budget",
+      "links": [
+        {
+          "label": "Repsun",
+          "url": "https://www.oopbuy.com/product/weidian/7385300455?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7658531423?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/704214021693?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "133$"
+      "text": "197$ / 113$"
+    },
+    "col_6": {
+      "text": "92$ / 54$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "jieyi/repsking/repsun/b1/b2",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/208648952?uid=1&isSubCate=false&referrercate=4873628"
+          "label": "jieyi",
+          "url": "https://jieyi168.x.yupoo.com/albums/208586773?uid=1&isSubCate=false&referrercate=4999623"
+        },
+        {
+          "label": "repsking",
+          "url": "https://repsking.x.yupoo.com/albums/161893981?uid=1"
+        },
+        {
+          "label": "repsun",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1917612434448265217?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "b1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1995682419980718081?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "b2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1979895415068778498?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "Jieyi use goose downRepsking use duck down"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0807"
+  }
 }

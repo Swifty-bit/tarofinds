@@ -1,47 +1,65 @@
 {
-  "name": "Court",
+  "name": "Skeleton",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZZZTOPXX",
+  "best_batch": "Alexander",
   "best_batch_links": [
     {
-      "label": "ZZZTOPXX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6273721865%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6273721865?inviteCode=29TOTHGNH"
+      "label": "Alexander",
+      "url": "https://litbuy.com/product/taobao/7232607440?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7232607440?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "73$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/853596245560?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/853596245560?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "86$",
+  "budget_price": "20$",
+  "pics_text": "20$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxwEnsm15t16Zgu4GSqYF6_z2aPA7I62OwHtVcID6D_6gPn3KLbWxs1RqnQ0mG4cI91Cs7HIutN2aZd8PqGuWMew5tkgWPF8_VWsakJceWyryChUlmLjgDin6i1U-2m3Gfvb_KZWtFCwQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyBxD7UL5dODSc0cBuaWnb-0yw2oaDTDK_Dou83tQRkDMte95VYxXZS1IMkf6SS8Z3KmbD1nrOdmKswgkDR9PAHAHIOsUD3hjI0dXLnw8EQlzuyeKA82glgPGhD0ZUyRHZRjqTbUklhxxrZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0463",
   "raw_cells": {
     "col_0": {
       "text": "526"
     },
     "col_1": {
-      "text": "Court"
+      "text": "Skeleton"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxwEnsm15t16Zgu4GSqYF6_z2aPA7I62OwHtVcID6D_6gPn3KLbWxs1RqnQ0mG4cI91Cs7HIutN2aZd8PqGuWMew5tkgWPF8_VWsakJceWyryChUlmLjgDin6i1U-2m3Gfvb_KZWtFCwQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyBxD7UL5dODSc0cBuaWnb-0yw2oaDTDK_Dou83tQRkDMte95VYxXZS1IMkf6SS8Z3KmbD1nrOdmKswgkDR9PAHAHIOsUD3hjI0dXLnw8EQlzuyeKA82glgPGhD0ZUyRHZRjqTbUklhxxrZ=w143-h110"
     },
     "col_3": {
-      "text": "ZZZTOPXX",
+      "text": "Alexander",
       "links": [
         {
-          "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/2/6273721865?inviteCode=29TOTHGNH"
+          "label": "Alexander",
+          "url": "https://oopbuy.com/product/2/7232607440?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/853596245560?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "73$"
+      "text": "86$"
+    },
+    "col_6": {
+      "text": "20$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0463"
+  }
 }

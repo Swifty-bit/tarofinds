@@ -1,73 +1,61 @@
 {
-  "name": "Kroen Embroidery Concretelock Sports Suit",
+  "name": "MertraJacket Grey/WhiteWater Reactive",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "GOAT/GOAT",
+  "best_batch": "pengreps",
   "best_batch_links": [
     {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656807120%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656807120?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656809052%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656809052?inviteCode=29TOTHGNH"
+      "label": "pengreps",
+      "url": "https://litbuy.com/product/weidian/7652977082?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7652977082?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "59$(SET)",
+  "best_price": "55$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://goat-official222.x.yupoo.com/albums/209300644?uid=1&isSubCate=false&referrercate=4943474"
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7652977082"
     }
   ],
-  "notes": "set 59$ - top 30$ - bottom 29$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxJGED9ZGYxddnZfPr3yrgm26wXOueoS02D11Z9Ytz-uiYWlY4HRTHua_DMCzil04Qa_zgM7wqhTaM-VpqVJp7BYfQVilctTluy6IkAllKQFv3vLEs0QLNxKurCCCiTdp3zilwoioBtjeGT=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzzJOaIFO4sV29YQ94fHFKDRIA95hC98HxDyYC1WpPpHS4a3yJRjiXUMQrVdsGapHpCuLLn_J_G504gP-V7IVIP-QnAMdEZEDbrLtuTCJEnP-iNE7ViaHRPgOjM0dyIPI9vgfmeXRzkVPaa=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1099",
   "raw_cells": {
     "col_0": {
-      "text": "652"
+      "text": "646"
     },
     "col_1": {
-      "text": "Kroen Embroidery Concretelock Sports Suit"
+      "text": "MertraJacket Grey/WhiteWater Reactive"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxJGED9ZGYxddnZfPr3yrgm26wXOueoS02D11Z9Ytz-uiYWlY4HRTHua_DMCzil04Qa_zgM7wqhTaM-VpqVJp7BYfQVilctTluy6IkAllKQFv3vLEs0QLNxKurCCCiTdp3zilwoioBtjeGT=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzzJOaIFO4sV29YQ94fHFKDRIA95hC98HxDyYC1WpPpHS4a3yJRjiXUMQrVdsGapHpCuLLn_J_G504gP-V7IVIP-QnAMdEZEDbrLtuTCJEnP-iNE7ViaHRPgOjM0dyIPI9vgfmeXRzkVPaa=w143-h110"
     },
     "col_3": {
-      "text": "GOAT/GOAT",
+      "text": "pengreps",
       "links": [
         {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656807120?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656809052?inviteCode=29TOTHGNH"
+          "label": "pengreps",
+          "url": "https://oopbuy.com/product/weidian/7652977082?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "59$(SET)"
+      "text": "55$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://goat-official222.x.yupoo.com/albums/209300644?uid=1&isSubCate=false&referrercate=4943474"
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7652977082"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 59$ - top 30$ - bottom 29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1099"
+  }
 }

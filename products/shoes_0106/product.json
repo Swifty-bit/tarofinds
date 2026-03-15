@@ -1,47 +1,47 @@
 {
-  "name": "Grateful Dead Bears Green",
+  "name": "There Skateboards",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "OG",
+  "best_batch": "TOP/S2",
   "best_batch_links": [
     {
-      "label": "OG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7245075709%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+      "label": "TOP/S2",
+      "url": "https://litbuy.com/product/taobao/7251543921?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "53$",
+  "best_price": "48$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayl40DHtlw0HMOVEFE5-Km25cnL6EJ3Ldy7MHCT6sDc-4Cvfkqsc8IAqDZ_UwNK3cm4CQy0s7mQDyNcymJkB2WmaTCUFo_-DsaGl8FQOH_75hxe7Fgpsn38DRoWo48y7JUHYkBSpoEIcdng=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxU8KAWfnm8DN-S6ly_YBUo_glJzcIfbtPmf7VhpeFvbSZ-3K4QrpqXsx6_dpIMaR0H55LdGMkjY-2kMDOBVyMhgO-dRW2Pzkalx5eIePzjqJONtpq6rEiBZTrFz8HwTtaYotNPTopfew=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0106",
   "raw_cells": {
     "col_0": {
       "text": "115"
     },
     "col_1": {
-      "text": "Grateful Dead Bears Green"
+      "text": "There Skateboards"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayl40DHtlw0HMOVEFE5-Km25cnL6EJ3Ldy7MHCT6sDc-4Cvfkqsc8IAqDZ_UwNK3cm4CQy0s7mQDyNcymJkB2WmaTCUFo_-DsaGl8FQOH_75hxe7Fgpsn38DRoWo48y7JUHYkBSpoEIcdng=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxU8KAWfnm8DN-S6ly_YBUo_glJzcIfbtPmf7VhpeFvbSZ-3K4QrpqXsx6_dpIMaR0H55LdGMkjY-2kMDOBVyMhgO-dRW2Pzkalx5eIePzjqJONtpq6rEiBZTrFz8HwTtaYotNPTopfew=w143-h110"
     },
     "col_3": {
-      "text": "OG",
+      "text": "TOP/S2",
       "links": [
         {
-          "label": "OG",
-          "url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
+          "label": "TOP/S2",
+          "url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "53$"
+      "text": "48$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0106"
+  }
 }

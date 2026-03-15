@@ -1,39 +1,35 @@
 {
-  "name": "Grey Fog",
+  "name": "Retro Reverse Panda",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "M",
   "best_batch_links": [
     {
       "label": "M",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7243326840%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7243326840?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7243326840?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "VT",
-  "budget_batch_links": [
-    {
-      "label": "VT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7245630850%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
-    }
-  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
   "best_price": "46$",
-  "budget_price": "23$",
-  "pics_text": "23$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwUQ46slfZW7kecZyO-0BKuhuGbPcNLQuyYvdsjzyAypOnhi0EPjYLOFwNxsvdQ03YwbscEsjCnc-9jNo-7JhF3On9PP_tDK5EmXZTf_65lowfuKufZZqz6jIYbxQidP4UoebXhhxZvblI8=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay9fVwpOnFPRALZbxDhLSHO5QUfidn_VsvJ5k3_qUafZxIexJxbWN7tMdLTGtUt4XYVzb4ahxG6NpUX9Bhzdvp4OxWPQLOsb3PPravh2EU_HXxjPsXNR-HBIMsPoo8e6fgx4xPAOABuwQEl=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0065",
   "raw_cells": {
     "col_0": {
       "text": "74"
     },
     "col_1": {
-      "text": "Grey Fog"
+      "text": "Retro Reverse Panda"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwUQ46slfZW7kecZyO-0BKuhuGbPcNLQuyYvdsjzyAypOnhi0EPjYLOFwNxsvdQ03YwbscEsjCnc-9jNo-7JhF3On9PP_tDK5EmXZTf_65lowfuKufZZqz6jIYbxQidP4UoebXhhxZvblI8=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay9fVwpOnFPRALZbxDhLSHO5QUfidn_VsvJ5k3_qUafZxIexJxbWN7tMdLTGtUt4XYVzb4ahxG6NpUX9Bhzdvp4OxWPQLOsb3PPravh2EU_HXxjPsXNR-HBIMsPoo8e6fgx4xPAOABuwQEl=w143-h110"
     },
     "col_3": {
       "text": "M",
@@ -44,22 +40,8 @@
         }
       ]
     },
-    "col_4": {
-      "text": "VT",
-      "links": [
-        {
-          "label": "VT",
-          "url": "https://oopbuy.com/product/weidian/7245630850?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
     "col_5": {
       "text": "46$"
-    },
-    "col_6": {
-      "text": "23$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0065"
+  }
 }

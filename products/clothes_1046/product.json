@@ -1,87 +1,64 @@
 {
-  "name": "HellstarNo Guts No Glory T-Shirt",
+  "name": "CDG PlayHooded Sweatshirt5 Heart",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "PikaPikaGo",
+  "best_batch": "repsbrothers",
   "best_batch_links": [
     {
-      "label": "PikaPikaGo",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805640530448%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/805640530448?inviteCode=29TOTHGNH"
+      "label": "repsbrothers",
+      "url": "https://litbuy.com/product/weidian/974809022675?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/974809022675?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F802896750934%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "30$",
-  "budget_price": "6$",
-  "pics_text": "best/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "38$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "best",
-      "url": "https://pikachushop.x.yupoo.com/albums/162908843?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://repbros.x.yupoo.com/albums/206698661?uid=1&isSubCate=false&referrercate=4980597"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxBS2LZi_891-9VBek-KzyRn5l8Kk0-83LfvZn5kc0Mcr0rZtwCVy7fHhoJVKhlivmVohnXL2hd2XMEqN67BevMjz51CwYVtCpZ0_jE0RrH1JdCCTagkUbNNjqa5YXWdrPP-aHE2aEZcg=w143-h110",
+  "notes": "100% Cotton",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyvhXZ3ZQ6AdI0q1jo3nWoDInlwl-UdhEmFdOBP6azO4qLTHCWBGARSSmVi07d3-AgTVKzVSJSyQP5j8kzOOH-v8jpeSLifp0L4No-Wx3r5ukExHu7aiAN6RQk15Y8KDskIPqu0FgBqE7jh=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1046",
   "raw_cells": {
     "col_0": {
-      "text": "595"
+      "text": "587"
     },
     "col_1": {
-      "text": "HellstarNo Guts No Glory T-Shirt"
+      "text": "CDG PlayHooded Sweatshirt5 Heart"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxBS2LZi_891-9VBek-KzyRn5l8Kk0-83LfvZn5kc0Mcr0rZtwCVy7fHhoJVKhlivmVohnXL2hd2XMEqN67BevMjz51CwYVtCpZ0_jE0RrH1JdCCTagkUbNNjqa5YXWdrPP-aHE2aEZcg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyvhXZ3ZQ6AdI0q1jo3nWoDInlwl-UdhEmFdOBP6azO4qLTHCWBGARSSmVi07d3-AgTVKzVSJSyQP5j8kzOOH-v8jpeSLifp0L4No-Wx3r5ukExHu7aiAN6RQk15Y8KDskIPqu0FgBqE7jh=w143-h110"
     },
     "col_3": {
-      "text": "PikaPikaGo",
+      "text": "repsbrothers",
       "links": [
         {
-          "label": "PikaPikaGo",
-          "url": "https://oopbuy.com/product/1/805640530448?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/802896750934?inviteCode=29TOTHGNH"
+          "label": "repsbrothers",
+          "url": "https://oopbuy.com/product/1/974809022675?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
-    },
-    "col_6": {
-      "text": "6$"
+      "text": "38$"
     },
     "col_7": {
-      "text": "best/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "best",
-          "url": "https://pikachushop.x.yupoo.com/albums/162908843?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2005652117988134913?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://repbros.x.yupoo.com/albums/206698661?uid=1&isSubCate=false&referrercate=4980597"
         }
       ]
+    },
+    "col_8": {
+      "text": "100% Cotton"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1046"
+  }
 }

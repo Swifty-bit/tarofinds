@@ -1,47 +1,92 @@
 {
-  "name": "Yeezy 380",
+  "name": "Yeezy 350 v2Basic Colours",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "S2",
+  "best_batch": "LW/LW",
   "best_batch_links": [
     {
-      "label": "S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4479595145%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4479595145?inviteCode=29TOTHGNH"
+      "label": "LW",
+      "url": "https://litbuy.com/product/taobao/7246958566?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7246958566?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "LW",
+      "url": "https://litbuy.com/product/taobao/7245980503?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245980503?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "50$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "K5 1/K5 2/K5 3",
+  "budget_batch_links": [
+    {
+      "label": "K5 1",
+      "url": "https://oopbuy.cc/1mMsB2hz"
+    },
+    {
+      "label": "K5 2",
+      "url": "https://oopbuy.cc/UipCCtFm"
+    },
+    {
+      "label": "K5 3",
+      "url": "https://oopbuy.cc/aQKJIXPf"
+    }
+  ],
+  "best_price": "56$",
+  "budget_price": "28$",
+  "pics_text": "28$",
   "pics_links": [],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeWJAF1NqgIJeohyaXsfyFCX48mAa6UX75N7twK7QiATAI_Ub8f1wBpZpUye5QPo-BnSh6czV8rJtHqdfOnHSwRLJEq_05FCwYENjnROcvGYGlJ8JsPd5KFEq-_lkbolaCId2jjoSe2w=w143-h110",
+  "notes": "Size up 0.5 EU size",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AykHZ8WYHLI4yRA16rs2KZCSPoo7hOMLR5YWT3A1fFHsamxvNuFdsU8scGw1znVYtgpasaQ_yXmgn_qBBB9ceJY6YQpPt-yVCSkrNKHH9jmV2QIOe0qXpeI89Bg-dAqhkBq7pWeo_2VIg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0338",
   "raw_cells": {
     "col_0": {
       "text": "369"
     },
     "col_1": {
-      "text": "Yeezy 380"
+      "text": "Yeezy 350 v2Basic Colours"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeWJAF1NqgIJeohyaXsfyFCX48mAa6UX75N7twK7QiATAI_Ub8f1wBpZpUye5QPo-BnSh6czV8rJtHqdfOnHSwRLJEq_05FCwYENjnROcvGYGlJ8JsPd5KFEq-_lkbolaCId2jjoSe2w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AykHZ8WYHLI4yRA16rs2KZCSPoo7hOMLR5YWT3A1fFHsamxvNuFdsU8scGw1znVYtgpasaQ_yXmgn_qBBB9ceJY6YQpPt-yVCSkrNKHH9jmV2QIOe0qXpeI89Bg-dAqhkBq7pWeo_2VIg=w143-h110"
     },
     "col_3": {
-      "text": "S2",
+      "text": "LW/LW",
       "links": [
         {
-          "label": "S2",
-          "url": "https://oopbuy.com/product/weidian/4479595145?inviteCode=29TOTHGNH"
+          "label": "LW",
+          "url": "https://oopbuy.com/product/2/7246958566?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "LW",
+          "url": "https://oopbuy.com/product/2/7245980503?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "K5 1/K5 2/K5 3",
+      "links": [
+        {
+          "label": "K5 1",
+          "url": "https://oopbuy.cc/1mMsB2hz"
+        },
+        {
+          "label": "K5 2",
+          "url": "https://oopbuy.cc/UipCCtFm"
+        },
+        {
+          "label": "K5 3",
+          "url": "https://oopbuy.cc/aQKJIXPf"
         }
       ]
     },
     "col_5": {
-      "text": "50$"
+      "text": "56$"
+    },
+    "col_6": {
+      "text": "28$"
+    },
+    "col_7": {
+      "text": "Size up 0.5 EU size"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0338"
+  }
 }

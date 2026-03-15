@@ -6,12 +6,12 @@
   "best_batch_links": [
     {
       "label": "Baymax",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7432457500%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7432457500?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7432457500?inviteCode=29TOTHGNH"
     },
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7637063490%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7637063490?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7637063490?inviteCode=29TOTHGNH"
     }
   ],
@@ -22,7 +22,9 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzFfaSjbvF6m9XyoRR2nqv-0VEkWdfAsF49p1mAfJ35May3gbkxTrykHsDJ6e2jhDuga9qkYQ_vPKheRjaX1BQbaUH_nt7yA_N_TdY1qPl4jJZeoAlPTMpANPlfcn8X47kvR54Av_hv_XVn=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzgF9MBOSUma6cZEUVwxMB7WgtZqHp1Hx0E6_jKUXEm_DYUwrZijFQwdGIg35cVjd7g3HtAYyQK_xAUh91RuxLG7ToY7479oQ59-jFsDIjq7rlL4QqnmaRdYwMlrQhDShp4ykfClMGPpHx2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0050",
   "raw_cells": {
     "col_0": {
       "text": "57"
@@ -32,7 +34,7 @@
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzFfaSjbvF6m9XyoRR2nqv-0VEkWdfAsF49p1mAfJ35May3gbkxTrykHsDJ6e2jhDuga9qkYQ_vPKheRjaX1BQbaUH_nt7yA_N_TdY1qPl4jJZeoAlPTMpANPlfcn8X47kvR54Av_hv_XVn=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzgF9MBOSUma6cZEUVwxMB7WgtZqHp1Hx0E6_jKUXEm_DYUwrZijFQwdGIg35cVjd7g3HtAYyQK_xAUh91RuxLG7ToY7479oQ59-jFsDIjq7rlL4QqnmaRdYwMlrQhDShp4ykfClMGPpHx2=w143-h110"
     },
     "col_3": {
       "text": "Baymax/GX",
@@ -50,7 +52,5 @@
     "col_5": {
       "text": "35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0050"
+  }
 }

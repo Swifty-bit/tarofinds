@@ -1,61 +1,87 @@
 {
-  "name": "Palm AngelsShark T-shirt",
+  "name": "Palm AngelsSprayed T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F963778733941%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/963778733941?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/963776817481?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/963776817481?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/667967725278?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/667967725278?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "29$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_price": "6$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repsbro.x.yupoo.com/albums/205539836?uid=1&isSubCate=false&referrercate=4971731"
+      "label": "best",
+      "url": "https://repsbro.x.yupoo.com/albums/205538924?uid=1&isSubCate=false&referrercate=4971731"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1920283786401071106?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzjIaqZKhIuvS6kmK2nunKqRM36DYlqDuSCtUolFeVTJebApYqmEV4WTEEiqfNrDeBQu9eiR6m1PiqW4JqJtqKBFFHp34PDK_6n4bYsv0Vx9iqZhCXKcYtLvIa-2DYSaifaDDXNrMWuYmtE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax9fr0bQVw7m4TfZvZ0sk8XO01ynoFtPKM-3AM65w1-iuZ11N_q3MxuakwTFPWBZDFf-b7IwNVowNa8lsPXZAZs3GjcP4m_LK_NPlhsE_u3K2-JwOy0ZOVSN_JKba5F7r7ofbYJn1pXIb5k=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0908",
   "raw_cells": {
     "col_0": {
-      "text": "433"
+      "text": "429"
     },
     "col_1": {
-      "text": "Palm AngelsShark T-shirt"
+      "text": "Palm AngelsSprayed T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzjIaqZKhIuvS6kmK2nunKqRM36DYlqDuSCtUolFeVTJebApYqmEV4WTEEiqfNrDeBQu9eiR6m1PiqW4JqJtqKBFFHp34PDK_6n4bYsv0Vx9iqZhCXKcYtLvIa-2DYSaifaDDXNrMWuYmtE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax9fr0bQVw7m4TfZvZ0sk8XO01ynoFtPKM-3AM65w1-iuZ11N_q3MxuakwTFPWBZDFf-b7IwNVowNa8lsPXZAZs3GjcP4m_LK_NPlhsE_u3K2-JwOy0ZOVSN_JKba5F7r7ofbYJn1pXIb5k=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/963778733941?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/963776817481?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/667967725278?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "29$"
     },
+    "col_6": {
+      "text": "6$"
+    },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repsbro.x.yupoo.com/albums/205539836?uid=1&isSubCate=false&referrercate=4971731"
+          "label": "best",
+          "url": "https://repsbro.x.yupoo.com/albums/205538924?uid=1&isSubCate=false&referrercate=4971731"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1920283786401071106?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0908"
+  }
 }

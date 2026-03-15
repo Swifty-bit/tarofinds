@@ -1,65 +1,65 @@
 {
-  "name": "DRKSHDW HighJumbo Laces",
+  "name": "Loro PianaSummer Charms WalkLoafers",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ROG",
+  "best_batch": "Koala",
   "best_batch_links": [
     {
-      "label": "ROG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F669771892203%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
+      "label": "Koala",
+      "url": "https://litbuy.com/product/weidian/908427733480?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/908427733480?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "DRK STUDIO",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "DRK STUDIO",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F673096171707%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7462455763?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7462455763?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "129$",
-  "budget_price": "75$",
-  "pics_text": "75$",
+  "best_price": "88$",
+  "budget_price": "44$",
+  "pics_text": "44$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDC3v3VUlrYuf5P39O34i_4K6M55w-QrjQNybfc7Wx3xksgbPMtQLEhgAooousjUp7sBaBiYevStrRgsEmWq1GUyG2dPNdOo9MUQdwt56KYY9KB3VM0ohtHj1eFJ8Lg_ObktHxOK1iKQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw7faMfn5Qdbu9Wufr9GXQaGC9ZTStfHfh6NITNZQohIvQVoy35Ofn0OTxh6tddQBIcS_RXMbb3hsWCS7hEvccbw2Y37cklWk4KEBk8w4Diq7YTTV74ms65d2G8MXS9Om9vZWkLovxwEA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0401",
   "raw_cells": {
     "col_0": {
-      "text": "452"
+      "text": "450"
     },
     "col_1": {
-      "text": "DRKSHDW HighJumbo Laces"
+      "text": "Loro PianaSummer Charms WalkLoafers"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDC3v3VUlrYuf5P39O34i_4K6M55w-QrjQNybfc7Wx3xksgbPMtQLEhgAooousjUp7sBaBiYevStrRgsEmWq1GUyG2dPNdOo9MUQdwt56KYY9KB3VM0ohtHj1eFJ8Lg_ObktHxOK1iKQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw7faMfn5Qdbu9Wufr9GXQaGC9ZTStfHfh6NITNZQohIvQVoy35Ofn0OTxh6tddQBIcS_RXMbb3hsWCS7hEvccbw2Y37cklWk4KEBk8w4Diq7YTTV74ms65d2G8MXS9Om9vZWkLovxwEA=w143-h110"
     },
     "col_3": {
-      "text": "ROG",
+      "text": "Koala",
       "links": [
         {
-          "label": "ROG",
-          "url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/908427733480?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "DRK STUDIO",
+      "text": "budget",
       "links": [
         {
-          "label": "DRK STUDIO",
-          "url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7462455763?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "129$"
+      "text": "88$"
     },
     "col_6": {
-      "text": "75$"
+      "text": "44$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0401"
+  }
 }

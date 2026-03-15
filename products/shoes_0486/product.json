@@ -1,65 +1,47 @@
 {
-  "name": "Maison MargielaGATSPaint Splatter",
+  "name": "Maison MargielaGATSJapan",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "BL",
+  "best_batch": "mvt-shop01",
   "best_batch_links": [
     {
-      "label": "BL",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F4689600987%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
+      "label": "mvt-shop01",
+      "url": "https://litbuy.com/product/weidian/1027022473692?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1027022473692?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F705562729612%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "54$",
-  "budget_price": "37$",
-  "pics_text": "37$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "82$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyUGUtuWtyPMu-o_AJksebdpLTh07efxyShAgseic7nvijE4INmh9AFgosaNS6ZRX6qUGRpQHTSHWC9k_cawd1HRw_Jx1MDJhTCIwBZ3MKcZCH8TDgd7rQ9ALqIAtddWBKK73hCxOvH7l5e=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxSMMx2w_Amw9UMrzizo2NkP2ulEx6j0y1lrjJMJp4lwiF69slPL2jW2dTpq3xEx2B7OCtlDC9KD1ytJTi-mAWzp7y35mEx8e7BRi9o4oase5g_bpNDzjs9GJV_qs3SdFYfAZnCFO_Lxg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0486",
   "raw_cells": {
     "col_0": {
       "text": "561"
     },
     "col_1": {
-      "text": "Maison MargielaGATSPaint Splatter"
+      "text": "Maison MargielaGATSJapan"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyUGUtuWtyPMu-o_AJksebdpLTh07efxyShAgseic7nvijE4INmh9AFgosaNS6ZRX6qUGRpQHTSHWC9k_cawd1HRw_Jx1MDJhTCIwBZ3MKcZCH8TDgd7rQ9ALqIAtddWBKK73hCxOvH7l5e=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxSMMx2w_Amw9UMrzizo2NkP2ulEx6j0y1lrjJMJp4lwiF69slPL2jW2dTpq3xEx2B7OCtlDC9KD1ytJTi-mAWzp7y35mEx8e7BRi9o4oase5g_bpNDzjs9GJV_qs3SdFYfAZnCFO_Lxg=w143-h110"
     },
     "col_3": {
-      "text": "BL",
+      "text": "mvt-shop01",
       "links": [
         {
-          "label": "BL",
-          "url": "https://oopbuy.com/product/weidian/4689600987?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/1/705562729612?inviteCode=29TOTHGNH"
+          "label": "mvt-shop01",
+          "url": "https://oopbuy.com/product/1/1027022473692?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "54$"
-    },
-    "col_6": {
-      "text": "37$"
+      "text": "82$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0486"
+  }
 }

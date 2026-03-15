@@ -1,55 +1,57 @@
 {
-  "name": "Chicago 2015",
+  "name": "Dark Mocha",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "FK/LJR",
+  "best_batch": "LJR/FK",
   "best_batch_links": [
     {
-      "label": "FK",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7328057952%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7328057952?inviteCode=29TOTHGNH"
+      "label": "LJR",
+      "url": "https://litbuy.com/product/taobao/7239381635?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
     },
     {
-      "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7239381635%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
+      "label": "FK",
+      "url": "https://litbuy.com/product/weidian/7565902946?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "DG",
   "budget_batch_links": [
     {
       "label": "DG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327230068%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "49$",
+  "best_price": "71$",
   "budget_price": "37$",
   "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay6Sgae105DQUPl47X1adUVHkN4RzcNIZc11BLOw69yX2gJyeKPffFnsARhP4pxeABBefubxBBAJ6hIqqdVQVlwxr3dTfumwbjjCAK_GDpu-mDg6dn4MEbZgbFxbSInB-QRRxEDbxd-xw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ay-LMGLRW4kWmJrYssPN4c_QXOWJ5VTYgS27-pBKr5FcbukvjHKivH5L6ShP1ZEDWC5e8M7yPj-D2fdupNDJgewgys5mZcZAfTIEewPCCsGKX-KKMkTkqaUYCCf9CJAlEcs9Y88DqxmhIEn=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0156",
   "raw_cells": {
     "col_0": {
       "text": "167"
     },
     "col_1": {
-      "text": "Chicago 2015"
+      "text": "Dark Mocha"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay6Sgae105DQUPl47X1adUVHkN4RzcNIZc11BLOw69yX2gJyeKPffFnsARhP4pxeABBefubxBBAJ6hIqqdVQVlwxr3dTfumwbjjCAK_GDpu-mDg6dn4MEbZgbFxbSInB-QRRxEDbxd-xw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ay-LMGLRW4kWmJrYssPN4c_QXOWJ5VTYgS27-pBKr5FcbukvjHKivH5L6ShP1ZEDWC5e8M7yPj-D2fdupNDJgewgys5mZcZAfTIEewPCCsGKX-KKMkTkqaUYCCf9CJAlEcs9Y88DqxmhIEn=w143-h110"
     },
     "col_3": {
-      "text": "FK/LJR",
+      "text": "LJR/FK",
       "links": [
-        {
-          "label": "FK",
-          "url": "https://oopbuy.com/product/2/7328057952?inviteCode=29TOTHGNH"
-        },
         {
           "label": "LJR",
           "url": "https://oopbuy.com/product/2/7239381635?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "FK",
+          "url": "https://oopbuy.com/product/weidian/7565902946?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,12 +65,10 @@
       ]
     },
     "col_5": {
-      "text": "49$"
+      "text": "71$"
     },
     "col_6": {
       "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0156"
+  }
 }

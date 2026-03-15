@@ -1,12 +1,12 @@
 {
-  "name": "Cool Grey",
+  "name": "Space Jam",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "LJR",
   "best_batch_links": [
     {
       "label": "LJR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240644396%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240644396?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240644396?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,17 +17,19 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzUTDUpLiU6FCW65sWvqCEYOHlNCMUyTbBH4Benw9Y9mxLTDMkK-8i3P-Ob42CinjvgjQ62_Dl6HUwfL88N3sVS0FUQ8HRmH3OC3hGSIZzK_NPH-6P6CSxDkwxB4-4L2IBz2qlGFUGWZGtT=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw4vqt6nTUza2eitiV9g1U2ky7yZ9uiQAAmZLc2AwnNPKU3_K9slhdyf72DUjYHau99huXi4UzxZIlvU2_rupkMxNzFAbvNd47LeXvX-dus0UgutYYmGfJoKgHzdaRAzkG2tYLBBicbnbcH=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0316",
   "raw_cells": {
     "col_0": {
       "text": "339"
     },
     "col_1": {
-      "text": "Cool Grey"
+      "text": "Space Jam"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzUTDUpLiU6FCW65sWvqCEYOHlNCMUyTbBH4Benw9Y9mxLTDMkK-8i3P-Ob42CinjvgjQ62_Dl6HUwfL88N3sVS0FUQ8HRmH3OC3hGSIZzK_NPH-6P6CSxDkwxB4-4L2IBz2qlGFUGWZGtT=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw4vqt6nTUza2eitiV9g1U2ky7yZ9uiQAAmZLc2AwnNPKU3_K9slhdyf72DUjYHau99huXi4UzxZIlvU2_rupkMxNzFAbvNd47LeXvX-dus0UgutYYmGfJoKgHzdaRAzkG2tYLBBicbnbcH=w143-h110"
     },
     "col_3": {
       "text": "LJR",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "70$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0316"
+  }
 }

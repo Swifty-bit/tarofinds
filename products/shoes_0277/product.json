@@ -1,33 +1,35 @@
 {
-  "name": "Cave Stone",
+  "name": "Forget Me Not",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "71$",
+  "best_price": "68$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awoe1LatuDbcMUCVBv8cZ3hb54TLDaWvwE8_Sy7TArPl0LRHZxwBgQ0LFBMzEb2ErD4PYQbROWkYMtrOZ9_08jHIfP7wjclr7FGRJTwgyn7z_QQCjoSks0W9uPagbzXChmBWv8UnEAJ5A=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax1Asiv0_-h46y4i2agAQ7HbNR60ekKtHbjBccf7K35yBpQcF4AHNjRZumIfGLnV_7a7UIfwfn2byLxcIyVpyRw0_iKn3jpSBBIvGfXHibaJLPtGNLt2UgUbGAQ9SpfzxhBxdb6cekmpecM=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0277",
   "raw_cells": {
     "col_0": {
       "text": "292"
     },
     "col_1": {
-      "text": "Cave Stone"
+      "text": "Forget Me Not"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awoe1LatuDbcMUCVBv8cZ3hb54TLDaWvwE8_Sy7TArPl0LRHZxwBgQ0LFBMzEb2ErD4PYQbROWkYMtrOZ9_08jHIfP7wjclr7FGRJTwgyn7z_QQCjoSks0W9uPagbzXChmBWv8UnEAJ5A=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax1Asiv0_-h46y4i2agAQ7HbNR60ekKtHbjBccf7K35yBpQcF4AHNjRZumIfGLnV_7a7UIfwfn2byLxcIyVpyRw0_iKn3jpSBBIvGfXHibaJLPtGNLt2UgUbGAQ9SpfzxhBxdb6cekmpecM=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -39,9 +41,7 @@
       ]
     },
     "col_5": {
-      "text": "71$"
+      "text": "68$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0277"
+  }
 }

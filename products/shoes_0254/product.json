@@ -1,12 +1,12 @@
 {
-  "name": "AMM 2024(A Ma Maniere)",
+  "name": "AMM(A Ma Maniere)",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "GX",
   "best_batch_links": [
     {
       "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240102012%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
     }
   ],
@@ -14,26 +14,28 @@
   "budget_batch_links": [
     {
       "label": "KX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7240378209%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/taobao/7240378209?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/2/7240378209?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "79$",
-  "budget_price": "47$",
-  "pics_text": "47$",
+  "best_price": "71$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyZQFxdU8ZrIA9Su2hyCjNEplPrwh3pVYGz20uHtM6T-DhobSa-AL5r8Ntq9Z2JaaTB8yacgDePNcYiEw_JWyT8mMnirCL47O5u4xqSn9AIfF7SHEvDCHGzy5BtWQQ5lT_EJX4AJ6htxNZR=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axd1Et4vXE0Ygg6La87zMpgegTpI-sazouIccdarRpHYeZb3ZdB1mt9IRoec7_AgyjTzV-Rfi9Skxe-29JhtVqaOkgmNXz__nO4VGYMg8wuEHIuR5xlnrPtxkSmovoAhQzuu-YlMT5F2ioJ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0254",
   "raw_cells": {
     "col_0": {
       "text": "269"
     },
     "col_1": {
-      "text": "AMM 2024(A Ma Maniere)"
+      "text": "AMM(A Ma Maniere)"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyZQFxdU8ZrIA9Su2hyCjNEplPrwh3pVYGz20uHtM6T-DhobSa-AL5r8Ntq9Z2JaaTB8yacgDePNcYiEw_JWyT8mMnirCL47O5u4xqSn9AIfF7SHEvDCHGzy5BtWQQ5lT_EJX4AJ6htxNZR=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axd1Et4vXE0Ygg6La87zMpgegTpI-sazouIccdarRpHYeZb3ZdB1mt9IRoec7_AgyjTzV-Rfi9Skxe-29JhtVqaOkgmNXz__nO4VGYMg8wuEHIuR5xlnrPtxkSmovoAhQzuu-YlMT5F2ioJ=w143-h110"
     },
     "col_3": {
       "text": "GX",
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "79$"
+      "text": "71$"
     },
     "col_6": {
-      "text": "47$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0254"
+  }
 }

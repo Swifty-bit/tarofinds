@@ -1,61 +1,87 @@
 {
-  "name": "MontbellDark Blue Puffer",
+  "name": "ArcteryxBeta Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "TZ",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7586780247%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7586780247?inviteCode=29TOTHGNH"
+      "label": "TZ",
+      "url": "https://litbuy.com/product/weidian/7617183840?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7617183840?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "68$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/761226581630?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/761226581630?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "43$",
+  "budget_price": "10$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/207748388?uid=1&isSubCate=false&referrercate=5060836"
+      "label": "best",
+      "url": "https://finds.ly/product/WEIDIAN/6445177432"
+    },
+    {
+      "label": "budget",
+      "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/761226581630"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBWdZhXLu5HfixNPtd7S_yFYYn7_wLG3mS4spka58kfegfQxK9pehkJF4b3z9jmPFlZX59083lo_Lpao1rzvKzaXzryEaWl-pyWaeR2F_arhnrIOczOHyK2dmomrSpUu4iIAXCl_2xfpSq=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwHrWBjvSGOLKFdnv7fP7EIrucQYhZ2xJFPrdQWLYuIRTc9f97puz03Ti50f4y3erqQzm_VPcnSfbs4fjiRenYWFSJeaHPN-Zkw2ngCZyo1iUMf9hN6eShVcSKsZLlibn4r-mDGMBvGCGg2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1492",
   "raw_cells": {
     "col_0": {
-      "text": "1119"
+      "text": "1113"
     },
     "col_1": {
-      "text": "MontbellDark Blue Puffer"
+      "text": "ArcteryxBeta Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBWdZhXLu5HfixNPtd7S_yFYYn7_wLG3mS4spka58kfegfQxK9pehkJF4b3z9jmPFlZX59083lo_Lpao1rzvKzaXzryEaWl-pyWaeR2F_arhnrIOczOHyK2dmomrSpUu4iIAXCl_2xfpSq=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwHrWBjvSGOLKFdnv7fP7EIrucQYhZ2xJFPrdQWLYuIRTc9f97puz03Ti50f4y3erqQzm_VPcnSfbs4fjiRenYWFSJeaHPN-Zkw2ngCZyo1iUMf9hN6eShVcSKsZLlibn4r-mDGMBvGCGg2=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "TZ",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7586780247?inviteCode=29TOTHGNH"
+          "label": "TZ",
+          "url": "https://oopbuy.com/product/weidian/7617183840?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/761226581630?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "68$"
+      "text": "43$"
+    },
+    "col_6": {
+      "text": "10$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/207748388?uid=1&isSubCate=false&referrercate=5060836"
+          "label": "best",
+          "url": "https://finds.ly/product/WEIDIAN/6445177432"
+        },
+        {
+          "label": "budget",
+          "url": "https://finds.ly/product/ONE_SIX_EIGHT_EIGHT/761226581630"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1492"
+  }
 }

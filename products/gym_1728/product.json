@@ -1,61 +1,49 @@
 {
-  "name": "FightingT-Shirt + ShortsSets11 Styles",
+  "name": "GYMSHARKShorts8 Colors",
   "category": "Gym",
   "subcategory": "",
-  "best_batch": "UFC",
-  "best_batch_links": [
-    {
-      "label": "UFC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F678508741351%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/678508741351?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "/",
+  "best_batch_links": [],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "13$",
+  "best_price": "20$",
   "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1953623734151110658?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1930653607264358401?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax1ml6wpkFaiXusJb4vyBeKYscWM6dXVInkohC665CvbzZ6IVajUNuY7XsFdEyLWWkbCn2MF5aHEXR3ut2E4N4ZqPz4g9FTuxOeyukVXulSP9JNBTXCQsrZ8aa3muWPLeHSaiaFap-goQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aws610MFLg_kCxretoG3C0S8vSWE2AwtZt6C5ABM1-IvAhFvD_N2Hg9u7Y6pKBqKwl8iBEcqOB-njOmkS2TV_ngwA3wIDejvYk3zcQWqc_BPCrUY0tMJgG7ixZF40hS-O3TP9zDXRINziP6=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "gym_1728",
   "raw_cells": {
     "col_0": {
-      "text": "33"
+      "text": "21"
     },
     "col_1": {
-      "text": "FightingT-Shirt + ShortsSets11 Styles"
+      "text": "GYMSHARKShorts8 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax1ml6wpkFaiXusJb4vyBeKYscWM6dXVInkohC665CvbzZ6IVajUNuY7XsFdEyLWWkbCn2MF5aHEXR3ut2E4N4ZqPz4g9FTuxOeyukVXulSP9JNBTXCQsrZ8aa3muWPLeHSaiaFap-goQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aws610MFLg_kCxretoG3C0S8vSWE2AwtZt6C5ABM1-IvAhFvD_N2Hg9u7Y6pKBqKwl8iBEcqOB-njOmkS2TV_ngwA3wIDejvYk3zcQWqc_BPCrUY0tMJgG7ixZF40hS-O3TP9zDXRINziP6=w143-h110"
     },
     "col_3": {
-      "text": "UFC",
-      "links": [
-        {
-          "label": "UFC",
-          "url": "https://oopbuy.com/product/1/678508741351?inviteCode=29TOTHGNH"
-        }
-      ]
+      "text": "/"
     },
     "col_5": {
-      "text": "13$"
+      "text": "20$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1953623734151110658?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1930653607264358401?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "gym_1728"
+  }
 }

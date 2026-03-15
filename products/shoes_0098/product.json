@@ -1,47 +1,47 @@
 {
-  "name": "Supreme Rammellzee",
+  "name": "Supreme Stars Blue",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "TOP/S2",
+  "best_batch": "OG",
   "best_batch_links": [
     {
-      "label": "TOP/S2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251543921%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+      "label": "OG",
+      "url": "https://litbuy.com/product/taobao/7245075709?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "43$",
+  "best_price": "59$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwVB6KG_LVFiP6QPNlX4pt1jBkML0KzNlJtimj-klaB8mRcrWfETph0ciFVbicgITEZpERO2MC0RuhmtUMBriWB3C8EMjj0GbmFpvopcQMeowmzINsvV2ZIsnTcYDFsKrwN577VVxlgw9x4=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDDfRHTueAfIIfSF85ktEu8rO1YVx6-2-IYXEmg5sHW7nzNRnPMcNtU9hfADHAgDF6DW45xGzUld2hChAJfjBjl4fK-7pwmhUpxUdePR8bPyOXW-_M-jI2Mh5EQuXeMRs-QwzlajUdehIb=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0098",
   "raw_cells": {
     "col_0": {
       "text": "107"
     },
     "col_1": {
-      "text": "Supreme Rammellzee"
+      "text": "Supreme Stars Blue"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwVB6KG_LVFiP6QPNlX4pt1jBkML0KzNlJtimj-klaB8mRcrWfETph0ciFVbicgITEZpERO2MC0RuhmtUMBriWB3C8EMjj0GbmFpvopcQMeowmzINsvV2ZIsnTcYDFsKrwN577VVxlgw9x4=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDDfRHTueAfIIfSF85ktEu8rO1YVx6-2-IYXEmg5sHW7nzNRnPMcNtU9hfADHAgDF6DW45xGzUld2hChAJfjBjl4fK-7pwmhUpxUdePR8bPyOXW-_M-jI2Mh5EQuXeMRs-QwzlajUdehIb=w143-h110"
     },
     "col_3": {
-      "text": "TOP/S2",
+      "text": "OG",
       "links": [
         {
-          "label": "TOP/S2",
-          "url": "https://oopbuy.com/product/2/7251543921?inviteCode=29TOTHGNH"
+          "label": "OG",
+          "url": "https://oopbuy.com/product/2/7245075709?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "43$"
+      "text": "59$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0098"
+  }
 }

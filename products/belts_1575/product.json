@@ -1,61 +1,87 @@
 {
-  "name": "Yves Saint LaurentYSL",
+  "name": "Ferragamo",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "MissChen",
+  "best_batch": "K8",
   "best_batch_links": [
     {
-      "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F6589830685%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/6589830685?inviteCode=29TOTHGNH"
+      "label": "K8",
+      "url": "https://litbuy.com/product/weidian/7237665997?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7237665997?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "40$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/908065154082?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "2$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1897814746779979777?action=discord&type=1&cid=1942512167859859457"
+      "label": "best",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938764598913134594?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxeLeTpQALMTy1wh7Y5If9wpO2H_zhFWbNf6qtJ9Gkx7LYetYPKturYjMEeShSDJfuTEjhd2LaALBOvlULuRCgw-mgm7QRQOCP1JiyynOKzRVEA1MwMDgPywlsb0vgEx2tEeI438qR0etdG=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az5kf1FbU5jyr9oIwevtabU-czPKcXUUu5QG8wPeLEA65K70sLrWSKeVAFsfrGBrVolVE5HDqmNgurIC8dkHLrgJVVD2tnaYz27sUTDzwpjA_9UY-W_I16rj5x8BpHgHL_s8M8R0hlbcw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1575",
   "raw_cells": {
     "col_0": {
-      "text": "37"
+      "text": "32"
     },
     "col_1": {
-      "text": "Yves Saint LaurentYSL"
+      "text": "Ferragamo"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxeLeTpQALMTy1wh7Y5If9wpO2H_zhFWbNf6qtJ9Gkx7LYetYPKturYjMEeShSDJfuTEjhd2LaALBOvlULuRCgw-mgm7QRQOCP1JiyynOKzRVEA1MwMDgPywlsb0vgEx2tEeI438qR0etdG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az5kf1FbU5jyr9oIwevtabU-czPKcXUUu5QG8wPeLEA65K70sLrWSKeVAFsfrGBrVolVE5HDqmNgurIC8dkHLrgJVVD2tnaYz27sUTDzwpjA_9UY-W_I16rj5x8BpHgHL_s8M8R0hlbcw=w143-h110"
     },
     "col_3": {
-      "text": "MissChen",
+      "text": "K8",
       "links": [
         {
-          "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/6589830685?inviteCode=29TOTHGNH"
+          "label": "K8",
+          "url": "https://www.oopbuy.com/product/weidian/7237665997?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/908065154082?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "40$"
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "2$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1897814746779979777?action=discord&type=1&cid=1942512167859859457"
+          "label": "best",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938764598913134594?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1995318664230948865?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1575"
+  }
 }

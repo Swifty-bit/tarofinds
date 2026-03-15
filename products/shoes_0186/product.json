@@ -1,65 +1,65 @@
 {
-  "name": "Black Cement",
+  "name": "Union LA Bephies Beauty Supply Summer of '96",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GX",
+  "best_batch": "LW",
   "best_batch_links": [
     {
-      "label": "GX",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7297925857%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
+      "label": "LW",
+      "url": "https://litbuy.com/product/taobao/7328044528?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7328044528?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "PB",
+  "budget_batch": "DG",
   "budget_batch_links": [
     {
-      "label": "PB",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7251575945%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+      "label": "DG",
+      "url": "https://litbuy.com/product/weidian/7327230068?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "63$",
-  "budget_price": "29$",
-  "pics_text": "29$",
+  "best_price": "64$",
+  "budget_price": "37$",
+  "pics_text": "37$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axs4lB-s7E02V8mIWDAdhadJDBV9vpc27Mdx5hC457zhXzGXXuSitaER3DRC58Hu0PbcTLcu7MOJJrGjXFL-fk9_PWo1ZGhouAmwEJIXGqQDIkp086WuXZ2ADfnqdjKvDMLKippY_aTK_FL=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwsqFIBs6AbUIsYkba4kBPYnJuCrXTTVW009z2KX99Z4CGOxi9YTBErDRm511jtj7TdLJXsrsWWaseP4Oquj4L6A_xyVZc75jJaTA2DWerfOQ87XvE2aM-M0SERNj55ZZqu2rFT3XxX68d7=w143-h100",
+  "local_image": "image.jpg",
+  "folder": "shoes_0186",
   "raw_cells": {
     "col_0": {
-      "text": "199"
+      "text": "197"
     },
     "col_1": {
-      "text": "Black Cement"
+      "text": "Union LA Bephies Beauty Supply Summer of '96"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axs4lB-s7E02V8mIWDAdhadJDBV9vpc27Mdx5hC457zhXzGXXuSitaER3DRC58Hu0PbcTLcu7MOJJrGjXFL-fk9_PWo1ZGhouAmwEJIXGqQDIkp086WuXZ2ADfnqdjKvDMLKippY_aTK_FL=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwsqFIBs6AbUIsYkba4kBPYnJuCrXTTVW009z2KX99Z4CGOxi9YTBErDRm511jtj7TdLJXsrsWWaseP4Oquj4L6A_xyVZc75jJaTA2DWerfOQ87XvE2aM-M0SERNj55ZZqu2rFT3XxX68d7=w143-h100"
     },
     "col_3": {
-      "text": "GX",
+      "text": "LW",
       "links": [
         {
-          "label": "GX",
-          "url": "https://www.oopbuy.com/product/weidian/7297925857?inviteCode=29TOTHGNH"
+          "label": "LW",
+          "url": "https://oopbuy.com/product/2/7328044528?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "PB",
+      "text": "DG",
       "links": [
         {
-          "label": "PB",
-          "url": "https://oopbuy.com/product/2/7251575945?inviteCode=29TOTHGNH"
+          "label": "DG",
+          "url": "https://oopbuy.com/product/weidian/7327230068?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "63$"
+      "text": "64$"
     },
     "col_6": {
-      "text": "29$"
+      "text": "37$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0186"
+  }
 }

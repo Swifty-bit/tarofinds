@@ -1,65 +1,47 @@
 {
-  "name": "DRKSHDW High",
+  "name": "LouboutinsHeels",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ROG",
+  "best_batch": "RG-NEON",
   "best_batch_links": [
     {
-      "label": "ROG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F609220746139%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/609220746139?inviteCode=29TOTHGNH"
+      "label": "RG-NEON",
+      "url": "https://litbuy.com/product/weidian/7234961385?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/7234961385?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "DRK STUDIO",
-  "budget_batch_links": [
-    {
-      "label": "DRK STUDIO",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F673096171707%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "88$",
-  "budget_price": "78$",
-  "pics_text": "78$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "98$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCXpdIBlXinO-4woYYSJgHAf7y09d8Qf3U6VBLlC0ZO7fVVPSEmvE02-HPsWWDOrhOiv9uy4VIDzo6sVi3cp6B7qXfE2vb_y7zRdvcn7ATsYHvcxAW-jHdCPbrJztuySyYkSOfDsHj-w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwFBKheG3ry6uL56zcqiF0mPyVIk-cD0QnaxFzOKUGo5WTlNLFWoIKd_vgOIHa3OseevESX1rik40BfxD8w3Ye62AWgRv4PeWOpnAbvseura7uOU19G-_wcDc15JURIpn0FSFxM3-TWR3_T=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0399",
   "raw_cells": {
     "col_0": {
-      "text": "450"
+      "text": "446"
     },
     "col_1": {
-      "text": "DRKSHDW High"
+      "text": "LouboutinsHeels"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCXpdIBlXinO-4woYYSJgHAf7y09d8Qf3U6VBLlC0ZO7fVVPSEmvE02-HPsWWDOrhOiv9uy4VIDzo6sVi3cp6B7qXfE2vb_y7zRdvcn7ATsYHvcxAW-jHdCPbrJztuySyYkSOfDsHj-w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwFBKheG3ry6uL56zcqiF0mPyVIk-cD0QnaxFzOKUGo5WTlNLFWoIKd_vgOIHa3OseevESX1rik40BfxD8w3Ye62AWgRv4PeWOpnAbvseura7uOU19G-_wcDc15JURIpn0FSFxM3-TWR3_T=w143-h110"
     },
     "col_3": {
-      "text": "ROG",
+      "text": "RG-NEON",
       "links": [
         {
-          "label": "ROG",
-          "url": "https://oopbuy.com/product/1/609220746139?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "DRK STUDIO",
-      "links": [
-        {
-          "label": "DRK STUDIO",
-          "url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
+          "label": "RG-NEON",
+          "url": "https://www.oopbuy.com/product/weidian/7234961385?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "88$"
-    },
-    "col_6": {
-      "text": "78$"
+      "text": "98$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0399"
+  }
 }

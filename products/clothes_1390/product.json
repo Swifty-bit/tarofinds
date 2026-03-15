@@ -1,61 +1,61 @@
 {
-  "name": "BurberryEKD Tee",
+  "name": "RepresentHoodieMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
+  "best_batch": "UnionKingdom",
   "best_batch_links": [
     {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7418935186%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7418935186?inviteCode=29TOTHGNH"
+      "label": "UnionKingdom",
+      "url": "https://litbuy.com/product/weidian/653999987536?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/653999987536?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "32$",
+  "best_price": "33$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://thethunder.x.yupoo.com/albums/151804974?uid=1&isSubCate=false&referrercate=3972377"
+      "url": "https://unionkingdom.x.yupoo.com/albums/100645727?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxsKNm-r6oZMn22EWOYYU6nDjrBjURz_HaMSRnoVaXloWsNDchP0pZ27KrU3j7LZhqWHSv0830rfCZCsGwWeKWNkJ2VYOEzDrAojFZecU-wiJs0Pk9z9QF7NHDXZXabgaIcdbjp504E2g=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxudN17_xbdbwEKt6JWg_LYwNESzE212leFigyh2KLgRUmeB_MPdTouq3Ae0Y5fdQOP5ntiWfc2nCK-0lK-c586i4pJ6bHBT44EmfURaTfDze378XyzVQyI62qrFDS7Gy8S2Llt15R43ygw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1390",
   "raw_cells": {
     "col_0": {
-      "text": "997"
+      "text": "989"
     },
     "col_1": {
-      "text": "BurberryEKD Tee"
+      "text": "RepresentHoodieMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxsKNm-r6oZMn22EWOYYU6nDjrBjURz_HaMSRnoVaXloWsNDchP0pZ27KrU3j7LZhqWHSv0830rfCZCsGwWeKWNkJ2VYOEzDrAojFZecU-wiJs0Pk9z9QF7NHDXZXabgaIcdbjp504E2g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxudN17_xbdbwEKt6JWg_LYwNESzE212leFigyh2KLgRUmeB_MPdTouq3Ae0Y5fdQOP5ntiWfc2nCK-0lK-c586i4pJ6bHBT44EmfURaTfDze378XyzVQyI62qrFDS7Gy8S2Llt15R43ygw=w143-h110"
     },
     "col_3": {
-      "text": "Thunder",
+      "text": "UnionKingdom",
       "links": [
         {
-          "label": "Thunder",
-          "url": "https://oopbuy.com/product/2/7418935186?inviteCode=29TOTHGNH"
+          "label": "UnionKingdom",
+          "url": "https://oopbuy.com/product/1/653999987536?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "33$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://thethunder.x.yupoo.com/albums/151804974?uid=1&isSubCate=false&referrercate=3972377"
+          "url": "https://unionkingdom.x.yupoo.com/albums/100645727?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1390"
+  }
 }

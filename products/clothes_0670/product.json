@@ -1,87 +1,87 @@
 {
-  "name": "Corteiz Alcatraz Basic Pants",
+  "name": "CorteizALLSTARS T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656868326%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656868326?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7653821233?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653821233?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "FFCP",
+  "budget_batch": "budget",
   "budget_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F741488778477%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/817436479234?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "27$",
-  "budget_price": "14$",
+  "best_price": "12$",
+  "budget_price": "7$",
   "pics_text": "best/budget",
   "pics_links": [
     {
       "label": "best",
-      "url": "https://goat-official.x.yupoo.com/albums/142359590?uid=1"
+      "url": "https://goat-official.x.yupoo.com/albums/117771201?uid=1"
     },
     {
       "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AytUbYEswvTNdyOyeOYuK3TvN3lwVDALQzpl5AUKvdTdTQZkyRooH4k7sQ9SK1iVNBhzjdEdI4tjtjZ0D0pva0qONBTJAOWl2uvgoipypXVkpPF9OCRSImpOD_cIavuRTr17DSy4NSgGzSS=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzDYpvwAOXy8wRWtVqhBqKsxxGf930gXhwhWuej9mE4F-kdC8ZcpDO0I-E9QyiYOfSPYZNEERpj05fhyAdrkipbkfQZIik8T-DxBZn5LzGJCqY5CdM0nEwtu-YPt3BfUFvK33xFcQ8Kynfx=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0670",
   "raw_cells": {
     "col_0": {
-      "text": "151"
+      "text": "147"
     },
     "col_1": {
-      "text": "Corteiz Alcatraz Basic Pants"
+      "text": "CorteizALLSTARS T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AytUbYEswvTNdyOyeOYuK3TvN3lwVDALQzpl5AUKvdTdTQZkyRooH4k7sQ9SK1iVNBhzjdEdI4tjtjZ0D0pva0qONBTJAOWl2uvgoipypXVkpPF9OCRSImpOD_cIavuRTr17DSy4NSgGzSS=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzDYpvwAOXy8wRWtVqhBqKsxxGf930gXhwhWuej9mE4F-kdC8ZcpDO0I-E9QyiYOfSPYZNEERpj05fhyAdrkipbkfQZIik8T-DxBZn5LzGJCqY5CdM0nEwtu-YPt3BfUFvK33xFcQ8Kynfx=w143-h110"
     },
     "col_3": {
       "text": "GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656868326?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7653821233?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "FFCP",
+      "text": "budget",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://www.oopbuy.com/product/1/741488778477?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/817436479234?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "12$"
     },
     "col_6": {
-      "text": "14$"
+      "text": "7$"
     },
     "col_7": {
       "text": "best/budget",
       "links": [
         {
           "label": "best",
-          "url": "https://goat-official.x.yupoo.com/albums/142359590?uid=1"
+          "url": "https://goat-official.x.yupoo.com/albums/117771201?uid=1"
         },
         {
           "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1867842326166081538"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1924631349396815873?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0670"
+  }
 }

@@ -1,64 +1,61 @@
 {
-  "name": "Zip Up Hoodie Heather Gray SetHoodie and Pants",
+  "name": "PerformanceZipped Hoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "hotdog-official",
   "best_batch_links": [
     {
       "label": "hotdog-official",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7342534386%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7342534386?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7341475215?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7341475215?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "59$(SET)",
+  "best_price": "35$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://hotdog-official.x.yupoo.com/albums/161221816?uid=1&isSubCate=false&referrercate=4098105"
+      "url": "https://hotdog-official.x.yupoo.com/albums/151503472?uid=1&isSubCate=false&referrercate=4098105"
     }
   ],
-  "notes": "set 59$ - hoodie 32$ - pants 27$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyYULsM2TgeuupVWOFu8imfbROzSl1ioiXXTajkWbmXMhOsouTUzWagjWXaUjuFGgq102NBem7eMvpBStvx7z2PfKPSt8RTTvbecusUXk5VybRA1sVzLvFpD8sHmjMinaorvzadcqB6h2sO=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyyZbutrhKf1oCn1vC78gcXQsX86IrUOgv5nIHwlKrxGV1rBQYuyLMNhET_9N8Q3DsIi2NJeBvGyZl2f-wXkaaFVGkz2rviu6RU1nib9B7XmK10P2FM75jPYah6D7kPKrk585Uh9U9l2w=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0995",
   "raw_cells": {
     "col_0": {
-      "text": "532"
+      "text": "528"
     },
     "col_1": {
-      "text": "Zip Up Hoodie Heather Gray SetHoodie and Pants"
+      "text": "PerformanceZipped Hoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyYULsM2TgeuupVWOFu8imfbROzSl1ioiXXTajkWbmXMhOsouTUzWagjWXaUjuFGgq102NBem7eMvpBStvx7z2PfKPSt8RTTvbecusUXk5VybRA1sVzLvFpD8sHmjMinaorvzadcqB6h2sO=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyyZbutrhKf1oCn1vC78gcXQsX86IrUOgv5nIHwlKrxGV1rBQYuyLMNhET_9N8Q3DsIi2NJeBvGyZl2f-wXkaaFVGkz2rviu6RU1nib9B7XmK10P2FM75jPYah6D7kPKrk585Uh9U9l2w=w143-h110"
     },
     "col_3": {
       "text": "hotdog-official",
       "links": [
         {
           "label": "hotdog-official",
-          "url": "https://oopbuy.com/product/2/7342534386?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7341475215?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "59$(SET)"
+      "text": "35$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://hotdog-official.x.yupoo.com/albums/161221816?uid=1&isSubCate=false&referrercate=4098105"
+          "url": "https://hotdog-official.x.yupoo.com/albums/151503472?uid=1&isSubCate=false&referrercate=4098105"
         }
       ]
-    },
-    "col_8": {
-      "text": "set 59$ - hoodie 32$ - pants 27$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0995"
+  }
 }

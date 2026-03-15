@@ -1,87 +1,65 @@
 {
-  "name": "Luois VuittonWallet, Passport,Cardholder",
+  "name": "Louis VuittonMultiple Wallet6 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
-  "best_batch": "MissChen",
-  "best_batch_links": [
-    {
-      "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7487692568%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7487692568?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F952198149267%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/952198149267?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/6180840599?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/6180840599?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "50$",
-  "budget_price": "14$",
-  "pics_text": "misschen/budget",
+  "best_price": "",
+  "budget_price": "12$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "misschen",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1962627072817455106?action=discord&type=1&cid=1942512167859859457"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1983721359986991106?action=discord&type=1&cid=1942512167859859457"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1972850554020913153?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzF0GEdzDFhNGq16ZVlAHAc3M9Ya6I7CDewCoFQdoX37ucf9VGqEcFOmuqphtSOWFyVrmN2awgl1mGsfUFyx4NbBAAss3B0BBvomDjxtXKmGihGPjxDzPu2MUkxj6Ul_pFwJwDpNyJiVE9E=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZ_pqJeq1rjwsHJxH0CJ1FHyvKX9PULcPQehV4YvDeHuVnsV-AaHXs5CmZeq8tNBcu-bJeqqwLs1HWXu1a7O7QwXmjAExsIX_ki-XCvHhO_NZ3dXYWpF2TjLjwVup4DL8R9rffWX77t8GN=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1507",
   "raw_cells": {
     "col_0": {
-      "text": "13"
+      "text": "9"
     },
     "col_1": {
-      "text": "Luois VuittonWallet, Passport,Cardholder"
+      "text": "Louis VuittonMultiple Wallet6 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzF0GEdzDFhNGq16ZVlAHAc3M9Ya6I7CDewCoFQdoX37ucf9VGqEcFOmuqphtSOWFyVrmN2awgl1mGsfUFyx4NbBAAss3B0BBvomDjxtXKmGihGPjxDzPu2MUkxj6Ul_pFwJwDpNyJiVE9E=w143-h110"
-    },
-    "col_3": {
-      "text": "MissChen",
-      "links": [
-        {
-          "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/7487692568?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZ_pqJeq1rjwsHJxH0CJ1FHyvKX9PULcPQehV4YvDeHuVnsV-AaHXs5CmZeq8tNBcu-bJeqqwLs1HWXu1a7O7QwXmjAExsIX_ki-XCvHhO_NZ3dXYWpF2TjLjwVup4DL8R9rffWX77t8GN=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/952198149267?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/6180840599?inviteCode=29TOTHGNH"
         }
       ]
-    },
-    "col_5": {
-      "text": "50$"
     },
     "col_6": {
-      "text": "14$"
+      "text": "12$"
     },
     "col_7": {
-      "text": "misschen/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "misschen",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1962627072817455106?action=discord&type=1&cid=1942512167859859457"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1983721359986991106?action=discord&type=1&cid=1942512167859859457"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1972850554020913153?action=discord&type=1&cid=1942512167859859457"
         }
       ]
+    },
+    "col_8": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwF19iIeTNqN2k_odcrvSomiE342uI6lq3NGldi5Yq4u60ujde7OYFTu3y1zc5u-n71A82XJu2-4TeOxeX9oRqCBaufL7_iYKQxFRpYJMc_nIttLytmqj5uEOznuYRk4_k_-1dmjCVB9qRD=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1507"
+  }
 }

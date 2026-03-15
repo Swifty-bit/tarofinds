@@ -1,61 +1,61 @@
 {
-  "name": "Ralph Lauren Roundneck Sweatshirt",
+  "name": "Ralph Lauren Striped Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Repkingdom",
   "best_batch_links": [
     {
       "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7161615777%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7161615777?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7232882420?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7232882420?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "16$",
+  "best_price": "24$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/153528829?uid=1"
+      "url": "https://repkingdom.x.yupoo.com/albums/158913463?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzbSSUCEnU5G7QJhB44I9JVzK1d7ReJcxbukcVvIKJttQKI-ahf4QifmrNRyMvUhIxms2igpGtEmxzh7cmcpTk8FYekvRviZ8B1xxHHPrpqHTOwW6nAI1qI6X7Sm-klO7NYwoL2XzNn8lea=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwAWPucnoLiWCxePePa8W1AZQxkOMlyVilpe7PsxW_BIN5Cnx69M9DzJFc6eSl_0h1b-teYfmDO230lH6Oslb0xgtZ56lpUdOT8I7d1SBJPH3Z0Sua1f0WbTOia-A4PzCv77yP8-JRXlOws=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0609",
   "raw_cells": {
     "col_0": {
-      "text": "80"
+      "text": "76"
     },
     "col_1": {
-      "text": "Ralph Lauren Roundneck Sweatshirt"
+      "text": "Ralph Lauren Striped Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzbSSUCEnU5G7QJhB44I9JVzK1d7ReJcxbukcVvIKJttQKI-ahf4QifmrNRyMvUhIxms2igpGtEmxzh7cmcpTk8FYekvRviZ8B1xxHHPrpqHTOwW6nAI1qI6X7Sm-klO7NYwoL2XzNn8lea=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwAWPucnoLiWCxePePa8W1AZQxkOMlyVilpe7PsxW_BIN5Cnx69M9DzJFc6eSl_0h1b-teYfmDO230lH6Oslb0xgtZ56lpUdOT8I7d1SBJPH3Z0Sua1f0WbTOia-A4PzCv77yP8-JRXlOws=w143-h110"
     },
     "col_3": {
       "text": "Repkingdom",
       "links": [
         {
           "label": "Repkingdom",
-          "url": "https://oopbuy.com/product/2/7161615777?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7232882420?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "16$"
+      "text": "24$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/153528829?uid=1"
+          "url": "https://repkingdom.x.yupoo.com/albums/158913463?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0609"
+  }
 }

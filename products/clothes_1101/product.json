@@ -1,18 +1,18 @@
 {
-  "name": "KroenButterfly Pattern Sports Suit",
+  "name": "Kroen Embroidery Basic Sports Suit",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "GOAT/GOAT",
   "best_batch_links": [
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656854382%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656854382?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7656824894?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7656824894?inviteCode=29TOTHGNH"
     },
     {
       "label": "GOAT",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7656777388%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7656777388?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7653844899?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7653844899?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -23,32 +23,34 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://goat-official222.x.yupoo.com/albums/201770417?uid=1&isSubCate=false&referrercate=4943474"
+      "url": "https://goat-official222.x.yupoo.com/albums/186143439?uid=1&isSubCate=false&referrercate=4943474"
     }
   ],
   "notes": "set 59$ - top 30$ - bottom 29$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwqVnCWEuEn07OjRE-CugLC0xY1EwPUYA6hWuqLY3wm42iVymu7xYZIC1rnnXXvj-OskNZEIXYnkIcL1N1-886ODTjcOM611Xhvo9tjoOLNZ7oLi5DamYWRg221YJBbmU6_n2Fz10qihQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBa5oDbpFlNWLZ8qjZGPFr8S7msC0OdyHkWoKZYPaslnEwqsvYssGznGf5sDMbmrfCd01tQqgkb7IYiTqbHdSbm_3GLGZBCWXySKEBNKpC6xe_DT7ZOwuVrcCsYCSgv9MEiaEyLONhvWg_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1101",
   "raw_cells": {
     "col_0": {
-      "text": "654"
+      "text": "650"
     },
     "col_1": {
-      "text": "KroenButterfly Pattern Sports Suit"
+      "text": "Kroen Embroidery Basic Sports Suit"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwqVnCWEuEn07OjRE-CugLC0xY1EwPUYA6hWuqLY3wm42iVymu7xYZIC1rnnXXvj-OskNZEIXYnkIcL1N1-886ODTjcOM611Xhvo9tjoOLNZ7oLi5DamYWRg221YJBbmU6_n2Fz10qihQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBa5oDbpFlNWLZ8qjZGPFr8S7msC0OdyHkWoKZYPaslnEwqsvYssGznGf5sDMbmrfCd01tQqgkb7IYiTqbHdSbm_3GLGZBCWXySKEBNKpC6xe_DT7ZOwuVrcCsYCSgv9MEiaEyLONhvWg_=w143-h110"
     },
     "col_3": {
       "text": "GOAT/GOAT",
       "links": [
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656854382?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7656824894?inviteCode=29TOTHGNH"
         },
         {
           "label": "GOAT",
-          "url": "https://oopbuy.com/product/weidian/7656777388?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7653844899?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -60,14 +62,12 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://goat-official222.x.yupoo.com/albums/201770417?uid=1&isSubCate=false&referrercate=4943474"
+          "url": "https://goat-official222.x.yupoo.com/albums/186143439?uid=1&isSubCate=false&referrercate=4943474"
         }
       ]
     },
     "col_8": {
       "text": "set 59$ - top 30$ - bottom 29$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1101"
+  }
 }

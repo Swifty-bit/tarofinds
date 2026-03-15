@@ -1,61 +1,61 @@
 {
-  "name": "Under ArmourSets",
+  "name": "Under ArmourShorts",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "budget",
+  "budget_batch": "here",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F978136831309%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/978136831309?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/786523684502?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/786523684502?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "20$(SET)",
+  "budget_price": "4$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2025035738754666498?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1950361343109451778?action=discord&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyV_ThIhNYJZ4RMkS483is0A21EjyGLohRqvMlBikErv8TSzPULAAlR951O4-7o77m4kWAWF6p9L9CbnHgNgl4mlqS3saZkwxX7EdX0TYAC6Mfhbgl9BZZ3vrlROW_pQSEbRVwDZCI3DmNi=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axp7Xu98mCSlb0-7h2YKCG09-ydUM3ziQeCpMQ7Q5pvzgJ3aJXR-eId2UfpyJHglLD6Wf6aJfcdC0iLyYXAHABn5Rw2hg7_X7G9NJQxDb-IBLZ38DyVXgT4Fa09WVmVvBhnQQdos9aydw=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0856",
   "raw_cells": {
     "col_0": {
-      "text": "365"
+      "text": "361"
     },
     "col_1": {
-      "text": "Under ArmourSets"
+      "text": "Under ArmourShorts"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyV_ThIhNYJZ4RMkS483is0A21EjyGLohRqvMlBikErv8TSzPULAAlR951O4-7o77m4kWAWF6p9L9CbnHgNgl4mlqS3saZkwxX7EdX0TYAC6Mfhbgl9BZZ3vrlROW_pQSEbRVwDZCI3DmNi=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axp7Xu98mCSlb0-7h2YKCG09-ydUM3ziQeCpMQ7Q5pvzgJ3aJXR-eId2UfpyJHglLD6Wf6aJfcdC0iLyYXAHABn5Rw2hg7_X7G9NJQxDb-IBLZ38DyVXgT4Fa09WVmVvBhnQQdos9aydw=w143-h110"
     },
     "col_4": {
-      "text": "budget",
+      "text": "here",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/978136831309?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/0/786523684502?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "20$(SET)"
+      "text": "4$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2025035738754666498?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1950361343109451778?action=discord&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0856"
+  }
 }

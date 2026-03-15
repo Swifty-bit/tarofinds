@@ -1,61 +1,87 @@
 {
-  "name": "Ralph LaurenKnit BeanieMany colors",
+  "name": "Ralph LaurenBlack ShinyDown Jacket",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
+  "best_batch": "NEWDP",
+  "best_batch_links": [
+    {
+      "label": "NEWDP",
+      "url": "https://litbuy.com/product/weidian/7623833303?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7623833303?inviteCode=29TOTHGNH"
+    }
+  ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7233497751%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7233497751?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/974109320834?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/974109320834?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "3$",
-  "pics_text": "QC Pics",
+  "best_price": "76$",
+  "budget_price": "21$",
+  "pics_text": "NEWDP/budget",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2009186859777871873?action=discord&type=1&cid=1942512167859859457"
+      "label": "NEWDP",
+      "url": "https://newdp.x.yupoo.com/albums/216562163?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2020706038074920962?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azqw5iihn9TeqKgbazmVR0Czyy4Y-sOwLoagn7nkU374U3Lm57SRngStw0nGC7sqn8ZJ23p-UId4ygAGdTclezAPbYFNEHD38wSjp2jordKIyfgWhxm8sEjLsMWaLUesEjqd_ise36tE9tA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwWP-1HtWG-BZa1ETR8idy9WaY_Y_XcUIhY2GX82mrqO1uJ_ZbsYGS6WGuIhla6PQGf4p20iELuDUV3dqr3wS9Uaisf4mgKMfZfytKhXZISWZy3jBTTo89TgSzmmZvtptwNvxplR7eVB2ev=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0639",
   "raw_cells": {
     "col_0": {
-      "text": "110"
+      "text": "106"
     },
     "col_1": {
-      "text": "Ralph LaurenKnit BeanieMany colors"
+      "text": "Ralph LaurenBlack ShinyDown Jacket"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azqw5iihn9TeqKgbazmVR0Czyy4Y-sOwLoagn7nkU374U3Lm57SRngStw0nGC7sqn8ZJ23p-UId4ygAGdTclezAPbYFNEHD38wSjp2jordKIyfgWhxm8sEjLsMWaLUesEjqd_ise36tE9tA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwWP-1HtWG-BZa1ETR8idy9WaY_Y_XcUIhY2GX82mrqO1uJ_ZbsYGS6WGuIhla6PQGf4p20iELuDUV3dqr3wS9Uaisf4mgKMfZfytKhXZISWZy3jBTTo89TgSzmmZvtptwNvxplR7eVB2ev=w143-h110"
+    },
+    "col_3": {
+      "text": "NEWDP",
+      "links": [
+        {
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7623833303?inviteCode=29TOTHGNH"
+        }
+      ]
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/weidian/7233497751?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/974109320834?inviteCode=29TOTHGNH"
         }
       ]
     },
+    "col_5": {
+      "text": "76$"
+    },
     "col_6": {
-      "text": "3$"
+      "text": "21$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "NEWDP/budget",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2009186859777871873?action=discord&type=1&cid=1942512167859859457"
+          "label": "NEWDP",
+          "url": "https://newdp.x.yupoo.com/albums/216562163?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2020706038074920962?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0639"
+  }
 }

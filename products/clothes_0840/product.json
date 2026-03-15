@@ -1,61 +1,61 @@
 {
-  "name": "FendiWater ReactiveSwim Shorts",
+  "name": "DiorxStone IslandT-Shirt",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "3MadMan",
+  "best_batch": "ZZZTOPXX",
   "best_batch_links": [
     {
-      "label": "3MadMan",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F794358842246%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/794358842246?inviteCode=29TOTHGNH"
+      "label": "ZZZTOPXX",
+      "url": "https://litbuy.com/product/taobao/7250857818?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7250857818?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "35$",
+  "best_price": "37$",
   "budget_price": "",
-  "pics_text": "pics",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://3madman.x.yupoo.com/albums/157155318?uid=1&isSubCate=false&referrercate=4506227"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1935140517992013826?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzqCcEvQBOaU1U0yU9jK1luL6i1KwPCzpQgYM2ZeOCypcaQetiGJ4LF9_zI-zTFZ5WFvj2ruWXBo9_M76H_HeeuQqXGSqTuWphhPOOKUuIky_h_hJLnbPEybq4fmT90C11-MQM_JMNTZQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyqtZhPHWP0V9JDcsOd-QW3jPjCg9DeK2M-rxHjWR2GLBH7iwWWeNpdz1kJX-eYzvJYN-MgA0k9JgNQeQTzn2eMpNT9BZxJ1QVYMGuPnplMCnwCM7i0baf_mbZyRC7llYgo98Nzq60QJiz_=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0840",
   "raw_cells": {
     "col_0": {
-      "text": "341"
+      "text": "335"
     },
     "col_1": {
-      "text": "FendiWater ReactiveSwim Shorts"
+      "text": "DiorxStone IslandT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzqCcEvQBOaU1U0yU9jK1luL6i1KwPCzpQgYM2ZeOCypcaQetiGJ4LF9_zI-zTFZ5WFvj2ruWXBo9_M76H_HeeuQqXGSqTuWphhPOOKUuIky_h_hJLnbPEybq4fmT90C11-MQM_JMNTZQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyqtZhPHWP0V9JDcsOd-QW3jPjCg9DeK2M-rxHjWR2GLBH7iwWWeNpdz1kJX-eYzvJYN-MgA0k9JgNQeQTzn2eMpNT9BZxJ1QVYMGuPnplMCnwCM7i0baf_mbZyRC7llYgo98Nzq60QJiz_=w143-h110"
     },
     "col_3": {
-      "text": "3MadMan",
+      "text": "ZZZTOPXX",
       "links": [
         {
-          "label": "3MadMan",
-          "url": "https://oopbuy.com/product/1/794358842246?inviteCode=29TOTHGNH"
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/2/7250857818?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "35$"
+      "text": "37$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://3madman.x.yupoo.com/albums/157155318?uid=1&isSubCate=false&referrercate=4506227"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1935140517992013826?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0840"
+  }
 }

@@ -1,64 +1,61 @@
 {
-  "name": "BurberryZipped Hoodie(hood pattern and NO front logo)",
+  "name": "BurberryEKD Tee",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "Thunder",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F734027491649%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/734027491649?inviteCode=29TOTHGNH"
+      "label": "Thunder",
+      "url": "https://litbuy.com/product/taobao/7418935186?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7418935186?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "15$",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "32$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1945287421471092738?action=discord&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://thethunder.x.yupoo.com/albums/151804974?uid=1&isSubCate=false&referrercate=3972377"
     }
   ],
-  "notes": "Hood pattern onlyNo front logo",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzyNsvNyIdvG4B8GBdThOULm8oJ3-Mh9uj9nQ6Yo8nTgei5VMZ4QrFPPG9EbtwSgUKvcfvexxuh8DdZ_lldBZZnOyqB0yID1N5SFiFKE7KgrgvvA-izVw9Jy2PKe4JUdLLXjfK3uFJ52g=w143-h110",
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AykOa26UddzPZeG2-xiks_lZPxsy-j-8ECT_Fs1qKz3oYj9_0Tr2Xw9luG20uFhIrROSzx-m099oLc1ivRL4fFitIr5H4dpIR-P747nafALuwyAsEH8FKpayhsR2oMbH-Lkhz7fLhHMAg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1394",
   "raw_cells": {
     "col_0": {
-      "text": "1001"
+      "text": "997"
     },
     "col_1": {
-      "text": "BurberryZipped Hoodie(hood pattern and NO front logo)"
+      "text": "BurberryEKD Tee"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzyNsvNyIdvG4B8GBdThOULm8oJ3-Mh9uj9nQ6Yo8nTgei5VMZ4QrFPPG9EbtwSgUKvcfvexxuh8DdZ_lldBZZnOyqB0yID1N5SFiFKE7KgrgvvA-izVw9Jy2PKe4JUdLLXjfK3uFJ52g=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AykOa26UddzPZeG2-xiks_lZPxsy-j-8ECT_Fs1qKz3oYj9_0Tr2Xw9luG20uFhIrROSzx-m099oLc1ivRL4fFitIr5H4dpIR-P747nafALuwyAsEH8FKpayhsR2oMbH-Lkhz7fLhHMAg=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "Thunder",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/734027491649?inviteCode=29TOTHGNH"
+          "label": "Thunder",
+          "url": "https://oopbuy.com/product/2/7418935186?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "15$"
+    "col_5": {
+      "text": "32$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1945287421471092738?action=discord&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://thethunder.x.yupoo.com/albums/151804974?uid=1&isSubCate=false&referrercate=3972377"
         }
       ]
-    },
-    "col_8": {
-      "text": "Hood pattern onlyNo front logo"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1394"
+  }
 }

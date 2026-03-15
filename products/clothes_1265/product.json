@@ -1,61 +1,61 @@
 {
-  "name": "BalenciagaShorts",
+  "name": "BalenciagaHoodie",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "1to1",
   "best_batch_links": [
     {
       "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F6101147259%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6101147259?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/6533109523?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/6533109523?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "44$",
+  "best_price": "56$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://1to1.x.yupoo.com/albums/129758907?uid=1&isSubCate=false&referrercate=3984024"
+      "url": "https://1to1.x.yupoo.com/albums/141499163?uid=1&isSubCate=false&referrercate=3984024"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxeoeORjVTtz2CqOsqOgoYJXd02QrbzLX7N9llZA0a402olrqRPXOm9pERiC79smcfBpfXVMsT1Q6NN396ybBzQzEQ4WE2yKfTxCx1AJQb6KgdOxIOwCib-sEN_BZaerg67e60CJsvCOiaK=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayh6fPlTz4G2mAe25euhSMSXZEBnP1SvbwHXp3Z2VHSX3j6NAHyHX9R1mwAp7o57kTspOw92XCkN9CB3JDGahDbEpD6pHOdbIA_rlVOvfwrrnyJpQiBuZ5fcUAVoDydTefl0TWE5EA54jDp=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1265",
   "raw_cells": {
     "col_0": {
-      "text": "854"
+      "text": "850"
     },
     "col_1": {
-      "text": "BalenciagaShorts"
+      "text": "BalenciagaHoodie"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxeoeORjVTtz2CqOsqOgoYJXd02QrbzLX7N9llZA0a402olrqRPXOm9pERiC79smcfBpfXVMsT1Q6NN396ybBzQzEQ4WE2yKfTxCx1AJQb6KgdOxIOwCib-sEN_BZaerg67e60CJsvCOiaK=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayh6fPlTz4G2mAe25euhSMSXZEBnP1SvbwHXp3Z2VHSX3j6NAHyHX9R1mwAp7o57kTspOw92XCkN9CB3JDGahDbEpD6pHOdbIA_rlVOvfwrrnyJpQiBuZ5fcUAVoDydTefl0TWE5EA54jDp=w143-h110"
     },
     "col_3": {
       "text": "1to1",
       "links": [
         {
           "label": "1to1",
-          "url": "https://oopbuy.com/product/2/6101147259?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/6533109523?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "44$"
+      "text": "56$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://1to1.x.yupoo.com/albums/129758907?uid=1&isSubCate=false&referrercate=3984024"
+          "url": "https://1to1.x.yupoo.com/albums/141499163?uid=1&isSubCate=false&referrercate=3984024"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1265"
+  }
 }

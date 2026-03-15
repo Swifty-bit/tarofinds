@@ -6,8 +6,8 @@
   "best_batch_links": [
     {
       "label": "Pingu7",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F6541406998%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/6541406998?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/6541517096?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/6541517096?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://pingu7.x.yupoo.com/albums/141735181?uid=1"
+      "url": "https://pingu7.x.yupoo.com/albums/141734612?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWA02RzVZpo5cNAtoredsdpbNmsWlDSnih0abrEeljnatXMGJDQN0foAALabP4FUOQnUhZ7El2r9ZC4-U2cDPs8qDUC_oYABRUoDXz_bF9YohIO8x5-NHLEiAn720G2QBD8lX0Z88vvNLm=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzLn05Z1w7Xa26qeX8r8beEZZ78PkA_ytU0RRL38jb4U_nb8SOd88ZjXDSegHYjn5o1qAl2Gtc_Xo5WK4DEy18rSmHItn1JrBwWOtDX6cdHzaSfYVxT7SaMkv2GU-6i62fgNriSeC8z7lnL=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1201",
   "raw_cells": {
     "col_0": {
-      "text": "772"
+      "text": "768"
     },
     "col_1": {
       "text": "PURPLE BRANDJeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWA02RzVZpo5cNAtoredsdpbNmsWlDSnih0abrEeljnatXMGJDQN0foAALabP4FUOQnUhZ7El2r9ZC4-U2cDPs8qDUC_oYABRUoDXz_bF9YohIO8x5-NHLEiAn720G2QBD8lX0Z88vvNLm=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzLn05Z1w7Xa26qeX8r8beEZZ78PkA_ytU0RRL38jb4U_nb8SOd88ZjXDSegHYjn5o1qAl2Gtc_Xo5WK4DEy18rSmHItn1JrBwWOtDX6cdHzaSfYVxT7SaMkv2GU-6i62fgNriSeC8z7lnL=w143-h110"
     },
     "col_3": {
       "text": "Pingu7",
       "links": [
         {
           "label": "Pingu7",
-          "url": "https://www.oopbuy.com/product/weidian/6541406998?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/6541517096?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://pingu7.x.yupoo.com/albums/141735181?uid=1"
+          "url": "https://pingu7.x.yupoo.com/albums/141734612?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1201"
+  }
 }

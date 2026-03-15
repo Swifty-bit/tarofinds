@@ -1,38 +1,50 @@
 {
-  "name": "Denim Tearsx ReadymadeFlared Sweatpants",
+  "name": "Denim TearsSweatpants11 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1001967311797%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/1001967311797?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/1001967311797?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
+  "budget_batch": "33TRENTE",
+  "budget_batch_links": [
+    {
+      "label": "33TRENTE",
+      "url": "https://litbuy.com/product/weidian/680415390619?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
+    }
+  ],
   "best_price": "42$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_price": "22$",
+  "pics_text": "angelking/33trente",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://louisangelking.x.yupoo.com/albums/220077314?uid=1&isSubCate=false&referrercate=5092630"
+      "label": "angelking",
+      "url": "https://louisangelking.x.yupoo.com/albums/220077576?uid=1&isSubCate=false&referrercate=5092630"
+    },
+    {
+      "label": "33trente",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwnUN7slWOD-EbPaLUvqClii1uDTNiNDBlwQChtRZeQWoi_Ks8giIgSWc8TbFD7npPsEXDyy3xC7WMOl0ZS-K11fulYnbUfohfydRjjzYsguaYkVX_zUso_LoaQ_j9lGh4GGC8YfMO4fIW_=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azt2SvsY_T_-XL6SGMQwZpCL0Y8LW4Ywilze2bvAWu6uivAt6vP0bqRODB5CTAKEibtlndkJ9cdFWXHkmpTb9CgBqTvGeeLuEqSPKnpR4vpfra6O06Q3z7kvkVZymclon13YdQOntWi9g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0950",
   "raw_cells": {
     "col_0": {
-      "text": "479"
+      "text": "475"
     },
     "col_1": {
-      "text": "Denim Tearsx ReadymadeFlared Sweatpants"
+      "text": "Denim TearsSweatpants11 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwnUN7slWOD-EbPaLUvqClii1uDTNiNDBlwQChtRZeQWoi_Ks8giIgSWc8TbFD7npPsEXDyy3xC7WMOl0ZS-K11fulYnbUfohfydRjjzYsguaYkVX_zUso_LoaQ_j9lGh4GGC8YfMO4fIW_=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azt2SvsY_T_-XL6SGMQwZpCL0Y8LW4Ywilze2bvAWu6uivAt6vP0bqRODB5CTAKEibtlndkJ9cdFWXHkmpTb9CgBqTvGeeLuEqSPKnpR4vpfra6O06Q3z7kvkVZymclon13YdQOntWi9g=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
@@ -43,19 +55,33 @@
         }
       ]
     },
+    "col_4": {
+      "text": "33TRENTE",
+      "links": [
+        {
+          "label": "33TRENTE",
+          "url": "https://oopbuy.com/product/1/680415390619?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
     "col_5": {
       "text": "42$"
     },
+    "col_6": {
+      "text": "22$"
+    },
     "col_7": {
-      "text": "pics",
+      "text": "angelking/33trente",
       "links": [
         {
-          "label": "pics",
-          "url": "https://louisangelking.x.yupoo.com/albums/220077314?uid=1&isSubCate=false&referrercate=5092630"
+          "label": "angelking",
+          "url": "https://louisangelking.x.yupoo.com/albums/220077576?uid=1&isSubCate=false&referrercate=5092630"
+        },
+        {
+          "label": "33trente",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2000753836153720833?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0950"
+  }
 }

@@ -1,47 +1,47 @@
 {
-  "name": "Adilette 22",
+  "name": "Ultra Boost 4.0",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "TJ",
+  "best_batch": "WWTOP",
   "best_batch_links": [
     {
-      "label": "TJ",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F5176650505%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/5176650505?inviteCode=29TOTHGNH"
+      "label": "WWTOP",
+      "url": "https://litbuy.com/product/weidian/7565989956?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7565989956?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "9$",
+  "best_price": "27$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyeLyvhoyHoS4PZUMHkgmgrKshqS6BYc_XNAuwagkXt4JEElRUC8JbTw91DpznqWjBioWJJ0wuQ9ckqRaftEFRN5aHVFXC2K5uOHV5JmYZZaFCqCmIM8j5A6FnGQLRdTut_p-fnHr1ZrPw7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awp6hAxKsj4-B0kAb2DxM56Gfxxjwbu6IkuvBkb-JYjTx_9uOkf-8r2fgPZli3y5dj21KGuSj1YunlPShkKyJDxhiEmxcoYWt55hjwAaEzR6Gwo9Yyk3s0SmEft7p2AhuumdCfqh-Mw39Jd=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0334",
   "raw_cells": {
     "col_0": {
       "text": "363"
     },
     "col_1": {
-      "text": "Adilette 22"
+      "text": "Ultra Boost 4.0"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyeLyvhoyHoS4PZUMHkgmgrKshqS6BYc_XNAuwagkXt4JEElRUC8JbTw91DpznqWjBioWJJ0wuQ9ckqRaftEFRN5aHVFXC2K5uOHV5JmYZZaFCqCmIM8j5A6FnGQLRdTut_p-fnHr1ZrPw7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awp6hAxKsj4-B0kAb2DxM56Gfxxjwbu6IkuvBkb-JYjTx_9uOkf-8r2fgPZli3y5dj21KGuSj1YunlPShkKyJDxhiEmxcoYWt55hjwAaEzR6Gwo9Yyk3s0SmEft7p2AhuumdCfqh-Mw39Jd=w143-h110"
     },
     "col_3": {
-      "text": "TJ",
+      "text": "WWTOP",
       "links": [
         {
-          "label": "TJ",
-          "url": "https://www.oopbuy.com/product/weidian/5176650505?inviteCode=29TOTHGNH"
+          "label": "WWTOP",
+          "url": "https://oopbuy.com/product/weidian/7565989956?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "9$"
+      "text": "27$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0334"
+  }
 }

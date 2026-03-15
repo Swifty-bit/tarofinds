@@ -1,61 +1,61 @@
 {
-  "name": "VetementsHello my name is VetementsT-Shirt",
+  "name": "VetementsInside OutT-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "vetementsshop",
   "best_batch_links": [
     {
       "label": "vetementsshop",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F844668072065%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/844668072065?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/623201951942?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/623201951942?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "58$",
+  "best_price": "50$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://vetementsshop.x.yupoo.com/albums/177615365?uid=1"
+      "url": "https://vetementsshop.x.yupoo.com/albums/83471754?uid=1&isSubCate=false&referrercate=778962"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwgSk2qMHT2eTuAcBY9swGRNW7F3w8FD44MK6B386cxrBDVlq4BuCVJWgxZSoeUzmqwG_Woh-2dMpDHTeTfqnzFjWlqdgiZrvI0u_c0VDFcDvyg3yb75g4LGYyCAomqUJ8lhjdPk2opjW_w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AytFJCzWLzy6vbRnjQP2b8pr4JQXKa0UCSOwyg9c5fFe-W2e8mk5QnRyoN7KLH45DjZ2J7s9_lC7z5_l-vR4DEE-FVyiC9E3Onsnq57mBbe0yAW-xFPNI_xo0h5VA0QlgGcIEsnL8IU45sN=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1109",
   "raw_cells": {
     "col_0": {
-      "text": "664"
+      "text": "660"
     },
     "col_1": {
-      "text": "VetementsHello my name is VetementsT-Shirt"
+      "text": "VetementsInside OutT-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwgSk2qMHT2eTuAcBY9swGRNW7F3w8FD44MK6B386cxrBDVlq4BuCVJWgxZSoeUzmqwG_Woh-2dMpDHTeTfqnzFjWlqdgiZrvI0u_c0VDFcDvyg3yb75g4LGYyCAomqUJ8lhjdPk2opjW_w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AytFJCzWLzy6vbRnjQP2b8pr4JQXKa0UCSOwyg9c5fFe-W2e8mk5QnRyoN7KLH45DjZ2J7s9_lC7z5_l-vR4DEE-FVyiC9E3Onsnq57mBbe0yAW-xFPNI_xo0h5VA0QlgGcIEsnL8IU45sN=w143-h110"
     },
     "col_3": {
       "text": "vetementsshop",
       "links": [
         {
           "label": "vetementsshop",
-          "url": "https://oopbuy.com/product/1/844668072065?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/623201951942?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "58$"
+      "text": "50$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://vetementsshop.x.yupoo.com/albums/177615365?uid=1"
+          "url": "https://vetementsshop.x.yupoo.com/albums/83471754?uid=1&isSubCate=false&referrercate=778962"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1109"
+  }
 }

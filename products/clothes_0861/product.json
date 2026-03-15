@@ -1,87 +1,61 @@
 {
-  "name": "Celine Zip Hoodie",
+  "name": "Celine T-Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "1to1",
   "best_batch_links": [
     {
       "label": "1to1",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F5932798441%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/5932798441?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/6099847596?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/6099847596?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F744400682605%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/744400682605?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "61$",
-  "budget_price": "13$",
-  "pics_text": "1to1/budget",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "33$",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "1to1",
-      "url": "https://1to1.x.yupoo.com/albums/199479710?uid=1&isSubCate=false&referrercate=5012627"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1950459453137588228?action=discord&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://1to1.x.yupoo.com/albums/199479533?uid=1&isSubCate=false&referrercate=5012627"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyfFWzbBUrjDZLRbgmAe65JkXpKQb-UB7CBTy90YG9e9fFX0GqTsKK65d__u5zXcBZYl9NMU-OzlVp4CNIiN9K7wAjmJDLfsrkSgD13lgfagVNZeGDZ50uCDZJ-E3rCTsSEkTPCEAkAYEe7=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzInc_h8uuAic6TsDhKeAxVvbncbKVNcEkrrQcTVg1vEM8gZXNiYT-B1H4t1-KbxJADi_HLP9o5ocPj4ybLypSE_Krvzvfs3Gp2CqbJhG0f_0ANP7QwsJcIfNvMtJs-B5ZHQFiz5s5M_wYu=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0861",
   "raw_cells": {
     "col_0": {
-      "text": "372"
+      "text": "368"
     },
     "col_1": {
-      "text": "Celine Zip Hoodie"
+      "text": "Celine T-Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyfFWzbBUrjDZLRbgmAe65JkXpKQb-UB7CBTy90YG9e9fFX0GqTsKK65d__u5zXcBZYl9NMU-OzlVp4CNIiN9K7wAjmJDLfsrkSgD13lgfagVNZeGDZ50uCDZJ-E3rCTsSEkTPCEAkAYEe7=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzInc_h8uuAic6TsDhKeAxVvbncbKVNcEkrrQcTVg1vEM8gZXNiYT-B1H4t1-KbxJADi_HLP9o5ocPj4ybLypSE_Krvzvfs3Gp2CqbJhG0f_0ANP7QwsJcIfNvMtJs-B5ZHQFiz5s5M_wYu=w143-h110"
     },
     "col_3": {
       "text": "1to1",
       "links": [
         {
           "label": "1to1",
-          "url": "https://oopbuy.com/product/weidian/5932798441?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/744400682605?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/6099847596?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "61$"
-    },
-    "col_6": {
-      "text": "13$"
+      "text": "33$"
     },
     "col_7": {
-      "text": "1to1/budget",
+      "text": "pics",
       "links": [
         {
-          "label": "1to1",
-          "url": "https://1to1.x.yupoo.com/albums/199479710?uid=1&isSubCate=false&referrercate=5012627"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1950459453137588228?action=discord&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://1to1.x.yupoo.com/albums/199479533?uid=1&isSubCate=false&referrercate=5012627"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0861"
+  }
 }

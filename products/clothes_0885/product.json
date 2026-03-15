@@ -1,65 +1,65 @@
 {
-  "name": "\"awakening v2\" denim",
+  "name": "on air Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "elephant",
+  "best_batch": "firerep",
   "best_batch_links": [
     {
-      "label": "elephant",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7556415645%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7556415645?inviteCode=29TOTHGNH"
+      "label": "firerep",
+      "url": "https://litbuy.com/product/weidian/996328897857?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/996328897857?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "30$",
+  "best_price": "46$",
   "budget_price": "",
   "pics_text": "pics",
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://elephant-factory.x.yupoo.com/albums/211118802?uid=1&isSubCate=false&referrercate=5006226"
+      "url": "https://hotders.x.yupoo.com/albums/202429508?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwG4YEEKhZnQ3KfbVW-NsxBYI6Jyh5FgqZwyTk9A3GdSIHrJRe8vTLggV-99d7SYNwNq2-7bJP60FsC1KCqC_ttpPAwz_ECVlmN96f9O-F1D_OV2zYfd_rfE_HP41bl_7Xy9m7G1Godjw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxEonZuo2CKO1s45Ris9EEKRDG7w7u-thLBXunBfMWpqoQcOkbOZ_Zk5nLG0As84EScNFe4k4Z5oNKD2f2o3_lmsuSQ60Y7xm-GCfEZtjyChwxlW-BvRhvBkm9Qxn8ahyvzanNM1E04YA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0885",
   "raw_cells": {
     "col_0": {
-      "text": "402"
+      "text": "398"
     },
     "col_1": {
-      "text": "\"awakening v2\" denim"
+      "text": "on air Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwG4YEEKhZnQ3KfbVW-NsxBYI6Jyh5FgqZwyTk9A3GdSIHrJRe8vTLggV-99d7SYNwNq2-7bJP60FsC1KCqC_ttpPAwz_ECVlmN96f9O-F1D_OV2zYfd_rfE_HP41bl_7Xy9m7G1Godjw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxEonZuo2CKO1s45Ris9EEKRDG7w7u-thLBXunBfMWpqoQcOkbOZ_Zk5nLG0As84EScNFe4k4Z5oNKD2f2o3_lmsuSQ60Y7xm-GCfEZtjyChwxlW-BvRhvBkm9Qxn8ahyvzanNM1E04YA=w143-h110"
     },
     "col_3": {
-      "text": "elephant",
+      "text": "firerep",
       "links": [
         {
-          "label": "elephant",
-          "url": "https://oopbuy.com/product/weidian/7556415645?inviteCode=29TOTHGNH"
+          "label": "firerep",
+          "url": "https://oopbuy.com/product/1/996328897857?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "30$"
+      "text": "46$"
     },
     "col_7": {
       "text": "pics",
       "links": [
         {
           "label": "pics",
-          "url": "https://elephant-factory.x.yupoo.com/albums/211118802?uid=1&isSubCate=false&referrercate=5006226"
+          "url": "https://hotders.x.yupoo.com/albums/202429508?uid=1"
         }
       ]
     },
     "col_8": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxOTGLH7OwtNvGCws0TgaFN4GF_3J7lYqkn5y6j-QgfiL6FIfux6DuKQLwIIIZ6ijogPW2_dWCEVHNhWSNBEAFLeIgj8Ol-PeIzaboTjSKoTIkzvYWogzwT-800oh4TK9ALUZcaJS0ZFTgu=w456-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AydFwN7QYo3JvdagxQKuOgCT9ApDMd7j8iaalLT_QtsWJ_p32QONMuGpac2NxIv_nigY0fNC-Rbn3KunR_3BBLPM324WWXvpkoygOy-7n_u1M9f5obHNRMeFBfDgv2WRN1iu5de6BmPAV8r=w456-h110"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0885"
+  }
 }

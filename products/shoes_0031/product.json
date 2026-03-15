@@ -6,7 +6,7 @@
   "best_batch_links": [
     {
       "label": "WWTOP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7564094081%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/7564094081?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/weidian/7564094081?inviteCode=29TOTHGNH"
     }
   ],
@@ -17,7 +17,9 @@
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwaGOwtjPwW8B042cjZFA6EDwiyHLlipYYCaHZy2YHZjY0nYGn260ZFcjiWUb55zZFHoSWCzjLZG7Duzihe0a_Ia5tBccUl1nANLEoPxzRZLsE27ZkoZE5b0JXVeOzIH8xGYxfZGqSgtO1h=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwlXMeWEcLLLOSxSKrG07jvdMWKvAIxF9f4CBDTMz1L_dzrx2SAb3ff2IJ2J4DzytEEcwdrKfmw8lYfUvZacyM_-azOJXdj8425j4nmPJ-x-3LJ0ZXy-XtPO9U3cxSCyBQhXPLI1nZdm4QZ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0031",
   "raw_cells": {
     "col_0": {
       "text": "38"
@@ -27,7 +29,7 @@
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwaGOwtjPwW8B042cjZFA6EDwiyHLlipYYCaHZy2YHZjY0nYGn260ZFcjiWUb55zZFHoSWCzjLZG7Duzihe0a_Ia5tBccUl1nANLEoPxzRZLsE27ZkoZE5b0JXVeOzIH8xGYxfZGqSgtO1h=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwlXMeWEcLLLOSxSKrG07jvdMWKvAIxF9f4CBDTMz1L_dzrx2SAb3ff2IJ2J4DzytEEcwdrKfmw8lYfUvZacyM_-azOJXdj8425j4nmPJ-x-3LJ0ZXy-XtPO9U3cxSCyBQhXPLI1nZdm4QZ=w143-h110"
     },
     "col_3": {
       "text": "WWTOP",
@@ -41,7 +43,5 @@
     "col_5": {
       "text": "31$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0031"
+  }
 }

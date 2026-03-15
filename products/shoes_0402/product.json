@@ -1,46 +1,48 @@
 {
-  "name": "DRKSHDW LowJumbo Laces",
+  "name": "DRKSHDW High",
   "category": "Shoes",
   "subcategory": "",
   "best_batch": "ROG",
   "best_batch_links": [
     {
       "label": "ROG",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F669771892203%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/609220746139?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/609220746139?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "DRK STUDIO",
   "budget_batch_links": [
     {
       "label": "DRK STUDIO",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F673096171707%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/673096171707?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/673096171707?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "113$",
-  "budget_price": "72$",
-  "pics_text": "72$",
+  "best_price": "88$",
+  "budget_price": "78$",
+  "pics_text": "78$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwpYuqqUE5J6xOpAeaFziTypqmgYJge8lIxmp75U3i6NoMvnkUmrq-ThInwV3uMgVcSuniMeYQbBmp9AQ4DVHe6f4_Nh1wvol8uvodG5vdZ34QfYoXsemojWsOsbiYWQaEKj7f8doBSusNo=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azh6acx0yqJ4Ke5f96wkqWyO-nO87j27D1aN18N5anBnfh4aYS2r5Ai7x3I8JyNLAUId6OHfk5B_KvaQ_MoJd3251ZEnASQeTnzH84iOG8Qo4Beiok3Mf8sEjd7B3lipfGAl6QlFjUAfA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0402",
   "raw_cells": {
     "col_0": {
       "text": "453"
     },
     "col_1": {
-      "text": "DRKSHDW LowJumbo Laces"
+      "text": "DRKSHDW High"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwpYuqqUE5J6xOpAeaFziTypqmgYJge8lIxmp75U3i6NoMvnkUmrq-ThInwV3uMgVcSuniMeYQbBmp9AQ4DVHe6f4_Nh1wvol8uvodG5vdZ34QfYoXsemojWsOsbiYWQaEKj7f8doBSusNo=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azh6acx0yqJ4Ke5f96wkqWyO-nO87j27D1aN18N5anBnfh4aYS2r5Ai7x3I8JyNLAUId6OHfk5B_KvaQ_MoJd3251ZEnASQeTnzH84iOG8Qo4Beiok3Mf8sEjd7B3lipfGAl6QlFjUAfA=w143-h110"
     },
     "col_3": {
       "text": "ROG",
       "links": [
         {
           "label": "ROG",
-          "url": "https://oopbuy.com/product/1/669771892203?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/609220746139?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -54,12 +56,10 @@
       ]
     },
     "col_5": {
-      "text": "113$"
+      "text": "88$"
     },
     "col_6": {
-      "text": "72$"
+      "text": "78$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0402"
+  }
 }

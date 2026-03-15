@@ -1,87 +1,61 @@
 {
-  "name": "Denim TearsT-Shirts7 Colors",
+  "name": "Syna Trucker CapGrey",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Angelking",
+  "best_batch": "elephant",
   "best_batch_links": [
     {
-      "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F1002599406861%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1002599406861?inviteCode=29TOTHGNH"
+      "label": "elephant",
+      "url": "https://litbuy.com/product/weidian/7327439979?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7327439979?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "33TRENTE",
-  "budget_batch_links": [
-    {
-      "label": "33TRENTE",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F670071114503%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
-    }
-  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
   "best_price": "12$",
-  "budget_price": "15$",
-  "pics_text": "angelking/33trente",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "angelking",
-      "url": "https://louisangelking.x.yupoo.com/albums/220077250?uid=1&isSubCate=false&referrercate=5092630"
-    },
-    {
-      "label": "33trente",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://elephant-factory.x.yupoo.com/albums/182810019?uid=1&isSubCate=false&referrercate=4564614"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az1ABmylvoWeH_3pSc6q04lVzN2L_eHzT9D8EiB2XeBk10qCxKxrEgv2wfgzRvp6ZJWMUY_Ytdt9AdRNTJmLf8-HLMhniXRG6whgmMcC2Wx1K7CfsbFIOpAKjvijuTT-yZKBvFMdtKO6iUa=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AykGhpIxUxWtI-LNOMBERry2wGvA2j99cs8VjC3g-lZCGNSneE-lHxBQ0VOjhkjM3quAbWS6n1YV7gUI5EHf8dtIx3-Csb-Akd1c1E9r3xrRFeaAwLwvpMBimqgArqX97KRHU-CTnD3cbnI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0943",
   "raw_cells": {
     "col_0": {
-      "text": "472"
+      "text": "466"
     },
     "col_1": {
-      "text": "Denim TearsT-Shirts7 Colors"
+      "text": "Syna Trucker CapGrey"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az1ABmylvoWeH_3pSc6q04lVzN2L_eHzT9D8EiB2XeBk10qCxKxrEgv2wfgzRvp6ZJWMUY_Ytdt9AdRNTJmLf8-HLMhniXRG6whgmMcC2Wx1K7CfsbFIOpAKjvijuTT-yZKBvFMdtKO6iUa=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AykGhpIxUxWtI-LNOMBERry2wGvA2j99cs8VjC3g-lZCGNSneE-lHxBQ0VOjhkjM3quAbWS6n1YV7gUI5EHf8dtIx3-Csb-Akd1c1E9r3xrRFeaAwLwvpMBimqgArqX97KRHU-CTnD3cbnI=w143-h110"
     },
     "col_3": {
-      "text": "Angelking",
+      "text": "elephant",
       "links": [
         {
-          "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/1002599406861?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "33TRENTE",
-      "links": [
-        {
-          "label": "33TRENTE",
-          "url": "https://oopbuy.com/product/1/670071114503?inviteCode=29TOTHGNH"
+          "label": "elephant",
+          "url": "https://oopbuy.com/product/weidian/7327439979?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
       "text": "12$"
     },
-    "col_6": {
-      "text": "15$"
-    },
     "col_7": {
-      "text": "angelking/33trente",
+      "text": "pics",
       "links": [
         {
-          "label": "angelking",
-          "url": "https://louisangelking.x.yupoo.com/albums/220077250?uid=1&isSubCate=false&referrercate=5092630"
-        },
-        {
-          "label": "33trente",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1978286733889462274?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://elephant-factory.x.yupoo.com/albums/182810019?uid=1&isSubCate=false&referrercate=4564614"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0943"
+  }
 }

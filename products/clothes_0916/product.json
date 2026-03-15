@@ -1,13 +1,13 @@
 {
-  "name": "Palm AngelsYellow LettersOversize T-shirt",
+  "name": "Palm AngelsCrane T-shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "repsbrothers",
   "best_batch_links": [
     {
       "label": "repsbrothers",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F964353452753%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/964353452753?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/963748497964?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/963748497964?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
@@ -18,28 +18,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://repsbro.x.yupoo.com/albums/205540213?uid=1&isSubCate=false&referrercate=4971731"
+      "url": "https://repsbro.x.yupoo.com/albums/205540173?uid=1&isSubCate=false&referrercate=4971731"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax4fu36FODHDtAFGWKMWZEZ5YrfWg7PsCeo0Nh8vdxCjT1BWyO5bYHfsIeHRShZywKyL8_NHLlkSH6Wl0dlE9ulqLrEPOZFzuK3ZNVElmui6wgqVtGUsFvPXqAhETiGmninDTzYQ582iEGQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxcRVY9KHLtUWf-uhr2vay1ITae_um3i9Brub_h-xkPcLQ7i1rZIAtmubvdYve86LPYG6L_vo5_yFzQBe0VjCFv-lSq8PGmqMmfo1dB4BGgE0zlcq_joJBELuVB0jF1DgwimzijO7ez1dlg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0916",
   "raw_cells": {
     "col_0": {
-      "text": "441"
+      "text": "437"
     },
     "col_1": {
-      "text": "Palm AngelsYellow LettersOversize T-shirt"
+      "text": "Palm AngelsCrane T-shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax4fu36FODHDtAFGWKMWZEZ5YrfWg7PsCeo0Nh8vdxCjT1BWyO5bYHfsIeHRShZywKyL8_NHLlkSH6Wl0dlE9ulqLrEPOZFzuK3ZNVElmui6wgqVtGUsFvPXqAhETiGmninDTzYQ582iEGQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxcRVY9KHLtUWf-uhr2vay1ITae_um3i9Brub_h-xkPcLQ7i1rZIAtmubvdYve86LPYG6L_vo5_yFzQBe0VjCFv-lSq8PGmqMmfo1dB4BGgE0zlcq_joJBELuVB0jF1DgwimzijO7ez1dlg=w143-h110"
     },
     "col_3": {
       "text": "repsbrothers",
       "links": [
         {
           "label": "repsbrothers",
-          "url": "https://oopbuy.com/product/1/964353452753?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/963748497964?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -51,11 +53,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://repsbro.x.yupoo.com/albums/205540213?uid=1&isSubCate=false&referrercate=4971731"
+          "url": "https://repsbro.x.yupoo.com/albums/205540173?uid=1&isSubCate=false&referrercate=4971731"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0916"
+  }
 }

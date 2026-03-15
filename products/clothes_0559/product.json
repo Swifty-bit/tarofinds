@@ -1,90 +1,64 @@
 {
-  "name": "Nike TechGrey",
+  "name": "Nike TechHoodie2 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Husky",
-  "best_batch_links": [
-    {
-      "label": "Husky",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7645159707%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7645159707?inviteCode=29TOTHGNH"
-    }
-  ],
+  "best_batch": "",
+  "best_batch_links": [],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F0%2F767458964273%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/913871043719?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/913871043719?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "78$(SET)",
-  "budget_price": "24$(SET)",
-  "pics_text": "husky/budget",
+  "best_price": "",
+  "budget_price": "25$(SET)",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "husky",
-      "url": "https://huskyreps.x.yupoo.com/albums/221007965?uid=1"
-    },
-    {
-      "label": "budget",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1996405842893688834?action=discord&type=1&cid=1942512167859859457"
     }
   ],
-  "notes": "set 67$ - hoodie 40$ - pants 38$",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyWqL9R6xmk5L50l1jgJWA86-Z7eiTMpLvvwrZn0cEkSCKBpg_4TlLC6hDY1Wkc-1xsabUt5fWn6zH3rDLIsuFcYwTJAUlpyRxe1t_X96YB-PW4GpbHIJWLcYZLMZ7kFQWTarv2eDRCdw=w143-h110",
+  "notes": "set 25$ - hoodie 14$ - pants 11$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzXVg80y-i18kBFwv3ygEHNneo07PXGoqr2aTC5CPYWHr1X8dj_vRcIXFNboRdSWDXP1ehPSY1zPdHpfLthvNdMCQz1iehFvmD1yHG7n5FOaPf9jeSd-8dB-xEe5FikbdAqbspfdnGQv1RQ=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0559",
   "raw_cells": {
     "col_0": {
-      "text": "24"
+      "text": "20"
     },
     "col_1": {
-      "text": "Nike TechGrey"
+      "text": "Nike TechHoodie2 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyWqL9R6xmk5L50l1jgJWA86-Z7eiTMpLvvwrZn0cEkSCKBpg_4TlLC6hDY1Wkc-1xsabUt5fWn6zH3rDLIsuFcYwTJAUlpyRxe1t_X96YB-PW4GpbHIJWLcYZLMZ7kFQWTarv2eDRCdw=w143-h110"
-    },
-    "col_3": {
-      "text": "Husky",
-      "links": [
-        {
-          "label": "Husky",
-          "url": "https://oopbuy.com/product/weidian/7645159707?inviteCode=29TOTHGNH"
-        }
-      ]
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzXVg80y-i18kBFwv3ygEHNneo07PXGoqr2aTC5CPYWHr1X8dj_vRcIXFNboRdSWDXP1ehPSY1zPdHpfLthvNdMCQz1iehFvmD1yHG7n5FOaPf9jeSd-8dB-xEe5FikbdAqbspfdnGQv1RQ=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/767458964273?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/0/913871043719?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "78$(SET)"
-    },
     "col_6": {
-      "text": "24$(SET)"
+      "text": "25$(SET)"
     },
     "col_7": {
-      "text": "husky/budget",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "husky",
-          "url": "https://huskyreps.x.yupoo.com/albums/221007965?uid=1"
-        },
-        {
-          "label": "budget",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1883424799402856449?action=discord&cid=1840597081113280514"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1996405842893688834?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     },
     "col_8": {
-      "text": "set 67$ - hoodie 40$ - pants 38$"
+      "text": "set 25$ - hoodie 14$ - pants 11$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0559"
+  }
 }

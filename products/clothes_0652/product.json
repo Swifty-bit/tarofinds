@@ -1,61 +1,61 @@
 {
-  "name": "Travis ScottT-Shirt65 Colors",
+  "name": "Yeezy Shorts4 Colors",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "",
   "best_batch_links": [],
-  "budget_batch": "FFCP",
+  "budget_batch": "here",
   "budget_batch_links": [
     {
-      "label": "FFCP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F763450504232%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/763450504232?inviteCode=29TOTHGNH"
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/610157874461?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/610157874461?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "7$",
+  "budget_price": "12$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1936952417931857922?action=discord&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938576687023308803?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyzgoZfOPShJM6IaweqLZNKUjX3j7jVNkEPD4XiD85YXUSeUX-ep1Bj7Z2tCCFF9YA-vgy6GT5Q-GoVGBzq_hoIfuPp7ohmi5mAJZEVvEyvNUeGzmD0X6mvGOmF2GlAwCGkkulRnxDlNg=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayr3yVVswaOWRHlh7JoR1nExnyhqF8WlhiNRX6T6-M-wUwrQjmpiDU3nljrjL0h-yOJMLYIwmhbJ-j90CdWobYp3WlmjHugccxEX_6TjYv0RweCiFD015JkXiKa_jV_aTyAkoe9YpcqyojG=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0652",
   "raw_cells": {
     "col_0": {
-      "text": "127"
+      "text": "121"
     },
     "col_1": {
-      "text": "Travis ScottT-Shirt65 Colors"
+      "text": "Yeezy Shorts4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyzgoZfOPShJM6IaweqLZNKUjX3j7jVNkEPD4XiD85YXUSeUX-ep1Bj7Z2tCCFF9YA-vgy6GT5Q-GoVGBzq_hoIfuPp7ohmi5mAJZEVvEyvNUeGzmD0X6mvGOmF2GlAwCGkkulRnxDlNg=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayr3yVVswaOWRHlh7JoR1nExnyhqF8WlhiNRX6T6-M-wUwrQjmpiDU3nljrjL0h-yOJMLYIwmhbJ-j90CdWobYp3WlmjHugccxEX_6TjYv0RweCiFD015JkXiKa_jV_aTyAkoe9YpcqyojG=w143-h110"
     },
     "col_4": {
-      "text": "FFCP",
+      "text": "here",
       "links": [
         {
-          "label": "FFCP",
-          "url": "https://oopbuy.com/product/1/763450504232?inviteCode=29TOTHGNH"
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/610157874461?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "7$"
+      "text": "12$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1936952417931857922?action=discord&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938576687023308803?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0652"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "BurberryLOVE Cap",
+  "name": "Burberry BeanieMany Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "ogwave",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "ogwave",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7432893629%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7432893629?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/709047414802?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/709047414802?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "19$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "3$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://ogwave.x.yupoo.com/albums/176446466?uid=1"
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/709047414802"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzoXfKFQYcDvmrrreF7J9DpGwf-IdS1Q14L6ykBiQ7Pe5KZPuCD3KBTNdYabv5b0tdbFOt6XsoMiWBT7LBycQ-ARR3Lcq37CDnCRtuRV-5Ve7aYvNgWgcrlVf_s0CWWXoHRwia8vrPAEYiU=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzPYdXwFfbW9h6d3hf-y6_Nu18_Y0s91MubibOxpHvDS-bD_7Ov4NsmlMp-8VixMk_15j_Lu7V1v21oM_W4RxEpcrVHL7eXts9AtQ3ifXOO02usZuGlOXlYkKHQNZCvsyxlNnfKxr41Cg=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1410",
   "raw_cells": {
     "col_0": {
-      "text": "1017"
+      "text": "1013"
     },
     "col_1": {
-      "text": "BurberryLOVE Cap"
+      "text": "Burberry BeanieMany Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzoXfKFQYcDvmrrreF7J9DpGwf-IdS1Q14L6ykBiQ7Pe5KZPuCD3KBTNdYabv5b0tdbFOt6XsoMiWBT7LBycQ-ARR3Lcq37CDnCRtuRV-5Ve7aYvNgWgcrlVf_s0CWWXoHRwia8vrPAEYiU=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzPYdXwFfbW9h6d3hf-y6_Nu18_Y0s91MubibOxpHvDS-bD_7Ov4NsmlMp-8VixMk_15j_Lu7V1v21oM_W4RxEpcrVHL7eXts9AtQ3ifXOO02usZuGlOXlYkKHQNZCvsyxlNnfKxr41Cg=w143-h110"
     },
-    "col_3": {
-      "text": "ogwave",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "ogwave",
-          "url": "https://www.oopbuy.com/product/weidian/7432893629?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/1/709047414802?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "19$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://ogwave.x.yupoo.com/albums/176446466?uid=1"
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/709047414802"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1410"
+  }
 }

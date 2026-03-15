@@ -1,0 +1,61 @@
+{
+  "name": "8 BallCarpet",
+  "category": "Room Accessories",
+  "subcategory": "",
+  "best_batch": "here",
+  "best_batch_links": [
+    {
+      "label": "here",
+      "url": "https://litbuy.com/product/weidian/698789407441?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/698789407441?inviteCode=29TOTHGNH"
+    }
+  ],
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "9$ / 33$",
+  "budget_price": "",
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1938576658963415044?action=discord&type=3&cid=1942512167859859457"
+    }
+  ],
+  "notes": "",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzwcQyLmdGq23kPTBx_nAHY8Ztj46BcQxOiVtfRjcsYlVpRp8wu2a4XolI91iDH77vO6PKbAGfR4uiC9KCFk6ZYiw7OFGrDYjjO1uN56VqhMfGVYrNFqJj3lfQv_pE99lu6kSQzI143Dh5c=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "room_accessories_1693",
+  "raw_cells": {
+    "col_0": {
+      "text": "51"
+    },
+    "col_1": {
+      "text": "8 BallCarpet"
+    },
+    "col_2": {
+      "text": "",
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzwcQyLmdGq23kPTBx_nAHY8Ztj46BcQxOiVtfRjcsYlVpRp8wu2a4XolI91iDH77vO6PKbAGfR4uiC9KCFk6ZYiw7OFGrDYjjO1uN56VqhMfGVYrNFqJj3lfQv_pE99lu6kSQzI143Dh5c=w143-h110"
+    },
+    "col_3": {
+      "text": "here",
+      "links": [
+        {
+          "label": "here",
+          "url": "https://oopbuy.com/product/1/698789407441?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_5": {
+      "text": "9$ / 33$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1938576658963415044?action=discord&type=3&cid=1942512167859859457"
+        }
+      ]
+    }
+  }
+}

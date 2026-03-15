@@ -1,30 +1,30 @@
 {
-  "name": "MertraGlitch Camouflage Hoodie",
+  "name": "MertraGingham Shirt",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "pengreps",
   "best_batch_links": [
     {
       "label": "pengreps",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7475243704%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7475243704?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7512716331?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7512716331?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "budget",
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F947784824668%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/947784824668?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/0/947784824668?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "32$",
-  "budget_price": "23$",
+  "best_price": "20$",
+  "budget_price": "15$",
   "pics_text": "pengreps/budget",
   "pics_links": [
     {
       "label": "pengreps",
-      "url": "https://pengreps.x.yupoo.com/albums/196583906?uid=1"
+      "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7512716331"
     },
     {
       "label": "budget",
@@ -32,24 +32,26 @@
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwBV5fYpoqVKC6_UzrHIu9HU6j8ntvHZp_DielX5mLqMCAo_tGyUsID9QcyM_Ow3ewrcdGeG98WMdjrNp89DXw70Q1ltaWp1LOTo8E1QT2noMI-zjWafAZK84To4923gqzUYn9AFHQ=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXVCy3u2kqgTHAXvA9_njRRTODTDaE6p5SEPkQZVW0E-jFu6gbISKZFqU3-QrpWCc2VVIfhLNjXLn-0dTKapIztWFIp2Qb_O9BTjfGxPRgQiTj4mP0ykpBaa2ORiII-wFjOzOG38AOfJfu=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1078",
   "raw_cells": {
     "col_0": {
-      "text": "629"
+      "text": "625"
     },
     "col_1": {
-      "text": "MertraGlitch Camouflage Hoodie"
+      "text": "MertraGingham Shirt"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwBV5fYpoqVKC6_UzrHIu9HU6j8ntvHZp_DielX5mLqMCAo_tGyUsID9QcyM_Ow3ewrcdGeG98WMdjrNp89DXw70Q1ltaWp1LOTo8E1QT2noMI-zjWafAZK84To4923gqzUYn9AFHQ=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXVCy3u2kqgTHAXvA9_njRRTODTDaE6p5SEPkQZVW0E-jFu6gbISKZFqU3-QrpWCc2VVIfhLNjXLn-0dTKapIztWFIp2Qb_O9BTjfGxPRgQiTj4mP0ykpBaa2ORiII-wFjOzOG38AOfJfu=w143-h110"
     },
     "col_3": {
       "text": "pengreps",
       "links": [
         {
           "label": "pengreps",
-          "url": "https://oopbuy.com/product/weidian/7475243704?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7512716331?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -63,17 +65,17 @@
       ]
     },
     "col_5": {
-      "text": "32$"
+      "text": "20$"
     },
     "col_6": {
-      "text": "23$"
+      "text": "15$"
     },
     "col_7": {
       "text": "pengreps/budget",
       "links": [
         {
           "label": "pengreps",
-          "url": "https://pengreps.x.yupoo.com/albums/196583906?uid=1"
+          "url": "https://pengreps.x.yupoo.com/search/album?uid=1&sort=&q=7512716331"
         },
         {
           "label": "budget",
@@ -81,7 +83,5 @@
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1078"
+  }
 }

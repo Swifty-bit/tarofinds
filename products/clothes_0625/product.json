@@ -1,61 +1,90 @@
 {
-  "name": "Ralph Lauren FW24Sweatpants4 Colors",
+  "name": "Ralph LaurenHalf-Zip Sweater",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Repkingdom",
   "best_batch_links": [
     {
       "label": "Repkingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F7289350360%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/7289350360?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/taobao/7228003240?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/2/7228003240?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "27$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "CloudShop",
+  "budget_batch_links": [
+    {
+      "label": "CloudShop",
+      "url": "https://litbuy.com/product/weidian/1021765464004?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/1021765464004?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "34$",
+  "budget_price": "22$",
+  "pics_text": "best/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://repkingdom.x.yupoo.com/albums/177690045?uid=1&isSubCate=false&referrercate=4373091"
+      "label": "best",
+      "url": "https://repkingdom.x.yupoo.com/albums/155985808?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1890204541917433858?action=discord&cid=1840597081113280514"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzmccXEi_Ygo8HO2HfNUS_pAXrV7a-FKdIMy_nTaIm09cWz6dYAEwvvuUbGGvkdy76SBUv9IOB-u7AgeF1MFj6ulzDuDZbzqReAz0RV_XEs2TXP5m6ASUmqiCMucAvUK_d5mfszkZk27yZc=w143-h110",
+  "notes": "90% Wool, 10% Cashmere",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Awv7ilrbtAFD0JEnTFWGBAZz0zyIcfcUjbF4N1OIDdQR6Ll2AWCOkEjZA8h3Wc3pJVWiWppA7R24IsIqULJfS9kONup50v7z2T5P0BjuSrDBI-EHgU-OpaUJo-kTRTQw7W8O0ou-xfnpLdI=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0625",
   "raw_cells": {
     "col_0": {
-      "text": "96"
+      "text": "92"
     },
     "col_1": {
-      "text": "Ralph Lauren FW24Sweatpants4 Colors"
+      "text": "Ralph LaurenHalf-Zip Sweater"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzmccXEi_Ygo8HO2HfNUS_pAXrV7a-FKdIMy_nTaIm09cWz6dYAEwvvuUbGGvkdy76SBUv9IOB-u7AgeF1MFj6ulzDuDZbzqReAz0RV_XEs2TXP5m6ASUmqiCMucAvUK_d5mfszkZk27yZc=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Awv7ilrbtAFD0JEnTFWGBAZz0zyIcfcUjbF4N1OIDdQR6Ll2AWCOkEjZA8h3Wc3pJVWiWppA7R24IsIqULJfS9kONup50v7z2T5P0BjuSrDBI-EHgU-OpaUJo-kTRTQw7W8O0ou-xfnpLdI=w143-h110"
     },
     "col_3": {
       "text": "Repkingdom",
       "links": [
         {
           "label": "Repkingdom",
-          "url": "https://www.oopbuy.com/product/weidian/7289350360?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/2/7228003240?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "CloudShop",
+      "links": [
+        {
+          "label": "CloudShop",
+          "url": "https://oopbuy.com/product/1/1021765464004?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "27$"
+      "text": "34$"
+    },
+    "col_6": {
+      "text": "22$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "best/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://repkingdom.x.yupoo.com/albums/177690045?uid=1&isSubCate=false&referrercate=4373091"
+          "label": "best",
+          "url": "https://repkingdom.x.yupoo.com/albums/155985808?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1890204541917433858?action=discord&cid=1840597081113280514"
         }
       ]
+    },
+    "col_8": {
+      "text": "90% Wool, 10% Cashmere"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0625"
+  }
 }

@@ -1,65 +1,65 @@
 {
-  "name": "Dior B44",
+  "name": "Dior B30xStone Island",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "Koala",
+  "best_batch": "ZZZTOPXX",
   "best_batch_links": [
     {
-      "label": "Koala",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7551264107%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7551264107?inviteCode=29TOTHGNH"
+      "label": "ZZZTOPXX",
+      "url": "https://litbuy.com/product/weidian/7318762459?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7318762459?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
+  "budget_batch": "GD",
   "budget_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F851580958843%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/851580958843?inviteCode=29TOTHGNH"
+      "label": "GD",
+      "url": "https://litbuy.com/product/weidian/7428565352?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "91$",
-  "budget_price": "60$",
-  "pics_text": "60$",
+  "best_price": "100$",
+  "budget_price": "52$",
+  "pics_text": "52$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aynxm95UgRnwtcytKLXo6f3pfV74vwyt54FA0AsaRQvi8Pvjcb8E82FMMdnT8iMkopXC9Zv6Bae-ctj8-0Lxa-n-uBGdpv3XE2U8_QVs5Plk2bFeiivhRx5JLYTMzW-lHRnCK8v3SNtwfYi=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwtZ0F6nUorchosjhOxHB-n37zNlVrdc6TaHRrbELMquM7qtPdOBMKjb3iciLWr8QWlJueDpqzuARyC13G_zbpAPcT6W3zJJVY1fIgB_T8Fg98wtvv5bNzmCZXODWx68yrHnz6ExSFXVUte=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0418",
   "raw_cells": {
     "col_0": {
       "text": "475"
     },
     "col_1": {
-      "text": "Dior B44"
+      "text": "Dior B30xStone Island"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aynxm95UgRnwtcytKLXo6f3pfV74vwyt54FA0AsaRQvi8Pvjcb8E82FMMdnT8iMkopXC9Zv6Bae-ctj8-0Lxa-n-uBGdpv3XE2U8_QVs5Plk2bFeiivhRx5JLYTMzW-lHRnCK8v3SNtwfYi=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwtZ0F6nUorchosjhOxHB-n37zNlVrdc6TaHRrbELMquM7qtPdOBMKjb3iciLWr8QWlJueDpqzuARyC13G_zbpAPcT6W3zJJVY1fIgB_T8Fg98wtvv5bNzmCZXODWx68yrHnz6ExSFXVUte=w143-h110"
     },
     "col_3": {
-      "text": "Koala",
+      "text": "ZZZTOPXX",
       "links": [
         {
-          "label": "Koala",
-          "url": "https://oopbuy.com/product/weidian/7551264107?inviteCode=29TOTHGNH"
+          "label": "ZZZTOPXX",
+          "url": "https://oopbuy.com/product/weidian/7318762459?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_4": {
-      "text": "budget",
+      "text": "GD",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/851580958843?inviteCode=29TOTHGNH"
+          "label": "GD",
+          "url": "https://oopbuy.com/product/weidian/7428565352?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "91$"
+      "text": "100$"
     },
     "col_6": {
-      "text": "60$"
+      "text": "52$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0418"
+  }
 }

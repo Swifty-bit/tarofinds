@@ -1,69 +1,61 @@
 {
-  "name": "Padded Down Jacket",
+  "name": "Detachable Hood Wool Cardigan",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "RepsKing",
   "best_batch_links": [
     {
       "label": "RepsKing",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7469724842%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7469724842?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/7564548065?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564548065?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "71$",
+  "best_price": "77$",
   "budget_price": "",
-  "pics_text": "QC Pics/pics",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1930429384345882626?action=discord&cid=1840597081113280514"
-    },
-    {
       "label": "pics",
-      "url": "https://repsking.x.yupoo.com/albums/163327887?uid=1"
+      "url": "https://repsking.x.yupoo.com/albums/163327220?uid=1&isSubCate=false&referrercate=4544590"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxWrCgXaOML02QWZIn1ZOpnq_3faonf3SBEOWV4nYEdvVGUIXv0wdJwfh20_U-OdoJ6V-hEQ_Ydkqh3m80StM5uktEn5mktO151j9AgEGLf_cNSkKe9EFE112PUxAiPw-pQ8GhFFLBbJjZG=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwbiPFxXKh0j3-4yHHPRh1MzyHOHO4HShzEddxYQl9SZaU8hx6Ec7pmewDT-av1lrE7eTy3PGYPRlAdsBoxouCYVGiJxlIDpDyH1zwK-t5M14Pg5M6_MRolj5LfKkPi87yfzDzwN-SU19mp=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0802",
   "raw_cells": {
     "col_0": {
-      "text": "297"
+      "text": "293"
     },
     "col_1": {
-      "text": "Padded Down Jacket"
+      "text": "Detachable Hood Wool Cardigan"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxWrCgXaOML02QWZIn1ZOpnq_3faonf3SBEOWV4nYEdvVGUIXv0wdJwfh20_U-OdoJ6V-hEQ_Ydkqh3m80StM5uktEn5mktO151j9AgEGLf_cNSkKe9EFE112PUxAiPw-pQ8GhFFLBbJjZG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwbiPFxXKh0j3-4yHHPRh1MzyHOHO4HShzEddxYQl9SZaU8hx6Ec7pmewDT-av1lrE7eTy3PGYPRlAdsBoxouCYVGiJxlIDpDyH1zwK-t5M14Pg5M6_MRolj5LfKkPi87yfzDzwN-SU19mp=w143-h110"
     },
     "col_3": {
       "text": "RepsKing",
       "links": [
         {
           "label": "RepsKing",
-          "url": "https://oopbuy.com/product/weidian/7469724842?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/weidian/7564548065?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "71$"
+      "text": "77$"
     },
     "col_7": {
-      "text": "QC Pics/pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1930429384345882626?action=discord&cid=1840597081113280514"
-        },
-        {
           "label": "pics",
-          "url": "https://repsking.x.yupoo.com/albums/163327887?uid=1"
+          "url": "https://repsking.x.yupoo.com/albums/163327220?uid=1&isSubCate=false&referrercate=4544590"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0802"
+  }
 }

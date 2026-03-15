@@ -1,61 +1,87 @@
 {
-  "name": "Stussy Mask",
+  "name": "Nike x StussySweatpants",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
+  "best_batch": "NEWDP",
   "best_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7592335610%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7592335610?inviteCode=29TOTHGNH"
+      "label": "NEWDP",
+      "url": "https://litbuy.com/product/weidian/7595061507?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7595061507?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "6$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/4525408735?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/4525408735?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "23$",
+  "budget_price": "18$",
+  "pics_text": "NEWDP/budget",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://noghost.x.yupoo.com/albums/150869980?uid=1"
+      "label": "NEWDP",
+      "url": "https://newdp.x.yupoo.com/albums/177083346?uid=1"
+    },
+    {
+      "label": "budget",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1923906771351552002?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AylEO0jmRNvhk7sQokOHIe0jfCS6xwz0jxJ7mIuCFadoUoDHM0W48yFHdWC7uTrqSrUaHBV-heaCQLly2oFYyO6lf41P3ZYY_TQBL3MowNT0gJagq30E4352gQEc7A_k1EfsCb3F8VXDH6G=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az4CXwBrBWkNXdrPJa9Jof4tqXuSHAAuqOT7eshquxfwscXSkv-niVD1CsCL2Tn9X2dQHsu0oYBNMzLbCf_2eyGzCw_Lv6OlwN53zOLGKpAeTBm-u7JDyB4OKY60Xx7tArNyEpMB5Yqx-_J=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0583",
   "raw_cells": {
     "col_0": {
-      "text": "52"
+      "text": "46"
     },
     "col_1": {
-      "text": "Stussy Mask"
+      "text": "Nike x StussySweatpants"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AylEO0jmRNvhk7sQokOHIe0jfCS6xwz0jxJ7mIuCFadoUoDHM0W48yFHdWC7uTrqSrUaHBV-heaCQLly2oFYyO6lf41P3ZYY_TQBL3MowNT0gJagq30E4352gQEc7A_k1EfsCb3F8VXDH6G=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az4CXwBrBWkNXdrPJa9Jof4tqXuSHAAuqOT7eshquxfwscXSkv-niVD1CsCL2Tn9X2dQHsu0oYBNMzLbCf_2eyGzCw_Lv6OlwN53zOLGKpAeTBm-u7JDyB4OKY60Xx7tArNyEpMB5Yqx-_J=w143-h110"
     },
     "col_3": {
-      "text": "DRAGONREP",
+      "text": "NEWDP",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7592335610?inviteCode=29TOTHGNH"
+          "label": "NEWDP",
+          "url": "https://oopbuy.com/product/weidian/7595061507?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/weidian/4525408735?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "6$"
+      "text": "23$"
+    },
+    "col_6": {
+      "text": "18$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "NEWDP/budget",
       "links": [
         {
-          "label": "pics",
-          "url": "https://noghost.x.yupoo.com/albums/150869980?uid=1"
+          "label": "NEWDP",
+          "url": "https://newdp.x.yupoo.com/albums/177083346?uid=1"
+        },
+        {
+          "label": "budget",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1923906771351552002?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0583"
+  }
 }

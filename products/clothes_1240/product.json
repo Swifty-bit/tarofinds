@@ -1,61 +1,61 @@
 {
-  "name": "ZaraFlared Jeans3 Colors",
+  "name": "KsubiRipped Jeans",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "ZABA",
-  "budget_batch_links": [
+  "best_batch": "Bigd",
+  "best_batch_links": [
     {
-      "label": "ZABA",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F908665888932%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/908665888932?inviteCode=29TOTHGNH"
+      "label": "Bigd",
+      "url": "https://litbuy.com/product/weidian/742865001303?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/742865001303?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "18$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "40$",
+  "budget_price": "",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/2001479149410144258?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1910290834996670465?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzY018Atr1HBalBqEQQjW2tNYYt7iOesK8YxM4zLcZkLzEBqPMJREfaInNw9Xhtiu8IugQujmnZuW_FnZEXqOU1EqgBEbYGgmt93e_1IvPpeuHIyu2sm8qWUcHKkFHmqqi7d30MuK0JpC-H=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwDrCGceEN7muYO9KM_c7Re4HJe4pdbrcFkd6kVozIpA_D0EDnSDchUwmt2LsK441Xu5zi3DLxAo7np037qc4kk6rY0lGer_zZDvVQ6wX0bT0N8pfSamfh2Vbh3YTPNXazkanjpWUPr8hKX=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1240",
   "raw_cells": {
     "col_0": {
-      "text": "823"
+      "text": "817"
     },
     "col_1": {
-      "text": "ZaraFlared Jeans3 Colors"
+      "text": "KsubiRipped Jeans"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzY018Atr1HBalBqEQQjW2tNYYt7iOesK8YxM4zLcZkLzEBqPMJREfaInNw9Xhtiu8IugQujmnZuW_FnZEXqOU1EqgBEbYGgmt93e_1IvPpeuHIyu2sm8qWUcHKkFHmqqi7d30MuK0JpC-H=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwDrCGceEN7muYO9KM_c7Re4HJe4pdbrcFkd6kVozIpA_D0EDnSDchUwmt2LsK441Xu5zi3DLxAo7np037qc4kk6rY0lGer_zZDvVQ6wX0bT0N8pfSamfh2Vbh3YTPNXazkanjpWUPr8hKX=w143-h110"
     },
-    "col_4": {
-      "text": "ZABA",
+    "col_3": {
+      "text": "Bigd",
       "links": [
         {
-          "label": "ZABA",
-          "url": "https://oopbuy.com/product/1/908665888932?inviteCode=29TOTHGNH"
+          "label": "Bigd",
+          "url": "https://www.oopbuy.com/product/1/742865001303?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "18$"
+    "col_5": {
+      "text": "40$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/2001479149410144258?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1910290834996670465?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1240"
+  }
 }

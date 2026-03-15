@@ -1,61 +1,61 @@
 {
-  "name": "Yeezy Gap HoodieBalenciaga Dove",
+  "name": "Ralph LaurenBeanieMany colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Bound2",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "Bound2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F683748985499%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/683748985499?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/813112310932?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/813112310932?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "76$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "2$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1986257790663991298?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1920646268936306689?action=discord&cid=1840597081113280514"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax8UOZs-ns14k6bO2wnHrYPYe9Zyud5FL8wy_dWRiPJBBtSmBn_aAveREAeFxxIhOMXRV2hBpbXFR7kzoNAZNR3R-cyJbiCrusQss4JAUng5MMWVLo_N7H3uGg-DFie4kJyNAvSys67GEae=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax29XBhY4y7Oxqhv1_ZWUFIrX_iSHkizzdp146fX5AM9g6XjzeLisMzIk6-7Lmb1pN_hmVgSo3XTBI-Dclb5ZYaNNs-T88nQjW2L8ahVcPlvv6G6US6X7NpLcL00q2uuoZ6FHk7E-yqUtK5=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0644",
   "raw_cells": {
     "col_0": {
-      "text": "117"
+      "text": "111"
     },
     "col_1": {
-      "text": "Yeezy Gap HoodieBalenciaga Dove"
+      "text": "Ralph LaurenBeanieMany colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax8UOZs-ns14k6bO2wnHrYPYe9Zyud5FL8wy_dWRiPJBBtSmBn_aAveREAeFxxIhOMXRV2hBpbXFR7kzoNAZNR3R-cyJbiCrusQss4JAUng5MMWVLo_N7H3uGg-DFie4kJyNAvSys67GEae=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax29XBhY4y7Oxqhv1_ZWUFIrX_iSHkizzdp146fX5AM9g6XjzeLisMzIk6-7Lmb1pN_hmVgSo3XTBI-Dclb5ZYaNNs-T88nQjW2L8ahVcPlvv6G6US6X7NpLcL00q2uuoZ6FHk7E-yqUtK5=w143-h110"
     },
-    "col_3": {
-      "text": "Bound2",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "Bound2",
-          "url": "https://oopbuy.com/product/1/683748985499?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/813112310932?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "76$"
+    "col_6": {
+      "text": "2$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1986257790663991298?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1920646268936306689?action=discord&cid=1840597081113280514"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0644"
+  }
 }

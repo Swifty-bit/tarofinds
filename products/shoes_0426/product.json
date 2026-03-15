@@ -1,74 +1,47 @@
 {
-  "name": "Triple S",
+  "name": "Track 2.0",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "GOOD/GOOD",
+  "best_batch": "OK",
   "best_batch_links": [
     {
-      "label": "GOOD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7565918820%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565918820?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "GOOD",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7327022405%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7327022405?inviteCode=29TOTHGNH"
+      "label": "OK",
+      "url": "https://litbuy.com/product/weidian/5782664724?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/5782664724?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "budget",
-  "budget_batch_links": [
-    {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F3111674330%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/3111674330?inviteCode=29TOTHGNH"
-    }
-  ],
-  "best_price": "56$",
-  "budget_price": "42$",
-  "pics_text": "42$",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "76$",
+  "budget_price": "",
+  "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwQtVGrCY72PKusVIWuD6PCVgAlqipw3uA5HcHPmuiyLMxC_cX7x8aVgZr3hJ4G_YdITIA_GuDDQMQXt6LE74YLO7KU2yH_dBxOrj41-n41B8W3NOZnGV9W0BVsAOmhxj5EwUXAiXqc8w=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxfLY_1huISgpQA6x__it-GZUXSfHV_BBpe5h9HUODdetCylks5mibeSsKbyuvQqFcqbUnurn-t_vlg1hPYMU2PjsQqLdjPuccWypgqJhoWo4_0z8A9Lw4s0s25DVgwgUoHcmgYujc=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0426",
   "raw_cells": {
     "col_0": {
       "text": "485"
     },
     "col_1": {
-      "text": "Triple S"
+      "text": "Track 2.0"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwQtVGrCY72PKusVIWuD6PCVgAlqipw3uA5HcHPmuiyLMxC_cX7x8aVgZr3hJ4G_YdITIA_GuDDQMQXt6LE74YLO7KU2yH_dBxOrj41-n41B8W3NOZnGV9W0BVsAOmhxj5EwUXAiXqc8w=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxfLY_1huISgpQA6x__it-GZUXSfHV_BBpe5h9HUODdetCylks5mibeSsKbyuvQqFcqbUnurn-t_vlg1hPYMU2PjsQqLdjPuccWypgqJhoWo4_0z8A9Lw4s0s25DVgwgUoHcmgYujc=w143-h110"
     },
     "col_3": {
-      "text": "GOOD/GOOD",
+      "text": "OK",
       "links": [
         {
-          "label": "GOOD",
-          "url": "https://oopbuy.com/product/weidian/7565918820?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "GOOD",
-          "url": "https://oopbuy.com/product/weidian/7327022405?inviteCode=29TOTHGNH"
-        }
-      ]
-    },
-    "col_4": {
-      "text": "budget",
-      "links": [
-        {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/2/3111674330?inviteCode=29TOTHGNH"
+          "label": "OK",
+          "url": "https://oopbuy.com/product/weidian/5782664724?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "56$"
-    },
-    "col_6": {
-      "text": "42$"
+      "text": "76$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0426"
+  }
 }

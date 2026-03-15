@@ -1,5 +1,5 @@
 {
-  "name": "Louis VuittonMini PleatyDenim Blue",
+  "name": "Louis VuittonTrio Messenger3 Colors",
   "category": "Wallets/Bags",
   "subcategory": "",
   "best_batch": "",
@@ -8,54 +8,54 @@
   "budget_batch_links": [
     {
       "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F923400141814%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/923400141814?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/641473683879?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/641473683879?inviteCode=29TOTHGNH"
     }
   ],
   "best_price": "",
-  "budget_price": "28$",
+  "budget_price": "7$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1996044749197365249?action=discord&type=1&cid=1942512167859859457"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1973574714359635969?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxXllqvl1LycUNd3yHyq6DnvFsphO_0Izzhu2xz3-1-C5V-sCFDNjaMehqx0xFwfwFI-0h3foGts7ViaIa4spPzaRbarGVgyKwToXH2iMm-yqSVw9D2GXMocPbyB9_zaGfGUS1UlC79Z6Jk=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzEeqUz58arvFfHzE6_NW3i5mtnn05-I3i4OfHA_lTG9uQoKyMUnArI3ugO_y0I3T8JuQTov8c3xdafm4R9zdGAmOWbbrs0_tLRIe73n52rbWYplKLGtCl6D3Ei1iBdrTk_UcPiH8-F2g=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "walletsbags_1513",
   "raw_cells": {
     "col_0": {
-      "text": "19"
+      "text": "15"
     },
     "col_1": {
-      "text": "Louis VuittonMini PleatyDenim Blue"
+      "text": "Louis VuittonTrio Messenger3 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxXllqvl1LycUNd3yHyq6DnvFsphO_0Izzhu2xz3-1-C5V-sCFDNjaMehqx0xFwfwFI-0h3foGts7ViaIa4spPzaRbarGVgyKwToXH2iMm-yqSVw9D2GXMocPbyB9_zaGfGUS1UlC79Z6Jk=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzEeqUz58arvFfHzE6_NW3i5mtnn05-I3i4OfHA_lTG9uQoKyMUnArI3ugO_y0I3T8JuQTov8c3xdafm4R9zdGAmOWbbrs0_tLRIe73n52rbWYplKLGtCl6D3Ei1iBdrTk_UcPiH8-F2g=w143-h110"
     },
     "col_4": {
       "text": "budget",
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/923400141814?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/0/641473683879?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_6": {
-      "text": "28$"
+      "text": "7$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1996044749197365249?action=discord&type=1&cid=1942512167859859457"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1973574714359635969?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "walletsbags_1513"
+  }
 }

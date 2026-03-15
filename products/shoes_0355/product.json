@@ -1,47 +1,47 @@
 {
-  "name": "990v3",
+  "name": "1906R",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "ZC",
+  "best_batch": "M",
   "best_batch_links": [
     {
-      "label": "ZC",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F2%2F7244707783%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7244707783?inviteCode=29TOTHGNH"
+      "label": "M",
+      "url": "https://litbuy.com/product/weidian/7564014899?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564014899?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "44$",
+  "best_price": "41$",
   "budget_price": "",
   "pics_text": "",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyE6Mc-HC-17PGZFwVB7xh3QznlaHWyJBSPC6_KmNd81w6bAis6fGmOFbZnubz8jCR75osD4EEo2G44xoTXUpOjcGiE7c4P65YtFyLWN0vNEUAhaiFf-HkEO4WpFjkXrfCrrFEWdLgKlQ-1=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxK3IsNguciDh_bY3rujm0GWPpXsNBSzAi67JiqaCgN5kWpC2BHyFRaRCQpbaiVANpk5cnfKjwMdqTAUkPMuwOUQ4yU9eud5DXpxl0F2Yi3GobrXREW0MJ5AZQiO_o3Wzj_uiDiYnNXJKs0=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0355",
   "raw_cells": {
     "col_0": {
       "text": "388"
     },
     "col_1": {
-      "text": "990v3"
+      "text": "1906R"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyE6Mc-HC-17PGZFwVB7xh3QznlaHWyJBSPC6_KmNd81w6bAis6fGmOFbZnubz8jCR75osD4EEo2G44xoTXUpOjcGiE7c4P65YtFyLWN0vNEUAhaiFf-HkEO4WpFjkXrfCrrFEWdLgKlQ-1=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxK3IsNguciDh_bY3rujm0GWPpXsNBSzAi67JiqaCgN5kWpC2BHyFRaRCQpbaiVANpk5cnfKjwMdqTAUkPMuwOUQ4yU9eud5DXpxl0F2Yi3GobrXREW0MJ5AZQiO_o3Wzj_uiDiYnNXJKs0=w143-h110"
     },
     "col_3": {
-      "text": "ZC",
+      "text": "M",
       "links": [
         {
-          "label": "ZC",
-          "url": "https://oopbuy.com/product/2/7244707783?inviteCode=29TOTHGNH"
+          "label": "M",
+          "url": "https://oopbuy.com/product/weidian/7564014899?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "44$"
+      "text": "41$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0355"
+  }
 }

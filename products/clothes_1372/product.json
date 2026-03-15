@@ -1,20 +1,20 @@
 {
-  "name": "Eric EmanuelCamo Shorts3 Colours",
+  "name": "Eric EmanuelSkyline ShortsBlack / White",
   "category": "Clothes",
   "subcategory": "",
   "best_batch": "Angelking",
   "best_batch_links": [
     {
       "label": "Angelking",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F792718020125%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/792582054745?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "UnionKingdom",
   "budget_batch_links": [
     {
       "label": "UnionKingdom",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F800235190860%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
+      "url": "https://litbuy.com/product/weidian/800235190860?inviteCode=REPTARO",
       "original_url": "https://oopbuy.com/product/1/800235190860?inviteCode=29TOTHGNH"
     }
   ],
@@ -24,28 +24,30 @@
   "pics_links": [
     {
       "label": "pics",
-      "url": "https://angelking47.x.yupoo.com/albums/140237688?uid=1"
+      "url": "https://angelking47.x.yupoo.com/albums/113920032?uid=1"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwZg9IRmbA8erxxTJfVMfUcbSu1C4fev-bmCjop61eJXJMHzrV1Cb-LAsC5a30gvxRNk4M7_u8rLnkEFGfnpm3HyFN6MD1pfarACVfOTrK9Xx1GrsNS0uN9xvvMq0LSaAwgkAyvQrdL1n_Y=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axjlyeemx1OYiFaQoxueBfu9mixJn2zho6CLYKqt6J0MV8Rui95n3tB70ds4iePsLooFch5lziRDY-UpvY07PmNSsML6XyDDcJXfftq9y9jwuzUlog5WbrXukqIf3Fe_zVO9qHF9NqqIp48=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1372",
   "raw_cells": {
     "col_0": {
-      "text": "973"
+      "text": "969"
     },
     "col_1": {
-      "text": "Eric EmanuelCamo Shorts3 Colours"
+      "text": "Eric EmanuelSkyline ShortsBlack / White"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwZg9IRmbA8erxxTJfVMfUcbSu1C4fev-bmCjop61eJXJMHzrV1Cb-LAsC5a30gvxRNk4M7_u8rLnkEFGfnpm3HyFN6MD1pfarACVfOTrK9Xx1GrsNS0uN9xvvMq0LSaAwgkAyvQrdL1n_Y=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axjlyeemx1OYiFaQoxueBfu9mixJn2zho6CLYKqt6J0MV8Rui95n3tB70ds4iePsLooFch5lziRDY-UpvY07PmNSsML6XyDDcJXfftq9y9jwuzUlog5WbrXukqIf3Fe_zVO9qHF9NqqIp48=w143-h110"
     },
     "col_3": {
       "text": "Angelking",
       "links": [
         {
           "label": "Angelking",
-          "url": "https://oopbuy.com/product/1/792718020125?inviteCode=29TOTHGNH"
+          "url": "https://oopbuy.com/product/1/792582054745?inviteCode=29TOTHGNH"
         }
       ]
     },
@@ -69,11 +71,9 @@
       "links": [
         {
           "label": "pics",
-          "url": "https://angelking47.x.yupoo.com/albums/140237688?uid=1"
+          "url": "https://angelking47.x.yupoo.com/albums/113920032?uid=1"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1372"
+  }
 }

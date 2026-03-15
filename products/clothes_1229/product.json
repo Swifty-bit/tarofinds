@@ -1,56 +1,61 @@
 {
-  "name": "True ReligionWOMANJeansMany Styles",
+  "name": "True ReligionZipped HoodieMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "TR/TR",
+  "best_batch": "TR",
   "best_batch_links": [
     {
       "label": "TR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F835707715938%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/835707715938?inviteCode=29TOTHGNH"
-    },
-    {
-      "label": "TR",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F842720459113%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/842720459113?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/770079816140?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/1/770079816140?inviteCode=29TOTHGNH"
     }
   ],
   "budget_batch": "",
   "budget_batch_links": [],
-  "best_price": "25$",
+  "best_price": "30$",
   "budget_price": "",
-  "pics_text": "",
-  "pics_links": [],
+  "pics_text": "QC Pics",
+  "pics_links": [
+    {
+      "label": "QC Pics",
+      "url": "https://finds.ly/product/TAOBAO/770079816140"
+    }
+  ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ayu2_15P4jO10DoaztOcVWagjWznLt_iv1i2MicdB_fG3KPZhrgxxWmMaPt703HN_-YKKsBK9abBIVQG7qSdoitgLTxFC3eejw7KVK1w_wqG6eE_T_tuwCIqtqUBbwcvSQW49ytj3410w2n=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzZDJsHG2vztLz7Ud_f0mHq1EeholGqgumSVR-5HceorMlLZzaL23NA2OS-kqBU4KQW5-Oy_0g0o0azmFaqSmAXsFt7vsI1sIwRRWoi_ng-6yzgx70f638HIz_GM-4PNdFhb99K1Ntf29i2=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1229",
   "raw_cells": {
     "col_0": {
-      "text": "806"
+      "text": "802"
     },
     "col_1": {
-      "text": "True ReligionWOMANJeansMany Styles"
+      "text": "True ReligionZipped HoodieMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ayu2_15P4jO10DoaztOcVWagjWznLt_iv1i2MicdB_fG3KPZhrgxxWmMaPt703HN_-YKKsBK9abBIVQG7qSdoitgLTxFC3eejw7KVK1w_wqG6eE_T_tuwCIqtqUBbwcvSQW49ytj3410w2n=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzZDJsHG2vztLz7Ud_f0mHq1EeholGqgumSVR-5HceorMlLZzaL23NA2OS-kqBU4KQW5-Oy_0g0o0azmFaqSmAXsFt7vsI1sIwRRWoi_ng-6yzgx70f638HIz_GM-4PNdFhb99K1Ntf29i2=w143-h110"
     },
     "col_3": {
-      "text": "TR/TR",
+      "text": "TR",
       "links": [
         {
           "label": "TR",
-          "url": "https://www.oopbuy.com/product/1/835707715938?inviteCode=29TOTHGNH"
-        },
-        {
-          "label": "TR",
-          "url": "https://www.oopbuy.com/product/1/842720459113?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/1/770079816140?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "25$"
+      "text": "30$"
+    },
+    "col_7": {
+      "text": "QC Pics",
+      "links": [
+        {
+          "label": "QC Pics",
+          "url": "https://finds.ly/product/TAOBAO/770079816140"
+        }
+      ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1229"
+  }
 }

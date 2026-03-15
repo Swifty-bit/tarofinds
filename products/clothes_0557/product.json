@@ -1,61 +1,64 @@
 {
-  "name": "Nike TechReflectiveLight Grey",
+  "name": "Nike TechTF2022 BlackRegular / Relaxed",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "",
-  "best_batch_links": [],
-  "budget_batch": "budget",
-  "budget_batch_links": [
+  "best_batch": "DRAGONREP",
+  "best_batch_links": [
     {
-      "label": "budget",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F0%2F860250553214%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/860250553214?inviteCode=29TOTHGNH"
+      "label": "DRAGONREP",
+      "url": "https://litbuy.com/product/weidian/884691487871?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/884691487871?inviteCode=29TOTHGNH"
     }
   ],
-  "best_price": "",
-  "budget_price": "31$(SET)",
-  "pics_text": "QC Pics",
+  "budget_batch": "",
+  "budget_batch_links": [],
+  "best_price": "70$(SET)",
+  "budget_price": "",
+  "pics_text": "pics",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+      "label": "pics",
+      "url": "https://noghost.x.yupoo.com/albums/179461183?uid=1"
     }
   ],
-  "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxVcoMQm8dL-iXibh0VM0SKTgI-PIFN30y2iuT6X3a7WljuDCX9pZohi3BSARsDOT-8DlwByL2JAZMnEiL53wrC8jEKD816JgOE21bQLF4sfwW-cf7ISNA8Ec7b6anGprObvL-9d_dK1AwG=w143-h110",
+  "notes": "set 70$ - hoodie 35$ - pants 35$",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Axb7F8rHtY1_X8atk7p29GFu9nAZ5gDPNUxykWMmtGjCd2mlOyc1Z0a3Ye4mOQrOCXE7Wqrhwj1_DjRDBpNfmj5-7cW1s8IPG-ze91_oK57xRuFe5pEIDlp1SdghssOc_-gdVUSw1L7qA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0557",
   "raw_cells": {
     "col_0": {
-      "text": "22"
+      "text": "18"
     },
     "col_1": {
-      "text": "Nike TechReflectiveLight Grey"
+      "text": "Nike TechTF2022 BlackRegular / Relaxed"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxVcoMQm8dL-iXibh0VM0SKTgI-PIFN30y2iuT6X3a7WljuDCX9pZohi3BSARsDOT-8DlwByL2JAZMnEiL53wrC8jEKD816JgOE21bQLF4sfwW-cf7ISNA8Ec7b6anGprObvL-9d_dK1AwG=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Axb7F8rHtY1_X8atk7p29GFu9nAZ5gDPNUxykWMmtGjCd2mlOyc1Z0a3Ye4mOQrOCXE7Wqrhwj1_DjRDBpNfmj5-7cW1s8IPG-ze91_oK57xRuFe5pEIDlp1SdghssOc_-gdVUSw1L7qA=w143-h110"
     },
-    "col_4": {
-      "text": "budget",
+    "col_3": {
+      "text": "DRAGONREP",
       "links": [
         {
-          "label": "budget",
-          "url": "https://oopbuy.com/product/0/860250553214?inviteCode=29TOTHGNH"
+          "label": "DRAGONREP",
+          "url": "https://oopbuy.com/product/1/884691487871?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_6": {
-      "text": "31$(SET)"
+    "col_5": {
+      "text": "70$(SET)"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "pics",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1959058829351673857?action=discord&type=1&cid=1942512167859859457"
+          "label": "pics",
+          "url": "https://noghost.x.yupoo.com/albums/179461183?uid=1"
         }
       ]
+    },
+    "col_8": {
+      "text": "set 70$ - hoodie 35$ - pants 35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0557"
+  }
 }

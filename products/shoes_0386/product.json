@@ -1,47 +1,65 @@
 {
-  "name": "ValentinoGaravani Open",
+  "name": "Alexander McQueen",
   "category": "Shoes",
   "subcategory": "",
-  "best_batch": "best",
+  "best_batch": "Koala",
   "best_batch_links": [
     {
-      "label": "best",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2F1%2F805829529060%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/805829529060?inviteCode=29TOTHGNH"
+      "label": "Koala",
+      "url": "https://litbuy.com/product/weidian/734787846048?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/1/734787846048?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "60$",
-  "budget_price": "",
-  "pics_text": "",
+  "budget_batch": "budget",
+  "budget_batch_links": [
+    {
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7326197911?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7326197911?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "94$",
+  "budget_price": "35$",
+  "pics_text": "35$",
   "pics_links": [],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax6zzN1PAHmbrWZO_tRAT76AME0yMaO0u7YQ5q88XQX7zOeJ9IbCdUZEylmTqKt0uYAwaeuNhzMAE3m3oOxTYWoE02CK3wK1wl4ESu25aMuJm4r-Z2JmQXrCZrmtZIHiNsYIDcLuEO4Kw=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Az64K1alTmijtL_-JSPrm0DTQ6HhWE2BFYCeVMO_Zh8-qG7Vx785qVdZ-FDXKeMgXl0QvzVKKqE0yg1FL4FZC3PImsRvMGLglbgw8wIhzQ1-tC_6ZLjrmomrjVScIZ_JUHji8y3YQ1aoA=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "shoes_0386",
   "raw_cells": {
     "col_0": {
-      "text": "431"
+      "text": "429"
     },
     "col_1": {
-      "text": "ValentinoGaravani Open"
+      "text": "Alexander McQueen"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax6zzN1PAHmbrWZO_tRAT76AME0yMaO0u7YQ5q88XQX7zOeJ9IbCdUZEylmTqKt0uYAwaeuNhzMAE3m3oOxTYWoE02CK3wK1wl4ESu25aMuJm4r-Z2JmQXrCZrmtZIHiNsYIDcLuEO4Kw=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Az64K1alTmijtL_-JSPrm0DTQ6HhWE2BFYCeVMO_Zh8-qG7Vx785qVdZ-FDXKeMgXl0QvzVKKqE0yg1FL4FZC3PImsRvMGLglbgw8wIhzQ1-tC_6ZLjrmomrjVScIZ_JUHji8y3YQ1aoA=w143-h110"
     },
     "col_3": {
-      "text": "best",
+      "text": "Koala",
       "links": [
         {
-          "label": "best",
-          "url": "https://oopbuy.com/product/1/805829529060?inviteCode=29TOTHGNH"
+          "label": "Koala",
+          "url": "https://oopbuy.com/product/1/734787846048?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget",
+      "links": [
+        {
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7326197911?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "60$"
+      "text": "94$"
+    },
+    "col_6": {
+      "text": "35$"
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "shoes_0386"
+  }
 }

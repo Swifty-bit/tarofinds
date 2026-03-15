@@ -2,60 +2,120 @@
   "name": "Louis Vuitton",
   "category": "Belts",
   "subcategory": "",
-  "best_batch": "MissChen",
+  "best_batch": "MissChen/K8",
   "best_batch_links": [
     {
       "label": "MissChen",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2Fweidian%2F3671372197%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/3671372197?inviteCode=29TOTHGNH"
+      "url": "https://litbuy.com/product/weidian/3918382305?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/weidian/3918382305?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "K8",
+      "url": "https://litbuy.com/product/weidian/7564619134?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7564619134?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "39$",
-  "budget_price": "",
-  "pics_text": "QC Pics",
+  "budget_batch": "budget1/budget2",
+  "budget_batch_links": [
+    {
+      "label": "budget1",
+      "url": "https://litbuy.com/product/weidian/7431380126?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7431380126?inviteCode=29TOTHGNH"
+    },
+    {
+      "label": "budget2",
+      "url": "https://litbuy.com/product/weidian/783959210130?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/783959210130?inviteCode=29TOTHGNH"
+    }
+  ],
+  "best_price": "37$ / 34$",
+  "budget_price": "15$ / 1$",
+  "pics_text": "MissChen/K8/budget1/budget2",
   "pics_links": [
     {
-      "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1912381417571561474?action=discord&type=1&cid=1942512167859859457"
+      "label": "MissChen",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968501111859535873?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "K8",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1968970637528633346?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget1",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1960145347709329409?action=discord&type=1&cid=1942512167859859457"
+    },
+    {
+      "label": "budget2",
+      "url": "https://www.uufinds.com/goodItemDetail/qc/1969951417218719745?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AyIx8CZu-9o0hyoNCRvHcdU7v0VFnqtS3tDZDJgiTNnlDQAzF4pS4HQ-zSj6uPpGzjI6rXJGUe2zj9OZ5LO1x6CxfUk2LuVihWPbn5xYvVtANYtq5NvzKKOq2PTV_KnRNFa8NQ8eNL8ztKA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Aw_56lHa3wR9O1Ca8Zq8RPP--Q-pHMsHkqoaLK_T8k4LuljnSOmXAWuQa4rZ6wEwUDZBs0mYSf3UqSsGoP451O5gNORXlDL2C18MIuYtsofYA-b7qAEt708SfO1m1ZbkYiuI2uvJML6E4G7=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "belts_1551",
   "raw_cells": {
     "col_0": {
-      "text": "13"
+      "text": "8"
     },
     "col_1": {
       "text": "Louis Vuitton"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AyIx8CZu-9o0hyoNCRvHcdU7v0VFnqtS3tDZDJgiTNnlDQAzF4pS4HQ-zSj6uPpGzjI6rXJGUe2zj9OZ5LO1x6CxfUk2LuVihWPbn5xYvVtANYtq5NvzKKOq2PTV_KnRNFa8NQ8eNL8ztKA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Aw_56lHa3wR9O1Ca8Zq8RPP--Q-pHMsHkqoaLK_T8k4LuljnSOmXAWuQa4rZ6wEwUDZBs0mYSf3UqSsGoP451O5gNORXlDL2C18MIuYtsofYA-b7qAEt708SfO1m1ZbkYiuI2uvJML6E4G7=w143-h110"
     },
     "col_3": {
-      "text": "MissChen",
+      "text": "MissChen/K8",
       "links": [
         {
           "label": "MissChen",
-          "url": "https://www.oopbuy.com/product/weidian/3671372197?inviteCode=29TOTHGNH"
+          "url": "https://www.oopbuy.com/product/weidian/3918382305?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "K8",
+          "url": "https://oopbuy.com/product/weidian/7564619134?inviteCode=29TOTHGNH"
+        }
+      ]
+    },
+    "col_4": {
+      "text": "budget1/budget2",
+      "links": [
+        {
+          "label": "budget1",
+          "url": "https://oopbuy.com/product/weidian/7431380126?inviteCode=29TOTHGNH"
+        },
+        {
+          "label": "budget2",
+          "url": "https://oopbuy.com/product/0/783959210130?inviteCode=29TOTHGNH"
         }
       ]
     },
     "col_5": {
-      "text": "39$"
+      "text": "37$ / 34$"
+    },
+    "col_6": {
+      "text": "15$ / 1$"
     },
     "col_7": {
-      "text": "QC Pics",
+      "text": "MissChen/K8/budget1/budget2",
       "links": [
         {
-          "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1912381417571561474?action=discord&type=1&cid=1942512167859859457"
+          "label": "MissChen",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968501111859535873?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "K8",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1968970637528633346?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget1",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1960145347709329409?action=discord&type=1&cid=1942512167859859457"
+        },
+        {
+          "label": "budget2",
+          "url": "https://www.uufinds.com/goodItemDetail/qc/1969951417218719745?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "belts_1551"
+  }
 }

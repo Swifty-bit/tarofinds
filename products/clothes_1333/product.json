@@ -1,61 +1,61 @@
 {
-  "name": "Palace x Vivienne WestwoodHoodie",
+  "name": "Sp5derHoodies / PantsMany Styles",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "DRAGONREP",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "DRAGONREP",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7588824422%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7588824422?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/738347006278?inviteCode=REPTARO",
+      "original_url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "38$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "14$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://dragonrep333.x.yupoo.com/albums/207874783?uid=1"
+      "label": "QC Pics",
+      "url": "https://www.uufinds.com/exploreMore/1853614311786217473"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AzWqwtfmqKClx5rhCf6DFbD0N-ZjryCFdEetkr2sSEnsaW7HenBGdn46yW1UaeSvXFSfmQ3XRVOIyZJMiPMmEGcwdVSAqN92MCdfsfJu6eDz2WFaRs-Z8vgpVWU23-_Adj5WSt90KT5grLs=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxCdOHnmpN78ZnHVoIhEvFUa0kSE7BWCN58AlYfHjZ6sdUyCbIIu8vYLOg8_yBYoJt2L0t2PYovg-_WAZwJFwv4SjG91_ZA8eyHAXxctgm88r4f9vWOD2IIR7yODg756XTx1BBi9vYwiRDq=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_1333",
   "raw_cells": {
     "col_0": {
-      "text": "930"
+      "text": "924"
     },
     "col_1": {
-      "text": "Palace x Vivienne WestwoodHoodie"
+      "text": "Sp5derHoodies / PantsMany Styles"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AzWqwtfmqKClx5rhCf6DFbD0N-ZjryCFdEetkr2sSEnsaW7HenBGdn46yW1UaeSvXFSfmQ3XRVOIyZJMiPMmEGcwdVSAqN92MCdfsfJu6eDz2WFaRs-Z8vgpVWU23-_Adj5WSt90KT5grLs=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxCdOHnmpN78ZnHVoIhEvFUa0kSE7BWCN58AlYfHjZ6sdUyCbIIu8vYLOg8_yBYoJt2L0t2PYovg-_WAZwJFwv4SjG91_ZA8eyHAXxctgm88r4f9vWOD2IIR7yODg756XTx1BBi9vYwiRDq=w143-h110"
     },
-    "col_3": {
-      "text": "DRAGONREP",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "DRAGONREP",
-          "url": "https://oopbuy.com/product/weidian/7588824422?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://www.oopbuy.com/product/0/738347006278?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "38$"
+    "col_6": {
+      "text": "14$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://dragonrep333.x.yupoo.com/albums/207874783?uid=1"
+          "label": "QC Pics",
+          "url": "https://www.uufinds.com/exploreMore/1853614311786217473"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_1333"
+  }
 }

@@ -1,61 +1,61 @@
 {
-  "name": "Yeezy Calabasas T-Shirt",
+  "name": "Ralph LaurenKnit BeanieMany colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Bound2",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "Bound2",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Fwww.oopbuy.com%2Fproduct%2F1%2F811984283203%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/811984283203?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/7233497751?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/weidian/7233497751?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "22$",
-  "budget_price": "",
+  "best_price": "",
+  "budget_price": "3$",
   "pics_text": "QC Pics",
   "pics_links": [
     {
       "label": "QC Pics",
-      "url": "https://www.uufinds.com/goodItemDetail/qc/1895944645190955009?action=discord&cid=1840597081113280514"
+      "url": "https://www.uufinds.com/goodItemDetail/qc/2009186859777871873?action=discord&type=1&cid=1942512167859859457"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Ax32kqgW93mIrJD_fxQoUf_JPOIf1Yv9gW3L-4J3CVGZ7zTz8xbanh1iCeb2fVfkX3oZOUd-6Oum2zjgbKDG7C6fZdEB1VSAejoEob9kfRBDgbZ-Z_hciI8jDHqmxnEK732uyNVhneIK6uE=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2Azr-QF6VC7H79T1zVDBYAme7au7yaAD_Dubaep8xTJjBMcolWcR_qJUHZNWnslkXquXKhUSA4jOn2JLUPpIRC-GLMjPLSomZl-ag5fW2TcWhsa9Jtfmds3a0nS_nzjT_i1IgEWxVBYQ9JdE=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0643",
   "raw_cells": {
     "col_0": {
-      "text": "116"
+      "text": "110"
     },
     "col_1": {
-      "text": "Yeezy Calabasas T-Shirt"
+      "text": "Ralph LaurenKnit BeanieMany colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2Ax32kqgW93mIrJD_fxQoUf_JPOIf1Yv9gW3L-4J3CVGZ7zTz8xbanh1iCeb2fVfkX3oZOUd-6Oum2zjgbKDG7C6fZdEB1VSAejoEob9kfRBDgbZ-Z_hciI8jDHqmxnEK732uyNVhneIK6uE=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2Azr-QF6VC7H79T1zVDBYAme7au7yaAD_Dubaep8xTJjBMcolWcR_qJUHZNWnslkXquXKhUSA4jOn2JLUPpIRC-GLMjPLSomZl-ag5fW2TcWhsa9Jtfmds3a0nS_nzjT_i1IgEWxVBYQ9JdE=w143-h110"
     },
-    "col_3": {
-      "text": "Bound2",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "Bound2",
-          "url": "https://www.oopbuy.com/product/1/811984283203?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/weidian/7233497751?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "22$"
+    "col_6": {
+      "text": "3$"
     },
     "col_7": {
       "text": "QC Pics",
       "links": [
         {
           "label": "QC Pics",
-          "url": "https://www.uufinds.com/goodItemDetail/qc/1895944645190955009?action=discord&cid=1840597081113280514"
+          "url": "https://www.uufinds.com/goodItemDetail/qc/2009186859777871873?action=discord&type=1&cid=1942512167859859457"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0643"
+  }
 }

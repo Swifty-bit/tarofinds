@@ -1,61 +1,61 @@
 {
-  "name": "LV T-Shirt",
+  "name": "Moncler Beanie4 Colors",
   "category": "Clothes",
   "subcategory": "",
-  "best_batch": "Thunder",
-  "best_batch_links": [
+  "best_batch": "",
+  "best_batch_links": [],
+  "budget_batch": "budget",
+  "budget_batch_links": [
     {
-      "label": "Thunder",
-      "url": "https://www.litbuy.com/product-detail?url=https%3A%2F%2Foopbuy.com%2Fproduct%2Fweidian%2F7414103466%3FinviteCode%3D29TOTHGNH&inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7414103466?inviteCode=29TOTHGNH"
+      "label": "budget",
+      "url": "https://litbuy.com/product/weidian/831380251166?inviteCode=REPTARO",
+      "original_url": "https://oopbuy.com/product/0/831380251166?inviteCode=29TOTHGNH"
     }
   ],
-  "budget_batch": "",
-  "budget_batch_links": [],
-  "best_price": "34$",
-  "budget_price": "",
-  "pics_text": "pics",
+  "best_price": "",
+  "budget_price": "4$",
+  "pics_text": "QC Pics",
   "pics_links": [
     {
-      "label": "pics",
-      "url": "https://thethunder.x.yupoo.com/albums/151320399?uid=1&isSubCate=false&referrercate=3972375"
+      "label": "QC Pics",
+      "url": "https://plug4.me/item/831380251166?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
     }
   ],
   "notes": "",
-  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AwzvNrDH4J5rgqC5jaObD_mr8-sUPnTSjajdMbIm5bbyMO18GD9Vf8lePZyGXd3Pnek2hMdz-LK7K22LtpNJJXTubjL7ZgQvLzKKCpC-JtowpOzgbPz7-CFBUmNVYKbvAFn9grsdk85rA=w143-h110",
+  "image_url": "https://docs.google.com/sheets-images-rt/AEjM2AxH7zUV9FlPE41KahaPu7Il0HbRoP-vnxMMlpG1dmVmFeaEUebA5rZ-bcRYNr2LtSfOwPkRbPtP3LU1sji-yV1HcQbDoS9woJS8OLr9IJN1ucnlRoMEu7HvMXWeCJQeT4DyNUQYy-lyxbTW=w143-h110",
+  "local_image": "image.jpg",
+  "folder": "clothes_0819",
   "raw_cells": {
     "col_0": {
-      "text": "316"
+      "text": "310"
     },
     "col_1": {
-      "text": "LV T-Shirt"
+      "text": "Moncler Beanie4 Colors"
     },
     "col_2": {
       "text": "",
-      "image": "https://docs.google.com/sheets-images-rt/AEjM2AwzvNrDH4J5rgqC5jaObD_mr8-sUPnTSjajdMbIm5bbyMO18GD9Vf8lePZyGXd3Pnek2hMdz-LK7K22LtpNJJXTubjL7ZgQvLzKKCpC-JtowpOzgbPz7-CFBUmNVYKbvAFn9grsdk85rA=w143-h110"
+      "image": "https://docs.google.com/sheets-images-rt/AEjM2AxH7zUV9FlPE41KahaPu7Il0HbRoP-vnxMMlpG1dmVmFeaEUebA5rZ-bcRYNr2LtSfOwPkRbPtP3LU1sji-yV1HcQbDoS9woJS8OLr9IJN1ucnlRoMEu7HvMXWeCJQeT4DyNUQYy-lyxbTW=w143-h110"
     },
-    "col_3": {
-      "text": "Thunder",
+    "col_4": {
+      "text": "budget",
       "links": [
         {
-          "label": "Thunder",
-          "url": "https://oopbuy.com/product/weidian/7414103466?inviteCode=29TOTHGNH"
+          "label": "budget",
+          "url": "https://oopbuy.com/product/0/831380251166?inviteCode=29TOTHGNH"
         }
       ]
     },
-    "col_5": {
-      "text": "34$"
+    "col_6": {
+      "text": "4$"
     },
     "col_7": {
-      "text": "pics",
+      "text": "QC Pics",
       "links": [
         {
-          "label": "pics",
-          "url": "https://thethunder.x.yupoo.com/albums/151320399?uid=1&isSubCate=false&referrercate=3972375"
+          "label": "QC Pics",
+          "url": "https://plug4.me/item/831380251166?channel=ali_1688&platformName=cnfans&discordChannelId=1328470009227378729"
         }
       ]
     }
-  },
-  "local_image": "image.jpg",
-  "folder": "clothes_0819"
+  }
 }
