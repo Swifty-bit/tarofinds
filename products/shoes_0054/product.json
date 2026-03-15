@@ -7,12 +7,12 @@
     {
       "label": "GX",
       "url": "https://litbuy.com/product/taobao/7239100945?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239100945?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7239100945"
     },
     {
       "label": "S2",
       "url": "https://litbuy.com/product/taobao/7239190993?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239190993?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7239190993"
     }
   ],
   "budget_batch": "WKB/budget",
@@ -20,12 +20,12 @@
     {
       "label": "WKB",
       "url": "https://litbuy.com/product/weidian/7327097759?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7327097759?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7327097759"
     },
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/762598574903?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/762598574903?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=762598574903"
     }
   ],
   "best_price": "70$ / 59$",
@@ -52,11 +52,11 @@
       "links": [
         {
           "label": "GX",
-          "url": "https://oopbuy.com/product/2/7239100945?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7239100945"
         },
         {
           "label": "S2",
-          "url": "https://oopbuy.com/product/2/7239190993?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7239190993"
         }
       ]
     },
@@ -65,11 +65,11 @@
       "links": [
         {
           "label": "WKB",
-          "url": "https://oopbuy.com/product/weidian/7327097759?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7327097759"
         },
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/762598574903?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=762598574903"
         }
       ]
     },

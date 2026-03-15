@@ -7,12 +7,12 @@
     {
       "label": "Ice Cream",
       "url": "https://litbuy.com/product/weidian/7496052070?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7496052070?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7496052070"
     },
     {
       "label": "Alexander",
       "url": "https://litbuy.com/product/taobao/6883444254?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6883444254?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=6883444254"
     }
   ],
   "budget_batch": "budget",
@@ -20,7 +20,7 @@
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/742309176501?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/742309176501?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=742309176501"
     }
   ],
   "best_price": "89$",
@@ -47,11 +47,11 @@
       "links": [
         {
           "label": "Ice Cream",
-          "url": "https://oopbuy.com/product/weidian/7496052070?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7496052070"
         },
         {
           "label": "Alexander",
-          "url": "https://oopbuy.com/product/2/6883444254?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=6883444254"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/742309176501?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=742309176501"
         }
       ]
     },

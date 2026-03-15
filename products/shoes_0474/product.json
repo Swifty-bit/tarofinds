@@ -7,17 +7,17 @@
     {
       "label": "Koala",
       "url": "https://litbuy.com/product/weidian/847240172026?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/847240172026?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=847240172026"
     },
     {
       "label": "ZZZTOPXX",
       "url": "https://litbuy.com/product/weidian/7319491133?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7319491133?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7319491133"
     },
     {
       "label": "Repsun",
       "url": "https://litbuy.com/product/taobao/7243272818?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7243272818?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7243272818"
     }
   ],
   "budget_batch": "GD/budget",
@@ -25,12 +25,12 @@
     {
       "label": "GD",
       "url": "https://litbuy.com/product/weidian/7413632516?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7413632516?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7413632516"
     },
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/805831783764?inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/805831783764?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=805831783764"
     }
   ],
   "best_price": "98$ / 99$ / 71$",
@@ -57,15 +57,15 @@
       "links": [
         {
           "label": "Koala",
-          "url": "https://oopbuy.com/product/1/847240172026?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=847240172026"
         },
         {
           "label": "ZZZTOPXX",
-          "url": "https://oopbuy.com/product/weidian/7319491133?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7319491133"
         },
         {
           "label": "Repsun",
-          "url": "https://oopbuy.com/product/2/7243272818?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7243272818"
         }
       ]
     },
@@ -74,11 +74,11 @@
       "links": [
         {
           "label": "GD",
-          "url": "https://oopbuy.com/product/weidian/7413632516?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7413632516"
         },
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/805831783764?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=805831783764"
         }
       ]
     },

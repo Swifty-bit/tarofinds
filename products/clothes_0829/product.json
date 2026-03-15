@@ -7,7 +7,7 @@
     {
       "label": "Thunder",
       "url": "https://litbuy.com/product/weidian/7261973256?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7261973256?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7261973256"
     }
   ],
   "budget_batch": "budget/budget",
@@ -15,12 +15,12 @@
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/856889415178?inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/856889415178?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=856889415178"
     },
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/6964366504?inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/6964366504?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=6964366504"
     }
   ],
   "best_price": "48$",
@@ -60,7 +60,7 @@
       "links": [
         {
           "label": "Thunder",
-          "url": "https://oopbuy.com/product/weidian/7261973256?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7261973256"
         }
       ]
     },
@@ -69,11 +69,11 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/856889415178?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=856889415178"
         },
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/weidian/6964366504?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=6964366504"
         }
       ]
     },

@@ -7,7 +7,7 @@
     {
       "label": "TopGoosey",
       "url": "https://litbuy.com/product/weidian/1003615402050?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/1003615402050?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=1003615402050"
     }
   ],
   "budget_batch": "ZZZTOPXX/palmmoose",
@@ -15,12 +15,12 @@
     {
       "label": "ZZZTOPXX",
       "url": "https://litbuy.com/product/taobao/6495705868?inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/2/6495705868?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=6495705868"
     },
     {
       "label": "palmmoose",
       "url": "https://litbuy.com/product/weidian/644521966774?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/644521966774?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=644521966774"
     }
   ],
   "best_price": "222$",
@@ -60,7 +60,7 @@
       "links": [
         {
           "label": "TopGoosey",
-          "url": "https://oopbuy.com/product/1/1003615402050?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=1003615402050"
         }
       ]
     },
@@ -69,11 +69,11 @@
       "links": [
         {
           "label": "ZZZTOPXX",
-          "url": "https://www.oopbuy.com/product/2/6495705868?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=6495705868"
         },
         {
           "label": "palmmoose",
-          "url": "https://oopbuy.com/product/0/644521966774?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=644521966774"
         }
       ]
     },

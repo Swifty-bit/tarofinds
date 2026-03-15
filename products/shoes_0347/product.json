@@ -7,12 +7,12 @@
     {
       "label": "GX",
       "url": "https://litbuy.com/product/taobao/7239230421?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7239230421?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7239230421"
     },
     {
       "label": "ZOK",
       "url": "https://litbuy.com/product/taobao/6357399660?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6357399660?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=6357399660"
     }
   ],
   "budget_batch": "LW B GRADE",
@@ -20,7 +20,7 @@
     {
       "label": "LW B GRADE",
       "url": "https://litbuy.com/product/weidian/7613684637?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7613684637"
     }
   ],
   "best_price": "18$",
@@ -47,11 +47,11 @@
       "links": [
         {
           "label": "GX",
-          "url": "https://oopbuy.com/product/2/7239230421?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7239230421"
         },
         {
           "label": "ZOK",
-          "url": "https://oopbuy.com/product/2/6357399660?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=6357399660"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "links": [
         {
           "label": "LW B GRADE",
-          "url": "https://oopbuy.com/product/weidian/7613684637?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7613684637"
         }
       ]
     },

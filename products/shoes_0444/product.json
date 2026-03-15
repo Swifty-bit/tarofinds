@@ -7,12 +7,12 @@
     {
       "label": "PONE",
       "url": "https://litbuy.com/product/taobao/7180862977?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7180862977?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7180862977"
     },
     {
       "label": "Foshan",
       "url": "https://litbuy.com/product/weidian/7564004903?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7564004903"
     }
   ],
   "budget_batch": "budget",
@@ -20,7 +20,7 @@
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/4755106410?inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/weidian/4755106410?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=4755106410"
     }
   ],
   "best_price": "103$ / 75$",
@@ -47,11 +47,11 @@
       "links": [
         {
           "label": "PONE",
-          "url": "https://oopbuy.com/product/2/7180862977?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7180862977"
         },
         {
           "label": "Foshan",
-          "url": "https://oopbuy.com/product/weidian/7564004903?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7564004903"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/weidian/4755106410?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=4755106410"
         }
       ]
     },

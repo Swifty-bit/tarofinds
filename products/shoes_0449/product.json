@@ -7,17 +7,17 @@
     {
       "label": "Koala",
       "url": "https://litbuy.com/product/weidian/918888917713?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=918888917713"
     },
     {
       "label": "A+",
       "url": "https://litbuy.com/product/taobao/6167288771?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=6167288771"
     },
     {
       "label": "FS",
       "url": "https://litbuy.com/product/weidian/7565909066?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7565909066"
     }
   ],
   "budget_batch": "budget/YOLO TG",
@@ -25,12 +25,12 @@
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/838219574908?inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=838219574908"
     },
     {
       "label": "YOLO TG",
       "url": "https://litbuy.com/product/weidian/7622551100?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7622551100"
     }
   ],
   "best_price": "95$ / 72$ / 72$",
@@ -57,15 +57,15 @@
       "links": [
         {
           "label": "Koala",
-          "url": "https://oopbuy.com/product/1/918888917713?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=918888917713"
         },
         {
           "label": "A+",
-          "url": "https://oopbuy.com/product/2/6167288771?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=6167288771"
         },
         {
           "label": "FS",
-          "url": "https://oopbuy.com/product/weidian/7565909066?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7565909066"
         }
       ]
     },
@@ -74,11 +74,11 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://www.oopbuy.com/product/0/838219574908?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=838219574908"
         },
         {
           "label": "YOLO TG",
-          "url": "https://oopbuy.com/product/weidian/7622551100?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7622551100"
         }
       ]
     },

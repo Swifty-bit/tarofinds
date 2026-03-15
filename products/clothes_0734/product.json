@@ -7,12 +7,12 @@
     {
       "label": "GmanClub",
       "url": "https://litbuy.com/product/weidian/685437690874?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/685437690874?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=685437690874"
     },
     {
       "label": "Singor",
       "url": "https://litbuy.com/product/weidian/742109014625?inviteCode=REPTARO",
-      "original_url": "https://www.oopbuy.com/product/1/742109014625?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=742109014625"
     }
   ],
   "budget_batch": "Yishan/FFOG/budget",
@@ -20,17 +20,17 @@
     {
       "label": "Yishan",
       "url": "https://litbuy.com/product/weidian/858983887218?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/858983887218?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=858983887218"
     },
     {
       "label": "FFOG",
       "url": "https://litbuy.com/product/weidian/696743445201?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/1/696743445201?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=696743445201"
     },
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/803133867151?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/803133867151?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=803133867151"
     }
   ],
   "best_price": "43$ / 33$",
@@ -78,11 +78,11 @@
       "links": [
         {
           "label": "GmanClub",
-          "url": "https://oopbuy.com/product/1/685437690874?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=685437690874"
         },
         {
           "label": "Singor",
-          "url": "https://www.oopbuy.com/product/1/742109014625?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=742109014625"
         }
       ]
     },
@@ -91,15 +91,15 @@
       "links": [
         {
           "label": "Yishan",
-          "url": "https://oopbuy.com/product/0/858983887218?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=858983887218"
         },
         {
           "label": "FFOG",
-          "url": "https://oopbuy.com/product/1/696743445201?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=696743445201"
         },
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/803133867151?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=803133867151"
         }
       ]
     },

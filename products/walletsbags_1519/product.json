@@ -9,12 +9,12 @@
     {
       "label": "godmall",
       "url": "https://litbuy.com/product/weidian/7591255184?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7591255184?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7591255184"
     },
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/849405615614?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/849405615614?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=849405615614"
     }
   ],
   "best_price": "",
@@ -50,11 +50,11 @@
       "links": [
         {
           "label": "godmall",
-          "url": "https://oopbuy.com/product/weidian/7591255184?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7591255184"
         },
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/849405615614?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=849405615614"
         }
       ]
     },

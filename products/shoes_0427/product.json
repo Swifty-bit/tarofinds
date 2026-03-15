@@ -7,12 +7,12 @@
     {
       "label": "GOURD",
       "url": "https://litbuy.com/product/taobao/5917226967?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/5917226967?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=5917226967"
     },
     {
       "label": "H",
       "url": "https://litbuy.com/product/weidian/7433582142?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7433582142?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7433582142"
     }
   ],
   "budget_batch": "budget",
@@ -20,7 +20,7 @@
     {
       "label": "budget",
       "url": "https://litbuy.com/product/weidian/847059890789?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/0/847059890789?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=847059890789"
     }
   ],
   "best_price": "48$",
@@ -47,11 +47,11 @@
       "links": [
         {
           "label": "GOURD",
-          "url": "https://oopbuy.com/product/2/5917226967?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=5917226967"
         },
         {
           "label": "H",
-          "url": "https://oopbuy.com/product/weidian/7433582142?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7433582142"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://oopbuy.com/product/0/847059890789?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=847059890789"
         }
       ]
     },

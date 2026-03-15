@@ -7,12 +7,12 @@
     {
       "label": "GX",
       "url": "https://litbuy.com/product/taobao/7240102012?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7240102012"
     },
     {
       "label": "R1",
       "url": "https://litbuy.com/product/taobao/7327098245?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7327098245?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7327098245"
     }
   ],
   "budget_batch": "KX2.0",
@@ -20,7 +20,7 @@
     {
       "label": "KX2.0",
       "url": "https://litbuy.com/product/taobao/7249836913?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+      "original_url": "https://item.taobao.com/item.htm?id=7249836913"
     }
   ],
   "best_price": "83$ / 75$",
@@ -47,11 +47,11 @@
       "links": [
         {
           "label": "GX",
-          "url": "https://oopbuy.com/product/2/7240102012?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7240102012"
         },
         {
           "label": "R1",
-          "url": "https://oopbuy.com/product/2/7327098245?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7327098245"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "links": [
         {
           "label": "KX2.0",
-          "url": "https://oopbuy.com/product/2/7249836913?inviteCode=29TOTHGNH"
+          "url": "https://item.taobao.com/item.htm?id=7249836913"
         }
       ]
     },

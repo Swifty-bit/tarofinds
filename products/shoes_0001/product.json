@@ -7,12 +7,12 @@
     {
       "label": "GX",
       "url": "https://litbuy.com/product/weidian/7327089607?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7327089607?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7327089607"
     },
     {
       "label": "RFA",
       "url": "https://litbuy.com/product/weidian/7347942592?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7347942592?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7347942592"
     }
   ],
   "budget_batch": "WTG/PT",
@@ -20,12 +20,12 @@
     {
       "label": "WTG",
       "url": "https://litbuy.com/product/weidian/4438430445?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/4438430445?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=4438430445"
     },
     {
       "label": "PT",
       "url": "https://litbuy.com/product/weidian/7385722667?inviteCode=REPTARO",
-      "original_url": "https://oopbuy.com/product/weidian/7385722667?inviteCode=29TOTHGNH"
+      "original_url": "https://weidian.com/item.html?itemID=7385722667"
     }
   ],
   "best_price": "35$",
@@ -52,11 +52,11 @@
       "links": [
         {
           "label": "GX",
-          "url": "https://oopbuy.com/product/weidian/7327089607?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7327089607"
         },
         {
           "label": "RFA",
-          "url": "https://oopbuy.com/product/weidian/7347942592?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7347942592"
         }
       ]
     },
@@ -65,11 +65,11 @@
       "links": [
         {
           "label": "WTG",
-          "url": "https://oopbuy.com/product/weidian/4438430445?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=4438430445"
         },
         {
           "label": "PT",
-          "url": "https://oopbuy.com/product/weidian/7385722667?inviteCode=29TOTHGNH"
+          "url": "https://weidian.com/item.html?itemID=7385722667"
         }
       ]
     },
