@@ -50,11 +50,13 @@
       "links": [
         {
           "label": "budget1",
-          "url": "https://weidian.com/item.html?itemID=869393998856"
+          "url": "https://litbuy.com/product/weidian/869393998856?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=869393998856"
         },
         {
           "label": "budget2",
-          "url": "https://weidian.com/item.html?itemID=865592313660"
+          "url": "https://litbuy.com/product/weidian/865592313660?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=865592313660"
         }
       ]
     },

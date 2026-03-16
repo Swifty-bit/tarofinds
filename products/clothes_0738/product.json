@@ -60,7 +60,8 @@
       "links": [
         {
           "label": "firerep",
-          "url": "https://weidian.com/item.html?itemID=986570468295"
+          "url": "https://litbuy.com/product/weidian/986570468295?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=986570468295"
         }
       ]
     },
@@ -69,11 +70,13 @@
       "links": [
         {
           "label": "Yishan",
-          "url": "https://weidian.com/item.html?itemID=735669217577"
+          "url": "https://litbuy.com/product/weidian/735669217577?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=735669217577"
         },
         {
           "label": "FFOG",
-          "url": "https://weidian.com/item.html?itemID=680628335235"
+          "url": "https://litbuy.com/product/weidian/680628335235?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=680628335235"
         }
       ]
     },

@@ -47,11 +47,13 @@
       "links": [
         {
           "label": "PONE",
-          "url": "https://item.taobao.com/item.htm?id=7180862977"
+          "url": "https://litbuy.com/product/taobao/7180862977?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=7180862977"
         },
         {
           "label": "Foshan",
-          "url": "https://weidian.com/item.html?itemID=7564004903"
+          "url": "https://litbuy.com/product/weidian/7564004903?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7564004903"
         }
       ]
     },
@@ -60,7 +62,8 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://weidian.com/item.html?itemID=4755106410"
+          "url": "https://litbuy.com/product/weidian/4755106410?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=4755106410"
         }
       ]
     },

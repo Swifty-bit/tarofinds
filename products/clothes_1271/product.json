@@ -60,11 +60,13 @@
       "links": [
         {
           "label": "mvt-shop01",
-          "url": "https://weidian.com/item.html?itemID=1009307628825"
+          "url": "https://litbuy.com/product/weidian/1009307628825?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=1009307628825"
         },
         {
           "label": "2Three",
-          "url": "https://weidian.com/item.html?itemID=788109279156"
+          "url": "https://litbuy.com/product/weidian/788109279156?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=788109279156"
         }
       ]
     },
@@ -73,7 +75,8 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://weidian.com/item.html?itemID=908581249801"
+          "url": "https://litbuy.com/product/weidian/908581249801?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=908581249801"
         }
       ]
     },

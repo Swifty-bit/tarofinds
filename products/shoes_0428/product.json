@@ -47,11 +47,13 @@
       "links": [
         {
           "label": "OK",
-          "url": "https://item.taobao.com/item.htm?id=6223355835"
+          "url": "https://litbuy.com/product/taobao/6223355835?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=6223355835"
         },
         {
           "label": "XA",
-          "url": "https://item.taobao.com/item.htm?id=5782502922"
+          "url": "https://litbuy.com/product/taobao/5782502922?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=5782502922"
         }
       ]
     },
@@ -60,7 +62,8 @@
       "links": [
         {
           "label": "YOLO i8",
-          "url": "https://weidian.com/item.html?itemID=7614455198"
+          "url": "https://litbuy.com/product/weidian/7614455198?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7614455198"
         }
       ]
     },

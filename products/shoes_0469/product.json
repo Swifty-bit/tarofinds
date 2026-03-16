@@ -47,11 +47,13 @@
       "links": [
         {
           "label": "ZC",
-          "url": "https://weidian.com/item.html?itemID=7298687712"
+          "url": "https://litbuy.com/product/weidian/7298687712?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7298687712"
         },
         {
           "label": "9mile",
-          "url": "https://weidian.com/item.html?itemID=7696665135"
+          "url": "https://litbuy.com/product/weidian/7696665135?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7696665135"
         }
       ]
     },
@@ -60,7 +62,8 @@
       "links": [
         {
           "label": "here",
-          "url": "https://item.taobao.com/item.htm?id=7241418798"
+          "url": "https://litbuy.com/product/taobao/7241418798?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=7241418798"
         }
       ]
     },

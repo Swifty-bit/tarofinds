@@ -60,7 +60,8 @@
       "links": [
         {
           "label": "TopGoosey",
-          "url": "https://weidian.com/item.html?itemID=1003615402050"
+          "url": "https://litbuy.com/product/weidian/1003615402050?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=1003615402050"
         }
       ]
     },
@@ -69,11 +70,13 @@
       "links": [
         {
           "label": "ZZZTOPXX",
-          "url": "https://item.taobao.com/item.htm?id=6495705868"
+          "url": "https://litbuy.com/product/taobao/6495705868?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=6495705868"
         },
         {
           "label": "palmmoose",
-          "url": "https://weidian.com/item.html?itemID=644521966774"
+          "url": "https://litbuy.com/product/weidian/644521966774?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=644521966774"
         }
       ]
     },

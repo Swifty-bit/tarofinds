@@ -41,11 +41,13 @@
       "links": [
         {
           "label": "FS",
-          "url": "https://weidian.com/item.html?itemID=7617179490"
+          "url": "https://litbuy.com/product/weidian/7617179490?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7617179490"
         },
         {
           "label": "here",
-          "url": "https://item.taobao.com/item.htm?id=4433451427"
+          "url": "https://litbuy.com/product/taobao/4433451427?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=4433451427"
         }
       ]
     },

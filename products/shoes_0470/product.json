@@ -52,15 +52,18 @@
       "links": [
         {
           "label": "ZC",
-          "url": "https://weidian.com/item.html?itemID=7522105691"
+          "url": "https://litbuy.com/product/weidian/7522105691?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7522105691"
         },
         {
           "label": "FC",
-          "url": "https://item.taobao.com/item.htm?id=7283070059"
+          "url": "https://litbuy.com/product/taobao/7283070059?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=7283070059"
         },
         {
           "label": "Tony",
-          "url": "https://item.taobao.com/item.htm?id=7227437149"
+          "url": "https://litbuy.com/product/taobao/7227437149?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=7227437149"
         }
       ]
     },
@@ -69,7 +72,8 @@
       "links": [
         {
           "label": "budget",
-          "url": "https://weidian.com/item.html?itemID=853411634146"
+          "url": "https://litbuy.com/product/weidian/853411634146?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=853411634146"
         }
       ]
     },

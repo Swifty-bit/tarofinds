@@ -42,7 +42,8 @@
       "links": [
         {
           "label": "M / Version1",
-          "url": "https://weidian.com/item.html?itemID=7563983179"
+          "url": "https://litbuy.com/product/weidian/7563983179?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7563983179"
         }
       ]
     },
@@ -51,7 +52,8 @@
       "links": [
         {
           "label": "TJ",
-          "url": "https://item.taobao.com/item.htm?id=4608345170"
+          "url": "https://litbuy.com/product/taobao/4608345170?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=4608345170"
         }
       ]
     },

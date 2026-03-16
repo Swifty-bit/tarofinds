@@ -50,11 +50,13 @@
       "links": [
         {
           "label": "godmall",
-          "url": "https://weidian.com/item.html?itemID=7591255184"
+          "url": "https://litbuy.com/product/weidian/7591255184?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7591255184"
         },
         {
           "label": "budget",
-          "url": "https://weidian.com/item.html?itemID=849405615614"
+          "url": "https://litbuy.com/product/weidian/849405615614?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=849405615614"
         }
       ]
     },

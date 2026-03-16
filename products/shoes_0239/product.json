@@ -47,7 +47,8 @@
       "links": [
         {
           "label": "PK4.0",
-          "url": "https://weidian.com/item.html?itemID=7564099853"
+          "url": "https://litbuy.com/product/weidian/7564099853?inviteCode=REPTARO",
+          "original_url": "https://weidian.com/item.html?itemID=7564099853"
         }
       ]
     },
@@ -56,11 +57,13 @@
       "links": [
         {
           "label": "NEW R1",
-          "url": "https://item.taobao.com/item.htm?id=7328101882"
+          "url": "https://litbuy.com/product/taobao/7328101882?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=7328101882"
         },
         {
           "label": "KX",
-          "url": "https://item.taobao.com/item.htm?id=7240401725"
+          "url": "https://litbuy.com/product/taobao/7240401725?inviteCode=REPTARO",
+          "original_url": "https://item.taobao.com/item.htm?id=7240401725"
         }
       ]
     },
