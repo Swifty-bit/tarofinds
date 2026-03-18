@@ -390,7 +390,61 @@ function openProductModalById(id) {
   if (product) openProductModal(product);
 }
 
-function openProductModal(product) {
+const SELLER_URL_RE = /(taobao\.com|weidian\.com|1688\.com|k[- ]?shop\.|kshop\.com)/i;
+const EXCLUDE_AGENT_URL_RE = /(litbuy\.com|oopbuy\.cc|oopbuy\.com)/i;
+
+function looksLikeSellerDirectUrl(url) {
+  return typeof url === 'string' && SELLER_URL_RE.test(url) && !EXCLUDE_AGENT_URL_RE.test(url);
+}
+
+function pickDirectSellerUrl(allLinks) {
+  // Prefer original_url first (it is usually the raw seller listing link).
+  for (const l of (allLinks || [])) {
+    const u = l?.original_url;
+    if (looksLikeSellerDirectUrl(u)) return u;
+  }
+  // Then fall back to url.
+  for (const l of (allLinks || [])) {
+    const u = l?.url;
+    if (looksLikeSellerDirectUrl(u)) return u;
+  }
+  // No raw seller URL found; don't fall back to Oopbuy/LitBuy.
+  return '';
+}
+
+async function loadProductJsonForModal(product) {
+  if (!product || !product.folder) return product;
+  try {
+    const res = await fetch(`products/${product.folder}/product.json`, { cache: 'no-store' });
+    if (!res.ok) return product;
+    const full = await res.json();
+    // Map snake_case fields from product.json into the camelCase shape the UI already uses.
+    return {
+      ...product,
+      name: full.name || product.name,
+      category: full.category || product.category,
+      bestBatch: full.best_batch || product.bestBatch || '',
+      bestBatchLinks: Array.isArray(full.best_batch_links) ? full.best_batch_links : (product.bestBatchLinks || []),
+      budgetBatch: full.budget_batch || product.budgetBatch || '',
+      budgetBatchLinks: Array.isArray(full.budget_batch_links) ? full.budget_batch_links : (product.budgetBatchLinks || []),
+      picsText: full.pics_text || product.picsText || '',
+      picsLinks: Array.isArray(full.pics_links) ? full.pics_links : (product.picsLinks || []),
+      bestPrice: full.best_price || product.bestPrice || '',
+      budgetPrice: full.budget_price || product.budgetPrice || '',
+      notes: full.notes || product.notes || '',
+      localImage: full.local_image || product.localImage,
+      imageUrl: full.image_url || product.imageUrl,
+      folder: full.folder || product.folder,
+    };
+  } catch (e) {
+    console.warn('loadProductJsonForModal error:', e);
+    return product;
+  }
+}
+
+async function openProductModal(product) {
+  // Prefer the per-product JSON (it contains the raw seller URLs in `original_url`).
+  product = await loadProductJsonForModal(product);
   currentProduct = product;
   let existing = document.getElementById('productModal');
   if (existing) existing.remove();
@@ -521,9 +575,8 @@ function openProductModal(product) {
   if (btnsDiv) {
     const allLinks = [...(product.bestBatchLinks||[]), ...(product.budgetBatchLinks||[])];
     const litbuyLink = allLinks.find(l => (l.url||'').includes('litbuy.com'));
-    const directLink = allLinks.find(l => l.original_url || (!(l.url||'').includes('litbuy.com') && (l.url||'') !== ''));
     const litbuyUrl = litbuyLink ? litbuyLink.url : (product.link && product.link.includes('litbuy') ? product.link : '');
-    const directUrl = directLink ? (directLink.original_url || directLink.url) : '';
+    const directUrl = pickDirectSellerUrl(allLinks);
 
     if (litbuyUrl) {
       const a = document.createElement('a');
