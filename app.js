@@ -162,6 +162,26 @@ const ALERTS = [];
 let PRODUCTS = [];
 let SELLERS = [];
 
+/** Staff-only flag `pinned`: visitors see normal cards; order is pinned first, then the rest. */
+function normalizeSiteSeller(s) {
+  return {
+    id: s.id,
+    name: s.name,
+    description: (s.description || '').replace(/\r\n/g, ' ').replace(/\r/g, ' '),
+    logo: s.logo || '',
+    link: (s.link || '#').replace(/\\\//g, '/'),
+    verified: s.verified !== false,
+    pinned: Boolean(s.pinned),
+    dateAdded: s.dateAdded,
+  };
+}
+function orderedSellersForSite(sellers) {
+  const arr = Array.isArray(sellers) ? sellers.slice() : [];
+  const pinned = arr.filter(s => s.pinned);
+  const rest = arr.filter(s => !s.pinned);
+  return pinned.concat(rest);
+}
+
 /* ── Helpers ── */
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
@@ -303,16 +323,18 @@ async function loadData() {
       ? folderProducts.value
       : [];
 
+    let fromJson = [];
     if (sr.status === 'fulfilled' && Array.isArray(sr.value)) {
-      SELLERS = sr.value.map(s => ({
-        id: s.id,
-        name: s.name,
-        description: (s.description || '').replace(/\r\n/g, ' ').replace(/\r/g, ' '),
-        logo: s.logo || '',
-        link: (s.link || '#').replace(/\\\//g, '/'),
-        verified: true,
-        dateAdded: s.dateAdded,
-      }));
+      fromJson = sr.value.map(s => normalizeSiteSeller({ ...s, verified: s.verified !== false }));
+    }
+    let stored = null;
+    try {
+      stored = JSON.parse(localStorage.getItem('rt_sellers_override') || 'null');
+    } catch (e) { stored = null; }
+    if (Array.isArray(stored) && stored.length) {
+      SELLERS = stored.map(s => normalizeSiteSeller(s));
+    } else {
+      SELLERS = fromJson;
     }
   } catch (e) { console.warn('loadData error:', e); }
   // Expose as globals so admin.js can access them
@@ -328,13 +350,14 @@ function buildSellerPanel() {
   if (top) top.style.display = 'none';
   if (bsLabel) bsLabel.style.display = 'none';
   if (!list || !SELLERS.length) return;
+  const display = orderedSellersForSite(SELLERS);
   const avatarHtml = s => {
     if (s.logo && s.logo.trim() && !s.logo.startsWith('data:image/jpeg;base64')) {
       return `<img src="${esc(s.logo)}" alt="${esc(s.name)}" style="width:100%;height:100%;object-fit:cover" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span style="display:none;width:100%;height:100%;align-items:center;justify-content:center;font-weight:700">${s.name.substring(0,2).toUpperCase()}</span>`;
     }
     return `<span style="font-weight:700">${s.name.substring(0,2).toUpperCase()}</span>`;
   };
-  list.innerHTML = SELLERS.slice(0, 8).map(s => `
+  list.innerHTML = display.slice(0, 8).map(s => `
     <a class="seller-row" href="${esc(s.link)}" target="_blank" rel="noopener">
       <div class="s-avatar">${avatarHtml(s)}</div>
       <div class="s-info">
@@ -795,7 +818,8 @@ function initSellersPage() {
   const grid=$('#sellersGrid');
   if(!grid) return;
   function render(term='') {
-    const list=SELLERS.filter(s=>!term||(s.name+s.description).toLowerCase().includes(term));
+    const filtered = SELLERS.filter(s => !term || (s.name + s.description).toLowerCase().includes(term));
+    const list = orderedSellersForSite(filtered);
     ['badgeSellers','badgeSellers2','sellersCount'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=list.length;});
     grid.innerHTML=list.map(s=>{
       return `<div class="seller-card">

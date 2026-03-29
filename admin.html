@@ -108,7 +108,19 @@
             <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><button class="btn btn-ghost btn-sm" type="button" onclick="clearCache()">Clear cache</button><button class="btn btn-danger btn-sm" type="button" onclick="resetData()">Reset local data</button></div>
           </div></div>
 
-          <div class="card"><div class="card-header"><h2>Sellers snapshot</h2></div><div class="card-body"><div id="adminSellerList"></div></div></div>
+          <div class="card"><div class="card-header"><h2 id="sellerFormTitle">Add seller</h2></div><div class="card-body">
+            <div class="form-grid">
+              <div class="form-group" style="grid-column:1/-1"><label>Name</label><input id="addSellerName" class="input-field" placeholder="Store name"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Description</label><input id="addSellerDesc" class="input-field" placeholder="Short line for the card"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Logo URL</label><input id="addSellerLogo" class="input-field" placeholder="https://…"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Store link</label><input id="addSellerLink" class="input-field" placeholder="https://…"></div>
+              <label style="display:flex;align-items:center;gap:10px;font-size:13px;grid-column:1/-1"><input id="addSellerVerified" type="checkbox" checked> Show verified checkmark on site</label>
+              <label style="display:flex;align-items:center;gap:10px;font-size:13px;grid-column:1/-1"><input id="addSellerPriority" type="checkbox"> List this seller before others (no extra label for visitors)</label>
+            </div>
+            <div class="info-inline"><div class="info-dot">i</div><div>Saves to this browser. Use ↑ ↓ to change order; “list first” only affects sort order, not text on the public pages.</div></div>
+            <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><button id="sellerSubmitBtn" class="btn btn-primary btn-sm" type="button" onclick="upsertSeller()">Add seller</button><button class="btn btn-ghost btn-sm" type="button" onclick="clearSellerForm()">Clear</button></div>
+          </div></div>
+          <div class="card"><div class="card-header"><h2>Sellers</h2></div><div class="card-body"><div id="adminSellerList" style="display:grid;gap:10px;max-height:min(70vh,720px);overflow:auto;padding-right:4px"></div></div></div>
           <div class="card"><div class="card-header"><h2>Staff</h2></div><div class="card-body">
             <div id="staffList" style="margin-bottom:18px"></div>
             <div style="border-top:1px solid var(--line);padding-top:16px">

@@ -13,6 +13,7 @@ const adminState = {
   editingProductId: null,
   editingCouponId: null,
   editingAnnouncementId: null,
+  editingSellerId: null,
 };
 window.adminState = adminState;
 const $ = (id) => document.getElementById(id);
@@ -62,7 +63,21 @@ async function loadOrBootstrapStaff() {
   saveStaff(); // always persist so legacy entries are purged
 }
 function normalizeAdminProduct(p, i) { const raw = String(p.category || p.tag || '').trim().toLowerCase(); return { id: p.id || ('p' + i), name: String(p.name || '').trim(), category: (!raw || raw === 'other') ? inferCategory(p.name || '') : raw, seller: String(p.seller || p.agentName || 'Unknown').trim(), price: parseFloat(p.price || p.sellPrice || 0) || 0, featured: Boolean(p.featured), image: p.image || p.imageUrl || p.photo || '', link: p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#', qc_available: Boolean(p.qc_available || p.qc), qc_images: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []), dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10) }; }
-async function loadAdminData() { const savedProducts = localStorage.getItem('rt_products_override'); const savedSellers = localStorage.getItem('rt_sellers_override'); if (savedProducts) { try { adminState.products = JSON.parse(savedProducts).map(normalizeAdminProduct); } catch {} } if (!adminState.products.length) { try { const pr = await fetch('products.json', { cache:'no-store' }).then(r => r.json()); adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct) : []; } catch {} } if (savedSellers) { try { adminState.sellers = JSON.parse(savedSellers); } catch {} } if (!adminState.sellers.length) { try { const sr = await fetch('sellers.json', { cache:'no-store' }).then(r => r.json()); adminState.sellers = Array.isArray(sr) ? sr : []; } catch {} } }
+function normalizeAdminSeller(s, idx) {
+  const raw = s && typeof s === 'object' ? s : {};
+  const id = raw.id != null && String(raw.id).trim() !== '' ? String(raw.id).trim() : ('s_' + idx + '_' + Date.now());
+  return {
+    id,
+    name: String(raw.name || '').trim(),
+    description: String(raw.description || '').replace(/\r\n/g, ' ').replace(/\r/g, ' '),
+    logo: String(raw.logo || '').trim(),
+    link: String(raw.link || '#').replace(/\\\//g, '/'),
+    verified: raw.verified !== false,
+    pinned: Boolean(raw.pinned),
+    dateAdded: raw.dateAdded || new Date().toISOString().slice(0, 19).replace('T', ' '),
+  };
+}
+async function loadAdminData() { const savedProducts = localStorage.getItem('rt_products_override'); const savedSellers = localStorage.getItem('rt_sellers_override'); if (savedProducts) { try { adminState.products = JSON.parse(savedProducts).map(normalizeAdminProduct); } catch {} } if (!adminState.products.length) { try { const pr = await fetch('products.json', { cache:'no-store' }).then(r => r.json()); adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct) : []; } catch {} } if (savedSellers) { try { adminState.sellers = JSON.parse(savedSellers); } catch {} } if (!adminState.sellers.length) { try { const sr = await fetch('sellers.json', { cache:'no-store' }).then(r => r.json()); adminState.sellers = Array.isArray(sr) ? sr : []; } catch {} } adminState.sellers = adminState.sellers.map((s, i) => normalizeAdminSeller(s, i)); }
 function loadCoupons() { try { adminState.coupons = JSON.parse(localStorage.getItem('rt_coupons') || '[]'); } catch { adminState.coupons = []; } }
 function loadAnnouncements() { try { adminState.announcements = JSON.parse(localStorage.getItem('rt_announcements') || '[]'); } catch { adminState.announcements = []; } }
 async function adminLogin(event) { if (event) event.preventDefault(); const username = ($('loginUsername')?.value || '').trim().toLowerCase(); const password = $('loginPassword')?.value || ''; const errorEl = $('loginError'); if (errorEl) { errorEl.style.display = 'none'; errorEl.textContent = ''; } if (!username || !password) { errorEl.textContent = 'Please enter username and password'; errorEl.style.display = 'block'; return false; } const hashed = await hashPassword(password); const staff = adminState.staff.find(s => s.username === username && s.password === hashed); if (!staff) { errorEl.textContent = 'Invalid username or password'; errorEl.style.display = 'block'; $('loginPassword').value = ''; return false; } adminState.user = staff; adminState.loggedIn = true; localStorage.setItem('rt_admin_session', JSON.stringify({ username: staff.username, role: staff.role })); syncNav(); showDashboard(); toast(`Welcome back, ${staff.username}`); return false; }
@@ -146,7 +161,107 @@ function editProduct(id) { const product = adminState.products.find(p => String(
 function deleteProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; if (!confirm(`Delete ${product.name}?`)) return; adminState.products = adminState.products.filter(p => String(p.id) !== String(id)); saveProducts(); updateKPIs(); renderAdminProductList(); toast('Product deleted'); }
 function renderAdminProductList() { const list = $('adminProductList'); if (!list) return; const q = ($('prodSearch')?.value || '').toLowerCase(); const filtered = adminState.products.filter(p => !q || `${p.name} ${p.seller} ${p.category}`.toLowerCase().includes(q)); const totalPages = Math.max(1, Math.ceil(filtered.length / adminState.productPageSize)); adminState.productPage = Math.min(adminState.productPage, totalPages); const start = (adminState.productPage - 1) * adminState.productPageSize; const items = filtered.slice(start, start + adminState.productPageSize); list.innerHTML = !items.length ? `<div style="padding:18px;color:var(--muted)">No products found.</div>` : items.map(p => `<div class="admin-row"><div class="admin-row-thumb">${p.image ? `<img src="${escapeHtml(p.image)}" style="width:100%;height:100%;object-fit:cover;">` : '📦'}</div><div style="flex:1;min-width:0;"><div style="font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeHtml(p.name)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(p.category)} · ${escapeHtml(p.seller)} · ${escapeHtml(p.dateAdded || '')}</div></div><div style="font-weight:800;color:var(--blue);">¥${Number(p.price || 0).toFixed(2)}</div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editProduct('${escapeHtml(p.id)}')">Edit</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteProduct('${escapeHtml(p.id)}')">Delete</button></div></div>`).join(''); const pager = $('productPager'); if (pager) pager.innerHTML = `<button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage <= 1 ? 'disabled' : ''} onclick="changeProductPage(-1)">← Prev</button><span class="pager-label">Page ${adminState.productPage} of ${totalPages} · ${filtered.length.toLocaleString()} products</span><button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage >= totalPages ? 'disabled' : ''} onclick="changeProductPage(1)">Next →</button>`; }
 function changeProductPage(delta) { adminState.productPage = Math.max(1, adminState.productPage + delta); renderAdminProductList(); }
-function renderSellerList() { const list = $('adminSellerList'); if (!list) return; list.innerHTML = adminState.sellers.slice(0, 12).map(s => `<div class="admin-mini-card"><div style="font-weight:700;">${escapeHtml(s.name || 'Unknown')}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(s.description || 'No description')}</div></div>`).join('') || '<div style="color:var(--muted)">No sellers yet.</div>'; }
+function fillSellerForm(s = null) {
+  adminState.editingSellerId = s?.id || null;
+  const title = $('sellerFormTitle'); const btn = $('sellerSubmitBtn');
+  if (title) title.textContent = s ? 'Edit seller' : 'Add seller';
+  if (btn) btn.textContent = s ? 'Save seller' : 'Add seller';
+  if ($('addSellerName')) $('addSellerName').value = s?.name || '';
+  if ($('addSellerDesc')) $('addSellerDesc').value = s?.description || '';
+  if ($('addSellerLogo')) $('addSellerLogo').value = s?.logo || '';
+  if ($('addSellerLink')) $('addSellerLink').value = !s ? '' : ((s.link && String(s.link).trim() && s.link !== '#') ? s.link : '');
+  if ($('addSellerVerified')) $('addSellerVerified').checked = s ? s.verified !== false : true;
+  if ($('addSellerPriority')) $('addSellerPriority').checked = Boolean(s?.pinned);
+}
+function clearSellerForm() { fillSellerForm(null); }
+function upsertSeller() {
+  const name = ($('addSellerName')?.value || '').trim();
+  if (!name) return toast('Add a seller name');
+  const description = ($('addSellerDesc')?.value || '').trim();
+  const logo = ($('addSellerLogo')?.value || '').trim();
+  const link = ($('addSellerLink')?.value || '').trim() || '#';
+  const verified = Boolean($('addSellerVerified')?.checked);
+  const pinned = Boolean($('addSellerPriority')?.checked);
+  const prev = adminState.editingSellerId ? adminState.sellers.find(x => x.id === adminState.editingSellerId) : null;
+  const record = {
+    id: adminState.editingSellerId || ('s' + Date.now()),
+    name,
+    description,
+    logo,
+    link: link.replace(/\\\//g, '/'),
+    verified,
+    pinned,
+    dateAdded: prev?.dateAdded || new Date().toISOString().slice(0, 19).replace('T', ' '),
+  };
+  if (adminState.editingSellerId) {
+    adminState.sellers = adminState.sellers.map(x => x.id === record.id ? record : x);
+    toast('Seller updated');
+  } else {
+    adminState.sellers.unshift(record);
+    toast('Seller added');
+  }
+  saveSellers();
+  clearSellerForm();
+  updateKPIs();
+  renderSellerList();
+}
+function editSeller(id) {
+  const s = adminState.sellers.find(x => String(x.id) === String(id));
+  if (!s) return;
+  fillSellerForm(s);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+function deleteSeller(id) {
+  const s = adminState.sellers.find(x => String(x.id) === String(id));
+  if (!s) return;
+  if (!confirm(`Remove ${s.name} from the directory?`)) return;
+  adminState.sellers = adminState.sellers.filter(x => String(x.id) !== String(id));
+  if (adminState.editingSellerId === id) clearSellerForm();
+  saveSellers();
+  updateKPIs();
+  renderSellerList();
+  toast('Seller removed');
+}
+function moveSeller(index, delta) {
+  const j = index + delta;
+  if (j < 0 || j >= adminState.sellers.length) return;
+  const arr = adminState.sellers;
+  [arr[index], arr[j]] = [arr[j], arr[index]];
+  saveSellers();
+  renderSellerList();
+}
+function toggleSellerPinned(index) {
+  const s = adminState.sellers[index];
+  if (!s) return;
+  s.pinned = !s.pinned;
+  saveSellers();
+  renderSellerList();
+  toast(s.pinned ? 'Listed first on the site' : 'Normal order');
+}
+function renderSellerList() {
+  const list = $('adminSellerList');
+  if (!list) return;
+  if (!adminState.sellers.length) {
+    list.innerHTML = '<div style="color:var(--muted)">No sellers yet.</div>';
+    return;
+  }
+  list.innerHTML = adminState.sellers.map((s, i) => {
+    const priorityBadge = s.pinned ? '<span style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:999px;background:rgba(100,149,237,.15);color:var(--blue)">First in list</span>' : '';
+    return `<div class="admin-mini-card" style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;">
+      <div style="flex:1;min-width:160px">
+        <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap"><span style="font-weight:700">${escapeHtml(s.name || 'Unknown')}</span>${priorityBadge}</div>
+        <div style="font-size:12px;color:var(--muted);">${escapeHtml(s.description || 'No description')}</div>
+      </div>
+      <div style="display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;">
+        <button class="btn btn-ghost btn-sm" type="button" ${i <= 0 ? 'disabled' : ''} onclick="moveSeller(${i},-1)">↑</button>
+        <button class="btn btn-ghost btn-sm" type="button" ${i >= adminState.sellers.length - 1 ? 'disabled' : ''} onclick="moveSeller(${i},1)">↓</button>
+        <button class="btn btn-ghost btn-sm" type="button" onclick="toggleSellerPinned(${i})">${s.pinned ? 'Normal order' : 'List first'}</button>
+        <button class="btn btn-ghost btn-sm" type="button" onclick="editSeller('${escapeHtml(String(s.id))}')">Edit</button>
+        <button class="btn btn-danger btn-sm" type="button" onclick="deleteSeller('${escapeHtml(String(s.id))}')">Delete</button>
+      </div>
+    </div>`;
+  }).join('');
+}
 function renderStaffList() { const list = $('staffList'); if (!list) return; list.innerHTML = adminState.staff.map(s => `<div class="admin-mini-card" style="display:flex;justify-content:space-between;gap:12px;align-items:center;"><div><div style="font-weight:700;">${escapeHtml(s.username)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(s.role)}</div></div>${roleCanManageStaff() ? `<button class="btn btn-danger btn-sm" type="button" onclick="removeStaff('${escapeHtml(s.id)}')">Remove</button>` : ''}</div>`).join(''); }
 function removeStaff(id) {
   if (!roleCanManageStaff()) return;
@@ -202,7 +317,8 @@ function showBetaInfo() { alert('Beta features:\n\n• Staff edit/delete buttons
 function clearCache() { toast('No remote cache to clear on static hosting'); }
 function resetData() { if (!confirm('Reset local admin, coupons, products, sellers and announcements on this browser?')) return; ['rt_staff','rt_admin_session','rt_coupons','rt_products_override','rt_sellers_override','rt_announcements'].forEach(k => localStorage.removeItem(k)); toast('Local data reset. Reloading...'); setTimeout(() => location.reload(), 700); }
 function bindAdminEvents() { const loginForm = $('loginForm'); const loginBtn = $('loginBtn'); const loginUsername = $('loginUsername'); const loginPassword = $('loginPassword'); loginForm?.addEventListener('submit', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); return false; }); loginBtn?.addEventListener('click', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); }); [loginUsername, loginPassword].forEach((field) => field?.addEventListener('keydown', (event) => { if (event.key === 'Enter') { event.preventDefault(); event.stopPropagation(); adminLogin(event); } })); $('logoutBtn')?.addEventListener('click', adminLogout); $('prodSearch')?.addEventListener('input', () => { adminState.productPage = 1; renderAdminProductList(); }); $('productPageSize')?.addEventListener('change', () => { adminState.productPageSize = parseInt($('productPageSize').value,10) || 25; adminState.productPage = 1; renderAdminProductList(); }); }
-async function initAdmin() { bindAdminEvents(); await loadOrBootstrapStaff(); await loadAdminData(); loadCoupons(); loadAnnouncements(); fillProductForm(null); fillCouponForm(null); fillAnnouncementForm(null); const session = localStorage.getItem('rt_admin_session'); if (session) { try { const data = JSON.parse(session); const staff = adminState.staff.find(s => s.username === String(data.username || '').toLowerCase()); if (staff) { adminState.user = staff; adminState.loggedIn = true; showDashboard(); return; } } catch {} } showLogin(); updateKPIs(); }
+async function initAdmin() { bindAdminEvents(); await loadOrBootstrapStaff(); await loadAdminData(); loadCoupons(); loadAnnouncements(); fillProductForm(null); fillCouponForm(null); fillAnnouncementForm(null); fillSellerForm(null); const session = localStorage.getItem('rt_admin_session'); if (session) { try { const data = JSON.parse(session); const staff = adminState.staff.find(s => s.username === String(data.username || '').toLowerCase()); if (staff) { adminState.user = staff; adminState.loggedIn = true; showDashboard(); return; } } catch {} } showLogin(); updateKPIs(); }
 document.addEventListener('DOMContentLoaded', initAdmin);
 window.adminLogin = adminLogin; window.adminLogout = adminLogout; window.createStaff = createStaff; window.upsertProduct = upsertProduct; window.clearProductForm = clearProductForm; window.editProduct = editProduct; window.deleteProduct = deleteProduct; window.changeProductPage = changeProductPage; window.addCoupon = addCoupon; window.clearCouponForm = clearCouponForm; window.editCoupon = editCoupon; window.deleteCoupon = deleteCoupon; window.toggleCoupon = toggleCoupon; window.addAnnouncement = addAnnouncement; window.clearAnnouncementForm = clearAnnouncementForm; window.editAnnouncement = editAnnouncement; window.deleteAnnouncement = deleteAnnouncement; window.toggleAnnouncement = toggleAnnouncement; window.removeStaff = removeStaff; window.toggleSetting = toggleSetting; window.clearCache = clearCache; window.resetData = resetData; window.showBetaInfo = showBetaInfo;
+window.upsertSeller = upsertSeller; window.clearSellerForm = clearSellerForm; window.editSeller = editSeller; window.deleteSeller = deleteSeller; window.moveSeller = moveSeller; window.toggleSellerPinned = toggleSellerPinned;
 })();
