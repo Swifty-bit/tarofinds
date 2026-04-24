@@ -90,7 +90,7 @@ async function loadOrBootstrapStaff() {
   }
   saveStaff(); // always persist so legacy entries are purged
 }
-function normalizeAdminProduct(p, i) { const raw = String(p.category || p.tag || '').trim().toLowerCase(); return { id: p.id || ('p' + i), name: String(p.name || '').trim(), category: (!raw || raw === 'other') ? inferCategory(p.name || '') : raw, seller: String(p.seller || p.agentName || 'Unknown').trim(), price: parseFloat(p.price || p.sellPrice || 0) || 0, featured: Boolean(p.featured), image: p.image || p.imageUrl || p.photo || '', link: p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#', qc_available: Boolean(p.qc_available || p.qc), qc_images: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []), dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10) }; }
+function normalizeAdminProduct(p, i) { const raw = String(p.category || p.tag || '').trim().toLowerCase(); let priceVal = parseFloat(p.price || p.sellPrice || 0) || 0; // Convert legacy CNY to USD if value looks like CNY (e.g., > 200) if (priceVal > 200) { priceVal = priceVal * (window.RATES?.USD || 0.138); } return { id: p.id || ('p' + i), name: String(p.name || '').trim(), category: (!raw || raw === 'other') ? inferCategory(p.name || '') : raw, seller: String(p.seller || p.agentName || 'Unknown').trim(), price: priceVal, featured: Boolean(p.featured), image: p.image || p.imageUrl || p.photo || '', link: p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#', qc_available: Boolean(p.qc_available || p.qc), qc_images: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []), dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10) }; }
 function normalizeAdminSeller(s, idx) {
   const raw = s && typeof s === 'object' ? s : {};
   const id = raw.id != null && String(raw.id).trim() !== '' ? String(raw.id).trim() : ('s_' + idx + '_' + Date.now());
@@ -107,16 +107,59 @@ function normalizeAdminSeller(s, idx) {
 }
 async function loadAdminData() {
   /* 1. Try API (server-side KV — visible to all users) */
-  const [apiProducts, apiSellers] = await Promise.all([apiGet('products'), apiGet('sellers')]);
+  const [apiProducts, apiSellers, hiddenProducts] = await Promise.all([apiGet('products'), apiGet('sellers'), apiGet('hidden-products')]);
 
-  /* Products: API → fallback to products.json */
+  /* Load hidden products list */
+  adminState.hiddenProducts = Array.isArray(hiddenProducts) ? hiddenProducts : [];
+
+  /* Products: API → fallback to products.json → fallback to products/index.json */
   if (Array.isArray(apiProducts) && apiProducts.length) {
     adminState.products = apiProducts.map(normalizeAdminProduct);
   } else {
     try {
       const pr = await fetch('products.json', { cache: 'no-store' }).then(r => r.json());
       adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct) : [];
-    } catch { adminState.products = []; }
+    } catch {
+      adminState.products = [];
+    }
+  }
+
+  /* Also load folder products from products/index.json */
+  try {
+    const folderRes = await fetch('products/index.json', { cache: 'no-store' });
+    const folderData = await folderRes.json();
+    if (Array.isArray(folderData)) {
+      const folderProducts = folderData.map((p, i) => {
+        const bestPriceMatch = String(p.best_price || '').match(/[\d.]+/);
+        const budgetPriceMatch = String(p.budget_price || '').match(/[\d.]+/);
+        const bestPriceUsd = bestPriceMatch ? parseFloat(bestPriceMatch[0]) || 0 : 0;
+        const budgetPriceUsd = budgetPriceMatch ? parseFloat(budgetPriceMatch[0]) || 0 : 0;
+        const chosenUsd = bestPriceUsd || budgetPriceUsd || 0;
+        return {
+          id: p.id || p.folder || ('folder_' + i),
+          name: (p.name || '').trim().replace(/\n/g, ' '),
+          category: (p.subcategory || p.category || '').toLowerCase().trim() || inferCategory(p.name || ''),
+          seller: p.best_batch || p.budget_batch || 'Multiple batches',
+          price: chosenUsd,
+          featured: p.featured === true || i < 12,
+          image: p.local_image ? `products/${p.folder}/${p.local_image}` : (p.image_url || ''),
+          link: (Array.isArray(p.best_batch_links) && p.best_batch_links[0]?.url) ||
+                (Array.isArray(p.budget_batch_links) && p.budget_batch_links[0]?.url) ||
+                '#',
+          qc_available: false,
+          qc_images: [],
+          dateAdded: new Date().toISOString().slice(0, 10),
+          _folderProduct: true,
+          folder: p.folder || '',
+        };
+      });
+      // Merge: admin products first, deduplicate by id
+      const existingIds = new Set(adminState.products.map(p => String(p.id)));
+      const newFolderProducts = folderProducts.filter(p => !existingIds.has(String(p.id)));
+      adminState.products = [...adminState.products, ...newFolderProducts];
+    }
+  } catch (e) {
+    console.warn('Failed to load folder products:', e);
   }
 
   /* Sellers: API → fallback to sellers.json */
@@ -198,11 +241,10 @@ function upsertProduct() {
   const primaryLink = (bestBatchLinks[0]?.url || budgetBatchLinks[0]?.url || '#');
   const priceMatch = String(bestPrice || budgetPrice || '').match(/[\d.]+/);
   const priceUsd = priceMatch ? parseFloat(priceMatch[0]) : 0;
-  const priceCny = priceUsd ? priceUsd / (window.RATES?.USD || 0.138) : 0;
   const record = {
     id: adminState.editingProductId || ('p' + Date.now()),
     name, category, image,
-    price: priceCny,
+    price: priceUsd,
     bestBatch, bestPrice, bestBatchLinks,
     budgetBatch, budgetPrice, budgetBatchLinks,
     picsLinks, notes, featured,
@@ -220,8 +262,8 @@ function upsertProduct() {
   saveProducts(); updateKPIs(); renderAdminProductList(); clearProductForm();
 }
 function editProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; fillProductForm(product); window.scrollTo({ top:0, behavior:'smooth' }); }
-function deleteProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; if (!confirm(`Delete ${product.name}?`)) return; adminState.products = adminState.products.filter(p => String(p.id) !== String(id)); saveProducts(); updateKPIs(); renderAdminProductList(); toast('Product deleted'); }
-function renderAdminProductList() { const list = $('adminProductList'); if (!list) return; const q = ($('prodSearch')?.value || '').toLowerCase(); const filtered = adminState.products.filter(p => !q || `${p.name} ${p.seller} ${p.category}`.toLowerCase().includes(q)); const totalPages = Math.max(1, Math.ceil(filtered.length / adminState.productPageSize)); adminState.productPage = Math.min(adminState.productPage, totalPages); const start = (adminState.productPage - 1) * adminState.productPageSize; const items = filtered.slice(start, start + adminState.productPageSize); list.innerHTML = !items.length ? `<div style="padding:18px;color:var(--muted)">No products found.</div>` : items.map(p => `<div class="admin-row"><div class="admin-row-thumb">${p.image ? `<img src="${escapeHtml(p.image)}" style="width:100%;height:100%;object-fit:cover;">` : '📦'}</div><div style="flex:1;min-width:0;"><div style="font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeHtml(p.name)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(p.category)} · ${escapeHtml(p.seller)} · ${escapeHtml(p.dateAdded || '')}</div></div><div style="font-weight:800;color:var(--blue);">¥${Number(p.price || 0).toFixed(2)}</div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editProduct('${escapeHtml(p.id)}')">Edit</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteProduct('${escapeHtml(p.id)}')">Delete</button></div></div>`).join(''); const pager = $('productPager'); if (pager) pager.innerHTML = `<button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage <= 1 ? 'disabled' : ''} onclick="changeProductPage(-1)">← Prev</button><span class="pager-label">Page ${adminState.productPage} of ${totalPages} · ${filtered.length.toLocaleString()} products</span><button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage >= totalPages ? 'disabled' : ''} onclick="changeProductPage(1)">Next →</button>`; }
+function deleteProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; if (!confirm(`Delete ${product.name}?`)) return; adminState.products = adminState.products.filter(p => String(p.id) !== String(id)); saveProducts(); // If it's a folder product, add to hidden-products list if (product._folderProduct) { apiPost('hidden-products', (adminState.hiddenProducts || []).concat(String(id))); } updateKPIs(); renderAdminProductList(); toast('Product deleted'); }
+function renderAdminProductList() { const list = $('adminProductList'); if (!list) return; const q = ($('prodSearch')?.value || '').toLowerCase(); const filtered = adminState.products.filter(p => !q || `${p.name} ${p.seller} ${p.category}`.toLowerCase().includes(q)); const totalPages = Math.max(1, Math.ceil(filtered.length / adminState.productPageSize)); adminState.productPage = Math.min(adminState.productPage, totalPages); const start = (adminState.productPage - 1) * adminState.productPageSize; const items = filtered.slice(start, start + adminState.productPageSize); const fmtPrice = (p) => { if (typeof window.fmt === 'function') return window.fmt(p.price || 0); return '$' + Number(p.price || 0).toFixed(2); }; list.innerHTML = !items.length ? `<div style="padding:18px;color:var(--muted)">No products found.</div>` : items.map(p => `<div class="admin-row"><div class="admin-row-thumb">${p.image ? `<img src="${escapeHtml(p.image)}" style="width:100%;height:100%;object-fit:cover;">` : '📦'}</div><div style="flex:1;min-width:0;"><div style="font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeHtml(p.name)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(p.category)} · ${escapeHtml(p.seller)} · ${escapeHtml(p.dateAdded || '')}</div></div><div style="font-weight:800;color:var(--blue);">${fmtPrice(p)}</div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editProduct('${escapeHtml(p.id)}')">Edit</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteProduct('${escapeHtml(p.id)}')">Delete</button></div></div>`).join(''); const pager = $('productPager'); if (pager) pager.innerHTML = `<button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage <= 1 ? 'disabled' : ''} onclick="changeProductPage(-1)">← Prev</button><span class="pager-label">Page ${adminState.productPage} of ${totalPages} · ${filtered.length.toLocaleString()} products</span><button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage >= totalPages ? 'disabled' : ''} onclick="changeProductPage(1)">Next →</button>`; }
 function changeProductPage(delta) { adminState.productPage = Math.max(1, adminState.productPage + delta); renderAdminProductList(); }
 function fillSellerForm(s = null) {
   adminState.editingSellerId = s?.id || null;

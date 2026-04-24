@@ -314,16 +314,24 @@ async function loadData() {
   }
 
   try {
-    const [folderProducts, sr, apiSellers, apiProducts] = await Promise.allSettled([
+    const [folderProducts, sr, apiSellers, apiProducts, hiddenProducts] = await Promise.allSettled([
       loadProductsFromFolder(),
       fetch('sellers.json').then(r => r.json()),
       fetch('/api/sellers', { cache: 'no-store' }).then(r => r.json()),
       fetch('/api/products', { cache: 'no-store' }).then(r => r.json()),
+      fetch('/api/hidden-products', { cache: 'no-store' }).then(r => r.json()),
     ]);
 
     const folderProdsArr = folderProducts.status === 'fulfilled' && Array.isArray(folderProducts.value)
       ? folderProducts.value
       : [];
+
+    // Load hidden products list
+    const hiddenIds = new Set(
+      (hiddenProducts.status === 'fulfilled' && Array.isArray(hiddenProducts.value))
+        ? hiddenProducts.value.map(String)
+        : []
+    );
 
     // Admin-added products from KV — normalize to the same shape as folder products
     const adminProds = (apiProducts.status === 'fulfilled' && Array.isArray(apiProducts.value))
@@ -362,9 +370,10 @@ async function loadData() {
         })
       : [];
 
-    // Merge: admin products first, deduplicate by id
+    // Merge: admin products first, deduplicate by id, and filter out hidden products
     const adminIds = new Set(adminProds.map(p => p.id));
-    PRODUCTS = [...adminProds, ...folderProdsArr.filter(p => !adminIds.has(String(p.id)))];
+    const visibleFolderProds = folderProdsArr.filter(p => !adminIds.has(String(p.id)) && !hiddenIds.has(String(p.id)));
+    PRODUCTS = [...adminProds, ...visibleFolderProds];
 
     // Sellers: prefer KV API (admin-managed) > sellers.json
     const fromApi = apiSellers.status === 'fulfilled' && Array.isArray(apiSellers.value) && apiSellers.value.length

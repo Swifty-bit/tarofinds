@@ -4,7 +4,7 @@
  * All other requests fall through to static assets.
  */
 
-const VALID_RESOURCES = ['sellers', 'products', 'coupons', 'announcements'];
+const VALID_RESOURCES = ['sellers', 'products', 'coupons', 'announcements', 'hidden-products'];
 const DEFAULT_TOKEN = 'rt-taro-admin-2025';
 
 export default {
