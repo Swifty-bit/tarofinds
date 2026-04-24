@@ -20,7 +20,15 @@ const $ = (id) => document.getElementById(id);
 function toast(msg) { const el = $('toast'); if (!el) return alert(msg); el.textContent = msg; el.style.opacity = '1'; el.style.transform = 'translateX(-50%) translateY(0)'; clearTimeout(el._t); el._t = setTimeout(() => { el.style.opacity = '0'; el.style.transform = 'translateX(-50%) translateY(8px)'; }, 2400); }
 function escapeHtml(str = '') { return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
 async function hashPassword(password) { const enc = new TextEncoder().encode(password); const buf = await crypto.subtle.digest('SHA-256', enc); return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join(''); }
-function inferCategory(name = '') { const n = name.toLowerCase(); if (/(shoe|sneaker|air force|jordan|yeezy|dunk|samba|gazelle|loafer|boot|trainer)/.test(n)) return 'shoes'; if (/(jacket|coat|puffer|down|parka|windbreaker|anorak|fleece)/.test(n)) return 'outerwear'; if (/(hoodie|tee|t-shirt|shirt|sweater|crewneck|jersey|polo|top)/.test(n)) return 'tops'; if (/(jean|pant|trouser|cargo|short|bottom)/.test(n)) return 'bottoms'; if (/(bag|belt|wallet|cap|hat|beanie|watch|glove|sock|scarf|glass|sunglass|ring|necklace)/.test(n)) return 'accessories'; return 'other'; }
+function inferCategory(name = '') {
+  const n = name.toLowerCase();
+  if (/(shoe|sneaker|air force|jordan|yeezy|dunk|samba|gazelle|loafer|boot|trainer)/.test(n)) return 'shoes';
+  if (/(jacket|coat|puffer|down|parka|windbreaker|anorak|fleece)/.test(n)) return 'outerwear';
+  if (/(hoodie|tee|t-shirt|shirt|sweater|crewneck|jersey|polo|top)/.test(n)) return 'tops';
+  if (/(jean|pant|trouser|cargo|short|bottom)/.test(n)) return 'bottoms';
+  if (/(bag|belt|wallet|cap|hat|beanie|watch|glove|sock|scarf|glass|sunglass|ring|necklace)/.test(n)) return 'accessories';
+  return 'other';
+}
 /* ── API helpers ── */
 const API_TOKEN = 'rt-taro-admin-2025';
 async function apiPost(resource, data) {
@@ -90,7 +98,27 @@ async function loadOrBootstrapStaff() {
   }
   saveStaff(); // always persist so legacy entries are purged
 }
-function normalizeAdminProduct(p, i) { const raw = String(p.category || p.tag || '').trim().toLowerCase(); let priceVal = parseFloat(p.price || p.sellPrice || 0) || 0; // Convert legacy CNY to USD if value looks like CNY (e.g., > 200) if (priceVal > 200) { priceVal = priceVal * (window.RATES?.USD || 0.138); } return { id: p.id || ('p' + i), name: String(p.name || '').trim(), category: (!raw || raw === 'other') ? inferCategory(p.name || '') : raw, seller: String(p.seller || p.agentName || 'Unknown').trim(), price: priceVal, featured: Boolean(p.featured), image: p.image || p.imageUrl || p.photo || '', link: p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#', qc_available: Boolean(p.qc_available || p.qc), qc_images: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []), dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10) }; }
+function normalizeAdminProduct(p, i) {
+  const raw = String(p.category || p.tag || '').trim().toLowerCase();
+  let priceVal = parseFloat(p.price || p.sellPrice || 0) || 0;
+  // Convert legacy CNY to USD if value looks like CNY (e.g., > 200)
+  if (priceVal > 200) {
+    priceVal = priceVal * (window.RATES?.USD || 0.138);
+  }
+  return {
+    id: p.id || ('p' + i),
+    name: String(p.name || '').trim(),
+    category: (!raw || raw === 'other') ? inferCategory(p.name || '') : raw,
+    seller: String(p.seller || p.agentName || 'Unknown').trim(),
+    price: priceVal,
+    featured: Boolean(p.featured),
+    image: p.image || p.imageUrl || p.photo || '',
+    link: p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#',
+    qc_available: Boolean(p.qc_available || p.qc),
+    qc_images: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []),
+    dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10)
+  };
+}
 function normalizeAdminSeller(s, idx) {
   const raw = s && typeof s === 'object' ? s : {};
   const id = raw.id != null && String(raw.id).trim() !== '' ? String(raw.id).trim() : ('s_' + idx + '_' + Date.now());
@@ -185,13 +213,81 @@ async function loadAnnouncements() {
   /* fallback: old localStorage */
   try { adminState.announcements = JSON.parse(localStorage.getItem('rt_announcements') || '[]'); } catch { adminState.announcements = []; }
 }
-async function adminLogin(event) { if (event) event.preventDefault(); const username = ($('loginUsername')?.value || '').trim().toLowerCase(); const password = $('loginPassword')?.value || ''; const errorEl = $('loginError'); if (errorEl) { errorEl.style.display = 'none'; errorEl.textContent = ''; } if (!username || !password) { errorEl.textContent = 'Please enter username and password'; errorEl.style.display = 'block'; return false; } const hashed = await hashPassword(password); const staff = adminState.staff.find(s => s.username === username && s.password === hashed); if (!staff) { errorEl.textContent = 'Invalid username or password'; errorEl.style.display = 'block'; $('loginPassword').value = ''; return false; } adminState.user = staff; adminState.loggedIn = true; localStorage.setItem('rt_admin_session', JSON.stringify({ username: staff.username, role: staff.role })); syncNav(); showDashboard(); toast(`Welcome back, ${staff.username}`); return false; }
-function adminLogout() { localStorage.removeItem('rt_admin_session'); adminState.loggedIn = false; adminState.user = null; showLogin(); toast('Logged out'); }
-function syncNav() { if ($('adminNavActions')) $('adminNavActions').style.display = adminState.loggedIn ? 'flex' : 'none'; if ($('adminNavLogin')) $('adminNavLogin').style.display = adminState.loggedIn ? 'none' : 'flex'; if ($('navUserName')) $('navUserName').textContent = adminState.user?.username || 'Guest'; if ($('navUserRole')) $('navUserRole').textContent = adminState.user?.role || '—'; }
-function showLogin() { if ($('adminLogin')) $('adminLogin').style.display = 'grid'; if ($('adminDashboard')) $('adminDashboard').style.display = 'none'; syncNav(); }
-function roleCanManageStaff() { return ['owner','dev'].includes(adminState.user?.role); }
-function showDashboard() { if ($('adminLogin')) $('adminLogin').style.display = 'none'; if ($('adminDashboard')) $('adminDashboard').style.display = 'block'; const badge = $('adminRoleBadge'); if (badge) { const role = adminState.user?.role || 'staff'; badge.textContent = role.toUpperCase(); badge.className = 'role-badge role-' + role; } updateKPIs(); renderAdminProductList(); renderSellerList(); renderStaffList(); renderCouponList(); renderAnnouncementList(); loadSettingToggles(); syncNav(); }
-function updateKPIs() { if ($('adminProducts')) $('adminProducts').textContent = adminState.products.length.toLocaleString(); if ($('adminSellers')) $('adminSellers').textContent = adminState.sellers.length.toLocaleString(); if ($('adminStaff')) $('adminStaff').textContent = adminState.staff.length.toLocaleString(); if ($('adminCoupons')) $('adminCoupons').textContent = adminState.coupons.length.toLocaleString(); }
+async function adminLogin(event) {
+  if (event) event.preventDefault();
+  const username = ($('loginUsername')?.value || '').trim().toLowerCase();
+  const password = $('loginPassword')?.value || '';
+  const errorEl = $('loginError');
+  if (errorEl) {
+    errorEl.style.display = 'none';
+    errorEl.textContent = '';
+  }
+  if (!username || !password) {
+    errorEl.textContent = 'Please enter username and password';
+    errorEl.style.display = 'block';
+    return false;
+  }
+  const hashed = await hashPassword(password);
+  const staff = adminState.staff.find(s => s.username === username && s.password === hashed);
+  if (!staff) {
+    errorEl.textContent = 'Invalid username or password';
+    errorEl.style.display = 'block';
+    $('loginPassword').value = '';
+    return false;
+  }
+  adminState.user = staff;
+  adminState.loggedIn = true;
+  localStorage.setItem('rt_admin_session', JSON.stringify({ username: staff.username, role: staff.role }));
+  syncNav();
+  showDashboard();
+  toast(`Welcome back, ${staff.username}`);
+  return false;
+}
+function adminLogout() {
+  localStorage.removeItem('rt_admin_session');
+  adminState.loggedIn = false;
+  adminState.user = null;
+  showLogin();
+  toast('Logged out');
+}
+function syncNav() {
+  if ($('adminNavActions')) $('adminNavActions').style.display = adminState.loggedIn ? 'flex' : 'none';
+  if ($('adminNavLogin')) $('adminNavLogin').style.display = adminState.loggedIn ? 'none' : 'flex';
+  if ($('navUserName')) $('navUserName').textContent = adminState.user?.username || 'Guest';
+  if ($('navUserRole')) $('navUserRole').textContent = adminState.user?.role || '—';
+}
+function showLogin() {
+  if ($('adminLogin')) $('adminLogin').style.display = 'grid';
+  if ($('adminDashboard')) $('adminDashboard').style.display = 'none';
+  syncNav();
+}
+function roleCanManageStaff() {
+  return ['owner','dev'].includes(adminState.user?.role);
+}
+function showDashboard() {
+  if ($('adminLogin')) $('adminLogin').style.display = 'none';
+  if ($('adminDashboard')) $('adminDashboard').style.display = 'block';
+  const badge = $('adminRoleBadge');
+  if (badge) {
+    const role = adminState.user?.role || 'staff';
+    badge.textContent = role.toUpperCase();
+    badge.className = 'role-badge role-' + role;
+  }
+  updateKPIs();
+  renderAdminProductList();
+  renderSellerList();
+  renderStaffList();
+  renderCouponList();
+  renderAnnouncementList();
+  loadSettingToggles();
+  syncNav();
+}
+function updateKPIs() {
+  if ($('adminProducts')) $('adminProducts').textContent = adminState.products.length.toLocaleString();
+  if ($('adminSellers')) $('adminSellers').textContent = adminState.sellers.length.toLocaleString();
+  if ($('adminStaff')) $('adminStaff').textContent = adminState.staff.length.toLocaleString();
+  if ($('adminCoupons')) $('adminCoupons').textContent = adminState.coupons.length.toLocaleString();
+}
 function linksToString(arr) {
   if (!Array.isArray(arr) || !arr.length) return '';
   try { return JSON.stringify(arr); } catch { return ''; }
@@ -262,8 +358,37 @@ function upsertProduct() {
   saveProducts(); updateKPIs(); renderAdminProductList(); clearProductForm();
 }
 function editProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; fillProductForm(product); window.scrollTo({ top:0, behavior:'smooth' }); }
-function deleteProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; if (!confirm(`Delete ${product.name}?`)) return; adminState.products = adminState.products.filter(p => String(p.id) !== String(id)); saveProducts(); // If it's a folder product, add to hidden-products list if (product._folderProduct) { apiPost('hidden-products', (adminState.hiddenProducts || []).concat(String(id))); } updateKPIs(); renderAdminProductList(); toast('Product deleted'); }
-function renderAdminProductList() { const list = $('adminProductList'); if (!list) return; const q = ($('prodSearch')?.value || '').toLowerCase(); const filtered = adminState.products.filter(p => !q || `${p.name} ${p.seller} ${p.category}`.toLowerCase().includes(q)); const totalPages = Math.max(1, Math.ceil(filtered.length / adminState.productPageSize)); adminState.productPage = Math.min(adminState.productPage, totalPages); const start = (adminState.productPage - 1) * adminState.productPageSize; const items = filtered.slice(start, start + adminState.productPageSize); const fmtPrice = (p) => { if (typeof window.fmt === 'function') return window.fmt(p.price || 0); return '$' + Number(p.price || 0).toFixed(2); }; list.innerHTML = !items.length ? `<div style="padding:18px;color:var(--muted)">No products found.</div>` : items.map(p => `<div class="admin-row"><div class="admin-row-thumb">${p.image ? `<img src="${escapeHtml(p.image)}" style="width:100%;height:100%;object-fit:cover;">` : '📦'}</div><div style="flex:1;min-width:0;"><div style="font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeHtml(p.name)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(p.category)} · ${escapeHtml(p.seller)} · ${escapeHtml(p.dateAdded || '')}</div></div><div style="font-weight:800;color:var(--blue);">${fmtPrice(p)}</div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editProduct('${escapeHtml(p.id)}')">Edit</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteProduct('${escapeHtml(p.id)}')">Delete</button></div></div>`).join(''); const pager = $('productPager'); if (pager) pager.innerHTML = `<button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage <= 1 ? 'disabled' : ''} onclick="changeProductPage(-1)">← Prev</button><span class="pager-label">Page ${adminState.productPage} of ${totalPages} · ${filtered.length.toLocaleString()} products</span><button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage >= totalPages ? 'disabled' : ''} onclick="changeProductPage(1)">Next →</button>`; }
+function deleteProduct(id) {
+  const product = adminState.products.find(p => String(p.id) === String(id));
+  if (!product) return;
+  if (!confirm(`Delete ${product.name}?`)) return;
+  adminState.products = adminState.products.filter(p => String(p.id) !== String(id));
+  saveProducts();
+  // If it's a folder product, add to hidden-products list
+  if (product._folderProduct) {
+    apiPost('hidden-products', (adminState.hiddenProducts || []).concat(String(id)));
+  }
+  updateKPIs();
+  renderAdminProductList();
+  toast('Product deleted');
+}
+function renderAdminProductList() {
+  const list = $('adminProductList');
+  if (!list) return;
+  const q = ($('prodSearch')?.value || '').toLowerCase();
+  const filtered = adminState.products.filter(p => !q || `${p.name} ${p.seller} ${p.category}`.toLowerCase().includes(q));
+  const totalPages = Math.max(1, Math.ceil(filtered.length / adminState.productPageSize));
+  adminState.productPage = Math.min(adminState.productPage, totalPages);
+  const start = (adminState.productPage - 1) * adminState.productPageSize;
+  const items = filtered.slice(start, start + adminState.productPageSize);
+  const fmtPrice = (p) => {
+    if (typeof window.fmt === 'function') return window.fmt(p.price || 0);
+    return '$' + Number(p.price || 0).toFixed(2);
+  };
+  list.innerHTML = !items.length ? `<div style="padding:18px;color:var(--muted)">No products found.</div>` : items.map(p => `<div class="admin-row"><div class="admin-row-thumb">${p.image ? `<img src="${escapeHtml(p.image)}" style="width:100%;height:100%;object-fit:cover;">` : '📦'}</div><div style="flex:1;min-width:0;"><div style="font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeHtml(p.name)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(p.category)} · ${escapeHtml(p.seller)} · ${escapeHtml(p.dateAdded || '')}</div></div><div style="font-weight:800;color:var(--blue);">${fmtPrice(p)}</div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editProduct('${escapeHtml(p.id)}')">Edit</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteProduct('${escapeHtml(p.id)}')">Delete</button></div></div>`).join('');
+  const pager = $('productPager');
+  if (pager) pager.innerHTML = `<button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage <= 1 ? 'disabled' : ''} onclick="changeProductPage(-1)">← Prev</button><span class="pager-label">Page ${adminState.productPage} of ${totalPages} · ${filtered.length.toLocaleString()} products</span><button class="btn btn-ghost btn-sm" type="button" ${adminState.productPage >= totalPages ? 'disabled' : ''} onclick="changeProductPage(1)">Next →</button>`;
+}
 function changeProductPage(delta) { adminState.productPage = Math.max(1, adminState.productPage + delta); renderAdminProductList(); }
 function fillSellerForm(s = null) {
   adminState.editingSellerId = s?.id || null;
@@ -366,7 +491,11 @@ function renderSellerList() {
     </div>`;
   }).join('');
 }
-function renderStaffList() { const list = $('staffList'); if (!list) return; list.innerHTML = adminState.staff.map(s => `<div class="admin-mini-card" style="display:flex;justify-content:space-between;gap:12px;align-items:center;"><div><div style="font-weight:700;">${escapeHtml(s.username)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(s.role)}</div></div>${roleCanManageStaff() ? `<button class="btn btn-danger btn-sm" type="button" onclick="removeStaff('${escapeHtml(s.id)}')">Remove</button>` : ''}</div>`).join(''); }
+function renderStaffList() {
+  const list = $('staffList');
+  if (!list) return;
+  list.innerHTML = adminState.staff.map(s => `<div class="admin-mini-card" style="display:flex;justify-content:space-between;gap:12px;align-items:center;"><div><div style="font-weight:700;">${escapeHtml(s.username)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(s.role)}</div></div>${roleCanManageStaff() ? `<button class="btn btn-danger btn-sm" type="button" onclick="removeStaff('${escapeHtml(s.id)}')">Remove</button>` : ''}</div>`).join('');
+}
 function removeStaff(id) {
   if (!roleCanManageStaff()) return;
   const s = adminState.staff.find(x => x.id === id);
@@ -401,27 +530,172 @@ async function createStaff() {
   $('newStaffUsername').value = ''; $('newStaffPassword').value = '';
   toast(`Account created: ${username} (${role})`);
 }
-function fillCouponForm(c = null) { adminState.editingCouponId = c?.id || null; $('couponFormTitle').textContent = c ? 'Edit coupon' : 'Add coupon'; $('couponSubmitBtn').textContent = c ? 'Save coupon' : 'Add coupon'; $('newCouponTitle').value = c?.title || ''; $('newCouponCode').value = c?.code || ''; $('newCouponMessage').value = c?.message || ''; $('newCouponUrl').value = c?.url || ''; $('newCouponButton').value = c?.button || 'Register Now'; $('newCouponPhotoLink').value = c?.photoLink || ''; $('newCouponButtonLink').value = c?.buttonLink || c?.url || ''; $('newCouponButtonName').value = c?.buttonName || c?.button || 'Register Now'; $('newCouponName').value = c?.couponName || c?.title || ''; $('newCouponAgentName').value = c?.agentName || ''; }
+function fillCouponForm(c = null) {
+  adminState.editingCouponId = c?.id || null;
+  $('couponFormTitle').textContent = c ? 'Edit coupon' : 'Add coupon';
+  $('couponSubmitBtn').textContent = c ? 'Save coupon' : 'Add coupon';
+  $('newCouponTitle').value = c?.title || '';
+  $('newCouponCode').value = c?.code || '';
+  $('newCouponMessage').value = c?.message || '';
+  $('newCouponUrl').value = c?.url || '';
+  $('newCouponButton').value = c?.button || 'Register Now';
+  $('newCouponPhotoLink').value = c?.photoLink || '';
+  $('newCouponButtonLink').value = c?.buttonLink || c?.url || '';
+  $('newCouponButtonName').value = c?.buttonName || c?.button || 'Register Now';
+  $('newCouponName').value = c?.couponName || c?.title || '';
+  $('newCouponAgentName').value = c?.agentName || '';
+}
 function clearCouponForm() { fillCouponForm(null); }
-function addCoupon() { const record = { id: adminState.editingCouponId || ('c_' + Date.now()), enabled: true, title:$('newCouponTitle')?.value.trim(), code:($('newCouponCode')?.value || '').trim().toUpperCase(), message:$('newCouponMessage')?.value.trim() || '', url:$('newCouponUrl')?.value.trim() || '#', button:$('newCouponButton')?.value.trim() || 'Register Now', photoLink:$('newCouponPhotoLink')?.value.trim() || '', buttonLink:$('newCouponButtonLink')?.value.trim() || '#', buttonName:$('newCouponButtonName')?.value.trim() || 'Register Now', couponName:$('newCouponName')?.value.trim() || '', agentName:$('newCouponAgentName')?.value.trim() || '' }; if (!record.title || !record.code) return toast('Add a coupon title and code'); if (adminState.editingCouponId) { adminState.coupons = adminState.coupons.map(c => c.id === record.id ? { ...c, ...record } : c); toast('Coupon updated'); } else { adminState.coupons.unshift(record); toast('Coupon added'); } saveCoupons(); clearCouponForm(); renderCouponList(); updateKPIs(); }
+function addCoupon() {
+  const record = {
+    id: adminState.editingCouponId || ('c_' + Date.now()),
+    enabled: true,
+    title: $('newCouponTitle')?.value.trim(),
+    code: ($('newCouponCode')?.value || '').trim().toUpperCase(),
+    message: $('newCouponMessage')?.value.trim() || '',
+    url: $('newCouponUrl')?.value.trim() || '#',
+    button: $('newCouponButton')?.value.trim() || 'Register Now',
+    photoLink: $('newCouponPhotoLink')?.value.trim() || '',
+    buttonLink: $('newCouponButtonLink')?.value.trim() || '#',
+    buttonName: $('newCouponButtonName')?.value.trim() || 'Register Now',
+    couponName: $('newCouponName')?.value.trim() || '',
+    agentName: $('newCouponAgentName')?.value.trim() || ''
+  };
+  if (!record.title || !record.code) return toast('Add a coupon title and code');
+  if (adminState.editingCouponId) {
+    adminState.coupons = adminState.coupons.map(c => c.id === record.id ? { ...c, ...record } : c);
+    toast('Coupon updated');
+  } else {
+    adminState.coupons.unshift(record);
+    toast('Coupon added');
+  }
+  saveCoupons();
+  clearCouponForm();
+  renderCouponList();
+  updateKPIs();
+}
 function editCoupon(id) { const coupon = adminState.coupons.find(c => c.id === id); if (!coupon) return; fillCouponForm(coupon); window.scrollTo({ top: document.body.scrollHeight * 0.35, behavior:'smooth' }); }
 function deleteCoupon(id) { adminState.coupons = adminState.coupons.filter(c => c.id !== id); saveCoupons(); renderCouponList(); updateKPIs(); toast('Coupon deleted'); }
 function toggleCoupon(id) { adminState.coupons = adminState.coupons.map(c => c.id === id ? { ...c, enabled: !c.enabled } : c); saveCoupons(); renderCouponList(); toast('Coupon updated'); }
-function renderCouponList() { const list = $('couponList'); if (!list) return; list.innerHTML = adminState.coupons.map(c => `<div class="admin-mini-card" style="display:flex;align-items:center;justify-content:space-between;gap:12px;"><div><div style="font-weight:700;">${escapeHtml(c.title)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(c.code)} · ${escapeHtml(c.agentName || 'No agent')} · ${c.enabled ? 'Enabled' : 'Disabled'}</div></div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editCoupon('${escapeHtml(c.id)}')">Edit</button><button class="btn btn-ghost btn-sm" type="button" onclick="toggleCoupon('${escapeHtml(c.id)}')">${c.enabled ? 'Disable' : 'Enable'}</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteCoupon('${escapeHtml(c.id)}')">Delete</button></div></div>`).join('') || '<div style="color:var(--muted)">No coupons yet.</div>'; }
-function fillAnnouncementForm(a = null) { adminState.editingAnnouncementId = a?.id || null; $('announcementFormTitle').textContent = a ? 'Edit announcement' : 'Add announcement'; $('announcementSubmitBtn').textContent = a ? 'Save announcement' : 'Add announcement'; $('newAnnouncementTitle').value = a?.title || ''; $('newAnnouncementText').value = a?.text || ''; $('newAnnouncementTag').value = a?.tag || 'update'; $('newAnnouncementIcon').value = a?.icon || '📣'; $('newAnnouncementButtonName').value = a?.buttonName || ''; $('newAnnouncementButtonLink').value = a?.buttonLink || ''; }
+function renderCouponList() {
+  const list = $('couponList');
+  if (!list) return;
+  list.innerHTML = adminState.coupons.map(c => `<div class="admin-mini-card" style="display:flex;align-items:center;justify-content:space-between;gap:12px;"><div><div style="font-weight:700;">${escapeHtml(c.title)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(c.code)} · ${escapeHtml(c.agentName || 'No agent')} · ${c.enabled ? 'Enabled' : 'Disabled'}</div></div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editCoupon('${escapeHtml(c.id)}')">Edit</button><button class="btn btn-ghost btn-sm" type="button" onclick="toggleCoupon('${escapeHtml(c.id)}')">${c.enabled ? 'Disable' : 'Enable'}</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteCoupon('${escapeHtml(c.id)}')">Delete</button></div></div>`).join('') || '<div style="color:var(--muted)">No coupons yet.</div>';
+}
+function fillAnnouncementForm(a = null) {
+  adminState.editingAnnouncementId = a?.id || null;
+  $('announcementFormTitle').textContent = a ? 'Edit announcement' : 'Add announcement';
+  $('announcementSubmitBtn').textContent = a ? 'Save announcement' : 'Add announcement';
+  $('newAnnouncementTitle').value = a?.title || '';
+  $('newAnnouncementText').value = a?.text || '';
+  $('newAnnouncementTag').value = a?.tag || 'update';
+  $('newAnnouncementIcon').value = a?.icon || '📣';
+  $('newAnnouncementButtonName').value = a?.buttonName || '';
+  $('newAnnouncementButtonLink').value = a?.buttonLink || '';
+}
 function clearAnnouncementForm() { fillAnnouncementForm(null); }
-function addAnnouncement() { const now = new Date(); const record = { id: adminState.editingAnnouncementId || ('a_' + Date.now()), enabled:true, title:$('newAnnouncementTitle')?.value.trim(), text:$('newAnnouncementText')?.value.trim(), tag:$('newAnnouncementTag')?.value.trim() || 'update', icon:$('newAnnouncementIcon')?.value.trim() || '📣', buttonName:$('newAnnouncementButtonName')?.value.trim() || '', buttonLink:$('newAnnouncementButtonLink')?.value.trim() || '', time: now.toLocaleDateString('en-GB', {day:'numeric',month:'short',year:'numeric'}), created_at: now.toISOString() }; if (!record.title || !record.text) return toast('Add an announcement title and text'); if (adminState.editingAnnouncementId) { adminState.announcements = adminState.announcements.map(a => a.id === record.id ? { ...a, ...record } : a); toast('Announcement updated'); } else { adminState.announcements.unshift(record); toast('Announcement added'); } saveAnnouncements(); clearAnnouncementForm(); renderAnnouncementList(); }
+function addAnnouncement() {
+  const now = new Date();
+  const record = {
+    id: adminState.editingAnnouncementId || ('a_' + Date.now()),
+    enabled: true,
+    title: $('newAnnouncementTitle')?.value.trim(),
+    text: $('newAnnouncementText')?.value.trim(),
+    tag: $('newAnnouncementTag')?.value.trim() || 'update',
+    icon: $('newAnnouncementIcon')?.value.trim() || '📣',
+    buttonName: $('newAnnouncementButtonName')?.value.trim() || '',
+    buttonLink: $('newAnnouncementButtonLink')?.value.trim() || '',
+    time: now.toLocaleDateString('en-GB', {day:'numeric',month:'short',year:'numeric'}),
+    created_at: now.toISOString()
+  };
+  if (!record.title || !record.text) return toast('Add an announcement title and text');
+  if (adminState.editingAnnouncementId) {
+    adminState.announcements = adminState.announcements.map(a => a.id === record.id ? { ...a, ...record } : a);
+    toast('Announcement updated');
+  } else {
+    adminState.announcements.unshift(record);
+    toast('Announcement added');
+  }
+  saveAnnouncements();
+  clearAnnouncementForm();
+  renderAnnouncementList();
+}
 function editAnnouncement(id) { const item = adminState.announcements.find(a => a.id === id); if (!item) return; fillAnnouncementForm(item); window.scrollTo({ top: document.body.scrollHeight * 0.6, behavior:'smooth' }); }
 function deleteAnnouncement(id) { adminState.announcements = adminState.announcements.filter(a => a.id !== id); saveAnnouncements(); renderAnnouncementList(); toast('Announcement deleted'); }
 function toggleAnnouncement(id) { adminState.announcements = adminState.announcements.map(a => a.id === id ? { ...a, enabled: !a.enabled } : a); saveAnnouncements(); renderAnnouncementList(); toast('Announcement updated'); }
-function renderAnnouncementList() { const list = $('announcementList'); if (!list) return; list.innerHTML = adminState.announcements.map(a => `<div class="admin-mini-card" style="display:flex;align-items:center;justify-content:space-between;gap:12px;"><div><div style="font-weight:700;">${escapeHtml(a.icon || '📣')} ${escapeHtml(a.title)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(a.tag || 'update')} · ${a.enabled ? 'Enabled' : 'Disabled'}${a.buttonLink ? ` · ${escapeHtml(a.buttonLink)}` : ''}</div></div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editAnnouncement('${escapeHtml(a.id)}')">Edit</button><button class="btn btn-ghost btn-sm" type="button" onclick="toggleAnnouncement('${escapeHtml(a.id)}')">${a.enabled ? 'Disable' : 'Enable'}</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteAnnouncement('${escapeHtml(a.id)}')">Delete</button></div></div>`).join('') || '<div style="color:var(--muted)">No announcements yet.</div>'; }
-function toggleSetting(name) { const key = 'rt_setting_' + name; const next = !(localStorage.getItem(key) === '1'); localStorage.setItem(key, next ? '1' : '0'); loadSettingToggles(); toast(name === 'maintenance' ? `Maintenance mode ${next ? 'enabled' : 'disabled'}${adminState.loggedIn ? ' — visitors are blocked, you still see staff preview' : ''}` : 'Setting updated'); }
-function loadSettingToggles() { [['coupon','couponToggle',true],['maintenance','maintenanceToggle',false],['registration','registrationToggle',true],['beta','betaToggle',false]].forEach(([key,id,def]) => { const el = $(id); if (!el) return; const raw = localStorage.getItem('rt_setting_' + key); const on = raw === null ? def : raw === '1'; el.classList.toggle('on', on); }); const info = $('betaInfoText'); if (info) info.textContent = 'Beta features currently include: staff quick actions on product cards, richer coupon popup fields, admin product pagination, and announcement quick links.'; }
-function showBetaInfo() { alert('Beta features:\n\n• Staff edit/delete buttons directly on homepage and catalogue product cards\n• Expanded coupon popup fields: photo link, button link, button name, coupon name, agent name\n• Faster paged product management in admin\n• Announcement quick links with variables like page:guides or category:shoes'); }
-function clearCache() { toast('No remote cache to clear on static hosting'); }
-function resetData() { if (!confirm('Reset local admin, coupons, products, sellers and announcements on this browser?')) return; ['rt_staff','rt_admin_session','rt_coupons','rt_products_override','rt_sellers_override','rt_announcements'].forEach(k => localStorage.removeItem(k)); toast('Local data reset. Reloading...'); setTimeout(() => location.reload(), 700); }
-function bindAdminEvents() { const loginForm = $('loginForm'); const loginBtn = $('loginBtn'); const loginUsername = $('loginUsername'); const loginPassword = $('loginPassword'); loginForm?.addEventListener('submit', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); return false; }); loginBtn?.addEventListener('click', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); }); [loginUsername, loginPassword].forEach((field) => field?.addEventListener('keydown', (event) => { if (event.key === 'Enter') { event.preventDefault(); event.stopPropagation(); adminLogin(event); } })); $('logoutBtn')?.addEventListener('click', adminLogout); $('prodSearch')?.addEventListener('input', () => { adminState.productPage = 1; renderAdminProductList(); }); $('productPageSize')?.addEventListener('change', () => { adminState.productPageSize = parseInt($('productPageSize').value,10) || 25; adminState.productPage = 1; renderAdminProductList(); }); }
-async function initAdmin() { bindAdminEvents(); await loadOrBootstrapStaff(); await loadAdminData(); await loadCoupons(); await loadAnnouncements(); fillProductForm(null); fillCouponForm(null); fillAnnouncementForm(null); fillSellerForm(null); const session = localStorage.getItem('rt_admin_session'); if (session) { try { const data = JSON.parse(session); const staff = adminState.staff.find(s => s.username === String(data.username || '').toLowerCase()); if (staff) { adminState.user = staff; adminState.loggedIn = true; showDashboard(); return; } } catch {} } showLogin(); updateKPIs(); }
+function renderAnnouncementList() {
+  const list = $('announcementList');
+  if (!list) return;
+  list.innerHTML = adminState.announcements.map(a => `<div class="admin-mini-card" style="display:flex;align-items:center;justify-content:space-between;gap:12px;"><div><div style="font-weight:700;">${escapeHtml(a.icon || '📣')} ${escapeHtml(a.title)}</div><div style="font-size:12px;color:var(--muted);">${escapeHtml(a.tag || 'update')} · ${a.enabled ? 'Enabled' : 'Disabled'}${a.buttonLink ? ` · ${escapeHtml(a.buttonLink)}` : ''}</div></div><div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;"><button class="btn btn-ghost btn-sm" type="button" onclick="editAnnouncement('${escapeHtml(a.id)}')">Edit</button><button class="btn btn-ghost btn-sm" type="button" onclick="toggleAnnouncement('${escapeHtml(a.id)}')">${a.enabled ? 'Disable' : 'Enable'}</button><button class="btn btn-danger btn-sm" type="button" onclick="deleteAnnouncement('${escapeHtml(a.id)}')">Delete</button></div></div>`).join('') || '<div style="color:var(--muted)">No announcements yet.</div>';
+}
+function toggleSetting(name) {
+  const key = 'rt_setting_' + name;
+  const next = !(localStorage.getItem(key) === '1');
+  localStorage.setItem(key, next ? '1' : '0');
+  loadSettingToggles();
+  toast(name === 'maintenance' ? `Maintenance mode ${next ? 'enabled' : 'disabled'}${adminState.loggedIn ? ' — visitors are blocked, you still see staff preview' : ''}` : 'Setting updated');
+}
+function loadSettingToggles() {
+  [['coupon','couponToggle',true],['maintenance','maintenanceToggle',false],['registration','registrationToggle',true],['beta','betaToggle',false]].forEach(([key,id,def]) => {
+    const el = $(id);
+    if (!el) return;
+    const raw = localStorage.getItem('rt_setting_' + key);
+    const on = raw === null ? def : raw === '1';
+    el.classList.toggle('on', on);
+  });
+  const info = $('betaInfoText');
+  if (info) info.textContent = 'Beta features currently include: staff quick actions on product cards, richer coupon popup fields, admin product pagination, and announcement quick links.';
+}
+function showBetaInfo() {
+  alert('Beta features:\n\n• Staff edit/delete buttons directly on homepage and catalogue product cards\n• Expanded coupon popup fields: photo link, button link, button name, coupon name, agent name\n• Faster paged product management in admin\n• Announcement quick links with variables like page:guides or category:shoes');
+}
+function clearCache() {
+  toast('No remote cache to clear on static hosting');
+}
+function resetData() {
+  if (!confirm('Reset local admin, coupons, products, sellers and announcements on this browser?')) return;
+  ['rt_staff','rt_admin_session','rt_coupons','rt_products_override','rt_sellers_override','rt_announcements'].forEach(k => localStorage.removeItem(k));
+  toast('Local data reset. Reloading...');
+  setTimeout(() => location.reload(), 700);
+}
+function bindAdminEvents() {
+  const loginForm = $('loginForm');
+  const loginBtn = $('loginBtn');
+  const loginUsername = $('loginUsername');
+  const loginPassword = $('loginPassword');
+  loginForm?.addEventListener('submit', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); return false; });
+  loginBtn?.addEventListener('click', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); });
+  [loginUsername, loginPassword].forEach((field) => field?.addEventListener('keydown', (event) => { if (event.key === 'Enter') { event.preventDefault(); event.stopPropagation(); adminLogin(event); } }));
+  $('logoutBtn')?.addEventListener('click', adminLogout);
+  $('prodSearch')?.addEventListener('input', () => { adminState.productPage = 1; renderAdminProductList(); });
+  $('productPageSize')?.addEventListener('change', () => { adminState.productPageSize = parseInt($('productPageSize').value,10) || 25; adminState.productPage = 1; renderAdminProductList(); });
+}
+async function initAdmin() {
+  bindAdminEvents();
+  await loadOrBootstrapStaff();
+  await loadAdminData();
+  await loadCoupons();
+  await loadAnnouncements();
+  fillProductForm(null);
+  fillCouponForm(null);
+  fillAnnouncementForm(null);
+  fillSellerForm(null);
+  const session = localStorage.getItem('rt_admin_session');
+  if (session) {
+    try {
+      const data = JSON.parse(session);
+      const staff = adminState.staff.find(s => s.username === String(data.username || '').toLowerCase());
+      if (staff) {
+        adminState.user = staff;
+        adminState.loggedIn = true;
+        showDashboard();
+        return;
+      }
+    } catch {}
+  }
+  showLogin();
+  updateKPIs();
+}
 document.addEventListener('DOMContentLoaded', initAdmin);
 window.adminLogin = adminLogin; window.adminLogout = adminLogout; window.createStaff = createStaff; window.upsertProduct = upsertProduct; window.clearProductForm = clearProductForm; window.editProduct = editProduct; window.deleteProduct = deleteProduct; window.changeProductPage = changeProductPage; window.addCoupon = addCoupon; window.clearCouponForm = clearCouponForm; window.editCoupon = editCoupon; window.deleteCoupon = deleteCoupon; window.toggleCoupon = toggleCoupon; window.addAnnouncement = addAnnouncement; window.clearAnnouncementForm = clearAnnouncementForm; window.editAnnouncement = editAnnouncement; window.deleteAnnouncement = deleteAnnouncement; window.toggleAnnouncement = toggleAnnouncement; window.removeStaff = removeStaff; window.toggleSetting = toggleSetting; window.clearCache = clearCache; window.resetData = resetData; window.showBetaInfo = showBetaInfo;
 window.upsertSeller = upsertSeller; window.clearSellerForm = clearSellerForm; window.editSeller = editSeller; window.deleteSeller = deleteSeller; window.moveSeller = moveSeller; window.toggleSellerPinned = toggleSellerPinned;
