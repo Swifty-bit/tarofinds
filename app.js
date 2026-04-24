@@ -314,15 +314,57 @@ async function loadData() {
   }
 
   try {
-    const [folderProducts, sr, apiSellers] = await Promise.allSettled([
+    const [folderProducts, sr, apiSellers, apiProducts] = await Promise.allSettled([
       loadProductsFromFolder(),
       fetch('sellers.json').then(r => r.json()),
       fetch('/api/sellers', { cache: 'no-store' }).then(r => r.json()),
+      fetch('/api/products', { cache: 'no-store' }).then(r => r.json()),
     ]);
 
-    PRODUCTS = folderProducts.status === 'fulfilled' && Array.isArray(folderProducts.value)
+    const folderProdsArr = folderProducts.status === 'fulfilled' && Array.isArray(folderProducts.value)
       ? folderProducts.value
       : [];
+
+    // Admin-added products from KV — normalize to the same shape as folder products
+    const adminProds = (apiProducts.status === 'fulfilled' && Array.isArray(apiProducts.value))
+      ? apiProducts.value.filter(p => p.name).map(p => {
+          const bestLinks  = Array.isArray(p.bestBatchLinks)  ? p.bestBatchLinks  : [];
+          const budgetLinks = Array.isArray(p.budgetBatchLinks) ? p.budgetBatchLinks : [];
+          const primaryUrl = (bestLinks[0]?.url || budgetLinks[0]?.url || p.link || '#');
+          const priceUsd = parseFloat(p.price || p.bestPriceValue || p.budgetPriceValue || 0) || 0;
+          return {
+            id: String(p.id || ('adm_' + Math.random().toString(36).slice(2))),
+            name: p.name,
+            category: (p.category || 'other').toLowerCase(),
+            seller: p.seller || p.bestBatch || p.budgetBatch || '',
+            price: priceUsd,
+            featured: Boolean(p.featured),
+            image: p.image || p.imageUrl || '',
+            link: primaryUrl,
+            qc: Boolean(p.qc_available),
+            qcImages: Array.isArray(p.qc_images) ? p.qc_images : [],
+            bestPrice: p.bestPrice || '',
+            budgetPrice: p.budgetPrice || '',
+            bestPriceValue: priceUsd,
+            budgetPriceValue: parseFloat(p.budgetPrice) || 0,
+            bestBatch: p.bestBatch || '',
+            bestBatchLinks: bestLinks,
+            budgetBatch: p.budgetBatch || '',
+            budgetBatchLinks: budgetLinks,
+            picsText: '',
+            picsLinks: Array.isArray(p.picsLinks) ? p.picsLinks : [],
+            notes: p.notes || '',
+            imageUrl: p.image || '',
+            folder: '',
+            localImage: '',
+            _adminAdded: true,
+          };
+        })
+      : [];
+
+    // Merge: admin products first, deduplicate by id
+    const adminIds = new Set(adminProds.map(p => p.id));
+    PRODUCTS = [...adminProds, ...folderProdsArr.filter(p => !adminIds.has(String(p.id)))];
 
     // Sellers: prefer KV API (admin-managed) > sellers.json
     const fromApi = apiSellers.status === 'fulfilled' && Array.isArray(apiSellers.value) && apiSellers.value.length
