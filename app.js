@@ -314,28 +314,25 @@ async function loadData() {
   }
 
   try {
-    const [folderProducts, sr] = await Promise.allSettled([
+    const [folderProducts, sr, apiSellers] = await Promise.allSettled([
       loadProductsFromFolder(),
       fetch('sellers.json').then(r => r.json()),
+      fetch('/api/sellers', { cache: 'no-store' }).then(r => r.json()),
     ]);
 
     PRODUCTS = folderProducts.status === 'fulfilled' && Array.isArray(folderProducts.value)
       ? folderProducts.value
       : [];
 
-    let fromJson = [];
-    if (sr.status === 'fulfilled' && Array.isArray(sr.value)) {
-      fromJson = sr.value.map(s => normalizeSiteSeller({ ...s, verified: s.verified !== false }));
-    }
-    let stored = null;
-    try {
-      stored = JSON.parse(localStorage.getItem('rt_sellers_override') || 'null');
-    } catch (e) { stored = null; }
-    if (Array.isArray(stored) && stored.length) {
-      SELLERS = stored.map(s => normalizeSiteSeller(s));
-    } else {
-      SELLERS = fromJson;
-    }
+    // Sellers: prefer KV API (admin-managed) > sellers.json
+    const fromApi = apiSellers.status === 'fulfilled' && Array.isArray(apiSellers.value) && apiSellers.value.length
+      ? apiSellers.value
+      : null;
+    const fromJson = sr.status === 'fulfilled' && Array.isArray(sr.value)
+      ? sr.value
+      : [];
+    const rawSellers = fromApi || fromJson;
+    SELLERS = rawSellers.map(s => normalizeSiteSeller({ ...s, verified: s.verified !== false }));
   } catch (e) { console.warn('loadData error:', e); }
   // Expose as globals so admin.js can access them
   window.PRODUCTS = PRODUCTS;
@@ -413,26 +410,36 @@ function openProductModalById(id) {
   if (product) openProductModal(product);
 }
 
-const SELLER_URL_RE = /(taobao\.com|weidian\.com|1688\.com|k[- ]?shop\.|kshop\.com)/i;
-const EXCLUDE_AGENT_URL_RE = /(litbuy\.com|oopbuy\.cc|oopbuy\.com)/i;
+/* ── Agent platforms — used in product modal buttons ── */
+const AGENTS = [
+  { name: 'LitBuy',   emoji: '🛍️', regex: /litbuy\.com/i },
+  { name: 'KakoBuy',  emoji: '🛒', regex: /kakobuy\.com/i },
+  { name: 'MuleBuy',  emoji: '📦', regex: /mulebuy\.com/i },
+  { name: 'OopBuy',   emoji: '🔗', regex: /oopbuy\.(cc|com)/i },
+  { name: 'Sugargoo', emoji: '🍬', regex: /sugargoo\.com/i },
+  { name: 'CNFans',   emoji: '🌐', regex: /cnfans\.com/i },
+  { name: 'JoyaBuy',  emoji: '🎁', regex: /joyabuy\.com/i },
+];
 
-function looksLikeSellerDirectUrl(url) {
-  return typeof url === 'string' && SELLER_URL_RE.test(url) && !EXCLUDE_AGENT_URL_RE.test(url);
+function detectAgent(url) {
+  if (!url) return null;
+  return AGENTS.find(a => a.regex.test(url)) || null;
 }
 
-function pickDirectSellerUrl(allLinks) {
-  // Prefer original_url first (it is usually the raw seller listing link).
+function pickAgentLinks(allLinks) {
+  /* Returns [{agent, url, label}] deduplicated per agent name */
+  const seen = new Set();
+  const out = [];
   for (const l of (allLinks || [])) {
-    const u = l?.original_url;
-    if (looksLikeSellerDirectUrl(u)) return u;
+    const u = l?.url || l?.original_url || '';
+    if (!u) continue;
+    const agent = detectAgent(u);
+    if (agent && !seen.has(agent.name)) {
+      seen.add(agent.name);
+      out.push({ agent, url: u, label: l.label || agent.name });
+    }
   }
-  // Then fall back to url.
-  for (const l of (allLinks || [])) {
-    const u = l?.url;
-    if (looksLikeSellerDirectUrl(u)) return u;
-  }
-  // No raw seller URL found; don't fall back to Oopbuy/LitBuy.
-  return '';
+  return out;
 }
 
 async function loadProductJsonForModal(product) {
@@ -596,26 +603,25 @@ async function openProductModal(product) {
   // Build action buttons after DOM insertion
   const btnsDiv = document.getElementById('productModalBtns');
   if (btnsDiv) {
-    const allLinks = [...(product.bestBatchLinks||[]), ...(product.budgetBatchLinks||[])];
-    const litbuyLink = allLinks.find(l => (l.url||'').includes('litbuy.com'));
-    const litbuyUrl = litbuyLink ? litbuyLink.url : (product.link && product.link.includes('litbuy') ? product.link : '');
-    const directUrl = pickDirectSellerUrl(allLinks);
+    const allLinks = [...(product.bestBatchLinks||[]), ...(product.budgetBatchLinks||[]), ...(product.picsLinks||[])];
+    const agentLinks = pickAgentLinks(allLinks);
 
-    if (litbuyUrl) {
+    if (agentLinks.length) {
+      const primary = agentLinks[0];
       const a = document.createElement('a');
-      a.href = litbuyUrl; a.target = '_blank'; a.rel = 'noopener';
+      a.href = primary.url; a.target = '_blank'; a.rel = 'noopener';
       a.className = 'btn btn-primary'; a.style = 'flex:1;justify-content:center;min-width:120px;';
-      a.textContent = '🛍️ LitBuy';
+      a.textContent = primary.agent.emoji + ' ' + primary.agent.name;
       btnsDiv.appendChild(a);
-    }
-    if (directUrl) {
-      const a = document.createElement('a');
-      a.href = directUrl; a.target = '_blank'; a.rel = 'noopener';
-      a.className = 'btn btn-ghost'; a.style = 'min-width:120px;';
-      a.textContent = '🔗 Direct link';
-      btnsDiv.appendChild(a);
-    }
-    if (!litbuyUrl && !directUrl && product.link && product.link !== '#') {
+      // Additional agent links
+      agentLinks.slice(1).forEach(({ agent, url }) => {
+        const b = document.createElement('a');
+        b.href = url; b.target = '_blank'; b.rel = 'noopener';
+        b.className = 'btn btn-ghost'; b.style = 'min-width:100px;';
+        b.textContent = agent.emoji + ' ' + agent.name;
+        btnsDiv.appendChild(b);
+      });
+    } else if (product.link && product.link !== '#') {
       const a = document.createElement('a');
       a.href = product.link; a.target = '_blank'; a.rel = 'noopener';
       a.className = 'btn btn-primary'; a.style = 'flex:1;justify-content:center;min-width:120px;';
@@ -934,11 +940,12 @@ function updateStats() {
 
 /* ── Platform Popup (separate, shown after coupon or on demand) ── */
 const PLATFORMS = [
-  { id: 'weidian', emoji: '🛍️', label: 'Weidian', desc: 'weidian.com', color: '#4f9fff' },
-  { id: 'taobao', emoji: '🟠', label: 'Taobao', desc: 'taobao.com', color: '#ff6b35' },
-  { id: 'yupoo',  emoji: '📸', label: 'Yupoo',  desc: 'yupoo.com', color: '#a855f7' },
-  { id: 'dssr',   emoji: '🔵', label: 'DSSR',   desc: 'dssuperfake.com', color: '#3b82f6' },
-  { id: 'wechat', emoji: '💬', label: 'WeChat', desc: 'via agent', color: '#22c55e' },
+  { id: 'litbuy',   emoji: '🛍️', label: 'LitBuy',   desc: 'litbuy.com',   color: '#4f9fff' },
+  { id: 'kakobuy',  emoji: '🛒', label: 'KakoBuy',  desc: 'kakobuy.com',  color: '#a855f7' },
+  { id: 'mulebuy',  emoji: '📦', label: 'MuleBuy',  desc: 'mulebuy.com',  color: '#f59e0b' },
+  { id: 'oopbuy',   emoji: '🔗', label: 'OopBuy',   desc: 'oopbuy.com',   color: '#3b82f6' },
+  { id: 'sugargoo', emoji: '🍬', label: 'Sugargoo', desc: 'sugargoo.com', color: '#22c55e' },
+  { id: 'cnfans',   emoji: '🌐', label: 'CNFans',   desc: 'cnfans.com',   color: '#ef4444' },
 ];
 
 function showPlatformPopup(onDone) {
@@ -1338,12 +1345,10 @@ function checkMaintenanceMode() {
 }
 
 /* ── Coupon helpers ── */
+let _activeCouponsCache = null;
 function getActiveCoupons() {
-  const stored = localStorage.getItem('rt_coupons');
-  if (stored) {
-    try { return JSON.parse(stored); } catch(e) {}
-  }
-  // Default single coupon from SITE config
+  if (_activeCouponsCache) return _activeCouponsCache;
+  // Default single coupon from SITE config (shown until API loads)
   return [{
     id: 'c_default',
     enabled: SITE.coupon.enabled,
@@ -1353,6 +1358,14 @@ function getActiveCoupons() {
     url: SITE.coupon.url,
     button: SITE.coupon.button,
   }];
+}
+async function loadCouponsFromApi() {
+  try {
+    const res = await fetch('/api/coupons', { cache: 'no-store' });
+    if (!res.ok) return;
+    const data = await res.json();
+    if (Array.isArray(data) && data.length) _activeCouponsCache = data;
+  } catch(e) { /* silently fall back to default */ }
 }
 
 /* ── Admin guard (hides .admin-only elements for non-admins) ── */
@@ -1406,10 +1419,15 @@ document.addEventListener('DOMContentLoaded', async ()=>{
   await loadData();
   finishProgress();
 
-  // Load admin-created announcements from localStorage
+  // Load admin-managed announcements + coupons from KV API
   try {
-    const stored = JSON.parse(localStorage.getItem('rt_announcements') || '[]');
-    stored.filter(a => a.enabled !== false).forEach(a => ANNOUNCEMENTS.push(a));
+    const [annRes, _] = await Promise.allSettled([
+      fetch('/api/announcements', { cache: 'no-store' }).then(r => r.json()),
+      loadCouponsFromApi(),
+    ]);
+    if (annRes.status === 'fulfilled' && Array.isArray(annRes.value)) {
+      annRes.value.filter(a => a.enabled !== false).forEach(a => ANNOUNCEMENTS.push(a));
+    }
   } catch(e) {}
 
   checkMaintenanceMode();

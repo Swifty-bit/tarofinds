@@ -2,14 +2,22 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "bold-firefly-9fa6",
   "compatibility_date": "2025-09-27",
+  "main": "src/worker.js",
   "observability": {
     "enabled": true
   },
   "assets": {
-    "directory": "."
+    "directory": ".",
+    "binding": "ASSETS"
   },
+  "kv_namespaces": [
+    {
+      "binding": "ADMIN_DATA",
+      "id": "PLACEHOLDER_REPLACE_WITH_REAL_ID"
+    }
+  ],
   "compatibility_flags": [
     "nodejs_compat"
   ]
 }
-// deploy-trigger: 2026-03-18
+// deploy-trigger: 2026-04-24

@@ -21,11 +21,39 @@ function toast(msg) { const el = $('toast'); if (!el) return alert(msg); el.text
 function escapeHtml(str = '') { return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
 async function hashPassword(password) { const enc = new TextEncoder().encode(password); const buf = await crypto.subtle.digest('SHA-256', enc); return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join(''); }
 function inferCategory(name = '') { const n = name.toLowerCase(); if (/(shoe|sneaker|air force|jordan|yeezy|dunk|samba|gazelle|loafer|boot|trainer)/.test(n)) return 'shoes'; if (/(jacket|coat|puffer|down|parka|windbreaker|anorak|fleece)/.test(n)) return 'outerwear'; if (/(hoodie|tee|t-shirt|shirt|sweater|crewneck|jersey|polo|top)/.test(n)) return 'tops'; if (/(jean|pant|trouser|cargo|short|bottom)/.test(n)) return 'bottoms'; if (/(bag|belt|wallet|cap|hat|beanie|watch|glove|sock|scarf|glass|sunglass|ring|necklace)/.test(n)) return 'accessories'; return 'other'; }
+/* ── API helpers ── */
+const API_TOKEN = 'rt-taro-admin-2025';
+async function apiPost(resource, data) {
+  try {
+    const res = await fetch('/api/' + resource, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'X-Admin-Token': API_TOKEN },
+      body: JSON.stringify(data),
+    });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return true;
+  } catch (e) {
+    console.error('API save failed for', resource, e);
+    toast('⚠️ Save failed — check console');
+    return false;
+  }
+}
+async function apiGet(resource) {
+  try {
+    const res = await fetch('/api/' + resource, { cache: 'no-store' });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch (e) {
+    console.warn('API fetch failed for', resource, e);
+    return null;
+  }
+}
+/* Staff still uses localStorage (login credentials, not public content) */
 function saveStaff() { localStorage.setItem('rt_staff', JSON.stringify(adminState.staff)); }
-function saveCoupons() { localStorage.setItem('rt_coupons', JSON.stringify(adminState.coupons)); }
-function saveProducts() { localStorage.setItem('rt_products_override', JSON.stringify(adminState.products)); }
-function saveSellers() { localStorage.setItem('rt_sellers_override', JSON.stringify(adminState.sellers)); }
-function saveAnnouncements() { localStorage.setItem('rt_announcements', JSON.stringify(adminState.announcements)); }
+function saveCoupons() { apiPost('coupons', adminState.coupons); }
+function saveProducts() { apiPost('products', adminState.products); }
+function saveSellers() { apiPost('sellers', adminState.sellers); }
+function saveAnnouncements() { apiPost('announcements', adminState.announcements); }
 function seedDefaultCredentials() {
   return [
     { id:'staff_swifty',  username:'swifty',  password:'Kacperek##2010', role:'dev',   hashed:false, created_at:new Date().toISOString() },
@@ -77,9 +105,43 @@ function normalizeAdminSeller(s, idx) {
     dateAdded: raw.dateAdded || new Date().toISOString().slice(0, 19).replace('T', ' '),
   };
 }
-async function loadAdminData() { const savedProducts = localStorage.getItem('rt_products_override'); const savedSellers = localStorage.getItem('rt_sellers_override'); if (savedProducts) { try { adminState.products = JSON.parse(savedProducts).map(normalizeAdminProduct); } catch {} } if (!adminState.products.length) { try { const pr = await fetch('products.json', { cache:'no-store' }).then(r => r.json()); adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct) : []; } catch {} } if (savedSellers) { try { adminState.sellers = JSON.parse(savedSellers); } catch {} } if (!adminState.sellers.length) { try { const sr = await fetch('sellers.json', { cache:'no-store' }).then(r => r.json()); adminState.sellers = Array.isArray(sr) ? sr : []; } catch {} } adminState.sellers = adminState.sellers.map((s, i) => normalizeAdminSeller(s, i)); }
-function loadCoupons() { try { adminState.coupons = JSON.parse(localStorage.getItem('rt_coupons') || '[]'); } catch { adminState.coupons = []; } }
-function loadAnnouncements() { try { adminState.announcements = JSON.parse(localStorage.getItem('rt_announcements') || '[]'); } catch { adminState.announcements = []; } }
+async function loadAdminData() {
+  /* 1. Try API (server-side KV — visible to all users) */
+  const [apiProducts, apiSellers] = await Promise.all([apiGet('products'), apiGet('sellers')]);
+
+  /* Products: API → fallback to products.json */
+  if (Array.isArray(apiProducts) && apiProducts.length) {
+    adminState.products = apiProducts.map(normalizeAdminProduct);
+  } else {
+    try {
+      const pr = await fetch('products.json', { cache: 'no-store' }).then(r => r.json());
+      adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct) : [];
+    } catch { adminState.products = []; }
+  }
+
+  /* Sellers: API → fallback to sellers.json */
+  if (Array.isArray(apiSellers) && apiSellers.length) {
+    adminState.sellers = apiSellers;
+  } else {
+    try {
+      const sr = await fetch('sellers.json', { cache: 'no-store' }).then(r => r.json());
+      adminState.sellers = Array.isArray(sr) ? sr : [];
+    } catch { adminState.sellers = []; }
+  }
+  adminState.sellers = adminState.sellers.map((s, i) => normalizeAdminSeller(s, i));
+}
+async function loadCoupons() {
+  const api = await apiGet('coupons');
+  if (Array.isArray(api)) { adminState.coupons = api; return; }
+  /* fallback: old localStorage */
+  try { adminState.coupons = JSON.parse(localStorage.getItem('rt_coupons') || '[]'); } catch { adminState.coupons = []; }
+}
+async function loadAnnouncements() {
+  const api = await apiGet('announcements');
+  if (Array.isArray(api)) { adminState.announcements = api; return; }
+  /* fallback: old localStorage */
+  try { adminState.announcements = JSON.parse(localStorage.getItem('rt_announcements') || '[]'); } catch { adminState.announcements = []; }
+}
 async function adminLogin(event) { if (event) event.preventDefault(); const username = ($('loginUsername')?.value || '').trim().toLowerCase(); const password = $('loginPassword')?.value || ''; const errorEl = $('loginError'); if (errorEl) { errorEl.style.display = 'none'; errorEl.textContent = ''; } if (!username || !password) { errorEl.textContent = 'Please enter username and password'; errorEl.style.display = 'block'; return false; } const hashed = await hashPassword(password); const staff = adminState.staff.find(s => s.username === username && s.password === hashed); if (!staff) { errorEl.textContent = 'Invalid username or password'; errorEl.style.display = 'block'; $('loginPassword').value = ''; return false; } adminState.user = staff; adminState.loggedIn = true; localStorage.setItem('rt_admin_session', JSON.stringify({ username: staff.username, role: staff.role })); syncNav(); showDashboard(); toast(`Welcome back, ${staff.username}`); return false; }
 function adminLogout() { localStorage.removeItem('rt_admin_session'); adminState.loggedIn = false; adminState.user = null; showLogin(); toast('Logged out'); }
 function syncNav() { if ($('adminNavActions')) $('adminNavActions').style.display = adminState.loggedIn ? 'flex' : 'none'; if ($('adminNavLogin')) $('adminNavLogin').style.display = adminState.loggedIn ? 'none' : 'flex'; if ($('navUserName')) $('navUserName').textContent = adminState.user?.username || 'Guest'; if ($('navUserRole')) $('navUserRole').textContent = adminState.user?.role || '—'; }
@@ -317,7 +379,7 @@ function showBetaInfo() { alert('Beta features:\n\n• Staff edit/delete buttons
 function clearCache() { toast('No remote cache to clear on static hosting'); }
 function resetData() { if (!confirm('Reset local admin, coupons, products, sellers and announcements on this browser?')) return; ['rt_staff','rt_admin_session','rt_coupons','rt_products_override','rt_sellers_override','rt_announcements'].forEach(k => localStorage.removeItem(k)); toast('Local data reset. Reloading...'); setTimeout(() => location.reload(), 700); }
 function bindAdminEvents() { const loginForm = $('loginForm'); const loginBtn = $('loginBtn'); const loginUsername = $('loginUsername'); const loginPassword = $('loginPassword'); loginForm?.addEventListener('submit', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); return false; }); loginBtn?.addEventListener('click', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); }); [loginUsername, loginPassword].forEach((field) => field?.addEventListener('keydown', (event) => { if (event.key === 'Enter') { event.preventDefault(); event.stopPropagation(); adminLogin(event); } })); $('logoutBtn')?.addEventListener('click', adminLogout); $('prodSearch')?.addEventListener('input', () => { adminState.productPage = 1; renderAdminProductList(); }); $('productPageSize')?.addEventListener('change', () => { adminState.productPageSize = parseInt($('productPageSize').value,10) || 25; adminState.productPage = 1; renderAdminProductList(); }); }
-async function initAdmin() { bindAdminEvents(); await loadOrBootstrapStaff(); await loadAdminData(); loadCoupons(); loadAnnouncements(); fillProductForm(null); fillCouponForm(null); fillAnnouncementForm(null); fillSellerForm(null); const session = localStorage.getItem('rt_admin_session'); if (session) { try { const data = JSON.parse(session); const staff = adminState.staff.find(s => s.username === String(data.username || '').toLowerCase()); if (staff) { adminState.user = staff; adminState.loggedIn = true; showDashboard(); return; } } catch {} } showLogin(); updateKPIs(); }
+async function initAdmin() { bindAdminEvents(); await loadOrBootstrapStaff(); await loadAdminData(); await loadCoupons(); await loadAnnouncements(); fillProductForm(null); fillCouponForm(null); fillAnnouncementForm(null); fillSellerForm(null); const session = localStorage.getItem('rt_admin_session'); if (session) { try { const data = JSON.parse(session); const staff = adminState.staff.find(s => s.username === String(data.username || '').toLowerCase()); if (staff) { adminState.user = staff; adminState.loggedIn = true; showDashboard(); return; } } catch {} } showLogin(); updateKPIs(); }
 document.addEventListener('DOMContentLoaded', initAdmin);
 window.adminLogin = adminLogin; window.adminLogout = adminLogout; window.createStaff = createStaff; window.upsertProduct = upsertProduct; window.clearProductForm = clearProductForm; window.editProduct = editProduct; window.deleteProduct = deleteProduct; window.changeProductPage = changeProductPage; window.addCoupon = addCoupon; window.clearCouponForm = clearCouponForm; window.editCoupon = editCoupon; window.deleteCoupon = deleteCoupon; window.toggleCoupon = toggleCoupon; window.addAnnouncement = addAnnouncement; window.clearAnnouncementForm = clearAnnouncementForm; window.editAnnouncement = editAnnouncement; window.deleteAnnouncement = deleteAnnouncement; window.toggleAnnouncement = toggleAnnouncement; window.removeStaff = removeStaff; window.toggleSetting = toggleSetting; window.clearCache = clearCache; window.resetData = resetData; window.showBetaInfo = showBetaInfo;
 window.upsertSeller = upsertSeller; window.clearSellerForm = clearSellerForm; window.editSeller = editSeller; window.deleteSeller = deleteSeller; window.moveSeller = moveSeller; window.toggleSellerPinned = toggleSellerPinned;
