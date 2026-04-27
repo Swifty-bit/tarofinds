@@ -116,7 +116,16 @@ function normalizeAdminProduct(p, i) {
     link: p.link || p.litbuy || p.litbuy_link || p.agentUrl || '#',
     qc_available: Boolean(p.qc_available || p.qc),
     qc_images: Array.isArray(p.qc_images) ? p.qc_images : (Array.isArray(p.qcImages) ? p.qcImages : []),
-    dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10)
+    dateAdded: p.dateAdded || new Date().toISOString().slice(0, 10),
+    // Preserve extended fields for editing
+    bestBatch: p.bestBatch || p.best_batch || '',
+    bestPrice: p.bestPrice || p.best_price || '',
+    bestBatchLinks: p.bestBatchLinks || p.best_batch_links || [],
+    budgetBatch: p.budgetBatch || p.budget_batch || '',
+    budgetPrice: p.budgetPrice || p.budget_price || '',
+    budgetBatchLinks: p.budgetBatchLinks || p.budget_batch_links || [],
+    picsLinks: p.picsLinks || p.qc_images || [],
+    notes: p.notes || ''
   };
 }
 function normalizeAdminSeller(s, idx) {
@@ -157,6 +166,8 @@ async function loadAdminData() {
     const folderRes = await fetch('products/index.json', { cache: 'no-store' });
     const folderData = await folderRes.json();
     if (Array.isArray(folderData)) {
+      // Create set of hidden product IDs to filter out
+      const hiddenIds = new Set((adminState.hiddenProducts || []).map(String));
       const folderProducts = folderData.map((p, i) => {
         const bestPriceMatch = String(p.best_price || '').match(/[\d.]+/);
         const budgetPriceMatch = String(p.budget_price || '').match(/[\d.]+/);
@@ -179,11 +190,20 @@ async function loadAdminData() {
           dateAdded: new Date().toISOString().slice(0, 10),
           _folderProduct: true,
           folder: p.folder || '',
+          // Preserve extended fields for editing
+          bestBatch: p.best_batch || '',
+          bestPrice: p.best_price || '',
+          bestBatchLinks: p.best_batch_links || [],
+          budgetBatch: p.budget_batch || '',
+          budgetPrice: p.budget_price || '',
+          budgetBatchLinks: p.budget_batch_links || [],
+          picsLinks: p.pics_links || p.qc_links || [],
+          notes: p.notes || ''
         };
       });
-      // Merge: admin products first, deduplicate by id
+      // Merge: admin products first, deduplicate by id, filter hidden
       const existingIds = new Set(adminState.products.map(p => String(p.id)));
-      const newFolderProducts = folderProducts.filter(p => !existingIds.has(String(p.id)));
+      const newFolderProducts = folderProducts.filter(p => !existingIds.has(String(p.id)) && !hiddenIds.has(String(p.id)));
       adminState.products = [...adminState.products, ...newFolderProducts];
     }
   } catch (e) {
@@ -309,6 +329,7 @@ function fillProductForm(p = null) {
   $('addProdName').value = p?.name || '';
   $('addProdCategory').value = p?.category || '';
   $('addProdImage').value = p?.image || p?.imageUrl || '';
+  $('addProdSeller').value = p?.seller || '';
   $('addProdBestBatch').value = p?.bestBatch || p?.best_batch || '';
   $('addProdBestPrice').value = p?.bestPrice || p?.best_price || '';
   $('addProdBestLinks').value = linksToString(p?.bestBatchLinks || p?.best_batch_links || []);
@@ -325,6 +346,7 @@ function upsertProduct() {
   if (!name) return toast('Add a product name');
   const category = ($('addProdCategory')?.value || '').trim().toLowerCase() || inferCategory(name);
   const image = $('addProdImage')?.value.trim() || '';
+  const seller = $('addProdSeller')?.value.trim() || '';
   const bestBatch = $('addProdBestBatch')?.value.trim() || '';
   const bestPrice = $('addProdBestPrice')?.value.trim() || '';
   const bestBatchLinks = parseLinks($('addProdBestLinks')?.value || '');
@@ -339,12 +361,11 @@ function upsertProduct() {
   const priceUsd = priceMatch ? parseFloat(priceMatch[0]) : 0;
   const record = {
     id: adminState.editingProductId || ('p' + Date.now()),
-    name, category, image,
+    name, category, image, seller,
     price: priceUsd,
     bestBatch, bestPrice, bestBatchLinks,
     budgetBatch, budgetPrice, budgetBatchLinks,
     picsLinks, notes, featured,
-    seller: bestBatch || budgetBatch || '',
     link: primaryLink,
     dateAdded: new Date().toISOString().slice(0, 10)
   };
