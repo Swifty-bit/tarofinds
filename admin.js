@@ -80,10 +80,15 @@ async function loadOrBootstrapStaff() {
   // Remove any legacy usernames from old codebase
   parsed = parsed.filter(s => !LEGACY_USERNAMES.includes(String(s.username || '').toLowerCase()));
 
-  // Ensure each default account exists (never remove user-created accounts)
+  // Ensure each default account exists AND has the correct password (allows credential resets)
   for (const def of defaults) {
-    const exists = parsed.find(s => String(s.username||'').toLowerCase() === def.username.toLowerCase());
-    if (!exists) parsed.push({ ...def });
+    const idx = parsed.findIndex(s => String(s.username||'').toLowerCase() === def.username.toLowerCase());
+    if (idx === -1) {
+      parsed.push({ ...def });
+    } else {
+      // Always reset default accounts to the seeded password so credential changes propagate
+      parsed[idx] = { ...parsed[idx], password: def.password, hashed: false, role: def.role };
+    }
   }
 
   adminState.staff = parsed;
@@ -109,7 +114,7 @@ function normalizeAdminProduct(p, i) {
     id: p.id || ('p' + i),
     name: String(p.name || '').trim(),
     category: (!raw || raw === 'other') ? inferCategory(p.name || '') : raw,
-    seller: String(p.seller || p.agentName || 'Unknown').trim(),
+    seller: String(p.seller || p.agentName || '').trim(),
     price: priceVal,
     featured: Boolean(p.featured),
     image: p.image || p.imageUrl || p.photo || '',
@@ -148,14 +153,21 @@ async function loadAdminData() {
 
   /* Load hidden products list */
   adminState.hiddenProducts = Array.isArray(hiddenProducts) ? hiddenProducts : [];
+  // Also merge localStorage hidden products (fallback for when API is unavailable)
+  try {
+    const localHidden = JSON.parse(localStorage.getItem('rt_hidden_products') || '[]');
+    const combined = new Set([...adminState.hiddenProducts.map(String), ...localHidden.map(String)]);
+    adminState.hiddenProducts = [...combined];
+  } catch {}
 
   /* Products: API → fallback to products.json → fallback to products/index.json */
+  const hiddenIdsSet = new Set((adminState.hiddenProducts || []).map(String));
   if (Array.isArray(apiProducts) && apiProducts.length) {
-    adminState.products = apiProducts.map(normalizeAdminProduct);
+    adminState.products = apiProducts.map(normalizeAdminProduct).filter(p => !hiddenIdsSet.has(String(p.id)));
   } else {
     try {
       const pr = await fetch('products.json', { cache: 'no-store' }).then(r => r.json());
-      adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct) : [];
+      adminState.products = Array.isArray(pr) ? pr.map(normalizeAdminProduct).filter(p => !hiddenIdsSet.has(String(p.id))) : [];
     } catch {
       adminState.products = [];
     }
@@ -166,8 +178,7 @@ async function loadAdminData() {
     const folderRes = await fetch('products/index.json', { cache: 'no-store' });
     const folderData = await folderRes.json();
     if (Array.isArray(folderData)) {
-      // Create set of hidden product IDs to filter out
-      const hiddenIds = new Set((adminState.hiddenProducts || []).map(String));
+      // Create set of hidden product IDs to filter out (already computed above)
       const folderProducts = folderData.map((p, i) => {
         const bestPriceMatch = String(p.best_price || '').match(/[\d.]+/);
         const budgetPriceMatch = String(p.budget_price || '').match(/[\d.]+/);
@@ -203,7 +214,7 @@ async function loadAdminData() {
       });
       // Merge: admin products first, deduplicate by id, filter hidden
       const existingIds = new Set(adminState.products.map(p => String(p.id)));
-      const newFolderProducts = folderProducts.filter(p => !existingIds.has(String(p.id)) && !hiddenIds.has(String(p.id)));
+      const newFolderProducts = folderProducts.filter(p => !existingIds.has(String(p.id)) && !hiddenIdsSet.has(String(p.id)));
       adminState.products = [...adminState.products, ...newFolderProducts];
     }
   } catch (e) {
@@ -390,12 +401,16 @@ async function deleteProduct(id) {
   if (!confirm(`Delete ${product.name}?`)) return;
   adminState.products = adminState.products.filter(p => String(p.id) !== String(id));
   const saved = await saveProducts();
-  if (!saved) {
-    toast('⚠️ Failed to save deletion — product may reappear');
-    return;
-  }
-  // If it's a folder product, add to hidden-products list
-  if (product._folderProduct) {
+  // Track deleted product IDs locally as fallback (for products.json-sourced products)
+  try {
+    const localHidden = JSON.parse(localStorage.getItem('rt_hidden_products') || '[]');
+    if (!localHidden.includes(String(id))) {
+      localHidden.push(String(id));
+      localStorage.setItem('rt_hidden_products', JSON.stringify(localHidden));
+    }
+  } catch {}
+  // If it's a folder product or any product, also post to hidden-products API
+  if (product._folderProduct || !saved) {
     await apiPost('hidden-products', (adminState.hiddenProducts || []).concat(String(id)));
   }
   updateKPIs();
@@ -433,7 +448,7 @@ function fillSellerForm(s = null) {
   if ($('addSellerPriority')) $('addSellerPriority').checked = Boolean(s?.pinned);
 }
 function clearSellerForm() { fillSellerForm(null); }
-function upsertSeller() {
+async function upsertSeller() {
   const name = ($('addSellerName')?.value || '').trim();
   if (!name) return toast('Add a seller name');
   const description = ($('addSellerDesc')?.value || '').trim();
@@ -497,9 +512,15 @@ async function toggleSellerPinned(index) {
   renderSellerList();
   toast(s.pinned ? 'Listed first on the site' : 'Normal order');
 }
+function refreshSellerDatalist() {
+  const dl = $('sellerSuggestions');
+  if (!dl) return;
+  dl.innerHTML = adminState.sellers.map(s => `<option value="${escapeHtml(s.name)}"></option>`).join('');
+}
 function renderSellerList() {
   const list = $('adminSellerList');
   if (!list) return;
+  refreshSellerDatalist();
   if (!adminState.sellers.length) {
     list.innerHTML = '<div style="color:var(--muted)">No sellers yet.</div>';
     return;

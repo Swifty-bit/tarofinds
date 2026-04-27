@@ -49,7 +49,7 @@
               <div class="form-group" style="grid-column:1/-1"><label>Name</label><input id="addProdName" class="input-field"></div>
               <div class="form-group"><label>Category</label><input id="addProdCategory" class="input-field" placeholder="shoes, clothes, belts…"></div>
               <div class="form-group"><label>Image URL</label><input id="addProdImage" class="input-field" placeholder="https://…"></div>
-              <div class="form-group" style="grid-column:1/-1"><label>Seller / Agent name</label><input id="addProdSeller" class="input-field" placeholder="e.g., GX, WTG, or agent name"></div>
+              <div class="form-group" style="grid-column:1/-1"><label>Seller / Agent name</label><input id="addProdSeller" class="input-field" placeholder="e.g., GX, WTG, or agent name" list="sellerSuggestions" autocomplete="off"><datalist id="sellerSuggestions"></datalist></div>
               <div class="form-group"><label>Best batch name</label><input id="addProdBestBatch" class="input-field" placeholder="GX/RFA"></div>
               <div class="form-group"><label>Best price (USD)</label><input id="addProdBestPrice" class="input-field" placeholder="35$"></div>
               <div class="form-group" style="grid-column:1/-1"><label>Best batch links (JSON array or comma-separated URLs)</label><textarea id="addProdBestLinks" class="input-field" rows="2" placeholder='[{"label":"GX","url":"https://…"}] or just URLs'></textarea></div>
