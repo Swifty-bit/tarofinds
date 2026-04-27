@@ -58,10 +58,10 @@ async function apiGet(resource) {
 }
 /* Staff still uses localStorage (login credentials, not public content) */
 function saveStaff() { localStorage.setItem('rt_staff', JSON.stringify(adminState.staff)); }
-function saveCoupons() { apiPost('coupons', adminState.coupons); }
-function saveProducts() { apiPost('products', adminState.products); }
-function saveSellers() { apiPost('sellers', adminState.sellers); }
-function saveAnnouncements() { apiPost('announcements', adminState.announcements); }
+async function saveCoupons() { return await apiPost('coupons', adminState.coupons); }
+async function saveProducts() { return await apiPost('products', adminState.products); }
+async function saveSellers() { return await apiPost('sellers', adminState.sellers); }
+async function saveAnnouncements() { return await apiPost('announcements', adminState.announcements); }
 function seedDefaultCredentials() {
   return [
     { id:'staff_swifty',  username:'swifty',  password:'Kacperek##2010', role:'dev',   hashed:false, created_at:new Date().toISOString() },
@@ -341,7 +341,7 @@ function fillProductForm(p = null) {
   $('addProdFeatured').checked = Boolean(p?.featured);
 }
 function clearProductForm() { fillProductForm(null); }
-function upsertProduct() {
+async function upsertProduct() {
   const name = $('addProdName')?.value.trim();
   if (!name) return toast('Add a product name');
   const category = ($('addProdCategory')?.value || '').trim().toLowerCase() || inferCategory(name);
@@ -376,18 +376,27 @@ function upsertProduct() {
     adminState.products.unshift(record);
     toast('Product added');
   }
-  saveProducts(); updateKPIs(); renderAdminProductList(); clearProductForm();
+  const saved = await saveProducts();
+  if (!saved) {
+    toast('⚠️ Failed to save product');
+    return;
+  }
+  updateKPIs(); renderAdminProductList(); clearProductForm();
 }
 function editProduct(id) { const product = adminState.products.find(p => String(p.id) === String(id)); if (!product) return; fillProductForm(product); window.scrollTo({ top:0, behavior:'smooth' }); }
-function deleteProduct(id) {
+async function deleteProduct(id) {
   const product = adminState.products.find(p => String(p.id) === String(id));
   if (!product) return;
   if (!confirm(`Delete ${product.name}?`)) return;
   adminState.products = adminState.products.filter(p => String(p.id) !== String(id));
-  saveProducts();
+  const saved = await saveProducts();
+  if (!saved) {
+    toast('⚠️ Failed to save deletion — product may reappear');
+    return;
+  }
   // If it's a folder product, add to hidden-products list
   if (product._folderProduct) {
-    apiPost('hidden-products', (adminState.hiddenProducts || []).concat(String(id)));
+    await apiPost('hidden-products', (adminState.hiddenProducts || []).concat(String(id)));
   }
   updateKPIs();
   renderAdminProductList();
@@ -450,7 +459,7 @@ function upsertSeller() {
     adminState.sellers.unshift(record);
     toast('Seller added');
   }
-  saveSellers();
+  await saveSellers();
   clearSellerForm();
   updateKPIs();
   renderSellerList();
@@ -461,30 +470,30 @@ function editSeller(id) {
   fillSellerForm(s);
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
-function deleteSeller(id) {
+async function deleteSeller(id) {
   const s = adminState.sellers.find(x => String(x.id) === String(id));
   if (!s) return;
   if (!confirm(`Remove ${s.name} from the directory?`)) return;
   adminState.sellers = adminState.sellers.filter(x => String(x.id) !== String(id));
   if (adminState.editingSellerId === id) clearSellerForm();
-  saveSellers();
+  await saveSellers();
   updateKPIs();
   renderSellerList();
   toast('Seller removed');
 }
-function moveSeller(index, delta) {
+async function moveSeller(index, delta) {
   const j = index + delta;
   if (j < 0 || j >= adminState.sellers.length) return;
   const arr = adminState.sellers;
   [arr[index], arr[j]] = [arr[j], arr[index]];
-  saveSellers();
+  await saveSellers();
   renderSellerList();
 }
-function toggleSellerPinned(index) {
+async function toggleSellerPinned(index) {
   const s = adminState.sellers[index];
   if (!s) return;
   s.pinned = !s.pinned;
-  saveSellers();
+  await saveSellers();
   renderSellerList();
   toast(s.pinned ? 'Listed first on the site' : 'Normal order');
 }
@@ -567,7 +576,7 @@ function fillCouponForm(c = null) {
   $('newCouponAgentName').value = c?.agentName || '';
 }
 function clearCouponForm() { fillCouponForm(null); }
-function addCoupon() {
+async function addCoupon() {
   const record = {
     id: adminState.editingCouponId || ('c_' + Date.now()),
     enabled: true,
@@ -590,14 +599,14 @@ function addCoupon() {
     adminState.coupons.unshift(record);
     toast('Coupon added');
   }
-  saveCoupons();
+  await saveCoupons();
   clearCouponForm();
   renderCouponList();
   updateKPIs();
 }
 function editCoupon(id) { const coupon = adminState.coupons.find(c => c.id === id); if (!coupon) return; fillCouponForm(coupon); window.scrollTo({ top: document.body.scrollHeight * 0.35, behavior:'smooth' }); }
-function deleteCoupon(id) { adminState.coupons = adminState.coupons.filter(c => c.id !== id); saveCoupons(); renderCouponList(); updateKPIs(); toast('Coupon deleted'); }
-function toggleCoupon(id) { adminState.coupons = adminState.coupons.map(c => c.id === id ? { ...c, enabled: !c.enabled } : c); saveCoupons(); renderCouponList(); toast('Coupon updated'); }
+async function deleteCoupon(id) { adminState.coupons = adminState.coupons.filter(c => c.id !== id); await saveCoupons(); renderCouponList(); updateKPIs(); toast('Coupon deleted'); }
+async function toggleCoupon(id) { adminState.coupons = adminState.coupons.map(c => c.id === id ? { ...c, enabled: !c.enabled } : c); await saveCoupons(); renderCouponList(); toast('Coupon updated'); }
 function renderCouponList() {
   const list = $('couponList');
   if (!list) return;
@@ -615,7 +624,7 @@ function fillAnnouncementForm(a = null) {
   $('newAnnouncementButtonLink').value = a?.buttonLink || '';
 }
 function clearAnnouncementForm() { fillAnnouncementForm(null); }
-function addAnnouncement() {
+async function addAnnouncement() {
   const now = new Date();
   const record = {
     id: adminState.editingAnnouncementId || ('a_' + Date.now()),
@@ -637,13 +646,13 @@ function addAnnouncement() {
     adminState.announcements.unshift(record);
     toast('Announcement added');
   }
-  saveAnnouncements();
+  await saveAnnouncements();
   clearAnnouncementForm();
   renderAnnouncementList();
 }
 function editAnnouncement(id) { const item = adminState.announcements.find(a => a.id === id); if (!item) return; fillAnnouncementForm(item); window.scrollTo({ top: document.body.scrollHeight * 0.6, behavior:'smooth' }); }
-function deleteAnnouncement(id) { adminState.announcements = adminState.announcements.filter(a => a.id !== id); saveAnnouncements(); renderAnnouncementList(); toast('Announcement deleted'); }
-function toggleAnnouncement(id) { adminState.announcements = adminState.announcements.map(a => a.id === id ? { ...a, enabled: !a.enabled } : a); saveAnnouncements(); renderAnnouncementList(); toast('Announcement updated'); }
+async function deleteAnnouncement(id) { adminState.announcements = adminState.announcements.filter(a => a.id !== id); await saveAnnouncements(); renderAnnouncementList(); toast('Announcement deleted'); }
+async function toggleAnnouncement(id) { adminState.announcements = adminState.announcements.map(a => a.id === id ? { ...a, enabled: !a.enabled } : a); await saveAnnouncements(); renderAnnouncementList(); toast('Announcement updated'); }
 function renderAnnouncementList() {
   const list = $('announcementList');
   if (!list) return;
