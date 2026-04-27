@@ -693,9 +693,9 @@ function bindAdminEvents() {
   const loginBtn = $('loginBtn');
   const loginUsername = $('loginUsername');
   const loginPassword = $('loginPassword');
-  loginForm?.addEventListener('submit', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); return false; });
-  loginBtn?.addEventListener('click', (event) => { event.preventDefault(); event.stopPropagation(); adminLogin(event); });
-  [loginUsername, loginPassword].forEach((field) => field?.addEventListener('keydown', (event) => { if (event.key === 'Enter') { event.preventDefault(); event.stopPropagation(); adminLogin(event); } }));
+  loginForm?.addEventListener('submit', async (event) => { event.preventDefault(); event.stopPropagation(); await adminLogin(event); return false; });
+  loginBtn?.addEventListener('click', async (event) => { event.preventDefault(); event.stopPropagation(); await adminLogin(event); });
+  [loginUsername, loginPassword].forEach((field) => field?.addEventListener('keydown', async (event) => { if (event.key === 'Enter') { event.preventDefault(); event.stopPropagation(); await adminLogin(event); } }));
   $('logoutBtn')?.addEventListener('click', adminLogout);
   $('prodSearch')?.addEventListener('input', () => { adminState.productPage = 1; renderAdminProductList(); });
   $('productPageSize')?.addEventListener('change', () => { adminState.productPageSize = parseInt($('productPageSize').value,10) || 25; adminState.productPage = 1; renderAdminProductList(); });
